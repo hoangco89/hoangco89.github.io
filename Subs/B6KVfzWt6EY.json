@@ -1,0 +1,884 @@
+[
+  {
+    "start": 0.88,
+    "end": 6.64,
+    "text": "Welcome to our beginner's guide on",
+    "textdich": "Chào mừng đến với hướng dẫn của người mới bắt đầu của chúng tôi về"
+  },
+  {
+    "start": 3.0,
+    "end": 9.2,
+    "text": "driving manual transmission cars in this",
+    "textdich": "Lái xe trên xe truyền tải thủ công trong này"
+  },
+  {
+    "start": 6.64,
+    "end": 11.2,
+    "text": "tutorial we'll cover the essentials of",
+    "textdich": "hướng dẫn chúng tôi sẽ đề cập đến các yếu tố cần thiết của"
+  },
+  {
+    "start": 9.2,
+    "end": 13.679,
+    "text": "manual driving from understanding",
+    "textdich": "lái xe thủ công từ sự hiểu biết"
+  },
+  {
+    "start": 11.2,
+    "end": 17.199,
+    "text": "transmission mechanics to mastering",
+    "textdich": "cơ học truyền dẫn để làm chủ"
+  },
+  {
+    "start": 13.679,
+    "end": 19.92,
+    "text": "clutch control and smooth gear shifting",
+    "textdich": "Kiểm soát ly hợp và chuyển đổi bánh răng trơn tru"
+  },
+  {
+    "start": 17.199,
+    "end": 19.92,
+    "text": "so let's get",
+    "textdich": "Vì vậy, hãy nhận được"
+  },
+  {
+    "start": 22.0,
+    "end": 26.039,
+    "text": "started this could be very challenging",
+    "textdich": "bắt đầu điều này có thể rất khó khăn"
+  },
+  {
+    "start": 24.359,
+    "end": 28.279,
+    "text": "at first but once you practice a few",
+    "textdich": "Lúc đầu nhưng một khi bạn thực hành một vài"
+  },
+  {
+    "start": 26.039,
+    "end": 30.0,
+    "text": "times you will become an expert we will",
+    "textdich": "lần bạn sẽ trở thành một chuyên gia mà chúng tôi sẽ"
+  },
+  {
+    "start": 28.279,
+    "end": 32.0,
+    "text": "show you step by step how every",
+    "textdich": "Chỉ cho bạn từng bước làm thế nào mọi"
+  },
+  {
+    "start": 30.0,
+    "end": 34.2,
+    "text": "everything works so you have a better",
+    "textdich": "Mọi thứ đều hoạt động để bạn có một"
+  },
+  {
+    "start": 32.0,
+    "end": 35.92,
+    "text": "understanding these tips without a doubt",
+    "textdich": "hiểu những lời khuyên này mà không nghi ngờ gì"
+  },
+  {
+    "start": 34.2,
+    "end": 38.079,
+    "text": "will make it easier for you to put in",
+    "textdich": "sẽ giúp bạn dễ dàng đưa vào"
+  },
+  {
+    "start": 35.92,
+    "end": 40.64,
+    "text": "practice at the end of this video our",
+    "textdich": "thực hành vào cuối video này của chúng tôi"
+  },
+  {
+    "start": 38.079,
+    "end": 43.12,
+    "text": "goal is for you to have an overall",
+    "textdich": "Mục tiêu là để bạn có một tổng thể"
+  },
+  {
+    "start": 40.64,
+    "end": 45.6,
+    "text": "understanding and also to feel much more",
+    "textdich": "hiểu và cũng cảm thấy nhiều hơn"
+  },
+  {
+    "start": 43.12,
+    "end": 47.36,
+    "text": "confident thank you once again for",
+    "textdich": "tự tin cảm ơn bạn một lần nữa vì"
+  },
+  {
+    "start": 45.6,
+    "end": 49.879,
+    "text": "coming back to our Channel I hope you",
+    "textdich": "Trở lại kênh của chúng tôi, tôi hy vọng bạn"
+  },
+  {
+    "start": 47.36,
+    "end": 52.399,
+    "text": "learn and enjoy our video driving a",
+    "textdich": "Tìm hiểu và thưởng thức video của chúng tôi lái một"
+  },
+  {
+    "start": 49.879,
+    "end": 54.44,
+    "text": "manual car requires you to have a clear",
+    "textdich": "xe thủ công yêu cầu bạn phải có một"
+  },
+  {
+    "start": 52.399,
+    "end": 55.96,
+    "text": "understanding on how everything works as",
+    "textdich": "Hiểu về cách mọi thứ hoạt động như"
+  },
+  {
+    "start": 54.44,
+    "end": 58.879,
+    "text": "well as a lot more practice than a",
+    "textdich": "cũng như thực hành nhiều hơn một"
+  },
+  {
+    "start": 55.96,
+    "end": 62.359,
+    "text": "regular automatic car to begin with you",
+    "textdich": "Xe tự động thường xuyên bắt đầu với bạn"
+  },
+  {
+    "start": 58.879,
+    "end": 65.08,
+    "text": "have three paddles instead of two on the",
+    "textdich": "có ba mái chèo thay vì hai cái trên"
+  },
+  {
+    "start": 62.359,
+    "end": 67.32,
+    "text": "right you have your normal accelerator",
+    "textdich": "Phải bạn có máy gia tốc bình thường"
+  },
+  {
+    "start": 65.08,
+    "end": 69.799,
+    "text": "the one in the middle is the brake and",
+    "textdich": "Một ở giữa là phanh và"
+  },
+  {
+    "start": 67.32,
+    "end": 71.84,
+    "text": "the one in the left is the clutch to",
+    "textdich": "cái bên trái là bộ ly hợp"
+  },
+  {
+    "start": 69.799,
+    "end": 74.88,
+    "text": "operate this vehicle it's necessary to",
+    "textdich": "vận hành chiếc xe này, nó cần thiết để"
+  },
+  {
+    "start": 71.84,
+    "end": 77.36,
+    "text": "use both feet your right foot will be",
+    "textdich": "Sử dụng cả hai chân chân phải của bạn sẽ là"
+  },
+  {
+    "start": 74.88,
+    "end": 79.52,
+    "text": "taken care of the accelerator and Brake",
+    "textdich": "chăm sóc máy gia tốc và phanh"
+  },
+  {
+    "start": 77.36,
+    "end": 82.88,
+    "text": "just like a normal car and your left",
+    "textdich": "giống như một chiếc xe bình thường và bên trái của bạn"
+  },
+  {
+    "start": 79.52,
+    "end": 85.079,
+    "text": "foot will be to operate the clutch only",
+    "textdich": "chân sẽ chỉ vận hành bộ ly hợp"
+  },
+  {
+    "start": 82.88,
+    "end": 87.079,
+    "text": "to find out how many gears we have and",
+    "textdich": "để tìm hiểu xem chúng ta có bao nhiêu bánh răng và"
+  },
+  {
+    "start": 85.079,
+    "end": 89.479,
+    "text": "where they are located check the shift",
+    "textdich": "nơi chúng được đặt kiểm tra ca làm việc"
+  },
+  {
+    "start": 87.079,
+    "end": 91.92,
+    "text": "pattern in the shifter they're usually",
+    "textdich": "mẫu trong shifter họ thường"
+  },
+  {
+    "start": 89.479,
+    "end": 94.64,
+    "text": "visible on the top some cars have five",
+    "textdich": "Có thể nhìn thấy trên đầu một số xe có năm chiếc"
+  },
+  {
+    "start": 91.92,
+    "end": 97.079,
+    "text": "gears While others have six like the one",
+    "textdich": "bánh răng trong khi những người khác có sáu cái như cái"
+  },
+  {
+    "start": 94.64,
+    "end": 99.759,
+    "text": "we're driving today you also have a gear",
+    "textdich": "Chúng tôi đang lái xe hôm nay bạn cũng có một thiết bị"
+  },
+  {
+    "start": 97.079,
+    "end": 102.119,
+    "text": "for reverse on this case it is located",
+    "textdich": "Để đảo ngược trong trường hợp này, nó được đặt"
+  },
+  {
+    "start": 99.759,
+    "end": 103.68,
+    "text": "on the far bottom right when driving a",
+    "textdich": "ở phía dưới cùng bên phải khi lái xe"
+  },
+  {
+    "start": 102.119,
+    "end": 105.88,
+    "text": "manual vehicle make sure you pay",
+    "textdich": "Xe thủ công đảm bảo bạn trả tiền"
+  },
+  {
+    "start": 103.68,
+    "end": 108.159,
+    "text": "attention to the shift pattern because",
+    "textdich": "chú ý đến mô hình thay đổi bởi vì"
+  },
+  {
+    "start": 105.88,
+    "end": 111.0,
+    "text": "reverse sometimes is found differently",
+    "textdich": "Điều ngược lại đôi khi được tìm thấy khác nhau"
+  },
+  {
+    "start": 108.159,
+    "end": 112.84,
+    "text": "depending on the car get familiar with",
+    "textdich": "Tùy thuộc vào chiếc xe làm quen với"
+  },
+  {
+    "start": 111.0,
+    "end": 115.92,
+    "text": "the shifter and practice how to place",
+    "textdich": "bộ chuyển động và thực hành cách đặt"
+  },
+  {
+    "start": 112.84,
+    "end": 117.439,
+    "text": "the gears first with the car stopped as",
+    "textdich": "các bánh răng đầu tiên với chiếc xe dừng lại khi"
+  },
+  {
+    "start": 115.92,
+    "end": 119.96,
+    "text": "you don't want to be constantly looking",
+    "textdich": "Bạn không muốn liên tục tìm kiếm"
+  },
+  {
+    "start": 117.439,
+    "end": 121.719,
+    "text": "to find the next gear as you are driving",
+    "textdich": "để tìm thiết bị tiếp theo khi bạn đang lái xe"
+  },
+  {
+    "start": 119.96,
+    "end": 123.64,
+    "text": "because this can distract you from doing",
+    "textdich": "bởi vì điều này có thể làm bạn mất tập trung"
+  },
+  {
+    "start": 121.719,
+    "end": 125.28,
+    "text": "other important things such as paying",
+    "textdich": "Những điều quan trọng khác như trả tiền"
+  },
+  {
+    "start": 123.64,
+    "end": 128.28,
+    "text": "attention to the",
+    "textdich": "chú ý đến"
+  },
+  {
+    "start": 125.28,
+    "end": 131.36,
+    "text": "road when you first enter the vehicle it",
+    "textdich": "đường khi bạn lần đầu tiên vào xe"
+  },
+  {
+    "start": 128.28,
+    "end": 134.04,
+    "text": "should already be in first gear with a",
+    "textdich": "nên ở trong thiết bị đầu tiên với một"
+  },
+  {
+    "start": 131.36,
+    "end": 136.4,
+    "text": "parking brake on keep in mind that some",
+    "textdich": "phanh đỗ xe trên hãy nhớ rằng một số"
+  },
+  {
+    "start": 134.04,
+    "end": 138.599,
+    "text": "people just like to leave the car in",
+    "textdich": "Mọi người chỉ thích rời khỏi xe"
+  },
+  {
+    "start": 136.4,
+    "end": 141.04,
+    "text": "neutral instead of leaving it in first",
+    "textdich": "trung lập thay vì để nó trong đầu tiên"
+  },
+  {
+    "start": 138.599,
+    "end": 143.239,
+    "text": "gear to start the car put your right",
+    "textdich": "thiết bị để khởi động xe đặt bên phải của bạn"
+  },
+  {
+    "start": 141.04,
+    "end": 147.04,
+    "text": "foot on the brake and press the clutch",
+    "textdich": "chân trên phanh và nhấn ly hợp"
+  },
+  {
+    "start": 143.239,
+    "end": 149.08,
+    "text": "all the way in with your left foot then",
+    "textdich": "Sau đó, tất cả các cách với bàn chân trái của bạn sau đó"
+  },
+  {
+    "start": 147.04,
+    "end": 151.319,
+    "text": "put the car in Neal which means the",
+    "textdich": "Đặt chiếc xe vào Neal có nghĩa là"
+  },
+  {
+    "start": 149.08,
+    "end": 154.72,
+    "text": "stick shift should be in the middle and",
+    "textdich": "Bỏ thay đổi nên ở giữa và"
+  },
+  {
+    "start": 151.319,
+    "end": 156.8,
+    "text": "then start the car once the car starts",
+    "textdich": "Sau đó, khởi động xe khi xe khởi động"
+  },
+  {
+    "start": 154.72,
+    "end": 159.48,
+    "text": "you can release the clutch pedal since",
+    "textdich": "Bạn có thể phát hành bàn đạp ly hợp kể từ khi"
+  },
+  {
+    "start": 156.8,
+    "end": 162.519,
+    "text": "the car is neutral and your right foot",
+    "textdich": "chiếc xe là trung tính và chân phải của bạn"
+  },
+  {
+    "start": 159.48,
+    "end": 165.2,
+    "text": "needs to remain on the brake next upep",
+    "textdich": "cần phải ở trên phanh tiếp theo"
+  },
+  {
+    "start": 162.519,
+    "end": 167.84,
+    "text": "is to release the parking brake and now",
+    "textdich": "là để giải phóng phanh đỗ xe và bây giờ"
+  },
+  {
+    "start": 165.2,
+    "end": 170.36,
+    "text": "it's time to drive to put the car in",
+    "textdich": "Đã đến lúc lái xe vào"
+  },
+  {
+    "start": 167.84,
+    "end": 173.28,
+    "text": "first gear press the clutch all the way",
+    "textdich": "thiết bị đầu tiên nhấn vào ly hợp tất cả các cách"
+  },
+  {
+    "start": 170.36,
+    "end": 175.44,
+    "text": "in then put the shifter in first gear",
+    "textdich": "Sau đó đặt bộ chuyển động vào bánh răng đầu tiên"
+  },
+  {
+    "start": 173.28,
+    "end": 178.159,
+    "text": "and to start rolling you have to release",
+    "textdich": "Và để bắt đầu lăn bạn phải phát hành"
+  },
+  {
+    "start": 175.44,
+    "end": 180.36,
+    "text": "the clutch slowly while and pressing the",
+    "textdich": "ly hợp từ từ trong khi và nhấn"
+  },
+  {
+    "start": 178.159,
+    "end": 182.64,
+    "text": "accelerator slowly at the same",
+    "textdich": "Máy gia tốc từ từ cùng một"
+  },
+  {
+    "start": 180.36,
+    "end": 186.36,
+    "text": "time once you notice the car starts",
+    "textdich": "Thời gian một khi bạn nhận thấy chiếc xe bắt đầu"
+  },
+  {
+    "start": 182.64,
+    "end": 186.36,
+    "text": "moving you can release the clutch",
+    "textdich": "Di chuyển bạn có thể giải phóng bộ ly hợp"
+  },
+  {
+    "start": 186.959,
+    "end": 192.56,
+    "text": "completely to get into second gear let",
+    "textdich": "hoàn toàn để vào thiết bị thứ hai, hãy để"
+  },
+  {
+    "start": 189.92,
+    "end": 194.56,
+    "text": "your right foot off the gas press the",
+    "textdich": "bàn chân phải của bạn khỏi khí nhấn"
+  },
+  {
+    "start": 192.56,
+    "end": 197.44,
+    "text": "clutch all the way in and move the",
+    "textdich": "ly hợp tất cả các cách và di chuyển"
+  },
+  {
+    "start": 194.56,
+    "end": 199.599,
+    "text": "shifter into second gear and then ease",
+    "textdich": "chuyển sang thiết bị thứ hai và sau đó dễ dàng"
+  },
+  {
+    "start": 197.44,
+    "end": 202.0,
+    "text": "off the clutch and give a little bit of",
+    "textdich": "tắt ly hợp và cho một chút"
+  },
+  {
+    "start": 199.599,
+    "end": 204.0,
+    "text": "gas at the same time to make the",
+    "textdich": "khí đồng thời làm"
+  },
+  {
+    "start": 202.0,
+    "end": 206.599,
+    "text": "transition go",
+    "textdich": "Chuyển tiếp đi"
+  },
+  {
+    "start": 204.0,
+    "end": 209.12,
+    "text": "smoothly to continue shifting upwards",
+    "textdich": "trơn tru để tiếp tục thay đổi lên trên"
+  },
+  {
+    "start": 206.599,
+    "end": 211.4,
+    "text": "it's basically the same process let your",
+    "textdich": "Về cơ bản, đó là cùng một quá trình để bạn"
+  },
+  {
+    "start": 209.12,
+    "end": 214.239,
+    "text": "right foot off the gas press the clutch",
+    "textdich": "chân phải ra khỏi khí nhấn bộ ly hợp"
+  },
+  {
+    "start": 211.4,
+    "end": 216.439,
+    "text": "and move the shifter into the next gear",
+    "textdich": "và di chuyển bộ chuyển động vào thiết bị tiếp theo"
+  },
+  {
+    "start": 214.239,
+    "end": 219.2,
+    "text": "once this is done start releasing the",
+    "textdich": "Một khi điều này được thực hiện, bắt đầu phát hành"
+  },
+  {
+    "start": 216.439,
+    "end": 222.2,
+    "text": "clutch slowly while pressing the gas and",
+    "textdich": "ly hợp chậm trong khi nhấn khí và"
+  },
+  {
+    "start": 219.2,
+    "end": 224.72,
+    "text": "this will give you a nice shifting",
+    "textdich": "Điều này sẽ cung cấp cho bạn một sự thay đổi tốt đẹp"
+  },
+  {
+    "start": 222.2,
+    "end": 227.36,
+    "text": "transition now when it's time to stop at",
+    "textdich": "chuyển tiếp ngay bây giờ khi đến lúc dừng lại"
+  },
+  {
+    "start": 224.72,
+    "end": 230.04,
+    "text": "a red light or stop sign place your",
+    "textdich": "Đèn đỏ hoặc Dấu hiệu dừng đặt của bạn"
+  },
+  {
+    "start": 227.36,
+    "end": 232.28,
+    "text": "right foot on the brake hit the clutch",
+    "textdich": "chân phải trên phanh đánh vào ly hợp"
+  },
+  {
+    "start": 230.04,
+    "end": 234.879,
+    "text": "all the way with your left foot and",
+    "textdich": "tất cả các cách với bàn chân trái của bạn và"
+  },
+  {
+    "start": 232.28,
+    "end": 236.92,
+    "text": "place the shifter in Neal until the car",
+    "textdich": "Đặt shifter ở Neal cho đến khi xe"
+  },
+  {
+    "start": 234.879,
+    "end": 239.84,
+    "text": "comes into a complete",
+    "textdich": "hoàn thành"
+  },
+  {
+    "start": 236.92,
+    "end": 241.68,
+    "text": "stop now there are two ways of parking",
+    "textdich": "Dừng bây giờ có hai cách đỗ xe"
+  },
+  {
+    "start": 239.84,
+    "end": 244.12,
+    "text": "the car some people like to leave the",
+    "textdich": "chiếc xe mà một số người thích rời khỏi"
+  },
+  {
+    "start": 241.68,
+    "end": 246.519,
+    "text": "car in first gear While others just like",
+    "textdich": "xe trong thiết bị đầu tiên trong khi những người khác chỉ thích"
+  },
+  {
+    "start": 244.12,
+    "end": 249.599,
+    "text": "to leave it in Neal let me show you how",
+    "textdich": "Để nó ở Neal, hãy để tôi chỉ cho bạn cách"
+  },
+  {
+    "start": 246.519,
+    "end": 251.519,
+    "text": "to do this first we have to come to a",
+    "textdich": "Để làm điều này trước tiên, chúng ta phải đến"
+  },
+  {
+    "start": 249.599,
+    "end": 254.76,
+    "text": "full stop by hitting the brake and",
+    "textdich": "dừng hoàn toàn bằng cách đánh phanh và"
+  },
+  {
+    "start": 251.519,
+    "end": 257.32,
+    "text": "clutch all the way in put the car in",
+    "textdich": "ly hợp tất cả các cách để đặt chiếc xe vào"
+  },
+  {
+    "start": 254.76,
+    "end": 259.799,
+    "text": "first gear then shut off the car and",
+    "textdich": "Thiết bị đầu tiên sau đó tắt xe và"
+  },
+  {
+    "start": 257.32,
+    "end": 262.479,
+    "text": "take your left foot off the clutch and",
+    "textdich": "Bỏ chân trái ra khỏi ly hợp và"
+  },
+  {
+    "start": 259.799,
+    "end": 265.12,
+    "text": "make sure that you engage the parking",
+    "textdich": "Hãy chắc chắn rằng bạn tham gia vào bãi đậu xe"
+  },
+  {
+    "start": 262.479,
+    "end": 267.68,
+    "text": "brake if you want to leave in Neal is",
+    "textdich": "phanh nếu bạn muốn rời đi ở Neal là"
+  },
+  {
+    "start": 265.12,
+    "end": 270.12,
+    "text": "basically the same process come to a",
+    "textdich": "về cơ bản cùng một quá trình đến"
+  },
+  {
+    "start": 267.68,
+    "end": 274.52,
+    "text": "complete stop pressing the brake and",
+    "textdich": "hoàn toàn ngừng nhấn phanh và"
+  },
+  {
+    "start": 270.12,
+    "end": 276.44,
+    "text": "clutch fully in place the shifter in nro",
+    "textdich": "ly hợp hoàn toàn tại chỗ bộ chuyển động trong nro"
+  },
+  {
+    "start": 274.52,
+    "end": 278.199,
+    "text": "then shut off the car and take your left",
+    "textdich": "Sau đó tắt xe và lấy bên trái của bạn"
+  },
+  {
+    "start": 276.44,
+    "end": 280.14,
+    "text": "foot off the clutch and make sure that",
+    "textdich": "Tắt bộ ly hợp và đảm bảo rằng"
+  },
+  {
+    "start": 278.199,
+    "end": 295.459,
+    "text": "you engage the parking",
+    "textdich": "Bạn tham gia bãi đậu xe"
+  },
+  {
+    "start": 280.14,
+    "end": 295.459,
+    "text": "[Music]",
+    "textdich": "[Âm nhạc]"
+  },
+  {
+    "start": 298.639,
+    "end": 301.639,
+    "text": "brake",
+    "textdich": "phanh"
+  },
+  {
+    "start": 305.1,
+    "end": 314.899,
+    "text": "[Music]",
+    "textdich": "[Âm nhạc]"
+  },
+  {
+    "start": 317.0,
+    "end": 331.639,
+    "text": "[Music]",
+    "textdich": "[Âm nhạc]"
+  },
+  {
+    "start": 328.639,
+    "end": 331.639,
+    "text": "a",
+    "textdich": "Một"
+  },
+  {
+    "start": 332.65,
+    "end": 335.99,
+    "text": "[Music]",
+    "textdich": "[Âm nhạc]"
+  },
+  {
+    "start": 336.319,
+    "end": 341.8,
+    "text": "so you have reached the end of our",
+    "textdich": "Vì vậy, bạn đã đạt đến cuối của"
+  },
+  {
+    "start": 338.4,
+    "end": 343.72,
+    "text": "beginner's guide to driving stick shift",
+    "textdich": "Hướng dẫn của người mới bắt đầu để lái xe trượt"
+  },
+  {
+    "start": 341.8,
+    "end": 345.68,
+    "text": "by grasping the core principles of",
+    "textdich": "bằng cách nắm bắt các nguyên tắc cốt lõi của"
+  },
+  {
+    "start": 343.72,
+    "end": 348.199,
+    "text": "manual transmission driving from",
+    "textdich": "lái xe thủ công lái xe từ"
+  },
+  {
+    "start": 345.68,
+    "end": 350.639,
+    "text": "mastering clutch control two shifting",
+    "textdich": "Làm chủ điều khiển ly hợp hai lần thay đổi"
+  },
+  {
+    "start": 348.199,
+    "end": 354.0,
+    "text": "gears you've laid a solid foundation for",
+    "textdich": "bánh răng bạn đã đặt một nền tảng vững chắc cho"
+  },
+  {
+    "start": 350.639,
+    "end": 356.199,
+    "text": "your journey as a manual driver remember",
+    "textdich": "Hành trình của bạn như một trình điều khiển thủ công nhớ"
+  },
+  {
+    "start": 354.0,
+    "end": 358.759,
+    "text": "practice and Patience are key as you",
+    "textdich": "Thực hành và kiên nhẫn là chìa khóa như bạn"
+  },
+  {
+    "start": 356.199,
+    "end": 361.08,
+    "text": "continue to refine your skills on the",
+    "textdich": "Tiếp tục tinh chỉnh các kỹ năng của bạn trên"
+  },
+  {
+    "start": 358.759,
+    "end": 363.6,
+    "text": "road with each mild driven you'll gain",
+    "textdich": "đường với mỗi chiếc được điều khiển nhẹ, bạn sẽ đạt được"
+  },
+  {
+    "start": 361.08,
+    "end": 367.12,
+    "text": "more confidence and you will Master",
+    "textdich": "tự tin hơn và bạn sẽ thành thạo"
+  },
+  {
+    "start": 363.6,
+    "end": 369.0,
+    "text": "behind the wheel your manual car so",
+    "textdich": "sau tay lái chiếc xe thủ công của bạn"
+  },
+  {
+    "start": 367.12,
+    "end": 371.08,
+    "text": "Embrace The Experience enjoy the ride",
+    "textdich": "Nắm bắt trải nghiệm tận hưởng chuyến đi"
+  },
+  {
+    "start": 369.0,
+    "end": 373.319,
+    "text": "and always prioritize safety thank you",
+    "textdich": "và luôn ưu tiên an toàn, cảm ơn bạn"
+  },
+  {
+    "start": 371.08,
+    "end": 376.0,
+    "text": "so much for joining me on this Learning",
+    "textdich": "Quá nhiều để tham gia cùng tôi về việc học này"
+  },
+  {
+    "start": 373.319,
+    "end": 377.919,
+    "text": "Adventure and may your manual driving",
+    "textdich": "Phiêu lưu và có thể lái xe hướng dẫn của bạn"
+  },
+  {
+    "start": 376.0,
+    "end": 380.36,
+    "text": "Adventures be filled with excitement and",
+    "textdich": "Những cuộc phiêu lưu tràn ngập sự phấn khích và"
+  },
+  {
+    "start": 377.919,
+    "end": 381.99,
+    "text": "satisfaction happy driving and I see you",
+    "textdich": "sự hài lòng khi lái xe hạnh phúc và tôi gặp bạn"
+  },
+  {
+    "start": 380.36,
+    "end": 388.56,
+    "text": "on the next",
+    "textdich": "trên tiếp theo"
+  },
+  {
+    "start": 381.99,
+    "end": 391.56,
+    "text": "[Music]",
+    "textdich": "[Âm nhạc]"
+  },
+  {
+    "start": 388.56,
+    "end": 391.56,
+    "text": "one",
+    "textdich": "một"
+  },
+  {
+    "start": 393.57,
+    "end": 420.35,
+    "text": "[Music]",
+    "textdich": "[Âm nhạc]"
+  },
+  {
+    "start": 418.52,
+    "end": 432.839,
+    "text": "n",
+    "textdich": "N"
+  },
+  {
+    "start": 420.35,
+    "end": 432.839,
+    "text": "[Music]",
+    "textdich": "[Âm nhạc]"
+  },
+  {
+    "start": 436.89,
+    "end": 449.55,
+    "text": "[Music]",
+    "textdich": "[Âm nhạc]"
+  },
+  {
+    "start": 448.52,
+    "end": 465.66,
+    "text": "oh",
+    "textdich": "Ồ"
+  },
+  {
+    "start": 449.55,
+    "end": 465.66,
+    "text": "[Music]",
+    "textdich": "[Âm nhạc]"
+  },
+  {
+    "start": 467.88,
+    "end": 481.44,
+    "text": "[Music]",
+    "textdich": "[Âm nhạc]"
+  },
+  {
+    "start": 478.44,
+    "end": 481.44,
+    "text": "go",
+    "textdich": "đi"
+  }
+]
