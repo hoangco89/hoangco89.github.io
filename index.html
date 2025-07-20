@@ -277,52 +277,6 @@ let currentIndex = 0;
 let langSpeak = "vi-VN";
 let langDich = "vi";
 
-function dichPhude(){
-  langDich = langsdich[chonLangDichPd.value].ldich;
-  let langSpeak = langsdich[chonLangDichPd.value].lspeak;
-  let sourceLanguage = 'en';
-  let targetLanguage = langDich;
-  Array.prototype.forEach.call(subtitles, function(dic, i){
-    let inputText = dic.text;
-    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sourceLanguage}&tl=${targetLanguage}&dt=t&q=${encodeURI(inputText)}`;
-    const xhttp = new XMLHttpRequest();
-    xhttp.onreadystatechange = function () {
-      if (this.readyState == 4 && this.status == 200){
-        const responseReturned = JSON.parse(this.responseText);
-        const translations = responseReturned[0].map((text) => text[0]);
-        console.log(translations);
-        subtitles[i].textdich = translations.join(" ");
-        
-      }
-    };
-    xhttp.open("GET", url);
-    xhttp.send();
-  });
-}
-  //langDich = langsdich[chonLangDichPd.value].ldich;
-    //let sourceLanguage = 'en';
-    //let targetLanguage = langDich;
-    //let texts = subtitles.map(item => item.text);
-    //let textdichs = subtitles.map(item => item.textdich);
-    //Array.prototype.forEach.call(texts, function(cau, i){
-    //    let inputext = cau;
-    //    let outputText = textdichs[i];
-    //    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sourceLanguage}&tl=${targetLanguage}&dt=t&q=${encodeURI(inputText)}`;
-    //    const xhttp = new XMLHttpRequest();
-    //    xhttp.onreadystatechange = function () {
-    //      if (this.readyState == 4 && this.status == 200){
-    //        const responseReturned = JSON.parse(this.responseText);
-    //        const translations = responseReturned[0].map((text) => text[0]);
-    //        const outputText = translations.join(" ");
-    //        subtitles[i].textdich = outputText;
-    //      }
-    //    };
-    //    xhttp.open("GET", url);
-    //    xhttp.send();
-    //});
-
-
-
 const videos = lIdTitle_driver.map(item => {
   const [id, title] = item.split("|");
   return {
@@ -333,7 +287,6 @@ const videos = lIdTitle_driver.map(item => {
 });
 
 
-console.log(videos);    
 
 const selectEl = document.getElementById("select_driver");
 videos.forEach((v, index) => {
@@ -343,25 +296,13 @@ videos.forEach((v, index) => {
     selectEl.appendChild(option);
 });
     
-//function updateMenuD() {
-//    for (let i = 0; i < lIdTitle_driver.length; i++) {
-//        let optn = lIdTitle_driver[i].split("|")[1];
-//        let el = document.createElement("option");
-//        el.textContent = optn;
-//        el.value = optn;
-//        console.log(el.value);
-//        selectdriver.appendChild(el);
-//    }
-//}
-
-//updateMenuD();
 
     function chonUnitDriver() {
       const index = selectEl.value;
       const videoData = videos[index];
 
       // Load sub
-      fetch("subs/"+videoData.subtitle)
+      fetch("Subs/" + videoData.subtitle)
         .then(res => res.json())
         .then(data => {
           subtitles = data;
@@ -434,6 +375,30 @@ videos.forEach((v, index) => {
       }, 300);
     }
 
+function dichPhude(){
+  langDich = langsdich[chonLangDichPd.value].ldich;
+  let langSpeak = langsdich[chonLangDichPd.value].lspeak;
+  let sourceLanguage = 'en';
+  let targetLanguage = langDich;
+  Array.prototype.forEach.call(subtitles, function(dic, i){
+    let inputText = dic.text;
+    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sourceLanguage}&tl=${targetLanguage}&dt=t&q=${encodeURI(inputText)}`;
+    const xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+      if (this.readyState == 4 && this.status == 200){
+        const responseReturned = JSON.parse(this.responseText);
+        const translations = responseReturned[0].map((text) => text[0]);
+        //console.log(translations);
+        subtitles[i].textdich = translations.join(" ");
+        
+      }
+    };
+    xhttp.open("GET", url);
+    xhttp.send();
+  });
+}
+
+
     //function isVietnamese(text) {
     //    const vietnameseRegex = /[àáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵ]/;
     //    return vietnameseRegex.test(text);
@@ -457,13 +422,13 @@ function getVoices() {
 async function findLocalVoice(preferredLang = 'en-US', preferredName = '') {
     const voices = await getVoices();
 
-    console.log("Available voices:", voices);
+    //console.log("Available voices:", voices);
 
     // Try to find by name first
     if (preferredName) {
     const voiceByName = voices.find(voice => voice.name.includes(preferredName));
     if (voiceByName) {
-        console.log("Found voice by name:", voiceByName);
+        //console.log("Found voice by name:", voiceByName);
         return voiceByName;
     }
     }
@@ -471,7 +436,7 @@ async function findLocalVoice(preferredLang = 'en-US', preferredName = '') {
     // Fallback: try to find by language
     const voiceByLang = voices.find(voice => voice.lang === preferredLang);
     if (voiceByLang) {
-    console.log("Found voice by language:", voiceByLang);
+    //console.log("Found voice by language:", voiceByLang);
     return voiceByLang;
     }
 
