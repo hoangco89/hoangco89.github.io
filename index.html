@@ -5,17 +5,20 @@
   <title>Sync Translated Subtitles with YouTube</title>
   <style>
     body {
-      font-family: sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
+    background-image: linear-gradient(-45deg, rgb(168, 166, 166), #160223); 
+    
+
+    font-family: sans-serif;
+    /*  background-color: #f9f9f9;*/
+     /*  color: #333;*/
       padding: 1px;
     }
     .container {
       max-width: 800px;
       margin: 0 auto;
-      padding: 0px;
+      padding: 2px;
       background-color: white;
-      border-radius: 8px;
+      border-radius: 0px;
       box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
     }
     .video-container {
@@ -66,10 +69,11 @@
       height: 30px;
     }
     #subtitle {
-      font-size: 1.2rem;
+      font-size: 1.4rem;
+      font-weight: 400;
       margin-top: 12px;
       text-align: right;
-      color: #007bff;
+      color: darkblue;
     }
   .row-bar {
   display: flex;
@@ -118,7 +122,7 @@
         allowfullscreen
       ></iframe>
     </div>
-    <select id="chonLangDichPd" onchange="dichPhude()"></select>
+      <select id="select_driver"></select>
 
     <div id="subtitle">[subtitle]</div>
 
@@ -127,7 +131,7 @@
     <div class="row-bar">
       <button id="btn_user_speak">🗣Speak native</button>
           <div class="controls">
-      <select id="select_driver" onchange="chonUnitDriver()"></select>
+    <select id="chonLangDichPd"></select>
     </div>
 
       <button id="btn_robot_read">🔈Read subtitle</button>
@@ -141,7 +145,7 @@
 <script >
 
 const langsdich = [
-    { browse: "--Select Sub--", ldich: "", lspeak: "" },
+    { browse: "Vietnamese", ldich: "vi", lspeak: "vi-VN" },
     { browse: "Danish", ldich: "da", lspeak: "da-DK" },
     { browse: "English", ldich: "en", lspeak: "en-US" },
     { browse: "French", ldich: "fr", lspeak: "fr-FR" },
@@ -153,8 +157,7 @@ const langsdich = [
     { browse: "Nederlands", ldich: "nl", lspeak: "nl-NL" },
     { browse: "Rusian", ldich: "ru", lspeak: "ru-RU" },
     { browse: "Taiwan", ldich: "zh", lspeak: "zh-TW" },
-    { browse: "Thai", ldich: "th", lspeak: "th-TH" },
-    { browse: "Vietnamese", ldich: "vi", lspeak: "vi-VN" }
+    { browse: "Thai", ldich: "th", lspeak: "th-TH" }
 ];
 
 
@@ -295,9 +298,10 @@ videos.forEach((v, index) => {
     option.textContent = v.title;
     selectEl.appendChild(option);
 });
-    
 
-    function chonUnitDriver() {
+//thuc thi khi select_driver thay doi
+document.getElementById("select_driver").addEventListener("change", () => {
+  //alert('day');
       const index = selectEl.value;
       const videoData = videos[index];
 
@@ -317,7 +321,16 @@ videos.forEach((v, index) => {
             // phai co them ?enablejsapi=1 tren day va trong html thi sub moi tu dong noi
           }
         });
-    }
+      // xem coi neu langsdich phu de khac vi thi can dich textdich ra lang htai 
+      if (langsdich[chonLangDichPd.value] !== 0){
+        langDich = langsdich[chonLangDichPd.value].ldich;
+        dichPhude(langDich);
+      }  
+
+});
+
+    //function chonUnitDriver() {
+    //}
 
     function onYouTubeIframeAPIReady() {
       const firstVideo = videos[0];
@@ -375,8 +388,14 @@ videos.forEach((v, index) => {
       }, 300);
     }
 
-function dichPhude(){
+//thuc thi khi chonLangDichPd thay doi
+document.getElementById("chonLangDichPd").addEventListener("change", () => {
   langDich = langsdich[chonLangDichPd.value].ldich;
+  dichPhude(langDich);
+
+});
+
+function dichPhude(langDich){
   let langSpeak = langsdich[chonLangDichPd.value].lspeak;
   let sourceLanguage = 'en';
   let targetLanguage = langDich;
