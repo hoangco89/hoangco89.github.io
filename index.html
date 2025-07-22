@@ -3,30 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <title>Sync Translated Subtitles with YouTube</title>
-  <style>
-    body {
-        margin:0;
-        padding: 0;
-        height:100%;
-        width:100%;
-        overflow:hidden;
+  
 
-    background-image: linear-gradient(-45deg, rgb(168, 166, 166), #160223); 
-    
-
-    font-family: sans-serif;
-    /*  background-color: #f9f9f9;*/
-     /*  color: #333;*/
+<style>
+    html,body {
+      font-family: sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
       padding: 1px;
+      background-image: linear-gradient(-45deg, #f4d03f, #160223);
+
     }
     .container {
-        height:100vh;
-        width:100vw;
-        
+      background-image: linear-gradient(-45deg, #f4d03f, #160223);
+      max-width: 800px;
       margin: 0 auto;
-      padding: 1px;
-      background-color: rgb(173, 169, 169);
-      border-radius: 0px;
+      padding: 2px;
+      background-color: white;
+      border-radius: 8px;
       box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
     }
     .video-container {
@@ -47,6 +41,7 @@
     h1, h2 {
       text-align: center;
       margin-bottom: 16px;
+      color:yellow
     }
     .controls {
       display: flex;
@@ -78,10 +73,10 @@
     }
     #subtitle {
       font-size: 1.4rem;
-      font-weight: 400;
-      margin-top: 12px;
+      margin-top: 14px;
       text-align: right;
-      color: darkblue;
+      color: rgb(27, 2, 2);
+
     }
   .row-bar {
   display: flex;
@@ -99,20 +94,23 @@
   background-color: #e0e0e0;
   cursor: pointer;
 }
-.center{
-    text-align: center;
-}
+
 #output_text {
   flex: 1;
   text-align: center;
   font-size: 1.1rem;
   font-weight: bold;
-  color: #007bff;
+  color: yellow;
   white-space: wrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
-    @media (max-width: 700px) {
+#select_driver{
+  width:fit-content;
+  font-size: 14px;
+  height:max-content;
+}
+    @media (max-width: 600px) {
       .controls {
         flex-direction: column;
       }
@@ -120,7 +118,8 @@
         width: 100%;
       }
     }
-  </style>
+
+</style>
 </head>
 <body>
   <div class="container">
@@ -149,8 +148,7 @@
     </div>
     <hr>
   </div>
-<br><br><br><br><br><br>
-  
+
 <script >
 
 const langsdich = [
@@ -345,7 +343,6 @@ document.getElementById("select_driver").addEventListener("change", () => {
       const firstVideo = videos[0];
       player = new YT.Player('iframe_yt', {
         videoId: firstVideo.id,
-
         events: {
           'onReady': onPlayerReady,
           'onStateChange': onPlayerStateChange
