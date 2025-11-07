@@ -150,7 +150,7 @@ videos.forEach((v, index) => {
       const videoData = videos[index];
 
       // Load sub
-      fetch("subs/"+videoData.subtitle)
+      fetch("Subs/"+videoData.subtitle)
         .then(res => res.json())
         .then(data => {
           subtitles = data;
@@ -178,7 +178,7 @@ videos.forEach((v, index) => {
         }
       });
 
-      fetch("subs/"+firstVideo.subtitle)
+      fetch("Subs/"+firstVideo.subtitle)
         .then(res => res.json())
         .then(data => {
           subtitles = data;
@@ -233,7 +233,7 @@ videos.forEach((v, index) => {
   //khi click btn_user_speak thi thuc thi nhu ben trong   
   btn_user_speak.addEventListener("click", function(event) {
     //active lai nut btn_robot_read dang liet
-      player.unMute();// đảm bảo mute
+    player.unMute();// đảm bảo mute
 
     btn_robot_read.disabled = false;
     
