@@ -1,27 +1,144 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-<style>textarea {width: 90%;height: 90vh;}</style>
+  <meta charset="UTF-8">
+  <title>Sync Translated Subtitles with YouTube</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      padding: 1px;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 0px;
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    }
+    .video-container {
+      position: relative;
+      width: 100%;
+      padding-bottom: 56.25%;
+      height: 0;
+      margin-bottom: 16px;
+    }
+    .video-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    h1, h2 {
+      text-align: center;
+      margin-bottom: 16px;
+    }
+    .controls {
+      display: flex;
+      gap: 8px;
+      margin: 8px 0;
+      align-items: center;
+    }
+    .controls button, .controls input, .controls select {
+      padding: 10px;
+      font-size: 1rem;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+    }
+    .controls input {
+      flex: 2;
+    }
+    .controls .read-btn {
+      flex: 1;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    canvas {
+      width: 40px;
+      height: 30px;
+    }
+    #subtitle {
+      font-size: 1.2rem;
+      margin-top: 12px;
+      text-align: right;
+      color: #007bff;
+    }
+  .row-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 12px 0;
+  gap: 10px;
+}
+
+#btn_user_speak, #btn_robot_read {
+  padding: 8px 12px;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background-color: #e0e0e0;
+  cursor: pointer;
+}
+
+#output_text {
+  flex: 1;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #007bff;
+  white-space: wrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+    @media (max-width: 600px) {
+      .controls {
+        flex-direction: column;
+      }
+      .controls input, .controls button, .controls select {
+        width: 100%;
+      }
+    }
+  </style>
 </head>
 <body>
-    <textarea id="list">test</textarea>
-<script>
-//DN ham tai voices
-function loadVoices() {
-  document.getElementById("list").value = window.speechSynthesis
-    .getVoices()
-    .map(x => [x.name, x.lang].join("\t"))
-    .join("\r\n");
-};
+  <div class="container">
+    <div class="video-container">
+      <iframe id="iframe_yt"
+        src="https://www.youtube.com/embed/CCCUTqJ3dBA?enablejsapi=1"
 
-//Thuc thi ham
-loadVoices();
-//Thuc thi ham khi window.speechSynthesis co thay doi, neu khong thay doi thi da chay o tren , con o duoi khong chay 
-window.speechSynthesis.onvoiceschanged = function(e) { loadVoices(); }
+        allow="autoplay"
+        allowfullscreen
+      ></iframe>
+    </div>
 
-</script>
+    <div id="status">Status: Waiting...</div>
+    <div id="subtitle">[subtitle]</div>
+
+    <hr>
+    
+    <div class="row-bar">
+      <button id="btn_user_speak">🔈En</button>
+          <div class="controls">
+      <select id="select_driver" onchange="chonUnitDriver()"></select>
+    </div>
+
+      <button id="btn_robot_read">🤖Vi</button>
+    </div>
+
+
+
+  </div>
+
+  
+<script src="index.js"></script>
 </body>
 </html>
+
