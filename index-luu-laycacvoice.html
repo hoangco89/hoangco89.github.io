@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>textarea {width: 90%;height: 90vh;}</style>
+</head>
+<body>
+    <textarea id="list">test</textarea>
+<script>
+//DN ham tai voices
+function loadVoices() {
+  document.getElementById("list").value = window.speechSynthesis
+    .getVoices()
+    .map(x => [x.name, x.lang].join("\t"))
+    .join("\r\n");
+};
+
+//Thuc thi ham
+loadVoices();
+//Thuc thi ham khi window.speechSynthesis co thay doi, neu khong thay doi thi da chay o tren , con o duoi khong chay 
+window.speechSynthesis.onvoiceschanged = function(e) { loadVoices(); }
+
+</script>
+</body>
+</html>
