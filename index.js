@@ -208,7 +208,11 @@ function checkTimeLoop() {
 
 function speak(text) {
   const utter = new SpeechSynthesisUtterance(text);
-  utter.lang = 'vi-VN';
+  const voices = speechSynthesis.getVoices(); // Kích hoạt tải voice
+  const voiceViChon = voices.find(v => v.lang === 'vi-VN' && (v.name.includes('An') || v.name.includes('Linh')));
+  console.log(voiceViChon);
+
+  utter.voice = voiceViChon;
   utter.rate = 1.6;
   speechSynthesis.cancel(); // Dừng nếu đang nói
   speechSynthesis.speak(utter);
