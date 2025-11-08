@@ -66,7 +66,7 @@
       height: 30px;
     }
     #subtitle {
-      font-size: 1.2rem;
+      font-size: 2.0rem;
       margin-top: 12px;
       text-align: right;
       color: #007bff;
@@ -81,22 +81,33 @@
 
 #btn_user_speak, #btn_robot_read {
   padding: 8px 12px;
-  font-size: 1rem;
+  font-size: 1.4rem;
   border-radius: 6px;
   border: 1px solid #ccc;
-  background-color: #e0e0e0;
+  background-color: #a6b7ea;
   cursor: pointer;
+  color: darkgreen;
 }
 
 #output_text {
   flex: 1;
   text-align: center;
-  font-size: 1.1rem;
+  font-size: 1.6rem;
   font-weight: bold;
   color: #007bff;
   white-space: wrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+#status{
+  font-size: 1.6rem;
+  padding: 0px 4px;
+
+}
+#select_driver{
+  font-size: 1.4rem;
+  font-weight: bold;
+
 }
     @media (max-width: 600px) {
       .controls {
@@ -109,6 +120,7 @@
   </style>
 </head>
 <body>
+  <h2>Học Lái Xe Qua Video Youtube</h2>
   <div class="container">
     <div class="video-container">
       <iframe id="iframe_yt"
@@ -125,12 +137,12 @@
     <hr>
     
     <div class="row-bar">
-      <button id="btn_user_speak">🔈En</button>
+      <button id="btn_user_speak">🗣️En</button>
           <div class="controls">
       <select id="select_driver" onchange="chonUnitDriver()"></select>
     </div>
 
-      <button id="btn_robot_read">🔈Vi</button>
+      <button id="btn_robot_read">🔊Vi</button>
     </div>
 
 
@@ -141,4 +153,3 @@
 <script src="index.js"></script>
 </body>
 </html>
-

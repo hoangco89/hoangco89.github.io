@@ -102,10 +102,10 @@ let lIdTitle_driver = [
 "MCYf0C88XdQ|01: Bộ đề số 1"
 ];
 
-      let player;
-    let subtitles = [];
-    let currentIndex = 0;
-    let langSpeak = "vi-VN";
+let player;
+let subtitles = [];
+let currentIndex = 0;
+let langSpeak = "vi-VN";
 
 //Tu lít tren Tao bien videos co dang sau:
 //const videos = [
@@ -126,133 +126,116 @@ console.log(videos);
 
 const selectEl = document.getElementById("select_driver");
 videos.forEach((v, index) => {
-    const option = document.createElement("option");
-    option.value = index;
-    option.textContent = v.title;
-    selectEl.appendChild(option);
+  const option = document.createElement("option");
+  option.value = index;
+  option.textContent = v.title;
+  selectEl.appendChild(option);
 });
     
-//function updateMenuD() {
-//    for (let i = 0; i < lIdTitle_driver.length; i++) {
-//        let optn = lIdTitle_driver[i].split("|")[1];
-//        let el = document.createElement("option");
-//        el.textContent = optn;
-//        el.value = optn;
-//        console.log(el.value);
-//        selectdriver.appendChild(el);
-//    }
-//}
+function chonUnitDriver() {
+  const index = selectEl.value;
+  const videoData = videos[index];
+  // Load sub
+  fetch("Subs/"+videoData.subtitle)
+  .then(res => res.json())
+  .then(data => {
+    subtitles = data;
+    currentIndex = 0;
 
-//updateMenuD();
+    // Load video
+    if (player && player.loadVideoById) {
+      player.loadVideoById(videoData.id);
+    } else {
+      document.getElementById("iframe_yt").src =
+          `https://www.youtube.com/embed/${videoData.id}?enablejsapi=1`;
+          // phai co them ?enablejsapi=1 tren day va trong html thi sub moi tu dong noi
+    }
+  });
+}
 
-    function chonUnitDriver() {
-      const index = selectEl.value;
-      const videoData = videos[index];
+function onYouTubeIframeAPIReady() {
+  const firstVideo = videos[0];
+  player = new YT.Player('iframe_yt', {
+    videoId: firstVideo.id,
+    events: {
+      'onReady': onPlayerReady,
+      'onStateChange': onPlayerStateChange
+    }
+  });
 
-      // Load sub
-      fetch("Subs/"+videoData.subtitle)
-        .then(res => res.json())
-        .then(data => {
-          subtitles = data;
-          currentIndex = 0;
+  fetch("Subs/"+firstVideo.subtitle)
+  .then(res => res.json())
+  .then(data => {
+    subtitles = data;
+  });
+}
 
-          // Load video
-          if (player && player.loadVideoById) {
-            player.loadVideoById(videoData.id);
-          } else {
-            document.getElementById("iframe_yt").src =
-             `https://www.youtube.com/embed/${videoData.id}?enablejsapi=1`;
-            // phai co them ?enablejsapi=1 tren day va trong html thi sub moi tu dong noi
-          }
-        });
+function onPlayerReady(event) {
+  event.target.mute(); // đảm bảo mute
+  btn_robot_read.disabled = true;
+  //event.target.playVideo(); // tự động chạy (nếu cần)
+  document.getElementById("status").textContent = "Status: Ready. Click play!";
+}
+
+function onPlayerStateChange(event) {
+  if (event.data === YT.PlayerState.PLAYING) {
+    checkTimeLoop();
+  }
+}
+
+function checkTimeLoop() {
+  const interval = setInterval(() => {
+    if (player.getPlayerState() !== YT.PlayerState.PLAYING) {
+      clearInterval(interval);
+      return;
     }
 
-    function onYouTubeIframeAPIReady() {
-      const firstVideo = videos[0];
-      player = new YT.Player('iframe_yt', {
-        videoId: firstVideo.id,
+    const currentTime = player.getCurrentTime();
 
-        events: {
-          'onReady': onPlayerReady,
-          'onStateChange': onPlayerStateChange
-        }
-      });
-
-      fetch("Subs/"+firstVideo.subtitle)
-        .then(res => res.json())
-        .then(data => {
-          subtitles = data;
-        });
-    }
-
-    function onPlayerReady(event) {
-      event.target.mute(); // đảm bảo mute
-          btn_robot_read.disabled = true;
-
-      //event.target.playVideo(); // tự động chạy (nếu cần)
-      document.getElementById("status").textContent = "Status: Ready. Click play!";
-    }
-
-    function onPlayerStateChange(event) {
-      if (event.data === YT.PlayerState.PLAYING) {
-        checkTimeLoop();
+    if (currentIndex < subtitles.length) {
+      const sub = subtitles[currentIndex];
+      if (currentTime >= sub.start && currentTime <= sub.end) {
+        if (btn_robot_read.disabled){
+          speak(sub.textdich);
+        };
+        document.getElementById("status").textContent = sub.text;
+        document.getElementById("subtitle").textContent = sub.textdich;
+        currentIndex++;
       }
     }
+  }, 300);
+}
 
-    function checkTimeLoop() {
-      const interval = setInterval(() => {
-        if (player.getPlayerState() !== YT.PlayerState.PLAYING) {
-          clearInterval(interval);
-          return;
-        }
+function speak(text) {
+  const utter = new SpeechSynthesisUtterance(text);
+  utter.lang = 'vi-VN';
+  utter.rate = 1.6;
+  speechSynthesis.cancel(); // Dừng nếu đang nói
+  speechSynthesis.speak(utter);
+}
 
-        const currentTime = player.getCurrentTime();
+//khi click btn_user_speak thi thuc thi nhu ben trong   
+btn_user_speak.addEventListener("click", function(event) {
+//active lai nut btn_robot_read dang liet
+player.unMute();// đảm bảo mute
 
-        if (currentIndex < subtitles.length) {
-          const sub = subtitles[currentIndex];
-          if (currentTime >= sub.start && currentTime <= sub.end) {
-            if (btn_robot_read.disabled){
-              speak(sub.textdich);
-            };
-            document.getElementById("status").textContent = sub.text;
-            document.getElementById("subtitle").textContent = sub.textdich;
-            currentIndex++;
-          }
-        }
-      }, 300);
-    }
+btn_robot_read.disabled = false;
 
-    function speak(text) {
-      const utter = new SpeechSynthesisUtterance(text);
-      utter.lang = langSpeak;
-      utter.rate = 1.0;
-      speechSynthesis.cancel(); // Dừng nếu đang nói
-      speechSynthesis.speak(utter);
-    }
+//lam liet nut btn_user_speak
+btn_user_speak.disabled = true;
+//chi speak vi khi nut btn_robot_read dang liet
+});
 
-  //khi click btn_user_speak thi thuc thi nhu ben trong   
-  btn_user_speak.addEventListener("click", function(event) {
-    //active lai nut btn_robot_read dang liet
-    player.unMute();// đảm bảo mute
+//khi click btn_robot_read thi thuc thi nhu ben trong   
+btn_robot_read.addEventListener("click", function(event) {
+  player.mute();// đảm bảo mute
 
-    btn_robot_read.disabled = false;
-    
-    //lam liet nut btn_user_speak
-    btn_user_speak.disabled = true;
-    //chi speak vi khi nut btn_robot_read dang liet
-  });
+  btn_robot_read.disabled = true;
+  btn_user_speak.disabled = false;
 
-  //khi click btn_robot_read thi thuc thi nhu ben trong   
-  btn_robot_read.addEventListener("click", function(event) {
-    player.mute();// đảm bảo mute
+});
 
-    btn_robot_read.disabled = true;
-    btn_user_speak.disabled = false;
-
-  });
-
-
-    // Tải YouTube API
-    const tag = document.createElement('script');
-    tag.src = "https://www.youtube.com/iframe_api";
-    document.body.appendChild(tag);
+// Tải YouTube API
+const tag = document.createElement('script');
+tag.src = "https://www.youtube.com/iframe_api";
+document.body.appendChild(tag);
