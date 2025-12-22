@@ -68,89 +68,74 @@ let player;
 let subtitles = [];
 let voicesReady = false;
 let userStarted = false;
-let lastTime = 0;
+let speakingLoopStarted = false;
 
-// Load phụ đề từ JSON
-fetch('Subs/1ivMkhtGq4o.json')
-.then(res => res.json())
-.then(data => subtitles = data);
+// Load subtitles
+fetch("Subs/1ivMkhtGq4o.json")
+.then(r => r.json())
+.then(d => subtitles = d);
 
-// Load voices (iPhone Safari cần onvoiceschanged)
+// (BƯỚC 2) Load voices – iPhone Safari yêu cầu onvoiceschanged
 speechSynthesis.onvoiceschanged = () => {
 voicesReady = true;
 };
 
 // YouTube API
 function onYouTubeIframeAPIReady() {
-player = new YT.Player('player', {
-videoId: '1ivMkhtGq4o',
-events: {
-'onReady': onPlayerReady,
-'onStateChange': onPlayerStateChange
-}
+player = new YT.Player("player", {
+videoId: "1ivMkhtGq4o",
+events: { onReady: onPlayerReady }
 });
 }
 
 function onPlayerReady(event) {
-document.getElementById('startSpeak').addEventListener('click', () => {
+document.getElementById("startSpeak").addEventListener("click", () => {
 
 userStarted = true;
 
-// Unlock audio trên iPhone
+// (BƯỚC 1) Unlock audio trên iPhone Safari
 const unlock = new Audio();
 unlock.play().catch(()=>{});
 
-// Load voices
+// Force load voices
 speechSynthesis.getVoices();
 
 event.target.playVideo();
-speakSubtitles();
+
+// (BƯỚC 4) Start speaking loop bằng requestAnimationFrame
+if (!speakingLoopStarted) {
+speakingLoopStarted = true;
+startSpeakingLoop();
+}
 });
 }
 
+// Speak function
 function speak(textdich) {
 if (!voicesReady || !userStarted) return;
 
-let utter = new SpeechSynthesisUtterance(textdich);
-utter.lang = 'vi-VN';
+let u = new SpeechSynthesisUtterance(textdich);
+u.lang = "vi-VN";
 
 speechSynthesis.cancel();
-speechSynthesis.speak(utter);
+speechSynthesis.speak(u);
 }
 
-function speakSubtitles() {
-setInterval(() => {
-if (!userStarted) return;
+// LOOP chạy bằng requestAnimationFrame (iPhone cho phép)
+function startSpeakingLoop() {
+function loop() {
+let t = player.getCurrentTime();
 
-let currentTime = player.getCurrentTime();
-
-// Reset toàn bộ phụ đề khi tua theo mọi hướng
-if (Math.abs(currentTime - lastTime) > 1.0) {
-resetAllSubtitles();
-}
-lastTime = currentTime;
-
-// Đọc phụ đề
 subtitles.forEach(sub => {
-if (currentTime >= sub.start && currentTime <= sub.end && !sub.spoken) {
-speak(sub.textdich);
+if (t >= sub.start && t <= sub.end && !sub.spoken) {
 sub.spoken = true;
+speak(sub.textdich);
 }
 });
 
-}, 500);
+requestAnimationFrame(loop);
 }
-
-function resetAllSubtitles() {
-subtitles.forEach(sub => sub.spoken = false);
-speechSynthesis.cancel();
-}
-
-function onPlayerStateChange(event) {
-if (event.data === YT.PlayerState.PAUSED ||
-event.data === YT.PlayerState.BUFFERING) {
-resetAllSubtitles();
-}
+requestAnimationFrame(loop);
 }
 </script>
 
