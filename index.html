@@ -106,7 +106,7 @@ function speakSubtitles() {
     subtitles.forEach(sub => {
       if (currentTime >= sub.start && currentTime <= sub.end && !sub.spoken) {
         let utter = new SpeechSynthesisUtterance(sub.textdich);
-        utter.lang = 'vi-VN';
+        utter.lang = 'en-US';
         speechSynthesis.cancel();
         speechSynthesis.speak(utter);
         sub.spoken = true;
