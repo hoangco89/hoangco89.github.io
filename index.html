@@ -3,12 +3,65 @@
 <head>
 <meta charset="UTF-8">
 <title>YouTube + Speak Subtitle</title>
+<style>
+/* Canh giữa toàn bộ nội dung */
+body {
+margin: 0;
+padding: 0;
+height: 100vh;
+display: flex;
+justify-content: center; /* giữa ngang */
+align-items: center; /* giữa dọc */
+flex-direction: column; /* video trên, nút dưới */
+background: #f5f5f5;
+font-family: sans-serif;
+}
+
+/* Khung bao video theo tỷ lệ 16:9 */
+.video-wrapper {
+position: relative;
+width: 90vw; /* tự co theo màn hình */
+max-width: 640px; /* không vượt quá 640px */
+aspect-ratio: 16 / 9; /* Safari iOS hỗ trợ tốt */
+background: #000;
+border-radius: 10px;
+overflow: hidden;
+}
+
+/* Iframe YouTube chiếm toàn bộ khung */
+.video-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: none;
+}
+
+/* Nút bắt đầu */
+#startSpeak {
+margin-top: 20px;
+padding: 12px 24px;
+font-size: 16px;
+background: #007aff;
+color: white;
+border: none;
+border-radius: 8px;
+cursor: pointer;
+}
+
+#startSpeak:active {
+opacity: 0.7;
+}
+</style>
 </head>
 <body>
 <div id="player"></div>
 <button id="startSpeak">Bắt đầu đọc phụ đề</button>
 
 <script src="https://www.youtube.com/iframe_api"></script>
+
+
 <script>
 let player;
 let subtitles = [];
@@ -20,60 +73,61 @@ fetch('Subs/1ivMkhtGq4o.json')
 .then(data => subtitles = data);
 
 function onYouTubeIframeAPIReady() {
-player = new YT.Player('player', {
-height: '360',
-width: '640',
-videoId: '1ivMkhtGq4o',
-events: {
-'onReady': onPlayerReady,
-'onStateChange': onPlayerStateChange
-}
-});
+  player = new YT.Player('player', {
+    height: '360',
+    width: '640',
+    videoId: '1ivMkhtGq4o',
+    events: {
+      'onReady': onPlayerReady,
+      'onStateChange': onPlayerStateChange
+    }
+  });
 }
 
 function onPlayerReady(event) {
-document.getElementById('startSpeak').addEventListener('click', () => {
-event.target.playVideo();
-speakSubtitles();
-});
+  document.getElementById('startSpeak').addEventListener('click', () => {
+    event.target.playVideo();
+    player.mute();// đảm bảo mute
+    speakSubtitles();
+  });
 }
 
 function speakSubtitles() {
-setInterval(() => {
-let currentTime = player.getCurrentTime();
+  setInterval(() => {
+    let currentTime = player.getCurrentTime();
 
-// Kiểm tra tua video theo mọi hướng
-if (Math.abs(currentTime - lastTime) > 1.0) {
-resetAllSubtitles();
-}
-lastTime = currentTime;
+    // Kiểm tra tua video theo mọi hướng
+    if (Math.abs(currentTime - lastTime) > 1.0) {
+      resetAllSubtitles();
+    }
+    lastTime = currentTime;
 
-// Đọc phụ đề
-subtitles.forEach(sub => {
-if (currentTime >= sub.start && currentTime <= sub.end && !sub.spoken) {
-let utter = new SpeechSynthesisUtterance(sub.textdich);
-utter.lang = 'vi-VN';
-speechSynthesis.cancel();
-speechSynthesis.speak(utter);
-sub.spoken = true;
-}
-});
-}, 500);
+    // Đọc phụ đề
+    subtitles.forEach(sub => {
+      if (currentTime >= sub.start && currentTime <= sub.end && !sub.spoken) {
+        let utter = new SpeechSynthesisUtterance(sub.textdich);
+        utter.lang = 'vi-VN';
+        speechSynthesis.cancel();
+        speechSynthesis.speak(utter);
+        sub.spoken = true;
+      }
+    });
+  }, 500);
 }
 
 // Reset toàn bộ phụ đề
 function resetAllSubtitles() {
-subtitles.forEach(sub => sub.spoken = false);
-speechSynthesis.cancel();
+  subtitles.forEach(sub => sub.spoken = false);
+  speechSynthesis.cancel();
 }
 
 function onPlayerStateChange(event) {
-// Khi pause hoặc buffering cũng reset để đảm bảo đồng bộ
-if (event.data === YT.PlayerState.PAUSED ||
-event.data === YT.PlayerState.BUFFERING) {
-resetAllSubtitles();
+  // Khi pause hoặc buffering cũng reset để đảm bảo đồng bộ
+  if (event.data === YT.PlayerState.PAUSED || event.data === YT.PlayerState.BUFFERING) {
+    resetAllSubtitles();
+  }
 }
-}
+
 </script>
 </body>
 </html>
