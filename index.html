@@ -1,155 +1,79 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
-  <meta charset="UTF-8">
-  <title>Sync Translated Subtitles with YouTube</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      padding: 1px;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 0px;
-      background-color: white;
-      border-radius: 8px;
-      box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
-    }
-    .video-container {
-      position: relative;
-      width: 100%;
-      padding-bottom: 56.25%;
-      height: 0;
-      margin-bottom: 16px;
-    }
-    .video-container iframe {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      border: 0;
-    }
-    h1, h2 {
-      text-align: center;
-      margin-bottom: 16px;
-    }
-    .controls {
-      display: flex;
-      gap: 8px;
-      margin: 8px 0;
-      align-items: center;
-    }
-    .controls button, .controls input, .controls select {
-      padding: 10px;
-      font-size: 1rem;
-      border-radius: 4px;
-      border: 1px solid #ccc;
-    }
-    .controls input {
-      flex: 2;
-    }
-    .controls .read-btn {
-      flex: 1;
-      background-color: #007bff;
-      color: white;
-      border: none;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-    canvas {
-      width: 40px;
-      height: 30px;
-    }
-    #subtitle {
-      font-size: 2.0rem;
-      margin-top: 12px;
-      text-align: right;
-      color: #007bff;
-    }
-  .row-bar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin: 12px 0;
-  gap: 10px;
-}
-
-#btn_user_speak, #btn_robot_read {
-  padding: 8px 12px;
-  font-size: 1.4rem;
-  border-radius: 6px;
-  border: 1px solid #ccc;
-  background-color: #a6b7ea;
-  cursor: pointer;
-  color: darkgreen;
-}
-
-#output_text {
-  flex: 1;
-  text-align: center;
-  font-size: 1.6rem;
-  font-weight: bold;
-  color: #007bff;
-  white-space: wrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-#status{
-  font-size: 1.6rem;
-  padding: 0px 4px;
-
-}
-#select_driver{
-  font-size: 1.4rem;
-  font-weight: bold;
-
-}
-    @media (max-width: 600px) {
-      .controls {
-        flex-direction: column;
-      }
-      .controls input, .controls button, .controls select {
-        width: 100%;
-      }
-    }
-  </style>
+<meta charset="UTF-8">
+<title>YouTube + Speak Subtitle</title>
 </head>
 <body>
-  <h1>Học Lái Xe Qua Video Youtube</h1>
-  <div class="container">
-    <div class="video-container">
-      <iframe id="iframe_yt"
-        src="https://www.youtube.com/embed/CCCUTqJ3dBA?enablejsapi=1"
+<div id="player"></div>
+<button id="startSpeak">Bắt đầu đọc phụ đề</button>
 
-        allow="autoplay"
-        allowfullscreen
-      ></iframe>
-    </div>
+<script src="https://www.youtube.com/iframe_api"></script>
+<script>
+let player;
+let subtitles = [];
+let lastTime = 0;
 
-    <div id="status">Status: Waiting...</div>
-    <div id="subtitle">[subtitle]</div>
+// Load phụ đề từ file JSON
+fetch('Subs/1ivMkhtGq4o.json')
+.then(res => res.json())
+.then(data => subtitles = data);
 
-    <hr>
-    
-    <div class="row-bar">
-      <button id="btn_user_speak">🗣️En</button>
-          <div class="controls">
-      <select id="select_driver" onchange="chonUnitDriver()"></select>
-    </div>
+function onYouTubeIframeAPIReady() {
+player = new YT.Player('player', {
+height: '360',
+width: '640',
+videoId: '1ivMkhtGq4o',
+events: {
+'onReady': onPlayerReady,
+'onStateChange': onPlayerStateChange
+}
+});
+}
 
-      <button id="btn_robot_read">🔊Vi</button>
-    </div>
+function onPlayerReady(event) {
+document.getElementById('startSpeak').addEventListener('click', () => {
+event.target.playVideo();
+speakSubtitles();
+});
+}
 
+function speakSubtitles() {
+setInterval(() => {
+let currentTime = player.getCurrentTime();
 
+// Kiểm tra tua video theo mọi hướng
+if (Math.abs(currentTime - lastTime) > 1.0) {
+resetAllSubtitles();
+}
+lastTime = currentTime;
 
-  </div>
+// Đọc phụ đề
+subtitles.forEach(sub => {
+if (currentTime >= sub.start && currentTime <= sub.end && !sub.spoken) {
+let utter = new SpeechSynthesisUtterance(sub.textdich);
+utter.lang = 'vi-VN';
+speechSynthesis.cancel();
+speechSynthesis.speak(utter);
+sub.spoken = true;
+}
+});
+}, 500);
+}
 
-  
-<script src="index.js"></script>
+// Reset toàn bộ phụ đề
+function resetAllSubtitles() {
+subtitles.forEach(sub => sub.spoken = false);
+speechSynthesis.cancel();
+}
+
+function onPlayerStateChange(event) {
+// Khi pause hoặc buffering cũng reset để đảm bảo đồng bộ
+if (event.data === YT.PlayerState.PAUSED ||
+event.data === YT.PlayerState.BUFFERING) {
+resetAllSubtitles();
+}
+}
+</script>
 </body>
 </html>
