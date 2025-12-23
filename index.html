@@ -41,16 +41,16 @@ select{
     display: block;
     margin: 0 auto; /* căn giữa ngang */
     width: auto;   /* tùy chọn */
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   }
 #subgoc{
   text-align: left;
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   color: darkgreen;
 }
 #subdich{
   text-align: right;
-  font-size: 2.2rem;
+  font-size: 2.4rem;
   color: darkblue;
 }
   </style>
@@ -73,7 +73,6 @@ let player;
 let subtitles = []; 
 let lastTime = 0;
 let voices = [];
-let voiceChon;
 
 const select_voice_sub = document.getElementById("select_voice_sub");
 
@@ -116,7 +115,7 @@ loadVoices();
 
 
 function speakSubtitles() {
-  player.mute();// đảm bảo mute
+  //player.mute();// đảm bảo mute
   setInterval(() => {
     let currentTime = player.getCurrentTime();
 
@@ -132,7 +131,7 @@ function speakSubtitles() {
         subgoc.textContent = sub.text;
         subdich.textContent = sub.textdich;
         let utter = new SpeechSynthesisUtterance(subdich.textContent);
-        utter.voice = voiceChon;
+        utter.voice = voices[select_voice_sub.value];
         speechSynthesis.cancel();
         speechSynthesis.speak(utter);
         sub.spoken = true;
@@ -145,7 +144,7 @@ function speakSubtitles() {
 function onPlayerReady(event) {
   select_voice_sub.addEventListener('change', () => {
     event.target.playVideo();
-    //player.mute();// đảm bảo mute
+    player.mute();// đảm bảo mute
     speakSubtitles();
   });
 }
