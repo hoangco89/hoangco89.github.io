@@ -109,7 +109,20 @@
   font-weight: bold;
 
 }
-    @media (max-width: 600px) {
+select{
+    display: block;
+    margin: 0 auto; /* căn giữa ngang */
+    width: auto;   /* tùy chọn */
+}
+#subgoc{
+  text-align: left;
+  font-size: 1.2rem;
+}
+#subdich{
+  text-align: right;
+  font-size: 1.8rem;
+}
+    @media (max-width: 700px) {
       .controls {
         flex-direction: column;
       }
@@ -120,12 +133,13 @@
   </style>
 </head>
 <body>
-<h2 class="center">Video Yt With Speaking Subtitles</h2>    
 <div class="container">
     <div class="video-container">
         <div id="player"></div>
     </div>
-    <button id="startSpeak">Bắt đầu đọc phụ đề</button>
+    <div id="subgoc"></div>
+    <select id="select_voice_sub"></select>
+    <div id="subdich"></div>
 </div>        
 
 <script src="https://www.youtube.com/iframe_api"></script>
@@ -133,9 +147,11 @@
 
 <script>
 let player;
-let subtitles = [];
+let subtitles = []; 
 let lastTime = 0;
-
+const select_voice_sub = document.getElementById("select_voice_sub");
+let subgoc = document.getElementById("subgoc");
+let subdich = document.getElementById("subdich");
 // Load phụ đề từ file JSON
 fetch('Subs/1ivMkhtGq4o.json')
 .then(res => res.json())
@@ -154,7 +170,7 @@ function onYouTubeIframeAPIReady() {
 }
 
 function onPlayerReady(event) {
-  document.getElementById('startSpeak').addEventListener('click', () => {
+  select_voice_sub.addEventListener('change', () => {
     event.target.playVideo();
     player.mute();// đảm bảo mute
     speakSubtitles();
@@ -174,6 +190,8 @@ function speakSubtitles() {
     // Đọc phụ đề
     subtitles.forEach(sub => {
       if (currentTime >= sub.start && currentTime <= sub.end && !sub.spoken) {
+        subgoc.textContent = sub.text;
+        subdich.textContent = sub.textdich;
         let utter = new SpeechSynthesisUtterance(sub.textdich);
         utter.lang = 'vi-VN';
         speechSynthesis.cancel();
@@ -196,6 +214,25 @@ function onPlayerStateChange(event) {
     resetAllSubtitles();
   }
 }
+
+//--------them
+// Tải danh sách voice
+function loadVoices() {
+  const voices = speechSynthesis.getVoices();
+
+  select_voice_sub.innerHTML = "";
+
+  voices.forEach((v, i) => {
+      const option = document.createElement("option");
+      option.value = i;
+      option.textContent = `${v.name} (${v.lang})`;
+      select_voice_sub.appendChild(option);
+  });
+}
+// Chờ voice load
+speechSynthesis.onvoiceschanged = loadVoices;
+loadVoices();
+
 
 </script>
 </body>
