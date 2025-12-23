@@ -113,14 +113,17 @@ select{
     display: block;
     margin: 0 auto; /* căn giữa ngang */
     width: auto;   /* tùy chọn */
-}
+  font-size: 1.2rem;
+  }
 #subgoc{
   text-align: left;
   font-size: 1.2rem;
+  color: darkgreen;
 }
 #subdich{
   text-align: right;
   font-size: 1.8rem;
+  color: darkblue;
 }
     @media (max-width: 700px) {
       .controls {
@@ -149,7 +152,11 @@ select{
 let player;
 let subtitles = []; 
 let lastTime = 0;
+let voices = [];
+let voiceChon;
+
 const select_voice_sub = document.getElementById("select_voice_sub");
+
 let subgoc = document.getElementById("subgoc");
 let subdich = document.getElementById("subdich");
 // Load phụ đề từ file JSON
@@ -172,12 +179,13 @@ function onYouTubeIframeAPIReady() {
 function onPlayerReady(event) {
   select_voice_sub.addEventListener('change', () => {
     event.target.playVideo();
-    player.mute();// đảm bảo mute
+    //player.mute();// đảm bảo mute
     speakSubtitles();
   });
 }
 
 function speakSubtitles() {
+  player.mute();// đảm bảo mute
   setInterval(() => {
     let currentTime = player.getCurrentTime();
 
@@ -192,8 +200,8 @@ function speakSubtitles() {
       if (currentTime >= sub.start && currentTime <= sub.end && !sub.spoken) {
         subgoc.textContent = sub.text;
         subdich.textContent = sub.textdich;
-        let utter = new SpeechSynthesisUtterance(sub.textdich);
-        utter.lang = 'vi-VN';
+        let utter = new SpeechSynthesisUtterance(subdich.textContent);
+        utter.lang = voiceChon.lang;
         speechSynthesis.cancel();
         speechSynthesis.speak(utter);
         sub.spoken = true;
@@ -218,14 +226,14 @@ function onPlayerStateChange(event) {
 //--------them
 // Tải danh sách voice
 function loadVoices() {
-  const voices = speechSynthesis.getVoices();
+  voices = speechSynthesis.getVoices();
 
   select_voice_sub.innerHTML = "";
 
   voices.forEach((v, i) => {
       const option = document.createElement("option");
       option.value = i;
-      option.textContent = `${v.name} (${v.lang})`;
+      option.textContent = `${v.lang} (${v.name})`;
       select_voice_sub.appendChild(option);
   });
 }
@@ -233,6 +241,46 @@ function loadVoices() {
 speechSynthesis.onvoiceschanged = loadVoices;
 loadVoices();
 
+select_voice_sub.addEventListener("change", () => {
+    // Lựa chọn voice mới
+    const index = select_voice_sub.value;
+    const selectedVoice = voices[index];
+    voiceChon = selectedVoice;
+    console.log(selectedVoice.lang);
+
+    let sourceLanguage = 'en';
+    let targetLanguage = selectedVoice.lang.slice(0,2);
+    console.log(sourceLanguage, targetLanguage);
+    //tao texts la list chua cac text cua subtitles
+    let texts = subtitles.map(item => item.text);
+    let textdichs = subtitles.map(item => item.textdich);
+
+    //console.log(texts);
+    
+    Array.prototype.forEach.call(texts, function(cau,i) {
+        let inputText = cau;
+        let outputTextEle = textdichs[i];
+
+        const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sourceLanguage}&tl=${targetLanguage}&dt=t&q=${encodeURI(inputText)}`;
+
+        const xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200){
+                const responseReturned = JSON.parse(this.responseText);
+                const translations = responseReturned[0].map((text) => text[0]);
+                const outputText = translations.join(" ");
+                //outputTextEle.textdich = outputText;
+                subtitles[i].textdich = outputText;
+                console.log(subtitles[i].textdich);
+
+            }
+        };
+        //---------------------
+        xhttp.open("GET", url);
+        xhttp.send();
+    });
+
+});
 
 </script>
 </body>
