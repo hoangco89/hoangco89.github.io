@@ -201,7 +201,7 @@ function speakSubtitles() {
         subgoc.textContent = sub.text;
         subdich.textContent = sub.textdich;
         let utter = new SpeechSynthesisUtterance(subdich.textContent);
-        utter.lang = voiceChon.lang;
+        utter.voice = voiceChon;
         speechSynthesis.cancel();
         speechSynthesis.speak(utter);
         sub.spoken = true;
