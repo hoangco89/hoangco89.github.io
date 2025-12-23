@@ -41,16 +41,16 @@ select{
     display: block;
     margin: 0 auto; /* căn giữa ngang */
     width: auto;   /* tùy chọn */
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   }
 #subgoc{
   text-align: left;
-  font-size: 2.0rem;
+  font-size: 2.5rem;
   color: darkgreen;
 }
 #subdich{
   text-align: right;
-  font-size: 2.4rem;
+  font-size: 3.0rem;
   color: darkblue;
 }
   </style>
@@ -80,7 +80,8 @@ let subgoc = document.getElementById("subgoc");
 let subdich = document.getElementById("subdich");
 
 // Load phụ đề từ file JSON
-fetch('Subs/1ivMkhtGq4o.json')
+fetch('https://raw.githubusercontent.com/hoangco89/hoangco89.github.io/main/Subs/1ivMkhtGq4o.json')
+//fetch('Subs/1ivMkhtGq4o.json')
 .then(res => res.json())
 .then(data => subtitles = data);
 
