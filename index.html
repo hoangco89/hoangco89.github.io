@@ -132,9 +132,10 @@ function speakSubtitles() {
       if (currentTime >= sub.start && currentTime <= sub.end && !sub.spoken) {
         subgoc.textContent = sub.text;
         subdich.textContent = sub.textdich;
-        let utter = new SpeechSynthesisUtterance(subdich.textContent);
-        //utter.voice = voices[select_voice_sub.value];
-        utter.lang = 'vi-VN';
+        let utter = new SpeechSynthesisUtterance(sub.textdich);
+        //utter.voice = voiceChon;
+        let chosen = voices.find(v => v.lang === 'vi-VN' && (v.name.includes("Linh") || v.name.includes("An")));
+        utter.voice = chosen;
         speechSynthesis.cancel();
         speechSynthesis.speak(utter);
         sub.spoken = true;
