@@ -73,6 +73,7 @@ let player;
 let subtitles = []; 
 let lastTime = 0;
 let voices = [];
+let voiceChon = [];
 
 const select_voice_sub = document.getElementById("select_voice_sub");
 
@@ -116,7 +117,7 @@ loadVoices();
 
 
 function speakSubtitles() {
-  //player.mute();// đảm bảo mute
+  player.mute();// đảm bảo mute
   setInterval(() => {
     let currentTime = player.getCurrentTime();
 
@@ -145,8 +146,8 @@ function speakSubtitles() {
 function onPlayerReady(event) {
   select_voice_sub.addEventListener('change', () => {
     event.target.playVideo();
-    player.mute();// đảm bảo mute
-    speakSubtitles();
+    //player.mute();// đảm bảo mute
+    //speakSubtitles();
   });
 }
 
@@ -203,7 +204,7 @@ select_voice_sub.addEventListener("change", () => {
         xhttp.open("GET", url);
         xhttp.send();
     });
-
+    speakSubtitles();
 });
 
 </script>
