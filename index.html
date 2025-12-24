@@ -133,7 +133,8 @@ function speakSubtitles() {
         subgoc.textContent = sub.text;
         subdich.textContent = sub.textdich;
         let utter = new SpeechSynthesisUtterance(subdich.textContent);
-        utter.voice = voices[select_voice_sub.value];
+        //utter.voice = voices[select_voice_sub.value];
+        utter.lang = 'vi-VN';
         speechSynthesis.cancel();
         speechSynthesis.speak(utter);
         sub.spoken = true;
