@@ -42,6 +42,7 @@ select{
     margin: 0 auto; /* căn giữa ngang */
     width: auto;   /* tùy chọn */
   font-size: 2.0rem;
+  color:grey
   }
 #subgoc{
   text-align: left;
@@ -81,8 +82,8 @@ let subgoc = document.getElementById("subgoc");
 let subdich = document.getElementById("subdich");
 
 // Load phụ đề từ file JSON
-fetch('https://raw.githubusercontent.com/hoangco89/hoangco89.github.io/main/Subs/1ivMkhtGq4o.json')
-//fetch('Subs/1ivMkhtGq4o.json')
+//fetch('https://raw.githubusercontent.com/hoangco89/hoangco89.github.io/main/Subs/1ivMkhtGq4o.json')
+fetch('Subs/1ivMkhtGq4o.json')
 .then(res => res.json())
 .then(data => subtitles = data);
 
@@ -133,9 +134,10 @@ function speakSubtitles() {
         subgoc.textContent = sub.text;
         subdich.textContent = sub.textdich;
         let utter = new SpeechSynthesisUtterance(sub.textdich);
-        //utter.voice = voiceChon;
-        let chosen = voices.find(v => v.lang === 'vi-VN' && (v.name.includes("Linh") || v.name.includes("An")));
-        utter.voice = chosen;
+        const selectedVoice = voices[select_voice_sub.value];
+
+        utter.voice = selectedVoice;
+        //let chosen = voices.find(v => v.lang === 'vi-VN' && (v.name.includes("Linh") || v.name.includes("An")));
         speechSynthesis.cancel();
         speechSynthesis.speak(utter);
         sub.spoken = true;
