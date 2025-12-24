@@ -64,6 +64,7 @@ select{
     <div id="subgoc"></div><br>
     <select id="select_voice_sub"></select><br>
     <div id="subdich"></div>
+
 </div>        
 
 <script src="https://www.youtube.com/iframe_api"></script>
@@ -78,17 +79,15 @@ let voiceChon = [];
 
 const select_voice_sub = document.getElementById("select_voice_sub");
 
-let subgoc = document.getElementById("subgoc");
-let subdich = document.getElementById("subdich");
+const subgoc = document.getElementById("subgoc");
+const subdich = document.getElementById("subdich");
 
 // Load phụ đề từ file JSON
 //fetch('https://raw.githubusercontent.com/hoangco89/hoangco89.github.io/main/Subs/1ivMkhtGq4o.json')
-//fetch('Subs/1ivMkhtGq4o.json')
-//.then(res => res.json())
-//.then(data => subtitles = data);
+fetch('Subs/1ivMkhtGq4o.json')
+.then(res => res.json())
+.then(data => subtitles = data);
 
-//let subtitles = sub1; // Sử dụng biến sub1 từ file phụ đề
-subtitles = sub1; // Sử dụng biến sub1 từ file phụ đề
 
 function onYouTubeIframeAPIReady() {
   player = new YT.Player('player', {
@@ -136,14 +135,16 @@ function speakSubtitles() {
       if (currentTime >= sub.start && currentTime <= sub.end && !sub.spoken) {
         subgoc.textContent = sub.text;
         subdich.textContent = sub.textdich;
-        let utter = new SpeechSynthesisUtterance(sub.textdich);
-        const selectedVoice = voices[select_voice_sub.value];
+        
+        subdich.onclick = () => {
+          window.speechSynthesis.cancel();
+          const utterance = new SpeechSynthesisUtterance(sub.textdich);
+          utterance.voice = voices[select_voice_sub.value];
+          speechSynthesis.speak(utterance);
+          sub.spoken = true;
 
-        utter.voice = selectedVoice;
-        //let chosen = voices.find(v => v.lang === 'vi-VN' && (v.name.includes("Linh") || v.name.includes("An")));
-        speechSynthesis.cancel();
-        speechSynthesis.speak(utter);
-        sub.spoken = true;
+        }
+        subdich.click(); // tự động phát luôn
       }
     });
   }, 500);
@@ -204,7 +205,6 @@ select_voice_sub.addEventListener("change", () => {
                 //outputTextEle.textdich = outputText;
                 subtitles[i].textdich = outputText;
                 console.log(subtitles[i].textdich);
-
             }
         };
         //---------------------
@@ -215,6 +215,5 @@ select_voice_sub.addEventListener("change", () => {
 });
 
 </script>
-<script src="Subs/1ivMkhtGq4o.js"></script>
 </body>
 </html>
