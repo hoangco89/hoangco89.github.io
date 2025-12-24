@@ -62,8 +62,9 @@ select{
         <div id="player"></div>
     </div>
     <div id="subgoc"></div><br>
-    <select id="select_voice_sub"></select><br>
-    <button id="subdich"></button>
+    <select id="select_voice_sub"></select>
+    <button id="loa_button">🔊</button>
+    <div id="subdich"></div>
 
 </div>        
 
@@ -78,7 +79,7 @@ let voices = [];
 let voiceChon = [];
 
 const select_voice_sub = document.getElementById("select_voice_sub");
-
+const loa_button = document.getElementById("loa_button");
 const subgoc = document.getElementById("subgoc");
 const subdich = document.getElementById("subdich");
 
@@ -136,7 +137,7 @@ function speakSubtitles() {
         subgoc.textContent = sub.text;
         subdich.textContent = sub.textdich;
         
-        subdich.onclick = () => {
+        loa_button.onclick = () => {
           window.speechSynthesis.cancel();
           const utterance = new SpeechSynthesisUtterance(sub.textdich);
           utterance.voice = voices[select_voice_sub.value];
@@ -144,10 +145,10 @@ function speakSubtitles() {
           sub.spoken = true;
 
         }
-        subdich.click(); // tự động phát luôn
+        loa_button.click(); // tự động phát luôn
       }
     });
-  }, 300);
+  }, 500);
 }
 
 
