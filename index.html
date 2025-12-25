@@ -2,391 +2,56 @@
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
-<title>YouTube + Speak Subtitle</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Responsive YouTube Embed</title>
 <style>
-body {
-  font-family: sans-serif;
-  background-color: #f9f9f9;
-  color: #333;
-  padding: 0px;
+    body {
+font-family: Arial, sans-serif;
+padding: 20px;
 }
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 0px;
-  background-color: white;
-  border-radius: 8px;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+
+/* Khung bọc ngoài để canh giữa trên laptop */
+.video-wrapper {
+max-width: 800px; /* Giới hạn chiều rộng tối đa trên laptop */
+margin: 0 auto; /* Canh giữa theo chiều ngang */
 }
+
+/* Khung giữ tỷ lệ 16:9 */
 .video-container {
-  position: relative;
+position: relative;
 width: 100%;
-max-width: 800px; /* hoặc bất kỳ độ rộng tối đa nào bạn muốn */
-margin: 0 auto; /* canh giữa theo chiều ngang */
-padding-bottom: 56.25%;
+padding-bottom: 56.25%; /* 16:9 */
 height: 0;
 overflow: hidden;
-  
+background: #000;
 }
+
+/* Iframe chiếm toàn bộ khung */
 .video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
 }
-
-h1, h2,h3 {
-  text-align: center;
-  margin-bottom: 16px;
-}
-#select_voice_sub{
-    display: block;
-    margin: 0 auto; /* căn giữa ngang */
-    width: auto;   /* tùy chọn */
-  font-size: 1.2rem;
-  color:grey
-  }
-  #select_id{
-    display: block;
-    margin: 0 auto; /* căn giữa ngang */
-    width: auto;   /* tùy chọn */
-  font-size: 1.1rem;
-  color:grey
-  }
-
-#subgoc{
-  text-align: left;
-  font-size: 2.5rem;
-  color: darkgreen;
-  /* line-height: 2.5rem;         chiều cao 1 dòng */
-  /*  height: calc(2.5rem * 4);    luôn đúng 3 dòng */
-
-}
-#subdich{
-  text-align: right;
-  font-size: 3.0rem;
-  color: darkblue;
- /*  line-height: 3.0rem;         chiều cao 1 dòng */
- /*   height: calc(3.0rem * 4);   luôn đúng 3 dòng */
-
-}
-#loa_button{
-  font-size: 1.5rem;
-  border: none;
-  background-color: transparent;
-}
-  </style>
+</style>
 </head>
 <body>
-<div class="container">
-    <div class="video-container">
-        <div id="player"></div>
-    </div>
-    <div id="subgoc">Chọn phụ đề đọc</div><br>
-    <select id="select_voice_sub"></select>
-    <button id="loa_button">🔊</button>
-    <div id="subdich"></div><br><br><br>
-    <h3>Chọn Video Học Lái Xe:</h3>
-    <select id="select_id"></select><br><br><br>
 
 
-</div>        
-
-<script src="https://www.youtube.com/iframe_api"></script>
-
+<div class="video-wrapper">
+<h2>Ví dụ nhúng video YouTube responsive</h2>
+<div class="video-container">
+<iframe
+src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+frameborder="0"
+allowfullscreen>
+</iframe>
+</div>
+<h2>Ví dụ nhúng video YouTube responsive</h2>
+</div>
 
 <script>
-let player;
-let subtitles = []; 
-let lastTime = 0;
-let voices = [];
-let voiceChon = [];
-let VIDEO_ID = "";
-
-const select_voice_sub = document.getElementById("select_voice_sub");
-const loa_button = document.getElementById("loa_button");
-const subgoc = document.getElementById("subgoc");
-const subdich = document.getElementById("subdich");
-let lIdTitle_driver = [
-"CCCUTqJ3dBA|001: Learn How to Drive",
-"ud8tM2OXcmY|002: Learn How to Drive Car Controls",
-"ippjq7-QMS8|003: How to Drive a Car in a Straight Line",
-"F3lIyv20Y54|004: How To Control The Gas and Brake Pedals",
-"l2Vq6KkLolY|005: LEARN HOW TO MERGE  onto Highway Safely",
-"2cjcJv2G_qg|006: How To Pass Your Driver’s Test",
-"i-khzo9ApcY|007: How To Do a Three Point Turn",
-"icLfRpbFdGE|008: To Control Gas & Brake Pedal in a CAR",
-"W1FISN536HY|009: Techniques to Pass Your Road Test First Time",
-"5ojncFo1HNk|010: Learning to Drive a Car",
-"iF5wZnNPEIw|011: Park in Reverse",
-"9f4ioms-7Uc|012: What to Practice/Where to Start",
-"P2jdHup_vlY|013: How to Drive in a Straight Line",
-"ORuPdMPLz9Y|014: How To Change Lanes",
-"RNeRrcpmTF0|015: How to Pass Your Drivers Exam",
-"kXxEMuhr1sw|016: Learn How to Parallel Park",
-"N4JWp2YKQqo|017: IMPORTANT POINT IN THE DRIVING ROAD TEST",
-"gu1KKcyKSmI|018: First Time Behind the Wheel",
-"Ss6Gtpd5lVs|019: NEW 2023 Driving Test",
-"T9f1Rt3N87g|020: The Secret To Making Perfect Turns While Driving",
-"A5QkPbBKLlI|021: Master the Basics",
-"0Ni9trBmLq4|022: Top Mistakes to Avoid and Pass Your Driving Exam",
-"Ukk8s44BvZc|023: Lane Change Made Easy",
-"mkDQRVruJ9c|024: How To Change Lanes",
-"vmP_nQbmuPs|025: How to Exit Parking Spaces Like a Pro",
-"oq0SB8mXErw|026: How To Stay Centered in Your Lane",
-"bCYWfsVRl0c|027: How To Use Your Mirrors",
-"VKD4LjLV0tw|028: Reverse Parking",
-"5r87CvbrsAo|029: Lane Change Techniques: A Must-Watch Tutorial",
-"5DYuuV9FQzo|030: First Time Behind the Wheel",
-"kvuUSpZU44A|031: The DMV Test Guide",
-"8Vt3z2UH1jI|032: Ace Your Written Driving Test!",
-"PuFFijGgP7E|033: Mistakes To Avoid If You Want To Pass Your Road",
-"RTvywSBGzgo|034: How To Obtain Your Driver's License",
-"qE46UxUOv4c|035: The 10 Must-Knows for Beginners-Essential Tips",
-"o_Fvye2NWGw|036: Unlock Your Confidence: *Top Tips Revealed*",
-"Hkgsc4Wu28Q|037: Crush Your Parallel Parking Like a Boss!",
-"tGfLZGAk_sQ|038: Learn To Reverse Out of a Parking Space",
-"Ld-uWn2Mf3A|039: 3-Point Turns on Your Road Test!",
-"oB0kP5ilvts|040: How To Make Turns and Control The Steering Wheel",
-"TAoc4ZP_Y1M|041: How To Pass Your Driving Exam",
-"1ivMkhtGq4o|042: How To Drive On The Highway: Merging Techniques",
-"B6KVfzWt6EY|043: Learn to Drive Stick",
-"Uv1xCITxIxM|044: Lane-Keeping Tips for New Drivers",
-"LSv10gVeiCA|045: Navigating Your Car's Controls for Beginners",
-"vy6R-PxbLeQ|046: The Ultimate Traffic Sign Tutorial",
-"JgObYyIWMwA|047: What You Need To Know Before You Drive!",
-"PTSonLCKWu4|048: Your Road Test Survival Guide",
-"0e4JjNryU90|049: Overcoming Fear as a Beginner Driver",
-"HWzD4RnUvMk|050: Learn How to Park",
-"YhvWXhZOMfQ|051: Driving for the First Time: Step-by-Step Tutorial",
-"E2uXiQ91m2k|052: Mistakes That Will Fail Your Driving Test",
-"oYALXa3Y9I0|053: How to Accelerate and Brake Smoothly",
-"EpGlJxRlrgc|054: How To Make Turns",
-"QBxFs5Ms6Q4|055: Your First Time on the Highway",
-"yYL9cvZWRUI|056: Overcoming Driving Anxiety Fast",
-"pyTHd_DP15o|057: Pass The Road Test",
-"vn743_v_tyU|058: Driver's License 101",
-"6yOLoyq93BA|059: How to Handle Your First Drive in Traffic",
-"3A3RgJkojQY|060: 3-Point Turn Made Easy",
-"7XGwwH5ZgxA|061: What to Do When Pulled Over",
-"bA-VPf7eQ8A|062: How to Use Your Mirrors",
-"JC-VPFa2ox8|063: DMV Written Test Prep",
-"QS2Miq5m9N8|064: Parking For The First Time",
-"nKAWIhmoocY|065: Parallel Parking For The First Time",
-"MfKz5nKMI9M|066: How to Reverse Park Your Car",
-"-jxdQTSEXEo|067: Road Signs & Signals",
-"aVKM2Z9eePM|068: Your First Driving Lesson",
-"OaQEsDScaBU|069: Driving in Traffic For The First Time",
-"SxtqKhiZvFA|070: How to Pass Your Road Test First Time",
-"E4-_s2Tbz4Q|071: Top 5 Mistakes That Fail Your Driving",
-"3gkcKYViKkc|072: Straight Parking 101",
-"6j83BCu7CGs|073: Easy 3-Point Turn",
-"rGIFKjNtugw|074: How To Make Turns",
-"xFUiVnPT-e8|075: How To Make Turns for Drivers",
-"3P5lLbdOEE0|076: Go From Zero to Confident Driver",
-"GkKjHCtunes|077: Parallel Parking: The EASIEST Way Ever!",
-"y_vH9OyP5zs|078: Lane Changing for Beginners",
-"nHcG4_eTmMg|079: How to Drive On The Highway",
-"CZXU-CRPCKs|080: Must-Know Reversing Tips to Pass Your Driving",
-"f4jcZshsmVU|081: Is Tesla the Best Electric Car",
-"0znTbKmCRz4|082: How to Get ROAD TEST READY in 24 Hours!",
-"Y_HcH6BSK60|083: How to Stay in Your Lane",
-"tWQ5xYNnJtM|084: Use Pedals, Adjust Seat, & Set Mirrors!",
-"EMCzxnhc6PQ|085: PASS your Driving avoiding these mistakes!",
-"Dvpw0XbsPBU|086: Road Sign and Street Signal You Need to Know!",
-"OPjrBtX1e2M|087: ROAD TEST DAY",
-"H_4blrvHvhI|088: How to Exit a Parking Space",
-"boAHA39qXpI|089: How To Park a Car",
-"Pke1Ix4A7Ms|090: How To Turn The Steering Wheel",
-"kF4SbzZiPBQ|091: CDL PRACTICE TEST 2025: Pre-Trip Inspection",
-"bpC3FR-Vidg|092: CDL PRACTICE TEST 2025: Hazmat Endorsement",
-"mm6w3ccNxb4|093: Three-Point Turn Tutorial",
-"MW1tr5j3zPA|094: Gas and Brake Control",
-"EXzcsEv_jZg|095: How to Pass Your Road Test",
-"cRUWI4ErLQU|096: Overcoming Driving Anxiety",
-"70zPW7t5_eQ|097: How to Get Your Driver's License",
-"jt5zc8EYRGc|098: Your Last Minute GUIDE to pass!",
-"l4Z13XGxFlA|099: Learn Traffic Signs & Street Markings",
-"tpYM_xaTsOA|100: How To Use Your Vehicle's Blind Spots",
-"MCYf0C88XdQ|101: Bộ đề số 1",
-"evOX9f2Mfcc|102: 100 Important Road Signs with their Meanings"
-];
-
-//Tu lít tren Tao bien videos co dang sau:
-//const videos = [
-//      { id: "tpYM_xaTsOA", subtitle: "tpYM_xaTsOA.json", title: "001: How To Use Your Vehicle's Blind Spots" },
-//      { id: "ud8tM2OXcmY", subtitle: "ud8tM2OXcmY.json", title: "003: Learn How to Drive Car Controls" }
-//    ];
-const videos = lIdTitle_driver.map(item => {
-  const [id, title] = item.split("|");
-  return {
-    id: id,
-    subtitle: `${id}.json`,
-    title: title.trim()
-  };
-});
-
-
-console.log(videos);    
-
-const selec_id = document.getElementById("select_id");
-videos.forEach((v, index) => {
-  const option = document.createElement("option");
-  option.value = index;
-  option.textContent = v.title;
-  select_id.appendChild(option);
-});
-
-VIDEO_ID = videos[0].id; // Mặc định video ID đầu tiên
-fetch(`Subs/${VIDEO_ID}.json`)
-.then(res => res.json())
-.then(data => subtitles = data);
-
-
-select_id.addEventListener("change", () => {
-    const selectedIndex = select_id.value;
-    VIDEO_ID = videos[selectedIndex].id;
-    console.log("Chọn video ID:", VIDEO_ID);
-    // Tải phụ đề mới
-    fetch(`Subs/${VIDEO_ID}.json`)
-    .then(res => res.json())
-    .then(data => {
-        subtitles = data;
-        resetAllSubtitles();
-        player.loadVideoById(VIDEO_ID);
-    });
-});
-
-
-
-
-function onYouTubeIframeAPIReady() {
-  player = new YT.Player('player', {
-    height: '525',
-    width: '700',
-    videoId: `${VIDEO_ID}`,
-    events: {
-      'onReady': onPlayerReady,
-      'onStateChange': onPlayerStateChange
-    }
-  });
-}
-
-// Tải danh sách voice
-function loadVoices() {
-  voices = speechSynthesis.getVoices();
-
-  select_voice_sub.innerHTML = "";
-
-  voices.forEach((v, i) => {
-      const option = document.createElement("option");
-      option.value = i;
-      option.textContent = `${v.lang} (${v.name})`;
-      select_voice_sub.appendChild(option);
-  });
-}
-// Chờ voice load
-speechSynthesis.onvoiceschanged = loadVoices;
-loadVoices();
-
-
-function speakSubtitles() {
-  player.mute();// đảm bảo mute
-  setInterval(() => {
-    let currentTime = player.getCurrentTime();
-
-    // Kiểm tra tua video theo mọi hướng
-    if (Math.abs(currentTime - lastTime) > 1.0) {
-      resetAllSubtitles();
-    }
-    lastTime = currentTime;
-
-    // Đọc phụ đề
-    subtitles.forEach(sub => {
-      if (currentTime >= sub.start && currentTime <= sub.end && !sub.spoken) {
-        subgoc.textContent = sub.text;
-        subdich.textContent = sub.textdich;
-        
-        loa_button.onclick = () => {
-          window.speechSynthesis.cancel();
-          const utterance = new SpeechSynthesisUtterance(sub.textdich);
-          utterance.voice = voices[select_voice_sub.value];
-          speechSynthesis.speak(utterance);
-          sub.spoken = true;
-
-        }
-        loa_button.click(); // tự động phát luôn
-      }
-    });
-  }, 500);
-}
-
-
-function onPlayerReady(event) {
-  select_voice_sub.addEventListener('change', () => {
-    event.target.playVideo();
-    //player.mute();// đảm bảo mute
-    //speakSubtitles();
-  });
-}
-
-
-// Reset toàn bộ phụ đề
-function resetAllSubtitles() {
-  subtitles.forEach(sub => sub.spoken = false);
-  speechSynthesis.cancel();
-}
-
-function onPlayerStateChange(event) {
-  // Khi pause hoặc buffering cũng reset để đảm bảo đồng bộ
-  if (event.data === YT.PlayerState.PAUSED || event.data === YT.PlayerState.BUFFERING) {
-    resetAllSubtitles();
-  }
-}
-
-
-select_voice_sub.addEventListener("change", () => {
-    // Lựa chọn voice mới
-    const index = select_voice_sub.value;
-    const selectedVoice = voices[index];
-    voiceChon = selectedVoice;
-    console.log(selectedVoice.lang);
-
-    let sourceLanguage = 'en';
-    let targetLanguage = selectedVoice.lang.slice(0,2);
-    console.log(sourceLanguage, targetLanguage);
-    //tao texts la list chua cac text cua subtitles
-    let texts = subtitles.map(item => item.text);
-    let textdichs = subtitles.map(item => item.textdich);
-
-    //console.log(texts);
-    
-    Array.prototype.forEach.call(texts, function(cau,i) {
-        let inputText = cau;
-        let outputTextEle = textdichs[i];
-
-        const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sourceLanguage}&tl=${targetLanguage}&dt=t&q=${encodeURI(inputText)}`;
-
-        const xhttp = new XMLHttpRequest();
-        xhttp.onreadystatechange = function () {
-            if (this.readyState == 4 && this.status == 200){
-                const responseReturned = JSON.parse(this.responseText);
-                const translations = responseReturned[0].map((text) => text[0]);
-                const outputText = translations.join(" ");
-                //outputTextEle.textdich = outputText;
-                subtitles[i].textdich = outputText;
-                console.log(subtitles[i].textdich);
-            }
-        };
-        //---------------------
-        xhttp.open("GET", url);
-        xhttp.send();
-    });
-    speakSubtitles();
-});
-//---------------------
 
 </script>
 </body>
