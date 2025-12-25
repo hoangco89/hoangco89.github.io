@@ -93,144 +93,12 @@ let subtitles = [];
 let lastTime = 0;
 let voices = [];
 let voiceChon = [];
+let VIDEO_ID = "";
 
 const select_voice_sub = document.getElementById("select_voice_sub");
 const loa_button = document.getElementById("loa_button");
 const subgoc = document.getElementById("subgoc");
 const subdich = document.getElementById("subdich");
-
-const VIDEO_ID = "1ivMkhtGq4o"; // Mặc định video ID
-// Load phụ đề từ file JSON
-fetch(`Subs/${VIDEO_ID}.json`)
-.then(res => res.json())
-.then(data => subtitles = data);
-
-
-function onYouTubeIframeAPIReady() {
-  player = new YT.Player('player', {
-    height: '525',
-    width: '700',
-    videoId: `${VIDEO_ID}`,
-    events: {
-      'onReady': onPlayerReady,
-      'onStateChange': onPlayerStateChange
-    }
-  });
-}
-
-// Tải danh sách voice
-function loadVoices() {
-  voices = speechSynthesis.getVoices();
-
-  select_voice_sub.innerHTML = "";
-
-  voices.forEach((v, i) => {
-      const option = document.createElement("option");
-      option.value = i;
-      option.textContent = `${v.lang} (${v.name})`;
-      select_voice_sub.appendChild(option);
-  });
-}
-// Chờ voice load
-speechSynthesis.onvoiceschanged = loadVoices;
-loadVoices();
-
-
-function speakSubtitles() {
-  player.mute();// đảm bảo mute
-  setInterval(() => {
-    let currentTime = player.getCurrentTime();
-
-    // Kiểm tra tua video theo mọi hướng
-    if (Math.abs(currentTime - lastTime) > 1.0) {
-      resetAllSubtitles();
-    }
-    lastTime = currentTime;
-
-    // Đọc phụ đề
-    subtitles.forEach(sub => {
-      if (currentTime >= sub.start && currentTime <= sub.end && !sub.spoken) {
-        subgoc.textContent = sub.text;
-        subdich.textContent = sub.textdich;
-        
-        loa_button.onclick = () => {
-          window.speechSynthesis.cancel();
-          const utterance = new SpeechSynthesisUtterance(sub.textdich);
-          utterance.voice = voices[select_voice_sub.value];
-          speechSynthesis.speak(utterance);
-          sub.spoken = true;
-
-        }
-        loa_button.click(); // tự động phát luôn
-      }
-    });
-  }, 500);
-}
-
-
-function onPlayerReady(event) {
-  select_voice_sub.addEventListener('change', () => {
-    event.target.playVideo();
-    //player.mute();// đảm bảo mute
-    //speakSubtitles();
-  });
-}
-
-
-// Reset toàn bộ phụ đề
-function resetAllSubtitles() {
-  subtitles.forEach(sub => sub.spoken = false);
-  speechSynthesis.cancel();
-}
-
-function onPlayerStateChange(event) {
-  // Khi pause hoặc buffering cũng reset để đảm bảo đồng bộ
-  if (event.data === YT.PlayerState.PAUSED || event.data === YT.PlayerState.BUFFERING) {
-    resetAllSubtitles();
-  }
-}
-
-
-select_voice_sub.addEventListener("change", () => {
-    // Lựa chọn voice mới
-    const index = select_voice_sub.value;
-    const selectedVoice = voices[index];
-    voiceChon = selectedVoice;
-    console.log(selectedVoice.lang);
-
-    let sourceLanguage = 'en';
-    let targetLanguage = selectedVoice.lang.slice(0,2);
-    console.log(sourceLanguage, targetLanguage);
-    //tao texts la list chua cac text cua subtitles
-    let texts = subtitles.map(item => item.text);
-    let textdichs = subtitles.map(item => item.textdich);
-
-    //console.log(texts);
-    
-    Array.prototype.forEach.call(texts, function(cau,i) {
-        let inputText = cau;
-        let outputTextEle = textdichs[i];
-
-        const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sourceLanguage}&tl=${targetLanguage}&dt=t&q=${encodeURI(inputText)}`;
-
-        const xhttp = new XMLHttpRequest();
-        xhttp.onreadystatechange = function () {
-            if (this.readyState == 4 && this.status == 200){
-                const responseReturned = JSON.parse(this.responseText);
-                const translations = responseReturned[0].map((text) => text[0]);
-                const outputText = translations.join(" ");
-                //outputTextEle.textdich = outputText;
-                subtitles[i].textdich = outputText;
-                console.log(subtitles[i].textdich);
-            }
-        };
-        //---------------------
-        xhttp.open("GET", url);
-        xhttp.send();
-    });
-    speakSubtitles();
-});
-//---------------------
 let lIdTitle_driver = [
 "CCCUTqJ3dBA|001: Learn How to Drive",
 "ud8tM2OXcmY|002: Learn How to Drive Car Controls",
@@ -360,18 +228,155 @@ videos.forEach((v, index) => {
   option.textContent = v.title;
   select_id.appendChild(option);
 });
-    
-function chonVideoId() {
-  const index = select_id.value;
-  const videoData = videos[index];
-  // Load sub
-  fetch("Subs/"+videoData.subtitle)
-  .then(res => res.json())
-  .then(data => {
-    subtitles = data;
+
+VIDEO_ID = videos[0].id; // Mặc định video ID đầu tiên
+fetch(`Subs/${VIDEO_ID}.json`)
+.then(res => res.json())
+.then(data => subtitles = data);
+
+
+select_id.addEventListener("change", () => {
+    const selectedIndex = select_id.value;
+    VIDEO_ID = videos[selectedIndex].id;
+    console.log("Chọn video ID:", VIDEO_ID);
+    // Tải phụ đề mới
+    fetch(`Subs/${VIDEO_ID}.json`)
+    .then(res => res.json())
+    .then(data => {
+        subtitles = data;
+        resetAllSubtitles();
+        player.loadVideoById(VIDEO_ID);
+    });
+});
+
+
+
+
+function onYouTubeIframeAPIReady() {
+  player = new YT.Player('player', {
+    height: '525',
+    width: '700',
+    videoId: `${VIDEO_ID}`,
+    events: {
+      'onReady': onPlayerReady,
+      'onStateChange': onPlayerStateChange
+    }
   });
 }
 
+// Tải danh sách voice
+function loadVoices() {
+  voices = speechSynthesis.getVoices();
+
+  select_voice_sub.innerHTML = "";
+
+  voices.forEach((v, i) => {
+      const option = document.createElement("option");
+      option.value = i;
+      option.textContent = `${v.lang} (${v.name})`;
+      select_voice_sub.appendChild(option);
+  });
+}
+// Chờ voice load
+speechSynthesis.onvoiceschanged = loadVoices;
+loadVoices();
+
+
+function speakSubtitles() {
+  player.mute();// đảm bảo mute
+  setInterval(() => {
+    let currentTime = player.getCurrentTime();
+
+    // Kiểm tra tua video theo mọi hướng
+    if (Math.abs(currentTime - lastTime) > 1.0) {
+      resetAllSubtitles();
+    }
+    lastTime = currentTime;
+
+    // Đọc phụ đề
+    subtitles.forEach(sub => {
+      if (currentTime >= sub.start && currentTime <= sub.end && !sub.spoken) {
+        subgoc.textContent = sub.text;
+        subdich.textContent = sub.textdich;
+        
+        loa_button.onclick = () => {
+          window.speechSynthesis.cancel();
+          const utterance = new SpeechSynthesisUtterance(sub.textdich);
+          utterance.voice = voices[select_voice_sub.value];
+          speechSynthesis.speak(utterance);
+          sub.spoken = true;
+
+        }
+        loa_button.click(); // tự động phát luôn
+      }
+    });
+  }, 500);
+}
+
+
+function onPlayerReady(event) {
+  select_voice_sub.addEventListener('change', () => {
+    event.target.playVideo();
+    //player.mute();// đảm bảo mute
+    //speakSubtitles();
+  });
+}
+
+
+// Reset toàn bộ phụ đề
+function resetAllSubtitles() {
+  subtitles.forEach(sub => sub.spoken = false);
+  speechSynthesis.cancel();
+}
+
+function onPlayerStateChange(event) {
+  // Khi pause hoặc buffering cũng reset để đảm bảo đồng bộ
+  if (event.data === YT.PlayerState.PAUSED || event.data === YT.PlayerState.BUFFERING) {
+    resetAllSubtitles();
+  }
+}
+
+
+select_voice_sub.addEventListener("change", () => {
+    // Lựa chọn voice mới
+    const index = select_voice_sub.value;
+    const selectedVoice = voices[index];
+    voiceChon = selectedVoice;
+    console.log(selectedVoice.lang);
+
+    let sourceLanguage = 'en';
+    let targetLanguage = selectedVoice.lang.slice(0,2);
+    console.log(sourceLanguage, targetLanguage);
+    //tao texts la list chua cac text cua subtitles
+    let texts = subtitles.map(item => item.text);
+    let textdichs = subtitles.map(item => item.textdich);
+
+    //console.log(texts);
+    
+    Array.prototype.forEach.call(texts, function(cau,i) {
+        let inputText = cau;
+        let outputTextEle = textdichs[i];
+
+        const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sourceLanguage}&tl=${targetLanguage}&dt=t&q=${encodeURI(inputText)}`;
+
+        const xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200){
+                const responseReturned = JSON.parse(this.responseText);
+                const translations = responseReturned[0].map((text) => text[0]);
+                const outputText = translations.join(" ");
+                //outputTextEle.textdich = outputText;
+                subtitles[i].textdich = outputText;
+                console.log(subtitles[i].textdich);
+            }
+        };
+        //---------------------
+        xhttp.open("GET", url);
+        xhttp.send();
+    });
+    speakSubtitles();
+});
+//---------------------
 
 </script>
 </body>
