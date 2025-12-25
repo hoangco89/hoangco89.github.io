@@ -8,7 +8,7 @@ body {
   font-family: sans-serif;
   background-color: #f9f9f9;
   color: #333;
-  padding: 1px;
+  padding: 0px;
 }
 .container {
   max-width: 800px;
@@ -20,10 +20,13 @@ body {
 }
 .video-container {
   position: relative;
-  width: 100%;
-  padding-bottom: 56.25%;
-  height: 0;
-  margin-bottom: 16px;
+width: 100%;
+max-width: 800px; /* hoặc bất kỳ độ rộng tối đa nào bạn muốn */
+margin: 0 auto; /* canh giữa theo chiều ngang */
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+  
 }
 .video-container iframe {
   position: absolute;
@@ -33,6 +36,7 @@ body {
   height: 100%;
   border: 0;
 }
+
 h1, h2,h3 {
   text-align: center;
   margin-bottom: 16px;
@@ -56,11 +60,17 @@ h1, h2,h3 {
   text-align: left;
   font-size: 2.5rem;
   color: darkgreen;
+  /* line-height: 2.5rem;         chiều cao 1 dòng */
+  /*  height: calc(2.5rem * 4);    luôn đúng 3 dòng */
+
 }
 #subdich{
   text-align: right;
   font-size: 3.0rem;
   color: darkblue;
+ /*  line-height: 3.0rem;         chiều cao 1 dòng */
+ /*   height: calc(3.0rem * 4);   luôn đúng 3 dòng */
+
 }
 #loa_button{
   font-size: 1.5rem;
