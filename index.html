@@ -13,16 +13,12 @@ max-width: 800px; /* Giới hạn chiều rộng tối đa trên laptop */
 margin: 0 auto; /* Canh giữa theo chiều ngang */
 }
 .video-container {
-  position: relative;
+position: relative;
 width: 100%;
 padding-bottom: 56.25%; /* 16:9 */
-height: 0;
-overflow: hidden;
-background: #000;
-
 }
 .video-container iframe {
-  position: absolute;
+position: absolute;
 top: 0;
 left: 0;
 width: 100%;
@@ -44,7 +40,7 @@ h1, h2,h3 {
     display: block;
     margin: 0 auto; /* căn giữa ngang */
     width: auto;   /* tùy chọn */
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   color:grey
   }
 
@@ -52,17 +48,11 @@ h1, h2,h3 {
   text-align: left;
   font-size: 2.5rem;
   color: darkgreen;
-  /* line-height: 2.5rem;         chiều cao 1 dòng */
-  /*  height: calc(2.5rem * 4);    luôn đúng 3 dòng */
-
 }
 #subdich{
   text-align: right;
   font-size: 3.0rem;
   color: darkblue;
- /*  line-height: 3.0rem;         chiều cao 1 dòng */
- /*   height: calc(3.0rem * 4);   luôn đúng 3 dòng */
-
 }
 #loa_button{
   font-size: 1.5rem;
@@ -86,7 +76,7 @@ h1, h2,h3 {
     <select id="select_voice_sub"></select>
     <button id="loa_button">🔊</button>
     <div id="subdich"></div><br><br><br>
-    <h3>Chọn Video Học Lái Xe:</h3>
+    <h2>Chọn video Học Lái Xe hoặc Thi QT Mỹ:</h2>
     <select id="select_id"></select><br><br><br>
 
 
@@ -209,7 +199,23 @@ let lIdTitle_driver = [
 "l4Z13XGxFlA|099: Learn Traffic Signs & Street Markings",
 "tpYM_xaTsOA|100: How To Use Your Vehicle's Blind Spots",
 "MCYf0C88XdQ|101: Bộ đề số 1",
-"evOX9f2Mfcc|102: 100 Important Road Signs with their Meanings"
+"evOX9f2Mfcc|102: 100 Important Road Signs with their Meanings",
+"00000000000|----------------- BO DE THI QT MY -----------------",
+"uZz8tcItyv8|01: USCIS 128 Civics Questions and SIMPLE Answers Repeat 2X",
+"f3Axko3ZALg|02: 128 Civics Questions and answers RANDOM Order 2X",
+"DV531IM4WZw|03: USCIS 128 Civics Questions and SIMPLE Answers in RANDOM ORDER",
+"JwpxncI-ILg|04: USCIS 2008 and 2025 Civics Tests — ALL Questions in One Video!",
+"burAsJLxM9k|05: DON'T SAY THESE PHRASES during your N-400 Interview",
+"Zzt1Wk_117A|06: 2025 N400 English Reading and Writing Test Sentences",
+"dA_zVI1-_Ak|07: N400 50 English Writing Test Sentences",
+"xaRqw0icVbo|08: 2025 N-400 Part 9 Vocabulary Definitions",
+"yiXOr9kQVnM|09: N400 Part 9 40+ MOST ASKED N400 VOCABULARY",
+"8KF6Yo9Jkso|10: 2025 N-400 Part 9 Word Definitions & Questions",
+"uBf-PsKSkUU|11: NEW N-400 Interview",
+"wKt2hLQqhQQ|12: N-400 Interview",
+"I21BOVXaPC4|13: US Citizenship Interview",
+"iokZB8Y52aE|14: How to Apply for a US Passport for the 1st Time",
+"SkG2TSOBLzI|15: Things you NEED to do after becom a US Citizen"
 ];
 
 //Tu lít tren Tao bien videos co dang sau:
