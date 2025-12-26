@@ -46,26 +46,27 @@ height: 100%;
 <div class="video-wrapper">
     <div class="video-container">
         <iframe
-            src="https://www.youtube.com/embed/CCCUTqJ3dBA?enablejsapi=1"
+            src=""
             frameborder="0"
             allowfullscreen>
         </iframe>
+        <div id="player"></div>
     </div>
-        <div id="status">Status: Waiting...</div>
-    <div id="subtitle">[subtitle]</div>
 
+    <div id="subgoc">Phụ đề gốc:</div><br>
+    <select id="select_voice_sub"></select>
+
+    <button id="loa_button">🔊</button>
+    <div id="subdich">Phụ đề dịch:</div><br><br><br>
     <hr>
-    
-    <div class="row-bar">
-      <button id="btn_user_speak">🗣️En</button>
-          <div class="controls">
-      <select id="select_driver" onchange="chonUnitDriver()"></select>
-    </div>
 
-      <button id="btn_robot_read">🔊Vi</button>
-    </div>
+    <h2>Chọn video Học Lái Xe hoặc Thi QT Mỹ:</h2>
+    <select id="select_id"></select><br><br><br>
 
 </div>
+
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="index.js"></script>
 
 </body>
 </html>

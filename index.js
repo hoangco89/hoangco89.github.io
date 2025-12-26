@@ -1,3 +1,14 @@
+let player;
+let subtitles = []; 
+let lastTime = 0;
+let voices = [];
+let voiceChon = [];
+let VIDEO_ID = "";
+
+const select_voice_sub = document.getElementById("select_voice_sub");
+const loa_button = document.getElementById("loa_button");
+const subgoc = document.getElementById("subgoc");
+const subdich = document.getElementById("subdich");
 let lIdTitle_driver = [
 "CCCUTqJ3dBA|001: Learn How to Drive",
 "ud8tM2OXcmY|002: Learn How to Drive Car Controls",
@@ -99,13 +110,25 @@ let lIdTitle_driver = [
 "jt5zc8EYRGc|098: Your Last Minute GUIDE to pass!",
 "l4Z13XGxFlA|099: Learn Traffic Signs & Street Markings",
 "tpYM_xaTsOA|100: How To Use Your Vehicle's Blind Spots",
-"MCYf0C88XdQ|01: Bộ đề số 1"
+"MCYf0C88XdQ|101: Bộ đề số 1",
+"evOX9f2Mfcc|102: 100 Important Road Signs with their Meanings",
+"00000000000|---BO DE THI QT MY---",
+"uZz8tcItyv8|01: USCIS 128 Civics Questions and SIMPLE Answers Repeat 2X",
+"f3Axko3ZALg|02: 128 Civics Questions and answers RANDOM Order 2X",
+"DV531IM4WZw|03: USCIS 128 Civics Questions and SIMPLE Answers in RANDOM ORDER",
+"JwpxncI-ILg|04: USCIS 2008 and 2025 Civics Tests — ALL Questions in One Video!",
+"burAsJLxM9k|05: DON'T SAY THESE PHRASES during your N-400 Interview",
+"Zzt1Wk_117A|06: 2025 N400 English Reading and Writing Test Sentences",
+"dA_zVI1-_Ak|07: N400 50 English Writing Test Sentences",
+"xaRqw0icVbo|08: 2025 N-400 Part 9 Vocabulary Definitions",
+"yiXOr9kQVnM|09: N400 Part 9 40+ MOST ASKED N400 VOCABULARY",
+"8KF6Yo9Jkso|10: 2025 N-400 Part 9 Word Definitions & Questions",
+"uBf-PsKSkUU|11: NEW N-400 Interview",
+"wKt2hLQqhQQ|12: N-400 Interview",
+"I21BOVXaPC4|13: US Citizenship Interview",
+"iokZB8Y52aE|14: How to Apply for a US Passport for the 1st Time",
+"SkG2TSOBLzI|15: Things you NEED to do after becom a US Citizen"
 ];
-
-let player;
-let subtitles = [];
-let currentIndex = 0;
-let langSpeak = "vi-VN";
 
 //Tu lít tren Tao bien videos co dang sau:
 //const videos = [
@@ -124,122 +147,159 @@ const videos = lIdTitle_driver.map(item => {
 
 console.log(videos);    
 
-const selectEl = document.getElementById("select_driver");
+const selec_id = document.getElementById("select_id");
 videos.forEach((v, index) => {
   const option = document.createElement("option");
   option.value = index;
   option.textContent = v.title;
-  selectEl.appendChild(option);
+  select_id.appendChild(option);
 });
-    
-function chonUnitDriver() {
-  const index = selectEl.value;
-  const videoData = videos[index];
-  // Load sub
-  fetch("Subs/"+videoData.subtitle)
-  .then(res => res.json())
-  .then(data => {
-    subtitles = data;
-    currentIndex = 0;
 
-    // Load video
-    if (player && player.loadVideoById) {
-      player.loadVideoById(videoData.id);
-    } else {
-      document.getElementById("iframe_yt").src =
-          `https://www.youtube.com/embed/${videoData.id}?enablejsapi=1`;
-          // phai co them ?enablejsapi=1 tren day va trong html thi sub moi tu dong noi
-    }
-  });
-}
+VIDEO_ID = videos[0].id; // Mặc định video ID đầu tiên
+fetch(`Subs/${VIDEO_ID}.json`)
+.then(res => res.json())
+.then(data => subtitles = data);
+
+
+select_id.addEventListener("change", () => {
+    const selectedIndex = select_id.value;
+    VIDEO_ID = videos[selectedIndex].id;
+    console.log("Chọn video ID:", VIDEO_ID);
+    // Tải phụ đề mới
+    fetch(`Subs/${VIDEO_ID}.json`)
+    .then(res => res.json())
+    .then(data => {
+        subtitles = data;
+        resetAllSubtitles();
+        player.loadVideoById(VIDEO_ID);
+    });
+});
+
+
+
 
 function onYouTubeIframeAPIReady() {
-  const firstVideo = videos[0];
-  player = new YT.Player('iframe_yt', {
-    videoId: firstVideo.id,
+  player = new YT.Player('player', {
+    height: '525',
+    width: '700',
+    videoId: `${VIDEO_ID}`,
     events: {
       'onReady': onPlayerReady,
       'onStateChange': onPlayerStateChange
     }
   });
+}
 
-  fetch("Subs/"+firstVideo.subtitle)
-  .then(res => res.json())
-  .then(data => {
-    subtitles = data;
+// Tải danh sách voice
+function loadVoices() {
+  voices = speechSynthesis.getVoices();
+
+  select_voice_sub.innerHTML = "";
+
+  voices.forEach((v, i) => {
+      const option = document.createElement("option");
+      option.value = i;
+      option.textContent = `${v.lang} (${v.name})`;
+      select_voice_sub.appendChild(option);
+  });
+}
+// Chờ voice load
+speechSynthesis.onvoiceschanged = loadVoices;
+loadVoices();
+
+
+function speakSubtitles() {
+  player.mute();// đảm bảo mute
+  setInterval(() => {
+    let currentTime = player.getCurrentTime();
+
+    // Kiểm tra tua video theo mọi hướng
+    if (Math.abs(currentTime - lastTime) > 1.0) {
+      resetAllSubtitles();
+    }
+    lastTime = currentTime;
+
+    // Đọc phụ đề
+    subtitles.forEach(sub => {
+      if (currentTime >= sub.start && currentTime <= sub.end && !sub.spoken) {
+        subgoc.textContent = sub.text;
+        subdich.textContent = sub.textdich;
+        
+        loa_button.onclick = () => {
+          window.speechSynthesis.cancel();
+          const utterance = new SpeechSynthesisUtterance(sub.textdich);
+          utterance.voice = voices[select_voice_sub.value];
+          speechSynthesis.speak(utterance);
+          sub.spoken = true;
+
+        }
+        loa_button.click(); // tự động phát luôn
+      }
+    });
+  }, 500);
+}
+
+
+function onPlayerReady(event) {
+  select_voice_sub.addEventListener('change', () => {
+    event.target.playVideo();
+    //player.mute();// đảm bảo mute
+    //speakSubtitles();
   });
 }
 
-function onPlayerReady(event) {
-  event.target.mute(); // đảm bảo mute
-  btn_robot_read.disabled = true;
-  //event.target.playVideo(); // tự động chạy (nếu cần)
-  document.getElementById("status").textContent = "Status: Ready. Click play!";
+
+// Reset toàn bộ phụ đề
+function resetAllSubtitles() {
+  subtitles.forEach(sub => sub.spoken = false);
+  speechSynthesis.cancel();
 }
 
 function onPlayerStateChange(event) {
-  if (event.data === YT.PlayerState.PLAYING) {
-    checkTimeLoop();
+  // Khi pause hoặc buffering cũng reset để đảm bảo đồng bộ
+  if (event.data === YT.PlayerState.PAUSED || event.data === YT.PlayerState.BUFFERING) {
+    resetAllSubtitles();
   }
 }
 
-function checkTimeLoop() {
-  const interval = setInterval(() => {
-    if (player.getPlayerState() !== YT.PlayerState.PLAYING) {
-      clearInterval(interval);
-      return;
-    }
 
-    const currentTime = player.getCurrentTime();
+select_voice_sub.addEventListener("change", () => {
+    // Lựa chọn voice mới
+    const index = select_voice_sub.value;
+    const selectedVoice = voices[index];
+    voiceChon = selectedVoice;
+    console.log(selectedVoice.lang);
 
-    if (currentIndex < subtitles.length) {
-      const sub = subtitles[currentIndex];
-      if (currentTime >= sub.start && currentTime <= sub.end) {
-        if (btn_robot_read.disabled){
-          speak(sub.textdich);
+    let sourceLanguage = 'en';
+    let targetLanguage = selectedVoice.lang.slice(0,2);
+    console.log(sourceLanguage, targetLanguage);
+    //tao texts la list chua cac text cua subtitles
+    let texts = subtitles.map(item => item.text);
+    let textdichs = subtitles.map(item => item.textdich);
+
+    //console.log(texts);
+    
+    Array.prototype.forEach.call(texts, function(cau,i) {
+        let inputText = cau;
+        let outputTextEle = textdichs[i];
+
+        const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sourceLanguage}&tl=${targetLanguage}&dt=t&q=${encodeURI(inputText)}`;
+
+        const xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200){
+                const responseReturned = JSON.parse(this.responseText);
+                const translations = responseReturned[0].map((text) => text[0]);
+                const outputText = translations.join(" ");
+                //outputTextEle.textdich = outputText;
+                subtitles[i].textdich = outputText;
+                console.log(subtitles[i].textdich);
+            }
         };
-        document.getElementById("status").textContent = sub.text;
-        document.getElementById("subtitle").textContent = sub.textdich;
-        currentIndex++;
-      }
-    }
-  }, 300);
-}
-
-function speak(text) {
-  const utter = new SpeechSynthesisUtterance(text);
-  const voices = speechSynthesis.getVoices(); // Kích hoạt tải voice
-  const voiceViChon = voices.find(v => v.lang === 'vi-VN' && (v.name.includes('An') || v.name.includes('Linh')));
-  console.log(voiceViChon);
-
-  utter.voice = voiceViChon;
-  utter.rate = 1.6;
-  speechSynthesis.cancel(); // Dừng nếu đang nói
-  speechSynthesis.speak(utter);
-}
-
-//khi click btn_user_speak thi thuc thi nhu ben trong   
-btn_user_speak.addEventListener("click", function(event) {
-//active lai nut btn_robot_read dang liet
-player.unMute();// đảm bảo mute
-
-btn_robot_read.disabled = false;
-
-//lam liet nut btn_user_speak
-btn_user_speak.disabled = true;
-//chi speak vi khi nut btn_robot_read dang liet
+        //---------------------
+        xhttp.open("GET", url);
+        xhttp.send();
+    });
+    speakSubtitles();
 });
 
-//khi click btn_robot_read thi thuc thi nhu ben trong   
-btn_robot_read.addEventListener("click", function(event) {
-  player.mute();// đảm bảo mute
-
-  btn_robot_read.disabled = true;
-  btn_user_speak.disabled = false;
-
-});
-
-// Tải YouTube API
-const tag = document.createElement('script');
-tag.src = "https://www.youtube.com/iframe_api";
-document.body.appendChild(tag);
