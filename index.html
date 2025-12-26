@@ -38,8 +38,45 @@ left: 0;
 width: 100%;
 height: 100%;
 }
+#select_voice_sub {
+    position: relative;
+    right: 0;
+    top: auto; /* tuỳ bạn */
+    width: 5%;
+    min-width: 60px; /* tránh quá nhỏ trên mobile */
+    box-sizing: border-box;
+  font-size: 1.0rem;
+}
+#subgoc{
+  text-align: right;
+  font-size: 1.5rem;
+  color: darkgreen;
+}
+#subdich{
+  text-align: left;
+  font-size: 1.6rem;
+  color: darkblue;
+}
+#loa_button{
+  font-size: 1.0rem;
+  border: none;
+  background-color: transparent;
+}
 
+#select_id{
+    display: block;
+    margin: 0 auto; /* căn giữa ngang */
+    width: auto;   /* tùy chọn */
+    font-size: 0.9rem;
+    color:grey
+
+}
+h1, h2,h3 {
+  text-align: center;
+  margin-bottom: 16px;
+}
 </style>
+
 </head>
 <body>
 
@@ -53,10 +90,9 @@ height: 100%;
         <div id="player"></div>
     </div>
 
+    <button id="loa_button">🔊</button> <select id="select_voice_sub"></select>
     <div id="subgoc">Phụ đề gốc:</div><br>
-    <select id="select_voice_sub"></select>
 
-    <button id="loa_button">🔊</button>
     <div id="subdich">Phụ đề dịch:</div><br><br><br>
     <hr>
 
