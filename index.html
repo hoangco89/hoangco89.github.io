@@ -4,19 +4,32 @@
 <meta charset="UTF-8">
 <title>YouTube + Speak Subtitle</title>
 <style>
-body {
-font-family: Arial, sans-serif;
-padding: 1px;
-}
+/* KHÔNG GIỚI HẠN CHIỀU RỘNG TRÊN MOBILE */
 .video-wrapper {
-max-width: 800px; /* Giới hạn chiều rộng tối đa trên laptop */
-margin: 0 auto; /* Canh giữa theo chiều ngang */
+width: 100%;
+margin: 0;
+padding: 0;
 }
+
+/* Trên laptop mới giới hạn chiều rộng và canh giữa */
+@media (min-width: 768px) {
+.video-wrapper {
+max-width: 800px;
+margin: 0 auto;
+}
+}
+
+/* Khung giữ tỷ lệ 16:9 */
 .video-container {
 position: relative;
 width: 100%;
-padding-bottom: 56.25%; /* 16:9 */
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
 }
+
+/* Iframe full khung */
 .video-container iframe {
 position: absolute;
 top: 0;
