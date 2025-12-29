@@ -2,8 +2,22 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
-  <title>YouTube + JSON Subtitles + TTS Sync</title>
+  <title>Video With Speaking Subtitles</title>
 <style>
+html,body {
+    font: 1rem/1 'Poppins', sans-serif;
+    height:100%;
+    padding:0px;
+    max-width: 800px; 
+    margin: auto;
+}
+body{
+/*min-height: 100vh;*/
+display: flex;
+flex-direction: column;
+padding-bottom: env(safe-area-inset-bottom);
+}
+
 /* KHÔNG GIỚI HẠN CHIỀU RỘNG TRÊN MOBILE */
 .video-wrapper {
   width: 100%;
@@ -42,9 +56,6 @@ iframe{
   display: block;       /* tránh Safari thêm khoảng trắng */
 
 }
-h2{
-    text-align: center;
-}
 .menu-group {
   margin-top: 4px;  
   display: flex;
@@ -56,8 +67,8 @@ h2{
 .menu-group select {
   width: 42%; 
   padding: 8px;
-  font-size: 1.5rem;
-  background-color: transparent;
+  font-size: 1.8rem;
+  background-color: rgb(220, 218, 218);
 }
 #select_id {
   color:rgb(2, 78, 2);
@@ -72,23 +83,22 @@ h2{
 }
 #currentSubtitle{
   text-align: right;
-  font-size: 1.6rem;
+  font-size: 2.2rem;
   color: darkgreen;
 }
 #subdich{
   text-align: left;
-  font-size: 1.8rem;
+  font-size: 2.4rem;
   color: darkblue;
 }
 #playBtn{
-background-color: whitesmoke;
+background-color: lightgray;
 }
 </style>
 </head>
 
 <body>
 <div class="video-wrapper">    
-    <h2>Video With Speaking Subtitles </h2>
     <div class="video-container">
         <div id="playerContainer"></div>
 
@@ -392,7 +402,6 @@ speechSynthesis.onvoiceschanged = () => {
     // 5. PLAY BUTTON
     // ==========================
 document.getElementById("playBtn").addEventListener("click", async () => {
-    player.mute();
   const videoId = document.getElementById("videoSelect").value;
 
   subtitles = await fetchSubtitles(videoId);
