@@ -7,9 +7,10 @@
 /* KHÔNG GIỚI HẠN CHIỀU RỘNG TRÊN MOBILE */
 .video-wrapper {
   width: 100%;
-  max-width: 100%;   /* thêm dòng này để iPhone không bóp chiều rộng */
+  min-width: 100%;      /* ép iPhone không thu nhỏ */
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 /* Laptop mới giới hạn chiều rộng */
@@ -23,7 +24,8 @@
 /* KHUNG VIDEO CHUẨN 16:9 */
 .video-container {
   position: relative;
-  width: 100%;          /* giữ nguyên 100%, KHÔNG dùng 100vw */
+  width: 100%;
+  min-width: 100%;      /* ép không co lại */
   padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
@@ -31,15 +33,14 @@
 }
 
 /* Iframe full khung */
-#playerContainer iframe {
+iframe {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
+  display: block;       /* tránh Safari thêm khoảng trắng */
 }
-
-
 h2{
     text-align: center;
 }
