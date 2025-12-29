@@ -4,6 +4,7 @@
   <meta charset="UTF-8" />
   <title>YouTube + JSON Subtitles + TTS Sync</title>
 <style>
+
 h2{
     text-align: center;
 }
@@ -43,14 +44,14 @@ height: 100%;
   margin-top: 4px;  
   display: flex;
   justify-content: space-between;
-  padding: 0 0 ; /* cách biên trái và phải 20px */
+  padding: 0 0 ; 
   width: 100%;
   box-sizing: border-box;
 }
 .menu-group select {
-  width: 42%; /* hoặc tuỳ chỉnh theo nhu cầu */
+  width: 42%; 
   padding: 8px;
-  font-size: 16px;
+  font-size: 1.5rem;
   background-color: transparent;
 }
 #select_id {
@@ -59,22 +60,24 @@ height: 100%;
 }
 
 #select_voice_sub {
-  text-align: right;       /* Căn nội dung sang phải */
-  direction: rtl;          /* Đảo hướng dòng để option hiển thị sát phải */
+  text-align: right;  
+  direction: rtl;     
   color: darkblue;
   font-weight:bolder;
 }
 #currentSubtitle{
   text-align: right;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   color: darkgreen;
 }
 #subdich{
   text-align: left;
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   color: darkblue;
 }
-
+#playBtn{
+background-color: whitesmoke;
+}
 </style>
 </head>
 
@@ -261,7 +264,7 @@ height: 100%;
       voices.forEach(v => {
         const opt = document.createElement("option");
         opt.value = v.name;
-        opt.textContent = `${v.name} (${v.lang})`;
+        opt.textContent = `${v.lang} ${v.name}`;
         voiceSelect.appendChild(opt);
       });
     }
@@ -384,6 +387,7 @@ speechSynthesis.onvoiceschanged = () => {
     // 5. PLAY BUTTON
     // ==========================
 document.getElementById("playBtn").addEventListener("click", async () => {
+    player.mute();
   const videoId = document.getElementById("videoSelect").value;
 
   subtitles = await fetchSubtitles(videoId);
