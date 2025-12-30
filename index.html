@@ -49,23 +49,31 @@ iframe{
   width: 100%;
   box-sizing: border-box;
 }
+.butp{
+  font-size: 1.5rem;
+
+}
 .menu-group select {
   width: 42%; 
   padding: 8px;
   font-size: 1.8rem;
   background-color: whitesmoke;
 }
-#select_id {
+#videoSelect {
   color:rgb(2, 78, 2);
-  font-weight: bolder;
+  font-size: 1.5rem;
+  width: 80%; 
+      display: block;
+    margin-left: auto;
+    margin-right: auto; /* hoặc margin: 0 auto; */
 }
 
-#select_voice_sub {
+/*#select_voice_sub {
   text-align: right;  
   direction: rtl;     
   color: darkblue;
   font-weight:bolder;
-}
+}*/
 #currentSubtitle{
   text-align: right;
   font-size: 2.8rem;
@@ -94,11 +102,13 @@ color:darkblue;
     </div>
     
     <div class="menu-group">
-        <select id="videoSelect" ></select>
+      <select id="voiceSelect" ></select>
+      <button id="playBtn">START🔊</button>
 
-        <button id="playBtn">START🔊</button>
+      <button class='butp' onclick="player.mute()">Mute</button>
+      <button id='rateRead' onclick="tocDoDoc()">Rate: 1</button>
+    
 
-        <select id="voiceSelect" ></select>
     </div>
     <br>
     
@@ -107,15 +117,21 @@ color:darkblue;
     <div id="subdich">[translated subtitles ]</div>
     <br>
     <hr>
-    <button onclick="player.mute()">Mute video</button>
-    <button onclick="player.unMute()">unMute video</button>
+    <h1>1. Video hoc lai xe:</h1>
+    <select id="videoSelect" ></select>
+    <h1>2. Video hoc thi qt My:</h1>
+    <select id="videoSelectmy" ></select>
+    <h1>3. Video hoc lich su Hoa Ky:</h1>
+    <select id="videoSelectlshk" ></select>
+
 
 </div>
   <!-- YouTube API -->
   <script src="https://www.youtube.com/iframe_api"></script>
 
   <script>
-    // ==========================
+var rateVread = 1;
+// ==========================
     // 0. TAO MENU VDEO_ID
     // ==========================
 
@@ -353,10 +369,11 @@ speechSynthesis.onvoiceschanged = () => {
     function speak(textd) {
       speechSynthesis.cancel();
       const utter = new SpeechSynthesisUtterance(textd);
-
+      utter.rate = rateVread;
       const selected = voiceSelect.value;
       const voice = voices.find(v => v.name === selected);
       if (voice) utter.voice = voice;
+
       speechSynthesis.speak(utter);
     }
 
@@ -475,6 +492,14 @@ function translateFullJson(){
         xhttp.open("GET", url);
         xhttp.send();
     });
+}
+const rateRead = document.getElementById('rateRead');
+function tocDoDoc(){
+  let rateReadValue = Number(rateRead.textContent.split(':')[1]);
+  rateReadValue = (1+rateReadValue)%6;//1,2,3,4,5,0
+  if (rateReadValue==0) rateReadValue=1;
+  rateRead.textContent = 'Rate: '+ rateReadValue;
+  rateVread = 1+rateReadValue/2;//1, 1.5, 2, 2.5, 3, 3.5
 }
 </script>
 
