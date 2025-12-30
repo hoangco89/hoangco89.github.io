@@ -107,7 +107,6 @@ color:darkblue;
     <div id="subdich">[translated subtitles ]</div>
     <br>
     <hr>
-    <div ><button id="rateRead">1</button> Rate.</div>
 
 </div>
   <!-- YouTube API -->
@@ -281,7 +280,7 @@ color:darkblue;
 function restoreSelections() {
   const savedVideo = localStorage.getItem("selectedVideoId");
   const savedVoice = localStorage.getItem("selectedVoiceName");
-  const savedRate = localStorage.getItem("rateReadValue");
+  
   
 
   // Khôi phục video
@@ -356,9 +355,6 @@ speechSynthesis.onvoiceschanged = () => {
       const selected = voiceSelect.value;
       const voice = voices.find(v => v.name === selected);
       if (voice) utter.voice = voice;
-        let rateV = document.getElementById('rateRead').textContent;
-        utter.rate = 1+(Number(rateV)/10); 
-
       speechSynthesis.speak(utter);
     }
 
@@ -478,20 +474,6 @@ function translateFullJson(){
         xhttp.send();
     });
 }
-let valueRate = 0;
-const rateRead = document.getElementById('rateRead');
-
-document.getElementById('rateRead').addEventListener("click", () => {
-  valueRate = valueRate + 1 ;
-  document.getElementById('rateRead').textContent = valueRate%10+1;
-
-});
-
-//moi lan thay doi RATE thi save lai
-document.getElementById("rateRead").addEventListener("change",  () => {
-    let rateReadValue = document.getElementById('rateRead').textContent;
-    localStorage.setItem("rateReadValue", rateReadValue);
-});
 
 </script>
 
