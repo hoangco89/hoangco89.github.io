@@ -496,10 +496,10 @@ function translateFullJson(){
 const rateRead = document.getElementById('rateRead');
 function tocDoDoc(){
   let rateReadValue = Number(rateRead.textContent.split(':')[1]);
-  rateReadValue = (1+rateReadValue)%6;//1,2,3,4,5,0
+  rateReadValue = (1+rateReadValue)%10;//1,2,3,4,5,0
   if (rateReadValue==0) rateReadValue=1;
   rateRead.textContent = 'Rate: '+ rateReadValue;
-  rateVread = 1+rateReadValue/2;//1, 1.5, 2, 2.5, 3, 3.5
+  rateVread = 1+rateReadValue/10;//1, 1.5, 2, 2.5, 3, 3.5
 }
 </script>
 
