@@ -1,10 +1,9 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> <!-- Import SweetAlert2 -->
-    <title>Chat in multiple languages</title>
+  <meta charset="UTF-8" />
+  <title>Video With Speaking Subtitles</title>
 <style>
 body{
 height:100%;
@@ -21,6 +20,24 @@ margin-left: auto;
 margin-right: auto; /* hoặc margin: 0 auto; */
 margin-bottom: 100%;
 }
+
+/* KHÔNG GIỚI HẠN CHIỀU RỘNG TRÊN MOBILE */
+.video-wrapper {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Laptop mới giới hạn chiều rộng */
+@media (min-width: 768px) {
+  .video-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+}
+
+/* KHUNG VIDEO CHUẨN 16:9 */
 .video-container {
   position: relative;
   width: 100%;
@@ -30,18 +47,15 @@ margin-bottom: 100%;
   overflow: hidden;
   background: #000;
 }
-iframe { 
-position: relative;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-display: block;       /* tránh Safari thêm khoảng trắng */
-}
-.outiframe{
-margin-left: 10px;
-margin-right: 10px; /* hoặc margin: 0 auto; */
 
+/* Iframe full khung */
+iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: block;       /* tránh Safari thêm khoảng trắng */
 
 }
 .menu-group {
@@ -74,14 +88,12 @@ margin-right: 10px; /* hoặc margin: 0 auto; */
   font-size: 1.5rem;
 
 }
-#voiceSelect {
-  width: 30%;
-
-    /*text-align: right;  
-  direction: rtl;*/     
+/*#select_voice_sub {
+  text-align: right;  
+  direction: rtl;     
   color: darkblue;
   font-weight:bolder;
-}
+}*/
 #currentSubtitle{
   text-align: right;
   font-size: 2.8rem;
@@ -97,43 +109,43 @@ background-color: transparent;
 color:darkblue;
   font-weight:bolder;
   font-size: 2rem;
+
 }
 </style>
 </head>
+
 <body>
+<div class="video-wrapper">    
     <div class="video-container">
         <div id="playerContainer"></div>
 
     </div>
-
-    <hr>
+    
     <div class="menu-group">
-        <select id="voiceSelect" ></select>
-        <button id="playBtn">START🔊</button>
+      <select id="voiceSelect" ></select>
+      <button id="playBtn">START🔊</button>
 
-        <button class='butp' onclick="player.mute()">Mute</button>
-        <button id='rateRead' onclick="tocDoDoc()">Rate: 1</button>
-        
+      <button class='butp' onclick="player.mute()">Mute</button>
+      <button id='rateRead' onclick="tocDoDoc()">Rate: 1</button>
+    
 
     </div>
+    <br>
+    
+    <div id="currentSubtitle">[source subtitles]</div>
+    <br>
+    <div id="subdich">[translated subtitles ]</div>
+    <br>
     <hr>
-    <div class='outiframe'>
-        <br>
-        
-        <div id="currentSubtitle">[source subtitles]</div>
-        <br>
-        <div id="subdich">[translated subtitles ]</div>
-        <br>
-        <hr>
-        <h1>1. Video hoc lai xe:</h1>
-        <select id="videoSelect" ></select>
-        <h1>2. Video hoc thi qt My:</h1>
-        <select id="videoSelectmy" ></select>
-        <h1>3. Video hoc lich su Hoa Ky:</h1>
-        <select id="videoSelectlshk" ></select>
-    </div>
+    <h1>1. Video hoc lai xe:</h1>
+    <select id="videoSelect" ></select>
+    <h1>2. Video hoc thi qt My:</h1>
+    <select id="videoSelectmy" ></select>
+    <h1>3. Video hoc lich su Hoa Ky:</h1>
+    <select id="videoSelectlshk" ></select>
 
 
+</div>
   <!-- YouTube API -->
   <script src="https://www.youtube.com/iframe_api"></script>
 
@@ -510,8 +522,6 @@ function tocDoDoc(){
   rateVread = 1+rateReadValue/10;//1, 1.5, 2, 2.5, 3, 3.5
 }
 </script>
-
-
 
 </body>
 </html>
