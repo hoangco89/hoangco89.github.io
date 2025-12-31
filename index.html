@@ -124,7 +124,7 @@ h3{
         <button id="playBtn">START ▶️</button>
 
         <button class='butp1' onclick="player.mute()">Mute</button>
-        <button class='butp2' onclick="unMutedClick()">unMute</button>
+        <button class='butp2' onclick="player.unMute()">unMute</button>
         
 
     </div>
@@ -522,10 +522,6 @@ function tocDoDoc(){
   if (rateReadValue==0) rateReadValue=1;
   rateRead.textContent = 'Rate: '+ rateReadValue;
   rateVread = 1+rateReadValue/10;//1, 1.5, 2, 2.5, 3, 3.5
-}
-function unMutedClick(){
-  player.unMute();
-  unMuted=true;
 }
 </script>
 
