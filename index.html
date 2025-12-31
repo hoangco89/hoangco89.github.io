@@ -38,6 +38,72 @@ iframe {
   height: 100%;
   display: block;       /* tránh Safari thêm khoảng trắng */
 }
+.menu-group {
+  margin-top: 4px;  
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0 ; 
+  width: 100%;
+  box-sizing: border-box;
+}
+.butp1,.butp2{
+  font-size: 1.4rem;
+
+}
+#voiceSelect{
+  color:darkgreen;
+  width: 30%; 
+      display: block;
+    margin-left: 0;
+  font-size: 1.4rem;
+}
+#videoSelect,#videoSelectqtmy,#videoSelectlsmy {
+  color:rgb(2, 78, 2);
+  width: 75%; 
+      display: block;
+    margin-left: auto;
+    margin-right: auto; /* hoặc margin: 0 auto; */
+  font-size: 1.4rem;
+  color:gray;
+}
+#rateRead{
+  font-size: 1.4rem;
+
+}
+
+#voiceSelect,#rateRead,.butp1,.butp2,#playBtn{
+  width: 22%; 
+
+}
+#currentSubtitle{
+  text-align: right;
+  font-size: 1.6rem;
+  color: darkgreen;
+}
+#subdich{
+  text-align: left;
+  color: darkblue;
+  font-size: 1.8rem;
+}
+#playBtn{
+background-color: transparent;
+color:darkblue;
+  font-weight:bolder;
+  font-size: 1.4rem;
+
+}
+h2{
+  font-weight:bolder;
+  font-size: 1.5rem;
+    margin-left:20px;
+    color:darkslategray;
+}
+#currentSubtitle{
+    margin-right: 10px;
+}
+#subdich{
+    margin-left:10px;
+}
 </style>
 </head>
 <body>
@@ -47,13 +113,15 @@ iframe {
 
     </div>
 
-    <hr>
+    
     <div class="menu-group">
         <select id="voiceSelect" ></select>
+        <button id='rateRead' onclick="tocDoDoc()">Rate: 1</button>
+
         <button id="playBtn">START🔊</button>
 
-        <button class='butp' onclick="player.mute()">Mute</button>
-        <button id='rateRead' onclick="tocDoDoc()">Rate: 1</button>
+        <button class='butp1' onclick="player.mute()">Mute</button>
+        <button class='butp2' onclick="player.unMute()">unMute</button>
         
 
     </div>
@@ -66,12 +134,12 @@ iframe {
         <div id="subdich">[translated subtitles ]</div>
         <br>
         <hr>
-        <h1>1. Video hoc lai xe:</h1>
+        <h2>1. Video hoc lai xe:</h2>
         <select id="videoSelect" ></select>
-        <h1>2. Video hoc thi qt My:</h1>
-        <select id="videoSelectmy" ></select>
-        <h1>3. Video hoc lich su Hoa Ky:</h1>
-        <select id="videoSelectlshk" ></select>
+        <h2>2. Video ve lich su Hoa Ky:</h2>
+        <select id="videoSelectlsmy" ></select>
+        <h2>3. Video test thi qt My:</h2>
+        <select id="videoSelectqtmy" ></select>
     </div>
 
   <!-- YouTube API -->
