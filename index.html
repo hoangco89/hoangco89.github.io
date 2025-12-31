@@ -71,12 +71,15 @@ iframe {
 
 }
 
-#voiceSelect,#rateRead,.butp1,.butp2,#playBtn{
+#voiceSelect,#rateRead,.butp1,.butp2{
   width: 19%;
   font-size: 0.9rem;
-
-
 }
+#playBtn{
+  width: 21%;
+  font-size: 0.9rem;
+}
+
 #currentSubtitle{
   text-align: right;
   font-size: 1.4rem;
@@ -122,10 +125,10 @@ h3{
         <select id="voiceSelect" ></select>
         <button id='rateRead' onclick="tocDoDoc()">Rate: 1</button>
 
-        <button id="playBtn">START🔊</button>
+        <button id="playBtn">START▶️</button>
 
         <button class='butp1' onclick="player.mute()">Mute</button>
-        <button class='butp2' onclick="player.unMute()">unMute</button>
+        <button class='butp2' onclick="unMutedClick()">unMute</button>
         
 
     </div>
@@ -134,7 +137,7 @@ h3{
         <br>
         
         <div id="currentSubtitle">[source subtitles]</div>
-        <br>
+        <div id="loa_button">🔊</div>
         <div id="subdich">[translated subtitles ]</div>
         <br>
         <hr>
@@ -151,6 +154,7 @@ h3{
 
   <script>
 var rateVread = 1;
+var unMuted=false;
 // ==========================
     // 0. TAO MENU VDEO_ID
     // ==========================
@@ -393,9 +397,11 @@ speechSynthesis.onvoiceschanged = () => {
       const selected = voiceSelect.value;
       const voice = voices.find(v => v.name === selected);
       if (voice) utter.voice = voice;
-
-      speechSynthesis.speak(utter);
-    }
+      loa_button.onclick = () => {
+        speechSynthesis.speak(utter);
+      }
+      loa_button.click(); // tự động phát luôn
+   }
 
     function stopReading() {
       speechSynthesis.cancel();
@@ -520,6 +526,10 @@ function tocDoDoc(){
   if (rateReadValue==0) rateReadValue=1;
   rateRead.textContent = 'Rate: '+ rateReadValue;
   rateVread = 1+rateReadValue/10;//1, 1.5, 2, 2.5, 3, 3.5
+}
+function unMutedClick(){
+  player.unMute();
+  unMuted=true;
 }
 </script>
 
