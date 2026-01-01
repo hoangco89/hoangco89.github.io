@@ -123,8 +123,8 @@ h3{
 
         <button id="playBtn">START ▶️</button>
 
-        <button class='butp1' onclick="player.mute()">Mute</button>
-        <button class='butp2' onclick="player.unMute()">unMute</button>
+        <button class='butp1' onclick="btnReadSub()">Read sub only</button>
+        <button class='butp2' onclick="btnYoutubeSound()">Sound yt only</button>
         
 
     </div>
@@ -150,7 +150,7 @@ h3{
 
   <script>
 var rateVread = 1;
-var unMuted=false;
+var utterance_volume=1;
 // ==========================
     // 0. TAO MENU VDEO_ID
     // ==========================
@@ -394,6 +394,7 @@ speechSynthesis.onvoiceschanged = () => {
       const voice = voices.find(v => v.name === selected);
       if (voice) utter.voice = voice;
       loa_button.onclick = () => {
+        utter.volume = utterance_volume;
         speechSynthesis.speak(utter);
       }
       loa_button.click(); // tự động phát luôn
@@ -523,6 +524,26 @@ function tocDoDoc(){
   rateRead.textContent = 'Rate: '+ rateReadValue;
   rateVread = 1+rateReadValue/10;//1, 1.5, 2, 2.5, 3, 3.5
 }
+
+function btnReadSub() {
+  // Tắt tiếng YouTube
+  if (player && player.mute) {
+    player.mute();
+  }
+  // Bật âm lượng đọc phụ đề
+  utterance_volume = 1;
+}
+
+function btnYoutubeSound(){
+  // Bật tiếng YouTube
+  if (player && player.unMute) {
+    player.unMute();
+    player.setVolume(100);
+  }
+  // Tắt âm lượng đọc phụ đề
+  utterance_volume = 0;
+}
+        
 </script>
 
 
