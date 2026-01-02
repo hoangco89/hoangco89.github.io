@@ -318,14 +318,10 @@ var utterance_volume=1;
 function restoreSelections() {
   const savedVideo = localStorage.getItem("selectedVideoId");
   const savedVoice = localStorage.getItem("selectedVoiceName");
-  
-  
-
   // Khôi phục video
   if (savedVideo) {
     videoSelect.value = savedVideo;
   }
-
   // Khôi phục voice
   if (savedVoice) {
     const check = voices.find(v => v.name === savedVoice);
@@ -467,7 +463,8 @@ document.getElementById("videoSelect").addEventListener("change", async () => {
     player.playVideo();
 
     startSync();
-});
+
+  });
 
 //moi lan thay doi voice thi dich lai
 document.getElementById("voiceSelect").addEventListener("change", async () => {
@@ -543,7 +540,11 @@ function btnYoutubeSound(){
   // Tắt âm lượng đọc phụ đề
   utterance_volume = 0;
 }
-        
+
+
+//moi khi chay lai trang thi khoi phuc  voice + video
+restoreSelections();   // 🔥 khôi phục voice + video
+
 </script>
 
 
