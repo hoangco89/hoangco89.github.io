@@ -1,0 +1,5252 @@
+[
+    {
+        "start": 2.0,
+        "end": 9.36,
+        "text": "Oh no, let me help you.",
+        "textdich": ""
+    },
+    {
+        "start": 5.68,
+        "end": 13.84,
+        "text": "Oh no, let me help you.",
+        "textdich": ""
+    },
+    {
+        "start": 9.36,
+        "end": 18.32,
+        "text": "Thank you so much. I dropped everything.",
+        "textdich": ""
+    },
+    {
+        "start": 13.84,
+        "end": 22.08,
+        "text": "Thank you so much. I dropped everything.",
+        "textdich": ""
+    },
+    {
+        "start": 18.32,
+        "end": 25.76,
+        "text": " These bags must have been too heavy.",
+        "textdich": ""
+    },
+    {
+        "start": 22.08,
+        "end": 29.84,
+        "text": "These bags must have been too heavy.",
+        "textdich": ""
+    },
+    {
+        "start": 25.76,
+        "end": 34.32,
+        "text": " Yes, they both broke at the same time.",
+        "textdich": ""
+    },
+    {
+        "start": 29.84,
+        "end": 38.48,
+        "text": "Yes, they both broke at the same time.",
+        "textdich": ""
+    },
+    {
+        "start": 34.32,
+        "end": 42.399,
+        "text": " Here's your bread. It's still good.",
+        "textdich": ""
+    },
+    {
+        "start": 38.48,
+        "end": 45.2,
+        "text": "Here's your bread. It's still good.",
+        "textdich": ""
+    },
+    {
+        "start": 42.399,
+        "end": 48.079,
+        "text": " I appreciate your help.",
+        "textdich": ""
+    },
+    {
+        "start": 45.2,
+        "end": 51.84,
+        "text": "I appreciate your help.",
+        "textdich": ""
+    },
+    {
+        "start": 48.079,
+        "end": 55.52,
+        "text": " I'll grab these apples rolling away.",
+        "textdich": ""
+    },
+    {
+        "start": 51.84,
+        "end": 59.68,
+        "text": "I'll grab these apples rolling away.",
+        "textdich": ""
+    },
+    {
+        "start": 55.52,
+        "end": 63.92,
+        "text": " Be careful. There's one by the car.",
+        "textdich": ""
+    },
+    {
+        "start": 59.68,
+        "end": 68.32,
+        "text": "Be careful. There's one by the car.",
+        "textdich": ""
+    },
+    {
+        "start": 63.92,
+        "end": 72.479,
+        "text": " Got it. How many bags did you have?",
+        "textdich": ""
+    },
+    {
+        "start": 68.32,
+        "end": 76.72,
+        "text": "Got it. How many bags did you have?",
+        "textdich": ""
+    },
+    {
+        "start": 72.479,
+        "end": 80.96,
+        "text": " Two big ones. Both are torn now.",
+        "textdich": ""
+    },
+    {
+        "start": 76.72,
+        "end": 84.24,
+        "text": "Two big ones. Both are torn now.",
+        "textdich": ""
+    },
+    {
+        "start": 80.96,
+        "end": 87.439,
+        "text": " Do you have more bags in your car?",
+        "textdich": ""
+    },
+    {
+        "start": 84.24,
+        "end": 91.119,
+        "text": "Do you have more bags in your car?",
+        "textdich": ""
+    },
+    {
+        "start": 87.439,
+        "end": 94.799,
+        "text": "No, I didn't bring extras.",
+        "textdich": ""
+    },
+    {
+        "start": 91.119,
+        "end": 99.759,
+        "text": "No, I didn't bring extras.",
+        "textdich": ""
+    },
+    {
+        "start": 94.799,
+        "end": 104.56,
+        "text": " I have reusable bags in mine. Wait here.",
+        "textdich": ""
+    },
+    {
+        "start": 99.759,
+        "end": 108.799,
+        "text": "I have reusable bags in mine. Wait here.",
+        "textdich": ""
+    },
+    {
+        "start": 104.56,
+        "end": 113.119,
+        "text": " You're so kind. I don't know what to do.",
+        "textdich": ""
+    },
+    {
+        "start": 108.799,
+        "end": 116.96,
+        "text": "You're so kind. I don't know what to do.",
+        "textdich": ""
+    },
+    {
+        "start": 113.119,
+        "end": 122.799,
+        "text": " Here are two strong bags for you. Here are two strong bags for you.",
+        "textdich": ""
+    },
+    {
+        "start": 120.079,
+        "end": 125.68,
+        "text": " Can I pay you for them?",
+        "textdich": ""
+    },
+    {
+        "start": 122.799,
+        "end": 129.679,
+        "text": "Can I pay you for them?",
+        "textdich": ""
+    },
+    {
+        "start": 125.68,
+        "end": 133.52,
+        "text": " No, please. Just take them.",
+        "textdich": ""
+    },
+    {
+        "start": 129.679,
+        "end": 137.76,
+        "text": "No, please just take them.",
+        "textdich": ""
+    },
+    {
+        "start": 133.52,
+        "end": 142.239,
+        "text": " Are you sure? That's very generous.",
+        "textdich": ""
+    },
+    {
+        "start": 137.76,
+        "end": 147.04,
+        "text": "Are you sure? That's very generous.",
+        "textdich": ""
+    },
+    {
+        "start": 142.239,
+        "end": 151.76,
+        "text": " Absolutely. We all need help sometimes.",
+        "textdich": ""
+    },
+    {
+        "start": 147.04,
+        "end": 155.12,
+        "text": "Absolutely. We all need help sometimes.",
+        "textdich": ""
+    },
+    {
+        "start": 151.76,
+        "end": 158.64,
+        "text": " This is exactly what I needed.",
+        "textdich": ""
+    },
+    {
+        "start": 155.12,
+        "end": 162.239,
+        "text": "This is exactly what I needed.",
+        "textdich": ""
+    },
+    {
+        "start": 158.64,
+        "end": 165.599,
+        "text": " Let me help you load them in your car.",
+        "textdich": ""
+    },
+    {
+        "start": 162.239,
+        "end": 169.36,
+        "text": "Let me help you load them in your car.",
+        "textdich": ""
+    },
+    {
+        "start": 165.599,
+        "end": 173.36,
+        "text": " You're a lifesaver. Thank you.",
+        "textdich": ""
+    },
+    {
+        "start": 169.36,
+        "end": 177.68,
+        "text": "You're a lifesaver. Thank you.",
+        "textdich": ""
+    },
+    {
+        "start": 173.36,
+        "end": 181.76,
+        "text": "No problem. Which car is yours?",
+        "textdich": ""
+    },
+    {
+        "start": 177.68,
+        "end": 184.64,
+        "text": "No problem. Which car is yours?",
+        "textdich": ""
+    },
+    {
+        "start": 181.76,
+        "end": 187.76,
+        "text": "The blue one right there.",
+        "textdich": ""
+    },
+    {
+        "start": 184.64,
+        "end": 192.64,
+        "text": "The blue one right there.",
+        "textdich": ""
+    },
+    {
+        "start": 187.76,
+        "end": 197.44,
+        "text": " Perfect. There you go. All set.",
+        "textdich": ""
+    },
+    {
+        "start": 192.64,
+        "end": 200.959,
+        "text": "Perfect. There you go. All set.",
+        "textdich": ""
+    },
+    {
+        "start": 197.44,
+        "end": 204.48,
+        "text": " I really appreciate your kindness.",
+        "textdich": ""
+    },
+    {
+        "start": 200.959,
+        "end": 208.4,
+        "text": "I really appreciate your kindness.",
+        "textdich": ""
+    },
+    {
+        "start": 204.48,
+        "end": 212.319,
+        "text": " You're welcome. Drive safely.",
+        "textdich": ""
+    },
+    {
+        "start": 208.4,
+        "end": 216.0,
+        "text": "You're welcome. Drive safely.",
+        "textdich": ""
+    },
+    {
+        "start": 212.319,
+        "end": 221.0,
+        "text": " You too have a blessed day.",
+        "textdich": ""
+    },
+    {
+        "start": 216.0,
+        "end": 221.0,
+        "text": "You two have a blessed day.",
+        "textdich": ""
+    },
+    {
+        "start": 221.599,
+        "end": 230.239,
+        "text": "Excuse me, my flight is delayed again.",
+        "textdich": ""
+    },
+    {
+        "start": 226.0,
+        "end": 232.72,
+        "text": "Excuse me, my flight is delayed again.",
+        "textdich": ""
+    },
+    {
+        "start": 230.239,
+        "end": 241.2,
+        "text": "I'm very sorry for the inconvenience, sir. I'm very sorry for the inconvenience, sir.",
+        "textdich": ""
+    },
+    {
+        "start": 237.92,
+        "end": 244.48,
+        "text": " This is the third delay announcement.",
+        "textdich": ""
+    },
+    {
+        "start": 241.2,
+        "end": 246.319,
+        "text": "This is the third delay announcement.",
+        "textdich": ""
+    },
+    {
+        "start": 244.48,
+        "end": 250.159,
+        "text": " We're experiencing technical difficulties.",
+        "textdich": ""
+    },
+    {
+        "start": 248.319,
+        "end": 255.519,
+        "text": "We're experiencing technical difficulties.",
+        "textdich": ""
+    },
+    {
+        "start": 252.08,
+        "end": 261.68,
+        "text": " How long will we wait this time? How long will we wait this time?",
+        "textdich": ""
+    },
+    {
+        "start": 258.479,
+        "end": 264.56,
+        "text": "Approximately two more hours.",
+        "textdich": ""
+    },
+    {
+        "start": 261.68,
+        "end": 268.72,
+        "text": "Approximately two more hours.",
+        "textdich": ""
+    },
+    {
+        "start": 264.56,
+        "end": 272.88,
+        "text": " 2 hours. This is unacceptable.",
+        "textdich": ""
+    },
+    {
+        "start": 268.72,
+        "end": 274.639,
+        "text": "2 hours. This is unacceptable.",
+        "textdich": ""
+    },
+    {
+        "start": 272.88,
+        "end": 278.24,
+        "text": " I completely understand your frustration.",
+        "textdich": ""
+    },
+    {
+        "start": 276.479,
+        "end": 283.6,
+        "text": "I completely understand your frustration.",
+        "textdich": ""
+    },
+    {
+        "start": 280.0,
+        "end": 289.68,
+        "text": " I have an important meeting to attend. I have an important meeting to attend.",
+        "textdich": ""
+    },
+    {
+        "start": 286.0,
+        "end": 295.759,
+        "text": "Would you like us to rebook you? Would you like us to rebook you?",
+        "textdich": ""
+    },
+    {
+        "start": 292.16,
+        "end": 299.44,
+        "text": " Is there an earlier flight available?",
+        "textdich": ""
+    },
+    {
+        "start": 295.759,
+        "end": 301.919,
+        "text": "Is there an earlier flight available?",
+        "textdich": ""
+    },
+    {
+        "start": 299.44,
+        "end": 304.32,
+        "text": " Let me check the system.",
+        "textdich": ""
+    },
+    {
+        "start": 301.919,
+        "end": 307.52,
+        "text": "Let me check the system.",
+        "textdich": ""
+    },
+    {
+        "start": 304.32,
+        "end": 312.479,
+        "text": " I really need to get there today. I really need to get there today.",
+        "textdich": ""
+    },
+    {
+        "start": 310.16,
+        "end": 316.24,
+        "text": " Unfortunately, all flights are fully booked.",
+        "textdich": ""
+    },
+    {
+        "start": 314.0,
+        "end": 321.44,
+        "text": "Unfortunately, all flights are fully booked.",
+        "textdich": ""
+    },
+    {
+        "start": 317.68,
+        "end": 325.36,
+        "text": " Can you at least provide meal vouchers?",
+        "textdich": ""
+    },
+    {
+        "start": 321.44,
+        "end": 329.919,
+        "text": "Can you at least provide meal vouchers?",
+        "textdich": ""
+    },
+    {
+        "start": 325.36,
+        "end": 334.32,
+        "text": " Yes, I can give you a $20 voucher.",
+        "textdich": ""
+    },
+    {
+        "start": 329.919,
+        "end": 338.16,
+        "text": "Yes, I can give you a $20 voucher.",
+        "textdich": ""
+    },
+    {
+        "start": 334.32,
+        "end": 342.0,
+        "text": " What about compensation for this delay?",
+        "textdich": ""
+    },
+    {
+        "start": 338.16,
+        "end": 345.28,
+        "text": "What about compensation for this delay?",
+        "textdich": ""
+    },
+    {
+        "start": 342.0,
+        "end": 348.479,
+        "text": "You can file a claim on our website.",
+        "textdich": ""
+    },
+    {
+        "start": 345.28,
+        "end": 352.0,
+        "text": "You can file a claim on our website.",
+        "textdich": ""
+    },
+    {
+        "start": 348.479,
+        "end": 355.52,
+        "text": " This has ruined my entire schedule.",
+        "textdich": ""
+    },
+    {
+        "start": 352.0,
+        "end": 358.96,
+        "text": "This has ruined my entire schedule.",
+        "textdich": ""
+    },
+    {
+        "start": 355.52,
+        "end": 362.24,
+        "text": " Again, I sincerely apologize.",
+        "textdich": ""
+    },
+    {
+        "start": 358.96,
+        "end": 365.68,
+        "text": "Again, I sincerely apologize.",
+        "textdich": ""
+    },
+    {
+        "start": 362.24,
+        "end": 369.36,
+        "text": " Will you announce when boarding starts?",
+        "textdich": ""
+    },
+    {
+        "start": 365.68,
+        "end": 372.96,
+        "text": "Will you announce when boarding starts?",
+        "textdich": ""
+    },
+    {
+        "start": 369.36,
+        "end": 376.4,
+        "text": "Yes, we'll make an announcement.",
+        "textdich": ""
+    },
+    {
+        "start": 372.96,
+        "end": 379.6,
+        "text": "Yes, we'll make an announcement.",
+        "textdich": ""
+    },
+    {
+        "start": 376.4,
+        "end": 382.88,
+        "text": " Where can I use this meal voucher?",
+        "textdich": ""
+    },
+    {
+        "start": 379.6,
+        "end": 386.0,
+        "text": "Where can I use this meal voucher?",
+        "textdich": ""
+    },
+    {
+        "start": 382.88,
+        "end": 388.96,
+        "text": " At any restaurant in the terminal.",
+        "textdich": ""
+    },
+    {
+        "start": 386.0,
+        "end": 392.72,
+        "text": "At any restaurant in the terminal.",
+        "textdich": ""
+    },
+    {
+        "start": 388.96,
+        "end": 396.4,
+        "text": " Thank you. Please keep me updated.",
+        "textdich": ""
+    },
+    {
+        "start": 392.72,
+        "end": 400.56,
+        "text": "Thank you. Please keep me updated.",
+        "textdich": ""
+    },
+    {
+        "start": 396.4,
+        "end": 405.88,
+        "text": " Of course. We'll inform you immediately.",
+        "textdich": ""
+    },
+    {
+        "start": 400.56,
+        "end": 405.88,
+        "text": "Of course. We'll inform you immediately.",
+        "textdich": ""
+    },
+    {
+        "start": 406.8,
+        "end": 413.919,
+        "text": "Today is your first day at your new school.",
+        "textdich": ""
+    },
+    {
+        "start": 411.36,
+        "end": 420.16,
+        "text": "Today is your first day at your new school.",
+        "textdich": ""
+    },
+    {
+        "start": 415.84,
+        "end": 424.24,
+        "text": " I don't want to go, Mommy.",
+        "textdich": ""
+    },
+    {
+        "start": 420.16,
+        "end": 426.88,
+        "text": " I don't want to go, Mommy.",
+        "textdich": ""
+    },
+    {
+        "start": 424.24,
+        "end": 431.28,
+        "text": "I know you're nervous, but it will be fun.",
+        "textdich": ""
+    },
+    {
+        "start": 428.72,
+        "end": 437.84,
+        "text": "I know you're nervous, but it will be fun.",
+        "textdich": ""
+    },
+    {
+        "start": 433.28,
+        "end": 442.319,
+        "text": " What if the other kids don't like me?",
+        "textdich": ""
+    },
+    {
+        "start": 437.84,
+        "end": 445.36,
+        "text": "What if the other kids don't like me?",
+        "textdich": ""
+    },
+    {
+        "start": 442.319,
+        "end": 450.16,
+        "text": " You're such a sweet boy. They'll love you.",
+        "textdich": ""
+    },
+    {
+        "start": 447.199,
+        "end": 456.319,
+        "text": "You're such a sweet boy. They'll love you.",
+        "textdich": ""
+    },
+    {
+        "start": 452.0,
+        "end": 460.4,
+        "text": "But I don't know anyone there.",
+        "textdich": ""
+    },
+    {
+        "start": 456.319,
+        "end": 463.44,
+        "text": " But I don't know anyone there.",
+        "textdich": ""
+    },
+    {
+        "start": 460.4,
+        "end": 468.56,
+        "text": "That's okay. You'll make new friends quickly.",
+        "textdich": ""
+    },
+    {
+        "start": 465.52,
+        "end": 475.36,
+        "text": "That's okay. You'll make new friends quickly.",
+        "textdich": ""
+    },
+    {
+        "start": 470.639,
+        "end": 480.0,
+        "text": " What if I get lost in the big building?",
+        "textdich": ""
+    },
+    {
+        "start": 475.36,
+        "end": 483.84,
+        "text": "What if I get lost in the big building?",
+        "textdich": ""
+    },
+    {
+        "start": 480.0,
+        "end": 487.52,
+        "text": "Your teacher will show you around.",
+        "textdich": ""
+    },
+    {
+        "start": 483.84,
+        "end": 491.84,
+        "text": "Your teacher will show you around.",
+        "textdich": ""
+    },
+    {
+        "start": 487.52,
+        "end": 496.08,
+        "text": "Can you walk me to my classroom?",
+        "textdich": ""
+    },
+    {
+        "start": 491.84,
+        "end": 499.28,
+        "text": "Can you walk me to my classroom?",
+        "textdich": ""
+    },
+    {
+        "start": 496.08,
+        "end": 504.72,
+        "text": " Of course, I'll stay until you feel comfortable.",
+        "textdich": ""
+    },
+    {
+        "start": 501.52,
+        "end": 511.199,
+        "text": "Of course, I'll stay until you feel comfortable.",
+        "textdich": ""
+    },
+    {
+        "start": 506.879,
+        "end": 515.44,
+        "text": "Will you pick me up after school?",
+        "textdich": ""
+    },
+    {
+        "start": 511.199,
+        "end": 520.08,
+        "text": " Will you pick me up after school?",
+        "textdich": ""
+    },
+    {
+        "start": 515.44,
+        "end": 524.72,
+        "text": " Yes, I'll be waiting right here for you.",
+        "textdich": ""
+    },
+    {
+        "start": 520.08,
+        "end": 529.04,
+        "text": "Yes, I'll be waiting right here for you.",
+        "textdich": ""
+    },
+    {
+        "start": 524.72,
+        "end": 533.279,
+        "text": " What if I miss you during lunch?",
+        "textdich": ""
+    },
+    {
+        "start": 529.04,
+        "end": 536.16,
+        "text": "What if I miss you during lunch?",
+        "textdich": ""
+    },
+    {
+        "start": 533.279,
+        "end": 540.959,
+        "text": "Think of me and I'll be thinking of you, too.",
+        "textdich": ""
+    },
+    {
+        "start": 538.08,
+        "end": 546.88,
+        "text": "Think of me and I'll be thinking of you, too.",
+        "textdich": ""
+    },
+    {
+        "start": 542.88,
+        "end": 550.88,
+        "text": " Can I call you if I'm sad?",
+        "textdich": ""
+    },
+    {
+        "start": 546.88,
+        "end": 552.88,
+        "text": "Can I call you if I'm sad?",
+        "textdich": ""
+    },
+    {
+        "start": 550.88,
+        "end": 557.279,
+        "text": " The teacher can help you call me anytime.",
+        "textdich": ""
+    },
+    {
+        "start": 555.2,
+        "end": 563.76,
+        "text": "The teacher can help you call me anytime.",
+        "textdich": ""
+    },
+    {
+        "start": 559.6,
+        "end": 567.76,
+        "text": "You promise you'll come get me?",
+        "textdich": ""
+    },
+    {
+        "start": 563.76,
+        "end": 572.48,
+        "text": " You promise you'll come get me?",
+        "textdich": ""
+    },
+    {
+        "start": 567.76,
+        "end": 577.36,
+        "text": " I promise you're my precious boy.",
+        "textdich": ""
+    },
+    {
+        "start": 572.48,
+        "end": 581.92,
+        "text": "I promise you're my precious boy.",
+        "textdich": ""
+    },
+    {
+        "start": 577.36,
+        "end": 586.839,
+        "text": " Okay, I'll try to be brave.",
+        "textdich": ""
+    },
+    {
+        "start": 581.92,
+        "end": 586.839,
+        "text": " Okay, I'll try to be brave.",
+        "textdich": ""
+    },
+    {
+        "start": 587.76,
+        "end": 596.399,
+        "text": "Can you show me the city's main attractions?",
+        "textdich": ""
+    },
+    {
+        "start": 592.24,
+        "end": 599.44,
+        "text": " Of course. I love giving tours.",
+        "textdich": ""
+    },
+    {
+        "start": 596.399,
+        "end": 603.44,
+        "text": " How long will it take?",
+        "textdich": ""
+    },
+    {
+        "start": 599.44,
+        "end": 607.36,
+        "text": " About 2 hours for the highlights.",
+        "textdich": ""
+    },
+    {
+        "start": 603.44,
+        "end": 611.279,
+        "text": " Perfect. Where do we start?",
+        "textdich": ""
+    },
+    {
+        "start": 607.36,
+        "end": 615.279,
+        "text": " The old cathedral is beautiful.",
+        "textdich": ""
+    },
+    {
+        "start": 611.279,
+        "end": 618.64,
+        "text": " Wow, it's magnificent.",
+        "textdich": ""
+    },
+    {
+        "start": 615.279,
+        "end": 622.079,
+        "text": "It's 800 years old.",
+        "textdich": ""
+    },
+    {
+        "start": 618.64,
+        "end": 625.92,
+        "text": " Can we stop for photos?",
+        "textdich": ""
+    },
+    {
+        "start": 622.079,
+        "end": 629.68,
+        "text": " Absolutely. Take your time.",
+        "textdich": ""
+    },
+    {
+        "start": 625.92,
+        "end": 633.519,
+        "text": " The architecture is amazing.",
+        "textdich": ""
+    },
+    {
+        "start": 629.68,
+        "end": 637.36,
+        "text": " Wait until you see the inside.",
+        "textdich": ""
+    },
+    {
+        "start": 633.519,
+        "end": 641.92,
+        "text": " Are there guided tours available?",
+        "textdich": ""
+    },
+    {
+        "start": 637.36,
+        "end": 645.44,
+        "text": " Yes, every hour from 9 to 5.",
+        "textdich": ""
+    },
+    {
+        "start": 641.92,
+        "end": 649.76,
+        "text": "What's that building over there?",
+        "textdich": ""
+    },
+    {
+        "start": 645.44,
+        "end": 652.64,
+        "text": " That's the city hall. Very famous.",
+        "textdich": ""
+    },
+    {
+        "start": 649.76,
+        "end": 655.839,
+        "text": " Why is it famous?",
+        "textdich": ""
+    },
+    {
+        "start": 652.64,
+        "end": 661.839,
+        "text": " The mayor's office is there. Historic building.",
+        "textdich": ""
+    },
+    {
+        "start": 657.839,
+        "end": 666.399,
+        "text": " Are there any good restaurants nearby?",
+        "textdich": ""
+    },
+    {
+        "start": 661.839,
+        "end": 670.079,
+        "text": " Yes, I know the best local places.",
+        "textdich": ""
+    },
+    {
+        "start": 666.399,
+        "end": 673.12,
+        "text": " I love trying local food.",
+        "textdich": ""
+    },
+    {
+        "start": 670.079,
+        "end": 676.399,
+        "text": "You're in for a treat.",
+        "textdich": ""
+    },
+    {
+        "start": 673.12,
+        "end": 680.48,
+        "text": " What's the specialty here?",
+        "textdich": ""
+    },
+    {
+        "start": 676.399,
+        "end": 683.519,
+        "text": " Seafood. We're near the coast.",
+        "textdich": ""
+    },
+    {
+        "start": 680.48,
+        "end": 687.36,
+        "text": " Can you recommend one?",
+        "textdich": ""
+    },
+    {
+        "start": 683.519,
+        "end": 692.079,
+        "text": " Mario's pizza is excellent.",
+        "textdich": ""
+    },
+    {
+        "start": 687.36,
+        "end": 694.399,
+        "text": " Great. Let's go there after the tour.",
+        "textdich": ""
+    },
+    {
+        "start": 692.079,
+        "end": 697.959,
+        "text": " You'll love it. They have the best pasta, too.",
+        "textdich": ""
+    },
+    {
+        "start": 698.16,
+        "end": 704.88,
+        "text": "We need to buy groceries today.",
+        "textdich": ""
+    },
+    {
+        "start": 701.519,
+        "end": 707.6,
+        "text": "We need to buy groceries today.",
+        "textdich": ""
+    },
+    {
+        "start": 704.88,
+        "end": 710.32,
+        "text": "Can I help you?",
+        "textdich": ""
+    },
+    {
+        "start": 707.6,
+        "end": 713.6,
+        "text": "Can I help you?",
+        "textdich": ""
+    },
+    {
+        "start": 710.32,
+        "end": 717.04,
+        "text": " Yes. Can you get a cart?",
+        "textdich": ""
+    },
+    {
+        "start": 713.6,
+        "end": 720.24,
+        "text": "Yes. Can you get a cart?",
+        "textdich": ""
+    },
+    {
+        "start": 717.04,
+        "end": 723.44,
+        "text": " This one looks good.",
+        "textdich": ""
+    },
+    {
+        "start": 720.24,
+        "end": 727.44,
+        "text": "This one looks good.",
+        "textdich": ""
+    },
+    {
+        "start": 723.44,
+        "end": 731.44,
+        "text": " Perfect. What do we need first?",
+        "textdich": ""
+    },
+    {
+        "start": 727.44,
+        "end": 735.04,
+        "text": "Perfect. What do we need first?",
+        "textdich": ""
+    },
+    {
+        "start": 731.44,
+        "end": 738.639,
+        "text": " Do you have the shopping list?",
+        "textdich": ""
+    },
+    {
+        "start": 735.04,
+        "end": 742.399,
+        "text": "Do you have the shopping list?",
+        "textdich": ""
+    },
+    {
+        "start": 738.639,
+        "end": 746.24,
+        "text": " Here it is. We need milk.",
+        "textdich": ""
+    },
+    {
+        "start": 742.399,
+        "end": 749.44,
+        "text": "Here it is. We need milk.",
+        "textdich": ""
+    },
+    {
+        "start": 746.24,
+        "end": 752.639,
+        "text": " I know where it is.",
+        "textdich": ""
+    },
+    {
+        "start": 749.44,
+        "end": 754.72,
+        "text": "I know where it is.",
+        "textdich": ""
+    },
+    {
+        "start": 752.639,
+        "end": 756.88,
+        "text": " Lead the way.",
+        "textdich": ""
+    },
+    {
+        "start": 754.72,
+        "end": 760.56,
+        "text": "Lead the way.",
+        "textdich": ""
+    },
+    {
+        "start": 756.88,
+        "end": 764.079,
+        "text": " It's in the cold section.",
+        "textdich": ""
+    },
+    {
+        "start": 760.56,
+        "end": 768.639,
+        "text": "It's in the cold section.",
+        "textdich": ""
+    },
+    {
+        "start": 764.079,
+        "end": 773.92,
+        "text": " Good. What else do we need? Good. What else do we need?",
+        "textdich": ""
+    },
+    {
+        "start": 770.959,
+        "end": 776.88,
+        "text": " Bread and eggs.",
+        "textdich": ""
+    },
+    {
+        "start": 773.92,
+        "end": 779.36,
+        "text": "Bread and eggs.",
+        "textdich": ""
+    },
+    {
+        "start": 776.88,
+        "end": 781.839,
+        "text": " Can you get the bread?",
+        "textdich": ""
+    },
+    {
+        "start": 779.36,
+        "end": 785.12,
+        "text": "Can you get the bread?",
+        "textdich": ""
+    },
+    {
+        "start": 781.839,
+        "end": 788.24,
+        "text": "Which type do you want?",
+        "textdich": ""
+    },
+    {
+        "start": 785.12,
+        "end": 791.279,
+        "text": "Which type do you want?",
+        "textdich": ""
+    },
+    {
+        "start": 788.24,
+        "end": 794.48,
+        "text": " The whole wheat bread, please.",
+        "textdich": ""
+    },
+    {
+        "start": 791.279,
+        "end": 797.2,
+        "text": "The whole wheat bread, please.",
+        "textdich": ""
+    },
+    {
+        "start": 794.48,
+        "end": 799.839,
+        "text": " Here it is.",
+        "textdich": ""
+    },
+    {
+        "start": 797.2,
+        "end": 803.6,
+        "text": "Here it is.",
+        "textdich": ""
+    },
+    {
+        "start": 799.839,
+        "end": 807.44,
+        "text": " Thank you. Now we need fruit.",
+        "textdich": ""
+    },
+    {
+        "start": 803.6,
+        "end": 810.8,
+        "text": "Thank you. Now we need fruit.",
+        "textdich": ""
+    },
+    {
+        "start": 807.44,
+        "end": 814.16,
+        "text": " Can we get some apples?",
+        "textdich": ""
+    },
+    {
+        "start": 810.8,
+        "end": 817.92,
+        "text": "Can we get some apples?",
+        "textdich": ""
+    },
+    {
+        "start": 814.16,
+        "end": 821.68,
+        "text": " Of course. Pick the red ones.",
+        "textdich": ""
+    },
+    {
+        "start": 817.92,
+        "end": 825.519,
+        "text": "Of course. Pick the red ones.",
+        "textdich": ""
+    },
+    {
+        "start": 821.68,
+        "end": 829.279,
+        "text": " These look fresh and sweet.",
+        "textdich": ""
+    },
+    {
+        "start": 825.519,
+        "end": 833.12,
+        "text": "These look fresh and sweet.",
+        "textdich": ""
+    },
+    {
+        "start": 829.279,
+        "end": 836.959,
+        "text": " Great choice. Anything else?",
+        "textdich": ""
+    },
+    {
+        "start": 833.12,
+        "end": 840.32,
+        "text": "Great choice. Anything else?",
+        "textdich": ""
+    },
+    {
+        "start": 836.959,
+        "end": 843.839,
+        "text": " Can we buy some chocolate?",
+        "textdich": ""
+    },
+    {
+        "start": 840.32,
+        "end": 846.8,
+        "text": "Can we buy some chocolate?",
+        "textdich": ""
+    },
+    {
+        "start": 843.839,
+        "end": 849.68,
+        "text": " Just one small bar.",
+        "textdich": ""
+    },
+    {
+        "start": 846.8,
+        "end": 854.32,
+        "text": "Just one small bar.",
+        "textdich": ""
+    },
+    {
+        "start": 849.68,
+        "end": 859.639,
+        "text": " Thank you, Mom. You're the best.",
+        "textdich": ""
+    },
+    {
+        "start": 854.32,
+        "end": 859.639,
+        "text": "Thank you, Mom. You're the best.",
+        "textdich": ""
+    },
+    {
+        "start": 860.24,
+        "end": 865.68,
+        "text": " Don't forget about the school play tomorrow.",
+        "textdich": ""
+    },
+    {
+        "start": 863.92,
+        "end": 871.68,
+        "text": "Don't forget about the school play tomorrow.",
+        "textdich": ""
+    },
+    {
+        "start": 867.44,
+        "end": 876.079,
+        "text": " Of course not. I took the afternoon off.",
+        "textdich": ""
+    },
+    {
+        "start": 871.68,
+        "end": 878.079,
+        "text": "Of course not. I took the afternoon off.",
+        "textdich": ""
+    },
+    {
+        "start": 876.079,
+        "end": 882.24,
+        "text": " Sarah is so nervous about her performance.",
+        "textdich": ""
+    },
+    {
+        "start": 880.24,
+        "end": 888.32,
+        "text": "Sarah is so nervous about her performance.",
+        "textdich": ""
+    },
+    {
+        "start": 884.16,
+        "end": 892.56,
+        "text": " She'll do great. She's been practicing.",
+        "textdich": ""
+    },
+    {
+        "start": 888.32,
+        "end": 895.6,
+        "text": "She'll do great. She's been practicing.",
+        "textdich": ""
+    },
+    {
+        "start": 892.56,
+        "end": 898.48,
+        "text": " Should we bring flowers for her?",
+        "textdich": ""
+    },
+    {
+        "start": 895.6,
+        "end": 902.48,
+        "text": "Should we bring flowers for her?",
+        "textdich": ""
+    },
+    {
+        "start": 898.48,
+        "end": 906.48,
+        "text": "Absolutely, she loves roses.",
+        "textdich": ""
+    },
+    {
+        "start": 902.48,
+        "end": 910.0,
+        "text": "Absolutely, she loves roses.",
+        "textdich": ""
+    },
+    {
+        "start": 906.48,
+        "end": 913.279,
+        "text": "And we need to record Tommy's song.",
+        "textdich": ""
+    },
+    {
+        "start": 910.0,
+        "end": 916.959,
+        "text": "And we need to record Tommy's song.",
+        "textdich": ""
+    },
+    {
+        "start": 913.279,
+        "end": 920.8,
+        "text": " I charged the camera battery last night.",
+        "textdich": ""
+    },
+    {
+        "start": 916.959,
+        "end": 923.36,
+        "text": "I charged the camera battery last night.",
+        "textdich": ""
+    },
+    {
+        "start": 920.8,
+        "end": 925.839,
+        "text": " You think of everything.",
+        "textdich": ""
+    },
+    {
+        "start": 923.36,
+        "end": 928.959,
+        "text": "You think of everything.",
+        "textdich": ""
+    },
+    {
+        "start": 925.839,
+        "end": 932.32,
+        "text": "I don't want to miss these moments.",
+        "textdich": ""
+    },
+    {
+        "start": 928.959,
+        "end": 935.199,
+        "text": "I don't want to miss these moments.",
+        "textdich": ""
+    },
+    {
+        "start": 932.32,
+        "end": 937.92,
+        "text": " What time should we leave home?",
+        "textdich": ""
+    },
+    {
+        "start": 935.199,
+        "end": 942.32,
+        "text": "What time should we leave home?",
+        "textdich": ""
+    },
+    {
+        "start": 937.92,
+        "end": 946.88,
+        "text": " The play starts at 2, so maybe 1:30.",
+        "textdich": ""
+    },
+    {
+        "start": 942.32,
+        "end": 950.079,
+        "text": "The play starts at 2, so maybe 1:30.",
+        "textdich": ""
+    },
+    {
+        "start": 946.88,
+        "end": 953.36,
+        "text": " Perfect. That gives us time to find good seats.",
+        "textdich": ""
+    },
+    {
+        "start": 952.0,
+        "end": 956.8,
+        "text": "Perfect.",
+        "textdich": ""
+    },
+    {
+        "start": 953.36,
+        "end": 960.32,
+        "text": "That gives us time to find good seats.",
+        "textdich": ""
+    },
+    {
+        "start": 956.8,
+        "end": 966.48,
+        "text": " I want to sit in the front row. I want to sit in the front row.",
+        "textdich": ""
+    },
+    {
+        "start": 963.12,
+        "end": 969.6,
+        "text": " The other parents will be there, too.",
+        "textdich": ""
+    },
+    {
+        "start": 966.48,
+        "end": 972.72,
+        "text": "The other parents will be there, too.",
+        "textdich": ""
+    },
+    {
+        "start": 969.6,
+        "end": 976.0,
+        "text": " It'll be nice to see everyone.",
+        "textdich": ""
+    },
+    {
+        "start": 972.72,
+        "end": 977.92,
+        "text": "It'll be nice to see everyone.",
+        "textdich": ""
+    },
+    {
+        "start": 976.0,
+        "end": 981.6,
+        "text": " Should we take them out for ice cream after?",
+        "textdich": ""
+    },
+    {
+        "start": 979.68,
+        "end": 987.279,
+        "text": "Should we take them out for ice cream after?",
+        "textdich": ""
+    },
+    {
+        "start": 983.279,
+        "end": 991.44,
+        "text": " Great idea. They'll want to celebrate.",
+        "textdich": ""
+    },
+    {
+        "start": 987.279,
+        "end": 994.8,
+        "text": "Great idea. They'll want to celebrate.",
+        "textdich": ""
+    },
+    {
+        "start": 991.44,
+        "end": 998.079,
+        "text": " I'm so proud of both our children.",
+        "textdich": ""
+    },
+    {
+        "start": 994.8,
+        "end": 1001.04,
+        "text": "I'm so proud of both our children.",
+        "textdich": ""
+    },
+    {
+        "start": 998.079,
+        "end": 1004.24,
+        "text": " They work so hard at school.",
+        "textdich": ""
+    },
+    {
+        "start": 1001.04,
+        "end": 1006.16,
+        "text": "They work so hard at school.",
+        "textdich": ""
+    },
+    {
+        "start": 1004.24,
+        "end": 1016.079,
+        "text": " Remember to turn off your phone during the show. Remember to turn off your phone during the show.",
+        "textdich": ""
+    },
+    {
+        "start": 1011.839,
+        "end": 1020.32,
+        "text": " Already done. This is their special day.",
+        "textdich": ""
+    },
+    {
+        "start": 1016.079,
+        "end": 1023.6,
+        "text": "Already done. This is their special day.",
+        "textdich": ""
+    },
+    {
+        "start": 1020.32,
+        "end": 1026.799,
+        "text": " I might cry when Sarah sings.",
+        "textdich": ""
+    },
+    {
+        "start": 1023.6,
+        "end": 1030.0,
+        "text": "I might cry when Sarah sings.",
+        "textdich": ""
+    },
+    {
+        "start": 1026.799,
+        "end": 1039.52,
+        "text": " I probably will, too. She's grown so much. I probably will, too. She's grown so much.",
+        "textdich": ""
+    },
+    {
+        "start": 1036.0,
+        "end": 1043.039,
+        "text": "These school events are so important.",
+        "textdich": ""
+    },
+    {
+        "start": 1039.52,
+        "end": 1046.799,
+        "text": "These school events are so important.",
+        "textdich": ""
+    },
+    {
+        "start": 1043.039,
+        "end": 1050.64,
+        "text": " Childhood memories will all treasure.",
+        "textdich": ""
+    },
+    {
+        "start": 1046.799,
+        "end": 1054.0,
+        "text": "Childhood memories will all treasure.",
+        "textdich": ""
+    },
+    {
+        "start": 1050.64,
+        "end": 1057.2,
+        "text": " Tomorrow will be a wonderful day.",
+        "textdich": ""
+    },
+    {
+        "start": 1054.0,
+        "end": 1060.32,
+        "text": "Tomorrow will be a wonderful day.",
+        "textdich": ""
+    },
+    {
+        "start": 1057.2,
+        "end": 1065.2,
+        "text": " The whole family together supporting each other.",
+        "textdich": ""
+    },
+    {
+        "start": 1062.08,
+        "end": 1070.72,
+        "text": "The whole family together supporting each other.",
+        "textdich": ""
+    },
+    {
+        "start": 1068.48,
+        "end": 1074.64,
+        "text": "The garden needs some attention this weekend.",
+        "textdich": ""
+    },
+    {
+        "start": 1072.4,
+        "end": 1080.96,
+        "text": "The garden needs some attention this weekend.",
+        "textdich": ""
+    },
+    {
+        "start": 1076.559,
+        "end": 1085.28,
+        "text": " You're right. The flowers need watering.",
+        "textdich": ""
+    },
+    {
+        "start": 1080.96,
+        "end": 1087.52,
+        "text": "You're right. The flowers need watering.",
+        "textdich": ""
+    },
+    {
+        "start": 1085.28,
+        "end": 1091.52,
+        "text": " I'll mow the lawn while you plant the roses.",
+        "textdich": ""
+    },
+    {
+        "start": 1089.28,
+        "end": 1096.48,
+        "text": "I'll mow the lawn while you plant the roses.",
+        "textdich": ""
+    },
+    {
+        "start": 1093.52,
+        "end": 1101.52,
+        "text": " Perfect. I bought beautiful red ones yesterday.",
+        "textdich": ""
+    },
+    {
+        "start": 1098.64,
+        "end": 1106.799,
+        "text": "Perfect. I bought beautiful red ones yesterday.",
+        "textdich": ""
+    },
+    {
+        "start": 1103.36,
+        "end": 1110.48,
+        "text": " The kids love helping in the garden.",
+        "textdich": ""
+    },
+    {
+        "start": 1106.799,
+        "end": 1114.32,
+        "text": "The kids love helping in the garden.",
+        "textdich": ""
+    },
+    {
+        "start": 1110.48,
+        "end": 1118.08,
+        "text": " Tommy wants to plant his own tomatoes.",
+        "textdich": ""
+    },
+    {
+        "start": 1114.32,
+        "end": 1120.32,
+        "text": "Tommy wants to plant his own tomatoes.",
+        "textdich": ""
+    },
+    {
+        "start": 1118.08,
+        "end": 1124.96,
+        "text": "And Sarah keeps asking about the butterfly garden.",
+        "textdich": ""
+    },
+    {
+        "start": 1122.72,
+        "end": 1130.799,
+        "text": "And Sarah keeps asking about the butterfly garden.",
+        "textdich": ""
+    },
+    {
+        "start": 1127.36,
+        "end": 1134.16,
+        "text": "We should plant more flowers for them.",
+        "textdich": ""
+    },
+    {
+        "start": 1130.799,
+        "end": 1138.0,
+        "text": "We should plant more flowers for them.",
+        "textdich": ""
+    },
+    {
+        "start": 1134.16,
+        "end": 1141.84,
+        "text": " Look how green our grass is getting.",
+        "textdich": ""
+    },
+    {
+        "start": 1138.0,
+        "end": 1145.28,
+        "text": "Look how green our grass is getting.",
+        "textdich": ""
+    },
+    {
+        "start": 1141.84,
+        "end": 1148.559,
+        "text": " Your hard work is really showing.",
+        "textdich": ""
+    },
+    {
+        "start": 1145.28,
+        "end": 1150.88,
+        "text": "Your hard work is really showing.",
+        "textdich": ""
+    },
+    {
+        "start": 1148.559,
+        "end": 1155.12,
+        "text": "Working together makes it so much easier.",
+        "textdich": ""
+    },
+    {
+        "start": 1152.88,
+        "end": 1161.6,
+        "text": "Working together makes it so much easier.",
+        "textdich": ""
+    },
+    {
+        "start": 1157.12,
+        "end": 1165.919,
+        "text": " And more fun, too. I love our teamwork.",
+        "textdich": ""
+    },
+    {
+        "start": 1161.6,
+        "end": 1168.16,
+        "text": "And more fun, too. I love our teamwork.",
+        "textdich": ""
+    },
+    {
+        "start": 1165.919,
+        "end": 1172.08,
+        "text": " Should we add some herbs near the kitchen?",
+        "textdich": ""
+    },
+    {
+        "start": 1169.919,
+        "end": 1178.32,
+        "text": "Should we add some herbs near the kitchen?",
+        "textdich": ""
+    },
+    {
+        "start": 1173.84,
+        "end": 1182.72,
+        "text": " Great idea. Fresh herbs for cooking.",
+        "textdich": ""
+    },
+    {
+        "start": 1178.32,
+        "end": 1186.64,
+        "text": "Great idea. Fresh herbs for cooking.",
+        "textdich": ""
+    },
+    {
+        "start": 1182.72,
+        "end": 1190.799,
+        "text": " Basil and rosemary would be perfect.",
+        "textdich": ""
+    },
+    {
+        "start": 1186.64,
+        "end": 1193.919,
+        "text": "Basil and rosemary would be perfect.",
+        "textdich": ""
+    },
+    {
+        "start": 1190.799,
+        "end": 1196.799,
+        "text": " And maybe some mint for tea.",
+        "textdich": ""
+    },
+    {
+        "start": 1193.919,
+        "end": 1199.28,
+        "text": "And maybe some mint for tea.",
+        "textdich": ""
+    },
+    {
+        "start": 1196.799,
+        "end": 1203.52,
+        "text": " The neighbors always compliment our garden.",
+        "textdich": ""
+    },
+    {
+        "start": 1200.96,
+        "end": 1207.44,
+        "text": "The neighbors always compliment our garden.",
+        "textdich": ""
+    },
+    {
+        "start": 1205.36,
+        "end": 1211.28,
+        "text": "That's because we take such good care of it.",
+        "textdich": ""
+    },
+    {
+        "start": 1209.2,
+        "end": 1216.88,
+        "text": "That's because we take such good care of it.",
+        "textdich": ""
+    },
+    {
+        "start": 1212.799,
+        "end": 1220.96,
+        "text": " This afternoon, we can sit and enjoy it.",
+        "textdich": ""
+    },
+    {
+        "start": 1216.88,
+        "end": 1231.679,
+        "text": "This afternoon, we can sit and enjoy it  with cold lemonade and the kids playing with cold lemonade and the kids playing.",
+        "textdich": ""
+    },
+    {
+        "start": 1228.4,
+        "end": 1235.2,
+        "text": " I'll set up the sprinkler for them.",
+        "textdich": ""
+    },
+    {
+        "start": 1231.679,
+        "end": 1238.48,
+        "text": "I'll set up the sprinkler for them.",
+        "textdich": ""
+    },
+    {
+        "start": 1235.2,
+        "end": 1241.679,
+        "text": " They'll love running through the water.",
+        "textdich": ""
+    },
+    {
+        "start": 1238.48,
+        "end": 1245.919,
+        "text": "They'll love running through the water.",
+        "textdich": ""
+    },
+    {
+        "start": 1241.679,
+        "end": 1250.24,
+        "text": " Our backyard is becoming so beautiful.",
+        "textdich": ""
+    },
+    {
+        "start": 1245.919,
+        "end": 1253.12,
+        "text": "Our backyard is becoming so beautiful.",
+        "textdich": ""
+    },
+    {
+        "start": 1250.24,
+        "end": 1256.08,
+        "text": " It's our little paradise.",
+        "textdich": ""
+    },
+    {
+        "start": 1253.12,
+        "end": 1258.32,
+        "text": "It's our little paradise.",
+        "textdich": ""
+    },
+    {
+        "start": 1256.08,
+        "end": 1262.48,
+        "text": " Hard work together creates something special.",
+        "textdich": ""
+    },
+    {
+        "start": 1260.24,
+        "end": 1267.84,
+        "text": "Hard work together creates something special.",
+        "textdich": ""
+    },
+    {
+        "start": 1264.48,
+        "end": 1270.96,
+        "text": " Just like our marriage and family.",
+        "textdich": ""
+    },
+    {
+        "start": 1267.84,
+        "end": 1273.52,
+        "text": "Just like our marriage and family.",
+        "textdich": ""
+    },
+    {
+        "start": 1270.96,
+        "end": 1277.6,
+        "text": " I love spending Saturdays like this with you.",
+        "textdich": ""
+    },
+    {
+        "start": 1275.039,
+        "end": 1283.679,
+        "text": "I love spending Saturdays like this with you.",
+        "textdich": ""
+    },
+    {
+        "start": 1279.2,
+        "end": 1289.4,
+        "text": " Me too. Home, garden, and family.",
+        "textdich": ""
+    },
+    {
+        "start": 1283.679,
+        "end": 1289.4,
+        "text": "Me too. Home, garden, and family.",
+        "textdich": ""
+    },
+    {
+        "start": 1289.6,
+        "end": 1298.4,
+        "text": "Are you hungry? I'm making a sandwich.",
+        "textdich": ""
+    },
+    {
+        "start": 1294.08,
+        "end": 1302.559,
+        "text": "Are you hungry? I'm making a sandwich.",
+        "textdich": ""
+    },
+    {
+        "start": 1298.4,
+        "end": 1306.799,
+        "text": " That sounds good. Make me one, too.",
+        "textdich": ""
+    },
+    {
+        "start": 1302.559,
+        "end": 1310.0,
+        "text": "That sounds good. Make me one, too.",
+        "textdich": ""
+    },
+    {
+        "start": 1306.799,
+        "end": 1313.12,
+        "text": " Turkey and cheese with mustard.",
+        "textdich": ""
+    },
+    {
+        "start": 1310.0,
+        "end": 1317.6,
+        "text": "Turkey and cheese with mustard.",
+        "textdich": ""
+    },
+    {
+        "start": 1313.12,
+        "end": 1322.159,
+        "text": " Perfect. You know exactly what I like.",
+        "textdich": ""
+    },
+    {
+        "start": 1317.6,
+        "end": 1325.28,
+        "text": "Perfect. You know exactly what I like.",
+        "textdich": ""
+    },
+    {
+        "start": 1322.159,
+        "end": 1328.32,
+        "text": " Want some hot chocolate with it?",
+        "textdich": ""
+    },
+    {
+        "start": 1325.28,
+        "end": 1332.88,
+        "text": "Want some hot chocolate with it?",
+        "textdich": ""
+    },
+    {
+        "start": 1328.32,
+        "end": 1337.52,
+        "text": " On a cold night like this. Absolutely.",
+        "textdich": ""
+    },
+    {
+        "start": 1332.88,
+        "end": 1340.96,
+        "text": "On a cold night like this. Absolutely.",
+        "textdich": ""
+    },
+    {
+        "start": 1337.52,
+        "end": 1344.32,
+        "text": " The kids are finally sound asleep.",
+        "textdich": ""
+    },
+    {
+        "start": 1340.96,
+        "end": 1348.32,
+        "text": "The kids are finally sound asleep.",
+        "textdich": ""
+    },
+    {
+        "start": 1344.32,
+        "end": 1352.48,
+        "text": "It took three stories to get Sarah down.",
+        "textdich": ""
+    },
+    {
+        "start": 1348.32,
+        "end": 1356.32,
+        "text": "It took three stories to get Sarah down.",
+        "textdich": ""
+    },
+    {
+        "start": 1352.48,
+        "end": 1360.0,
+        "text": " And Tommy wanted extra hugs tonight.",
+        "textdich": ""
+    },
+    {
+        "start": 1356.32,
+        "end": 1363.6,
+        "text": "And Tommy wanted extra hugs tonight.",
+        "textdich": ""
+    },
+    {
+        "start": 1360.0,
+        "end": 1367.44,
+        "text": " They had such a busy day at school.",
+        "textdich": ""
+    },
+    {
+        "start": 1363.6,
+        "end": 1369.44,
+        "text": "They had such a busy day at school.",
+        "textdich": ""
+    },
+    {
+        "start": 1367.44,
+        "end": 1373.52,
+        "text": " Remember when we used to stay up late talking?",
+        "textdich": ""
+    },
+    {
+        "start": 1371.28,
+        "end": 1384.72,
+        "text": "Remember when we used to stay up late talking  before kids? We talked until sunrise.",
+        "textdich": ""
+    },
+    {
+        "start": 1380.0,
+        "end": 1389.36,
+        "text": "Before kids, we talked until sunrise.",
+        "textdich": ""
+    },
+    {
+        "start": 1384.72,
+        "end": 1393.84,
+        "text": " We still do just with sandwiches now.",
+        "textdich": ""
+    },
+    {
+        "start": 1389.36,
+        "end": 1396.72,
+        "text": "We still do just with sandwiches now.",
+        "textdich": ""
+    },
+    {
+        "start": 1393.84,
+        "end": 1399.6,
+        "text": " And we're always tired.",
+        "textdich": ""
+    },
+    {
+        "start": 1396.72,
+        "end": 1403.919,
+        "text": "And we're always tired.",
+        "textdich": ""
+    },
+    {
+        "start": 1399.6,
+        "end": 1408.0,
+        "text": "But happy tired. I love our life.",
+        "textdich": ""
+    },
+    {
+        "start": 1403.919,
+        "end": 1411.12,
+        "text": "But happy tired. I love our life.",
+        "textdich": ""
+    },
+    {
+        "start": 1408.0,
+        "end": 1414.32,
+        "text": " Even the chaos and noise.",
+        "textdich": ""
+    },
+    {
+        "start": 1411.12,
+        "end": 1417.6,
+        "text": "Even the chaos and noise.",
+        "textdich": ""
+    },
+    {
+        "start": 1414.32,
+        "end": 1422.96,
+        "text": " Especially the chaos and noise. It means family.",
+        "textdich": ""
+    },
+    {
+        "start": 1419.679,
+        "end": 1429.12,
+        "text": "Especially the chaos and noise. It means family.",
+        "textdich": ""
+    },
+    {
+        "start": 1424.799,
+        "end": 1433.679,
+        "text": " You're right. Quiet houses are lonely.",
+        "textdich": ""
+    },
+    {
+        "start": 1429.12,
+        "end": 1436.799,
+        "text": "You're right. Quiet houses are lonely.",
+        "textdich": ""
+    },
+    {
+        "start": 1433.679,
+        "end": 1439.84,
+        "text": " Should we watch a movie together?",
+        "textdich": ""
+    },
+    {
+        "start": 1436.799,
+        "end": 1442.64,
+        "text": "Should we watch a movie together?",
+        "textdich": ""
+    },
+    {
+        "start": 1439.84,
+        "end": 1445.52,
+        "text": " Something light and funny.",
+        "textdich": ""
+    },
+    {
+        "start": 1442.64,
+        "end": 1450.0,
+        "text": "Something light and funny.",
+        "textdich": ""
+    },
+    {
+        "start": 1445.52,
+        "end": 1454.24,
+        "text": " Perfect. We both need to laugh tonight.",
+        "textdich": ""
+    },
+    {
+        "start": 1450.0,
+        "end": 1457.919,
+        "text": "Perfect. We both need to laugh tonight.",
+        "textdich": ""
+    },
+    {
+        "start": 1454.24,
+        "end": 1463.12,
+        "text": " After this week, we deserve it. After this week, we deserve it.",
+        "textdich": ""
+    },
+    {
+        "start": 1460.96,
+        "end": 1467.36,
+        "text": " These quiet moments together are precious.",
+        "textdich": ""
+    },
+    {
+        "start": 1465.2,
+        "end": 1473.039,
+        "text": "These quiet moments together are precious.",
+        "textdich": ""
+    },
+    {
+        "start": 1469.279,
+        "end": 1476.88,
+        "text": " Just you, me, and midnight snacks.",
+        "textdich": ""
+    },
+    {
+        "start": 1473.039,
+        "end": 1480.08,
+        "text": "Just you, me, and midnight snacks.",
+        "textdich": ""
+    },
+    {
+        "start": 1476.88,
+        "end": 1483.039,
+        "text": " Tomorrow will be busy again.",
+        "textdich": ""
+    },
+    {
+        "start": 1480.08,
+        "end": 1485.84,
+        "text": "Tomorrow will be busy again.",
+        "textdich": ""
+    },
+    {
+        "start": 1483.039,
+        "end": 1488.64,
+        "text": " But tonight is ours.",
+        "textdich": ""
+    },
+    {
+        "start": 1485.84,
+        "end": 1492.0,
+        "text": "But tonight is ours.",
+        "textdich": ""
+    },
+    {
+        "start": 1488.64,
+        "end": 1495.36,
+        "text": " I love these simple times with you.",
+        "textdich": ""
+    },
+    {
+        "start": 1492.0,
+        "end": 1498.32,
+        "text": "I love these simple times with you.",
+        "textdich": ""
+    },
+    {
+        "start": 1495.36,
+        "end": 1503.039,
+        "text": " Me, too. This is what happiness looks like.",
+        "textdich": ""
+    },
+    {
+        "start": 1500.08,
+        "end": 1506.039,
+        "text": "Me, too. This is what happiness looks like.",
+        "textdich": ""
+    },
+    {
+        "start": 1506.4,
+        "end": 1514.4,
+        "text": " Good morning. Can I have a large coffee, please?",
+        "textdich": ""
+    },
+    {
+        "start": 1511.44,
+        "end": 1520.0,
+        "text": "Good morning. Can I have a large coffee, please?",
+        "textdich": ""
+    },
+    {
+        "start": 1516.32,
+        "end": 1523.679,
+        "text": "Of course. Hot or iced?",
+        "textdich": ""
+    },
+    {
+        "start": 1520.0,
+        "end": 1528.159,
+        "text": "Of course. Hot or iced?",
+        "textdich": ""
+    },
+    {
+        "start": 1523.679,
+        "end": 1532.559,
+        "text": " Hot, please, with extra cream.",
+        "textdich": ""
+    },
+    {
+        "start": 1528.159,
+        "end": 1536.32,
+        "text": "Hot, please, with extra cream.",
+        "textdich": ""
+    },
+    {
+        "start": 1532.559,
+        "end": 1540.159,
+        "text": " Would you like any sugar with that?",
+        "textdich": ""
+    },
+    {
+        "start": 1536.32,
+        "end": 1543.52,
+        "text": "Would you like any sugar with that?",
+        "textdich": ""
+    },
+    {
+        "start": 1540.159,
+        "end": 1546.88,
+        "text": " Just one packet. Thank you.",
+        "textdich": ""
+    },
+    {
+        "start": 1543.52,
+        "end": 1549.919,
+        "text": "Just one packet. Thank you.",
+        "textdich": ""
+    },
+    {
+        "start": 1546.88,
+        "end": 1552.88,
+        "text": " Anything else for you today?",
+        "textdich": ""
+    },
+    {
+        "start": 1549.919,
+        "end": 1556.0,
+        "text": "Anything else for you today?",
+        "textdich": ""
+    },
+    {
+        "start": 1552.88,
+        "end": 1559.36,
+        "text": " Do you have any muffins left?",
+        "textdich": ""
+    },
+    {
+        "start": 1556.0,
+        "end": 1563.679,
+        "text": "Do you have any muffins left?",
+        "textdich": ""
+    },
+    {
+        "start": 1559.36,
+        "end": 1567.76,
+        "text": " Yes. Blueberry and chocolate chip.",
+        "textdich": ""
+    },
+    {
+        "start": 1563.679,
+        "end": 1571.44,
+        "text": "Yes. Blueberry and chocolate chip.",
+        "textdich": ""
+    },
+    {
+        "start": 1567.76,
+        "end": 1575.039,
+        "text": " I'll take the blueberry one, please.",
+        "textdich": ""
+    },
+    {
+        "start": 1571.44,
+        "end": 1577.84,
+        "text": "I'll take the blueberry one, please.",
+        "textdich": ""
+    },
+    {
+        "start": 1575.039,
+        "end": 1582.559,
+        "text": "Great choice. They're fresh from this morning.",
+        "textdich": ""
+    },
+    {
+        "start": 1579.84,
+        "end": 1588.96,
+        "text": "Great choice. They're fresh from this morning.",
+        "textdich": ""
+    },
+    {
+        "start": 1584.64,
+        "end": 1593.039,
+        "text": " Perfect. How much is everything?",
+        "textdich": ""
+    },
+    {
+        "start": 1588.96,
+        "end": 1596.4,
+        "text": "Perfect. How much is everything?",
+        "textdich": ""
+    },
+    {
+        "start": 1593.039,
+        "end": 1601.6,
+        "text": " That'll be $6.50, please.",
+        "textdich": ""
+    },
+    {
+        "start": 1598.32,
+        "end": 1606.159,
+        "text": "That'll be $6.50, please.",
+        "textdich": ""
+    },
+    {
+        "start": 1603.52,
+        "end": 1608.799,
+        "text": "Here's my card.",
+        "textdich": ""
+    },
+    {
+        "start": 1606.159,
+        "end": 1611.36,
+        "text": "Here's my card.",
+        "textdich": ""
+    },
+    {
+        "start": 1608.799,
+        "end": 1616.0,
+        "text": " Thank you. Your order will be ready soon.",
+        "textdich": ""
+    },
+    {
+        "start": 1613.36,
+        "end": 1620.799,
+        "text": "Thank you. Your order will be ready soon.",
+        "textdich": ""
+    },
+    {
+        "start": 1618.0,
+        "end": 1623.52,
+        "text": " How long will it take?",
+        "textdich": ""
+    },
+    {
+        "start": 1620.799,
+        "end": 1627.919,
+        "text": "How long will it take?",
+        "textdich": ""
+    },
+    {
+        "start": 1623.52,
+        "end": 1632.48,
+        "text": " About 3 minutes. I'll call your name.",
+        "textdich": ""
+    },
+    {
+        "start": 1627.919,
+        "end": 1634.799,
+        "text": "About 3 minutes. I'll call your name.",
+        "textdich": ""
+    },
+    {
+        "start": 1632.48,
+        "end": 1639.12,
+        "text": "Actually, I forgot to mention make it to go.",
+        "textdich": ""
+    },
+    {
+        "start": 1636.799,
+        "end": 1645.2,
+        "text": "Actually, I forgot to mention make it to go.",
+        "textdich": ""
+    },
+    {
+        "start": 1640.96,
+        "end": 1649.36,
+        "text": " No problem. I'll put it in a cup.",
+        "textdich": ""
+    },
+    {
+        "start": 1645.2,
+        "end": 1653.919,
+        "text": "No problem. I'll put it in a cup.",
+        "textdich": ""
+    },
+    {
+        "start": 1649.36,
+        "end": 1658.32,
+        "text": " Thank you so much. You're very helpful.",
+        "textdich": ""
+    },
+    {
+        "start": 1653.919,
+        "end": 1662.72,
+        "text": "Thank you so much. You're very helpful.",
+        "textdich": ""
+    },
+    {
+        "start": 1658.32,
+        "end": 1667.12,
+        "text": " My pleasure. Have a wonderful day.",
+        "textdich": ""
+    },
+    {
+        "start": 1662.72,
+        "end": 1670.24,
+        "text": "My pleasure. Have a wonderful day.",
+        "textdich": ""
+    },
+    {
+        "start": 1667.12,
+        "end": 1675.52,
+        "text": " You, too. This coffee smells amazing already.",
+        "textdich": ""
+    },
+    {
+        "start": 1672.4,
+        "end": 1681.2,
+        "text": "You, too. This coffee smells amazing already.",
+        "textdich": ""
+    },
+    {
+        "start": 1677.52,
+        "end": 1684.88,
+        "text": " We use the best beans in town.",
+        "textdich": ""
+    },
+    {
+        "start": 1681.2,
+        "end": 1689.44,
+        "text": "We use the best beans in town.",
+        "textdich": ""
+    },
+    {
+        "start": 1684.88,
+        "end": 1694.0,
+        "text": " I can tell. I'll definitely come back.",
+        "textdich": ""
+    },
+    {
+        "start": 1689.44,
+        "end": 1697.2,
+        "text": "I can tell. I'll definitely come back.",
+        "textdich": ""
+    },
+    {
+        "start": 1694.0,
+        "end": 1700.48,
+        "text": " We'd love to see you again.",
+        "textdich": ""
+    },
+    {
+        "start": 1697.2,
+        "end": 1703.12,
+        "text": "We'd love to see you again.",
+        "textdich": ""
+    },
+    {
+        "start": 1700.48,
+        "end": 1705.76,
+        "text": " See you next time.",
+        "textdich": ""
+    },
+    {
+        "start": 1703.12,
+        "end": 1709.44,
+        "text": "See you next time.",
+        "textdich": ""
+    },
+    {
+        "start": 1705.76,
+        "end": 1713.039,
+        "text": " Enjoy your coffee and muffin.",
+        "textdich": ""
+    },
+    {
+        "start": 1709.44,
+        "end": 1716.64,
+        "text": "Enjoy your coffee and muffin.",
+        "textdich": ""
+    },
+    {
+        "start": 1713.039,
+        "end": 1721.32,
+        "text": " I will. Thanks again.",
+        "textdich": ""
+    },
+    {
+        "start": 1716.64,
+        "end": 1721.32,
+        "text": " You're welcome. Take care.",
+        "textdich": ""
+    },
+    {
+        "start": 1721.36,
+        "end": 1729.679,
+        "text": "Hi Sarah, how are you doing today?",
+        "textdich": ""
+    },
+    {
+        "start": 1725.52,
+        "end": 1734.48,
+        "text": "Hi Sarah, how are you doing today?",
+        "textdich": ""
+    },
+    {
+        "start": 1729.679,
+        "end": 1739.2,
+        "text": " Oh, hello Tom, I'm doing well, thanks.",
+        "textdich": ""
+    },
+    {
+        "start": 1734.48,
+        "end": 1743.039,
+        "text": "Oh, hello Tom. I'm doing well, thanks.",
+        "textdich": ""
+    },
+    {
+        "start": 1739.2,
+        "end": 1747.12,
+        "text": " Getting your mail, too. I see.",
+        "textdich": ""
+    },
+    {
+        "start": 1743.039,
+        "end": 1751.76,
+        "text": "Getting your mail, too. I see.",
+        "textdich": ""
+    },
+    {
+        "start": 1747.12,
+        "end": 1756.24,
+        "text": "Yes, hoping for something good today.",
+        "textdich": ""
+    },
+    {
+        "start": 1751.76,
+        "end": 1760.88,
+        "text": "Yes, hoping for something good today.",
+        "textdich": ""
+    },
+    {
+        "start": 1756.24,
+        "end": 1765.679,
+        "text": " Me, too. Mostly bills for me lately.",
+        "textdich": ""
+    },
+    {
+        "start": 1760.88,
+        "end": 1768.799,
+        "text": "Me, too. Mostly bills for me lately.",
+        "textdich": ""
+    },
+    {
+        "start": 1765.679,
+        "end": 1773.919,
+        "text": " Same here. The electric bill keeps going up.",
+        "textdich": ""
+    },
+    {
+        "start": 1770.799,
+        "end": 1778.32,
+        "text": "Same here. The electric bill keeps going up.",
+        "textdich": ""
+    },
+    {
+        "start": 1775.679,
+        "end": 1783.679,
+        "text": "Tell me about it. Summer air conditioning costs.",
+        "textdich": ""
+    },
+    {
+        "start": 1781.039,
+        "end": 1790.399,
+        "text": "Tell me about it. Summer air conditioning costs.",
+        "textdich": ""
+    },
+    {
+        "start": 1786.48,
+        "end": 1794.24,
+        "text": " At least winter heating will be cheaper.",
+        "textdich": ""
+    },
+    {
+        "start": 1790.399,
+        "end": 1796.72,
+        "text": "At least winter heating will be cheaper.",
+        "textdich": ""
+    },
+    {
+        "start": 1794.24,
+        "end": 1801.039,
+        "text": " True. How's your garden looking this year?",
+        "textdich": ""
+    },
+    {
+        "start": 1798.559,
+        "end": 1807.44,
+        "text": "True. How's your garden looking this year?",
+        "textdich": ""
+    },
+    {
+        "start": 1802.96,
+        "end": 1811.679,
+        "text": " Really good. The tomatoes are huge.",
+        "textdich": ""
+    },
+    {
+        "start": 1807.44,
+        "end": 1815.84,
+        "text": "Really good. The tomatoes are huge.",
+        "textdich": ""
+    },
+    {
+        "start": 1811.679,
+        "end": 1820.08,
+        "text": " I noticed they look delicious.",
+        "textdich": ""
+    },
+    {
+        "start": 1815.84,
+        "end": 1824.399,
+        "text": "I noticed they look delicious.",
+        "textdich": ""
+    },
+    {
+        "start": 1820.08,
+        "end": 1828.72,
+        "text": " Would you like some? I have too many.",
+        "textdich": ""
+    },
+    {
+        "start": 1824.399,
+        "end": 1832.96,
+        "text": "Would you like some? I have too many.",
+        "textdich": ""
+    },
+    {
+        "start": 1828.72,
+        "end": 1837.36,
+        "text": " That's so kind of you. I'd love some.",
+        "textdich": ""
+    },
+    {
+        "start": 1832.96,
+        "end": 1840.96,
+        "text": "That's so kind of you. I'd love some.",
+        "textdich": ""
+    },
+    {
+        "start": 1837.36,
+        "end": 1844.48,
+        "text": " I'll bring a bag over this evening.",
+        "textdich": ""
+    },
+    {
+        "start": 1840.96,
+        "end": 1848.799,
+        "text": "I'll bring a bag over this evening.",
+        "textdich": ""
+    },
+    {
+        "start": 1844.48,
+        "end": 1853.039,
+        "text": " Perfect. My wife will be thrilled.",
+        "textdich": ""
+    },
+    {
+        "start": 1848.799,
+        "end": 1855.919,
+        "text": "Perfect. My wife will be thrilled.",
+        "textdich": ""
+    },
+    {
+        "start": 1853.039,
+        "end": 1858.72,
+        "text": " How is Lisa doing?",
+        "textdich": ""
+    },
+    {
+        "start": 1855.919,
+        "end": 1863.279,
+        "text": "How is Lisa doing?",
+        "textdich": ""
+    },
+    {
+        "start": 1858.72,
+        "end": 1868.08,
+        "text": " She's great. Still working from home.",
+        "textdich": ""
+    },
+    {
+        "start": 1863.279,
+        "end": 1872.48,
+        "text": "She's great. Still working from home.",
+        "textdich": ""
+    },
+    {
+        "start": 1868.08,
+        "end": 1876.88,
+        "text": " That must be nice. No commute.",
+        "textdich": ""
+    },
+    {
+        "start": 1872.48,
+        "end": 1880.399,
+        "text": "That must be nice. No commute.",
+        "textdich": ""
+    },
+    {
+        "start": 1876.88,
+        "end": 1885.84,
+        "text": " Exactly. She loves it. What about your job?",
+        "textdich": ""
+    },
+    {
+        "start": 1882.32,
+        "end": 1892.64,
+        "text": "Exactly. She loves it. What about your job?",
+        "textdich": ""
+    },
+    {
+        "start": 1887.84,
+        "end": 1897.44,
+        "text": " Still at the hospital. Busy as always.",
+        "textdich": ""
+    },
+    {
+        "start": 1892.64,
+        "end": 1901.279,
+        "text": "Still at the hospital. Busy as always.",
+        "textdich": ""
+    },
+    {
+        "start": 1897.44,
+        "end": 1904.96,
+        "text": " Thank you for all your hard work.",
+        "textdich": ""
+    },
+    {
+        "start": 1901.279,
+        "end": 1909.519,
+        "text": "Thank you for all your hard work.",
+        "textdich": ""
+    },
+    {
+        "start": 1904.96,
+        "end": 1914.159,
+        "text": " It's rewarding. I love helping people.",
+        "textdich": ""
+    },
+    {
+        "start": 1909.519,
+        "end": 1918.08,
+        "text": "It's rewarding. I love helping people.",
+        "textdich": ""
+    },
+    {
+        "start": 1914.159,
+        "end": 1922.08,
+        "text": " Well, I should head back inside.",
+        "textdich": ""
+    },
+    {
+        "start": 1918.08,
+        "end": 1926.32,
+        "text": "Well, I should head back inside.",
+        "textdich": ""
+    },
+    {
+        "start": 1922.08,
+        "end": 1930.399,
+        "text": " Me, too. Nice talking with you.",
+        "textdich": ""
+    },
+    {
+        "start": 1926.32,
+        "end": 1933.279,
+        "text": "Me, too. Nice talking with you.",
+        "textdich": ""
+    },
+    {
+        "start": 1930.399,
+        "end": 1938.32,
+        "text": " See you later. Don't forget about the tomatoes.",
+        "textdich": ""
+    },
+    {
+        "start": 1935.44,
+        "end": 1944.48,
+        "text": "See you later. Don't forget about the tomatoes.",
+        "textdich": ""
+    },
+    {
+        "start": 1940.559,
+        "end": 1949.559,
+        "text": " I won't talk to you soon.",
+        "textdich": ""
+    },
+    {
+        "start": 1944.48,
+        "end": 1949.559,
+        "text": "I won't talk to you soon.",
+        "textdich": ""
+    },
+    {
+        "start": 1949.76,
+        "end": 1958.399,
+        "text": "Hi, I need to mail this package to California, please.",
+        "textdich": ""
+    },
+    {
+        "start": 1955.519,
+        "end": 1965.36,
+        "text": "Hi, I need to mail this package to California, please.",
+        "textdich": ""
+    },
+    {
+        "start": 1961.2,
+        "end": 1969.679,
+        "text": " Sure, let me weigh it for you first.",
+        "textdich": ""
+    },
+    {
+        "start": 1965.36,
+        "end": 1974.08,
+        "text": "Sure, let me weigh it for you first.",
+        "textdich": ""
+    },
+    {
+        "start": 1969.679,
+        "end": 1978.32,
+        "text": " Thank you. How much will shipping cost?",
+        "textdich": ""
+    },
+    {
+        "start": 1974.08,
+        "end": 1982.0,
+        "text": "Thank you. How much will shipping cost?",
+        "textdich": ""
+    },
+    {
+        "start": 1978.32,
+        "end": 1985.0,
+        "text": " It weighs 2 lb. So, regular shipping is $8.50.",
+        "textdich": ""
+    },
+    {
+        "start": 1985.039,
+        "end": 1991.72,
+        "text": "It weighs 2 lb. So, regular shipping is $8.50.",
+        "textdich": ""
+    },
+    {
+        "start": 1991.919,
+        "end": 1999.2,
+        "text": " Is there a faster option available?",
+        "textdich": ""
+    },
+    {
+        "start": 1995.6,
+        "end": 2003.679,
+        "text": "Is there a faster option available?",
+        "textdich": ""
+    },
+    {
+        "start": 1999.2,
+        "end": 2011.6,
+        "text": "Yes, express shipping is $15.99 and arrives in 2 days.",
+        "textdich": ""
+    },
+    {
+        "start": 2007.12,
+        "end": 2017.2,
+        "text": "Yes, express shipping is $15.99 and arrives in 2 days.",
+        "textdich": ""
+    },
+    {
+        "start": 2014.88,
+        "end": 2021.279,
+        "text": " I think regular shipping is fine for this.",
+        "textdich": ""
+    },
+    {
+        "start": 2018.96,
+        "end": 2025.76,
+        "text": "I think regular shipping is fine for this.",
+        "textdich": ""
+    },
+    {
+        "start": 2023.039,
+        "end": 2030.159,
+        "text": " Good choice. Do you need tracking with that?",
+        "textdich": ""
+    },
+    {
+        "start": 2027.44,
+        "end": 2034.72,
+        "text": "Good choice. Do you need tracking with that?",
+        "textdich": ""
+    },
+    {
+        "start": 2032.08,
+        "end": 2040.08,
+        "text": " Yes, please. I want to make sure it arrives safely.",
+        "textdich": ""
+    },
+    {
+        "start": 2037.36,
+        "end": 2046.64,
+        "text": "Yes, please. I want to make sure it arrives safely.",
+        "textdich": ""
+    },
+    {
+        "start": 2042.48,
+        "end": 2053.119,
+        "text": " Perfect. Tracking adds $2.50 to your total.",
+        "textdich": ""
+    },
+    {
+        "start": 2048.96,
+        "end": 2060.56,
+        "text": "Perfect. Tracking adds $2.50 to your total.",
+        "textdich": ""
+    },
+    {
+        "start": 2055.52,
+        "end": 2065.679,
+        "text": "That's fine. So, the total is $11.",
+        "textdich": ""
+    },
+    {
+        "start": 2060.56,
+        "end": 2070.32,
+        "text": "That's fine. So, the total is $11.",
+        "textdich": ""
+    },
+    {
+        "start": 2065.679,
+        "end": 2074.8,
+        "text": " Exactly. Will you pay with cash or card?",
+        "textdich": ""
+    },
+    {
+        "start": 2070.32,
+        "end": 2078.24,
+        "text": "Exactly. Will you pay with cash or card?",
+        "textdich": ""
+    },
+    {
+        "start": 2074.8,
+        "end": 2081.76,
+        "text": " I'll use my credit card, please.",
+        "textdich": ""
+    },
+    {
+        "start": 2078.24,
+        "end": 2084.72,
+        "text": "I'll use my credit card, please.",
+        "textdich": ""
+    },
+    {
+        "start": 2081.76,
+        "end": 2089.44,
+        "text": " No problem. You can insert your card here.",
+        "textdich": ""
+    },
+    {
+        "start": 2086.48,
+        "end": 2093.679,
+        "text": "No problem. You can insert your card here.",
+        "textdich": ""
+    },
+    {
+        "start": 2091.2,
+        "end": 2098.48,
+        "text": " Done. When should it arrive in California?",
+        "textdich": ""
+    },
+    {
+        "start": 2096.0,
+        "end": 2104.16,
+        "text": "Done. When should it arrive in California?",
+        "textdich": ""
+    },
+    {
+        "start": 2100.64,
+        "end": 2110.079,
+        "text": " With regular shipping? About 5 to seven business days.",
+        "textdich": ""
+    },
+    {
+        "start": 2106.48,
+        "end": 2115.839,
+        "text": "With regular shipping about 5 to seven business days.",
+        "textdich": ""
+    },
+    {
+        "start": 2112.48,
+        "end": 2121.28,
+        "text": "Perfect. My sister isn't expecting it urgently.",
+        "textdich": ""
+    },
+    {
+        "start": 2117.92,
+        "end": 2125.92,
+        "text": "Perfect. My sister isn't expecting it urgently.",
+        "textdich": ""
+    },
+    {
+        "start": 2123.28,
+        "end": 2130.88,
+        "text": " Great. Here's your receipt with the tracking number.",
+        "textdich": ""
+    },
+    {
+        "start": 2128.24,
+        "end": 2136.0,
+        "text": "Great. Here's your receipt with the tracking number.",
+        "textdich": ""
+    },
+    {
+        "start": 2133.28,
+        "end": 2141.2,
+        "text": " Wonderful. I can check the status online, right?",
+        "textdich": ""
+    },
+    {
+        "start": 2138.48,
+        "end": 2146.56,
+        "text": "Wonderful. I can check the status online, right?",
+        "textdich": ""
+    },
+    {
+        "start": 2143.839,
+        "end": 2151.599,
+        "text": " Yes, just use that tracking number on our website.",
+        "textdich": ""
+    },
+    {
+        "start": 2148.8,
+        "end": 2156.72,
+        "text": "Yes, just use that tracking number on our website.",
+        "textdich": ""
+    },
+    {
+        "start": 2153.839,
+        "end": 2161.44,
+        "text": " Excellent. Is there anything else I need to know?",
+        "textdich": ""
+    },
+    {
+        "start": 2158.56,
+        "end": 2166.64,
+        "text": "Excellent. Is there anything else I need to know?",
+        "textdich": ""
+    },
+    {
+        "start": 2163.28,
+        "end": 2172.0,
+        "text": " No, you're all set. The package will go out today.",
+        "textdich": ""
+    },
+    {
+        "start": 2168.8,
+        "end": 2177.599,
+        "text": "Nope. You're all set. The package will go out today.",
+        "textdich": ""
+    },
+    {
+        "start": 2174.4,
+        "end": 2180.72,
+        "text": " Thank you so much for your help.",
+        "textdich": ""
+    },
+    {
+        "start": 2177.599,
+        "end": 2184.64,
+        "text": " Thank you so much for your help.",
+        "textdich": ""
+    },
+    {
+        "start": 2180.72,
+        "end": 2188.56,
+        "text": " My pleasure. Have a great day.",
+        "textdich": ""
+    },
+    {
+        "start": 2184.64,
+        "end": 2192.079,
+        "text": "My pleasure. Have a great day.",
+        "textdich": ""
+    },
+    {
+        "start": 2188.56,
+        "end": 2197.079,
+        "text": " You too. Thanks again.",
+        "textdich": ""
+    },
+    {
+        "start": 2192.079,
+        "end": 2197.079,
+        "text": " You're welcome. Come back anytime.",
+        "textdich": ""
+    },
+    {
+        "start": 2197.76,
+        "end": 2206.96,
+        "text": "Hi, do you have a table for one, please?",
+        "textdich": ""
+    },
+    {
+        "start": 2202.32,
+        "end": 2211.2,
+        "text": "Hi, do you have a table for one, please?",
+        "textdich": ""
+    },
+    {
+        "start": 2206.96,
+        "end": 2215.44,
+        "text": " Of course. Right this way, sir.",
+        "textdich": ""
+    },
+    {
+        "start": 2211.2,
+        "end": 2219.839,
+        "text": "Of course. Right this way, sir.",
+        "textdich": ""
+    },
+    {
+        "start": 2215.44,
+        "end": 2224.24,
+        "text": " Thank you. This is a lovely restaurant.",
+        "textdich": ""
+    },
+    {
+        "start": 2219.839,
+        "end": 2228.72,
+        "text": "Thank you. This is a lovely restaurant.",
+        "textdich": ""
+    },
+    {
+        "start": 2224.24,
+        "end": 2232.88,
+        "text": " Thank you. We're happy to have you here.",
+        "textdich": ""
+    },
+    {
+        "start": 2228.72,
+        "end": 2236.48,
+        "text": "Thank you. We're happy to have you here.",
+        "textdich": ""
+    },
+    {
+        "start": 2232.88,
+        "end": 2240.16,
+        "text": " Could I see the menu, please?",
+        "textdich": ""
+    },
+    {
+        "start": 2236.48,
+        "end": 2243.28,
+        "text": "Could I see the menu, please?",
+        "textdich": ""
+    },
+    {
+        "start": 2240.16,
+        "end": 2248.56,
+        "text": " Here you are. Today's special is chicken pasta.",
+        "textdich": ""
+    },
+    {
+        "start": 2245.44,
+        "end": 2253.599,
+        "text": "Here you are. Today's special is chicken pasta.",
+        "textdich": ""
+    },
+    {
+        "start": 2250.64,
+        "end": 2258.32,
+        "text": " That sounds delicious. What comes with it?",
+        "textdich": ""
+    },
+    {
+        "start": 2255.359,
+        "end": 2263.92,
+        "text": "That sounds delicious. What comes with it?",
+        "textdich": ""
+    },
+    {
+        "start": 2260.079,
+        "end": 2267.68,
+        "text": " It comes with salad and fresh bread.",
+        "textdich": ""
+    },
+    {
+        "start": 2263.92,
+        "end": 2270.96,
+        "text": "It comes with salad and fresh bread.",
+        "textdich": ""
+    },
+    {
+        "start": 2267.68,
+        "end": 2276.24,
+        "text": " Perfect. I'll take the chicken pasta, please.",
+        "textdich": ""
+    },
+    {
+        "start": 2272.96,
+        "end": 2281.119,
+        "text": "Perfect. I'll take the chicken pasta, please.",
+        "textdich": ""
+    },
+    {
+        "start": 2278.32,
+        "end": 2285.92,
+        "text": " Excellent choice. What would you like to drink?",
+        "textdich": ""
+    },
+    {
+        "start": 2283.119,
+        "end": 2290.16,
+        "text": "Excellent choice. What would you like to drink?",
+        "textdich": ""
+    },
+    {
+        "start": 2287.76,
+        "end": 2294.48,
+        "text": " I'll have water and maybe some coffee later.",
+        "textdich": ""
+    },
+    {
+        "start": 2292.0,
+        "end": 2301.359,
+        "text": "I'll have water and maybe some coffee later.",
+        "textdich": ""
+    },
+    {
+        "start": 2296.56,
+        "end": 2306.079,
+        "text": " No problem. I'll bring water right away.",
+        "textdich": ""
+    },
+    {
+        "start": 2301.359,
+        "end": 2309.28,
+        "text": "No problem. I'll bring water right away.",
+        "textdich": ""
+    },
+    {
+        "start": 2306.079,
+        "end": 2314.32,
+        "text": " You're very kind. How long will the food take?",
+        "textdich": ""
+    },
+    {
+        "start": 2311.119,
+        "end": 2320.96,
+        "text": "You're very kind. How long will the food take?",
+        "textdich": ""
+    },
+    {
+        "start": 2316.24,
+        "end": 2325.68,
+        "text": " About 15 minutes. It's made fresh.",
+        "textdich": ""
+    },
+    {
+        "start": 2320.96,
+        "end": 2330.079,
+        "text": "About 15 minutes. It's made fresh.",
+        "textdich": ""
+    },
+    {
+        "start": 2325.68,
+        "end": 2334.56,
+        "text": " That's fine. I'm not in a hurry today.",
+        "textdich": ""
+    },
+    {
+        "start": 2330.079,
+        "end": 2337.359,
+        "text": "That's fine. I'm not in a hurry today.",
+        "textdich": ""
+    },
+    {
+        "start": 2334.56,
+        "end": 2342.32,
+        "text": " Wonderful. I'll check on you in a few minutes.",
+        "textdich": ""
+    },
+    {
+        "start": 2339.52,
+        "end": 2348.32,
+        "text": "Wonderful. I'll check on you in a few minutes.",
+        "textdich": ""
+    },
+    {
+        "start": 2344.4,
+        "end": 2352.16,
+        "text": " Thank you for the excellent service.",
+        "textdich": ""
+    },
+    {
+        "start": 2348.32,
+        "end": 2355.119,
+        "text": "Thank you for the excellent service.",
+        "textdich": ""
+    },
+    {
+        "start": 2352.16,
+        "end": 2360.32,
+        "text": " You're so welcome. Enjoy your meal when it comes.",
+        "textdich": ""
+    },
+    {
+        "start": 2357.359,
+        "end": 2365.359,
+        "text": "You're so welcome. Enjoy your meal when it comes.",
+        "textdich": ""
+    },
+    {
+        "start": 2362.48,
+        "end": 2370.72,
+        "text": " I'm sure I will. Everything smells amazing here.",
+        "textdich": ""
+    },
+    {
+        "start": 2367.76,
+        "end": 2376.32,
+        "text": "I'm sure I will. Everything smells amazing here.",
+        "textdich": ""
+    },
+    {
+        "start": 2373.28,
+        "end": 2382.079,
+        "text": " Our chef is very talented. He'll be pleased to hear that.",
+        "textdich": ""
+    },
+    {
+        "start": 2378.96,
+        "end": 2387.92,
+        "text": "Our chef is very talented. He'll be pleased to hear that.",
+        "textdich": ""
+    },
+    {
+        "start": 2384.72,
+        "end": 2391.2,
+        "text": " Please tell him I said so.",
+        "textdich": ""
+    },
+    {
+        "start": 2387.92,
+        "end": 2394.24,
+        "text": "Please tell him I said so.",
+        "textdich": ""
+    },
+    {
+        "start": 2391.2,
+        "end": 2399.52,
+        "text": " I absolutely will. Is there anything else you need?",
+        "textdich": ""
+    },
+    {
+        "start": 2396.48,
+        "end": 2404.4,
+        "text": "I absolutely will. Is there anything else you need?",
+        "textdich": ""
+    },
+    {
+        "start": 2401.68,
+        "end": 2409.2,
+        "text": " Not right now. Thank you. You've been perfect.",
+        "textdich": ""
+    },
+    {
+        "start": 2406.48,
+        "end": 2414.079,
+        "text": "Not right now. Thank you. You've been perfect.",
+        "textdich": ""
+    },
+    {
+        "start": 2411.359,
+        "end": 2419.04,
+        "text": " Thank you so much. I'll be back with your water.",
+        "textdich": ""
+    },
+    {
+        "start": 2416.4,
+        "end": 2424.48,
+        "text": "Thank you so much. I'll be back with your water.",
+        "textdich": ""
+    },
+    {
+        "start": 2421.28,
+        "end": 2429.52,
+        "text": " Great. I'm really enjoying my experience here.",
+        "textdich": ""
+    },
+    {
+        "start": 2426.24,
+        "end": 2434.32,
+        "text": "Great. I'm really enjoying my experience here.",
+        "textdich": ""
+    },
+    {
+        "start": 2431.52,
+        "end": 2440.16,
+        "text": " That makes us so happy. We love satisfied customers.",
+        "textdich": ""
+    },
+    {
+        "start": 2437.52,
+        "end": 2445.44,
+        "text": "That makes us so happy. We love satisfied customers.",
+        "textdich": ""
+    },
+    {
+        "start": 2443.2,
+        "end": 2450.56,
+        "text": " You can definitely count me as a satisfied customer.",
+        "textdich": ""
+    },
+    {
+        "start": 2448.32,
+        "end": 2455.04,
+        "text": "You can definitely count me as a satisfied customer.",
+        "textdich": ""
+    },
+    {
+        "start": 2453.52,
+        "end": 2457.76,
+        "text": " Wonderful.",
+        "textdich": ""
+    },
+    {
+        "start": 2455.04,
+        "end": 2462.8,
+        "text": "Enjoy your meal.",
+        "textdich": ""
+    },
+    {
+        "start": 2457.76,
+        "end": 2465.92,
+        "text": "Wonderful. Enjoy your meal.",
+        "textdich": ""
+    },
+    {
+        "start": 2462.8,
+        "end": 2471.599,
+        "text": " Good afternoon. I need flowers for my wife's birthday.",
+        "textdich": ""
+    },
+    {
+        "start": 2468.48,
+        "end": 2477.119,
+        "text": "Good afternoon. I need flowers for my wife's birthday.",
+        "textdich": ""
+    },
+    {
+        "start": 2474.16,
+        "end": 2482.319,
+        "text": " How lovely. What kind of flowers does she prefer?",
+        "textdich": ""
+    },
+    {
+        "start": 2479.359,
+        "end": 2488.24,
+        "text": "How lovely. What kind of flowers does she prefer?",
+        "textdich": ""
+    },
+    {
+        "start": 2484.64,
+        "end": 2493.76,
+        "text": "She loves roses, especially red and pink ones.",
+        "textdich": ""
+    },
+    {
+        "start": 2490.24,
+        "end": 2498.96,
+        "text": "She loves roses, especially red and pink ones.",
+        "textdich": ""
+    },
+    {
+        "start": 2495.839,
+        "end": 2504.16,
+        "text": " Perfect. We have beautiful fresh roses today.",
+        "textdich": ""
+    },
+    {
+        "start": 2501.04,
+        "end": 2509.04,
+        "text": "Perfect. We have beautiful fresh roses today.",
+        "textdich": ""
+    },
+    {
+        "start": 2506.16,
+        "end": 2514.319,
+        "text": " Wonderful. How many would you recommend for a bouquet?",
+        "textdich": ""
+    },
+    {
+        "start": 2511.52,
+        "end": 2519.359,
+        "text": "Wonderful. How many would you recommend for a bouquet?",
+        "textdich": ""
+    },
+    {
+        "start": 2516.8,
+        "end": 2524.16,
+        "text": " A dozen mixed red and pink roses would be stunning.",
+        "textdich": ""
+    },
+    {
+        "start": 2521.599,
+        "end": 2529.359,
+        "text": "A dozen mixed red and pink roses would be stunning.",
+        "textdich": ""
+    },
+    {
+        "start": 2526.319,
+        "end": 2534.88,
+        "text": " That sounds perfect. Can you add some baby's breath?",
+        "textdich": ""
+    },
+    {
+        "start": 2531.76,
+        "end": 2539.04,
+        "text": "That sounds perfect. Can you add some baby's breath?",
+        "textdich": ""
+    },
+    {
+        "start": 2537.44,
+        "end": 2542.8,
+        "text": " Absolutely.",
+        "textdich": ""
+    },
+    {
+        "start": 2539.04,
+        "end": 2544.4,
+        "text": "That will make it even more elegant.",
+        "textdich": ""
+    },
+    {
+        "start": 2542.8,
+        "end": 2548.079,
+        "text": "Absolutely.",
+        "textdich": ""
+    },
+    {
+        "start": 2544.4,
+        "end": 2550.8,
+        "text": "That will make it even more elegant.",
+        "textdich": ""
+    },
+    {
+        "start": 2548.079,
+        "end": 2555.52,
+        "text": " Excellent. Do you have a nice ribbon to tie it?",
+        "textdich": ""
+    },
+    {
+        "start": 2552.8,
+        "end": 2561.119,
+        "text": "Excellent. Do you have a nice ribbon to tie it?",
+        "textdich": ""
+    },
+    {
+        "start": 2557.68,
+        "end": 2566.96,
+        "text": " Yes. Would you prefer gold, silver, or white ribbon?",
+        "textdich": ""
+    },
+    {
+        "start": 2563.52,
+        "end": 2571.44,
+        "text": "Yes. Would you prefer gold, silver, or white ribbon?",
+        "textdich": ""
+    },
+    {
+        "start": 2569.2,
+        "end": 2574.319,
+        "text": " Gold would be beautiful.",
+        "textdich": ""
+    },
+    {
+        "start": 2571.44,
+        "end": 2577.04,
+        "text": "This her favorite color.",
+        "textdich": ""
+    },
+    {
+        "start": 2574.319,
+        "end": 2582.48,
+        "text": "Gold would be beautiful. This her favorite color.",
+        "textdich": ""
+    },
+    {
+        "start": 2579.599,
+        "end": 2588.16,
+        "text": "Great choice. Gold will look gorgeous with these colors.",
+        "textdich": ""
+    },
+    {
+        "start": 2585.28,
+        "end": 2595.04,
+        "text": "Great choice. Gold will look gorgeous with these colors.",
+        "textdich": ""
+    },
+    {
+        "start": 2590.88,
+        "end": 2599.28,
+        "text": " You have such a lovely flower shop here.",
+        "textdich": ""
+    },
+    {
+        "start": 2595.04,
+        "end": 2600.64,
+        "text": "You have such a lovely flower shop here.",
+        "textdich": ""
+    },
+    {
+        "start": 2599.28,
+        "end": 2602.88,
+        "text": " Thank you.",
+        "textdich": ""
+    },
+    {
+        "start": 2600.64,
+        "end": 2607.839,
+        "text": "I've been arranging flowers for 20 years.",
+        "textdich": ""
+    },
+    {
+        "start": 2605.04,
+        "end": 2614.0,
+        "text": "Thank you. I've been arranging flowers for 20 years.",
+        "textdich": ""
+    },
+    {
+        "start": 2610.56,
+        "end": 2619.359,
+        "text": "It shows everything looks so fresh and beautiful.",
+        "textdich": ""
+    },
+    {
+        "start": 2615.92,
+        "end": 2623.76,
+        "text": "It shows everything looks so fresh and beautiful.",
+        "textdich": ""
+    },
+    {
+        "start": 2621.44,
+        "end": 2628.64,
+        "text": " We get new flowers every morning from local farms.",
+        "textdich": ""
+    },
+    {
+        "start": 2626.319,
+        "end": 2633.92,
+        "text": "We get new flowers every morning from local farms.",
+        "textdich": ""
+    },
+    {
+        "start": 2631.04,
+        "end": 2638.96,
+        "text": "That explains why everything smells so wonderful.",
+        "textdich": ""
+    },
+    {
+        "start": 2636.0,
+        "end": 2643.52,
+        "text": "That explains why everything smells so wonderful.",
+        "textdich": ""
+    },
+    {
+        "start": 2641.2,
+        "end": 2647.76,
+        "text": " Fresh flowers make people happy, don't they?",
+        "textdich": ""
+    },
+    {
+        "start": 2645.44,
+        "end": 2652.96,
+        "text": "Fresh flowers make people happy, don't they?",
+        "textdich": ""
+    },
+    {
+        "start": 2649.44,
+        "end": 2658.72,
+        "text": " They absolutely do. My wife will be so surprised.",
+        "textdich": ""
+    },
+    {
+        "start": 2655.119,
+        "end": 2664.0,
+        "text": "They absolutely do. My wife will be so surprised.",
+        "textdich": ""
+    },
+    {
+        "start": 2660.88,
+        "end": 2669.359,
+        "text": " I'm sure she'll love them. Roses are so romantic.",
+        "textdich": ""
+    },
+    {
+        "start": 2666.319,
+        "end": 2674.48,
+        "text": "I'm sure she'll love them. Roses are so romantic.",
+        "textdich": ""
+    },
+    {
+        "start": 2671.599,
+        "end": 2680.319,
+        "text": " She really will. How much will this beautiful bouquet cost?",
+        "textdich": ""
+    },
+    {
+        "start": 2677.52,
+        "end": 2685.76,
+        "text": "She really will. How much will this beautiful bouquet cost?",
+        "textdich": ""
+    },
+    {
+        "start": 2683.44,
+        "end": 2690.8,
+        "text": "With the baby's breath and ribbon, it's $35.",
+        "textdich": ""
+    },
+    {
+        "start": 2688.56,
+        "end": 2696.319,
+        "text": "With the baby's breath and ribbon, it's $35.",
+        "textdich": ""
+    },
+    {
+        "start": 2693.52,
+        "end": 2701.04,
+        "text": "That's perfect. Here's my card for payment.",
+        "textdich": ""
+    },
+    {
+        "start": 2698.319,
+        "end": 2705.76,
+        "text": "That's perfect. Here's my card for payment.",
+        "textdich": ""
+    },
+    {
+        "start": 2703.119,
+        "end": 2710.56,
+        "text": " Thank you. I'll wrap this beautifully for you.",
+        "textdich": ""
+    },
+    {
+        "start": 2707.92,
+        "end": 2715.28,
+        "text": "Thank you. I'll wrap this beautifully for you.",
+        "textdich": ""
+    },
+    {
+        "start": 2712.56,
+        "end": 2720.48,
+        "text": "You're so kind. This will make her birthday special.",
+        "textdich": ""
+    },
+    {
+        "start": 2717.839,
+        "end": 2725.2,
+        "text": "You're so kind. This will make her birthday special.",
+        "textdich": ""
+    },
+    {
+        "start": 2723.119,
+        "end": 2729.76,
+        "text": " I hope she has a wonderful birthday celebration.",
+        "textdich": ""
+    },
+    {
+        "start": 2727.68,
+        "end": 2732.76,
+        "text": "I hope she has a wonderful birthday celebration.",
+        "textdich": ""
+    },
+    {
+        "start": 2733.28,
+        "end": 2741.52,
+        "text": " Hey, Lily, want to learn how to ride my skateboard?",
+        "textdich": ""
+    },
+    {
+        "start": 2738.319,
+        "end": 2746.96,
+        "text": "Hey, Lily. Want to learn how to ride my skateboard?",
+        "textdich": ""
+    },
+    {
+        "start": 2743.52,
+        "end": 2752.16,
+        "text": " Really? You'd teach me? That would be so cool.",
+        "textdich": ""
+    },
+    {
+        "start": 2748.72,
+        "end": 2757.04,
+        "text": "Really? You'd teach me? That would be so cool.",
+        "textdich": ""
+    },
+    {
+        "start": 2753.839,
+        "end": 2762.64,
+        "text": " Of course. But first, let's get you a helmet for safety.",
+        "textdich": ""
+    },
+    {
+        "start": 2759.44,
+        "end": 2769.2,
+        "text": "Of course. But first, let's get you a helmet for safety.",
+        "textdich": ""
+    },
+    {
+        "start": 2765.119,
+        "end": 2773.2,
+        "text": " Good idea. I don't want to get hurt.",
+        "textdich": ""
+    },
+    {
+        "start": 2769.2,
+        "end": 2777.28,
+        "text": "Good idea. I don't want to get hurt.",
+        "textdich": ""
+    },
+    {
+        "start": 2773.2,
+        "end": 2783.44,
+        "text": " Safety first. Now step on the board with your left foot.",
+        "textdich": ""
+    },
+    {
+        "start": 2779.44,
+        "end": 2789.68,
+        "text": "Safety first. Now step on the board with your left foot.",
+        "textdich": ""
+    },
+    {
+        "start": 2785.76,
+        "end": 2793.359,
+        "text": " Like this. It feels wobbly.",
+        "textdich": ""
+    },
+    {
+        "start": 2789.68,
+        "end": 2796.24,
+        "text": "Like this. It feels wobbly.",
+        "textdich": ""
+    },
+    {
+        "start": 2793.359,
+        "end": 2801.359,
+        "text": " That's normal. Hold my hand while you get your balance.",
+        "textdich": ""
+    },
+    {
+        "start": 2798.48,
+        "end": 2807.76,
+        "text": "That's normal. Hold my hand while you get your balance.",
+        "textdich": ""
+    },
+    {
+        "start": 2803.76,
+        "end": 2811.68,
+        "text": " Thanks. You're such a good teacher.",
+        "textdich": ""
+    },
+    {
+        "start": 2807.76,
+        "end": 2814.72,
+        "text": "Thanks. You're such a good teacher.",
+        "textdich": ""
+    },
+    {
+        "start": 2811.68,
+        "end": 2820.0,
+        "text": " You're doing great. Now try pushing with your right foot.",
+        "textdich": ""
+    },
+    {
+        "start": 2816.88,
+        "end": 2826.319,
+        "text": "You're doing great. Now try pushing with your right foot.",
+        "textdich": ""
+    },
+    {
+        "start": 2822.24,
+        "end": 2830.24,
+        "text": " Wa! This is harder than it looks.",
+        "textdich": ""
+    },
+    {
+        "start": 2826.319,
+        "end": 2833.2,
+        "text": "Wo! This is harder than it looks.",
+        "textdich": ""
+    },
+    {
+        "start": 2830.24,
+        "end": 2837.76,
+        "text": " Don't worry. Everyone falls when they're learning.",
+        "textdich": ""
+    },
+    {
+        "start": 2834.88,
+        "end": 2842.64,
+        "text": "Don't worry. Everyone falls when they're learning.",
+        "textdich": ""
+    },
+    {
+        "start": 2839.44,
+        "end": 2845.839,
+        "text": " Did you fall when you first started?",
+        "textdich": ""
+    },
+    {
+        "start": 2842.64,
+        "end": 2849.2,
+        "text": "Did you fall when you first started?",
+        "textdich": ""
+    },
+    {
+        "start": 2845.839,
+        "end": 2860.16,
+        "text": " Many times, but I kept practicing until I got better. many times, but I kept practicing until I got better.",
+        "textdich": ""
+    },
+    {
+        "start": 2856.96,
+        "end": 2863.44,
+        "text": " I want to be as good as you someday.",
+        "textdich": ""
+    },
+    {
+        "start": 2860.16,
+        "end": 2866.319,
+        "text": "I want to be as good as you someday.",
+        "textdich": ""
+    },
+    {
+        "start": 2863.44,
+        "end": 2871.2,
+        "text": " You will be. You're already doing better than I did.",
+        "textdich": ""
+    },
+    {
+        "start": 2868.319,
+        "end": 2877.119,
+        "text": "You will be. You're already doing better than I did.",
+        "textdich": ""
+    },
+    {
+        "start": 2873.28,
+        "end": 2880.8,
+        "text": " Really? You're not just saying that.",
+        "textdich": ""
+    },
+    {
+        "start": 2877.119,
+        "end": 2885.2,
+        "text": "Really? You're not just saying that.",
+        "textdich": ""
+    },
+    {
+        "start": 2880.8,
+        "end": 2889.599,
+        "text": "I'm serious. You have natural talent.",
+        "textdich": ""
+    },
+    {
+        "start": 2885.2,
+        "end": 2892.64,
+        "text": "I'm serious. You have natural talent.",
+        "textdich": ""
+    },
+    {
+        "start": 2889.599,
+        "end": 2897.68,
+        "text": "This is the best day ever. Thanks for teaching me.",
+        "textdich": ""
+    },
+    {
+        "start": 2894.72,
+        "end": 2902.559,
+        "text": "This is the best day ever. Thanks for teaching me.",
+        "textdich": ""
+    },
+    {
+        "start": 2899.599,
+        "end": 2907.68,
+        "text": " You're welcome. We can practice every time I visit.",
+        "textdich": ""
+    },
+    {
+        "start": 2904.8,
+        "end": 2914.4,
+        "text": "You're welcome. We can practice every time I visit.",
+        "textdich": ""
+    },
+    {
+        "start": 2910.079,
+        "end": 2918.559,
+        "text": "Promise I want to learn all your tricks.",
+        "textdich": ""
+    },
+    {
+        "start": 2914.4,
+        "end": 2921.599,
+        "text": "Promise I want to learn all your tricks.",
+        "textdich": ""
+    },
+    {
+        "start": 2918.559,
+        "end": 2926.4,
+        "text": " I promise next time I'll teach you how to turn.",
+        "textdich": ""
+    },
+    {
+        "start": 2923.359,
+        "end": 2932.48,
+        "text": "I promise next time I'll teach you how to turn.",
+        "textdich": ""
+    },
+    {
+        "start": 2928.24,
+        "end": 2936.64,
+        "text": " I can't wait. You're the coolest cousin.",
+        "textdich": ""
+    },
+    {
+        "start": 2932.48,
+        "end": 2939.52,
+        "text": "I can't wait. You're the coolest cousin.",
+        "textdich": ""
+    },
+    {
+        "start": 2936.64,
+        "end": 2944.24,
+        "text": "You're pretty cool yourself, Lily. Keep practicing.",
+        "textdich": ""
+    },
+    {
+        "start": 2941.44,
+        "end": 2949.359,
+        "text": "You're pretty cool yourself, Lily. Keep practicing.",
+        "textdich": ""
+    },
+    {
+        "start": 2946.16,
+        "end": 2954.079,
+        "text": "I will. Thanks for being so patient with me.",
+        "textdich": ""
+    },
+    {
+        "start": 2950.88,
+        "end": 2965.04,
+        "text": "I will. Thanks for being so patient with me,  Sophie. Would you like to help me in the garden today?",
+        "textdich": ""
+    },
+    {
+        "start": 2962.24,
+        "end": 2973.04,
+        "text": "Sophie, would you like to help me in the garden today?",
+        "textdich": ""
+    },
+    {
+        "start": 2967.28,
+        "end": 2978.64,
+        "text": " Yes, Grandpa. I love gardening with you.",
+        "textdich": ""
+    },
+    {
+        "start": 2973.04,
+        "end": 2981.2,
+        "text": " Yes, Grandpa. I love gardening with you.",
+        "textdich": ""
+    },
+    {
+        "start": 2978.64,
+        "end": 2986.4,
+        "text": " Wonderful. We're going to plant some sunflower seeds.",
+        "textdich": ""
+    },
+    {
+        "start": 2983.839,
+        "end": 2993.599,
+        "text": "Wonderful. We're going to plant some sunflower seeds.",
+        "textdich": ""
+    },
+    {
+        "start": 2989.119,
+        "end": 2997.839,
+        "text": "How big will the sunflowers grow?",
+        "textdich": ""
+    },
+    {
+        "start": 2993.599,
+        "end": 3001.359,
+        "text": "How big will the sunflowers grow?",
+        "textdich": ""
+    },
+    {
+        "start": 2997.839,
+        "end": 3006.559,
+        "text": " They can grow taller than me, maybe 8 ft high.",
+        "textdich": ""
+    },
+    {
+        "start": 3003.04,
+        "end": 3013.2,
+        "text": "They can grow taller than me, maybe 8 ft high.",
+        "textdich": ""
+    },
+    {
+        "start": 3008.319,
+        "end": 3018.079,
+        "text": " Wow, that's like a sunflower tree.",
+        "textdich": ""
+    },
+    {
+        "start": 3013.2,
+        "end": 3022.0,
+        "text": "Wow, that's like a sunflower tree.",
+        "textdich": ""
+    },
+    {
+        "start": 3018.079,
+        "end": 3027.92,
+        "text": "Exactly. Now, let's dig small holes for the seeds.",
+        "textdich": ""
+    },
+    {
+        "start": 3024.079,
+        "end": 3034.079,
+        "text": "Exactly. Now, let's dig small holes for the seeds.",
+        "textdich": ""
+    },
+    {
+        "start": 3030.0,
+        "end": 3038.0,
+        "text": " Should I use this little shovel?",
+        "textdich": ""
+    },
+    {
+        "start": 3034.079,
+        "end": 3042.0,
+        "text": "Should I use this little shovel?",
+        "textdich": ""
+    },
+    {
+        "start": 3038.0,
+        "end": 3046.079,
+        "text": " Perfect. You're such a good helper.",
+        "textdich": ""
+    },
+    {
+        "start": 3042.0,
+        "end": 3054.64,
+        "text": "Perfect. You're such a good helper,  Grandpa. Why do you love gardening so much?",
+        "textdich": ""
+    },
+    {
+        "start": 3051.599,
+        "end": 3059.359,
+        "text": " Grandpa, why do you love gardening so much?",
+        "textdich": ""
+    },
+    {
+        "start": 3056.96,
+        "end": 3063.92,
+        "text": " Because watching things grow makes me very happy.",
+        "textdich": ""
+    },
+    {
+        "start": 3061.52,
+        "end": 3070.16,
+        "text": "Because watching things grow makes me very happy.",
+        "textdich": ""
+    },
+    {
+        "start": 3066.24,
+        "end": 3077.2,
+        "text": " Just like watching me grow up. just like watching me grow up.",
+        "textdich": ""
+    },
+    {
+        "start": 3074.0,
+        "end": 3082.8,
+        "text": " Yes, sweetheart. You're growing beautifully, too.",
+        "textdich": ""
+    },
+    {
+        "start": 3079.599,
+        "end": 3087.92,
+        "text": "Yes, sweetheart. You're growing beautifully, too.",
+        "textdich": ""
+    },
+    {
+        "start": 3085.119,
+        "end": 3093.28,
+        "text": " Will you teach me all about plants and flowers?",
+        "textdich": ""
+    },
+    {
+        "start": 3090.559,
+        "end": 3103.76,
+        "text": "Will you teach me all about plants and flowers? Of course, gardening is even more fun when shared.",
+        "textdich": ""
+    },
+    {
+        "start": 3100.88,
+        "end": 3110.319,
+        "text": "Of course, gardening is even more fun when shared.",
+        "textdich": ""
+    },
+    {
+        "start": 3106.0,
+        "end": 3114.559,
+        "text": " Can we plant roses next time?",
+        "textdich": ""
+    },
+    {
+        "start": 3110.319,
+        "end": 3116.079,
+        "text": "Can we plant roses next time?",
+        "textdich": ""
+    },
+    {
+        "start": 3114.559,
+        "end": 3118.559,
+        "text": " Absolutely.",
+        "textdich": ""
+    },
+    {
+        "start": 3116.079,
+        "end": 3122.0,
+        "text": "Roses are your grandmother's favorite flowers.",
+        "textdich": ""
+    },
+    {
+        "start": 3120.48,
+        "end": 3124.48,
+        "text": "Absolutely.",
+        "textdich": ""
+    },
+    {
+        "start": 3122.0,
+        "end": 3131.839,
+        "text": "Roses are your grandmother's favorite flowers?",
+        "textdich": ""
+    },
+    {
+        "start": 3126.4,
+        "end": 3137.2,
+        "text": " I miss grandma. She loved flowers, too.",
+        "textdich": ""
+    },
+    {
+        "start": 3131.839,
+        "end": 3140.16,
+        "text": " I miss grandma. She loved flowers, too.",
+        "textdich": ""
+    },
+    {
+        "start": 3137.2,
+        "end": 3145.119,
+        "text": " She did. And she would be so proud of our garden.",
+        "textdich": ""
+    },
+    {
+        "start": 3142.16,
+        "end": 3151.76,
+        "text": "She did. And she would be so proud of our garden.",
+        "textdich": ""
+    },
+    {
+        "start": 3147.28,
+        "end": 3156.319,
+        "text": " I want to make it beautiful for her.",
+        "textdich": ""
+    },
+    {
+        "start": 3151.76,
+        "end": 3159.92,
+        "text": "I want to make it beautiful for her.",
+        "textdich": ""
+    },
+    {
+        "start": 3156.319,
+        "end": 3166.079,
+        "text": " You already do, my dear. Your love makes everything beautiful.",
+        "textdich": ""
+    },
+    {
+        "start": 3162.559,
+        "end": 3173.599,
+        "text": "You already do, my dear. Your love makes everything beautiful.",
+        "textdich": ""
+    },
+    {
+        "start": 3168.8,
+        "end": 3178.839,
+        "text": " I love you so much, Grandpa.",
+        "textdich": ""
+    },
+    {
+        "start": 3173.599,
+        "end": 3178.839,
+        "text": " I love you so much, Grandpa.",
+        "textdich": ""
+    },
+    {
+        "start": 3179.28,
+        "end": 3186.8,
+        "text": "Maya, I heard you're interested in learning guitar.",
+        "textdich": ""
+    },
+    {
+        "start": 3184.16,
+        "end": 3193.839,
+        "text": "Maya, I heard you're interested in learning guitar.",
+        "textdich": ""
+    },
+    {
+        "start": 3189.28,
+        "end": 3198.24,
+        "text": " Yes, I've always wanted to play music.",
+        "textdich": ""
+    },
+    {
+        "start": 3193.839,
+        "end": 3201.599,
+        "text": "Yes, I've always wanted to play music.",
+        "textdich": ""
+    },
+    {
+        "start": 3198.24,
+        "end": 3206.96,
+        "text": " I have my old guitar in the closet. Want to try it?",
+        "textdich": ""
+    },
+    {
+        "start": 3203.599,
+        "end": 3213.28,
+        "text": "I have my old guitar in the closet. Want to try it?",
+        "textdich": ""
+    },
+    {
+        "start": 3209.119,
+        "end": 3217.28,
+        "text": "Really? You'd let me use your guitar?",
+        "textdich": ""
+    },
+    {
+        "start": 3213.28,
+        "end": 3219.92,
+        "text": "Really? You'd let me use your guitar?",
+        "textdich": ""
+    },
+    {
+        "start": 3217.28,
+        "end": 3224.88,
+        "text": " Of course. I'd love to teach you some basic chords.",
+        "textdich": ""
+    },
+    {
+        "start": 3222.24,
+        "end": 3230.16,
+        "text": "Of course, I'd love to teach you some basic chords.",
+        "textdich": ""
+    },
+    {
+        "start": 3227.359,
+        "end": 3234.72,
+        "text": " That would be amazing. Is it hard to learn?",
+        "textdich": ""
+    },
+    {
+        "start": 3231.92,
+        "end": 3239.2,
+        "text": "That would be amazing. Is it hard to learn?",
+        "textdich": ""
+    },
+    {
+        "start": 3236.4,
+        "end": 3244.48,
+        "text": " Not at all. With practice, you'll be playing songs soon.",
+        "textdich": ""
+    },
+    {
+        "start": 3241.76,
+        "end": 3249.28,
+        "text": "Not at all. With practice, you'll be playing songs soon.",
+        "textdich": ""
+    },
+    {
+        "start": 3247.119,
+        "end": 3253.52,
+        "text": "Will you have patience with me if I make mistakes?",
+        "textdich": ""
+    },
+    {
+        "start": 3251.359,
+        "end": 3258.559,
+        "text": "Will you have patience with me if I make mistakes?",
+        "textdich": ""
+    },
+    {
+        "start": 3255.52,
+        "end": 3261.359,
+        "text": " Everyone makes mistakes when learning.",
+        "textdich": ""
+    },
+    {
+        "start": 3258.559,
+        "end": 3264.4,
+        "text": "That's how we improve.",
+        "textdich": ""
+    },
+    {
+        "start": 3261.359,
+        "end": 3267.2,
+        "text": "Everyone makes mistakes when learning.",
+        "textdich": ""
+    },
+    {
+        "start": 3264.4,
+        "end": 3269.44,
+        "text": "That's how we improve.",
+        "textdich": ""
+    },
+    {
+        "start": 3267.2,
+        "end": 3272.319,
+        "text": "You're so encouraging.",
+        "textdich": ""
+    },
+    {
+        "start": 3269.44,
+        "end": 3274.48,
+        "text": "Thanks for believing in me.",
+        "textdich": ""
+    },
+    {
+        "start": 3272.319,
+        "end": 3277.28,
+        "text": "You're so encouraging.",
+        "textdich": ""
+    },
+    {
+        "start": 3274.48,
+        "end": 3280.0,
+        "text": "Thanks for believing in me.",
+        "textdich": ""
+    },
+    {
+        "start": 3277.28,
+        "end": 3285.119,
+        "text": " I always believe in you, Maya. You're very talented.",
+        "textdich": ""
+    },
+    {
+        "start": 3282.4,
+        "end": 3290.88,
+        "text": "I always believe in you, Maya. You're very talented.",
+        "textdich": ""
+    },
+    {
+        "start": 3287.599,
+        "end": 3294.079,
+        "text": " Can we start with my favorite song?",
+        "textdich": ""
+    },
+    {
+        "start": 3290.88,
+        "end": 3296.96,
+        "text": "Can we start with my favorite song?",
+        "textdich": ""
+    },
+    {
+        "start": 3294.079,
+        "end": 3301.359,
+        "text": " What song is that? I'll see if I know it.",
+        "textdich": ""
+    },
+    {
+        "start": 3298.48,
+        "end": 3306.559,
+        "text": "What song is that? I'll see if I know it.",
+        "textdich": ""
+    },
+    {
+        "start": 3302.88,
+        "end": 3310.079,
+        "text": " It's Twinkle, Twinkle, Little Star.",
+        "textdich": ""
+    },
+    {
+        "start": 3306.559,
+        "end": 3313.44,
+        "text": "It's Twinkle, Twinkle, Little Star.",
+        "textdich": ""
+    },
+    {
+        "start": 3310.079,
+        "end": 3319.04,
+        "text": " Perfect choice that uses simple chords for beginners.",
+        "textdich": ""
+    },
+    {
+        "start": 3315.76,
+        "end": 3323.599,
+        "text": "Perfect choice that uses simple chords for beginners.",
+        "textdich": ""
+    },
+    {
+        "start": 3321.359,
+        "end": 3327.359,
+        "text": " Will mom be surprised when I play for her?",
+        "textdich": ""
+    },
+    {
+        "start": 3325.2,
+        "end": 3331.92,
+        "text": "Will mom be surprised when I play for her?",
+        "textdich": ""
+    },
+    {
+        "start": 3328.96,
+        "end": 3337.359,
+        "text": " She'll be so proud. Music brings families together.",
+        "textdich": ""
+    },
+    {
+        "start": 3334.48,
+        "end": 3343.599,
+        "text": " She'll be so proud. Music brings families together.",
+        "textdich": ""
+    },
+    {
+        "start": 3339.92,
+        "end": 3347.2,
+        "text": " I'm glad you became part of our family.",
+        "textdich": ""
+    },
+    {
+        "start": 3343.599,
+        "end": 3350.079,
+        "text": "I'm glad you became part of our family.",
+        "textdich": ""
+    },
+    {
+        "start": 3347.2,
+        "end": 3355.359,
+        "text": " Me, too. You and your mom mean everything to me.",
+        "textdich": ""
+    },
+    {
+        "start": 3352.48,
+        "end": 3361.52,
+        "text": "Me, too. You and your mom mean everything to me.",
+        "textdich": ""
+    },
+    {
+        "start": 3357.839,
+        "end": 3366.04,
+        "text": " Thanks for being such a good stepdad.",
+        "textdich": ""
+    },
+    {
+        "start": 3361.52,
+        "end": 3366.04,
+        "text": "Thanks for being such a good stepdad.",
+        "textdich": ""
+    },
+    {
+        "start": 3366.319,
+        "end": 3374.88,
+        "text": " Good morning, Mom. Thank you for having us for Sunday dinner.",
+        "textdich": ""
+    },
+    {
+        "start": 3372.0,
+        "end": 3381.04,
+        "text": "Good morning, Mom. Thank you for having us for Sunday dinner.",
+        "textdich": ""
+    },
+    {
+        "start": 3377.76,
+        "end": 3386.96,
+        "text": " Good morning, David. You're always welcome in our home.",
+        "textdich": ""
+    },
+    {
+        "start": 3383.68,
+        "end": 3392.0,
+        "text": "Good morning, David. You're always welcome in our home.",
+        "textdich": ""
+    },
+    {
+        "start": 3389.52,
+        "end": 3396.319,
+        "text": " Is there anything I can help you with in the kitchen?",
+        "textdich": ""
+    },
+    {
+        "start": 3393.92,
+        "end": 3401.2,
+        "text": "Is there anything I can help you with in the kitchen?",
+        "textdich": ""
+    },
+    {
+        "start": 3398.319,
+        "end": 3406.559,
+        "text": " That's so sweet of you. Could you help me set the table?",
+        "textdich": ""
+    },
+    {
+        "start": 3403.68,
+        "end": 3411.2,
+        "text": "That's so sweet of you. Could you help me set the table?",
+        "textdich": ""
+    },
+    {
+        "start": 3408.96,
+        "end": 3419.92,
+        "text": " Of course. Where do you keep the good dishes? Of course. Where do you keep the good dishes?",
+        "textdich": ""
+    },
+    {
+        "start": 3417.28,
+        "end": 3424.24,
+        "text": " There in the china cabinet in the dining room.",
+        "textdich": ""
+    },
+    {
+        "start": 3421.68,
+        "end": 3428.559,
+        "text": "There in the china cabinet in the dining room.",
+        "textdich": ""
+    },
+    {
+        "start": 3425.839,
+        "end": 3433.76,
+        "text": " Perfect. How many people are we expecting today?",
+        "textdich": ""
+    },
+    {
+        "start": 3431.04,
+        "end": 3439.68,
+        "text": "Perfect. How many people are we expecting today?",
+        "textdich": ""
+    },
+    {
+        "start": 3436.16,
+        "end": 3444.88,
+        "text": " Eight people total. The whole family is coming.",
+        "textdich": ""
+    },
+    {
+        "start": 3441.359,
+        "end": 3449.839,
+        "text": "Eight people total. The whole family is coming.",
+        "textdich": ""
+    },
+    {
+        "start": 3446.64,
+        "end": 3455.52,
+        "text": " Wonderful. I love when everyone gets together like this.",
+        "textdich": ""
+    },
+    {
+        "start": 3452.319,
+        "end": 3461.76,
+        "text": "Wonderful. I love when everyone gets together like this.",
+        "textdich": ""
+    },
+    {
+        "start": 3458.079,
+        "end": 3467.44,
+        "text": " Me too. These family gatherings are so important.",
+        "textdich": ""
+    },
+    {
+        "start": 3463.839,
+        "end": 3471.92,
+        "text": "Me too. These family gatherings are so important.",
+        "textdich": ""
+    },
+    {
+        "start": 3469.359,
+        "end": 3476.24,
+        "text": "Your cooking always brings everyone together.",
+        "textdich": ""
+    },
+    {
+        "start": 3473.76,
+        "end": 3481.359,
+        "text": "Your cooking always brings everyone together.",
+        "textdich": ""
+    },
+    {
+        "start": 3478.24,
+        "end": 3486.559,
+        "text": " Thank you. I learned these recipes from my mother.",
+        "textdich": ""
+    },
+    {
+        "start": 3483.44,
+        "end": 3490.799,
+        "text": "Thank you. I learned these recipes from my mother.",
+        "textdich": ""
+    },
+    {
+        "start": 3488.48,
+        "end": 3495.44,
+        "text": " You'll have to teach Sarah your secret recipes someday.",
+        "textdich": ""
+    },
+    {
+        "start": 3493.119,
+        "end": 3501.119,
+        "text": "You'll have to teach Sarah your secret recipes someday.",
+        "textdich": ""
+    },
+    {
+        "start": 3497.839,
+        "end": 3506.559,
+        "text": "I'd love to. She's such a wonderful daughter-in-law.",
+        "textdich": ""
+    },
+    {
+        "start": 3503.28,
+        "end": 3511.2,
+        "text": "I'd love to. She's such a wonderful daughter-in-law.",
+        "textdich": ""
+    },
+    {
+        "start": 3508.72,
+        "end": 3515.359,
+        "text": " She learns everything so quickly from you.",
+        "textdich": ""
+    },
+    {
+        "start": 3512.88,
+        "end": 3520.4,
+        "text": "She learns everything so quickly from you.",
+        "textdich": ""
+    },
+    {
+        "start": 3517.04,
+        "end": 3530.96,
+        "text": " Just like her husband, you're both very special to us. just like her husband. You're both very special to us.",
+        "textdich": ""
+    },
+    {
+        "start": 3528.64,
+        "end": 3536.0,
+        "text": " Thank you for welcoming me into the family so warmly.",
+        "textdich": ""
+    },
+    {
+        "start": 3533.68,
+        "end": 3541.92,
+        "text": "Thank you for welcoming me into the family so warmly.",
+        "textdich": ""
+    },
+    {
+        "start": 3538.72,
+        "end": 3547.839,
+        "text": " You make our daughter so happy that makes us happy, too.",
+        "textdich": ""
+    },
+    {
+        "start": 3544.64,
+        "end": 3552.96,
+        "text": "You make our daughter so happy. That makes us happy, too.",
+        "textdich": ""
+    },
+    {
+        "start": 3550.4,
+        "end": 3557.04,
+        "text": "I promise to always take good care of her.",
+        "textdich": ""
+    },
+    {
+        "start": 3554.559,
+        "end": 3561.599,
+        "text": "I promise to always take good care of her.",
+        "textdich": ""
+    },
+    {
+        "start": 3558.64,
+        "end": 3566.559,
+        "text": " I know you will. You're a wonderful husband.",
+        "textdich": ""
+    },
+    {
+        "start": 3563.52,
+        "end": 3572.079,
+        "text": "I know you will. You're a wonderful husband.",
+        "textdich": ""
+    },
+    {
+        "start": 3568.48,
+        "end": 3575.76,
+        "text": " Should I start making the salad now?",
+        "textdich": ""
+    },
+    {
+        "start": 3572.079,
+        "end": 3579.52,
+        "text": "Should I start making the salad now?",
+        "textdich": ""
+    },
+    {
+        "start": 3575.76,
+        "end": 3586.0,
+        "text": " Yes, please. The vegetables are already washed and ready.",
+        "textdich": ""
+    },
+    {
+        "start": 3582.24,
+        "end": 3592.16,
+        "text": "Yes, please. The vegetables are already washed and ready.",
+        "textdich": ""
+    },
+    {
+        "start": 3588.559,
+        "end": 3595.76,
+        "text": " This is going to be a delicious meal.",
+        "textdich": ""
+    },
+    {
+        "start": 3592.16,
+        "end": 3600.16,
+        "text": "This is going to be a delicious meal.",
+        "textdich": ""
+    },
+    {
+        "start": 3595.76,
+        "end": 3604.4,
+        "text": " With your help, it's even more special.",
+        "textdich": ""
+    },
+    {
+        "start": 3600.16,
+        "end": 3607.76,
+        "text": "With your help, it's even more special.",
+        "textdich": ""
+    },
+    {
+        "start": 3604.4,
+        "end": 3611.28,
+        "text": " I love being part of this family.",
+        "textdich": ""
+    },
+    {
+        "start": 3607.76,
+        "end": 3615.119,
+        "text": "I love being part of this family.",
+        "textdich": ""
+    },
+    {
+        "start": 3611.28,
+        "end": 3620.16,
+        "text": " And we love having you as our son.",
+        "textdich": ""
+    },
+    {
+        "start": 3615.119,
+        "end": 3622.4,
+        "text": "And we love having you as our son.",
+        "textdich": ""
+    },
+    {
+        "start": 3620.16,
+        "end": 3626.48,
+        "text": "Are you ready to practice riding your bike?",
+        "textdich": ""
+    },
+    {
+        "start": 3624.24,
+        "end": 3633.28,
+        "text": "Are you ready to practice riding your bike?",
+        "textdich": ""
+    },
+    {
+        "start": 3628.48,
+        "end": 3638.16,
+        "text": " I'm scared. What if I fall down?",
+        "textdich": ""
+    },
+    {
+        "start": 3633.28,
+        "end": 3642.88,
+        "text": "I'm scared. What if I fall down?",
+        "textdich": ""
+    },
+    {
+        "start": 3638.16,
+        "end": 3647.52,
+        "text": " Don't worry, I'll hold the bike for you.",
+        "textdich": ""
+    },
+    {
+        "start": 3642.88,
+        "end": 3651.839,
+        "text": "Don't worry, I'll hold the bike for you.",
+        "textdich": ""
+    },
+    {
+        "start": 3647.52,
+        "end": 3656.16,
+        "text": " Will you promise not to let go?",
+        "textdich": ""
+    },
+    {
+        "start": 3651.839,
+        "end": 3660.88,
+        "text": "Will you promise not to let go?",
+        "textdich": ""
+    },
+    {
+        "start": 3656.16,
+        "end": 3665.839,
+        "text": " I promise I'll be right behind you.",
+        "textdich": ""
+    },
+    {
+        "start": 3660.88,
+        "end": 3670.72,
+        "text": "I promise I'll be right behind you.",
+        "textdich": ""
+    },
+    {
+        "start": 3665.839,
+        "end": 3675.44,
+        "text": " Okay, but go very slowly.",
+        "textdich": ""
+    },
+    {
+        "start": 3670.72,
+        "end": 3680.0,
+        "text": " Okay, but go very slowly.",
+        "textdich": ""
+    },
+    {
+        "start": 3675.44,
+        "end": 3684.559,
+        "text": " Put your feet on the pedals like this.",
+        "textdich": ""
+    },
+    {
+        "start": 3680.0,
+        "end": 3688.0,
+        "text": "Put your feet on the pedals like this.",
+        "textdich": ""
+    },
+    {
+        "start": 3684.559,
+        "end": 3691.52,
+        "text": " Am I doing it right?",
+        "textdich": ""
+    },
+    {
+        "start": 3688.0,
+        "end": 3696.319,
+        "text": "Am I doing it right?",
+        "textdich": ""
+    },
+    {
+        "start": 3691.52,
+        "end": 3701.04,
+        "text": "Perfect. Now try to push the petals.",
+        "textdich": ""
+    },
+    {
+        "start": 3696.319,
+        "end": 3705.68,
+        "text": "Perfect. Now try to push the petals.",
+        "textdich": ""
+    },
+    {
+        "start": 3701.04,
+        "end": 3710.319,
+        "text": " It's wobbly. I don't like it.",
+        "textdich": ""
+    },
+    {
+        "start": 3705.68,
+        "end": 3713.52,
+        "text": "It's wobbly. I don't like it.",
+        "textdich": ""
+    },
+    {
+        "start": 3710.319,
+        "end": 3718.88,
+        "text": " That's normal. Everyone wobbles at first.",
+        "textdich": ""
+    },
+    {
+        "start": 3715.68,
+        "end": 3725.04,
+        "text": "That's normal. Everyone wobbles at first.",
+        "textdich": ""
+    },
+    {
+        "start": 3721.04,
+        "end": 3729.119,
+        "text": " Did you wobble when you learned?",
+        "textdich": ""
+    },
+    {
+        "start": 3725.04,
+        "end": 3733.68,
+        "text": " Did you wobble when you learned?",
+        "textdich": ""
+    },
+    {
+        "start": 3729.119,
+        "end": 3738.24,
+        "text": " Yes, I fell down many times.",
+        "textdich": ""
+    },
+    {
+        "start": 3733.68,
+        "end": 3742.48,
+        "text": "Yes, I fell down many times.",
+        "textdich": ""
+    },
+    {
+        "start": 3738.24,
+        "end": 3746.72,
+        "text": " But you learned how to ride.",
+        "textdich": ""
+    },
+    {
+        "start": 3742.48,
+        "end": 3752.16,
+        "text": "But you learned how to ride.",
+        "textdich": ""
+    },
+    {
+        "start": 3746.72,
+        "end": 3757.44,
+        "text": " Exactly. And now I love riding my bike.",
+        "textdich": ""
+    },
+    {
+        "start": 3752.16,
+        "end": 3760.96,
+        "text": "Exactly. And now I love riding my bike.",
+        "textdich": ""
+    },
+    {
+        "start": 3757.44,
+        "end": 3764.4,
+        "text": " Will I love it, too?",
+        "textdich": ""
+    },
+    {
+        "start": 3760.96,
+        "end": 3768.96,
+        "text": "Will I love it, too?",
+        "textdich": ""
+    },
+    {
+        "start": 3764.4,
+        "end": 3773.68,
+        "text": " I think you will. You're doing great.",
+        "textdich": ""
+    },
+    {
+        "start": 3768.96,
+        "end": 3777.76,
+        "text": "I think you will. You're doing great.",
+        "textdich": ""
+    },
+    {
+        "start": 3773.68,
+        "end": 3781.76,
+        "text": " Can we try again tomorrow?",
+        "textdich": ""
+    },
+    {
+        "start": 3777.76,
+        "end": 3786.48,
+        "text": "Can we try again tomorrow?",
+        "textdich": ""
+    },
+    {
+        "start": 3781.76,
+        "end": 3791.2,
+        "text": " Of course. Practice makes perfect.",
+        "textdich": ""
+    },
+    {
+        "start": 3786.48,
+        "end": 3795.68,
+        "text": "Of course, practice makes perfect.",
+        "textdich": ""
+    },
+    {
+        "start": 3791.2,
+        "end": 3800.0,
+        "text": " Thanks for helping me, Mommy.",
+        "textdich": ""
+    },
+    {
+        "start": 3795.68,
+        "end": 3802.88,
+        "text": "Thanks for helping me, Mommy.",
+        "textdich": ""
+    },
+    {
+        "start": 3800.0,
+        "end": 3807.839,
+        "text": "You're welcome. I'm proud of you for trying.",
+        "textdich": ""
+    },
+    {
+        "start": 3804.96,
+        "end": 3814.4,
+        "text": "You're welcome. I'm proud of you for trying.",
+        "textdich": ""
+    },
+    {
+        "start": 3809.839,
+        "end": 3819.039,
+        "text": " I love you even when I'm scared.",
+        "textdich": ""
+    },
+    {
+        "start": 3814.4,
+        "end": 3819.039,
+        "text": " I love you even when I'm scared.",
+        "textdich": ""
+    }
+]
