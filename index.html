@@ -62,7 +62,7 @@ iframe {
   margin-left: 0;
   font-size: 1.4rem;
 }
-#videoSelect,#videoSelectqtmy,#videoSelectlsmy,#videoSelectlearnEn {
+#videoSelect_1,#videoSelect_2,#videoSelect_3,#videoSelect_4 {
   color:rgb(2, 78, 2);
   width: 75%; 
   display: block;
@@ -118,6 +118,15 @@ h4{
 h4 {
   text-align: left;
 }
+#videochon{
+   text-align: center; 
+}
+
+.menu-select.active {
+  color: red;
+  font-weight: bold;
+}
+
 </style>
 </head>
 <body>
@@ -141,16 +150,19 @@ h4 {
         <div id="loa_button">🔊</div>
         <div id="subdich">[translated subtitles ]</div>
         <br>
-        <hr><hr>
+        <hr>
+        <div id="videochon" onclick="them_Http()">JqJ7PlMCDuE</div>
+        <div id="videochon_http"></div>
+        <hr>
 
         <h4>1. Driving lesson videos:</h4>
-        <select id="videoSelect" ></select>
+        <select id="videoSelect_1" ></select>
         <h4>2. US history videos:</h4>
-        <select id="videoSelectlsmy" ></select>
+        <select id="videoSelect_2" ></select>
         <h4>3. US citizenship test videos:</h4>
-        <select id="videoSelectqtmy" ></select>
+        <select id="videoSelect_3" ></select>
         <h4>4. English learning videos:</h4>
-        <select id="videoSelectlearnEn" ></select><br><br>
+        <select id="videoSelect_4" ></select><br><br>
         <h4><a href="https://tien89.streamlit.app" style="background: transparent;text-align: center; ">.</a></h4>
 			
     </div>
@@ -161,11 +173,13 @@ h4 {
 <script>
 var rateVread = 1;
 var utterance_volume=1;
+const videochon = document.getElementById("videochon");
+videochon.textContent = 'JqJ7PlMCDuE'; //default
 // ==========================
     // 0. TAO MENU VDEO_ID
     // ==========================
 
-    let listIdTd = [
+let listIdTd_1 = [
 "CCCUTqJ3dBA|001: Learn How to Drive",
 "ud8tM2OXcmY|002: Learn How to Drive Car Controls",
 "ippjq7-QMS8|003: How to Drive a Car in a Straight Line",
@@ -285,7 +299,7 @@ var utterance_volume=1;
 "SkG2TSOBLzI|15: Things you NEED to do after becom a US Citizen"
 ];
     //tao list videos chua cac thong tin id, subtitle, title
-    const videos = listIdTd.map(item => {
+    const videos_1 = listIdTd_1.map(item => {
     const [id, title] = item.split("|");
     return {
         id: id,
@@ -295,11 +309,11 @@ var utterance_volume=1;
     });
 
     //tao menu chon video (select_id)
-    videos.forEach((v, index) => {
+    videos_1.forEach((v, index) => {
     const option = document.createElement("option");
     option.value = v.id;
     option.textContent = v.title;
-    videoSelect.appendChild(option);
+    videoSelect_1.appendChild(option);
     });
 
     // ==========================
@@ -354,7 +368,7 @@ speechSynthesis.onvoiceschanged = () => {
       player = new YT.Player("playerContainer", {
         height: "315",
         width: "560",
-        videoId: document.getElementById("videoSelect").value,
+        videoId: videochon.textContent, //`${id_video}`
         playerVars: { autoplay: 0, controls: 1 },
         events: {
           onReady: () => {},
@@ -443,7 +457,7 @@ speechSynthesis.onvoiceschanged = () => {
     // 5. PLAY BUTTON
     // ==========================
 document.getElementById("playBtn").addEventListener("click", async () => {
-  const videoId = document.getElementById("videoSelect").value;
+  const videoId = videochon.textContent;
 
   subtitles = await fetchSubtitles(videoId);
 
@@ -460,9 +474,11 @@ document.getElementById("playBtn").addEventListener("click", async () => {
     // ==========================
     // 6. AUTO PLAY WHEN CHANGE VIDEO
     // ==========================
-document.getElementById("videoSelect").addEventListener("change", async () => {
-    localStorage.setItem("selectedVideoId", videoSelect.value);
-    const videoId = videoSelect.value;
+document.getElementById("videoSelect_1").addEventListener("change", async () => {
+    localStorage.setItem("selectedVideoId", videoSelect_1.value);
+
+    videochon.textContent = videoSelect_1.value; 
+    const videoId = videochon.textContent;
 
     subtitles = await fetchSubtitles(videoId);
 
@@ -555,10 +571,12 @@ function btnYoutubeSound(){
 //moi khi chay lai trang thi khoi phuc  voice + video
 restoreSelections();   // 🔥 khôi phục voice + video
 
+function them_Http(){
+  document.getElementById("videochon_http").innerHTML= 'https://www.youtube.com/watch?v='+videochon.textContent ; 
+}
 </script>
 
 
-
+<script src="index4.js"></script>
 </body>
 </html>
-
