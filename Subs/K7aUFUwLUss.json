@@ -1,0 +1,218 @@
+[
+    {
+        "start": 0.08,
+        "end": 5.279,
+        "text": "Today is my very first day of traveling.",
+        "textdich": ""
+    },
+    {
+        "start": 2.72,
+        "end": 14.799,
+        "text": "I feel excited, a little nervous, and full of curiosity. I truly hope this journey will be safe, filled with wonderful moments, new discoveries, and",
+        "textdich": ""
+    },
+    {
+        "start": 12.8,
+        "end": 24.32,
+        "text": "memories that I will always carry with me. Stay with me to discover my exciting conversations at the airport.",
+        "textdich": ""
+    },
+    {
+        "start": 21.92,
+        "end": 28.64,
+        "text": " Good morning. Where are you flying to today?",
+        "textdich": ""
+    },
+    {
+        "start": 25.439,
+        "end": 34.239,
+        "text": " Good morning. I'm flying to Rome. May I see your passport, please?",
+        "textdich": ""
+    },
+    {
+        "start": 31.119,
+        "end": 43.6,
+        "text": " Of course. Here it is. Are you checking in any luggage? Yes, I have one suitcase. Do you also have a carry-on bag?",
+        "textdich": ""
+    },
+    {
+        "start": 40.719,
+        "end": 47.76,
+        "text": " Yes, just this small backpack. Please place your suitcase on the scale.",
+        "textdich": ""
+    },
+    {
+        "start": 46.32,
+        "end": 49.44,
+        "text": " Sure. Here you go.",
+        "textdich": ""
+    },
+    {
+        "start": 47.76,
+        "end": 54.0,
+        "text": " Would you like a window or an aisle seat?",
+        "textdich": ""
+    },
+    {
+        "start": 50.079,
+        "end": 62.44,
+        "text": " A window seat, please. Perfect. Here is your boarding pass. Your gate is number 15. Thank you so much for your help.",
+        "textdich": ""
+    },
+    {
+        "start": 62.48,
+        "end": 70.24,
+        "text": " Please put your suitcase on the belt. Do you need to remove your watch?",
+        "textdich": ""
+    },
+    {
+        "start": 67.6,
+        "end": 71.92,
+        "text": " Sure. I'll also put my wallet and phone.",
+        "textdich": ""
+    },
+    {
+        "start": 70.24,
+        "end": 74.479,
+        "text": "Should I remove my jacket?",
+        "textdich": ""
+    },
+    {
+        "start": 71.92,
+        "end": 80.0,
+        "text": " Yes. And please take your laptop out of the bag. It must be scanned separately.",
+        "textdich": ""
+    },
+    {
+        "start": 77.92,
+        "end": 82.88,
+        "text": " Okay. What about this water bottle?",
+        "textdich": ""
+    },
+    {
+        "start": 80.0,
+        "end": 91.119,
+        "text": "Liquids are only allowed if they are under 100 ml in a clear bag. You can't bring that bottle.",
+        "textdich": ""
+    },
+    {
+        "start": 89.119,
+        "end": 94.36,
+        "text": " All right, I'll throw it away. Thanks for explaining.",
+        "textdich": ""
+    },
+    {
+        "start": 95.119,
+        "end": 101.439,
+        "text": " Excuse me. Where is the departures board?",
+        "textdich": ""
+    },
+    {
+        "start": 98.64,
+        "end": 106.159,
+        "text": " You can see it over there just above the check-in counters.",
+        "textdich": ""
+    },
+    {
+        "start": 103.28,
+        "end": 113.6,
+        "text": " Thank you. Is the flight to Berlin on time? Yes, you'll see your flight listed on it.",
+        "textdich": ""
+    },
+    {
+        "start": 109.92,
+        "end": 116.88,
+        "text": " Great. And how do I get to gate A7?",
+        "textdich": ""
+    },
+    {
+        "start": 113.6,
+        "end": 124.92,
+        "text": " Walk straight for about 200 m, then turn left. You'll see gate A7 on the right.",
+        "textdich": ""
+    },
+    {
+        "start": 120.159,
+        "end": 124.92,
+        "text": " Got it. Thank you so much.",
+        "textdich": ""
+    },
+    {
+        "start": 126.32,
+        "end": 134.0,
+        "text": "Welcome. Please place your carry-on in the overhead bin or under the seat.",
+        "textdich": ""
+    },
+    {
+        "start": 131.52,
+        "end": 140.16,
+        "text": " Okay. Thank you. Could you move your coat so my bag fits? Sure, no problem.",
+        "textdich": ""
+    },
+    {
+        "start": 137.76,
+        "end": 142.879,
+        "text": " Okay. Can I use my phone now?",
+        "textdich": ""
+    },
+    {
+        "start": 140.16,
+        "end": 148.4,
+        "text": " Please keep it off for takeoff. Later, you can use airplane mode.",
+        "textdich": ""
+    },
+    {
+        "start": 146.08,
+        "end": 153.2,
+        "text": " Got it. Could I have water and a sandwich? Also, a blanket, please.",
+        "textdich": ""
+    },
+    {
+        "start": 151.28,
+        "end": 159.76,
+        "text": " Sure. Just a second and I'll bring them for you.",
+        "textdich": ""
+    },
+    {
+        "start": 156.319,
+        "end": 162.16,
+        "text": " Welcome to Rome. Passport, please.",
+        "textdich": ""
+    },
+    {
+        "start": 159.76,
+        "end": 165.28,
+        "text": "What's the purpose of your visit?",
+        "textdich": ""
+    },
+    {
+        "start": 162.16,
+        "end": 176.319,
+        "text": " Here it is. I'm a tourist staying for 2 weeks at the Grand Hotel. Do you have anything to declare? Alcohol, tobacco, or goods over the limit?",
+        "textdich": ""
+    },
+    {
+        "start": 172.56,
+        "end": 178.64,
+        "text": " No, only personal belongings. Very well.",
+        "textdich": ""
+    },
+    {
+        "start": 176.319,
+        "end": 180.879,
+        "text": "Enjoy your stay in Rome.",
+        "textdich": ""
+    },
+    {
+        "start": 178.64,
+        "end": 188.08,
+        "text": " If you enjoyed this video, make sure to hit the subscribe button and join our community. We share fun, simple, and",
+        "textdich": ""
+    },
+    {
+        "start": 185.76,
+        "end": 197.12,
+        "text": "useful English learning videos every week. Don't miss out on new dialogues, stories, and tips that will make learning English easy and exciting for",
+        "textdich": ""
+    }
+]
