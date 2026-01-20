@@ -1,0 +1,956 @@
+[
+    {
+        "start": 0.08,
+        "end": 12.48,
+        "text": "Welcome to Learning English at Home. In this series, you'll practice real conversations for every step of your journey through the airport and beyond.",
+        "textdich": ""
+    },
+    {
+        "start": 10.24,
+        "end": 19.76,
+        "text": "Good afternoon. Welcome to the United States. May I see your passport and customs form, please?",
+        "textdich": ""
+    },
+    {
+        "start": 17.199,
+        "end": 24.96,
+        "text": " Good afternoon. Sure. Here are my passport and declaration form.",
+        "textdich": ""
+    },
+    {
+        "start": 22.08,
+        "end": 28.88,
+        "text": " Thank you. Where are you arriving from today?",
+        "textdich": ""
+    },
+    {
+        "start": 26.0,
+        "end": 31.439,
+        "text": " I'm arriving from Paris, France.",
+        "textdich": ""
+    },
+    {
+        "start": 28.88,
+        "end": 35.6,
+        "text": "What is the purpose of your visit to the United States?",
+        "textdich": ""
+    },
+    {
+        "start": 32.96,
+        "end": 39.76,
+        "text": " I'm here for business. I have meetings in New York City.",
+        "textdich": ""
+    },
+    {
+        "start": 37.52,
+        "end": 41.76,
+        "text": " How long will you be staying?",
+        "textdich": ""
+    },
+    {
+        "start": 39.76,
+        "end": 43.6,
+        "text": " About 2 weeks.",
+        "textdich": ""
+    },
+    {
+        "start": 41.76,
+        "end": 46.559,
+        "text": " Where will you be staying?",
+        "textdich": ""
+    },
+    {
+        "start": 43.6,
+        "end": 50.16,
+        "text": " At the Marriott Hotel in Manhattan.",
+        "textdich": ""
+    },
+    {
+        "start": 46.559,
+        "end": 55.199,
+        "text": " Okay. Did you bring any food, plants, or agricultural products with you?",
+        "textdich": ""
+    },
+    {
+        "start": 52.48,
+        "end": 59.92,
+        "text": " Just some chocolates as gifts for my colleagues.",
+        "textdich": ""
+    },
+    {
+        "start": 56.48,
+        "end": 63.039,
+        "text": "Chocolates are fine. Any meat, fruits, or vegetables?",
+        "textdich": ""
+    },
+    {
+        "start": 61.28,
+        "end": 66.0,
+        "text": " No, none.",
+        "textdich": ""
+    },
+    {
+        "start": 63.039,
+        "end": 72.32,
+        "text": " Are you carrying more than $10,000 in cash?",
+        "textdich": ""
+    },
+    {
+        "start": 67.119,
+        "end": 75.04,
+        "text": " No, only about $800 and a credit card.",
+        "textdich": ""
+    },
+    {
+        "start": 72.32,
+        "end": 77.36,
+        "text": " Do you have alcohol or cigarettes?",
+        "textdich": ""
+    },
+    {
+        "start": 75.04,
+        "end": 79.68,
+        "text": " Just one bottle of wine.",
+        "textdich": ""
+    },
+    {
+        "start": 77.36,
+        "end": 86.479,
+        "text": " That's within the limit. Can you put your luggage on the inspection table, please?",
+        "textdich": ""
+    },
+    {
+        "start": 82.479,
+        "end": 91.119,
+        "text": " Of course. Here it is. I see clothes and business documents. Nothing restricted.",
+        "textdich": ""
+    },
+    {
+        "start": 89.52,
+        "end": 93.52,
+        "text": " Yes, that's correct.",
+        "textdich": ""
+    },
+    {
+        "start": 91.119,
+        "end": 94.799,
+        "text": " Did you pack this luggage yourself?",
+        "textdich": ""
+    },
+    {
+        "start": 93.52,
+        "end": 97.6,
+        "text": " Yes, I did.",
+        "textdich": ""
+    },
+    {
+        "start": 94.799,
+        "end": 100.88,
+        "text": " And has anyone given you items to carry for them?",
+        "textdich": ""
+    },
+    {
+        "start": 98.56,
+        "end": 103.6,
+        "text": " No, everything belongs to me.",
+        "textdich": ""
+    },
+    {
+        "start": 100.88,
+        "end": 105.28,
+        "text": " Very good. Here's your passport back.",
+        "textdich": ""
+    },
+    {
+        "start": 103.6,
+        "end": 107.6,
+        "text": "Your luggage is cleared.",
+        "textdich": ""
+    },
+    {
+        "start": 105.28,
+        "end": 112.079,
+        "text": " Thank you very much. Do I need to keep this declaration form?",
+        "textdich": ""
+    },
+    {
+        "start": 109.36,
+        "end": 116.479,
+        "text": " Nope. You can discard it. Welcome to the US and enjoy your stay.",
+        "textdich": ""
+    },
+    {
+        "start": 114.079,
+        "end": 121.119,
+        "text": " Thank you very much. Have a good day.",
+        "textdich": ""
+    },
+    {
+        "start": 116.479,
+        "end": 123.759,
+        "text": " You too. Key phrases you learned today.",
+        "textdich": ""
+    },
+    {
+        "start": 121.119,
+        "end": 128.879,
+        "text": "May I see your passport and customs form?",
+        "textdich": ""
+    },
+    {
+        "start": 125.439,
+        "end": 135.76,
+        "text": "Did you bring any food, plants, or agricultural products?",
+        "textdich": ""
+    },
+    {
+        "start": 131.84,
+        "end": 141.68,
+        "text": "Are you carrying more than $10,000 in cash?",
+        "textdich": ""
+    },
+    {
+        "start": 137.68,
+        "end": 144.41,
+        "text": "Did you pack this luggage yourself?",
+        "textdich": ""
+    },
+    {
+        "start": 141.68,
+        "end": 147.76,
+        "text": "Your luggage is cleared.",
+        "textdich": ""
+    },
+    {
+        "start": 144.41,
+        "end": 157.84,
+        "text": "[Music] Dialogue two. On the plane. Good afternoon. Welcome aboard. May I see your boarding pass, please?",
+        "textdich": ""
+    },
+    {
+        "start": 156.08,
+        "end": 161.36,
+        "text": " Sure. Here you go.",
+        "textdich": ""
+    },
+    {
+        "start": 157.84,
+        "end": 165.44,
+        "text": " Thank you. Your seat is 18A by the window. This way, please.",
+        "textdich": ""
+    },
+    {
+        "start": 163.68,
+        "end": 170.16,
+        "text": " Great. Thank you.",
+        "textdich": ""
+    },
+    {
+        "start": 165.44,
+        "end": 177.44,
+        "text": "[Music] Excuse me. Could you help me put my bag in the overhead compartment?",
+        "textdich": ""
+    },
+    {
+        "start": 174.319,
+        "end": 180.91,
+        "text": " Of course. Let me lift it for you. There we go.",
+        "textdich": ""
+    },
+    {
+        "start": 178.64,
+        "end": 183.36,
+        "text": " Thanks a lot.",
+        "textdich": ""
+    },
+    {
+        "start": 180.91,
+        "end": 188.4,
+        "text": "[Music]  Would you like something to drink?",
+        "textdich": ""
+    },
+    {
+        "start": 185.599,
+        "end": 192.239,
+        "text": " Yes. Could I have some water, please?",
+        "textdich": ""
+    },
+    {
+        "start": 188.4,
+        "end": 194.239,
+        "text": " Certainly. With ice or without?",
+        "textdich": ""
+    },
+    {
+        "start": 192.239,
+        "end": 197.36,
+        "text": " Without ice, please.",
+        "textdich": ""
+    },
+    {
+        "start": 194.239,
+        "end": 200.959,
+        "text": " Here you are. Thank you very much.",
+        "textdich": ""
+    },
+    {
+        "start": 197.36,
+        "end": 208.319,
+        "text": " We also have coffee, tea, juice, and soft drinks. Would you like anything else?",
+        "textdich": ""
+    },
+    {
+        "start": 204.64,
+        "end": 210.72,
+        "text": " H could I have an orange juice as well?",
+        "textdich": ""
+    },
+    {
+        "start": 208.319,
+        "end": 213.519,
+        "text": " No problem. Here you go.",
+        "textdich": ""
+    },
+    {
+        "start": 210.72,
+        "end": 216.0,
+        "text": " Excuse me. Could I also get a blanket?",
+        "textdich": ""
+    },
+    {
+        "start": 213.519,
+        "end": 219.28,
+        "text": " Sure, I'll bring one right away.",
+        "textdich": ""
+    },
+    {
+        "start": 216.0,
+        "end": 224.0,
+        "text": " Thank you. Oh, and could you show me how to adjust the seat belt?",
+        "textdich": ""
+    },
+    {
+        "start": 221.2,
+        "end": 229.47,
+        "text": " Yes. Just pull on the strap to tighten and lift the buckle to release.",
+        "textdich": ""
+    },
+    {
+        "start": 226.64,
+        "end": 232.159,
+        "text": " Got it. Thanks.",
+        "textdich": ""
+    },
+    {
+        "start": 229.47,
+        "end": 238.56,
+        "text": "[Music]  Excuse me. How much longer until we land?",
+        "textdich": ""
+    },
+    {
+        "start": 235.76,
+        "end": 240.959,
+        "text": " We'll land in about 2 hours.",
+        "textdich": ""
+    },
+    {
+        "start": 238.56,
+        "end": 246.08,
+        "text": " Perfect. Do you know what the weather is like in New York?",
+        "textdich": ""
+    },
+    {
+        "start": 242.56,
+        "end": 249.519,
+        "text": " The captain announced it's sunny and 22\u00b0 C.",
+        "textdich": ""
+    },
+    {
+        "start": 247.439,
+        "end": 259.199,
+        "text": " That's nice. Thank you for the information. My pleasure. Dinner service will begin soon. Would you prefer chicken or pasta?",
+        "textdich": ""
+    },
+    {
+        "start": 257.519,
+        "end": 261.759,
+        "text": " Chicken, please.",
+        "textdich": ""
+    },
+    {
+        "start": 259.199,
+        "end": 265.49,
+        "text": " Here's your meal. Enjoy.",
+        "textdich": ""
+    },
+    {
+        "start": 261.759,
+        "end": 269.68,
+        "text": " Thank you. Everything looks great.",
+        "textdich": ""
+    },
+    {
+        "start": 265.49,
+        "end": 275.919,
+        "text": "[Music] Excuse me. Could you take my tray?",
+        "textdich": ""
+    },
+    {
+        "start": 272.8,
+        "end": 278.16,
+        "text": " Of course. Did you enjoy your meal?",
+        "textdich": ""
+    },
+    {
+        "start": 275.919,
+        "end": 280.4,
+        "text": " Yes, it was very good.",
+        "textdich": ""
+    },
+    {
+        "start": 278.16,
+        "end": 285.759,
+        "text": " I'm glad to hear that. If you need anything else, just press the call button.",
+        "textdich": ""
+    },
+    {
+        "start": 283.28,
+        "end": 287.84,
+        "text": " We'll do. Thank you for your help.",
+        "textdich": ""
+    },
+    {
+        "start": 285.759,
+        "end": 291.36,
+        "text": " You're welcome. Have a comfortable flight.",
+        "textdich": ""
+    },
+    {
+        "start": 288.88,
+        "end": 294.24,
+        "text": " Key phrases you learned today.",
+        "textdich": ""
+    },
+    {
+        "start": 291.36,
+        "end": 309.689,
+        "text": " Could I have some water, please? May I get a blanket? How much longer until we land? Could you help me with my seat belt? Thank you for your help.",
+        "textdich": ""
+    },
+    {
+        "start": 303.71,
+        "end": 315.84,
+        "text": "[Music] Dialogue three at the baggage claim.",
+        "textdich": ""
+    },
+    {
+        "start": 313.84,
+        "end": 320.56,
+        "text": " Excuse me. Could you tell me where the baggage claim area is?",
+        "textdich": ""
+    },
+    {
+        "start": 317.759,
+        "end": 329.36,
+        "text": " Of course. Just follow the signs ahead for your flight Delta from London. The bags will arrive at carousel 7.",
+        "textdich": ""
+    },
+    {
+        "start": 327.28,
+        "end": 331.84,
+        "text": " Thank you. Is it far from here?",
+        "textdich": ""
+    },
+    {
+        "start": 329.36,
+        "end": 338.32,
+        "text": " No, just a short walk. You'll see a large screen showing your flight number.",
+        "textdich": ""
+    },
+    {
+        "start": 335.92,
+        "end": 344.4,
+        "text": "[Music] I've been standing here for half an hour, but my suitcase hasn't arrived.",
+        "textdich": ""
+    },
+    {
+        "start": 342.96,
+        "end": 347.039,
+        "text": "What should I do?",
+        "textdich": ""
+    },
+    {
+        "start": 344.4,
+        "end": 356.569,
+        "text": " Don't worry. Sometimes luggage is delayed. Let's go to the lost luggage desk and check.",
+        "textdich": ""
+    },
+    {
+        "start": 351.76,
+        "end": 362.24,
+        "text": "[Music] Could I see your baggage tag, please?",
+        "textdich": ""
+    },
+    {
+        "start": 359.919,
+        "end": 364.96,
+        "text": " Yes, here it is. It matches my boarding pass.",
+        "textdich": ""
+    },
+    {
+        "start": 362.96,
+        "end": 368.8,
+        "text": " Thank you. Could you describe your suitcase?",
+        "textdich": ""
+    },
+    {
+        "start": 366.08,
+        "end": 377.44,
+        "text": " Sure. It's a mediumsiz black suitcase with wheels. It has a red tag and a silver lock.",
+        "textdich": ""
+    },
+    {
+        "start": 373.199,
+        "end": 381.6,
+        "text": " All right. Let me check in the system.",
+        "textdich": ""
+    },
+    {
+        "start": 377.44,
+        "end": 384.08,
+        "text": "H. It seems your bag was left in London.",
+        "textdich": ""
+    },
+    {
+        "start": 381.6,
+        "end": 388.24,
+        "text": "It will arrive on the next flight tonight.",
+        "textdich": ""
+    },
+    {
+        "start": 385.44,
+        "end": 389.919,
+        "text": " Oh, I see. That's a little stressful.",
+        "textdich": ""
+    },
+    {
+        "start": 388.24,
+        "end": 392.319,
+        "text": "How will I get it back?",
+        "textdich": ""
+    },
+    {
+        "start": 389.919,
+        "end": 398.96,
+        "text": " No worries. We can deliver it to your hotel once it arrives. Could you give me the hotel address?",
+        "textdich": ""
+    },
+    {
+        "start": 396.88,
+        "end": 405.039,
+        "text": " Yes, I'll be staying at the Hilton Midtown, room 405.",
+        "textdich": ""
+    },
+    {
+        "start": 402.08,
+        "end": 413.199,
+        "text": " Perfect. Please fill out this lost luggage form with your name, contact number, and hotel details.",
+        "textdich": ""
+    },
+    {
+        "start": 410.639,
+        "end": 416.8,
+        "text": " Here you go. How long will it take?",
+        "textdich": ""
+    },
+    {
+        "start": 413.199,
+        "end": 421.039,
+        "text": " Usually within 24 hours. We'll call you before delivery.",
+        "textdich": ""
+    },
+    {
+        "start": 418.72,
+        "end": 424.4,
+        "text": " Thank you. And what if I need my bag urgently?",
+        "textdich": ""
+    },
+    {
+        "start": 422.08,
+        "end": 428.88,
+        "text": " You can also come back here tomorrow to collect it if you prefer.",
+        "textdich": ""
+    },
+    {
+        "start": 426.56,
+        "end": 430.639,
+        "text": " No, delivery to the hotel sounds better.",
+        "textdich": ""
+    },
+    {
+        "start": 428.88,
+        "end": 432.479,
+        "text": "I appreciate your help.",
+        "textdich": ""
+    },
+    {
+        "start": 430.639,
+        "end": 435.599,
+        "text": " You're welcome. Sorry for the inconvenience.",
+        "textdich": ""
+    },
+    {
+        "start": 433.759,
+        "end": 439.919,
+        "text": " It's okay. At least I know where my suitcase is. Thanks again.",
+        "textdich": ""
+    },
+    {
+        "start": 437.599,
+        "end": 447.199,
+        "text": " My pleasure. Have a good stay in New York. Key phrases you learned today.",
+        "textdich": ""
+    },
+    {
+        "start": 443.68,
+        "end": 452.639,
+        "text": " Where is the baggage claim area? My suitcase hasn't arrived.",
+        "textdich": ""
+    },
+    {
+        "start": 449.68,
+        "end": 456.72,
+        "text": " Could you describe your suitcase?",
+        "textdich": ""
+    },
+    {
+        "start": 452.639,
+        "end": 460.319,
+        "text": " It's a black suitcase with a red tag.",
+        "textdich": ""
+    },
+    {
+        "start": 456.72,
+        "end": 464.759,
+        "text": " Please fill out this lost luggage form.",
+        "textdich": ""
+    },
+    {
+        "start": 460.319,
+        "end": 464.759,
+        "text": " We'll deliver it to your hotel.",
+        "textdich": ""
+    },
+    {
+        "start": 466.51,
+        "end": 480.24,
+        "text": "[Music] Dialogue 4, asking for directions inside the airport.",
+        "textdich": ""
+    },
+    {
+        "start": 477.599,
+        "end": 484.479,
+        "text": " Excuse me, could you tell me where gate C12 is?",
+        "textdich": ""
+    },
+    {
+        "start": 481.68,
+        "end": 489.44,
+        "text": " Of course. Just follow the signs ahead, then turn left at the food court.",
+        "textdich": ""
+    },
+    {
+        "start": 486.879,
+        "end": 492.08,
+        "text": " Thank you. Is it far from here?",
+        "textdich": ""
+    },
+    {
+        "start": 489.44,
+        "end": 494.72,
+        "text": " Not too far. About a 5-minute walk.",
+        "textdich": ""
+    },
+    {
+        "start": 492.08,
+        "end": 502.96,
+        "text": " Perfect. And where is the restroom, please? The restroom is just before gate C12 on your right.",
+        "textdich": ""
+    },
+    {
+        "start": 500.08,
+        "end": 506.0,
+        "text": " Great. And what about restaurants?",
+        "textdich": ""
+    },
+    {
+        "start": 502.96,
+        "end": 509.919,
+        "text": " There's a cafe and a fast food area near the gate.",
+        "textdich": ""
+    },
+    {
+        "start": 506.96,
+        "end": 515.76,
+        "text": " That sounds good. I may stop there. Oh, one more thing. Where can I find the information desk?",
+        "textdich": ""
+    },
+    {
+        "start": 513.519,
+        "end": 522.0,
+        "text": " The information desk is right in the center hall. If you walk straight ahead, you'll see it next to the elevators.",
+        "textdich": ""
+    },
+    {
+        "start": 520.08,
+        "end": 524.159,
+        "text": " Thank you so much for your help.",
+        "textdich": ""
+    },
+    {
+        "start": 522.0,
+        "end": 526.399,
+        "text": " You're welcome. Have a safe flight.",
+        "textdich": ""
+    },
+    {
+        "start": 524.159,
+        "end": 529.519,
+        "text": " Thanks. Bye.",
+        "textdich": ""
+    },
+    {
+        "start": 526.399,
+        "end": 533.279,
+        "text": " Key phrases you learned today.",
+        "textdich": ""
+    },
+    {
+        "start": 529.519,
+        "end": 537.2,
+        "text": "Key phrases you learned today.",
+        "textdich": ""
+    },
+    {
+        "start": 533.279,
+        "end": 543.6,
+        "text": " Excuse me. Could you tell me where is it? Far from here.",
+        "textdich": ""
+    },
+    {
+        "start": 540.24,
+        "end": 546.16,
+        "text": "Just follow the signs.",
+        "textdich": ""
+    },
+    {
+        "start": 543.6,
+        "end": 548.959,
+        "text": "Straight ahead.",
+        "textdich": ""
+    },
+    {
+        "start": 546.16,
+        "end": 550.72,
+        "text": "On your right.",
+        "textdich": ""
+    },
+    {
+        "start": 548.959,
+        "end": 554.08,
+        "text": "On your left.",
+        "textdich": ""
+    },
+    {
+        "start": 550.72,
+        "end": 558.32,
+        "text": " Dialogue five. Currency exchange and SIM card counter.",
+        "textdich": ""
+    },
+    {
+        "start": 555.6,
+        "end": 560.399,
+        "text": " Excuse me. Where can I exchange money?",
+        "textdich": ""
+    },
+    {
+        "start": 558.32,
+        "end": 566.0,
+        "text": " The currency exchange counter is right over there next to the baggage claim exit.",
+        "textdich": ""
+    },
+    {
+        "start": 563.12,
+        "end": 573.44,
+        "text": " Thank you. Walks to counter. Hello. I'd like to exchange \u20ac300 into US.",
+        "textdich": ""
+    },
+    {
+        "start": 570.08,
+        "end": 577.76,
+        "text": " Of course. The exchange rate today is \u20ac1 to $15.",
+        "textdich": ""
+    },
+    {
+        "start": 575.92,
+        "end": 580.48,
+        "text": " Are there any fees?",
+        "textdich": ""
+    },
+    {
+        "start": 577.76,
+        "end": 582.72,
+        "text": " Yes, there's a $5 service fee.",
+        "textdich": ""
+    },
+    {
+        "start": 580.48,
+        "end": 586.48,
+        "text": " That's fine. Please go ahead.",
+        "textdich": ""
+    },
+    {
+        "start": 582.72,
+        "end": 591.24,
+        "text": " Here you are. $310 in cash. Please count it.",
+        "textdich": ""
+    },
+    {
+        "start": 587.44,
+        "end": 591.24,
+        "text": " Perfect. Thank you.",
+        "textdich": ""
+    },
+    {
+        "start": 591.44,
+        "end": 598.48,
+        "text": " Hello. I'd like to buy a SIM card for my phone.",
+        "textdich": ""
+    },
+    {
+        "start": 595.04,
+        "end": 602.64,
+        "text": " Sure. We have a 7-day plan and a 30-day plan. Which would you like?",
+        "textdich": ""
+    },
+    {
+        "start": 600.0,
+        "end": 606.88,
+        "text": " The 30-day plan, please. How much data does it include?",
+        "textdich": ""
+    },
+    {
+        "start": 604.08,
+        "end": 611.44,
+        "text": " It includes 10 GB of data, unlimited calls, and texts within the US.",
+        "textdich": ""
+    },
+    {
+        "start": 609.44,
+        "end": 612.64,
+        "text": " Great. How much is it?",
+        "textdich": ""
+    },
+    {
+        "start": 611.44,
+        "end": 614.56,
+        "text": " $35.",
+        "textdich": ""
+    },
+    {
+        "start": 612.64,
+        "end": 618.16,
+        "text": " Okay, I'll take it. Can you help me install it?",
+        "textdich": ""
+    },
+    {
+        "start": 615.519,
+        "end": 621.12,
+        "text": " Of course. Please give me your phone.",
+        "textdich": ""
+    },
+    {
+        "start": 618.16,
+        "end": 622.959,
+        "text": "Install SIM. Done. It's ready to use.",
+        "textdich": ""
+    },
+    {
+        "start": 621.12,
+        "end": 625.76,
+        "text": " Thank you very much.",
+        "textdich": ""
+    },
+    {
+        "start": 622.959,
+        "end": 628.64,
+        "text": " You're welcome. Enjoy your stay.",
+        "textdich": ""
+    },
+    {
+        "start": 625.76,
+        "end": 631.519,
+        "text": " Key phrases you learned today.",
+        "textdich": ""
+    },
+    {
+        "start": 628.64,
+        "end": 641.76,
+        "text": " Where can I exchange money? What's the exchange rate? Are there any fees? I'd like to buy a SIM card. How much data",
+        "textdich": ""
+    },
+    {
+        "start": 638.16,
+        "end": 645.92,
+        "text": "does it include? Closing for dialogues 1 through 5.",
+        "textdich": ""
+    },
+    {
+        "start": 643.519,
+        "end": 652.959,
+        "text": " Great job. You've now practiced the essential conversations for traveling by air. Answering questions at customs,",
+        "textdich": ""
+    },
+    {
+        "start": 650.8,
+        "end": 663.96,
+        "text": "requesting help from flight attendants, reporting missing luggage, asking for directions, and exchanging money or buying a SIM card.",
+        "textdich": ""
+    },
+    {
+        "start": 659.49,
+        "end": 670.16,
+        "text": "[Music]  Key phrases you learned in this unit.",
+        "textdich": ""
+    },
+    {
+        "start": 667.92,
+        "end": 676.8,
+        "text": "May I see your passport and customs form? Could I have some water, please?",
+        "textdich": ""
+    },
+    {
+        "start": 673.279,
+        "end": 682.959,
+        "text": "My suitcase hasn't arrived. Excuse me, could you tell me where what's the exchange rate?",
+        "textdich": ""
+    },
+    {
+        "start": 680.64,
+        "end": 690.0,
+        "text": " Keep practicing these phrases aloud until they feel natural. The more you repeat, the more confident you'll sound",
+        "textdich": ""
+    },
+    {
+        "start": 687.519,
+        "end": 698.899,
+        "text": "on your next trip. Follow us for the next lessons where we'll continue with more practical travel English.",
+        "textdich": ""
+    },
+    {
+        "start": 696.01,
+        "end": 698.899,
+        "text": "[Music]",
+        "textdich": ""
+    }
+]
