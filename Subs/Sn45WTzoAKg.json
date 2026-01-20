@@ -1,0 +1,776 @@
+[
+    {
+        "start": 0.4,
+        "end": 12.48,
+        "text": "[Music] Check in at the airport.",
+        "textdich": ""
+    },
+    {
+        "start": 8.88,
+        "end": 15.679,
+        "text": " Good morning. Where are you flying to?",
+        "textdich": ""
+    },
+    {
+        "start": 12.48,
+        "end": 19.119,
+        "text": " Good morning. I am flying to Rome today.",
+        "textdich": ""
+    },
+    {
+        "start": 15.679,
+        "end": 21.84,
+        "text": " May I see your passport, please?",
+        "textdich": ""
+    },
+    {
+        "start": 19.119,
+        "end": 24.0,
+        "text": " Yes, of course. Here you are.",
+        "textdich": ""
+    },
+    {
+        "start": 21.84,
+        "end": 26.96,
+        "text": " Thank you.",
+        "textdich": ""
+    },
+    {
+        "start": 24.0,
+        "end": 30.24,
+        "text": "Are you checking in any bags today?",
+        "textdich": ""
+    },
+    {
+        "start": 26.96,
+        "end": 33.92,
+        "text": " Yes, I have one suitcase to check in.",
+        "textdich": ""
+    },
+    {
+        "start": 30.24,
+        "end": 36.559,
+        "text": "Do you also have a carry-on bag?",
+        "textdich": ""
+    },
+    {
+        "start": 33.92,
+        "end": 40.32,
+        "text": " Yes, I have this small backpack.",
+        "textdich": ""
+    },
+    {
+        "start": 36.559,
+        "end": 43.84,
+        "text": " Please put your suitcase on the scale.",
+        "textdich": ""
+    },
+    {
+        "start": 40.32,
+        "end": 47.92,
+        "text": " Okay, I am putting it on now.",
+        "textdich": ""
+    },
+    {
+        "start": 43.84,
+        "end": 50.239,
+        "text": " Your bag is 19 kilos. That is fine.",
+        "textdich": ""
+    },
+    {
+        "start": 47.92,
+        "end": 51.92,
+        "text": " Great. Thank you.",
+        "textdich": ""
+    },
+    {
+        "start": 50.239,
+        "end": 56.64,
+        "text": " Would you like a window or an aisle seat?",
+        "textdich": ""
+    },
+    {
+        "start": 53.44,
+        "end": 60.719,
+        "text": " I would like a window seat, please.",
+        "textdich": ""
+    },
+    {
+        "start": 56.64,
+        "end": 63.44,
+        "text": " No problem. Here is your boarding pass.",
+        "textdich": ""
+    },
+    {
+        "start": 60.719,
+        "end": 66.96,
+        "text": " Thank you very much for your help.",
+        "textdich": ""
+    },
+    {
+        "start": 63.44,
+        "end": 70.159,
+        "text": " Your gate is number 15.",
+        "textdich": ""
+    },
+    {
+        "start": 66.96,
+        "end": 75.119,
+        "text": "Boarding starts at 11:00 a.m. Don't be late.",
+        "textdich": ""
+    },
+    {
+        "start": 72.32,
+        "end": 79.04,
+        "text": " I will be on time.",
+        "textdich": ""
+    },
+    {
+        "start": 75.119,
+        "end": 81.28,
+        "text": " Asking for directions at the airport.",
+        "textdich": ""
+    },
+    {
+        "start": 79.04,
+        "end": 87.04,
+        "text": "Excuse me. Where is the check-in counter?",
+        "textdich": ""
+    },
+    {
+        "start": 83.36,
+        "end": 90.159,
+        "text": " It is over there on the right.",
+        "textdich": ""
+    },
+    {
+        "start": 87.04,
+        "end": 93.68,
+        "text": "Can you help me, please?",
+        "textdich": ""
+    },
+    {
+        "start": 90.159,
+        "end": 96.64,
+        "text": " Yes, of course. What do you need?",
+        "textdich": ""
+    },
+    {
+        "start": 93.68,
+        "end": 99.68,
+        "text": " Where can I find the departures board?",
+        "textdich": ""
+    },
+    {
+        "start": 96.64,
+        "end": 103.28,
+        "text": " The departures board is behind you.",
+        "textdich": ""
+    },
+    {
+        "start": 99.68,
+        "end": 104.96,
+        "text": " Oh, I see it now. Thank you.",
+        "textdich": ""
+    },
+    {
+        "start": 103.28,
+        "end": 108.72,
+        "text": " You're welcome.",
+        "textdich": ""
+    },
+    {
+        "start": 104.96,
+        "end": 112.079,
+        "text": " Is my flight to Berlin on time?",
+        "textdich": ""
+    },
+    {
+        "start": 108.72,
+        "end": 116.0,
+        "text": " Yes, your flight is not delayed.",
+        "textdich": ""
+    },
+    {
+        "start": 112.079,
+        "end": 120.0,
+        "text": " Do you know where Gator 7 is?",
+        "textdich": ""
+    },
+    {
+        "start": 116.0,
+        "end": 123.28,
+        "text": "Yes. Go straight and then turn left.",
+        "textdich": ""
+    },
+    {
+        "start": 120.0,
+        "end": 126.96,
+        "text": " Can I check in my luggage here?",
+        "textdich": ""
+    },
+    {
+        "start": 123.28,
+        "end": 130.16,
+        "text": " Yes, this is the right place.",
+        "textdich": ""
+    },
+    {
+        "start": 126.96,
+        "end": 133.36,
+        "text": " How long does security take?",
+        "textdich": ""
+    },
+    {
+        "start": 130.16,
+        "end": 135.84,
+        "text": " Around 15 minutes.",
+        "textdich": ""
+    },
+    {
+        "start": 133.36,
+        "end": 138.48,
+        "text": " At security check.",
+        "textdich": ""
+    },
+    {
+        "start": 135.84,
+        "end": 141.12,
+        "text": "Do I need to take off my watch?",
+        "textdich": ""
+    },
+    {
+        "start": 138.48,
+        "end": 144.0,
+        "text": " Yes, please put it in the tray.",
+        "textdich": ""
+    },
+    {
+        "start": 141.12,
+        "end": 146.879,
+        "text": " Can I keep my jacket on?",
+        "textdich": ""
+    },
+    {
+        "start": 144.0,
+        "end": 150.319,
+        "text": "No, please take your jacket off.",
+        "textdich": ""
+    },
+    {
+        "start": 146.879,
+        "end": 153.2,
+        "text": " Do I take my laptop out of the bag?",
+        "textdich": ""
+    },
+    {
+        "start": 150.319,
+        "end": 156.48,
+        "text": " Yes, you need to take it out.",
+        "textdich": ""
+    },
+    {
+        "start": 153.2,
+        "end": 159.519,
+        "text": " What about liquids like water?",
+        "textdich": ""
+    },
+    {
+        "start": 156.48,
+        "end": 162.239,
+        "text": " You cannot take that water with you.",
+        "textdich": ""
+    },
+    {
+        "start": 159.519,
+        "end": 164.879,
+        "text": " Are snacks allowed?",
+        "textdich": ""
+    },
+    {
+        "start": 162.239,
+        "end": 167.76,
+        "text": " Yes, but only small amounts.",
+        "textdich": ""
+    },
+    {
+        "start": 164.879,
+        "end": 170.8,
+        "text": " Can I keep my belt on?",
+        "textdich": ""
+    },
+    {
+        "start": 167.76,
+        "end": 173.68,
+        "text": " No, please remove your belt.",
+        "textdich": ""
+    },
+    {
+        "start": 170.8,
+        "end": 176.4,
+        "text": " Do I walk through here?",
+        "textdich": ""
+    },
+    {
+        "start": 173.68,
+        "end": 181.12,
+        "text": "Yes, please walk through the scanner now.",
+        "textdich": ""
+    },
+    {
+        "start": 177.84,
+        "end": 184.56,
+        "text": " Do I need to take off my shoes?",
+        "textdich": ""
+    },
+    {
+        "start": 181.12,
+        "end": 187.599,
+        "text": " Yes, you must remove your shoes.",
+        "textdich": ""
+    },
+    {
+        "start": 184.56,
+        "end": 190.08,
+        "text": " Can I keep my phone in my pocket?",
+        "textdich": ""
+    },
+    {
+        "start": 187.599,
+        "end": 193.68,
+        "text": " No, please take your phone out and place it in the tray.",
+        "textdich": ""
+    },
+    {
+        "start": 192.0,
+        "end": 197.599,
+        "text": " Do I need to show my boarding pass again?",
+        "textdich": ""
+    },
+    {
+        "start": 195.2,
+        "end": 203.12,
+        "text": " Yes, keep your boarding pass ready to show.",
+        "textdich": ""
+    },
+    {
+        "start": 199.44,
+        "end": 206.48,
+        "text": " What about coins or keys in my pocket?",
+        "textdich": ""
+    },
+    {
+        "start": 203.12,
+        "end": 209.599,
+        "text": "Please empty your pockets into the tray.",
+        "textdich": ""
+    },
+    {
+        "start": 206.48,
+        "end": 212.959,
+        "text": " Can I carry medicines with me?",
+        "textdich": ""
+    },
+    {
+        "start": 209.599,
+        "end": 222.56,
+        "text": " Yes, medicines are allowed, but keep them in their original packaging  before boarding.",
+        "textdich": ""
+    },
+    {
+        "start": 218.799,
+        "end": 226.239,
+        "text": "Is this the right queue for London?",
+        "textdich": ""
+    },
+    {
+        "start": 222.56,
+        "end": 228.879,
+        "text": " Yes, you are in the correct line.",
+        "textdich": ""
+    },
+    {
+        "start": 226.239,
+        "end": 231.76,
+        "text": " What time is it now?",
+        "textdich": ""
+    },
+    {
+        "start": 228.879,
+        "end": 234.959,
+        "text": " It is 10:00 in the morning.",
+        "textdich": ""
+    },
+    {
+        "start": 231.76,
+        "end": 238.08,
+        "text": "How many bags can I take?",
+        "textdich": ""
+    },
+    {
+        "start": 234.959,
+        "end": 242.159,
+        "text": " You can check in two bags.",
+        "textdich": ""
+    },
+    {
+        "start": 238.08,
+        "end": 245.599,
+        "text": " Is this bag okay for carry-on?",
+        "textdich": ""
+    },
+    {
+        "start": 242.159,
+        "end": 248.56,
+        "text": " Yes, that bag is a good size.",
+        "textdich": ""
+    },
+    {
+        "start": 245.599,
+        "end": 251.2,
+        "text": " Where are the toilets, please?",
+        "textdich": ""
+    },
+    {
+        "start": 248.56,
+        "end": 254.4,
+        "text": " They are just around the corner.",
+        "textdich": ""
+    },
+    {
+        "start": 251.2,
+        "end": 258.88,
+        "text": " Can I get a coffee somewhere?",
+        "textdich": ""
+    },
+    {
+        "start": 254.4,
+        "end": 262.0,
+        "text": " Yes, there is a cafe near gate 5.",
+        "textdich": ""
+    },
+    {
+        "start": 258.88,
+        "end": 267.04,
+        "text": "Is there free Wi-Fi here?",
+        "textdich": ""
+    },
+    {
+        "start": 262.0,
+        "end": 269.84,
+        "text": " Yes, connect to airport free Wi-Fi.",
+        "textdich": ""
+    },
+    {
+        "start": 267.04,
+        "end": 271.759,
+        "text": " How long until boarding?",
+        "textdich": ""
+    },
+    {
+        "start": 269.84,
+        "end": 274.96,
+        "text": " About 30 minutes.",
+        "textdich": ""
+    },
+    {
+        "start": 271.759,
+        "end": 278.32,
+        "text": " What gate is my flight boarding from?",
+        "textdich": ""
+    },
+    {
+        "start": 274.96,
+        "end": 280.96,
+        "text": " Your flight is boarding from gate 12.",
+        "textdich": ""
+    },
+    {
+        "start": 278.32,
+        "end": 284.24,
+        "text": " Is the flight on time?",
+        "textdich": ""
+    },
+    {
+        "start": 280.96,
+        "end": 287.28,
+        "text": " Yes, the flight is on schedule.",
+        "textdich": ""
+    },
+    {
+        "start": 284.24,
+        "end": 290.88,
+        "text": " Can I sit and wait nearby?",
+        "textdich": ""
+    },
+    {
+        "start": 287.28,
+        "end": 294.479,
+        "text": "Yes, there are seats near the gate.",
+        "textdich": ""
+    },
+    {
+        "start": 290.88,
+        "end": 296.72,
+        "text": " Do I need to keep my passport ready?",
+        "textdich": ""
+    },
+    {
+        "start": 294.479,
+        "end": 302.16,
+        "text": " Yes, please keep your passport and boarding pass ready.",
+        "textdich": ""
+    },
+    {
+        "start": 299.6,
+        "end": 307.12,
+        "text": " Waiting for the flight. Talking to a friend.",
+        "textdich": ""
+    },
+    {
+        "start": 304.8,
+        "end": 310.8,
+        "text": "Where is our gate?",
+        "textdich": ""
+    },
+    {
+        "start": 307.12,
+        "end": 313.759,
+        "text": " Our gate is B12.",
+        "textdich": ""
+    },
+    {
+        "start": 310.8,
+        "end": 317.199,
+        "text": " Is it far from here?",
+        "textdich": ""
+    },
+    {
+        "start": 313.759,
+        "end": 320.4,
+        "text": "No, it is a 5-minute walk.",
+        "textdich": ""
+    },
+    {
+        "start": 317.199,
+        "end": 324.24,
+        "text": " Let's look at the screen again.",
+        "textdich": ""
+    },
+    {
+        "start": 320.4,
+        "end": 327.199,
+        "text": " Good idea. I want to check the time.",
+        "textdich": ""
+    },
+    {
+        "start": 324.24,
+        "end": 330.4,
+        "text": " What time does the flight board?",
+        "textdich": ""
+    },
+    {
+        "start": 327.199,
+        "end": 334.24,
+        "text": " It boards at 11:30 a.m.",
+        "textdich": ""
+    },
+    {
+        "start": 330.4,
+        "end": 337.28,
+        "text": " Do we have time for a snack?",
+        "textdich": ""
+    },
+    {
+        "start": 334.24,
+        "end": 340.479,
+        "text": " Yes, we have about 20 minutes.",
+        "textdich": ""
+    },
+    {
+        "start": 337.28,
+        "end": 343.36,
+        "text": " I need to find my boarding pass.",
+        "textdich": ""
+    },
+    {
+        "start": 340.479,
+        "end": 346.24,
+        "text": " It is in your jacket pocket.",
+        "textdich": ""
+    },
+    {
+        "start": 343.36,
+        "end": 349.199,
+        "text": "Do we sit together?",
+        "textdich": ""
+    },
+    {
+        "start": 346.24,
+        "end": 352.0,
+        "text": " Yes, we have seats together.",
+        "textdich": ""
+    },
+    {
+        "start": 349.199,
+        "end": 355.68,
+        "text": " Is our flight on time?",
+        "textdich": ""
+    },
+    {
+        "start": 352.0,
+        "end": 359.52,
+        "text": " Yes, the flight is on schedule.",
+        "textdich": ""
+    },
+    {
+        "start": 355.68,
+        "end": 363.039,
+        "text": " Do we need to go through security again?",
+        "textdich": ""
+    },
+    {
+        "start": 359.52,
+        "end": 367.28,
+        "text": " No, we already passed security.",
+        "textdich": ""
+    },
+    {
+        "start": 363.039,
+        "end": 369.039,
+        "text": " Should we line up early for boarding?",
+        "textdich": ""
+    },
+    {
+        "start": 367.28,
+        "end": 373.919,
+        "text": "No, we can wait until our group is called.",
+        "textdich": ""
+    },
+    {
+        "start": 371.68,
+        "end": 376.72,
+        "text": " Boarding the plane.",
+        "textdich": ""
+    },
+    {
+        "start": 373.919,
+        "end": 379.28,
+        "text": " Can I see your boarding pass?",
+        "textdich": ""
+    },
+    {
+        "start": 376.72,
+        "end": 381.84,
+        "text": " Yes, here it is.",
+        "textdich": ""
+    },
+    {
+        "start": 379.28,
+        "end": 385.44,
+        "text": " What is your seat number?",
+        "textdich": ""
+    },
+    {
+        "start": 381.84,
+        "end": 387.12,
+        "text": " My seat number is 24A.",
+        "textdich": ""
+    },
+    {
+        "start": 385.44,
+        "end": 393.28,
+        "text": "Is this the gate for the flight to Madrid?",
+        "textdich": ""
+    },
+    {
+        "start": 389.6,
+        "end": 396.479,
+        "text": " Yes, you are in the right place.",
+        "textdich": ""
+    },
+    {
+        "start": 393.28,
+        "end": 399.68,
+        "text": " Is the flight delayed?",
+        "textdich": ""
+    },
+    {
+        "start": 396.479,
+        "end": 402.88,
+        "text": "No, it looks like it's on time.",
+        "textdich": ""
+    },
+    {
+        "start": 399.68,
+        "end": 406.56,
+        "text": " Can I charge my phone here?",
+        "textdich": ""
+    },
+    {
+        "start": 402.88,
+        "end": 410.0,
+        "text": " Yes, there are some outlets over there.",
+        "textdich": ""
+    },
+    {
+        "start": 406.56,
+        "end": 412.88,
+        "text": " How long is the flight to Madrid?",
+        "textdich": ""
+    },
+    {
+        "start": 410.0,
+        "end": 415.44,
+        "text": " Please keep your passport ready.",
+        "textdich": ""
+    },
+    {
+        "start": 412.88,
+        "end": 418.4,
+        "text": "Do you have any hand luggage?",
+        "textdich": ""
+    },
+    {
+        "start": 415.44,
+        "end": 421.44,
+        "text": " Yes, I have it in my hand.",
+        "textdich": ""
+    },
+    {
+        "start": 418.4,
+        "end": 424.4,
+        "text": "Which boarding group am I in?",
+        "textdich": ""
+    },
+    {
+        "start": 421.44,
+        "end": 427.44,
+        "text": " Boarding will begin in about 10 minutes.",
+        "textdich": ""
+    },
+    {
+        "start": 424.4,
+        "end": 429.759,
+        "text": "Okay, you can board now.",
+        "textdich": ""
+    },
+    {
+        "start": 427.44,
+        "end": 440.4,
+        "text": " Thank you for your help. Great job following our English lesson today. You did amazing listening, reading, and practicing conversations.",
+        "textdich": ""
+    },
+    {
+        "start": 437.44,
+        "end": 448.639,
+        "text": "Remember, every day you practice, you grow stronger in English. The more you speak, the more confident you become.",
+        "textdich": ""
+    },
+    {
+        "start": 446.16,
+        "end": 456.56,
+        "text": "Don't forget to like, share, and subscribe to our channel. Your support helps us create more fun and easy lessons for you.",
+        "textdich": ""
+    }
+]
