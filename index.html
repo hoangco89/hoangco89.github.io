@@ -336,7 +336,7 @@ h4{
           voiceSelect.appendChild(opt);
         });
         for (let opt of voiceSelect.options) {
-          if (opt.value.includes("An") || opt.value.includes("Linh")) {
+          if (opt.textContent.includes("vi-VN") && (opt.value.includes("An") || opt.value.includes("Linh"))) {
             voiceSelect.value = opt.value;   // chọn option đó
             break;                      // dừng lại ngay
           }
