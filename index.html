@@ -94,7 +94,7 @@ h4{
     #currentSubtitle{
     text-align: right;
     font-size: 1.2rem;
-    height:6rem;
+    height:2rem;
     color: darkgreen;
     overflow-y: auto;
     }
@@ -103,7 +103,7 @@ h4{
     text-align: left;
     color: darkblue;
     font-size: 1.4rem;
-    height:7rem;
+    height:3rem;
     margin-left:10px;
     font-style: italic;
     overflow-y: auto;
@@ -123,10 +123,34 @@ h4{
     .outiframe{
     margin-bottom:100%;
     }
-  </style>
+
+.page-wrapper {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden; /* body không cuộn, chỉ content cuộn */
+}
+
+/* Header giữ nguyên style cũ của bạn */
+.header {
+    flex: 0 0 auto;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background: inherit; /* giữ gradient */
+}
+
+/* Content cuộn độc lập */
+.content {
+    flex: 1 1 auto;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch; /* mượt trên iPhone */
+}
+</style>
 </head>
 
 <body>
+<div class="page-wrapper">
   <div class="header">
 
     <div class="video-container">
@@ -144,8 +168,8 @@ h4{
     </div>
     <hr>
   </div>
-  <div class="content">
 
+  <div class="content">
     <div class='outiframe'>
       <br>
       <div id="currentSubtitle">[source subtitles]</div>
@@ -157,6 +181,7 @@ h4{
       <div id="videochon_http"></div>
       <hr>
 
+
       <h4>1. Driving lesson videos:</h4>
       <select id="videoSelect_1"></select>
       <h4>2. US history videos:</h4>
@@ -165,10 +190,11 @@ h4{
       <select id="videoSelect_3"></select>
       <h4>4. English learning videos:</h4>
       <select id="videoSelect_4"></select><br><br>
-      <h4><a href="https://tien89.streamlit.app" style="background: transparent;text-align: center; ">.</a></h4>
-
+      <!--<h4><a href="https://tien89.streamlit.app" style="background: transparent;text-align: center; ">.</a></h4>-->
+      <h4><a href="z.py" style="background: transparent;text-align: center; ">.</a></h4>
     </div>
-
+  </div>
+</div>
     <!-- YouTube API -->
     <script src="https://www.youtube.com/iframe_api"></script>
 
