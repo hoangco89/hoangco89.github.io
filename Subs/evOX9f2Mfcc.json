@@ -1,0 +1,1046 @@
+[
+    {
+        "start": 7.0,
+        "end": 10.0,
+        "text": "stop",
+        "textdich": ""
+    },
+    {
+        "start": 12.559,
+        "end": 17.48,
+        "text": "stop stop",
+        "textdich": ""
+    },
+    {
+        "start": 22.48,
+        "end": 29.16,
+        "text": "stop Slow Down slow down",
+        "textdich": ""
+    },
+    {
+        "start": 31.0,
+        "end": 35.64,
+        "text": "Slow Down slow",
+        "textdich": ""
+    },
+    {
+        "start": 40.12,
+        "end": 45.079,
+        "text": "down giveway",
+        "textdich": ""
+    },
+    {
+        "start": 47.68,
+        "end": 52.6,
+        "text": "giveway giveway",
+        "textdich": ""
+    },
+    {
+        "start": 57.8,
+        "end": 63.6,
+        "text": "giveway slippery Road slippery",
+        "textdich": ""
+    },
+    {
+        "start": 66.28,
+        "end": 72.08,
+        "text": "Road slippery Road slippery",
+        "textdich": ""
+    },
+    {
+        "start": 75.759,
+        "end": 81.4,
+        "text": "Road no entry no",
+        "textdich": ""
+    },
+    {
+        "start": 84.479,
+        "end": 91.119,
+        "text": "entry no entry no entry",
+        "textdich": ""
+    },
+    {
+        "start": 95.399,
+        "end": 99.96,
+        "text": "no parking no",
+        "textdich": ""
+    },
+    {
+        "start": 103.119,
+        "end": 108.64,
+        "text": "parking no parking no",
+        "textdich": ""
+    },
+    {
+        "start": 113.079,
+        "end": 119.84,
+        "text": "parking Falling Rocks Falling Rocks",
+        "textdich": ""
+    },
+    {
+        "start": 122.799,
+        "end": 127.56,
+        "text": "Falling Rocks Falling",
+        "textdich": ""
+    },
+    {
+        "start": 131.8,
+        "end": 137.36,
+        "text": "Rocks no overtaking no",
+        "textdich": ""
+    },
+    {
+        "start": 140.519,
+        "end": 147.12,
+        "text": "overtaking no overtaking no overtaking",
+        "textdich": ""
+    },
+    {
+        "start": 151.519,
+        "end": 157.04,
+        "text": "no vehicle entry no vehicle",
+        "textdich": ""
+    },
+    {
+        "start": 159.239,
+        "end": 165.76,
+        "text": "entry no vehicle entry no vehicle",
+        "textdich": ""
+    },
+    {
+        "start": 170.2,
+        "end": 177.12,
+        "text": "entry no motorcycles no motorcycles",
+        "textdich": ""
+    },
+    {
+        "start": 180.4,
+        "end": 185.36,
+        "text": "no motorcycles no",
+        "textdich": ""
+    },
+    {
+        "start": 189.879,
+        "end": 195.64,
+        "text": "motorcycles no bicycles no",
+        "textdich": ""
+    },
+    {
+        "start": 199.12,
+        "end": 205.879,
+        "text": "bicycles no bicycles no bicycles",
+        "textdich": ""
+    },
+    {
+        "start": 210.519,
+        "end": 216.36,
+        "text": "no heavy Goods Vehicles no heavy Goods",
+        "textdich": ""
+    },
+    {
+        "start": 218.72,
+        "end": 225.599,
+        "text": "Vehicles no heavy Goods Vehicles no heavy Goods",
+        "textdich": ""
+    },
+    {
+        "start": 229.2,
+        "end": 234.76,
+        "text": "Vehicles No Buses No",
+        "textdich": ""
+    },
+    {
+        "start": 238.4,
+        "end": 243.959,
+        "text": "Buses no buses No",
+        "textdich": ""
+    },
+    {
+        "start": 247.48,
+        "end": 253.36,
+        "text": "Buses no pedestrians no",
+        "textdich": ""
+    },
+    {
+        "start": 256.72,
+        "end": 262.56,
+        "text": "pedestrians no pedestrians no",
+        "textdich": ""
+    },
+    {
+        "start": 267.16,
+        "end": 273.52,
+        "text": "pedestrians pedestrian Crossing pedestrian",
+        "textdich": ""
+    },
+    {
+        "start": 276.36,
+        "end": 282.72,
+        "text": "Crossing pedestrian Crossing pedestrian",
+        "textdich": ""
+    },
+    {
+        "start": 286.8,
+        "end": 292.759,
+        "text": "Crossing children Crossing children",
+        "textdich": ""
+    },
+    {
+        "start": 296.0,
+        "end": 301.639,
+        "text": "Crossing children Crossing children",
+        "textdich": ""
+    },
+    {
+        "start": 306.68,
+        "end": 312.4,
+        "text": "crossing school crossing school",
+        "textdich": ""
+    },
+    {
+        "start": 315.759,
+        "end": 321.6,
+        "text": "crossing school crossing school",
+        "textdich": ""
+    },
+    {
+        "start": 325.88,
+        "end": 332.12,
+        "text": "crossing no Straight Ahead no Straight",
+        "textdich": ""
+    },
+    {
+        "start": 335.08,
+        "end": 341.28,
+        "text": "Ahead no Straight Ahead no Straight",
+        "textdich": ""
+    },
+    {
+        "start": 345.68,
+        "end": 351.96,
+        "text": "Ahead left turn ahead left turn",
+        "textdich": ""
+    },
+    {
+        "start": 354.88,
+        "end": 361.639,
+        "text": "ahead left turn ahead left turn ahead",
+        "textdich": ""
+    },
+    {
+        "start": 366.28,
+        "end": 371.44,
+        "text": "right turn ahead right turn",
+        "textdich": ""
+    },
+    {
+        "start": 374.599,
+        "end": 380.639,
+        "text": "ahead right turn ahead right turn",
+        "textdich": ""
+    },
+    {
+        "start": 384.96,
+        "end": 391.56,
+        "text": "ahead no right turn no right turn",
+        "textdich": ""
+    },
+    {
+        "start": 395.16,
+        "end": 400.24,
+        "text": "no right turn no right",
+        "textdich": ""
+    },
+    {
+        "start": 404.68,
+        "end": 410.68,
+        "text": "turn no left turn no left",
+        "textdich": ""
+    },
+    {
+        "start": 413.84,
+        "end": 420.919,
+        "text": "turn no left turn no left turn",
+        "textdich": ""
+    },
+    {
+        "start": 425.319,
+        "end": 430.24,
+        "text": "you turn ahead you turn",
+        "textdich": ""
+    },
+    {
+        "start": 433.56,
+        "end": 439.44,
+        "text": "ahead you turn ahead you turn",
+        "textdich": ""
+    },
+    {
+        "start": 444.0,
+        "end": 450.84,
+        "text": "ahead no you turn no you turn",
+        "textdich": ""
+    },
+    {
+        "start": 454.199,
+        "end": 459.039,
+        "text": "no you turn no you",
+        "textdich": ""
+    },
+    {
+        "start": 463.759,
+        "end": 470.039,
+        "text": "turn no left or U turn no left or",
+        "textdich": ""
+    },
+    {
+        "start": 472.96,
+        "end": 480.28,
+        "text": "urn no left or urn no left or uturn",
+        "textdich": ""
+    },
+    {
+        "start": 484.44,
+        "end": 488.879,
+        "text": "no horn no",
+        "textdich": ""
+    },
+    {
+        "start": 492.639,
+        "end": 498.12,
+        "text": "horn no horn no",
+        "textdich": ""
+    },
+    {
+        "start": 503.199,
+        "end": 509.84,
+        "text": "horn speed limit speed limit",
+        "textdich": ""
+    },
+    {
+        "start": 513.44,
+        "end": 518.039,
+        "text": "speed limit speed",
+        "textdich": ""
+    },
+    {
+        "start": 522.76,
+        "end": 529.279,
+        "text": "limit end of speed limit end of speed",
+        "textdich": ""
+    },
+    {
+        "start": 532.0,
+        "end": 539.519,
+        "text": "limit end of speed limit end of speed limit",
+        "textdich": ""
+    },
+    {
+        "start": 543.48,
+        "end": 547.959,
+        "text": "no stopping no",
+        "textdich": ""
+    },
+    {
+        "start": 551.68,
+        "end": 557.12,
+        "text": "stopping no stopping no",
+        "textdich": ""
+    },
+    {
+        "start": 562.24,
+        "end": 568.56,
+        "text": "stopping no waiting no waiting",
+        "textdich": ""
+    },
+    {
+        "start": 572.399,
+        "end": 576.76,
+        "text": "no waiting no",
+        "textdich": ""
+    },
+    {
+        "start": 581.8,
+        "end": 587.2,
+        "text": "waiting turn left turn",
+        "textdich": ""
+    },
+    {
+        "start": 591.0,
+        "end": 597.48,
+        "text": "left turn left turn left",
+        "textdich": ""
+    },
+    {
+        "start": 602.519,
+        "end": 607.079,
+        "text": "turn right turn",
+        "textdich": ""
+    },
+    {
+        "start": 610.76,
+        "end": 616.279,
+        "text": "right turn right turn",
+        "textdich": ""
+    },
+    {
+        "start": 621.24,
+        "end": 628.44,
+        "text": "right roundabout ahead roundabout ahead",
+        "textdich": ""
+    },
+    {
+        "start": 631.44,
+        "end": 636.64,
+        "text": "roundabout ahead roundabout",
+        "textdich": ""
+    },
+    {
+        "start": 640.92,
+        "end": 646.8,
+        "text": "ahead buses only buses",
+        "textdich": ""
+    },
+    {
+        "start": 650.16,
+        "end": 657.04,
+        "text": "only buses only buses only",
+        "textdich": ""
+    },
+    {
+        "start": 661.56,
+        "end": 666.76,
+        "text": "bicycles only bicycles",
+        "textdich": ""
+    },
+    {
+        "start": 669.8,
+        "end": 676.0,
+        "text": "only bicycles only bicycles",
+        "textdich": ""
+    },
+    {
+        "start": 680.32,
+        "end": 687.6,
+        "text": "only no motor vehicles no motor vehicles",
+        "textdich": ""
+    },
+    {
+        "start": 690.519,
+        "end": 695.839,
+        "text": "no motor vehicles no motor",
+        "textdich": ""
+    },
+    {
+        "start": 700.04,
+        "end": 706.6,
+        "text": "vehicles traffic signals ahead traffic signals",
+        "textdich": ""
+    },
+    {
+        "start": 709.24,
+        "end": 716.8,
+        "text": "ahead traffic signals ahead traffic signals ahead",
+        "textdich": ""
+    },
+    {
+        "start": 720.639,
+        "end": 725.279,
+        "text": "road work road",
+        "textdich": ""
+    },
+    {
+        "start": 728.88,
+        "end": 734.48,
+        "text": "work road work road",
+        "textdich": ""
+    },
+    {
+        "start": 739.399,
+        "end": 745.959,
+        "text": "work side wind side wind",
+        "textdich": ""
+    },
+    {
+        "start": 749.56,
+        "end": 754.199,
+        "text": "side wind side",
+        "textdich": ""
+    },
+    {
+        "start": 758.959,
+        "end": 764.72,
+        "text": "wind tunnel ahead tunnel",
+        "textdich": ""
+    },
+    {
+        "start": 768.199,
+        "end": 774.92,
+        "text": "ahead tunnel ahead tunnel ahead",
+        "textdich": ""
+    },
+    {
+        "start": 779.68,
+        "end": 784.16,
+        "text": "curve ahead curve",
+        "textdich": ""
+    },
+    {
+        "start": 787.92,
+        "end": 793.36,
+        "text": "ahead curve ahead curve",
+        "textdich": ""
+    },
+    {
+        "start": 798.399,
+        "end": 804.76,
+        "text": "ahead winding road ahead winding road",
+        "textdich": ""
+    },
+    {
+        "start": 807.6,
+        "end": 814.04,
+        "text": "ahead winding road ahead winding road",
+        "textdich": ""
+    },
+    {
+        "start": 818.079,
+        "end": 823.639,
+        "text": "ahead double Bend double",
+        "textdich": ""
+    },
+    {
+        "start": 827.32,
+        "end": 832.88,
+        "text": "Bend double Bend double",
+        "textdich": ""
+    },
+    {
+        "start": 837.68,
+        "end": 843.24,
+        "text": "Bend no trucks no",
+        "textdich": ""
+    },
+    {
+        "start": 846.959,
+        "end": 852.44,
+        "text": "trucks no trucks no",
+        "textdich": ""
+    },
+    {
+        "start": 857.48,
+        "end": 863.88,
+        "text": "trucks no overtaking trucks no overtaking",
+        "textdich": ""
+    },
+    {
+        "start": 866.68,
+        "end": 873.12,
+        "text": "trucks no overtaking truck no overtaking",
+        "textdich": ""
+    },
+    {
+        "start": 877.199,
+        "end": 882.24,
+        "text": "trucks Crossroads",
+        "textdich": ""
+    },
+    {
+        "start": 886.399,
+        "end": 891.44,
+        "text": "Crossroads Crossroads",
+        "textdich": ""
+    },
+    {
+        "start": 896.959,
+        "end": 902.839,
+        "text": "Crossroads wild animals wild",
+        "textdich": ""
+    },
+    {
+        "start": 906.199,
+        "end": 912.079,
+        "text": "animals wild animals wild",
+        "textdich": ""
+    },
+    {
+        "start": 916.519,
+        "end": 923.079,
+        "text": "animals keyside or river bank keyside or river",
+        "textdich": ""
+    },
+    {
+        "start": 925.72,
+        "end": 932.279,
+        "text": "bank keyside or river bank heide or River",
+        "textdich": ""
+    },
+    {
+        "start": 936.24,
+        "end": 942.0,
+        "text": "Bank Road Narrows Road",
+        "textdich": ""
+    },
+    {
+        "start": 945.44,
+        "end": 951.199,
+        "text": "Narrows Road Narrows Road",
+        "textdich": ""
+    },
+    {
+        "start": 955.88,
+        "end": 961.639,
+        "text": "Narrows narrow bridge narrow",
+        "textdich": ""
+    },
+    {
+        "start": 965.079,
+        "end": 970.839,
+        "text": "bridge narrow bridge narrow",
+        "textdich": ""
+    },
+    {
+        "start": 975.6,
+        "end": 981.72,
+        "text": "bridge divided highway divided",
+        "textdich": ""
+    },
+    {
+        "start": 984.839,
+        "end": 990.92,
+        "text": "highway divided highway divided High",
+        "textdich": ""
+    },
+    {
+        "start": 995.319,
+        "end": 1000.16,
+        "text": "Highway hump",
+        "textdich": ""
+    },
+    {
+        "start": 1004.519,
+        "end": 1009.36,
+        "text": "hump hump",
+        "textdich": ""
+    },
+    {
+        "start": 1014.959,
+        "end": 1020.839,
+        "text": "hump uneven Road uneven",
+        "textdich": ""
+    },
+    {
+        "start": 1024.16,
+        "end": 1030.12,
+        "text": "Road uneven Road uneven",
+        "textdich": ""
+    },
+    {
+        "start": 1034.64,
+        "end": 1039.48,
+        "text": "Road yield",
+        "textdich": ""
+    },
+    {
+        "start": 1043.88,
+        "end": 1049.72,
+        "text": "yield yield yield",
+        "textdich": ""
+    },
+    {
+        "start": 1055.44,
+        "end": 1060.0,
+        "text": "side road side",
+        "textdich": ""
+    },
+    {
+        "start": 1063.6,
+        "end": 1069.2,
+        "text": "road side road side",
+        "textdich": ""
+    },
+    {
+        "start": 1074.12,
+        "end": 1080.84,
+        "text": "road snow ahead snow ahead",
+        "textdich": ""
+    },
+    {
+        "start": 1084.32,
+        "end": 1089.24,
+        "text": "snow ahead snow",
+        "textdich": ""
+    },
+    {
+        "start": 1093.799,
+        "end": 1100.12,
+        "text": "ahead snow chains required snow chains",
+        "textdich": ""
+    },
+    {
+        "start": 1102.96,
+        "end": 1110.32,
+        "text": "required snow chains required snow chains required",
+        "textdich": ""
+    },
+    {
+        "start": 1114.4,
+        "end": 1119.32,
+        "text": "Dead End Street Dead End",
+        "textdich": ""
+    },
+    {
+        "start": 1122.64,
+        "end": 1128.52,
+        "text": "Street Dead End Street Dead End",
+        "textdich": ""
+    },
+    {
+        "start": 1133.08,
+        "end": 1140.72,
+        "text": "Street traffic cues likely ahead traffic cues likely ahead",
+        "textdich": ""
+    },
+    {
+        "start": 1143.32,
+        "end": 1149.36,
+        "text": "traffic cues likely ahead traffic cues likely",
+        "textdich": ""
+    },
+    {
+        "start": 1152.72,
+        "end": 1159.0,
+        "text": "ahead pass either side pass either",
+        "textdich": ""
+    },
+    {
+        "start": 1162.0,
+        "end": 1169.2,
+        "text": "side pass either side pass either side",
+        "textdich": ""
+    },
+    {
+        "start": 1173.36,
+        "end": 1178.44,
+        "text": "oneway traffic oneway",
+        "textdich": ""
+    },
+    {
+        "start": 1181.6,
+        "end": 1187.72,
+        "text": "traffic one-way traffic oneway",
+        "textdich": ""
+    },
+    {
+        "start": 1192.039,
+        "end": 1199.72,
+        "text": "traffic two-way Traffic Ahead two-way traffic ahead",
+        "textdich": ""
+    },
+    {
+        "start": 1202.28,
+        "end": 1207.919,
+        "text": "two-way Traffic Ahead two-way Traffic",
+        "textdich": ""
+    },
+    {
+        "start": 1211.799,
+        "end": 1217.6,
+        "text": "Ahead steep descent steep",
+        "textdich": ""
+    },
+    {
+        "start": 1221.0,
+        "end": 1227.84,
+        "text": "descent steep desent steep descent",
+        "textdich": ""
+    },
+    {
+        "start": 1232.44,
+        "end": 1237.2,
+        "text": "steep Ascent steep",
+        "textdich": ""
+    },
+    {
+        "start": 1240.679,
+        "end": 1246.4,
+        "text": "Ascent steep Ascent steep",
+        "textdich": ""
+    },
+    {
+        "start": 1251.159,
+        "end": 1257.919,
+        "text": "asent soft verges soft verges",
+        "textdich": ""
+    },
+    {
+        "start": 1261.36,
+        "end": 1266.159,
+        "text": "soft verges soft",
+        "textdich": ""
+    },
+    {
+        "start": 1270.88,
+        "end": 1276.88,
+        "text": "verges priority Road priority",
+        "textdich": ""
+    },
+    {
+        "start": 1280.08,
+        "end": 1287.039,
+        "text": "Road priority Road priority Road",
+        "textdich": ""
+    },
+    {
+        "start": 1291.48,
+        "end": 1297.12,
+        "text": "end of priority Road end of priority",
+        "textdich": ""
+    },
+    {
+        "start": 1299.679,
+        "end": 1306.24,
+        "text": "Road end of priority Road end of priority",
+        "textdich": ""
+    },
+    {
+        "start": 1310.279,
+        "end": 1319.88,
+        "text": "Road priority over uncoming Vehicles priority over oncoming vehicles",
+        "textdich": ""
+    },
+    {
+        "start": 1322.919,
+        "end": 1330.279,
+        "text": "priority over oncoming Vehicles priority over oncoming",
+        "textdich": ""
+    },
+    {
+        "start": 1333.64,
+        "end": 1340.84,
+        "text": "vehicles giveway to oncoming traffic giveway to oncoming",
+        "textdich": ""
+    },
+    {
+        "start": 1342.72,
+        "end": 1350.52,
+        "text": "traffic giveway to oncoming traffic give way to oncoming traffic",
+        "textdich": ""
+    },
+    {
+        "start": 1354.32,
+        "end": 1359.679,
+        "text": "intersection priority intersection",
+        "textdich": ""
+    },
+    {
+        "start": 1362.559,
+        "end": 1368.88,
+        "text": "priority intersection priority intersection",
+        "textdich": ""
+    },
+    {
+        "start": 1373.0,
+        "end": 1381.6,
+        "text": "priority intersection with priority to the right intersection with PR priority to the",
+        "textdich": ""
+    },
+    {
+        "start": 1383.6,
+        "end": 1392.2,
+        "text": "right intersection with priority to the right intersection with priority to the",
+        "textdich": ""
+    },
+    {
+        "start": 1395.88,
+        "end": 1401.84,
+        "text": "right airport ahead airport",
+        "textdich": ""
+    },
+    {
+        "start": 1405.08,
+        "end": 1411.039,
+        "text": "ahead airport ahead airport",
+        "textdich": ""
+    },
+    {
+        "start": 1415.559,
+        "end": 1421.799,
+        "text": "ahead low flying aircraft low flying",
+        "textdich": ""
+    },
+    {
+        "start": 1424.76,
+        "end": 1431.0,
+        "text": "aircraft low flying aircraft low flying",
+        "textdich": ""
+    },
+    {
+        "start": 1435.24,
+        "end": 1441.84,
+        "text": "aircraft railroad crossing ahead railroad crossing",
+        "textdich": ""
+    },
+    {
+        "start": 1444.48,
+        "end": 1451.08,
+        "text": "ahead railroad crossing ahead railroad crossing",
+        "textdich": ""
+    },
+    {
+        "start": 1454.96,
+        "end": 1461.559,
+        "text": "ahead trams Crossing ahead trams Crossing",
+        "textdich": ""
+    },
+    {
+        "start": 1464.159,
+        "end": 1470.76,
+        "text": "ahead trams Crossing ahead trams cross Crossing",
+        "textdich": ""
+    },
+    {
+        "start": 1474.679,
+        "end": 1480.12,
+        "text": "ahead height limit height",
+        "textdich": ""
+    },
+    {
+        "start": 1483.88,
+        "end": 1489.32,
+        "text": "limit height limit height",
+        "textdich": ""
+    },
+    {
+        "start": 1494.399,
+        "end": 1500.32,
+        "text": "limit length limit length limit",
+        "textdich": ""
+    },
+    {
+        "start": 1504.6,
+        "end": 1509.399,
+        "text": "length limit length",
+        "textdich": ""
+    },
+    {
+        "start": 1514.039,
+        "end": 1519.52,
+        "text": "limit weight limit weight",
+        "textdich": ""
+    },
+    {
+        "start": 1523.24,
+        "end": 1529.76,
+        "text": "limit weight limit weight limit",
+        "textdich": ""
+    },
+    {
+        "start": 1534.72,
+        "end": 1540.039,
+        "text": "axle weight limit axle weight",
+        "textdich": ""
+    },
+    {
+        "start": 1542.96,
+        "end": 1549.24,
+        "text": "limit axle weight limit axle weight",
+        "textdich": ""
+    },
+    {
+        "start": 1553.399,
+        "end": 1560.039,
+        "text": "limit parking lot parking lot",
+        "textdich": ""
+    },
+    {
+        "start": 1563.64,
+        "end": 1568.279,
+        "text": "parking lot parking",
+        "textdich": ""
+    },
+    {
+        "start": 1573.08,
+        "end": 1578.799,
+        "text": "lot gas station gas",
+        "textdich": ""
+    },
+    {
+        "start": 1582.32,
+        "end": 1589.0,
+        "text": "station gas station gas station",
+        "textdich": ""
+    },
+    {
+        "start": 1593.799,
+        "end": 1598.679,
+        "text": "public telephone public",
+        "textdich": ""
+    },
+    {
+        "start": 1602.039,
+        "end": 1607.88,
+        "text": "telephone public telephone public",
+        "textdich": ""
+    },
+    {
+        "start": 1612.559,
+        "end": 1618.52,
+        "text": "telephone hospital hospital",
+        "textdich": ""
+    },
+    {
+        "start": 1623.76,
+        "end": 1626.76,
+        "text": "hospital",
+        "textdich": ""
+    },
+    {
+        "start": 1632.279,
+        "end": 1637.279,
+        "text": "hospital restaurant",
+        "textdich": ""
+    },
+    {
+        "start": 1641.48,
+        "end": 1647.48,
+        "text": "restaurant restaurant restaurant",
+        "textdich": ""
+    },
+    {
+        "start": 1653.679,
+        "end": 1656.679,
+        "text": "merge",
+        "textdich": ""
+    },
+    {
+        "start": 1661.039,
+        "end": 1665.799,
+        "text": "merge merge",
+        "textdich": ""
+    },
+    {
+        "start": 1671.44,
+        "end": 1678.12,
+        "text": "merge lane shift Lane shift",
+        "textdich": ""
+    },
+    {
+        "start": 1681.679,
+        "end": 1686.32,
+        "text": "Lane shift Lane",
+        "textdich": ""
+    },
+    {
+        "start": 1691.159,
+        "end": 1696.799,
+        "text": "shift Road closed Road",
+        "textdich": ""
+    },
+    {
+        "start": 1700.36,
+        "end": 1711.12,
+        "text": "closed Road closed Road closed for",
+        "textdich": ""
+    }
+]
