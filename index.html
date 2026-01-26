@@ -14,7 +14,7 @@
   <style>
     body {
       height: 100%;
-      background-image: linear-gradient(45deg, #160223,#f4d03f);
+      background-image: linear-gradient(-45deg, gray, grey);
       color: #fff;
       font: 1rem/1 'Poppins', sans-serif;
       max-width: 800px;
@@ -95,7 +95,7 @@ h4{
   font-weight:bolder;
   font-size: 1.2rem;
   margin-left:20px;
-  color:darkslategray;
+  color:rgb(223, 231, 223);
   width: 75%; 
 }
 h5{
@@ -103,8 +103,11 @@ h5{
   margin-left: auto;
   margin-right: auto;
   font-size: 1.1rem;
-  color:green;
+  color:rgb(193, 193, 239);
   width: 75%; 
+}
+h5{
+  text-align: center;
 }
    #voiceSelect, #rateRead,.butp1,.butp2,#playBtn{
     width: 19%;
@@ -114,13 +117,13 @@ h5{
     text-align: right;
     font-size: 1.2rem;
     height:2rem;
-    color: darkgreen;
+    color:rgb(193, 193, 239);
     overflow-y: auto;
     }
     
     #subdich{
     text-align: left;
-    color: darkblue;
+      color:antiquewhite;
     font-size: 1.4rem;
     height:3rem;
     margin-left:10px;
@@ -129,7 +132,6 @@ h5{
     }
 
     #playBtn{
-    background-color: transparent;
     color:darkblue;
     font-weight:bolder;
     font-size: 1.1rem;
@@ -177,7 +179,10 @@ h5{
   display: block;
   padding: 4px 0;      /* tăng khoảng cách trên/dưới */
 }
-
+#videochon{
+  color:rgb(231, 225, 225);
+  text-align: center;
+}
 </style>
 </head>
 
@@ -191,10 +196,10 @@ h5{
       <select id="voiceSelect"></select>
       <button id='rateRead' onclick="tocDoDoc()">Rate: 1</button>
 
-      <button id="playBtn">START ▶️</button>
+      <button id="playBtn">▶️</button>
 
-      <button class='butp1' onclick="btnReadSub()">Read sub only</button>
-      <button class='butp2' onclick="btnYoutubeSound()">Sound yt only</button>
+      <button class='butp1' onclick="btnReadSub()">Sub only</button>
+      <button class='butp2' onclick="btnYoutubeSound()">Ytu only</button>
     </div>
     <hr>
 
@@ -209,15 +214,14 @@ h5{
       <div id="videochon_http"></div>
       <hr>
 
-      <h4>1. Chọn Chủ đề Video YouTube :</h4>
-      <select id="selectChude"></select>
-
-      <h5>Chọn 1 video trong menu dưới đây theo chủ đề đã chọn ở trên:</h5>
+      <h5>Chọn video :</h5>
       <select id="videoSelect"></select>
       <button id="tbao" onclick="stlay_json_cde1()"></button>
 
+      <h4>1. Chọn Chủ đề :</h4>
+      <select id="selectChude"></select>
 
-      <h4>2. Input a new youtube url:</h4>
+      <h4>2. Nhập Yt Url :</h4>
       <input type="text" id="inputurl" placeholder="Enter a youtube url">
       <br><button id="OK" onclick="xuLiUrlInput()">Submit</button><br>
       
@@ -486,7 +490,4 @@ h5{
     <script src="index.js"></script>
 </body>
 
-
 </html>
-
-
