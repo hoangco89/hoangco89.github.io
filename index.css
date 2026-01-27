@@ -1,0 +1,171 @@
+body {
+    height: 100%;
+    background-image: linear-gradient(45deg, gray, rgb(69, 68, 68), grey);
+    color: #fff;
+    font: 1rem/1 'Poppins', sans-serif;
+    max-width: 800px;
+    flex-direction: column;
+    padding-bottom: env(safe-area-inset-bottom);
+    background-size: cover;
+    background-position: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* hoặc margin: 0 auto; 
+    margin-bottom: 100%;*/
+
+}
+
+.video-container {
+    position: relative;
+    width: 100%;
+    min-width: 100%;
+    /* ép không co lại */
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    background: #000;
+}
+
+iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    /* tránh Safari thêm khoảng trắng */
+}
+
+.menu-group {
+    margin-top: 4px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+.butp1,.butp2{
+font-size: 1.4rem;
+}
+#voiceSelect{
+color:darkgreen;
+width: 30%; 
+display: block;
+margin-left: 0;
+font-size: 1.4rem;
+}
+#rateRead{
+font-size: 1.4rem;
+}
+#selectChude {
+color:rgb(2, 78, 2);
+width: 75%; 
+display: block;
+margin-left: auto;
+margin-right: auto; /* hoặc margin: 0 auto; */
+font-size: 1.1rem;
+background-color: gainsboro;
+color:darkgreen;
+}
+#selectVideo {
+width: 75%; 
+display: block;
+margin-left: auto;
+margin-right: auto; /* hoặc margin: 0 auto; */
+font-size: 1.1rem;
+color:darkblue;}
+
+
+h4{
+font-weight:bolder;
+font-size: 1.2rem;
+margin-left:20px;
+color:rgb(223, 231, 223);
+width: 75%; 
+}
+h5{
+display: block;
+margin-left: auto;
+margin-right: auto;
+font-size: 1.1rem;
+color:rgb(193, 193, 239);
+width: 75%; 
+}
+h5{
+text-align: center;
+}
+#voiceSelect, #rateRead,.butp1,.butp2,#playBtn{
+width: 19%;
+font-size: 0.9rem;
+}
+#currentSubtitle{
+text-align: right;
+font-size: 1.2rem;
+height:2rem;
+color:rgb(193, 193, 239);
+overflow-y: auto;
+}
+
+#subdich{
+text-align: left;
+    color:antiquewhite;
+font-size: 1.4rem;
+height:3rem;
+margin-left:10px;
+font-style: italic;
+overflow-y: auto;
+}
+
+#playBtn{
+color:darkblue;
+font-weight:bolder;
+font-size: 1.1rem;
+}
+
+#loa_button{
+margin-left:10px;
+margin-bottom:4px;
+}
+.outiframe{
+margin-bottom:100%;
+}
+#tbao{
+display: block;
+margin: 0 auto;
+width:50%;
+background-color: transparent;
+border:transparent;
+height: 20px;
+}
+#inputurl{
+width: 75%; 
+display: block;
+margin-left: auto;
+margin-right: auto; /* hoặc margin: 0 auto; */
+font-size: 1.1rem;
+color: darkblue;
+background-color: gainsboro;
+}
+#OK{
+display: block;
+margin-left: auto;
+margin-right: auto; /* hoặc margin: 0 auto; */
+font-size: 1.2rem;
+color:darkgreen;
+width: 20%; 
+
+}
+#radio-container{
+margin-left:40px;
+color:darkblue;
+width: 75%; 
+}
+#radio-container label {
+display: block;
+padding: 4px 0;      /* tăng khoảng cách trên/dưới */
+}
+#videochon{
+color:rgb(231, 225, 225);
+text-align: center;
+}
