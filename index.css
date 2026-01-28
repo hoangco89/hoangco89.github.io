@@ -104,6 +104,8 @@ width: 19%;
 font-size: 0.9rem;
 background-color: transparent;
 color:rgb(231, 225, 225);
+border-color: #000;
+border-bottom: 3px solid black;
 }
 
 #currentSubtitle{
