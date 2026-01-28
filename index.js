@@ -54,7 +54,7 @@
       // ==========================
       // 4. TTS + SYNC SUBTITLES
       // ==========================
-      let subtitles = [];
+      //let subtitles = [];
       let interval = null;
       let currentIndex = -1;
       const subDiv = document.getElementById("currentSubtitle");
@@ -236,7 +236,7 @@ async function taomenu_selectVideo(id_ofcddc){
             });
             restoreVideo(selectChude.value);
             videochon.textContent = selectVideo.value;
-        const videoId = videochon.textContent;
+        videoId = videochon.textContent;
 
         subtitles = fetchSubtitles(videoId);
 
@@ -258,7 +258,7 @@ selectChude.addEventListener("change", () => {
 
     taomenu_selectVideo(chudeId);
 
-    restoreVideo(chudeId);         // khôi phục bài tương ứng
+    //restoreVideo(chudeId);         // khôi phục bài tương ứng
 
 });
 
@@ -326,18 +326,17 @@ function restoreVideo(chudeId) {
 // ------------------------------
 window.addEventListener("DOMContentLoaded", () => {
     //menu chu de da tao, nen chi khoi phuc gtri da luu hoac default
-    restoreChude();
+    //restoreChude();
     //tuc la cap nhat selectChude.value
     
     const chudeId = selectChude.value;
     //alert(chudeId);
     taomenu_selectVideo(chudeId); // goi lan dau
     
-    restoreVideo(chudeId);
+    //restoreVideo(chudeId);
     //tuc la cap nhat selectVideo.value
     
     //ghi selectVideo.value (id video) vao videochon
-    videochon.textContent = selectVideo.value;
-    
+    //videochon.textContent = selectVideo.value;
 
 });

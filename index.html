@@ -57,12 +57,13 @@
   <script src="https://www.youtube.com/iframe_api"></script>
   <script>
     const videochon = document.getElementById("videochon");
-    const playBtn =document.getElementById("playBtn");
+    const playBtn = document.getElementById("playBtn");
     const selectChude = document.getElementById("selectChude");
     const selectVideo = document.getElementById("selectVideo");
     
     let player = null;
-
+    let videoId = videochon.textContent;
+    let subtitles = [];
     
     function onYouTubeIframeAPIReady() {
       player = new YT.Player("playerContainer", {
@@ -86,7 +87,8 @@
       // 5. PLAY BUTTON
       // ==========================
       playBtn.addEventListener("click", async () => {
-        const videoId = videochon.textContent;
+        //alert("Playing video ID: " + videochon.textContent);
+         videoId = videochon.textContent;
         subtitles = await fetchSubtitles(videoId);
         // 🔥 DỊCH TOÀN BỘ JSON
         translateFullJson(subtitles);
@@ -107,7 +109,7 @@
         const key = "bai_" + chudeId;
         localStorage.setItem(key, selectVideo.value);
         videochon.textContent = selectVideo.value;
-        const videoId = videochon.textContent;
+        videoId = videochon.textContent;
 
         subtitles = await fetchSubtitles(videoId);
 
