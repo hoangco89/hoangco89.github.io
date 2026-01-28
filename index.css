@@ -1,6 +1,8 @@
 body {
+
     height: 100%;
-    background-image: linear-gradient(45deg, gray, rgb(69, 68, 68), grey);
+   /* background-image: linear-gradient(45deg, gray, rgb(69, 68, 68), grey);*/
+    background-image:url("icons/banner5.png");  
     color: #fff;
     font: 1rem/1 'Poppins', sans-serif;
     max-width: 800px;
@@ -177,4 +179,39 @@ padding: 4px 0;      /* tăng khoảng cách trên/dưới */
 #videochon{
 color:rgb(231, 225, 225);
 text-align: center;
+}
+
+header {
+background-image:url("icons/banner5.png");  
+position: sticky;
+top: 0;
+z-index: 999;
+background-color: #ffffff;
+padding: 0px;
+padding-bottom: 0%;
+/*text-align: center;*/
+border-bottom: 2px solid #d4af37; /* vàng ánh kim */
+}
+
+/* Footer */
+footer {
+background-image:url("images/banner2.png");  
+/*background-color: #2f2f2f;*/
+color: #ffffff;
+text-align: center;
+padding: 20px;
+margin-top: 20px;
+}
+
+footer p, footer a {
+color: #d2caca;
+font-size: 0.9em;
+}
+footer p, footer a {
+color: #d2caca;
+font-size: 0.9em;
+}
+
+footer a:hover {
+color: #d4af37;
 }
