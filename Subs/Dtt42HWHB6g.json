@@ -1,0 +1,242 @@
+[
+    {
+        "start": 0.48,
+        "end": 8.2,
+        "text": "I go to the supermarket. I go to the supermarket.",
+        "textdich": ""
+    },
+    {
+        "start": 8.72,
+        "end": 16.16,
+        "text": "I take a cart.",
+        "textdich": ""
+    },
+    {
+        "start": 11.44,
+        "end": 18.48,
+        "text": "I take a cart.",
+        "textdich": ""
+    },
+    {
+        "start": 16.16,
+        "end": 23.48,
+        "text": "I take a basket.",
+        "textdich": ""
+    },
+    {
+        "start": 18.48,
+        "end": 23.48,
+        "text": "I take a basket.",
+        "textdich": ""
+    },
+    {
+        "start": 23.519,
+        "end": 31.359,
+        "text": "I buy a bottle of water. I buy a bottle of water.",
+        "textdich": ""
+    },
+    {
+        "start": 31.679,
+        "end": 42.399,
+        "text": "I buy a bottle of milk. I buy a bottle of milk.",
+        "textdich": ""
+    },
+    {
+        "start": 38.719,
+        "end": 46.559,
+        "text": "I buy a bag of sugar.",
+        "textdich": ""
+    },
+    {
+        "start": 42.399,
+        "end": 50.8,
+        "text": "I buy a bag of sugar.",
+        "textdich": ""
+    },
+    {
+        "start": 46.559,
+        "end": 53.8,
+        "text": "I buy a bag of rice. I buy a bag of rice.",
+        "textdich": ""
+    },
+    {
+        "start": 54.559,
+        "end": 62.199,
+        "text": "I buy a box of cookies.",
+        "textdich": ""
+    },
+    {
+        "start": 57.68,
+        "end": 62.199,
+        "text": "I buy a box of cookies.",
+        "textdich": ""
+    },
+    {
+        "start": 63.199,
+        "end": 70.439,
+        "text": "I buy a box of eggs. I buy a box of eggs.",
+        "textdich": ""
+    },
+    {
+        "start": 71.04,
+        "end": 79.84,
+        "text": "I go to the [music] checkout. I go to the checkout.",
+        "textdich": ""
+    },
+    {
+        "start": 77.28,
+        "end": 84.64,
+        "text": "I wait in line.",
+        "textdich": ""
+    },
+    {
+        "start": 79.84,
+        "end": 87.759,
+        "text": "I wait in line.",
+        "textdich": ""
+    },
+    {
+        "start": 84.64,
+        "end": 94.88,
+        "text": "I put items on the belt.",
+        "textdich": ""
+    },
+    {
+        "start": 87.759,
+        "end": 98.759,
+        "text": "I put items on the belt. I pay cash.",
+        "textdich": ""
+    },
+    {
+        "start": 94.88,
+        "end": 98.759,
+        "text": "I pay cash.",
+        "textdich": ""
+    },
+    {
+        "start": 99.759,
+        "end": 106.159,
+        "text": "I pay by card.",
+        "textdich": ""
+    },
+    {
+        "start": 102.4,
+        "end": 108.88,
+        "text": "I pay by card.",
+        "textdich": ""
+    },
+    {
+        "start": 106.159,
+        "end": 114.439,
+        "text": "I pack my bags.",
+        "textdich": ""
+    },
+    {
+        "start": 108.88,
+        "end": 114.439,
+        "text": "I pack my bags.",
+        "textdich": ""
+    },
+    {
+        "start": 114.88,
+        "end": 128.759,
+        "text": "I carry my bags. I carry my bags.",
+        "textdich": ""
+    },
+    {
+        "start": 121.92,
+        "end": 128.759,
+        "text": "I take the receipt. I take the receipt.",
+        "textdich": ""
+    },
+    {
+        "start": 130.16,
+        "end": 139.879,
+        "text": "I pay with my phone. I pay with my phone.",
+        "textdich": ""
+    },
+    {
+        "start": 136.16,
+        "end": 139.879,
+        "text": "I buy meat.",
+        "textdich": ""
+    },
+    {
+        "start": 139.92,
+        "end": 143.64,
+        "text": "I buy meat.",
+        "textdich": ""
+    },
+    {
+        "start": 144.0,
+        "end": 150.84,
+        "text": "I buy cheese.",
+        "textdich": ""
+    },
+    {
+        "start": 146.4,
+        "end": 150.84,
+        "text": "I buy cheese.",
+        "textdich": ""
+    },
+    {
+        "start": 152.0,
+        "end": 160.04,
+        "text": "This is [music] on sale.",
+        "textdich": ""
+    },
+    {
+        "start": 154.64,
+        "end": 160.04,
+        "text": "This is on sale.",
+        "textdich": ""
+    },
+    {
+        "start": 161.84,
+        "end": 167.68,
+        "text": "I need help.",
+        "textdich": ""
+    },
+    {
+        "start": 164.0,
+        "end": 170.08,
+        "text": "I need help.",
+        "textdich": ""
+    },
+    {
+        "start": 167.68,
+        "end": 176.92,
+        "text": "Can you help me?",
+        "textdich": ""
+    },
+    {
+        "start": 170.08,
+        "end": 176.92,
+        "text": "Can you help me?",
+        "textdich": ""
+    },
+    {
+        "start": 176.959,
+        "end": 183.08,
+        "text": "I buy bread.",
+        "textdich": ""
+    },
+    {
+        "start": 179.28,
+        "end": 183.08,
+        "text": "I buy bread.",
+        "textdich": ""
+    },
+    {
+        "start": 184.319,
+        "end": 190.28,
+        "text": "I buy eggs.",
+        "textdich": ""
+    },
+    {
+        "start": 186.64,
+        "end": 190.28,
+        "text": "I buy eggs.",
+        "textdich": ""
+    }
+]
