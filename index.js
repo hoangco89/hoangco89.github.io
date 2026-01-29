@@ -107,7 +107,7 @@
       }
 
       //---dich
-      function translateFullJson() {
+      async function translateFullJson() {
         const selected = voiceSelect.value;
         const v = voices.find(x => x.name === selected);
 
@@ -340,3 +340,13 @@ window.addEventListener("DOMContentLoaded", () => {
     //videochon.textContent = selectVideo.value;
 
 });
+function lay_phudejson_byst(url){
+    //url gui qua co dang cua youtube: https://youtube.com/.... 
+    const link = encodeURIComponent(url);
+    //neu app.py chay tai may local 8501 thi:
+    window.location.href = "http://localhost:8501/?link=" + link;
+    //neu streamlit_app.py chay tai Streamlit Cloud voi dc la
+    // https://tien89.streamlit.app thi :
+    //window.location.href = "https://tien89.streamlit.app/?link=" + link;
+
+}
