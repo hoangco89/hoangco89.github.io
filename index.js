@@ -241,8 +241,15 @@ async function taomenu_selectVideo(id_ofcddc){
         subtitles = fetchSubtitles(videoId);
 
         // 🔥 DỊCH TOÀN BỘ JSON
-        translateFullJson(subtitles);
+        if (subtitles.length>0){    
+          tbao_pde.textContent = ""
+          translateFullJson(subtitles);
+        }else{
+          currentSubtitle.innerHTML="[source subtitles]";
+          subdich.innerHTML="[translated subtitles]";
+          tbao_pde.textContent = "No subtites. Click here to get!"
 
+        }  
         player.loadVideoById(videoId);
         player.playVideo();
 
@@ -324,29 +331,48 @@ function restoreVideo(chudeId) {
 // ------------------------------
 // 5) Khi trang load
 // ------------------------------
-window.addEventListener("DOMContentLoaded", () => {
-    //menu chu de da tao, nen chi khoi phuc gtri da luu hoac default
-    //restoreChude();
+//window.addEventListener("DOMContentLoaded", () => {
+    //restoreChude(); tao menu o tren da restoreChude()
     //tuc la cap nhat selectChude.value
-    
-    const chudeId = selectChude.value;
+//    const chudeId = selectChude.value;
     //alert(chudeId);
-    taomenu_selectVideo(chudeId); // goi lan dau
-    
-    //restoreVideo(chudeId);
-    //tuc la cap nhat selectVideo.value
-    
-    //ghi selectVideo.value (id video) vao videochon
-    //videochon.textContent = selectVideo.value;
+//    taomenu_selectVideo(chudeId); // goi lan dau
+//});
 
-});
-function lay_phudejson_byst(url){
-    //url gui qua co dang cua youtube: https://youtube.com/.... 
+function lay_phudejson_byst(){
+    let url = "https://www.youtube.com/watch?v=" + videochon.textContent;
     const link = encodeURIComponent(url);
-    //neu app.py chay tai may local 8501 thi:
-    window.location.href = "http://localhost:8501/?link=" + link;
-    //neu streamlit_app.py chay tai Streamlit Cloud voi dc la
-    // https://tien89.streamlit.app thi :
-    //window.location.href = "https://tien89.streamlit.app/?link=" + link;
+    //alert(link);
+    try {
+      //neu app.py chay tai may local 8501 thi:
+      window.location.href = "http://localhost:8501/?link=" + link;
+    } catch (err) {
+      console.error(err);
+      alert('py ko hd');
+      return;
+    }
 
 }
+
+function xuLiUrlInput(){
+  url = inputurl.value;
+  videoId = url.split('v=')[1];
+  alert(url);
+  subtitles = fetchSubtitles(videoId);
+  if (subtitles.length>0){
+    translateFullJson(subtitles);
+    tbao_pde.textContent = ""
+  }else{
+    currentSubtitle.innerHTML="[source subtitles]";
+    subdich.innerHTML="[translated subtitles]";
+    tbao_pde.textContent = "No subtites. Click here to get!"
+  }
+
+  player.loadVideoById(videoId);
+  player.playVideo();
+
+  startSync();
+
+}
+//https://www.youtube.com/watch?v=sdyeqgXleXs
+

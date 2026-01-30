@@ -38,19 +38,18 @@
     <br>
     <hr>
     <div id="videochon" onclick="them_Http()">JqJ7PlMCDuE</div>
-    <div id="videochon_http"></div>
-    <hr>
+    <hr><br>
 
-    <h5>Chọn video :</h5>
-    <select id="selectVideo"></select>
-    <button id="tbao" onclick="stlay_phude_json()"></button>
 
-    <h4>1. Chọn Chủ đề :</h4>
-    <select id="selectChude"></select>
+    <button class="buttonD"><select id="selectVideo"></select></button>
+    <br><button id="tbao_pde" onclick="lay_phudejson_byst()"></button>
 
-    <h4>2. Nhập Yt Url :</h4>
+    <h4>Chọn Chủ đề ⬇ và video ⬆</h4>
+    <button class="buttonD"><select id="selectChude"></select></button>
+
+    <br><h3>Nhập Url youtube của bạn:</h3>
     <input type="text" id="inputurl" placeholder="Enter a youtube url">
-    <br><button id="OK" onclick="xuLiUrlInput()">Submit</button><br>
+    <br><button id="OK" onclick="xuLiUrlInput()">OK?</button><br>
 
     <!--<h4><a href="https://tien89.streamlit.app" style="background: transparent;text-align: center; ">.</a></h4>-->
     <h4><a href="z.py" style="background: transparent;text-align: center; ">.</a></h4>
@@ -70,7 +69,11 @@
     const playBtn = document.getElementById("playBtn");
     const selectChude = document.getElementById("selectChude");
     const selectVideo = document.getElementById("selectVideo");
-    
+    const currentSubtitle = document.getElementById("currentSubtitle");
+    const subdich = document.getElementById("subdich");
+    const tbao_pde = document.getElementById("tbao_pde");
+    const inputurl = document.getElementById("inputurl");
+
     let player = null;
     let videoId = videochon.textContent;
     let subtitles = [];
@@ -99,9 +102,15 @@
       playBtn.addEventListener("click", async () => {
         //alert("Playing video ID: " + videochon.textContent);
          videoId = videochon.textContent;
-        subtitles = await fetchSubtitles(videoId);
-        // 🔥 DỊCH TOÀN BỘ JSON
-        translateFullJson(subtitles);
+          subtitles = await fetchSubtitles(videoId);
+          if (subtitles.length>0){
+            translateFullJson(subtitles);
+            tbao_pde.textContent = ""
+          }else{
+            currentSubtitle.innerHTML="[source subtitles]";
+            subdich.innerHTML="[translated subtitles]";
+            tbao_pde.textContent = "No subtites. Click here to get!"
+          }
 
         player.loadVideoById(videoId);
         player.playVideo();
@@ -123,7 +132,44 @@
         subtitles = await fetchSubtitles(videoId);
 
         // 🔥 DỊCH TOÀN BỘ JSON
-        translateFullJson(subtitles);
+        if (subtitles.length>0){
+          translateFullJson(subtitles);
+          tbao_pde.textContent = ""
+        }else{
+          currentSubtitle.innerHTML="[source subtitles]";
+          subdich.innerHTML="[translated subtitles]";
+          tbao_pde.textContent = "No subtites. Click here to get!"
+
+
+        }
+
+        player.loadVideoById(videoId);
+        player.playVideo();
+
+        startSync();
+
+      });
+
+      selectVideo.addEventListener("dblclick", async () => {
+        const chudeId = selectChude.value;
+        const key = "bai_" + chudeId;
+        localStorage.setItem(key, selectVideo.value);
+        videochon.textContent = selectVideo.value;
+        videoId = videochon.textContent;
+
+        subtitles = await fetchSubtitles(videoId);
+
+        // 🔥 DỊCH TOÀN BỘ JSON
+        if (subtitles.length>0){
+          translateFullJson(subtitles);
+          tbao_pde.textContent = ""
+        }else{
+          currentSubtitle.innerHTML="[source subtitles]";
+          subdich.innerHTML="[translated subtitles]";
+          tbao_pde.textContent = "No subtites. Click here to get!"
+
+
+        }
 
         player.loadVideoById(videoId);
         player.playVideo();
