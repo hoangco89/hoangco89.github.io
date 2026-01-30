@@ -74,7 +74,8 @@ font-size: 1.1rem;
 font-weight:bolder ;
 background: transparent;
 color:rgb(155, 155, 242);
-
+background-color : transparent;
+border: none;
 }
 #selectVideo {
 width: 75%; 
@@ -84,6 +85,8 @@ margin-right: auto; /* hoặc margin: 0 auto; */
 font-size: 1.1rem;
 background: transparent;
 color:orange;
+background-color : transparent;
+border: none;
 
 }
 
@@ -95,6 +98,7 @@ width: 75%;
 font-weight:bolder;
 font-size: 1.2rem;
 text-align: center;
+color: gainsboro;
 }
 h4{
 font-weight:bolder;
@@ -168,17 +172,19 @@ display: block;
 margin-left: auto;
 margin-right: auto; /* hoặc margin: 0 auto; */
 font-size: 1.1rem;
-color: darkblue;
-background-color: gainsboro;
+color: black;
+background:#d2caca;
 }
 #OK{
 display: block;
 margin-left: auto;
 margin-right: auto; /* hoặc margin: 0 auto; */
-font-size: 1.2rem;
-color:darkgreen;
-width: 20%; 
-
+font-size: 1rem;
+color:whitesmoke;
+width: 40px; 
+height: 40px; 
+border-radius: 50%;
+background: #014f05;
 }
 #radio-container{
 margin-left:40px;
