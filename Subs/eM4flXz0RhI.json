@@ -2,25 +2,103 @@
   {
     "start": 0.719,
     "end": 7.539,
-    "text": "join kids hat [Music]",
+    "text": "join kids hat",
+    "textdich": ""
+  },
+  {
+    "start": 3.93,
+    "end": 7.539,
+    "text": "[Music]",
     "textdich": ""
   },
   {
     "start": 9.7,
+    "end": 31.37,
+    "text": "[Music]",
+    "textdich": ""
+  },
+  {
+    "start": 27.679,
+    "end": 42.92,
+    "text": "family hello Miss let me help",
+    "textdich": ""
+  },
+  {
+    "start": 31.37,
+    "end": 46.879,
+    "text": "[Music]",
+    "textdich": ""
+  },
+  {
+    "start": 42.92,
+    "end": 49.64,
+    "text": "you thank you young boy this is so kind",
+    "textdich": ""
+  },
+  {
+    "start": 46.879,
     "end": 53.199,
-    "text": "[Music] family hello Miss let me help [Music] you thank you young boy this is so kind of you I have been trying to cross the",
+    "text": "of you I have been trying to cross the",
     "textdich": ""
   },
   {
     "start": 49.64,
+    "end": 56.48,
+    "text": "road for so long but no one came to help",
+    "textdich": ""
+  },
+  {
+    "start": 53.199,
+    "end": 60.16,
+    "text": "me it's my pleasure",
+    "textdich": ""
+  },
+  {
+    "start": 56.48,
+    "end": 63.119,
+    "text": "miss here this is for you you have have",
+    "textdich": ""
+  },
+  {
+    "start": 60.16,
+    "end": 65.76,
+    "text": "been really kind to",
+    "textdich": ""
+  },
+  {
+    "start": 63.119,
+    "end": 69.439,
+    "text": "me oh",
+    "textdich": ""
+  },
+  {
+    "start": 65.76,
     "end": 74.119,
-    "text": "road for so long but no one came to help me it's my pleasure miss here this is for you you have have been really kind to me oh Chocolates thank you so",
+    "text": "Chocolates thank you so",
     "textdich": ""
   },
   {
     "start": 69.439,
+    "end": 77.159,
+    "text": "much WoW tofu I am so proud of you when",
+    "textdich": ""
+  },
+  {
+    "start": 74.119,
+    "end": 81.72,
+    "text": "did you grow up to be so kind and caring",
+    "textdich": ""
+  },
+  {
+    "start": 77.159,
     "end": 86.439,
-    "text": "much WoW tofu I am so proud of you when did you grow up to be so kind and caring huh you remind me of a beautiful story really narrate it to me Tia",
+    "text": "huh you remind me of a beautiful story",
+    "textdich": ""
+  },
+  {
+    "start": 81.72,
+    "end": 86.439,
+    "text": "really narrate it to me Tia",
     "textdich": ""
   },
   {
@@ -31,14 +109,44 @@
   },
   {
     "start": 93.64,
+    "end": 101.24,
+    "text": "once upon a time there lived a ferocious",
+    "textdich": ""
+  },
+  {
+    "start": 96.96,
+    "end": 104.6,
+    "text": "lion in a dense jungle one day when the",
+    "textdich": ""
+  },
+  {
+    "start": 101.24,
     "end": 108.24,
-    "text": "once upon a time there lived a ferocious lion in a dense jungle one day when the lion was asleep under the cool shade of",
+    "text": "lion was asleep under the cool shade of",
     "textdich": ""
   },
   {
     "start": 104.6,
+    "end": 111.64,
+    "text": "a tree a mouse ran up and down on the",
+    "textdich": ""
+  },
+  {
+    "start": 108.24,
+    "end": 115.119,
+    "text": "lion playing around thinking that the",
+    "textdich": ""
+  },
+  {
+    "start": 111.64,
+    "end": 119.439,
+    "text": "king of the jungle was in a deep",
+    "textdich": ""
+  },
+  {
+    "start": 115.119,
     "end": 122.439,
-    "text": "a tree a mouse ran up and down on the lion playing around thinking that the king of the jungle was in a deep sleep we the king is asleep I can do",
+    "text": "sleep we the king is asleep I can do",
     "textdich": ""
   },
   {
@@ -49,164 +157,596 @@
   },
   {
     "start": 125.52,
+    "end": 133.56,
+    "text": "want come here you little guy I will eat",
+    "textdich": ""
+  },
+  {
+    "start": 129.44,
+    "end": 136.68,
+    "text": "you up oh no please leave me sir I",
+    "textdich": ""
+  },
+  {
+    "start": 133.56,
     "end": 141.08,
-    "text": "want come here you little guy I will eat you up oh no please leave me sir I promise I will help you one day for your",
+    "text": "promise I will help you one day for your",
     "textdich": ""
   },
   {
     "start": 136.68,
+    "end": 144.72,
+    "text": "kindness haa you are too tiny to be of",
+    "textdich": ""
+  },
+  {
+    "start": 141.08,
+    "end": 147.92,
+    "text": "any help to me there you",
+    "textdich": ""
+  },
+  {
+    "start": 144.72,
+    "end": 151.959,
+    "text": "go the mouse squeals with horror and",
+    "textdich": ""
+  },
+  {
+    "start": 147.92,
     "end": 154.8,
-    "text": "kindness haa you are too tiny to be of any help to me there you go the mouse squeals with horror and runs away one day the mouse was pacing",
+    "text": "runs away one day the mouse was pacing",
     "textdich": ""
   },
   {
     "start": 151.959,
+    "end": 158.959,
+    "text": "up and down looking for food when he",
+    "textdich": ""
+  },
+  {
+    "start": 154.8,
+    "end": 158.959,
+    "text": "heard the lion crying for",
+    "textdich": ""
+  },
+  {
+    "start": 159.8,
+    "end": 168.879,
+    "text": "help help me somebody please help me",
+    "textdich": ""
+  },
+  {
+    "start": 165.04,
     "end": 174.519,
-    "text": "up and down looking for food when he heard the lion crying for help help me somebody please help me these cruel humans are here to take me",
+    "text": "these cruel humans are here to take me",
     "textdich": ""
   },
   {
     "start": 168.879,
+    "end": 177.76,
+    "text": "away oh sir I found you just be patient",
+    "textdich": ""
+  },
+  {
+    "start": 174.519,
     "end": 181.84,
-    "text": "away oh sir I found you just be patient I am here to help you the mouse swiftly nibbles the net off",
+    "text": "I am here to help you the mouse swiftly",
+    "textdich": ""
+  },
+  {
+    "start": 177.76,
+    "end": 181.84,
+    "text": "nibbles the net off",
     "textdich": ""
   },
   {
     "start": 183.519,
+    "end": 190.879,
+    "text": "and sets the lion free the lion bounces",
+    "textdich": ""
+  },
+  {
+    "start": 187.519,
+    "end": 194.799,
+    "text": "in the jungle with happiness from that",
+    "textdich": ""
+  },
+  {
+    "start": 190.879,
     "end": 198.239,
-    "text": "and sets the lion free the lion bounces in the jungle with happiness from that day The Lion and the mouse become best",
+    "text": "day The Lion and the mouse become best",
     "textdich": ""
   },
   {
     "start": 194.799,
+    "end": 201.319,
+    "text": "friends thank you my dear friend I am",
+    "textdich": ""
+  },
+  {
+    "start": 198.239,
+    "end": 205.48,
+    "text": "sorry for grabbing you the other day you",
+    "textdich": ""
+  },
+  {
+    "start": 201.319,
     "end": 208.4,
-    "text": "friends thank you my dear friend I am sorry for grabbing you the other day you have been very kind to me I told you sir",
+    "text": "have been very kind to me I told you sir",
     "textdich": ""
   },
   {
     "start": 205.48,
+    "end": 211.68,
+    "text": "I will repay you for your kindness one",
+    "textdich": ""
+  },
+  {
+    "start": 208.4,
+    "end": 214.72,
+    "text": "day it is said when you show kindness to",
+    "textdich": ""
+  },
+  {
+    "start": 211.68,
     "end": 218.08,
-    "text": "I will repay you for your kindness one day it is said when you show kindness to others there comes a day when you reap the rewards for it",
+    "text": "others there comes a day when you reap",
+    "textdich": ""
+  },
+  {
+    "start": 214.72,
+    "end": 218.08,
+    "text": "the rewards for it",
     "textdich": ""
   },
   {
     "start": 220.79,
+    "end": 231.43,
+    "text": "[Music]",
+    "textdich": ""
+  },
+  {
+    "start": 231.599,
+    "end": 237.4,
+    "text": "later tofu I'm sorry but you didn't",
+    "textdich": ""
+  },
+  {
+    "start": 235.04,
+    "end": 240.319,
+    "text": "clear the football team selections this",
+    "textdich": ""
+  },
+  {
+    "start": 237.4,
+    "end": 244.12,
+    "text": "year again",
+    "textdich": ""
+  },
+  {
+    "start": 240.319,
     "end": 247.2,
-    "text": "[Music] later tofu I'm sorry but you didn't clear the football team selections this year again you can try next year but coach give me",
+    "text": "you can try next year but coach give me",
     "textdich": ""
   },
   {
     "start": 244.12,
+    "end": 251.92,
+    "text": "a chance please I promise I'll do my",
+    "textdich": ""
+  },
+  {
+    "start": 247.2,
+    "end": 254.879,
+    "text": "best oh tofu ha I bet you won't be able",
+    "textdich": ""
+  },
+  {
+    "start": 251.92,
     "end": 257.959,
-    "text": "a chance please I promise I'll do my best oh tofu ha I bet you won't be able to clear the selections next year too",
+    "text": "to clear the selections next year too",
     "textdich": ""
   },
   {
     "start": 254.879,
+    "end": 261.269,
+    "text": "Joe stop being mean or I won't select",
+    "textdich": ""
+  },
+  {
+    "start": 257.959,
+    "end": 266.639,
+    "text": "you either uh I'm sorry",
+    "textdich": ""
+  },
+  {
+    "start": 261.269,
+    "end": 269.28,
+    "text": "[Music]",
+    "textdich": ""
+  },
+  {
+    "start": 266.639,
+    "end": 271.479,
+    "text": "coach what's up did you clear the",
+    "textdich": ""
+  },
+  {
+    "start": 269.28,
     "end": 275.4,
-    "text": "Joe stop being mean or I won't select you either uh I'm sorry [Music] coach what's up did you clear the selection",
+    "text": "selection",
     "textdich": ""
   },
   {
     "start": 271.479,
+    "end": 279.4,
+    "text": "no Tia I didn't clear it this year too",
+    "textdich": ""
+  },
+  {
+    "start": 275.4,
+    "end": 281.6,
+    "text": "Joe told me I can never do it let people",
+    "textdich": ""
+  },
+  {
+    "start": 279.4,
+    "end": 284.039,
+    "text": "talk you should never let your",
+    "textdich": ""
+  },
+  {
+    "start": 281.6,
     "end": 286.88,
-    "text": "no Tia I didn't clear it this year too Joe told me I can never do it let people talk you should never let your confidence down by listening to all the",
+    "text": "confidence down by listening to all the",
     "textdich": ""
   },
   {
     "start": 284.039,
+    "end": 290.88,
+    "text": "negative things that people say to you I",
+    "textdich": ""
+  },
+  {
+    "start": 286.88,
+    "end": 294.639,
+    "text": "feel terrible Tia I can never get in I",
+    "textdich": ""
+  },
+  {
+    "start": 290.88,
     "end": 297.759,
-    "text": "negative things that people say to you I feel terrible Tia I can never get in I tried so hard this year tofu you want to",
+    "text": "tried so hard this year tofu you want to",
     "textdich": ""
   },
   {
     "start": 294.639,
+    "end": 301.52,
+    "text": "hear a story about two frogs that faced",
+    "textdich": ""
+  },
+  {
+    "start": 297.759,
+    "end": 303.919,
+    "text": "the same problem but t it differently",
+    "textdich": ""
+  },
+  {
+    "start": 301.52,
+    "end": 303.919,
+    "text": "yes",
+    "textdich": ""
+  },
+  {
+    "start": 304.199,
     "end": 308.12,
-    "text": "hear a story about two frogs that faced the same problem but t it differently yes please never stop",
+    "text": "please never stop",
     "textdich": ""
   },
   {
     "start": 309.72,
+    "end": 315.919,
+    "text": "believing not so long ago a group of",
+    "textdich": ""
+  },
+  {
+    "start": 312.96,
+    "end": 319.84,
+    "text": "frogs were roaming around in the forest",
+    "textdich": ""
+  },
+  {
+    "start": 315.919,
     "end": 323.479,
-    "text": "believing not so long ago a group of frogs were roaming around in the forest looking for water accidentally two frogs",
+    "text": "looking for water accidentally two frogs",
     "textdich": ""
   },
   {
     "start": 319.84,
+    "end": 327.08,
+    "text": "fell into a deep bit they were terrified",
+    "textdich": ""
+  },
+  {
+    "start": 323.479,
+    "end": 329.88,
+    "text": "to death about whatever just happened",
+    "textdich": ""
+  },
+  {
+    "start": 327.08,
     "end": 332.759,
-    "text": "fell into a deep bit they were terrified to death about whatever just happened the other frogs got worried about their",
+    "text": "the other frogs got worried about their",
     "textdich": ""
   },
   {
     "start": 329.88,
+    "end": 335.759,
+    "text": "friends they thought that the pit was",
+    "textdich": ""
+  },
+  {
+    "start": 332.759,
+    "end": 339.16,
+    "text": "too deep and they would not be able to",
+    "textdich": ""
+  },
+  {
+    "start": 335.759,
     "end": 342.52,
-    "text": "friends they thought that the pit was too deep and they would not be able to escape it hence they should stop trying",
+    "text": "escape it hence they should stop trying",
     "textdich": ""
   },
   {
     "start": 339.16,
+    "end": 345.88,
+    "text": "to find a way out you will never be able",
+    "textdich": ""
+  },
+  {
+    "start": 342.52,
+    "end": 348.6,
+    "text": "to come out of the pit it's too deep it",
+    "textdich": ""
+  },
+  {
+    "start": 345.88,
     "end": 352.039,
-    "text": "to find a way out you will never be able to come out of the pit it's too deep it looks impossible my dear friends what do",
+    "text": "looks impossible my dear friends what do",
     "textdich": ""
   },
   {
     "start": 348.6,
+    "end": 354.44,
+    "text": "we do now all the frogs kept trying to",
+    "textdich": ""
+  },
+  {
+    "start": 352.039,
+    "end": 357.96,
+    "text": "discourage the two frogs while they",
+    "textdich": ""
+  },
+  {
+    "start": 354.44,
     "end": 360.96,
-    "text": "we do now all the frogs kept trying to discourage the two frogs while they tried to jump out of the pit despite all",
+    "text": "tried to jump out of the pit despite all",
     "textdich": ""
   },
   {
     "start": 357.96,
+    "end": 361.72,
+    "text": "the effort they kept tumbling back into",
+    "textdich": ""
+  },
+  {
+    "start": 360.96,
+    "end": 365.639,
+    "text": "the",
+    "textdich": ""
+  },
+  {
+    "start": 361.72,
+    "end": 367.919,
+    "text": "pit oh my dear friends you were right we",
+    "textdich": ""
+  },
+  {
+    "start": 365.639,
     "end": 371.4,
-    "text": "the effort they kept tumbling back into the pit oh my dear friends you were right we will never be able to make our way out",
+    "text": "will never be able to make our way out",
     "textdich": ""
   },
   {
     "start": 367.919,
+    "end": 375.44,
+    "text": "of the pit there is no point trying we",
+    "textdich": ""
+  },
+  {
+    "start": 371.4,
+    "end": 377.4,
+    "text": "must keep trying come on jump higher we",
+    "textdich": ""
+  },
+  {
+    "start": 375.44,
+    "end": 382.759,
+    "text": "can do",
+    "textdich": ""
+  },
+  {
+    "start": 377.4,
     "end": 385.479,
-    "text": "of the pit there is no point trying we must keep trying come on jump higher we can do it I'll die oh no I'll die and as the",
+    "text": "it I'll die oh no I'll die and as the",
     "textdich": ""
   },
   {
     "start": 382.759,
+    "end": 389.36,
+    "text": "discouraged frog said these words he",
+    "textdich": ""
+  },
+  {
+    "start": 385.479,
+    "end": 390.84,
+    "text": "died on the spot oh no my friend you",
+    "textdich": ""
+  },
+  {
+    "start": 389.36,
+    "end": 394.479,
+    "text": "gave up too",
+    "textdich": ""
+  },
+  {
+    "start": 390.84,
     "end": 397.88,
-    "text": "discouraged frog said these words he died on the spot oh no my friend you gave up too soon and as the Frog died all the other frogs wept with",
+    "text": "soon and as the Frog died all the other",
+    "textdich": ""
+  },
+  {
+    "start": 394.479,
+    "end": 397.88,
+    "text": "frogs wept with",
     "textdich": ""
   },
   {
     "start": 398.72,
+    "end": 405.72,
+    "text": "sorrow nevertheless the other frog kept",
+    "textdich": ""
+  },
+  {
+    "start": 402.319,
+    "end": 410.52,
+    "text": "trying until he jumped so high that he",
+    "textdich": ""
+  },
+  {
+    "start": 405.72,
     "end": 413.84,
-    "text": "sorrow nevertheless the other frog kept trying until he jumped so high that he escaped the pit I made it I made my way",
+    "text": "escaped the pit I made it I made my way",
     "textdich": ""
   },
   {
     "start": 410.52,
+    "end": 417.56,
+    "text": "out all the other frogs were shocked at",
+    "textdich": ""
+  },
+  {
+    "start": 413.84,
+    "end": 420.72,
+    "text": "what just happened and were left in awe",
+    "textdich": ""
+  },
+  {
+    "start": 417.56,
     "end": 423.759,
-    "text": "out all the other frogs were shocked at what just happened and were left in awe to everybody's surprise the other frog",
+    "text": "to everybody's surprise the other frog",
     "textdich": ""
   },
   {
     "start": 420.72,
+    "end": 426.12,
+    "text": "turned out to be deaf and hence he",
+    "textdich": ""
+  },
+  {
+    "start": 423.759,
+    "end": 429.319,
+    "text": "couldn't hear the discouragement thrown",
+    "textdich": ""
+  },
+  {
+    "start": 426.12,
+    "end": 433.28,
+    "text": "at him he thought his friends were",
+    "textdich": ""
+  },
+  {
+    "start": 429.319,
     "end": 436.24,
-    "text": "turned out to be deaf and hence he couldn't hear the discouragement thrown at him he thought his friends were cheering him on the deaf frog proved",
+    "text": "cheering him on the deaf frog proved",
     "textdich": ""
   },
   {
     "start": 433.28,
+    "end": 439.16,
+    "text": "that people's opinion of you will affect",
+    "textdich": ""
+  },
+  {
+    "start": 436.24,
+    "end": 441.759,
+    "text": "you only if you believe their words",
+    "textdich": ""
+  },
+  {
+    "start": 439.16,
     "end": 445.24,
-    "text": "that people's opinion of you will affect you only if you believe their words rather than believing in yourself and being confident",
+    "text": "rather than believing in yourself and",
+    "textdich": ""
+  },
+  {
+    "start": 441.759,
+    "end": 445.24,
+    "text": "being confident",
     "textdich": ""
   },
   {
     "start": 450.919,
+    "end": 453.8,
+    "text": "never tell a",
+    "textdich": ""
+  },
+  {
+    "start": 454.56,
+    "end": 461.039,
+    "text": "lie ah here is my favorite red nail",
+    "textdich": ""
+  },
+  {
+    "start": 458.24,
+    "end": 463.72,
+    "text": "paint this will go perfectly with my",
+    "textdich": ""
+  },
+  {
+    "start": 461.039,
+    "end": 464.74,
+    "text": "outfit today let me take a shower first",
+    "textdich": ""
+  },
+  {
+    "start": 463.72,
+    "end": 469.8,
+    "text": "and get",
+    "textdich": ""
+  },
+  {
+    "start": 464.74,
     "end": 474.199,
-    "text": "never tell a lie ah here is my favorite red nail paint this will go perfectly with my outfit today let me take a shower first and get [Music]",
+    "text": "[Music]",
     "textdich": ""
   },
   {
     "start": 469.8,
+    "end": 477.23,
+    "text": "ready wow this color is so beautiful I",
+    "textdich": ""
+  },
+  {
+    "start": 474.199,
     "end": 480.309,
-    "text": "ready wow this color is so beautiful I will paint an Apple today with this [Music]",
+    "text": "will paint an Apple today with this",
+    "textdich": ""
+  },
+  {
+    "start": 477.23,
+    "end": 480.309,
+    "text": "[Music]",
     "textdich": ""
   },
   {
@@ -217,80 +757,350 @@
   },
   {
     "start": 489.96,
+    "end": 497.45,
+    "text": "[Music]",
+    "textdich": ""
+  },
+  {
+    "start": 493.96,
     "end": 501.91,
-    "text": "[Music] painting I kept it right here where is [Music]",
+    "text": "painting I kept it right here where is",
+    "textdich": ""
+  },
+  {
+    "start": 497.45,
+    "end": 501.91,
+    "text": "[Music]",
     "textdich": ""
   },
   {
     "start": 504.5,
+    "end": 509.039,
+    "text": "[Music]",
+    "textdich": ""
+  },
+  {
+    "start": 505.879,
+    "end": 509.61,
+    "text": "it how can I misplace my favorite nail",
+    "textdich": ""
+  },
+  {
+    "start": 509.039,
+    "end": 515.08,
+    "text": "paint",
+    "textdich": ""
+  },
+  {
+    "start": 509.61,
+    "end": 515.08,
+    "text": "[Music]",
+    "textdich": ""
+  },
+  {
+    "start": 515.64,
+    "end": 524.08,
+    "text": "tofu have you seen my red nail paint I",
+    "textdich": ""
+  },
+  {
+    "start": 519.08,
     "end": 527.04,
-    "text": "[Music] it how can I misplace my favorite nail paint [Music] tofu have you seen my red nail paint I can't find it I kept it on my bed M no",
+    "text": "can't find it I kept it on my bed M no",
     "textdich": ""
   },
   {
     "start": 524.08,
+    "end": 530.2,
+    "text": "what are you talking about I was in the",
+    "textdich": ""
+  },
+  {
+    "start": 527.04,
+    "end": 534.48,
+    "text": "living room completing my art",
+    "textdich": ""
+  },
+  {
+    "start": 530.2,
     "end": 538.48,
-    "text": "what are you talking about I was in the living room completing my art homework I have no idea about your nail paint h",
+    "text": "homework I have no idea about your nail",
+    "textdich": ""
+  },
+  {
+    "start": 534.48,
+    "end": 538.48,
+    "text": "paint h",
     "textdich": ""
   },
   {
     "start": 541.0,
+    "end": 544.01,
+    "text": "I will teach him a lesson now since he",
+    "textdich": ""
+  },
+  {
+    "start": 543.24,
+    "end": 547.56,
+    "text": "lied to",
+    "textdich": ""
+  },
+  {
+    "start": 544.01,
+    "end": 551.36,
+    "text": "[Music]",
+    "textdich": ""
+  },
+  {
+    "start": 547.56,
+    "end": 554.48,
+    "text": "me where is my painting how will I show",
+    "textdich": ""
+  },
+  {
+    "start": 551.36,
+    "end": 554.48,
+    "text": "it to my friends and",
+    "textdich": ""
+  },
+  {
+    "start": 554.76,
     "end": 559.3,
-    "text": "I will teach him a lesson now since he lied to [Music] me where is my painting how will I show it to my friends and teachers maybe God punished me for",
+    "text": "teachers maybe God punished me for",
     "textdich": ""
   },
   {
     "start": 557.279,
+    "end": 562.279,
+    "text": "stealing Tia's nail",
+    "textdich": ""
+  },
+  {
+    "start": 559.3,
+    "end": 566.12,
+    "text": "[Music]",
+    "textdich": ""
+  },
+  {
+    "start": 562.279,
     "end": 570.24,
-    "text": "stealing Tia's nail [Music] paint b tofu he didn't know he lied and hurt me for his Joy",
+    "text": "paint b tofu he didn't know he lied and",
+    "textdich": ""
+  },
+  {
+    "start": 566.12,
+    "end": 570.24,
+    "text": "hurt me for his Joy",
     "textdich": ""
   },
   {
     "start": 576.71,
+    "end": 581.2,
+    "text": "[Music]",
+    "textdich": ""
+  },
+  {
+    "start": 578.24,
+    "end": 584.72,
+    "text": "can I come in I want to give you",
+    "textdich": ""
+  },
+  {
+    "start": 581.2,
+    "end": 586.8,
+    "text": "something yes please come",
+    "textdich": ""
+  },
+  {
+    "start": 584.72,
+    "end": 590.88,
+    "text": "[Music]",
+    "textdich": ""
+  },
+  {
+    "start": 586.8,
+    "end": 593.36,
+    "text": "in what is it I'm sorry I picked up your",
+    "textdich": ""
+  },
+  {
+    "start": 590.88,
     "end": 596.12,
-    "text": "[Music] can I come in I want to give you something yes please come [Music] in what is it I'm sorry I picked up your nail paint while you were in the",
+    "text": "nail paint while you were in the",
     "textdich": ""
   },
   {
     "start": 593.36,
+    "end": 598.88,
+    "text": "shower actually the color looked so",
+    "textdich": ""
+  },
+  {
+    "start": 596.12,
+    "end": 600.71,
+    "text": "beautiful and I wanted to paint a red",
+    "textdich": ""
+  },
+  {
+    "start": 598.88,
+    "end": 604.32,
+    "text": "apple for my homework with",
+    "textdich": ""
+  },
+  {
+    "start": 600.71,
+    "end": 604.32,
+    "text": "[Music]",
+    "textdich": ""
+  },
+  {
+    "start": 604.68,
     "end": 609.079,
-    "text": "shower actually the color looked so beautiful and I wanted to paint a red apple for my homework with [Music] this I knew it when I saw the red nail",
+    "text": "this I knew it when I saw the red nail",
     "textdich": ""
   },
   {
     "start": 607.56,
+    "end": 612.24,
+    "text": "paint in the living",
+    "textdich": ""
+  },
+  {
+    "start": 609.079,
+    "end": 614.76,
+    "text": "room I remained quiet because I wanted",
+    "textdich": ""
+  },
+  {
+    "start": 612.24,
+    "end": 616.12,
+    "text": "you to realize your mistake and so I",
+    "textdich": ""
+  },
+  {
+    "start": 614.76,
+    "end": 618.92,
+    "text": "took your",
+    "textdich": ""
+  },
+  {
+    "start": 616.12,
     "end": 621.32,
-    "text": "paint in the living room I remained quiet because I wanted you to realize your mistake and so I took your painting I'm happy that you understand I",
+    "text": "painting I'm happy that you understand I",
     "textdich": ""
   },
   {
     "start": 618.92,
+    "end": 622.2,
+    "text": "was heartbroken as it was my favorite",
+    "textdich": ""
+  },
+  {
+    "start": 621.32,
+    "end": 624.92,
+    "text": "nail",
+    "textdich": ""
+  },
+  {
+    "start": 622.2,
+    "end": 628.04,
+    "text": "paint if you ever want to borrow",
+    "textdich": ""
+  },
+  {
+    "start": 624.92,
+    "end": 631.24,
+    "text": "anything from anyone you should always",
+    "textdich": ""
+  },
+  {
+    "start": 628.04,
     "end": 634.64,
-    "text": "was heartbroken as it was my favorite nail paint if you ever want to borrow anything from anyone you should always ask for permission first",
+    "text": "ask for permission first",
     "textdich": ""
   },
   {
     "start": 631.24,
+    "end": 637.279,
+    "text": "this is what good manners are always say",
+    "textdich": ""
+  },
+  {
+    "start": 634.64,
+    "end": 639.519,
+    "text": "may I borrow your stuff please if the",
+    "textdich": ""
+  },
+  {
+    "start": 637.279,
     "end": 642.88,
-    "text": "this is what good manners are always say may I borrow your stuff please if the person says yes then only you should",
+    "text": "person says yes then only you should",
     "textdich": ""
   },
   {
     "start": 639.519,
+    "end": 646.04,
+    "text": "take it I understood my mistake when my",
+    "textdich": ""
+  },
+  {
+    "start": 642.88,
+    "end": 648.72,
+    "text": "painting went missing I will always ask",
+    "textdich": ""
+  },
+  {
+    "start": 646.04,
     "end": 652.56,
-    "text": "take it I understood my mistake when my painting went missing I will always ask for permission Tia before borrowing",
+    "text": "for permission Tia before borrowing",
     "textdich": ""
   },
   {
     "start": 648.72,
+    "end": 655.36,
+    "text": "anything from anybody please forgive me",
+    "textdich": ""
+  },
+  {
+    "start": 652.56,
+    "end": 658.0,
+    "text": "it's okay tofu you're a good",
+    "textdich": ""
+  },
+  {
+    "start": 655.36,
+    "end": 660.9,
+    "text": "boy and you understand things very",
+    "textdich": ""
+  },
+  {
+    "start": 658.0,
+    "end": 662.959,
+    "text": "quickly",
+    "textdich": ""
+  },
+  {
+    "start": 660.9,
     "end": 666.079,
-    "text": "anything from anybody please forgive me it's okay tofu you're a good boy and you understand things very quickly [Music]",
+    "text": "[Music]",
     "textdich": ""
   },
   {
     "start": 662.959,
+    "end": 672.8,
+    "text": "for your favorite Rhymes stories and",
+    "textdich": ""
+  },
+  {
+    "start": 666.079,
+    "end": 672.8,
+    "text": "more join kids Hat Family subscribe here",
+    "textdich": ""
+  },
+  {
+    "start": 673.83,
     "end": 684.74,
-    "text": "for your favorite Rhymes stories and more join kids Hat Family subscribe here [Music]",
+    "text": "[Music]",
     "textdich": ""
   }
 ]

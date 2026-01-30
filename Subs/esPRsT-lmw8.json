@@ -1,0 +1,440 @@
+[
+  {
+    "start": 7.12,
+    "end": 23.56,
+    "text": "in this talk I'm going to give you the single most important lesson my colleagues and I have learned from looking at 83,000 brain scans but first",
+    "textdich": ""
+  },
+  {
+    "start": 20.56,
+    "end": 37.079,
+    "text": "let me put the lesson into context I am in the middle of seven children growing up my father called me a Maverick which to him was not a good",
+    "textdich": ""
+  },
+  {
+    "start": 32.559,
+    "end": 47.079,
+    "text": "thing in 1972 the Army called my number and I was trained as an infantry medic where my love of medicine was born but since I truly hated the idea of",
+    "textdich": ""
+  },
+  {
+    "start": 45.64,
+    "end": 60.559,
+    "text": "being shot at or sleeping in the mud I got myself retrained as an x-ray technician and developed a passion for medical imaging",
+    "textdich": ""
+  },
+  {
+    "start": 57.44,
+    "end": 73.119,
+    "text": "as our professors used to say how do you know unless you look in 1979 when I was a second-year medical student someone in my family became seriously",
+    "textdich": ""
+  },
+  {
+    "start": 70.88,
+    "end": 87.119,
+    "text": "suicidal and I took her to see a wonderful psychiatrist over time I realized that if he helped her which he did it would not only save her life but",
+    "textdich": ""
+  },
+  {
+    "start": 83.96,
+    "end": 101.759,
+    "text": "it would also help her children and even her future grandchildren as they would be shaped by someone who is happier and more stable I fell in love with",
+    "textdich": ""
+  },
+  {
+    "start": 97.6,
+    "end": 114.799,
+    "text": "Psychiatry because I realized it had the potential to change generations of people in 1991 I went to my first lecture on brain spec Imaging spec is a",
+    "textdich": ""
+  },
+  {
+    "start": 111.84,
+    "end": 126.119,
+    "text": "nuclear medicine study that looks at blood flow and activity it looks at how your brain works spec was presented as a tool to help",
+    "textdich": ""
+  },
+  {
+    "start": 123.159,
+    "end": 138.879,
+    "text": "psychiatrists get more information to help their patience in that one lecture my two professional loves Medical Imaging and Psychiatry",
+    "textdich": ""
+  },
+  {
+    "start": 135.879,
+    "end": 150.64,
+    "text": "came together and quite honestly revolutionized my life over the next 22 years my colleagues and I would build the world's largest database of brain",
+    "textdich": ""
+  },
+  {
+    "start": 147.48,
+    "end": 161.319,
+    "text": "scans related to behavior on patients from 93 countries spec basically tells us three things about the brain good",
+    "textdich": ""
+  },
+  {
+    "start": 157.72,
+    "end": 170.64,
+    "text": "activity too little or too much here is a set of healthy spec scans the image on the left shows the outside surface of",
+    "textdich": ""
+  },
+  {
+    "start": 167.0,
+    "end": 183.76,
+    "text": "the brain and a healthy scan shows full even symmetrical activity the color is not important it's the shape that matters in the image on the right red",
+    "textdich": ""
+  },
+  {
+    "start": 180.599,
+    "end": 194.64,
+    "text": "equals the areas of high activity and in a healthy brain they're typically in the back part of the brain here is a healthy scan compared to",
+    "textdich": ""
+  },
+  {
+    "start": 191.76,
+    "end": 204.84,
+    "text": "someone who had two strokes you can see the holes of activity here's what Alzheimer's looks like where the back half of the brain is",
+    "textdich": ""
+  },
+  {
+    "start": 201.959,
+    "end": 218.0,
+    "text": "deteriorating did you know that Alzheimer's disease actually starts in the brain 30 to 50 years before you have any symptoms here's a scan of traumatic",
+    "textdich": ""
+  },
+  {
+    "start": 215.48,
+    "end": 229.519,
+    "text": "brain injury your brain is soft and your skull is really hard or drug abuse the real reason not to use drugs they damage your",
+    "textdich": ""
+  },
+  {
+    "start": 226.92,
+    "end": 241.159,
+    "text": "brain obsessive compulsive disorder where the front part of the brain typically works too hard so that people cannot turn off their thoughts and",
+    "textdich": ""
+  },
+  {
+    "start": 237.519,
+    "end": 253.439,
+    "text": "epilepsy where we frequently see a of increased activity in 1992 I went to an all day conference on brain spec Imaging it was",
+    "textdich": ""
+  },
+  {
+    "start": 249.879,
+    "end": 266.08,
+    "text": "amazing and mirrored our own early experience using spec in Psychiatry but at that same meeting researchers started to complain loudly that clinical",
+    "textdich": ""
+  },
+  {
+    "start": 263.84,
+    "end": 280.96,
+    "text": "psychiatrists like me should not be doing scans that they were only for their research being a Maverick and having clinical experience",
+    "textdich": ""
+  },
+  {
+    "start": 277.0,
+    "end": 293.0,
+    "text": "I thought that was a really dumb idea without Imaging psychiatrists then and even now make diagnosis like they did in 1840",
+    "textdich": ""
+  },
+  {
+    "start": 289.72,
+    "end": 302.44,
+    "text": "when Abraham Lincoln was depressed by talking to people and looking for symptom clusters Imaging was showing us",
+    "textdich": ""
+  },
+  {
+    "start": 299.759,
+    "end": 314.96,
+    "text": "there was a better way did you know that psychiatrists are the only medical specialist that virtually never look at the organ they treat think about it",
+    "textdich": ""
+  },
+  {
+    "start": 311.72,
+    "end": 327.759,
+    "text": "cardiologists look neurologists look orthopedic doctors look virtually every other Medical Specialties look psychiatrist",
+    "textdich": ""
+  },
+  {
+    "start": 323.36,
+    "end": 339.639,
+    "text": "gets before Imaging I always felt like I was throwing darts in the the dark at my patients and had hurt some of them which",
+    "textdich": ""
+  },
+  {
+    "start": 335.8,
+    "end": 350.4,
+    "text": "horrified me there is a reason that most psychiatric medications have blackbox warnings give them to the wrong person and you can precipitate a",
+    "textdich": ""
+  },
+  {
+    "start": 350.479,
+    "end": 362.639,
+    "text": "disaster early on our Imaging work taught us many important lessons such as illnesses like ADHD anxiety depression",
+    "textdich": ""
+  },
+  {
+    "start": 359.039,
+    "end": 370.52,
+    "text": "and addiction are not single or simple disorders in the brain they all have multiple types for example here are two",
+    "textdich": ""
+  },
+  {
+    "start": 368.68,
+    "end": 379.96,
+    "text": "patients who have been diagnosed with major depression that had virtually the same symptoms yet radically different",
+    "textdich": ""
+  },
+  {
+    "start": 377.08,
+    "end": 391.44,
+    "text": "brains one had really low activity in the brain the other one had really high activity how would you ever know what to",
+    "textdich": ""
+  },
+  {
+    "start": 387.56,
+    "end": 404.919,
+    "text": "do for them unless you actually looked treatment needs to be tailored to individual brains not clusters of symptoms our Imaging work also taught us",
+    "textdich": ""
+  },
+  {
+    "start": 401.88,
+    "end": 414.36,
+    "text": "that mild traumatic brain injury was a major cause of psychiatric illness that ruined people's lives and virtually no",
+    "textdich": ""
+  },
+  {
+    "start": 412.08,
+    "end": 425.639,
+    "text": "one knew about it because they would seize psychiatrist for things like temper problems anxiety depression and ins IA and they would never look so they",
+    "textdich": ""
+  },
+  {
+    "start": 422.919,
+    "end": 437.599,
+    "text": "would never know here's a scan of a 15-year-old boy who fell down a flight of stairs at the age of three and even",
+    "textdich": ""
+  },
+  {
+    "start": 433.28,
+    "end": 449.56,
+    "text": "though he was unconscious for only a few minutes there was nothing mild about the enduring effect that injury had on This",
+    "textdich": ""
+  },
+  {
+    "start": 446.319,
+    "end": 461.4,
+    "text": "Boy's Life when I met him at the age of 15 he had just been kicked out of his third residential treatment program for violence he needed a brain",
+    "textdich": ""
+  },
+  {
+    "start": 458.16,
+    "end": 471.24,
+    "text": "rehabilitation program not just more medication thrown at him in the dark or behavior therapy which if you think",
+    "textdich": ""
+  },
+  {
+    "start": 467.919,
+    "end": 481.159,
+    "text": "about it is really cruel to put him on a behavior therapy program when behavior is really an expression of the problem it's not the",
+    "textdich": ""
+  },
+  {
+    "start": 478.44,
+    "end": 491.0,
+    "text": "problem researchers have found that undiagnosed brain injuries are a major cause of homelessness drug and alcohol",
+    "textdich": ""
+  },
+  {
+    "start": 486.56,
+    "end": 502.0,
+    "text": "abuse depression panic attacks ADHD and suicide we are in for a pending disaster with the hundreds of thousands of soldiers coming back from Iraq and",
+    "textdich": ""
+  },
+  {
+    "start": 499.44,
+    "end": 516.599,
+    "text": "Afghanistan and virtually no one is looking at the function of their brain as we continued our work with spec the criticism grew",
+    "textdich": ""
+  },
+  {
+    "start": 512.76,
+    "end": 527.399,
+    "text": "louder but so did the lessons judges and defense attorneys s our help to understand criminal Behavior to date we have scanned over 500 convicted felons",
+    "textdich": ""
+  },
+  {
+    "start": 523.839,
+    "end": 542.32,
+    "text": "including 90 murderers our work taught us that people who do bad things often have troubled brains that was not a surprise but what did surprise us was",
+    "textdich": ""
+  },
+  {
+    "start": 537.12,
+    "end": 552.56,
+    "text": "that many of these brains s could be rehabilitated so here's a radical idea what if we evaluated and treated troubled brains rather than simply",
+    "textdich": ""
+  },
+  {
+    "start": 549.44,
+    "end": 565.72,
+    "text": "warehousing them in toxic stressful environments in my experience we could TR we could save tremendous amounts of money by making these people more",
+    "textdich": ""
+  },
+  {
+    "start": 562.12,
+    "end": 576.8,
+    "text": "functional so when they left prison they could work support their families and pay taxes do stfi once said a society should",
+    "textdich": ""
+  },
+  {
+    "start": 574.72,
+    "end": 589.399,
+    "text": "be judged not by how well it treats its outstanding citizens but by how it treats its criminals instead of just Crime and",
+    "textdich": ""
+  },
+  {
+    "start": 586.279,
+    "end": 608.959,
+    "text": "Punishment we should be thinking about crime evaluation and treatment [Applause] so after 22 years and 83,000 scans the single most important lesson",
+    "textdich": ""
+  },
+  {
+    "start": 607.16,
+    "end": 619.56,
+    "text": "my colleagues and I have learned is that you can literally change people's brains and when you do you change their life you are not stuck with",
+    "textdich": ""
+  },
+  {
+    "start": 617.16,
+    "end": 629.6,
+    "text": "the brain you have you can make it better and we can prove it my colleagues and I performed the first and largest",
+    "textdich": ""
+  },
+  {
+    "start": 625.959,
+    "end": 639.079,
+    "text": "study on active and retired NFL players showing high levels of damage in these players at a time when the NFL said they",
+    "textdich": ""
+  },
+  {
+    "start": 636.079,
+    "end": 648.04,
+    "text": "didn't know if playing football caused long-term brain damage the fact was they didn't want to know that was not a surprise I think if you get most",
+    "textdich": ""
+  },
+  {
+    "start": 646.32,
+    "end": 654.6,
+    "text": "thoughtful nine-year-olds together and you talk about the brain is soft about the consistency of soft butter it's how",
+    "textdich": ""
+  },
+  {
+    "start": 652.48,
+    "end": 663.48,
+    "text": "in a really hard skull that has many sharp bony ridges you know 28 out of 39y olds would go probably a bad idea for your",
+    "textdich": ""
+  },
+  {
+    "start": 663.8,
+    "end": 679.12,
+    "text": "life but what really got us excited was the second part of the study where we put players on a brain smart program and",
+    "textdich": ""
+  },
+  {
+    "start": 675.079,
+    "end": 691.399,
+    "text": "demonstrated that 80% of them could improve in the areas of blood flow memory and mood that you are not stuck with the brain you have you can make it",
+    "textdich": ""
+  },
+  {
+    "start": 688.079,
+    "end": 702.76,
+    "text": "better on a brain smart program how exciting is that I am so excited reversing brain damage is a very exciting New Frontier but the",
+    "textdich": ""
+  },
+  {
+    "start": 699.76,
+    "end": 712.6,
+    "text": "implications are really much wider here is the scan of a teenage girl who has ADHD who is cutting herself failing in",
+    "textdich": ""
+  },
+  {
+    "start": 709.519,
+    "end": 726.12,
+    "text": "school and fighting with her parents when we improved her brain she went from D's and Fs to A's and B's and was much more emotionally stable",
+    "textdich": ""
+  },
+  {
+    "start": 723.24,
+    "end": 736.72,
+    "text": "here's a scan of Nancy Nancy had been diagnosed with dementia and her doctor told her husband that he should find a home for her",
+    "textdich": ""
+  },
+  {
+    "start": 733.36,
+    "end": 752.279,
+    "text": "because within a year she would not know his name but on an intensive brain rehabilitation program Nancy's brain was better as was her",
+    "textdich": ""
+  },
+  {
+    "start": 749.399,
+    "end": 763.68,
+    "text": "memory and 4 years later Nancy still knows her husband's name or my favorite story to illustrate this point is Andrew a 9-year-old boy",
+    "textdich": ""
+  },
+  {
+    "start": 762.16,
+    "end": 774.959,
+    "text": "who attacked a little girl on the baseball field for no particular reason and at the time was drawing pictures of himself hanging from a",
+    "textdich": ""
+  },
+  {
+    "start": 772.16,
+    "end": 789.48,
+    "text": "tree and shooting other children Andrew was Coline Aurora and Sandy Hook waiting to happen most psychiatrists would have medicated",
+    "textdich": ""
+  },
+  {
+    "start": 786.12,
+    "end": 800.48,
+    "text": "Andrew as they did Eric Harris and the other Mass Shooters before they committed their awful crimes but spec Imaging taught me that I had to look at",
+    "textdich": ""
+  },
+  {
+    "start": 797.8,
+    "end": 812.88,
+    "text": "his brain and not throw darts in the dark at him to understand what he needed his spec scan showed assist the size of a golf ball",
+    "textdich": ""
+  },
+  {
+    "start": 810.16,
+    "end": 823.8,
+    "text": "occupying the space of his left temporal loob no amount of medication or therapy would have helped Andrew when the cyst was",
+    "textdich": ""
+  },
+  {
+    "start": 820.72,
+    "end": 839.639,
+    "text": "removed his behavior completely went back to normal and he became the sweet loving boy he always wanted to be now 18 years later Andrew who is my",
+    "textdich": ""
+  },
+  {
+    "start": 835.199,
+    "end": 856.639,
+    "text": "nephew owns his own home is employed and pays taxes because someone bothered to look at his brain he has been a better son",
+    "textdich": ""
+  },
+  {
+    "start": 850.32,
+    "end": 867.44,
+    "text": "and will be a better husband father and grandfather when you have the privilege of changing someone's brain you not only change his or her",
+    "textdich": ""
+  },
+  {
+    "start": 864.399,
+    "end": 876.16,
+    "text": "life you have the opportunity to change generations to come I'm Dr Daniel aan thank you",
+    "textdich": ""
+  }
+]
