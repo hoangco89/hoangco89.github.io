@@ -1,0 +1,4988 @@
+[
+  {
+    "start": 0.12,
+    "end": 5.12,
+    "text": "Hãy thành thật với tôi nhé. Lần gần nhất",
+    "textdich": ""
+  },
+  {
+    "start": 2.56,
+    "end": 7.279,
+    "text": "bạn ăn một quả đu đủ, bạn đã làm gì với",
+    "textdich": ""
+  },
+  {
+    "start": 5.12,
+    "end": 9.24,
+    "text": "những hạt đen bên trong? Và bạn đã bao",
+    "textdich": ""
+  },
+  {
+    "start": 7.279,
+    "end": 11.84,
+    "text": "giờ nghĩ đến việc đào cái rễ của cây đu",
+    "textdich": ""
+  },
+  {
+    "start": 9.24,
+    "end": 14.24,
+    "text": "đủ lên chưa? Chắc chắn là bạn đã gọt vỏ,",
+    "textdich": ""
+  },
+  {
+    "start": 11.84,
+    "end": 16.76,
+    "text": "bỏ hạt, cắt bỏ rễ và chỉ thưởng thức",
+    "textdich": ""
+  },
+  {
+    "start": 14.24,
+    "end": 19.359,
+    "text": "phần thịt ngọt ngào, mềm mại phải không?",
+    "textdich": ""
+  },
+  {
+    "start": 16.76,
+    "end": 21.6,
+    "text": "Nếu câu trả lời là có thì tôi rất tiếc",
+    "textdich": ""
+  },
+  {
+    "start": 19.359,
+    "end": 23.359,
+    "text": "phải nói với bạn điều này. Bạn có thể đã",
+    "textdich": ""
+  },
+  {
+    "start": 21.6,
+    "end": 25.359,
+    "text": "vứt đi chính phương thuốc cứu mạng mình",
+    "textdich": ""
+  },
+  {
+    "start": 23.359,
+    "end": 27.92,
+    "text": "vào sọt rác. Chúng ta đang sống trong",
+    "textdich": ""
+  },
+  {
+    "start": 25.359,
+    "end": 29.72,
+    "text": "một nghịch lý đau lòng. Hàng ngày chúng",
+    "textdich": ""
+  },
+  {
+    "start": 27.92,
+    "end": 31.4,
+    "text": "ta đi khắp nơi tìm kiếm những loại thuốc",
+    "textdich": ""
+  },
+  {
+    "start": 29.72,
+    "end": 33.44,
+    "text": "đắt tiền, những thực phẩm chức năng",
+    "textdich": ""
+  },
+  {
+    "start": 31.4,
+    "end": 35.2,
+    "text": "ngoại nhập để kiểm soát đường huyết.",
+    "textdich": ""
+  },
+  {
+    "start": 33.44,
+    "end": 37.559,
+    "text": "Chúng ta lo sợ từng chỉ số đường tăng",
+    "textdich": ""
+  },
+  {
+    "start": 35.2,
+    "end": 40.039,
+    "text": "lên sau mỗi bữa ăn. Chúng ta kiêng khem",
+    "textdich": ""
+  },
+  {
+    "start": 37.559,
+    "end": 42.719,
+    "text": "khổ sở, nhìn bát cơm trắng mà không dám",
+    "textdich": ""
+  },
+  {
+    "start": 40.039,
+    "end": 44.96,
+    "text": "ăn, nhìn quả ngọt mà phải lắc đầu. Thế",
+    "textdich": ""
+  },
+  {
+    "start": 42.719,
+    "end": 47.0,
+    "text": "nhưng ngay trong vườn nhà hoặc ngay trên",
+    "textdich": ""
+  },
+  {
+    "start": 44.96,
+    "end": 48.64,
+    "text": "bàn bếp, chúng ta lại vô tình ném đi",
+    "textdich": ""
+  },
+  {
+    "start": 47.0,
+    "end": 50.32,
+    "text": "những chiến binh mạnh mẽ nhất có khả",
+    "textdich": ""
+  },
+  {
+    "start": 48.64,
+    "end": 52.8,
+    "text": "năng dọn sạch đường trong máu chỉ sau",
+    "textdich": ""
+  },
+  {
+    "start": 50.32,
+    "end": 55.239,
+    "text": "một tuần lễ. Bạn không nghe nhầm đâu.",
+    "textdich": ""
+  },
+  {
+    "start": 52.8,
+    "end": 58.12,
+    "text": "Một tuần lễ, tôi biết khi nghe đến con",
+    "textdich": ""
+  },
+  {
+    "start": 55.239,
+    "end": 59.96,
+    "text": "số bả ngày, bạn sẽ hoài nghi. Trong thế",
+    "textdich": ""
+  },
+  {
+    "start": 58.12,
+    "end": 62.16,
+    "text": "giới đầy dẫy, những lời quảng cáo phóng",
+    "textdich": ""
+  },
+  {
+    "start": 59.96,
+    "end": 64.64,
+    "text": "đại về thần dược, sự hoài nghi của bạn",
+    "textdich": ""
+  },
+  {
+    "start": 62.16,
+    "end": 66.96,
+    "text": "là hoàn toàn có cơ sở và tôi tôn trọng",
+    "textdich": ""
+  },
+  {
+    "start": 64.64,
+    "end": 69.2,
+    "text": "điều đó. Bác sĩ của bạn có thể chưa bao",
+    "textdich": ""
+  },
+  {
+    "start": 66.96,
+    "end": 71.4,
+    "text": "giờ kể cho bạn nghe về điều này. Thậm",
+    "textdich": ""
+  },
+  {
+    "start": 69.2,
+    "end": 73.6,
+    "text": "chí nhiều người còn tin rằng người bị",
+    "textdich": ""
+  },
+  {
+    "start": 71.4,
+    "end": 76.2,
+    "text": "tiểu đường hay đường huyết cao thì tuyệt",
+    "textdich": ""
+  },
+  {
+    "start": 73.6,
+    "end": 78.24,
+    "text": "đối phải tránh xa đu đủ vì nó ngọt.",
+    "textdich": ""
+  },
+  {
+    "start": 76.2,
+    "end": 80.759,
+    "text": "Nhưng sự thật khoa học lại kể một câu",
+    "textdich": ""
+  },
+  {
+    "start": 78.24,
+    "end": 83.28,
+    "text": "chuyện hoàn toàn khác. Hôm nay tôi không",
+    "textdich": ""
+  },
+  {
+    "start": 80.759,
+    "end": 85.32,
+    "text": "ở đây để nói những lời xáo rỗng. Tôi ở",
+    "textdich": ""
+  },
+  {
+    "start": 83.28,
+    "end": 87.28,
+    "text": "đây để mang đến cho bạn những bằng chứng",
+    "textdich": ""
+  },
+  {
+    "start": 85.32,
+    "end": 89.72,
+    "text": "xác thực nhất từ những phòng thí nghiệm",
+    "textdich": ""
+  },
+  {
+    "start": 87.28,
+    "end": 91.96,
+    "text": "uy tín tại Nhật Bản, Châu Âu và Mỹ.",
+    "textdich": ""
+  },
+  {
+    "start": 89.72,
+    "end": 94.399,
+    "text": "Những nghiên cứu mới nhất đã chỉ ra rằng",
+    "textdich": ""
+  },
+  {
+    "start": 91.96,
+    "end": 97.0,
+    "text": "cây đu đủ cái cây dân dã mọc ở góc vườn",
+    "textdich": ""
+  },
+  {
+    "start": 94.399,
+    "end": 98.799,
+    "text": "quê Việt Nam ấy sở hữu ít nhất bảy đến",
+    "textdich": ""
+  },
+  {
+    "start": 97.0,
+    "end": 100.88,
+    "text": "tám bộ phận khác nhau có khả năng kiểm",
+    "textdich": ""
+  },
+  {
+    "start": 98.799,
+    "end": 102.84,
+    "text": "soát đường huyết kỳ diệu. Điều đáng kinh",
+    "textdich": ""
+  },
+  {
+    "start": 100.88,
+    "end": 104.52,
+    "text": "ngạc là gì bạn biết không? Đó là những",
+    "textdich": ""
+  },
+  {
+    "start": 102.84,
+    "end": 106.36,
+    "text": "bộ phận có tác dụng mạnh nhất, nhanh",
+    "textdich": ""
+  },
+  {
+    "start": 104.52,
+    "end": 108.24,
+    "text": "nhất, lại không phải là phần quả chín",
+    "textdich": ""
+  },
+  {
+    "start": 106.36,
+    "end": 110.799,
+    "text": "bạn vẫn ăn hàng ngày. Các nhà khoa học",
+    "textdich": ""
+  },
+  {
+    "start": 108.24,
+    "end": 112.84,
+    "text": "đã chứng minh rằng rễ và hạt của cây đu",
+    "textdich": ""
+  },
+  {
+    "start": 110.799,
+    "end": 115.2,
+    "text": "đủ, vâng chính là những thứ chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 112.84,
+    "end": 116.92,
+    "text": "thường xem là giác thải, lại có tác dụng",
+    "textdich": ""
+  },
+  {
+    "start": 115.2,
+    "end": 118.84,
+    "text": "ổn định đường huyết nhanh nhất với những",
+    "textdich": ""
+  },
+  {
+    "start": 116.92,
+    "end": 121.159,
+    "text": "chuyển biến rõ rệt được ghi nhận chỉ sau",
+    "textdich": ""
+  },
+  {
+    "start": 118.84,
+    "end": 123.0,
+    "text": "7 ngày đầu tiên sử dụng. Thậm chí sức",
+    "textdich": ""
+  },
+  {
+    "start": 121.159,
+    "end": 125.0,
+    "text": "mạnh của hạt đu đủ trong việc hỗ trợ",
+    "textdich": ""
+  },
+  {
+    "start": 123.0,
+    "end": 128.52,
+    "text": "điều trị tiểu đường còn được chứng minh",
+    "textdich": ""
+  },
+  {
+    "start": 125.0,
+    "end": 130.879,
+    "text": "là hiệu quả hơn lá đu đủ đến 76%. Bạn",
+    "textdich": ""
+  },
+  {
+    "start": 128.52,
+    "end": 133.12,
+    "text": "hãy tưởng tượng xem bao lâu nay chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 130.879,
+    "end": 135.64,
+    "text": "nghe nói lá đu đủ tốt, chúng ta đu nước",
+    "textdich": ""
+  },
+  {
+    "start": 133.12,
+    "end": 138.28,
+    "text": "lá uống đắng ngắt cổ họng, nhưng hóa ra",
+    "textdich": ""
+  },
+  {
+    "start": 135.64,
+    "end": 140.36,
+    "text": "cái hạt đen nhánh, cay nồng mà ta gạt bỏ",
+    "textdich": ""
+  },
+  {
+    "start": 138.28,
+    "end": 142.44,
+    "text": "đi ấy lại mạnh hơn chiếc lá kia gấp",
+    "textdich": ""
+  },
+  {
+    "start": 140.36,
+    "end": 144.519,
+    "text": "nhiều lần. Tại sao chúng ta lại bỏ lỡ",
+    "textdich": ""
+  },
+  {
+    "start": 142.44,
+    "end": 146.56,
+    "text": "một kho báu như vậy? Đó là vì chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 144.519,
+    "end": 148.72,
+    "text": "chưa được khai sáng. Chúng ta bị cuốn",
+    "textdich": ""
+  },
+  {
+    "start": 146.56,
+    "end": 150.68,
+    "text": "theo thói quen, theo khẩu vị ngon miệng",
+    "textdich": ""
+  },
+  {
+    "start": 148.72,
+    "end": 152.239,
+    "text": "mà quên mất rằng thiên nhiên ban tặng",
+    "textdich": ""
+  },
+  {
+    "start": 150.68,
+    "end": 154.519,
+    "text": "dược tính thường nằm ở những nơi gay",
+    "textdich": ""
+  },
+  {
+    "start": 152.239,
+    "end": 156.519,
+    "text": "góc, đáng chát hoặc ở những bộ phận",
+    "textdich": ""
+  },
+  {
+    "start": 154.519,
+    "end": 159.44,
+    "text": "khiêm nhường nhất. Tôi muốn bạn hãy thử",
+    "textdich": ""
+  },
+  {
+    "start": 156.519,
+    "end": 161.72,
+    "text": "hình dung về cơ thể mình lúc này. Dòng",
+    "textdich": ""
+  },
+  {
+    "start": 159.44,
+    "end": 163.84,
+    "text": "máu của bạn thay vì trôi chảy nhẹ nhàng",
+    "textdich": ""
+  },
+  {
+    "start": 161.72,
+    "end": 166.0,
+    "text": "như một dòng suối trong mát thì nay lại",
+    "textdich": ""
+  },
+  {
+    "start": 163.84,
+    "end": 168.08,
+    "text": "đang đặc quánh vì đường. Những phân tử",
+    "textdich": ""
+  },
+  {
+    "start": 166.0,
+    "end": 170.68,
+    "text": "đường dư thừa ấy giống như những hạt cát",
+    "textdich": ""
+  },
+  {
+    "start": 168.08,
+    "end": 172.64,
+    "text": "sắc nhọn trôi nổi trong mạch máu, cọ sát",
+    "textdich": ""
+  },
+  {
+    "start": 170.68,
+    "end": 174.8,
+    "text": "và làm tổn thương thành mạch mỗi ngày",
+    "textdich": ""
+  },
+  {
+    "start": 172.64,
+    "end": 177.56,
+    "text": "mỗi giờ. Chúng âm thầm tàn phá mắt,",
+    "textdich": ""
+  },
+  {
+    "start": 174.8,
+    "end": 179.68,
+    "text": "thận, tim và hệ thần kinh của bạn. Đó là",
+    "textdich": ""
+  },
+  {
+    "start": 177.56,
+    "end": 182.2,
+    "text": "nỗi sợ hãi lớn nhất của tuổi già. không",
+    "textdich": ""
+  },
+  {
+    "start": 179.68,
+    "end": 184.799,
+    "text": "phải là cái chết mà là sự biến chứng là",
+    "textdich": ""
+  },
+  {
+    "start": 182.2,
+    "end": 186.64,
+    "text": "gánh nặng cho con cháu. Nhưng tin vui là",
+    "textdich": ""
+  },
+  {
+    "start": 184.799,
+    "end": 188.76,
+    "text": "thiên nhiên luôn có lời giải cho mọi bài",
+    "textdich": ""
+  },
+  {
+    "start": 186.64,
+    "end": 190.959,
+    "text": "toán hóc búa. Trong video đặc biệt ngày",
+    "textdich": ""
+  },
+  {
+    "start": 188.76,
+    "end": 193.44,
+    "text": "hôm nay, tôi sẽ không chỉ khuyên bạn hãy",
+    "textdich": ""
+  },
+  {
+    "start": 190.959,
+    "end": 195.72,
+    "text": "ăn đu đủ đi, không lời khuyên đó quá",
+    "textdich": ""
+  },
+  {
+    "start": 193.44,
+    "end": 198.519,
+    "text": "chung chung và có thể gây hại nếu bạn ăn",
+    "textdich": ""
+  },
+  {
+    "start": 195.72,
+    "end": 200.599,
+    "text": "sai cách. Tôi sẽ nắm tay bạn, dẫn bạn đi",
+    "textdich": ""
+  },
+  {
+    "start": 198.519,
+    "end": 202.319,
+    "text": "sâu vào một hành trình khám phá lại cây",
+    "textdich": ""
+  },
+  {
+    "start": 200.599,
+    "end": 205.2,
+    "text": "đu đủ dưới lăng kính của khoa học hiện",
+    "textdich": ""
+  },
+  {
+    "start": 202.319,
+    "end": 207.36,
+    "text": "đại. Tôi sẽ chỉ cho bạn thấy tại sao cái",
+    "textdich": ""
+  },
+  {
+    "start": 205.2,
+    "end": 208.879,
+    "text": "dãy cây xù xì dưới lòng đất lại có thể",
+    "textdich": ""
+  },
+  {
+    "start": 207.36,
+    "end": 210.92,
+    "text": "làm giảm chỉ số đường huyết nhanh chóng",
+    "textdich": ""
+  },
+  {
+    "start": 208.879,
+    "end": 212.84,
+    "text": "đến vậy. Tại sao người Nhật Bản lại trân",
+    "textdich": ""
+  },
+  {
+    "start": 210.92,
+    "end": 215.2,
+    "text": "trọng đu đủ lên men như một báu vật quốc",
+    "textdich": ""
+  },
+  {
+    "start": 212.84,
+    "end": 217.28,
+    "text": "gia để bảo vệ sức khỏe người cao tuổi?",
+    "textdich": ""
+  },
+  {
+    "start": 215.2,
+    "end": 219.72,
+    "text": "Và quan trọng nhất, tôi sẽ hướng dẫn bạn",
+    "textdich": ""
+  },
+  {
+    "start": 217.28,
+    "end": 222.08,
+    "text": "công thức cụ thể dùng bao nhiêu hạt, nấu",
+    "textdich": ""
+  },
+  {
+    "start": 219.72,
+    "end": 224.04,
+    "text": "dễ như thế nào, ăn quả xanh hay quả chín",
+    "textdich": ""
+  },
+  {
+    "start": 222.08,
+    "end": 226.439,
+    "text": "vào giờ nào để biến chúng thành cỗ máy",
+    "textdich": ""
+  },
+  {
+    "start": 224.04,
+    "end": 228.04,
+    "text": "hút đường ra khỏi cơ thể bạn. Nếu bạn là",
+    "textdich": ""
+  },
+  {
+    "start": 226.439,
+    "end": 230.28,
+    "text": "người đang ngày đêm lo lắng về chỉ số",
+    "textdich": ""
+  },
+  {
+    "start": 228.04,
+    "end": 231.879,
+    "text": "đường huyết hoặc bạn có cha mẹ, người",
+    "textdich": ""
+  },
+  {
+    "start": 230.28,
+    "end": 233.92,
+    "text": "thân đang phải sống chung với những viên",
+    "textdich": ""
+  },
+  {
+    "start": 231.879,
+    "end": 236.04,
+    "text": "thuốc tây mỗi ngày thì đây chính là",
+    "textdich": ""
+  },
+  {
+    "start": 233.92,
+    "end": 238.36,
+    "text": "video dành cho bạn. Đừng rời mắt khỏi",
+    "textdich": ""
+  },
+  {
+    "start": 236.04,
+    "end": 240.159,
+    "text": "màn hình. Đừng để sự thiếu hiểu biết",
+    "textdich": ""
+  },
+  {
+    "start": 238.36,
+    "end": 242.72,
+    "text": "cướp đi cơ hội sống khỏe mạnh của bạn",
+    "textdich": ""
+  },
+  {
+    "start": 240.159,
+    "end": 245.2,
+    "text": "thêm một ngày nào nữa. Ngay bây giờ, nếu",
+    "textdich": ""
+  },
+  {
+    "start": 242.72,
+    "end": 246.959,
+    "text": "bạn đã sẵn sàng để lật ngược thế cờ, để",
+    "textdich": ""
+  },
+  {
+    "start": 245.2,
+    "end": 248.959,
+    "text": "biến những thứ bỏ đi thành thần dược cứu",
+    "textdich": ""
+  },
+  {
+    "start": 246.959,
+    "end": 251.12,
+    "text": "mình, hãy dành một giây bấm vào nút đăng",
+    "textdich": ""
+  },
+  {
+    "start": 248.959,
+    "end": 253.12,
+    "text": "ký kênh và để lại bình luận số một bên",
+    "textdich": ""
+  },
+  {
+    "start": 251.12,
+    "end": 255.48,
+    "text": "dưới. Hãy cho tôi biết rằng bạn đang ở",
+    "textdich": ""
+  },
+  {
+    "start": 253.12,
+    "end": 258.44,
+    "text": "đây, sẵn sàng lắng nghe và sẵn sàng thay",
+    "textdich": ""
+  },
+  {
+    "start": 255.48,
+    "end": 260.079,
+    "text": "đổi. Bạn đã bình luận chưa? Cảm ơn bạn.",
+    "textdich": ""
+  },
+  {
+    "start": 258.44,
+    "end": 261.72,
+    "text": "Sự hiện diện của bạn chính là động lực",
+    "textdich": ""
+  },
+  {
+    "start": 260.079,
+    "end": 264.16,
+    "text": "lớn nhất để chúng tôi tiếp tục hành",
+    "textdich": ""
+  },
+  {
+    "start": 261.72,
+    "end": 266.36,
+    "text": "trình này. Và bây giờ hãy cùng tôi đi",
+    "textdich": ""
+  },
+  {
+    "start": 264.16,
+    "end": 268.96,
+    "text": "tìm lời giải cho câu hỏi tại sao chúng",
+    "textdich": ""
+  },
+  {
+    "start": 266.36,
+    "end": 270.88,
+    "text": "ta lại ăn sai bỏ đúng suốt bấy lâu nay?",
+    "textdich": ""
+  },
+  {
+    "start": 268.96,
+    "end": 273.199,
+    "text": "Và câu chuyện của người đàn ông tên Long",
+    "textdich": ""
+  },
+  {
+    "start": 270.88,
+    "end": 275.4,
+    "text": "mà tôi sắp kể dưới đây có thể chính là",
+    "textdich": ""
+  },
+  {
+    "start": 273.199,
+    "end": 279.639,
+    "text": "câu chuyện của bạn. Tôi muốn kể cho bạn",
+    "textdich": ""
+  },
+  {
+    "start": 275.4,
+    "end": 281.84,
+    "text": "nghe về bác Long. Năm nay bác 68 tuổi là",
+    "textdich": ""
+  },
+  {
+    "start": 279.639,
+    "end": 284.0,
+    "text": "một giáo viên về hưu ở một vùng quê yên",
+    "textdich": ""
+  },
+  {
+    "start": 281.84,
+    "end": 286.32,
+    "text": "bình. Bác Long giống như rất nhiều người",
+    "textdich": ""
+  },
+  {
+    "start": 284.0,
+    "end": 289.039,
+    "text": "trong chúng ta, cả đời cống hiến, làm",
+    "textdich": ""
+  },
+  {
+    "start": 286.32,
+    "end": 291.199,
+    "text": "lụng vất vả để rồi khi về già, tài sản",
+    "textdich": ""
+  },
+  {
+    "start": 289.039,
+    "end": 293.44,
+    "text": "lớn nhất nhận được lại là một tập hồ sơ",
+    "textdich": ""
+  },
+  {
+    "start": 291.199,
+    "end": 295.4,
+    "text": "bệnh án dày cộm và những vị thuốc tây",
+    "textdich": ""
+  },
+  {
+    "start": 293.44,
+    "end": 297.96,
+    "text": "uống thay cơm. Bác Long bị tiểu đường",
+    "textdich": ""
+  },
+  {
+    "start": 295.4,
+    "end": 299.88,
+    "text": "tuýp hai đã gần 10 năm nay. 10 năm ấy là",
+    "textdich": ""
+  },
+  {
+    "start": 297.96,
+    "end": 301.88,
+    "text": "một cuộc chiến không cân sức. Tôi nhớ",
+    "textdich": ""
+  },
+  {
+    "start": 299.88,
+    "end": 304.56,
+    "text": "mãi ánh mắt ám ảnh của bác khi bác nói",
+    "textdich": ""
+  },
+  {
+    "start": 301.88,
+    "end": 306.08,
+    "text": "với tôi, \"Cái bệnh này nó lạ lắm cháu ạ.",
+    "textdich": ""
+  },
+  {
+    "start": 304.56,
+    "end": 308.8,
+    "text": "Nó không làm mình đau đớn quằn quạiy",
+    "textdich": ""
+  },
+  {
+    "start": 306.08,
+    "end": 311.28,
+    "text": "ngay mà nó cứ gặm nhấm mình từ từ như là",
+    "textdich": ""
+  },
+  {
+    "start": 308.8,
+    "end": 313.199,
+    "text": "mối sông nhà vậy. Mỗi sáng thức dậy,",
+    "textdich": ""
+  },
+  {
+    "start": 311.28,
+    "end": 315.479,
+    "text": "việc đầu tiên bác làm không phải là vươn",
+    "textdich": ""
+  },
+  {
+    "start": 313.199,
+    "end": 317.919,
+    "text": "vai hít thở không khí trong lành mà là",
+    "textdich": ""
+  },
+  {
+    "start": 315.479,
+    "end": 320.6,
+    "text": "lấy cái kim chọc vào đầu ngón tay để đo",
+    "textdich": ""
+  },
+  {
+    "start": 317.919,
+    "end": 323.56,
+    "text": "đường huyết. Nếu con số hiện lên là sáu",
+    "textdich": ""
+  },
+  {
+    "start": 320.6,
+    "end": 326.08,
+    "text": "chấm bảy chấm thì bác thở phào. Nhưng",
+    "textdich": ""
+  },
+  {
+    "start": 323.56,
+    "end": 328.16,
+    "text": "hôm nào lỡ ăn bát cơm đầy hay vui miệng",
+    "textdich": ""
+  },
+  {
+    "start": 326.08,
+    "end": 330.72,
+    "text": "ăn miếng bánh ngọt, con số vọt lên 9",
+    "textdich": ""
+  },
+  {
+    "start": 328.16,
+    "end": 332.919,
+    "text": "chấm 10 chấm là cả ngày hôm đó bác sống",
+    "textdich": ""
+  },
+  {
+    "start": 330.72,
+    "end": 335.919,
+    "text": "trong lo âu. Nỗi sợ lớn nhất của bác",
+    "textdich": ""
+  },
+  {
+    "start": 332.919,
+    "end": 338.479,
+    "text": "Long không phải là cái chết. Người già",
+    "textdich": ""
+  },
+  {
+    "start": 335.919,
+    "end": 340.919,
+    "text": "ai mà chẳng phải đi. Nỗi sợ lớn nhất của",
+    "textdich": ""
+  },
+  {
+    "start": 338.479,
+    "end": 342.88,
+    "text": "bác là trở thành gánh nặng. Bác bắt đầu",
+    "textdich": ""
+  },
+  {
+    "start": 340.919,
+    "end": 345.199,
+    "text": "thấy những ngón chân mình tê bì, cảm",
+    "textdich": ""
+  },
+  {
+    "start": 342.88,
+    "end": 346.8,
+    "text": "giác như kiến bò. Đôi khi mất cảm giác",
+    "textdich": ""
+  },
+  {
+    "start": 345.199,
+    "end": 349.4,
+    "text": "đến mức giẫm lên hòn sỏi cũng không",
+    "textdich": ""
+  },
+  {
+    "start": 346.8,
+    "end": 351.68,
+    "text": "biết. Mắt bác bắt đầu mờ đi như có một",
+    "textdich": ""
+  },
+  {
+    "start": 349.4,
+    "end": 354.319,
+    "text": "lớp sương mù che phủ. Bác sợ một ngày",
+    "textdich": ""
+  },
+  {
+    "start": 351.68,
+    "end": 357.199,
+    "text": "nào đó sẽ phải nằm một chỗ, sợ phải đoạn",
+    "textdich": ""
+  },
+  {
+    "start": 354.319,
+    "end": 359.84,
+    "text": "chi, sợ làm khổ vợ con. Cái cảm giác bất",
+    "textdich": ""
+  },
+  {
+    "start": 357.199,
+    "end": 362.52,
+    "text": "lực ấy nó đáng sợ hơn bất kỳ nỗi đau thể",
+    "textdich": ""
+  },
+  {
+    "start": 359.84,
+    "end": 364.759,
+    "text": "xác nào. Và chớ trêu thay, ngay góc vườn",
+    "textdich": ""
+  },
+  {
+    "start": 362.52,
+    "end": 367.28,
+    "text": "nhà bác Long có một cây đu đủ rất sai",
+    "textdich": ""
+  },
+  {
+    "start": 364.759,
+    "end": 369.52,
+    "text": "quả. Suốt bao năm nay, bác Long vẫn nhìn",
+    "textdich": ""
+  },
+  {
+    "start": 367.28,
+    "end": 371.639,
+    "text": "cây đu đủ ấy với ánh mắt vừa thèm thuồng",
+    "textdich": ""
+  },
+  {
+    "start": 369.52,
+    "end": 373.84,
+    "text": "vừa đề phòng. Bác sĩ dặn bác phải hạn",
+    "textdich": ""
+  },
+  {
+    "start": 371.639,
+    "end": 376.24,
+    "text": "chế đồ ngọt. Thế là mỗi khi hái quả chín",
+    "textdich": ""
+  },
+  {
+    "start": 373.84,
+    "end": 378.24,
+    "text": "xuống, bác chỉ dám cắt cho các cháu ăn,",
+    "textdich": ""
+  },
+  {
+    "start": 376.24,
+    "end": 380.68,
+    "text": "còn mình thì nuốt nước miếng quay đi.",
+    "textdich": ""
+  },
+  {
+    "start": 378.24,
+    "end": 383.16,
+    "text": "Hoặc đôi khi thèm quá, bác ăn một miếng",
+    "textdich": ""
+  },
+  {
+    "start": 380.68,
+    "end": 386.08,
+    "text": "rồi lại nơm nớp lo sợ đường lên. Khi gọt",
+    "textdich": ""
+  },
+  {
+    "start": 383.16,
+    "end": 388.319,
+    "text": "đu đủ, bác Long làm gì? Bác cẩn thận gạt",
+    "textdich": ""
+  },
+  {
+    "start": 386.08,
+    "end": 390.8,
+    "text": "bỏ hết lớp hạt đen nhánh vào thùng rác,",
+    "textdich": ""
+  },
+  {
+    "start": 388.319,
+    "end": 392.88,
+    "text": "bác gọt sạch lớp vỏ xanh. Còn cái rễ cây",
+    "textdich": ""
+  },
+  {
+    "start": 390.8,
+    "end": 395.12,
+    "text": "già cỗi dưới đất, bác chưa bao giờ nghĩ",
+    "textdich": ""
+  },
+  {
+    "start": 392.88,
+    "end": 397.599,
+    "text": "đến việc đào nó lên, trừ khi muốn chặt",
+    "textdich": ""
+  },
+  {
+    "start": 395.12,
+    "end": 399.68,
+    "text": "bỏ cây để trồng cây khác. Bạn thấy hình",
+    "textdich": ""
+  },
+  {
+    "start": 397.599,
+    "end": 401.68,
+    "text": "ảnh này có quen không? Đó chính là bi",
+    "textdich": ""
+  },
+  {
+    "start": 399.68,
+    "end": 404.639,
+    "text": "kịch của sự thiếu hiểu biết mà tôi đã",
+    "textdich": ""
+  },
+  {
+    "start": 401.68,
+    "end": 406.96,
+    "text": "nhắc đến. Bác Long và có lẽ là cả bạn",
+    "textdich": ""
+  },
+  {
+    "start": 404.639,
+    "end": 409.08,
+    "text": "nữa đang ngồi trên đống vàng mà than",
+    "textdich": ""
+  },
+  {
+    "start": 406.96,
+    "end": 411.16,
+    "text": "nghèo. Chúng ta đang cầm trên tay một",
+    "textdich": ""
+  },
+  {
+    "start": 409.08,
+    "end": 413.479,
+    "text": "kho báu dược liệu nhưng lại chỉ sử dụng",
+    "textdich": ""
+  },
+  {
+    "start": 411.16,
+    "end": 415.36,
+    "text": "phần ít giá trị nhất và thẳng tay vứt bỏ",
+    "textdich": ""
+  },
+  {
+    "start": 413.479,
+    "end": 417.72,
+    "text": "những phần tinh túy nhất. Cho đến một",
+    "textdich": ""
+  },
+  {
+    "start": 415.36,
+    "end": 419.44,
+    "text": "ngày, Bác Long gặp lại người bạn cũ là",
+    "textdich": ""
+  },
+  {
+    "start": 417.72,
+    "end": 421.479,
+    "text": "một chuyên gia nghiên cứu về dược liệu",
+    "textdich": ""
+  },
+  {
+    "start": 419.44,
+    "end": 423.639,
+    "text": "phương Đông. Thấy Bác Long than thở về",
+    "textdich": ""
+  },
+  {
+    "start": 421.479,
+    "end": 425.8,
+    "text": "chỉ số đường huyết chồi sụt thất thường,",
+    "textdich": ""
+  },
+  {
+    "start": 423.639,
+    "end": 428.199,
+    "text": "dù đã uống thuốc đầy đủ, người bạn ấy",
+    "textdich": ""
+  },
+  {
+    "start": 425.8,
+    "end": 430.479,
+    "text": "chỉ cười và chỉ tay ra góc vườn. Ông đi",
+    "textdich": ""
+  },
+  {
+    "start": 428.199,
+    "end": 432.52,
+    "text": "tìm thuốc đâu xa, thuốc cứu ông nằm ngay",
+    "textdich": ""
+  },
+  {
+    "start": 430.479,
+    "end": 434.639,
+    "text": "dưới chân ông kia kìa. Người bạn ấy đã",
+    "textdich": ""
+  },
+  {
+    "start": 432.52,
+    "end": 436.96,
+    "text": "mắng Bác Long một trận vì cái tội lãng",
+    "textdich": ""
+  },
+  {
+    "start": 434.639,
+    "end": 439.36,
+    "text": "phí của trời. Ông ấy giải thích cho Bác",
+    "textdich": ""
+  },
+  {
+    "start": 436.96,
+    "end": 441.72,
+    "text": "Long biết rằng cái hạt đu đủ mà bác chê",
+    "textdich": ""
+  },
+  {
+    "start": 439.36,
+    "end": 444.0,
+    "text": "hôi chê cay ấy chính là khắc tinh của",
+    "textdich": ""
+  },
+  {
+    "start": 441.72,
+    "end": 446.24,
+    "text": "Đường Huyết. Cái rễ cây sần sùi bám đầy",
+    "textdich": ""
+  },
+  {
+    "start": 444.0,
+    "end": 449.479,
+    "text": "đất kia chính là bộ máy lọc máu tự nhiên",
+    "textdich": ""
+  },
+  {
+    "start": 446.24,
+    "end": 451.879,
+    "text": "mạnh mẽ nhất. Lúc đầu Bắc Long không tin",
+    "textdich": ""
+  },
+  {
+    "start": 449.479,
+    "end": 453.84,
+    "text": "làm sao mà mấy cái thứ bỏ đi ấy lại có",
+    "textdich": ""
+  },
+  {
+    "start": 451.879,
+    "end": 456.879,
+    "text": "thể thay thế hay hỗ trợ được thuốc tây",
+    "textdich": ""
+  },
+  {
+    "start": 453.84,
+    "end": 458.879,
+    "text": "đắt tiền. Nhưng vì nể bại và cũng vì có",
+    "textdich": ""
+  },
+  {
+    "start": 456.879,
+    "end": 461.599,
+    "text": "bệnh thì vái tứ phương bác Long quyết",
+    "textdich": ""
+  },
+  {
+    "start": 458.879,
+    "end": 464.639,
+    "text": "định thử. Bác bắt đầu thu gom lại hạt đu",
+    "textdich": ""
+  },
+  {
+    "start": 461.599,
+    "end": 466.52,
+    "text": "đủ thay vì vứt đi. Bác nhờ con đào một",
+    "textdich": ""
+  },
+  {
+    "start": 464.639,
+    "end": 468.68,
+    "text": "phần rễ của cây đu đủ đực trong vườn",
+    "textdich": ""
+  },
+  {
+    "start": 466.52,
+    "end": 470.759,
+    "text": "lên. Bác làm theo đúng công thức mà",
+    "textdich": ""
+  },
+  {
+    "start": 468.68,
+    "end": 473.479,
+    "text": "người bạn chỉ dẫn. Một công thức đơn",
+    "textdich": ""
+  },
+  {
+    "start": 470.759,
+    "end": 476.159,
+    "text": "giản đến mức khó tin và điều kỳ diệu đã",
+    "textdich": ""
+  },
+  {
+    "start": 473.479,
+    "end": 478.4,
+    "text": "xảy ra. Đà không phải là phép màu mê tín",
+    "textdich": ""
+  },
+  {
+    "start": 476.159,
+    "end": 481.12,
+    "text": "dị đoan mà là phản ứng sinh học thực sự",
+    "textdich": ""
+  },
+  {
+    "start": 478.4,
+    "end": 483.319,
+    "text": "của cơ thể. Chỉ sau một tuần lễ, đúng bả",
+    "textdich": ""
+  },
+  {
+    "start": 481.12,
+    "end": 486.68,
+    "text": "ngày, bác Long gọi điện cho tôi, giọng",
+    "textdich": ""
+  },
+  {
+    "start": 483.319,
+    "end": 488.639,
+    "text": "run vì xúc động. Bác bảo: \"Cháu ơi, sáng",
+    "textdich": ""
+  },
+  {
+    "start": 486.68,
+    "end": 491.28,
+    "text": "nay bác đo lại đường huyết xuống đầu sáu",
+    "textdich": ""
+  },
+  {
+    "start": 488.639,
+    "end": 493.84,
+    "text": "rồi mà người bác nhẹ nhõm lắm. Cái cảm",
+    "textdich": ""
+  },
+  {
+    "start": 491.28,
+    "end": 495.919,
+    "text": "giác tê bì ở chân nó dịu đi hẳn, mắt bác",
+    "textdich": ""
+  },
+  {
+    "start": 493.84,
+    "end": 497.479,
+    "text": "nhìn cũng trong hơn. Bác Long đã tìm",
+    "textdich": ""
+  },
+  {
+    "start": 495.919,
+    "end": 499.28,
+    "text": "thấy chìa khóa cho sức khỏe của mình",
+    "textdich": ""
+  },
+  {
+    "start": 497.479,
+    "end": 500.879,
+    "text": "ngay trong chính thùng giác nhà mình.",
+    "textdich": ""
+  },
+  {
+    "start": 499.28,
+    "end": 503.199,
+    "text": "Bác đã biến những thứ tưởng chừng vô",
+    "textdich": ""
+  },
+  {
+    "start": 500.879,
+    "end": 504.68,
+    "text": "dụng thành vũ khí bảo vệ tuổi già. Câu",
+    "textdich": ""
+  },
+  {
+    "start": 503.199,
+    "end": 506.639,
+    "text": "chuyện của bác Long không phải là cá",
+    "textdich": ""
+  },
+  {
+    "start": 504.68,
+    "end": 509.0,
+    "text": "biệt, đó là câu chuyện của hàng ngàn",
+    "textdich": ""
+  },
+  {
+    "start": 506.639,
+    "end": 511.4,
+    "text": "người đã may mắn được tiếp cận với tri",
+    "textdich": ""
+  },
+  {
+    "start": 509.0,
+    "end": 513.68,
+    "text": "thức đúng đắn này. Và tôi kể câu chuyện",
+    "textdich": ""
+  },
+  {
+    "start": 511.4,
+    "end": 516.44,
+    "text": "này ra không phải để bạn chỉ nghe cho",
+    "textdich": ""
+  },
+  {
+    "start": 513.68,
+    "end": 518.56,
+    "text": "vui. Tôi kể để bạn tự soi chiếu lại",
+    "textdich": ""
+  },
+  {
+    "start": 516.44,
+    "end": 520.64,
+    "text": "chính mình. Có bao giờ bạn cũng như Bác",
+    "textdich": ""
+  },
+  {
+    "start": 518.56,
+    "end": 522.959,
+    "text": "Long loay hoay với những toa thuốc đắt",
+    "textdich": ""
+  },
+  {
+    "start": 520.64,
+    "end": 525.08,
+    "text": "đỏ mà bỏ quên những vị thuốc rẻ tiền",
+    "textdich": ""
+  },
+  {
+    "start": 522.959,
+    "end": 527.8,
+    "text": "ngay trong bếp? Có bao giờ bạn cảm thấy",
+    "textdich": ""
+  },
+  {
+    "start": 525.08,
+    "end": 530.16,
+    "text": "mệt mỏi vì phải kiêng khem đủ thứ trong",
+    "textdich": ""
+  },
+  {
+    "start": 527.8,
+    "end": 531.72,
+    "text": "khi giải pháp để cân bằng lại nằm ở cách",
+    "textdich": ""
+  },
+  {
+    "start": 530.16,
+    "end": 535.12,
+    "text": "chúng ta tận dụng thực phẩm thông minh",
+    "textdich": ""
+  },
+  {
+    "start": 531.72,
+    "end": 537.12,
+    "text": "hơn. Nếu câu trả lời là có thì phần tiếp",
+    "textdich": ""
+  },
+  {
+    "start": 535.12,
+    "end": 539.16,
+    "text": "theo của video này chính là tấm bản đồ",
+    "textdich": ""
+  },
+  {
+    "start": 537.12,
+    "end": 541.36,
+    "text": "kho báu dành cho bạn. Tôi sẽ không chỉ",
+    "textdich": ""
+  },
+  {
+    "start": 539.16,
+    "end": 543.6,
+    "text": "dừng lại ở kể chuyện, tôi sẽ cùng bạn đi",
+    "textdich": ""
+  },
+  {
+    "start": 541.36,
+    "end": 546.32,
+    "text": "sâu vào bên trong cái rễ cây và hạt đu",
+    "textdich": ""
+  },
+  {
+    "start": 543.6,
+    "end": 548.44,
+    "text": "đủ kia. Chúng ta sẽ mổ sẻ chúng dưới",
+    "textdich": ""
+  },
+  {
+    "start": 546.32,
+    "end": 550.76,
+    "text": "kính hiển vi của khoa học hiện đại. Tại",
+    "textdich": ""
+  },
+  {
+    "start": 548.44,
+    "end": 553.12,
+    "text": "sao dễ đu đủ lại có tác dụng chỉ sau 7",
+    "textdich": ""
+  },
+  {
+    "start": 550.76,
+    "end": 555.279,
+    "text": "ngày? Tại sao hạt đu đủ lại mạnh hơn lá",
+    "textdich": ""
+  },
+  {
+    "start": 553.12,
+    "end": 557.56,
+    "text": "gấp nhiều lần? Và quan trọng nhất, các",
+    "textdich": ""
+  },
+  {
+    "start": 555.279,
+    "end": 559.64,
+    "text": "nhà khoa học Nhật Bản và Châu Âu đã tìm",
+    "textdich": ""
+  },
+  {
+    "start": 557.56,
+    "end": 562.519,
+    "text": "thấy chất gì trong đó? Hãy chuẩn bị giấy",
+    "textdich": ""
+  },
+  {
+    "start": 559.64,
+    "end": 564.36,
+    "text": "bút hoặc đơn giản là mở rộng tâm trí để",
+    "textdich": ""
+  },
+  {
+    "start": 562.519,
+    "end": 566.24,
+    "text": "đón nhận những kiến thức có thể thay đổi",
+    "textdich": ""
+  },
+  {
+    "start": 564.36,
+    "end": 568.279,
+    "text": "hoàn toàn cách bạn nhìn nhận về cây đu",
+    "textdich": ""
+  },
+  {
+    "start": 566.24,
+    "end": 569.959,
+    "text": "đủ từ trước đến nay. Chúng ta sẽ cùng",
+    "textdich": ""
+  },
+  {
+    "start": 568.279,
+    "end": 571.68,
+    "text": "nhau giải mã bí mật của đội quân tiên",
+    "textdich": ""
+  },
+  {
+    "start": 569.959,
+    "end": 574.04,
+    "text": "phong trong cuộc chiến chống tiểu đường",
+    "textdich": ""
+  },
+  {
+    "start": 571.68,
+    "end": 576.36,
+    "text": "ngay sau đây. Vừa rồi chúng ta đã chứng",
+    "textdich": ""
+  },
+  {
+    "start": 574.04,
+    "end": 578.44,
+    "text": "kiến niềm vui vỡ òa của Bác Long khi tìm",
+    "textdich": ""
+  },
+  {
+    "start": 576.36,
+    "end": 580.519,
+    "text": "lại được sự cân bằng cho cơ thể. Nhưng",
+    "textdich": ""
+  },
+  {
+    "start": 578.44,
+    "end": 583.04,
+    "text": "tôi biết trong đầu bạn lúc này đang có",
+    "textdich": ""
+  },
+  {
+    "start": 580.519,
+    "end": 585.12,
+    "text": "một câu hỏi lớn. Tại sao? Tại sao những",
+    "textdich": ""
+  },
+  {
+    "start": 583.04,
+    "end": 587.959,
+    "text": "thứ bỏ đi ấy lại làm được điều kỳ diệu",
+    "textdich": ""
+  },
+  {
+    "start": 585.12,
+    "end": 590.24,
+    "text": "đó? Có phải là do may mắn hay do cơ địa",
+    "textdich": ""
+  },
+  {
+    "start": 587.959,
+    "end": 592.36,
+    "text": "bác long hợp thuốc? Xin thưa với bạn,",
+    "textdich": ""
+  },
+  {
+    "start": 590.24,
+    "end": 594.68,
+    "text": "trong y học và khoa học không có chỗ cho",
+    "textdich": ""
+  },
+  {
+    "start": 592.36,
+    "end": 596.32,
+    "text": "sự may mắn ngẫu nhiên. Mọi kết quả đều",
+    "textdich": ""
+  },
+  {
+    "start": 594.68,
+    "end": 599.12,
+    "text": "đến từ những phản ứng sinh hóa chính xác",
+    "textdich": ""
+  },
+  {
+    "start": 596.32,
+    "end": 601.399,
+    "text": "từng mm. Và hôm nay tôi sẽ đưa bạn đi",
+    "textdich": ""
+  },
+  {
+    "start": 599.12,
+    "end": 603.24,
+    "text": "sâu vào bên trong cấu trúc của cây đu đủ",
+    "textdich": ""
+  },
+  {
+    "start": 601.399,
+    "end": 605.48,
+    "text": "để bạn tận mắt thấy được sức mạnh đang",
+    "textdich": ""
+  },
+  {
+    "start": 603.24,
+    "end": 608.279,
+    "text": "ẩn giấu trong đó. Chúng ta hãy bắt đầu",
+    "textdich": ""
+  },
+  {
+    "start": 605.48,
+    "end": 610.72,
+    "text": "với nhà vô địch về tốc độ dễ đu đủ. Bạn",
+    "textdich": ""
+  },
+  {
+    "start": 608.279,
+    "end": 613.24,
+    "text": "hãy hình dung thế này. Cây đu đủ muốn",
+    "textdich": ""
+  },
+  {
+    "start": 610.72,
+    "end": 615.959,
+    "text": "sống khỏe, muốn quả ngọt thì bộ rễ phải",
+    "textdich": ""
+  },
+  {
+    "start": 613.24,
+    "end": 618.36,
+    "text": "là nơi làm việc vất vả nhất. Nó hút dinh",
+    "textdich": ""
+  },
+  {
+    "start": 615.959,
+    "end": 620.519,
+    "text": "dưỡng, lọc độc tố từ đất để nuôi cây.",
+    "textdich": ""
+  },
+  {
+    "start": 618.36,
+    "end": 622.519,
+    "text": "Chính vì thế, dễ là nơi tích tụ những",
+    "textdich": ""
+  },
+  {
+    "start": 620.519,
+    "end": 624.8,
+    "text": "hoạt chất mạnh mẽ nhất để bảo vệ sự",
+    "textdich": ""
+  },
+  {
+    "start": 622.519,
+    "end": 627.0,
+    "text": "sống. Các nhà khoa học đã là một cuộc so",
+    "textdich": ""
+  },
+  {
+    "start": 624.8,
+    "end": 629.12,
+    "text": "sánh quy mô lớn giữa tất cả các bộ phận",
+    "textdich": ""
+  },
+  {
+    "start": 627.0,
+    "end": 630.959,
+    "text": "của cây đu đủ và kết quả đã khiến họ",
+    "textdich": ""
+  },
+  {
+    "start": 629.12,
+    "end": 633.6,
+    "text": "phải kinh ngạc. Trong cuộc đua giảm",
+    "textdich": ""
+  },
+  {
+    "start": 630.959,
+    "end": 635.68,
+    "text": "đường huyết, dễ đu đủ về đích đầu tiên,",
+    "textdich": ""
+  },
+  {
+    "start": 633.6,
+    "end": 637.639,
+    "text": "nghiên cứu chỉ ra rằng chiết suất từ dễ",
+    "textdich": ""
+  },
+  {
+    "start": 635.68,
+    "end": 639.32,
+    "text": "đu đủ có khả năng làm giảm lượng đường",
+    "textdich": ""
+  },
+  {
+    "start": 637.639,
+    "end": 642.399,
+    "text": "trong máu một cách rõ rệt chỉ sau 7",
+    "textdich": ""
+  },
+  {
+    "start": 639.32,
+    "end": 644.6,
+    "text": "ngày. Bạn nhớ con số này chứ? 7 ngày",
+    "textdich": ""
+  },
+  {
+    "start": 642.399,
+    "end": 647.399,
+    "text": "trong khi lá đu đủ, thứ mà chúng ta vẫn",
+    "textdich": ""
+  },
+  {
+    "start": 644.6,
+    "end": 649.839,
+    "text": "thường ca tụng phải mất từ 14 đến 21",
+    "textdich": ""
+  },
+  {
+    "start": 647.399,
+    "end": 651.76,
+    "text": "ngày để cơ thể bắt đầu phản ứng tích cực",
+    "textdich": ""
+  },
+  {
+    "start": 649.839,
+    "end": 654.12,
+    "text": "thì dễ đu đủ hoạt động như một đội cứu",
+    "textdich": ""
+  },
+  {
+    "start": 651.76,
+    "end": 656.32,
+    "text": "hộ cấp tốc. Cụ thể, các thí nghiệm đã",
+    "textdich": ""
+  },
+  {
+    "start": 654.12,
+    "end": 659.0,
+    "text": "chứng minh dễ đu đủ có thể giúp giảm tới",
+    "textdich": ""
+  },
+  {
+    "start": 656.32,
+    "end": 662.16,
+    "text": "gần 31% lượng đường trong máu ngay trong",
+    "textdich": ""
+  },
+  {
+    "start": 659.0,
+    "end": 664.2,
+    "text": "tuần đầu tiên sử dụng. Con số 31% này là",
+    "textdich": ""
+  },
+  {
+    "start": 662.16,
+    "end": 666.36,
+    "text": "một con số khổng lồ đối với những người",
+    "textdich": ""
+  },
+  {
+    "start": 664.2,
+    "end": 668.68,
+    "text": "đang loay hoay tìm cách hạ đường huyết.",
+    "textdich": ""
+  },
+  {
+    "start": 666.36,
+    "end": 671.44,
+    "text": "Cơ chế của nó giống như một người quét",
+    "textdich": ""
+  },
+  {
+    "start": 668.68,
+    "end": 674.12,
+    "text": "đường cần mẫn. Khi bạn uống nước sắc từ",
+    "textdich": ""
+  },
+  {
+    "start": 671.44,
+    "end": 676.8,
+    "text": "rễ đu đủ, các hoạt chất trong đó đi vào",
+    "textdich": ""
+  },
+  {
+    "start": 674.12,
+    "end": 679.399,
+    "text": "máu, hỗ trợ gan và thận làm việc hiệu",
+    "textdich": ""
+  },
+  {
+    "start": 676.8,
+    "end": 681.32,
+    "text": "quả hơn để đào thải đường dư thừa, nó",
+    "textdich": ""
+  },
+  {
+    "start": 679.399,
+    "end": 683.92,
+    "text": "không ép đường hạ xuống đột ngột gây tủt",
+    "textdich": ""
+  },
+  {
+    "start": 681.32,
+    "end": 686.32,
+    "text": "huyết áp mà nó dọn dẹp một cách trật tự,",
+    "textdich": ""
+  },
+  {
+    "start": 683.92,
+    "end": 688.68,
+    "text": "đưa cơ thể về trạng thái cân bằng. Đó là",
+    "textdich": ""
+  },
+  {
+    "start": 686.32,
+    "end": 690.839,
+    "text": "lý do tại sao Bắc Long lại cảm thấy nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 688.68,
+    "end": 693.639,
+    "text": "nhõm nhanh đến thế. Nhưng câu chuyện",
+    "textdich": ""
+  },
+  {
+    "start": 690.839,
+    "end": 696.12,
+    "text": "chưa dừng lại ở đó. Nếu dễ là nhà vô",
+    "textdich": ""
+  },
+  {
+    "start": 693.639,
+    "end": 698.44,
+    "text": "địch tốc độ thì hạt đu đủ chính là gã",
+    "textdich": ""
+  },
+  {
+    "start": 696.12,
+    "end": 700.519,
+    "text": "khổng lồ về sức mạnh. Đây có lẽ là phần",
+    "textdich": ""
+  },
+  {
+    "start": 698.44,
+    "end": 702.88,
+    "text": "gây sốc nhất trong video này. Hãy nhớ",
+    "textdich": ""
+  },
+  {
+    "start": 700.519,
+    "end": 705.48,
+    "text": "lại những lần bạn ăn đu đủ, bạn bổ đôi",
+    "textdich": ""
+  },
+  {
+    "start": 702.88,
+    "end": 707.959,
+    "text": "quả ra, thấy hàng trăm hạt đen nhánh ướt",
+    "textdich": ""
+  },
+  {
+    "start": 705.48,
+    "end": 709.959,
+    "text": "át. Bạn lấy thìa cạo sạch và đổ vào",
+    "textdich": ""
+  },
+  {
+    "start": 707.959,
+    "end": 712.04,
+    "text": "thùng rác không thương tiếc. Nhưng khoa",
+    "textdich": ""
+  },
+  {
+    "start": 709.959,
+    "end": 714.12,
+    "text": "học đã chứng minh bạn vừa vứt đi một",
+    "textdich": ""
+  },
+  {
+    "start": 712.04,
+    "end": 718.56,
+    "text": "loại dược liệu mạnh hơn lá đu đủ đến",
+    "textdich": ""
+  },
+  {
+    "start": 714.12,
+    "end": 721.68,
+    "text": "76%. Vâng, chính xác là 76%. Tại sao hạt",
+    "textdich": ""
+  },
+  {
+    "start": 718.56,
+    "end": 723.92,
+    "text": "lại mạnh đến thế? Hãy nhìn vào tự nhiên.",
+    "textdich": ""
+  },
+  {
+    "start": 721.68,
+    "end": 726.079,
+    "text": "Hạt là nơi chứa đựng mầm sống. Để một",
+    "textdich": ""
+  },
+  {
+    "start": 723.92,
+    "end": 728.24,
+    "text": "cái hạt nhỏ xíu có thể nảy mầm thành cây",
+    "textdich": ""
+  },
+  {
+    "start": 726.079,
+    "end": 730.399,
+    "text": "to, nó phải dự trữ một nguồn năng lượng",
+    "textdich": ""
+  },
+  {
+    "start": 728.24,
+    "end": 732.48,
+    "text": "và kháng sinh tự nhiên cực lớn để chống",
+    "textdich": ""
+  },
+  {
+    "start": 730.399,
+    "end": 734.48,
+    "text": "lại vi khuẩn, nấm mốc trong đất. Khi",
+    "textdich": ""
+  },
+  {
+    "start": 732.48,
+    "end": 736.72,
+    "text": "chúng ta ăn hạt đu đủ, chúng ta đang nạp",
+    "textdich": ""
+  },
+  {
+    "start": 734.48,
+    "end": 738.279,
+    "text": "vào cơ thể nguồn sức mạnh nguyên bản đó.",
+    "textdich": ""
+  },
+  {
+    "start": 736.72,
+    "end": 740.399,
+    "text": "Các nhà nghiên cứu đã tìm thấy trong hạt",
+    "textdich": ""
+  },
+  {
+    "start": 738.279,
+    "end": 743.8,
+    "text": "đu đủ một lượng lớn hoạt chất có tên",
+    "textdich": ""
+  },
+  {
+    "start": 740.399,
+    "end": 745.519,
+    "text": "khoa học là flavonoid và polyphenol.",
+    "textdich": ""
+  },
+  {
+    "start": 743.8,
+    "end": 748.079,
+    "text": "Đừng để những cái tên tây này làm bạn",
+    "textdich": ""
+  },
+  {
+    "start": 745.519,
+    "end": 750.24,
+    "text": "dối trí. Hãy hiểu đơn giản, chúng là",
+    "textdich": ""
+  },
+  {
+    "start": 748.079,
+    "end": 752.36,
+    "text": "những chất tẩy rửa mạch máu cực mạnh.",
+    "textdich": ""
+  },
+  {
+    "start": 750.24,
+    "end": 754.88,
+    "text": "Nhưng điều đặc biệt nhất nằm ở vị cay",
+    "textdich": ""
+  },
+  {
+    "start": 752.36,
+    "end": 757.68,
+    "text": "của hạt. Bạn đã bao giờ lỡ cắn phải hạt",
+    "textdich": ""
+  },
+  {
+    "start": 754.88,
+    "end": 759.88,
+    "text": "đu đủ chưa? Nó có vị cay nồng hơi hăng",
+    "textdich": ""
+  },
+  {
+    "start": 757.68,
+    "end": 762.839,
+    "text": "hắc giống như hạt tiêu hoặc mù tạt đúng",
+    "textdich": ""
+  },
+  {
+    "start": 759.88,
+    "end": 765.88,
+    "text": "không? Cái vị cay ấy đến từ một chất gọi",
+    "textdich": ""
+  },
+  {
+    "start": 762.839,
+    "end": 768.12,
+    "text": "là benzil isothosinate.",
+    "textdich": ""
+  },
+  {
+    "start": 765.88,
+    "end": 769.959,
+    "text": "Đây chính là vũ khí bí mật. Chất này có",
+    "textdich": ""
+  },
+  {
+    "start": 768.12,
+    "end": 772.92,
+    "text": "khả năng ức chế sự hấp thu đường quá mức",
+    "textdich": ""
+  },
+  {
+    "start": 769.959,
+    "end": 775.24,
+    "text": "tại ruột. Tức là khi bạn ăn cơm, ăn",
+    "textdich": ""
+  },
+  {
+    "start": 772.92,
+    "end": 777.519,
+    "text": "bánh, chất này sẽ đứng gác ở cửa ngõ",
+    "textdich": ""
+  },
+  {
+    "start": 775.24,
+    "end": 780.12,
+    "text": "ruột non, ngăn không cho đường ồ ạt tràn",
+    "textdich": ""
+  },
+  {
+    "start": 777.519,
+    "end": 781.44,
+    "text": "vào máu. Hơn thế nữa, hạt đô đủ còn chứa",
+    "textdich": ""
+  },
+  {
+    "start": 780.12,
+    "end": 783.279,
+    "text": "những hoạt chất giúp đánh thức tuyến",
+    "textdich": ""
+  },
+  {
+    "start": 781.44,
+    "end": 785.24,
+    "text": "tụy. Tuyến tụy của người tiểu đường",
+    "textdich": ""
+  },
+  {
+    "start": 783.279,
+    "end": 787.48,
+    "text": "giống như một nhà máy đang mệt mỏi, sản",
+    "textdich": ""
+  },
+  {
+    "start": 785.24,
+    "end": 789.76,
+    "text": "xuất insulin y ạch. Hạt đu đủ cung cấp",
+    "textdich": ""
+  },
+  {
+    "start": 787.48,
+    "end": 792.12,
+    "text": "nguyên liệu để tu sửa nhà máy này giúp",
+    "textdich": ""
+  },
+  {
+    "start": 789.76,
+    "end": 794.32,
+    "text": "nó hoạt động trơn chu hơn. Nghiên cứu đã",
+    "textdich": ""
+  },
+  {
+    "start": 792.12,
+    "end": 796.56,
+    "text": "chỉ ra rằng hiệu quả giảm đường huyết",
+    "textdich": ""
+  },
+  {
+    "start": 794.32,
+    "end": 798.92,
+    "text": "của hạt đu đủ cũng xuất hiện ngay trong",
+    "textdich": ""
+  },
+  {
+    "start": 796.56,
+    "end": 801.04,
+    "text": "7 ngày đầu tiên, tương đương với dễ",
+    "textdich": ""
+  },
+  {
+    "start": 798.92,
+    "end": 803.48,
+    "text": "nhưng với một tác động mạnh mẽ và sâu",
+    "textdich": ""
+  },
+  {
+    "start": 801.04,
+    "end": 806.24,
+    "text": "rộng hơn. Nó không chỉ hạ đường mà còn",
+    "textdich": ""
+  },
+  {
+    "start": 803.48,
+    "end": 808.56,
+    "text": "giảm mỡ máu, bảo vệ gan, những vấn đề mà",
+    "textdich": ""
+  },
+  {
+    "start": 806.24,
+    "end": 810.6,
+    "text": "người tiểu đường hay gặp phải. Vậy đấy",
+    "textdich": ""
+  },
+  {
+    "start": 808.56,
+    "end": 813.16,
+    "text": "bạn thấy không? Tự nhiên không tạo ra",
+    "textdich": ""
+  },
+  {
+    "start": 810.6,
+    "end": 815.72,
+    "text": "bất cứ thứ gì thừa thãi. Cái rễ xù xì",
+    "textdich": ""
+  },
+  {
+    "start": 813.16,
+    "end": 817.92,
+    "text": "nằm sâu dưới đất là để cấp cứu nhanh.",
+    "textdich": ""
+  },
+  {
+    "start": 815.72,
+    "end": 820.48,
+    "text": "Cái hạt cay nồng nằm ẩn trong quả là để",
+    "textdich": ""
+  },
+  {
+    "start": 817.92,
+    "end": 822.8,
+    "text": "bảo vệ lâu dài và mạnh mẽ. Chúng ta đã",
+    "textdich": ""
+  },
+  {
+    "start": 820.48,
+    "end": 824.72,
+    "text": "lãng phí chúng quá lâu rồi. Chúng ta đã",
+    "textdich": ""
+  },
+  {
+    "start": 822.8,
+    "end": 826.959,
+    "text": "vứt bỏ đội quân tiên phong tinh nhuệ",
+    "textdich": ""
+  },
+  {
+    "start": 824.72,
+    "end": 829.199,
+    "text": "nhất mà thiên nhiên ban tặng để rồi chỉ",
+    "textdich": ""
+  },
+  {
+    "start": 826.959,
+    "end": 831.04,
+    "text": "giữ lại phần thịt quả ngọt ngào, phần mà",
+    "textdich": ""
+  },
+  {
+    "start": 829.199,
+    "end": 833.399,
+    "text": "đôi khi lại khiến đường huyết tăng lên",
+    "textdich": ""
+  },
+  {
+    "start": 831.04,
+    "end": 836.24,
+    "text": "nếu ăn không đúng cách. Tôi biết nghe",
+    "textdich": ""
+  },
+  {
+    "start": 833.399,
+    "end": 839.0,
+    "text": "đến đây nhiều bạn sẽ cảm thấy tiếc nuối.",
+    "textdich": ""
+  },
+  {
+    "start": 836.24,
+    "end": 841.279,
+    "text": "Giá như tôi biết sớm hơn. Trời ơi, hôm",
+    "textdich": ""
+  },
+  {
+    "start": 839.0,
+    "end": 844.399,
+    "text": "qua tôi vừa vứt cả đống hạt đi. Đừng",
+    "textdich": ""
+  },
+  {
+    "start": 841.279,
+    "end": 846.72,
+    "text": "tiếc nuối, quá khứ đã qua rồi. Quan",
+    "textdich": ""
+  },
+  {
+    "start": 844.399,
+    "end": 849.279,
+    "text": "trọng là ngay giây phút này bạn đã được",
+    "textdich": ""
+  },
+  {
+    "start": 846.72,
+    "end": 852.24,
+    "text": "khai sáng. Bạn đã nắm trong tay bí mật",
+    "textdich": ""
+  },
+  {
+    "start": 849.279,
+    "end": 854.12,
+    "text": "mà 90% người ngoài kia không biết. Nhưng",
+    "textdich": ""
+  },
+  {
+    "start": 852.24,
+    "end": 856.72,
+    "text": "hành trình khám phá cây đu đủ chưa dừng",
+    "textdich": ""
+  },
+  {
+    "start": 854.12,
+    "end": 859.079,
+    "text": "lại ở rễ và hạt. Nếu rễ và hạt là đội",
+    "textdich": ""
+  },
+  {
+    "start": 856.72,
+    "end": 861.32,
+    "text": "quân tấn công thì lá và hoa đu đủ lại",
+    "textdich": ""
+  },
+  {
+    "start": 859.079,
+    "end": 863.519,
+    "text": "đóng vai trò là lớp khiên phòng thủ vững",
+    "textdich": ""
+  },
+  {
+    "start": 861.32,
+    "end": 865.24,
+    "text": "chắc với cơ chế hoạt động giống hệt như",
+    "textdich": ""
+  },
+  {
+    "start": 863.519,
+    "end": 867.839,
+    "text": "những loại thuốc tây đắt tiền mà bạn",
+    "textdich": ""
+  },
+  {
+    "start": 865.24,
+    "end": 870.56,
+    "text": "đang uống nhưng lại an toàn và lành tính",
+    "textdich": ""
+  },
+  {
+    "start": 867.839,
+    "end": 873.279,
+    "text": "hơn nhiều. Bạn có tin rằng lá đu đủ có",
+    "textdich": ""
+  },
+  {
+    "start": 870.56,
+    "end": 874.8,
+    "text": "thể so sánh ngang ngửa với Glben Clamy,",
+    "textdich": ""
+  },
+  {
+    "start": 873.279,
+    "end": 877.24,
+    "text": "loại thuốc hạ đường huyết phổ biến nhất",
+    "textdich": ""
+  },
+  {
+    "start": 874.8,
+    "end": 879.279,
+    "text": "hiện nay không? Và hoa đu đủ đực, thứ mà",
+    "textdich": ""
+  },
+  {
+    "start": 877.24,
+    "end": 881.16,
+    "text": "người ta hay ngâm mật ong chữa ho, thực",
+    "textdich": ""
+  },
+  {
+    "start": 879.279,
+    "end": 883.56,
+    "text": "ra còn làm được điều vĩ đại hơn thế cho",
+    "textdich": ""
+  },
+  {
+    "start": 881.16,
+    "end": 886.68,
+    "text": "người tiểu đường. Phần tiếp theo sẽ là",
+    "textdich": ""
+  },
+  {
+    "start": 883.56,
+    "end": 889.16,
+    "text": "những so sánh 1910 giữa thảo dược và tân",
+    "textdich": ""
+  },
+  {
+    "start": 886.68,
+    "end": 891.04,
+    "text": "dược giúp bạn có thêm niềm tin vững chắc",
+    "textdich": ""
+  },
+  {
+    "start": 889.16,
+    "end": 893.72,
+    "text": "để bước tiếp trên con đường chữa lành tự",
+    "textdich": ""
+  },
+  {
+    "start": 891.04,
+    "end": 895.759,
+    "text": "nhiên. Nếu như ở phần trước chúng ta đã",
+    "textdich": ""
+  },
+  {
+    "start": 893.72,
+    "end": 897.839,
+    "text": "ví dễ và hạt như một đội đặc nhiệm đánh",
+    "textdich": ""
+  },
+  {
+    "start": 895.759,
+    "end": 900.399,
+    "text": "nhanh thắng nhanh trong 7 ngày thì bây",
+    "textdich": ""
+  },
+  {
+    "start": 897.839,
+    "end": 902.72,
+    "text": "giờ tôi muốn giới thiệu với bạn đội quân",
+    "textdich": ""
+  },
+  {
+    "start": 900.399,
+    "end": 905.839,
+    "text": "chủ lực giúp duy trì chiến thắng đó lâu",
+    "textdich": ""
+  },
+  {
+    "start": 902.72,
+    "end": 908.04,
+    "text": "dài, đó chính là lá và hoa. Tôi biết",
+    "textdich": ""
+  },
+  {
+    "start": 905.839,
+    "end": 910.44,
+    "text": "nhắc đến lá đu đủ, nhiều người sẽ nhăn",
+    "textdich": ""
+  },
+  {
+    "start": 908.04,
+    "end": 912.48,
+    "text": "mặt ngay lập tức. Cái vị đắng ngắt, đắng",
+    "textdich": ""
+  },
+  {
+    "start": 910.44,
+    "end": 914.56,
+    "text": "đến tê đầu lưỡi ấy quả thực không dễ",
+    "textdich": ""
+  },
+  {
+    "start": 912.48,
+    "end": 917.24,
+    "text": "chịu chút nào. Các cụ ta ngày xưa thường",
+    "textdich": ""
+  },
+  {
+    "start": 914.56,
+    "end": 919.399,
+    "text": "bảo thuốc đắng dã tật nhưng đắng đến mức",
+    "textdich": ""
+  },
+  {
+    "start": 917.24,
+    "end": 921.24,
+    "text": "uống xong dùng mình thì ai mà chẳng sợ.",
+    "textdich": ""
+  },
+  {
+    "start": 919.399,
+    "end": 923.44,
+    "text": "Nhưng bạn có biết không? Chính cái vị",
+    "textdich": ""
+  },
+  {
+    "start": 921.24,
+    "end": 925.56,
+    "text": "đắng ấy là nơi cất giấu sức mạnh có thể",
+    "textdich": ""
+  },
+  {
+    "start": 923.44,
+    "end": 928.199,
+    "text": "so sánh ngang ngửa với thuốc tây y hiện",
+    "textdich": ""
+  },
+  {
+    "start": 925.56,
+    "end": 929.8,
+    "text": "đại. Đây không phải là lời nói suông.",
+    "textdich": ""
+  },
+  {
+    "start": 928.199,
+    "end": 932.0,
+    "text": "Các nhà khoa học đã thực hiện một cuộc",
+    "textdich": ""
+  },
+  {
+    "start": 929.8,
+    "end": 934.8,
+    "text": "so sánh trực tiếp đặt chiết suất lá đu",
+    "textdich": ""
+  },
+  {
+    "start": 932.0,
+    "end": 936.199,
+    "text": "đủ lên bàn cân với Liben Clamit. Nếu bạn",
+    "textdich": ""
+  },
+  {
+    "start": 934.8,
+    "end": 939.44,
+    "text": "hoặc người thân đang điều trị tiểu",
+    "textdich": ""
+  },
+  {
+    "start": 936.199,
+    "end": 941.92,
+    "text": "đường, chắc chắn cái tên Libamai không",
+    "textdich": ""
+  },
+  {
+    "start": 939.44,
+    "end": 943.519,
+    "text": "hề xa lạ. Đó là loại thuốc kinh điển",
+    "textdich": ""
+  },
+  {
+    "start": 941.92,
+    "end": 945.68,
+    "text": "được kê đơn hàng ngày cho hàng triệu",
+    "textdich": ""
+  },
+  {
+    "start": 943.519,
+    "end": 948.079,
+    "text": "bệnh nhân trên toàn thế giới để hạ đường",
+    "textdich": ""
+  },
+  {
+    "start": 945.68,
+    "end": 950.319,
+    "text": "huyết. Và kết quả của cuộc so sánh này",
+    "textdich": ""
+  },
+  {
+    "start": 948.079,
+    "end": 952.24,
+    "text": "đã gây chấn động. Ở một liều lượng nhất",
+    "textdich": ""
+  },
+  {
+    "start": 950.319,
+    "end": 953.759,
+    "text": "định, khả năng hạ đường huyết của lá đu",
+    "textdich": ""
+  },
+  {
+    "start": 952.24,
+    "end": 956.16,
+    "text": "đủ tương đương với thuốc tây",
+    "textdich": ""
+  },
+  {
+    "start": 953.759,
+    "end": 958.56,
+    "text": "Glabencamai. Bạn hãy ngẫm nghĩ một chút",
+    "textdich": ""
+  },
+  {
+    "start": 956.16,
+    "end": 960.24,
+    "text": "về điều này. Một bên là viên thuốc được",
+    "textdich": ""
+  },
+  {
+    "start": 958.56,
+    "end": 962.8,
+    "text": "tổng hợp trong nhà máy hóa dược với công",
+    "textdich": ""
+  },
+  {
+    "start": 960.24,
+    "end": 965.199,
+    "text": "nghệ cao, một bên là chiếc lá mọc ngoài",
+    "textdich": ""
+  },
+  {
+    "start": 962.8,
+    "end": 967.44,
+    "text": "mưa nắng. Vậy mà thiên nhiên lại tạo ra",
+    "textdich": ""
+  },
+  {
+    "start": 965.199,
+    "end": 969.6,
+    "text": "được hiệu quả không hề thua kém. Nhưng",
+    "textdich": ""
+  },
+  {
+    "start": 967.44,
+    "end": 971.639,
+    "text": "điều tuyệt vời hơn nằm ở cách mà lá đù",
+    "textdich": ""
+  },
+  {
+    "start": 969.6,
+    "end": 974.12,
+    "text": "đủ hoạt động. Thuốc tây thường hoạt động",
+    "textdich": ""
+  },
+  {
+    "start": 971.639,
+    "end": 976.48,
+    "text": "theo cơ chế ép, tuyến tụy, phải tiết ra",
+    "textdich": ""
+  },
+  {
+    "start": 974.12,
+    "end": 979.079,
+    "text": "insulin. Giống như bạn vắt kiệt một quả",
+    "textdich": ""
+  },
+  {
+    "start": 976.48,
+    "end": 981.36,
+    "text": "chanh, vắt mãi thì cũng hết nước. khiến",
+    "textdich": ""
+  },
+  {
+    "start": 979.079,
+    "end": 983.319,
+    "text": "tuyến tụy ngày càng suy kiệt. Đó là lý",
+    "textdich": ""
+  },
+  {
+    "start": 981.36,
+    "end": 985.72,
+    "text": "do nhiều người uống thuốc lâu năm thì bị",
+    "textdich": ""
+  },
+  {
+    "start": 983.319,
+    "end": 988.759,
+    "text": "nhờn thuốc, phải tăng liều rồi cuối cùng",
+    "textdich": ""
+  },
+  {
+    "start": 985.72,
+    "end": 991.199,
+    "text": "phải tiêm insulin. Lá đu đủ thì khác. Nó",
+    "textdich": ""
+  },
+  {
+    "start": 988.759,
+    "end": 993.279,
+    "text": "hoạt động như một người thợ bảo trì. Các",
+    "textdich": ""
+  },
+  {
+    "start": 991.199,
+    "end": 995.56,
+    "text": "hoạt chất trong lá đu đủ, đặc biệt là",
+    "textdich": ""
+  },
+  {
+    "start": 993.279,
+    "end": 998.16,
+    "text": "các nhóm chất mang tên ecaloid và",
+    "textdich": ""
+  },
+  {
+    "start": 995.56,
+    "end": 1000.36,
+    "text": "saponin có khả năng đi vào tuyến tụy tìm",
+    "textdich": ""
+  },
+  {
+    "start": 998.16,
+    "end": 1002.199,
+    "text": "đến những tế bào beta. Đây chính là",
+    "textdich": ""
+  },
+  {
+    "start": 1000.36,
+    "end": 1004.72,
+    "text": "những công nhân sản xuất insulin của cơ",
+    "textdich": ""
+  },
+  {
+    "start": 1002.199,
+    "end": 1006.92,
+    "text": "thể. Lá đu đủ giúp phục hồi, đánh thức",
+    "textdich": ""
+  },
+  {
+    "start": 1004.72,
+    "end": 1008.92,
+    "text": "và bảo vệ những tế bào này. Nó không ép",
+    "textdich": ""
+  },
+  {
+    "start": 1006.92,
+    "end": 1010.92,
+    "text": "buộc mà nó nuôi dưỡng.",
+    "textdich": ""
+  },
+  {
+    "start": 1008.92,
+    "end": 1013.48,
+    "text": "Nó giúp cơ thể bạn tự nhớ lại cách sản",
+    "textdich": ""
+  },
+  {
+    "start": 1010.92,
+    "end": 1016.199,
+    "text": "xuất insulin một cách tự nhiên. Đó là lý",
+    "textdich": ""
+  },
+  {
+    "start": 1013.48,
+    "end": 1019.279,
+    "text": "do vì sao tác dụng của lá đu đủ thường",
+    "textdich": ""
+  },
+  {
+    "start": 1016.199,
+    "end": 1022.639,
+    "text": "đến chậm hơn dễ. Bạn phải kiên trì từ 14",
+    "textdich": ""
+  },
+  {
+    "start": 1019.279,
+    "end": 1025.36,
+    "text": "đến 21 ngày mới thấy kết quả rõ rệt. Nó",
+    "textdich": ""
+  },
+  {
+    "start": 1022.639,
+    "end": 1027.439,
+    "text": "chậm nhưng nó chắc. Nó xây dựng một nền",
+    "textdich": ""
+  },
+  {
+    "start": 1025.36,
+    "end": 1029.6,
+    "text": "móng vững trãi để đường huyết không bị",
+    "textdich": ""
+  },
+  {
+    "start": 1027.439,
+    "end": 1031.6,
+    "text": "chồi sụt thất thường. Và bên cạnh chiếc",
+    "textdich": ""
+  },
+  {
+    "start": 1029.6,
+    "end": 1033.799,
+    "text": "lá đắng ngắt ấy, chúng ta không thể bỏ",
+    "textdich": ""
+  },
+  {
+    "start": 1031.6,
+    "end": 1035.88,
+    "text": "qua một nhân vật bí ẩn khác, hoa đu đủ",
+    "textdich": ""
+  },
+  {
+    "start": 1033.799,
+    "end": 1038.079,
+    "text": "đực. Thông thường chúng ta chỉ tìm đến",
+    "textdich": ""
+  },
+  {
+    "start": 1035.88,
+    "end": 1040.679,
+    "text": "hoa đu đủ đực hấp mật ong khi bị ho, bị",
+    "textdich": ""
+  },
+  {
+    "start": 1038.079,
+    "end": 1042.52,
+    "text": "viêm họng. Ít ai ngờ rằng loài hoa này",
+    "textdich": ""
+  },
+  {
+    "start": 1040.679,
+    "end": 1044.919,
+    "text": "cũng là một khắc tinh của đường huyết.",
+    "textdich": ""
+  },
+  {
+    "start": 1042.52,
+    "end": 1048.039,
+    "text": "Một nghiên cứu đã chỉ ra rằng chiết suất",
+    "textdich": ""
+  },
+  {
+    "start": 1044.919,
+    "end": 1049.72,
+    "text": "từ hoa đu đủ có thể giúp giảm tới 69%",
+    "textdich": ""
+  },
+  {
+    "start": 1048.039,
+    "end": 1053.2,
+    "text": "lượng đường trong máu ở các mô hình thử",
+    "textdich": ""
+  },
+  {
+    "start": 1049.72,
+    "end": 1055.44,
+    "text": "nghiệm. Con số 60 9% là một con số biết",
+    "textdich": ""
+  },
+  {
+    "start": 1053.2,
+    "end": 1057.88,
+    "text": "nói cho thấy tiềm năng cực lớn của loài",
+    "textdich": ""
+  },
+  {
+    "start": 1055.44,
+    "end": 1060.6,
+    "text": "hoa này. Tuy nhiên, vì hoa đu đủ được",
+    "textdich": ""
+  },
+  {
+    "start": 1057.88,
+    "end": 1062.919,
+    "text": "hiếm hơn lá và quả nên nó ít được sử",
+    "textdich": ""
+  },
+  {
+    "start": 1060.6,
+    "end": 1065.48,
+    "text": "dụng phổ biến. Nhưng nếu bạn may mắn có",
+    "textdich": ""
+  },
+  {
+    "start": 1062.919,
+    "end": 1067.919,
+    "text": "được nó, hãy trân trọng nó như vàng. Đến",
+    "textdich": ""
+  },
+  {
+    "start": 1065.48,
+    "end": 1070.559,
+    "text": "đây, bức tranh về cây đu đủ đã dần hoàn",
+    "textdich": ""
+  },
+  {
+    "start": 1067.919,
+    "end": 1072.44,
+    "text": "thiện. Rễ và hạt giúp dọn dẹp đường",
+    "textdich": ""
+  },
+  {
+    "start": 1070.559,
+    "end": 1074.88,
+    "text": "nhanh chóng trong bảy ngày đầu. Lá và",
+    "textdich": ""
+  },
+  {
+    "start": 1072.44,
+    "end": 1076.64,
+    "text": "hoa giúp phục hồi tuyến tụy và duy trì",
+    "textdich": ""
+  },
+  {
+    "start": 1074.88,
+    "end": 1078.64,
+    "text": "sự ổn định bền vững trong những tuần",
+    "textdich": ""
+  },
+  {
+    "start": 1076.64,
+    "end": 1081.48,
+    "text": "tiếp theo. Thiên nhiên đã ban tặng cho",
+    "textdich": ""
+  },
+  {
+    "start": 1078.64,
+    "end": 1083.919,
+    "text": "chúng ta một giải pháp kép vừa tấn công",
+    "textdich": ""
+  },
+  {
+    "start": 1081.48,
+    "end": 1085.799,
+    "text": "vừa phòng thủ. Nhưng thưa các bạn, bệnh",
+    "textdich": ""
+  },
+  {
+    "start": 1083.919,
+    "end": 1087.559,
+    "text": "tiểu đường ở người cao tuổi không chỉ",
+    "textdich": ""
+  },
+  {
+    "start": 1085.799,
+    "end": 1089.6,
+    "text": "đơn giản là chuyện đường cao hay đường",
+    "textdich": ""
+  },
+  {
+    "start": 1087.559,
+    "end": 1091.679,
+    "text": "thấp, nó còn nguy hiểm ở một khía cạnh",
+    "textdich": ""
+  },
+  {
+    "start": 1089.6,
+    "end": 1094.08,
+    "text": "khác mà ít người để ý.",
+    "textdich": ""
+  },
+  {
+    "start": 1091.679,
+    "end": 1096.08,
+    "text": "Đó là sự rỉ sét từ bên trong. Người già",
+    "textdich": ""
+  },
+  {
+    "start": 1094.08,
+    "end": 1098.52,
+    "text": "bị tiểu đường thường đi kèm với mỡ máu,",
+    "textdich": ""
+  },
+  {
+    "start": 1096.08,
+    "end": 1100.6,
+    "text": "gan nhiễm mỡ và sự lão hóa tế bào diễn",
+    "textdich": ""
+  },
+  {
+    "start": 1098.52,
+    "end": 1103.52,
+    "text": "ra cực nhanh. Các mạch máu bị tổn",
+    "textdich": ""
+  },
+  {
+    "start": 1100.6,
+    "end": 1106.0,
+    "text": "thương, sơ cứng dẫn đến nguy cơ đột quỵ",
+    "textdich": ""
+  },
+  {
+    "start": 1103.52,
+    "end": 1108.44,
+    "text": "và nhồi máu cơ tim. Đây mới là kẻ thù",
+    "textdich": ""
+  },
+  {
+    "start": 1106.0,
+    "end": 1110.6,
+    "text": "dấu mặt đáng sợ nhất. Liệu cây đu đủ có",
+    "textdich": ""
+  },
+  {
+    "start": 1108.44,
+    "end": 1112.4,
+    "text": "làm gì được với kẻ thù này không? Hay",
+    "textdich": ""
+  },
+  {
+    "start": 1110.6,
+    "end": 1114.679,
+    "text": "chúng ta vẫn phải phụ thuộc vào những",
+    "textdich": ""
+  },
+  {
+    "start": 1112.4,
+    "end": 1116.28,
+    "text": "viên thuốc giảm mỡ máu đầy tác dụng phụ?",
+    "textdich": ""
+  },
+  {
+    "start": 1114.679,
+    "end": 1118.6,
+    "text": "Câu trả lời đến từ một đất nước nổi",
+    "textdich": ""
+  },
+  {
+    "start": 1116.28,
+    "end": 1120.96,
+    "text": "tiếng về tuổi thọ, Nhật Bản. Người Nhật",
+    "textdich": ""
+  },
+  {
+    "start": 1118.6,
+    "end": 1123.52,
+    "text": "không chỉ sống lâu mà họ còn sống rất",
+    "textdich": ""
+  },
+  {
+    "start": 1120.96,
+    "end": 1125.919,
+    "text": "khỏe mạnh và bí quyết của họ liên quan",
+    "textdich": ""
+  },
+  {
+    "start": 1123.52,
+    "end": 1128.48,
+    "text": "đến một dạng chế biến đặc biệt của đu đủ",
+    "textdich": ""
+  },
+  {
+    "start": 1125.919,
+    "end": 1130.6,
+    "text": "mà tôi gọi là công nghệ lên men. Tại sao",
+    "textdich": ""
+  },
+  {
+    "start": 1128.48,
+    "end": 1132.64,
+    "text": "các nhà khoa học Nhật Bản và Châu Âu lại",
+    "textdich": ""
+  },
+  {
+    "start": 1130.6,
+    "end": 1135.36,
+    "text": "dành hàng chục năm để nghiên cứu về đu",
+    "textdich": ""
+  },
+  {
+    "start": 1132.64,
+    "end": 1137.36,
+    "text": "đủ lên men và tại sao họ khẳng định đây",
+    "textdich": ""
+  },
+  {
+    "start": 1135.36,
+    "end": 1139.52,
+    "text": "là chìa khóa để bảo vệ não bộ và tim",
+    "textdich": ""
+  },
+  {
+    "start": 1137.36,
+    "end": 1141.32,
+    "text": "mạch cho người cao tuổi mắc tiểu đường.",
+    "textdich": ""
+  },
+  {
+    "start": 1139.52,
+    "end": 1143.24,
+    "text": "Phần tiếp theo sẽ đưa bạn đến với những",
+    "textdich": ""
+  },
+  {
+    "start": 1141.32,
+    "end": 1145.32,
+    "text": "kiến thức y học tiên tiến nhất. giải",
+    "textdich": ""
+  },
+  {
+    "start": 1143.24,
+    "end": 1147.799,
+    "text": "thích vì sao đu đủ không chỉ là thuốc hạ",
+    "textdich": ""
+  },
+  {
+    "start": 1145.32,
+    "end": 1150.44,
+    "text": "đường mà còn là thuốc trường sinh chống",
+    "textdich": ""
+  },
+  {
+    "start": 1147.799,
+    "end": 1152.559,
+    "text": "lại sự lão hóa. Chúng ta vừa đi qua một",
+    "textdich": ""
+  },
+  {
+    "start": 1150.44,
+    "end": 1156.159,
+    "text": "hành trình dài để hiểu về sức mạnh của",
+    "textdich": ""
+  },
+  {
+    "start": 1152.559,
+    "end": 1158.32,
+    "text": "rễ, hạt, lá và hoa. Nhưng nếu tôi dừng",
+    "textdich": ""
+  },
+  {
+    "start": 1156.159,
+    "end": 1159.96,
+    "text": "lại ở đó, tôi sẽ có lỗi với những khán",
+    "textdich": ""
+  },
+  {
+    "start": 1158.32,
+    "end": 1163.159,
+    "text": "giả lớn tuổi của kênh Thức Tỉnh Sức",
+    "textdich": ""
+  },
+  {
+    "start": 1159.96,
+    "end": 1165.44,
+    "text": "Sống. Bởi vì với người cao tuổi, kẻ thù",
+    "textdich": ""
+  },
+  {
+    "start": 1163.159,
+    "end": 1168.36,
+    "text": "không chỉ là đường huyết cao, kẻ thù",
+    "textdich": ""
+  },
+  {
+    "start": 1165.44,
+    "end": 1170.919,
+    "text": "thực sự là sự lão hóa, là sự suy yếu của",
+    "textdich": ""
+  },
+  {
+    "start": 1168.36,
+    "end": 1173.44,
+    "text": "toàn bộ hệ thống cơ thể. Hãy tưởng tượng",
+    "textdich": ""
+  },
+  {
+    "start": 1170.919,
+    "end": 1176.48,
+    "text": "cơ thể của chúng ta giống như một cỗ máy",
+    "textdich": ""
+  },
+  {
+    "start": 1173.44,
+    "end": 1178.64,
+    "text": "đã vận hành 60 70 năm. Dù bạn có giữ gìn",
+    "textdich": ""
+  },
+  {
+    "start": 1176.48,
+    "end": 1180.84,
+    "text": "kỹ đến đâu, cỗ máy ấy cũng bắt đầu xuất",
+    "textdich": ""
+  },
+  {
+    "start": 1178.64,
+    "end": 1184.28,
+    "text": "hiện những vết rỉt. Trong y học, chúng",
+    "textdich": ""
+  },
+  {
+    "start": 1180.84,
+    "end": 1185.919,
+    "text": "tôi gọi sự rỉ sét ấy là stress oxy hóa.",
+    "textdich": ""
+  },
+  {
+    "start": 1184.28,
+    "end": 1188.4,
+    "text": "Đối với người bị tiểu đường, quá trình",
+    "textdich": ""
+  },
+  {
+    "start": 1185.919,
+    "end": 1190.4,
+    "text": "rỉ sét này diễn ra nhanh gấp đôi, gấp ba",
+    "textdich": ""
+  },
+  {
+    "start": 1188.4,
+    "end": 1192.72,
+    "text": "người bình thường. Đường trong máu càng",
+    "textdich": ""
+  },
+  {
+    "start": 1190.4,
+    "end": 1195.32,
+    "text": "cao, nó càng giống như axit ăn mòn các",
+    "textdich": ""
+  },
+  {
+    "start": 1192.72,
+    "end": 1198.039,
+    "text": "tế bào, làm tắc nghẽn mạch máu, làm đục",
+    "textdich": ""
+  },
+  {
+    "start": 1195.32,
+    "end": 1200.799,
+    "text": "thủy tinh thể và làm suy giảm trí nhớ.",
+    "textdich": ""
+  },
+  {
+    "start": 1198.039,
+    "end": 1202.76,
+    "text": "Đó là lý do tại sao nhiều bác, nhiều cụ",
+    "textdich": ""
+  },
+  {
+    "start": 1200.799,
+    "end": 1205.799,
+    "text": "bị tiểu đường thường hay quên, chân tay",
+    "textdich": ""
+  },
+  {
+    "start": 1202.76,
+    "end": 1207.76,
+    "text": "yếu ớt và dễ mắc bệnh tim mạch. Và đây",
+    "textdich": ""
+  },
+  {
+    "start": 1205.799,
+    "end": 1210.0,
+    "text": "chính là lúc đủ đủ thể hiện vai trò",
+    "textdich": ""
+  },
+  {
+    "start": 1207.76,
+    "end": 1212.36,
+    "text": "người bảo vệ vĩ đại mà thuốc tây khó",
+    "textdich": ""
+  },
+  {
+    "start": 1210.0,
+    "end": 1214.48,
+    "text": "lòng làm được. Các nghiên cứu, đặc biệt",
+    "textdich": ""
+  },
+  {
+    "start": 1212.36,
+    "end": 1216.159,
+    "text": "là các công trình từ Nhật Bản và Châu Âu",
+    "textdich": ""
+  },
+  {
+    "start": 1214.48,
+    "end": 1218.44,
+    "text": "đã tập trung vào một chế phẩm đặc biệt",
+    "textdich": ""
+  },
+  {
+    "start": 1216.159,
+    "end": 1220.919,
+    "text": "gọi là đu đủ lên menen. Họ phát hiện ra",
+    "textdich": ""
+  },
+  {
+    "start": 1218.44,
+    "end": 1222.96,
+    "text": "rằng khi đu đủ được lên men đúng cách,",
+    "textdich": ""
+  },
+  {
+    "start": 1220.919,
+    "end": 1225.48,
+    "text": "nó sinh ra những enzyme và chất chống",
+    "textdich": ""
+  },
+  {
+    "start": 1222.96,
+    "end": 1227.52,
+    "text": "oxy hóa cực mạnh. Những chất này đi vào",
+    "textdich": ""
+  },
+  {
+    "start": 1225.48,
+    "end": 1230.24,
+    "text": "cơ thể, hoạt động như những người thợ",
+    "textdich": ""
+  },
+  {
+    "start": 1227.52,
+    "end": 1232.6,
+    "text": "cạo rỉt. Chúng dọn dẹp các gốc tự do,",
+    "textdich": ""
+  },
+  {
+    "start": 1230.24,
+    "end": 1234.48,
+    "text": "bảo vệ tế bào não và tế bào tim mạch",
+    "textdich": ""
+  },
+  {
+    "start": 1232.6,
+    "end": 1236.84,
+    "text": "khỏi sự tấn công của đường huyết. Một",
+    "textdich": ""
+  },
+  {
+    "start": 1234.48,
+    "end": 1239.2,
+    "text": "nghiên cứu tại châu Phi đã cho thấy việc",
+    "textdich": ""
+  },
+  {
+    "start": 1236.84,
+    "end": 1240.96,
+    "text": "sử dụng đu đủ lên men trong 14 tuần",
+    "textdich": ""
+  },
+  {
+    "start": 1239.2,
+    "end": 1243.08,
+    "text": "không chỉ giúp ổn định đường huyết mà",
+    "textdich": ""
+  },
+  {
+    "start": 1240.96,
+    "end": 1245.44,
+    "text": "còn làm giảm đáng kể chỉ số viêm nhiễm",
+    "textdich": ""
+  },
+  {
+    "start": 1243.08,
+    "end": 1247.36,
+    "text": "trong cơ thể. Điều này cực kỳ quan trọng",
+    "textdich": ""
+  },
+  {
+    "start": 1245.44,
+    "end": 1249.52,
+    "text": "vì viêm nhiễm chính là ngòi nổ cho các",
+    "textdich": ""
+  },
+  {
+    "start": 1247.36,
+    "end": 1252.0,
+    "text": "biến chứng như suy thận hay hoại tử bàn",
+    "textdich": ""
+  },
+  {
+    "start": 1249.52,
+    "end": 1253.76,
+    "text": "chân. Hơn thế nữa, đủ đủ còn giúp cải",
+    "textdich": ""
+  },
+  {
+    "start": 1252.0,
+    "end": 1256.84,
+    "text": "thiện bộ mỡ máu. Nó giúp giảm",
+    "textdich": ""
+  },
+  {
+    "start": 1253.76,
+    "end": 1259.039,
+    "text": "cholesterol xấu kẻ gây tắc mạch máu và",
+    "textdich": ""
+  },
+  {
+    "start": 1256.84,
+    "end": 1261.36,
+    "text": "tăng cholesterol tốt người dọn dẹp mạch",
+    "textdich": ""
+  },
+  {
+    "start": 1259.039,
+    "end": 1263.76,
+    "text": "máu. Với người cao tuổi, điều này có ý",
+    "textdich": ""
+  },
+  {
+    "start": 1261.36,
+    "end": 1265.88,
+    "text": "nghĩa gì? Nó có nghĩa là bạn không chỉ",
+    "textdich": ""
+  },
+  {
+    "start": 1263.76,
+    "end": 1268.12,
+    "text": "kiểm soát được con số đường huyết mà bạn",
+    "textdich": ""
+  },
+  {
+    "start": 1265.88,
+    "end": 1270.48,
+    "text": "còn đang bảo vệ trái tim mình, bảo vệ bộ",
+    "textdich": ""
+  },
+  {
+    "start": 1268.12,
+    "end": 1272.6,
+    "text": "não của mình khỏi sự sa sút trí tuệ. Bạn",
+    "textdich": ""
+  },
+  {
+    "start": 1270.48,
+    "end": 1275.36,
+    "text": "đang gia cấu lại cỗ máy của mình để nó",
+    "textdich": ""
+  },
+  {
+    "start": 1272.6,
+    "end": 1278.08,
+    "text": "chạy êm ái hơn, bền bỉ hơn. Đó là sự",
+    "textdich": ""
+  },
+  {
+    "start": 1275.36,
+    "end": 1280.0,
+    "text": "khác biệt giữa chữa bệnh và chữa lành.",
+    "textdich": ""
+  },
+  {
+    "start": 1278.08,
+    "end": 1282.799,
+    "text": "Thuốc tây chữa bệnh, hạ đường ngay lập",
+    "textdich": ""
+  },
+  {
+    "start": 1280.0,
+    "end": 1285.0,
+    "text": "tức còn đu đủ với sự kỳ diệu của thiên",
+    "textdich": ""
+  },
+  {
+    "start": 1282.799,
+    "end": 1287.96,
+    "text": "nhiên, chữa lành những tổn thương gốc rễ",
+    "textdich": ""
+  },
+  {
+    "start": 1285.0,
+    "end": 1289.679,
+    "text": "từ bên trong. Đến đây, tôi tin rằng bạn",
+    "textdich": ""
+  },
+  {
+    "start": 1287.96,
+    "end": 1291.919,
+    "text": "đã hoàn toàn bị thuyết phục bởi những",
+    "textdich": ""
+  },
+  {
+    "start": 1289.679,
+    "end": 1295.32,
+    "text": "bằng chứng khoa học xác đáng này. Bạn đã",
+    "textdich": ""
+  },
+  {
+    "start": 1291.919,
+    "end": 1297.44,
+    "text": "hiểu dễ hạt, lá hoa quý giá như thế nào",
+    "textdich": ""
+  },
+  {
+    "start": 1295.32,
+    "end": 1299.919,
+    "text": "và bây giờ chắc chắn bạn đang nóng lòng",
+    "textdich": ""
+  },
+  {
+    "start": 1297.44,
+    "end": 1302.24,
+    "text": "muốn biết vậy tôi phải làm thế nào, tôi",
+    "textdich": ""
+  },
+  {
+    "start": 1299.919,
+    "end": 1304.2,
+    "text": "phải nấu dễ ra sao, ăn hạt thế nào để",
+    "textdich": ""
+  },
+  {
+    "start": 1302.24,
+    "end": 1306.72,
+    "text": "không bị đắng và liều lượng bao nhiêu là",
+    "textdich": ""
+  },
+  {
+    "start": 1304.2,
+    "end": 1309.4,
+    "text": "an toàn. Đừng lo, tôi sẽ không để bạn",
+    "textdich": ""
+  },
+  {
+    "start": 1306.72,
+    "end": 1311.32,
+    "text": "phải chờ đợi nữa. Ngay sau đây sẽ là",
+    "textdich": ""
+  },
+  {
+    "start": 1309.4,
+    "end": 1313.279,
+    "text": "phần quan trọng nhất của video, phần",
+    "textdich": ""
+  },
+  {
+    "start": 1311.32,
+    "end": 1315.0,
+    "text": "hướng dẫn thực hành. Tôi sẽ cầm tay chỉ",
+    "textdich": ""
+  },
+  {
+    "start": 1313.279,
+    "end": 1317.24,
+    "text": "việc đưa cho bạn những công thức đơn",
+    "textdich": ""
+  },
+  {
+    "start": 1315.0,
+    "end": 1319.76,
+    "text": "giản nhất, dễ làm nhất ngay tại gian bếp",
+    "textdich": ""
+  },
+  {
+    "start": 1317.24,
+    "end": 1321.279,
+    "text": "nhà mình. Hãy chuẩn bị giấy bút hoặc đơn",
+    "textdich": ""
+  },
+  {
+    "start": 1319.76,
+    "end": 1323.44,
+    "text": "giản là chụp lại màn hình những công",
+    "textdich": ""
+  },
+  {
+    "start": 1321.279,
+    "end": 1325.76,
+    "text": "thức quý giá này. Chúng ta sẽ bắt đầu",
+    "textdich": ""
+  },
+  {
+    "start": 1323.44,
+    "end": 1328.12,
+    "text": "với liệu trình bảy ngày dọn sạch đường",
+    "textdich": ""
+  },
+  {
+    "start": 1325.76,
+    "end": 1330.76,
+    "text": "bằng rễ và hạt. Trước khi chúng ta bắt",
+    "textdich": ""
+  },
+  {
+    "start": 1328.12,
+    "end": 1333.4,
+    "text": "đầu, tôi cần có một lưu ý quan trọng,",
+    "textdich": ""
+  },
+  {
+    "start": 1330.76,
+    "end": 1335.559,
+    "text": "một lời cam kết giữa tôi và bạn. Đu đủ",
+    "textdich": ""
+  },
+  {
+    "start": 1333.4,
+    "end": 1338.039,
+    "text": "là thực phẩm hỗ trợ, là thuốc của tự",
+    "textdich": ""
+  },
+  {
+    "start": 1335.559,
+    "end": 1340.36,
+    "text": "nhiên nhưng nó không phải là phép màu để",
+    "textdich": ""
+  },
+  {
+    "start": 1338.039,
+    "end": 1342.64,
+    "text": "bạn vứt bỏ thuốc tây ngay lập tức. Nếu",
+    "textdich": ""
+  },
+  {
+    "start": 1340.36,
+    "end": 1345.76,
+    "text": "bạn đang uống thuốc theo đơn của bác sĩ,",
+    "textdich": ""
+  },
+  {
+    "start": 1342.64,
+    "end": 1347.72,
+    "text": "hãy tiếp tục uống. Đừng tự ý ngưng thuốc",
+    "textdich": ""
+  },
+  {
+    "start": 1345.76,
+    "end": 1350.36,
+    "text": "đột ngột. Hãy áp dụng phương pháp này",
+    "textdich": ""
+  },
+  {
+    "start": 1347.72,
+    "end": 1352.44,
+    "text": "song song và rồi bạn sẽ thấy điều kỳ",
+    "textdich": ""
+  },
+  {
+    "start": 1350.36,
+    "end": 1355.159,
+    "text": "diệu khi bác sĩ của bạn trong lần tái",
+    "textdich": ""
+  },
+  {
+    "start": 1352.44,
+    "end": 1357.279,
+    "text": "khám tới phải ngạc nhiên thốt lên. Dạo",
+    "textdich": ""
+  },
+  {
+    "start": 1355.159,
+    "end": 1359.32,
+    "text": "này bác làm gì mà đường huyết đẹp thế?",
+    "textdich": ""
+  },
+  {
+    "start": 1357.279,
+    "end": 1361.2,
+    "text": "Có khi phải giảm liều thuốc thôi. Đó mới",
+    "textdich": ""
+  },
+  {
+    "start": 1359.32,
+    "end": 1364.76,
+    "text": "là mục tiêu của chúng ta. Giảm thuốc từ",
+    "textdich": ""
+  },
+  {
+    "start": 1361.2,
+    "end": 1367.039,
+    "text": "từ nhờ cơ thể tự khỏe lên. Được rồi, bây",
+    "textdich": ""
+  },
+  {
+    "start": 1364.76,
+    "end": 1368.919,
+    "text": "giờ hãy đi vào chi tiết. Một bài thuốc",
+    "textdich": ""
+  },
+  {
+    "start": 1367.039,
+    "end": 1371.36,
+    "text": "từ rễ đu đủ dùng cho người đường huyết",
+    "textdich": ""
+  },
+  {
+    "start": 1368.919,
+    "end": 1373.36,
+    "text": "cao lâu năm. Như chúng ta đã biết rễ đu",
+    "textdich": ""
+  },
+  {
+    "start": 1371.36,
+    "end": 1375.559,
+    "text": "đủ có tác dụng nhanh nhất chỉ sau 7",
+    "textdich": ""
+  },
+  {
+    "start": 1373.36,
+    "end": 1378.039,
+    "text": "ngày. Nhưng rễ cũng là nơi tiếp xúc với",
+    "textdich": ""
+  },
+  {
+    "start": 1375.559,
+    "end": 1380.64,
+    "text": "đất. Nên khâu sơ chế là quan trọng nhất.",
+    "textdich": ""
+  },
+  {
+    "start": 1378.039,
+    "end": 1383.32,
+    "text": "Cách chọn rễ tốt nhất là dùng rễ của cây",
+    "textdich": ""
+  },
+  {
+    "start": 1380.64,
+    "end": 1385.039,
+    "text": "đu đủ đực. Nếu không có rễ cây cái cũng",
+    "textdich": ""
+  },
+  {
+    "start": 1383.32,
+    "end": 1388.679,
+    "text": "được nhưng dược tính sẽ thấp hơn một",
+    "textdich": ""
+  },
+  {
+    "start": 1385.039,
+    "end": 1390.919,
+    "text": "chút. Sơ chế đào rễ lên bạn cần rửa thật",
+    "textdich": ""
+  },
+  {
+    "start": 1388.679,
+    "end": 1393.48,
+    "text": "sạch đất cát. Ngâm qua nước muối loãng",
+    "textdich": ""
+  },
+  {
+    "start": 1390.919,
+    "end": 1395.96,
+    "text": "khoảng 15 phút để diệt khuẩn. Sau đó",
+    "textdich": ""
+  },
+  {
+    "start": 1393.48,
+    "end": 1398.32,
+    "text": "thái thành từng lát mỏng hoặc khúc ngắn.",
+    "textdich": ""
+  },
+  {
+    "start": 1395.96,
+    "end": 1400.48,
+    "text": "Đem phơi khô dưới nắng to. Việc phơi khô",
+    "textdich": ""
+  },
+  {
+    "start": 1398.32,
+    "end": 1403.32,
+    "text": "giúp dễ bảo quản được lâu và giảm bớt",
+    "textdich": ""
+  },
+  {
+    "start": 1400.48,
+    "end": 1405.76,
+    "text": "tính hàn. Cách dùng: Mỗi ngày bạn lấy",
+    "textdich": ""
+  },
+  {
+    "start": 1403.32,
+    "end": 1408.36,
+    "text": "khoảng 20 g rễ đu đủ khô tương đương",
+    "textdich": ""
+  },
+  {
+    "start": 1405.76,
+    "end": 1411.12,
+    "text": "khoảng một nắm tay nhỏ cho vào nồi, đổ",
+    "textdich": ""
+  },
+  {
+    "start": 1408.36,
+    "end": 1413.559,
+    "text": "thêm khoảng 1 lí nước, đun sôi, sau đó",
+    "textdich": ""
+  },
+  {
+    "start": 1411.12,
+    "end": 1415.52,
+    "text": "hạ lửa nhỏ lưu rưu trong khoảng 15 đến",
+    "textdich": ""
+  },
+  {
+    "start": 1413.559,
+    "end": 1417.84,
+    "text": "20 phút cho các chất trong dễ tiết ra",
+    "textdich": ""
+  },
+  {
+    "start": 1415.52,
+    "end": 1420.24,
+    "text": "hết. Nước sẽ chuyển sang màu vàng nhạt",
+    "textdich": ""
+  },
+  {
+    "start": 1417.84,
+    "end": 1422.559,
+    "text": "và có mùi thơm nhẹ của đất. Uống như thế",
+    "textdich": ""
+  },
+  {
+    "start": 1420.24,
+    "end": 1425.44,
+    "text": "nào? Chia uống trong ngày, uống thay",
+    "textdich": ""
+  },
+  {
+    "start": 1422.559,
+    "end": 1427.84,
+    "text": "nước trà. Uống liên tục trong 7 ngày,",
+    "textdich": ""
+  },
+  {
+    "start": 1425.44,
+    "end": 1431.08,
+    "text": "sau đó nghỉ ba đến 4 ngày rồi mới uống",
+    "textdich": ""
+  },
+  {
+    "start": 1427.84,
+    "end": 1433.76,
+    "text": "tiếp nếu cần. Lưu ý, nước dễ đu đủ có vị",
+    "textdich": ""
+  },
+  {
+    "start": 1431.08,
+    "end": 1436.039,
+    "text": "hơi ngái nhưng rất dễ uống. Sau ba ngày",
+    "textdich": ""
+  },
+  {
+    "start": 1433.76,
+    "end": 1438.32,
+    "text": "đầu, bạn hãy đo lại đường huyết, bạn sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 1436.039,
+    "end": 1441.279,
+    "text": "thấy sự chuyển biến. Bài thuốc từ hạt đu",
+    "textdich": ""
+  },
+  {
+    "start": 1438.32,
+    "end": 1444.32,
+    "text": "đủ dùng hàng ngày để duy trì. Hạt đu đủ",
+    "textdich": ""
+  },
+  {
+    "start": 1441.279,
+    "end": 1446.88,
+    "text": "mạnh hơn lá 76% nhưng vị của nó khá cay",
+    "textdich": ""
+  },
+  {
+    "start": 1444.32,
+    "end": 1449.039,
+    "text": "và nồng giống hạt tiêu. Vì vậy, chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 1446.88,
+    "end": 1451.919,
+    "text": "không ăn vã cả bát hạt được mà phải dùng",
+    "textdich": ""
+  },
+  {
+    "start": 1449.039,
+    "end": 1454.76,
+    "text": "như một loại gia vị thuốc. Cách làm khi",
+    "textdich": ""
+  },
+  {
+    "start": 1451.919,
+    "end": 1457.4,
+    "text": "ăn đu đủ chín, bạn đừng vứt hạt. Hãy lấy",
+    "textdich": ""
+  },
+  {
+    "start": 1454.76,
+    "end": 1459.96,
+    "text": "thìa cạo hạt ra cho vào rổ trà sát nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 1457.4,
+    "end": 1462.32,
+    "text": "để vỡ lớp màng bọc bên ngoài. Sau đó rửa",
+    "textdich": ""
+  },
+  {
+    "start": 1459.96,
+    "end": 1465.279,
+    "text": "sạch nhớt, đem phơi khô hoặc sấy khô.",
+    "textdich": ""
+  },
+  {
+    "start": 1462.32,
+    "end": 1468.039,
+    "text": "Thành phẩm: hạt khô sẽ teo lại đen và",
+    "textdich": ""
+  },
+  {
+    "start": 1465.279,
+    "end": 1469.919,
+    "text": "nhăn nheo giống hạt tiêu đen. Cách dùng:",
+    "textdich": ""
+  },
+  {
+    "start": 1468.039,
+    "end": 1472.76,
+    "text": "Bạn cho hạt khô vào cối xay tiêu hoặc",
+    "textdich": ""
+  },
+  {
+    "start": 1469.919,
+    "end": 1474.72,
+    "text": "cối dã nhỏ thành bột mịn liều lượng. Mỗi",
+    "textdich": ""
+  },
+  {
+    "start": 1472.76,
+    "end": 1477.48,
+    "text": "ngày dùng khoảng một thìa cà phê nhỏ bột",
+    "textdich": ""
+  },
+  {
+    "start": 1474.72,
+    "end": 1480.039,
+    "text": "hạt đu đủ. Cách ăn, bạn có thể trộm bột",
+    "textdich": ""
+  },
+  {
+    "start": 1477.48,
+    "end": 1482.36,
+    "text": "này vào cơm, vào canh hoặc pha với nước",
+    "textdich": ""
+  },
+  {
+    "start": 1480.039,
+    "end": 1484.2,
+    "text": "ấm uống sau bữa ăn vì nó có vị cay nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 1482.36,
+    "end": 1487.12,
+    "text": "và đắng. Nó còn giúp kích thích tiêu",
+    "textdich": ""
+  },
+  {
+    "start": 1484.2,
+    "end": 1488.84,
+    "text": "hóa, giảm đầy bụng rất tốt. Mẹo nhỏ, nếu",
+    "textdich": ""
+  },
+  {
+    "start": 1487.12,
+    "end": 1491.0,
+    "text": "bạn không chịu được vị đắng, hãy trộn",
+    "textdich": ""
+  },
+  {
+    "start": 1488.84,
+    "end": 1493.12,
+    "text": "bột hạt đu đủ với một chút mật ong. Mật",
+    "textdich": ""
+  },
+  {
+    "start": 1491.0,
+    "end": 1495.36,
+    "text": "ong cũng giúp thuốc tốt hơn. Bạn thấy",
+    "textdich": ""
+  },
+  {
+    "start": 1493.12,
+    "end": 1498.08,
+    "text": "đấy, hai công thức này hoàn toàn nằm",
+    "textdich": ""
+  },
+  {
+    "start": 1495.36,
+    "end": 1500.72,
+    "text": "trong tầm tay của bạn. Rễ cây thì đi xin",
+    "textdich": ""
+  },
+  {
+    "start": 1498.08,
+    "end": 1502.96,
+    "text": "hàng xóm hoặc ra vườn đào. Hạt thì tận",
+    "textdich": ""
+  },
+  {
+    "start": 1500.72,
+    "end": 1504.799,
+    "text": "dụng từ quả ăn hàng ngày. Chi phí gần",
+    "textdich": ""
+  },
+  {
+    "start": 1502.96,
+    "end": 1507.559,
+    "text": "như bằng không nhưng giá trị mang lại",
+    "textdich": ""
+  },
+  {
+    "start": 1504.799,
+    "end": 1510.2,
+    "text": "thì vô giá. Nhưng khoan đá có một câu",
+    "textdich": ""
+  },
+  {
+    "start": 1507.559,
+    "end": 1512.679,
+    "text": "hỏi mà rất nhiều người thắc mắc. Thế còn",
+    "textdich": ""
+  },
+  {
+    "start": 1510.2,
+    "end": 1514.76,
+    "text": "quả đu đủ thì sao? Người tiểu đường có",
+    "textdich": ""
+  },
+  {
+    "start": 1512.679,
+    "end": 1516.84,
+    "text": "được ăn quả chín không? Hay phải ăn quả",
+    "textdich": ""
+  },
+  {
+    "start": 1514.76,
+    "end": 1518.84,
+    "text": "xanh mới tốt? Đây là một hiểu lầm tai",
+    "textdich": ""
+  },
+  {
+    "start": 1516.84,
+    "end": 1521.039,
+    "text": "hại khiến nhiều người bỏ lỡ nguồn dinh",
+    "textdich": ""
+  },
+  {
+    "start": 1518.84,
+    "end": 1522.799,
+    "text": "dưỡng tuyệt vời. Trong phần tiếp theo,",
+    "textdich": ""
+  },
+  {
+    "start": 1521.039,
+    "end": 1525.96,
+    "text": "tôi sẽ hướng dẫn bạn nghệ thuật ăn quả",
+    "textdich": ""
+  },
+  {
+    "start": 1522.799,
+    "end": 1528.08,
+    "text": "đu đủ. Ăn xanh để làm gì và ăn chín vào",
+    "textdich": ""
+  },
+  {
+    "start": 1525.96,
+    "end": 1530.0,
+    "text": "lúc nào để đường không tăng mà người lại",
+    "textdich": ""
+  },
+  {
+    "start": 1528.08,
+    "end": 1532.52,
+    "text": "khỏe? Có một câu hỏi mà tôi nhận được",
+    "textdich": ""
+  },
+  {
+    "start": 1530.0,
+    "end": 1534.88,
+    "text": "rất nhiều từ các bác, các cô chú. Bác sĩ",
+    "textdich": ""
+  },
+  {
+    "start": 1532.52,
+    "end": 1537.039,
+    "text": "ơi, đu đủ chín ngọt thế kia thì ăn vào",
+    "textdich": ""
+  },
+  {
+    "start": 1534.88,
+    "end": 1539.76,
+    "text": "đường lên vù vù à? Tôi thèm lắm mà không",
+    "textdich": ""
+  },
+  {
+    "start": 1537.039,
+    "end": 1542.08,
+    "text": "dám đụng. Hôm nay tôi ở đây để giải oan",
+    "textdich": ""
+  },
+  {
+    "start": 1539.76,
+    "end": 1544.24,
+    "text": "cho quả đu đủ chín và đồng thời giới",
+    "textdich": ""
+  },
+  {
+    "start": 1542.08,
+    "end": 1546.2,
+    "text": "thiệu cho bạn một món ăn từ đu đủ xanh",
+    "textdich": ""
+  },
+  {
+    "start": 1544.24,
+    "end": 1549.52,
+    "text": "mà có lẽ bạn chưa biết nó tốt đến nhường",
+    "textdich": ""
+  },
+  {
+    "start": 1546.2,
+    "end": 1551.48,
+    "text": "nào. Đầu tiên hãy nói về đu đủ xanh. Nếu",
+    "textdich": ""
+  },
+  {
+    "start": 1549.52,
+    "end": 1553.48,
+    "text": "bạn nghĩ đu đủ xanh chỉ để làm nộm hay",
+    "textdich": ""
+  },
+  {
+    "start": 1551.48,
+    "end": 1555.64,
+    "text": "hầm xương cho ngọt nước thì bạn đã bỏ",
+    "textdich": ""
+  },
+  {
+    "start": 1553.48,
+    "end": 1558.159,
+    "text": "qua một công dụng tuyệt vời. Khoa học đã",
+    "textdich": ""
+  },
+  {
+    "start": 1555.64,
+    "end": 1560.08,
+    "text": "chứng minh đu đủ xanh là một nhà máy",
+    "textdich": ""
+  },
+  {
+    "start": 1558.159,
+    "end": 1562.559,
+    "text": "kích thích chuyển hóa. Các nghiên cứu",
+    "textdich": ""
+  },
+  {
+    "start": 1560.08,
+    "end": 1564.2,
+    "text": "chỉ ra rằng chiết suất từ đu đủ xanh có",
+    "textdich": ""
+  },
+  {
+    "start": 1562.559,
+    "end": 1567.0,
+    "text": "khả năng kích thích cơ bắp của bạn mở",
+    "textdich": ""
+  },
+  {
+    "start": 1564.2,
+    "end": 1569.159,
+    "text": "cửa để đón đường vào. Cụ thể, nó làm",
+    "textdich": ""
+  },
+  {
+    "start": 1567.0,
+    "end": 1571.88,
+    "text": "tăng khả năng hấp thụ đường vào tế bào",
+    "textdich": ""
+  },
+  {
+    "start": 1569.159,
+    "end": 1574.12,
+    "text": "cơ lên gấp 3 đến 3 năm lần. Bạn hãy",
+    "textdich": ""
+  },
+  {
+    "start": 1571.88,
+    "end": 1575.88,
+    "text": "tưởng tượng thế này. Mạch máu của bạn là",
+    "textdich": ""
+  },
+  {
+    "start": 1574.12,
+    "end": 1577.799,
+    "text": "con đường giao thông. Đường là những",
+    "textdich": ""
+  },
+  {
+    "start": 1575.88,
+    "end": 1580.12,
+    "text": "chiếc xe chạy trên đó ở người tiểu",
+    "textdich": ""
+  },
+  {
+    "start": 1577.799,
+    "end": 1582.36,
+    "text": "đường. Những chiếc xe này bị ùn tắc,",
+    "textdich": ""
+  },
+  {
+    "start": 1580.12,
+    "end": 1584.24,
+    "text": "không tìm được bãi đỗ, đu đủ xanh đóng",
+    "textdich": ""
+  },
+  {
+    "start": 1582.36,
+    "end": 1586.559,
+    "text": "vai trò như người cảnh sát giao thông,",
+    "textdich": ""
+  },
+  {
+    "start": 1584.24,
+    "end": 1588.559,
+    "text": "mở toang các cánh cửa g tức là cơ bắp",
+    "textdich": ""
+  },
+  {
+    "start": 1586.559,
+    "end": 1591.039,
+    "text": "của bạn, lùa những chiếc xe này vào nơi",
+    "textdich": ""
+  },
+  {
+    "start": 1588.559,
+    "end": 1593.24,
+    "text": "nó cần đến để đốt cháy thành năng lượng.",
+    "textdich": ""
+  },
+  {
+    "start": 1591.039,
+    "end": 1595.88,
+    "text": "Nhờ đó, đường trên phố mạch máu sẽ thông",
+    "textdich": ""
+  },
+  {
+    "start": 1593.24,
+    "end": 1599.279,
+    "text": "thoáng trở lại. Vì vậy, đừng ngại ăn đu",
+    "textdich": ""
+  },
+  {
+    "start": 1595.88,
+    "end": 1602.279,
+    "text": "đủ xanh. Bạn có thể nộm xào nhẹ hoặc",
+    "textdich": ""
+  },
+  {
+    "start": 1599.279,
+    "end": 1605.36,
+    "text": "hầm, nhưng nhớ là đừng nấu quá kỹ đến",
+    "textdich": ""
+  },
+  {
+    "start": 1602.279,
+    "end": 1607.679,
+    "text": "nát nhừ, vì nhiệt độ cao quá lâu có thể",
+    "textdich": ""
+  },
+  {
+    "start": 1605.36,
+    "end": 1610.12,
+    "text": "làm giảm bớt lượng enzyme quý giá. Bây",
+    "textdich": ""
+  },
+  {
+    "start": 1607.679,
+    "end": 1612.96,
+    "text": "giờ hãy đến với bị cáo mang tên đu đủ",
+    "textdich": ""
+  },
+  {
+    "start": 1610.12,
+    "end": 1615.48,
+    "text": "chín. Sự thật là đu đủ chín có ngọt",
+    "textdich": ""
+  },
+  {
+    "start": 1612.96,
+    "end": 1618.08,
+    "text": "không? Có. Nhưng nó có làm tăng đường",
+    "textdich": ""
+  },
+  {
+    "start": 1615.48,
+    "end": 1620.48,
+    "text": "huyết đột ngột không? Câu trả lời là",
+    "textdich": ""
+  },
+  {
+    "start": 1618.08,
+    "end": 1622.44,
+    "text": "không. Nếu bạn biết ăn đúng cách, chỉ số",
+    "textdich": ""
+  },
+  {
+    "start": 1620.48,
+    "end": 1625.799,
+    "text": "đường huyết của đu đủ chín nằm ở mức",
+    "textdich": ""
+  },
+  {
+    "start": 1622.44,
+    "end": 1627.96,
+    "text": "trung bình thấp khoảng 38 đến 42. Để bạn",
+    "textdich": ""
+  },
+  {
+    "start": 1625.799,
+    "end": 1631.679,
+    "text": "dễ hình dung, chỉ số của cơm trắng là",
+    "textdich": ""
+  },
+  {
+    "start": 1627.96,
+    "end": 1634.44,
+    "text": "khoảng 80 đến 90, của dưa hấu là 72, tức",
+    "textdich": ""
+  },
+  {
+    "start": 1631.679,
+    "end": 1636.72,
+    "text": "là đù đủ lành hơn bát cơm trắng bạn ăn",
+    "textdich": ""
+  },
+  {
+    "start": 1634.44,
+    "end": 1638.2,
+    "text": "rất nhiều. Tuy nhiên, có một lưu ý đặc",
+    "textdich": ""
+  },
+  {
+    "start": 1636.72,
+    "end": 1640.64,
+    "text": "biệt quan trọng dành riêng cho người cao",
+    "textdich": ""
+  },
+  {
+    "start": 1638.2,
+    "end": 1643.559,
+    "text": "tuổi mà ít ai nói cho bạn biết. Một",
+    "textdich": ""
+  },
+  {
+    "start": 1640.64,
+    "end": 1645.52,
+    "text": "nghiên cứu tại Singapore đã chỉ ra rằng",
+    "textdich": ""
+  },
+  {
+    "start": 1643.559,
+    "end": 1647.64,
+    "text": "cùng một lượng đua đủ nhưng cơ thể người",
+    "textdich": ""
+  },
+  {
+    "start": 1645.52,
+    "end": 1650.52,
+    "text": "già sẽ phản ứng đường huyết cao hơn một",
+    "textdich": ""
+  },
+  {
+    "start": 1647.64,
+    "end": 1652.919,
+    "text": "chút so với người trẻ. Do đó, chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 1650.52,
+    "end": 1654.919,
+    "text": "cần ăn có chiến thuật. Tội gọi đây là ba",
+    "textdich": ""
+  },
+  {
+    "start": 1652.919,
+    "end": 1657.12,
+    "text": "nguyên tắc vàng khi ăn đu đủ chín dành",
+    "textdich": ""
+  },
+  {
+    "start": 1654.919,
+    "end": 1659.48,
+    "text": "cho người tiểu đường. Nguyên tắc một, ăn",
+    "textdich": ""
+  },
+  {
+    "start": 1657.12,
+    "end": 1661.84,
+    "text": "miếng không ăn say. Nghiên cứu đã chứng",
+    "textdich": ""
+  },
+  {
+    "start": 1659.48,
+    "end": 1663.399,
+    "text": "minh ăn đu đủ cắt miếng vuông làm đường",
+    "textdich": ""
+  },
+  {
+    "start": 1661.84,
+    "end": 1665.48,
+    "text": "huyết tăng chậm hơn so với việc say",
+    "textdich": ""
+  },
+  {
+    "start": 1663.399,
+    "end": 1667.919,
+    "text": "nhuyễn thành sinh tố. Khi bạn nhai miếng",
+    "textdich": ""
+  },
+  {
+    "start": 1665.48,
+    "end": 1669.72,
+    "text": "đu đủ, chất sơ được giữ nguyên. Nó giống",
+    "textdich": ""
+  },
+  {
+    "start": 1667.919,
+    "end": 1672.36,
+    "text": "như cái lưới giữ đường lại, không cho",
+    "textdich": ""
+  },
+  {
+    "start": 1669.72,
+    "end": 1674.679,
+    "text": "ngấm vào máu quá nhanh. Còn khi xay ra,",
+    "textdich": ""
+  },
+  {
+    "start": 1672.36,
+    "end": 1677.2,
+    "text": "bạn đã phá vỡ cái lưới đó, biến nó thành",
+    "textdich": ""
+  },
+  {
+    "start": 1674.679,
+    "end": 1680.48,
+    "text": "nước đường đi thẳng vào máu. Lời khuyên:",
+    "textdich": ""
+  },
+  {
+    "start": 1677.2,
+    "end": 1682.48,
+    "text": "Hãy gọt vỏ, cắt miếng và nhai chậm rãi.",
+    "textdich": ""
+  },
+  {
+    "start": 1680.48,
+    "end": 1684.559,
+    "text": "Nguyên tắc hai, ăn tráng miệng không ăn",
+    "textdich": ""
+  },
+  {
+    "start": 1682.48,
+    "end": 1687.64,
+    "text": "lúc đói. Nhiều người có thói quen ngủ",
+    "textdich": ""
+  },
+  {
+    "start": 1684.559,
+    "end": 1690.12,
+    "text": "dậy hoặc lúc đói lòng thì ăn hoa quả.",
+    "textdich": ""
+  },
+  {
+    "start": 1687.64,
+    "end": 1693.279,
+    "text": "Sai lầm khi bụng rỗng, đường sẽ được hấp",
+    "textdich": ""
+  },
+  {
+    "start": 1690.12,
+    "end": 1695.679,
+    "text": "thu với tốc độ tên lửa. Lời khuyên: Thời",
+    "textdich": ""
+  },
+  {
+    "start": 1693.279,
+    "end": 1698.32,
+    "text": "điểm vàng để ăn đu đủ là khoảng 30 phút",
+    "textdich": ""
+  },
+  {
+    "start": 1695.679,
+    "end": 1701.279,
+    "text": "sau bữa ăn chính. Lúc này dạ dày đã có",
+    "textdich": ""
+  },
+  {
+    "start": 1698.32,
+    "end": 1704.2,
+    "text": "cơm, rau, thịt lót nền, đu đủ vào sau sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 1701.279,
+    "end": 1706.48,
+    "text": "được tiêu hóa từ. Nguyên tắc ba, kết hợp",
+    "textdich": ""
+  },
+  {
+    "start": 1704.2,
+    "end": 1708.679,
+    "text": "với bạn đồng hành, đừng ăn đu đủ một",
+    "textdich": ""
+  },
+  {
+    "start": 1706.48,
+    "end": 1711.64,
+    "text": "mình, hãy ăn kèm với một chút chất béo",
+    "textdich": ""
+  },
+  {
+    "start": 1708.679,
+    "end": 1713.799,
+    "text": "tốt hoặc đạm. Ví dụ, trộn vài miếng đu",
+    "textdich": ""
+  },
+  {
+    "start": 1711.64,
+    "end": 1716.039,
+    "text": "đủ với một ít sữa chua không đường hoặc",
+    "textdich": ""
+  },
+  {
+    "start": 1713.799,
+    "end": 1718.0,
+    "text": "ăn cùng vài hạt lạc, hạt hạnh nhân. Chất",
+    "textdich": ""
+  },
+  {
+    "start": 1716.039,
+    "end": 1720.159,
+    "text": "béo và đạm sẽ kìm hãm tốc độ hấp thu",
+    "textdich": ""
+  },
+  {
+    "start": 1718.0,
+    "end": 1722.08,
+    "text": "đường, giữ cho chỉ số đường huyết của",
+    "textdich": ""
+  },
+  {
+    "start": 1720.159,
+    "end": 1724.2,
+    "text": "bạn vẽ nên một đường cong mềm mại thay",
+    "textdich": ""
+  },
+  {
+    "start": 1722.08,
+    "end": 1726.24,
+    "text": "vì một đỉnh nhọn nguy hiểm. Vậy là từ",
+    "textdich": ""
+  },
+  {
+    "start": 1724.2,
+    "end": 1727.88,
+    "text": "nay bạn không cần phải nhìn đĩa đu đủ",
+    "textdich": ""
+  },
+  {
+    "start": 1726.24,
+    "end": 1730.279,
+    "text": "chín với ánh mắt thèm thuồng và sợ hãi",
+    "textdich": ""
+  },
+  {
+    "start": 1727.88,
+    "end": 1733.08,
+    "text": "nữa. Hãy chọn quả chín tới, cắt miếng",
+    "textdich": ""
+  },
+  {
+    "start": 1730.279,
+    "end": 1735.88,
+    "text": "vuông vức, ăn sau bữa cơm và tận hưởng",
+    "textdich": ""
+  },
+  {
+    "start": 1733.08,
+    "end": 1737.84,
+    "text": "vị ngọt ngào mà thiên nhiên ban tặng. Đó",
+    "textdich": ""
+  },
+  {
+    "start": 1735.88,
+    "end": 1739.88,
+    "text": "chính là phần thưởng cho bạn, là niềm",
+    "textdich": ""
+  },
+  {
+    "start": 1737.84,
+    "end": 1742.399,
+    "text": "vui nhỏ bé của tuổi già mà không bệnh",
+    "textdich": ""
+  },
+  {
+    "start": 1739.88,
+    "end": 1744.84,
+    "text": "tật nào có quyền cướp đi. Thưa bạn,",
+    "textdich": ""
+  },
+  {
+    "start": 1742.399,
+    "end": 1747.64,
+    "text": "chúng ta đã đi qua một hành trình dài từ",
+    "textdich": ""
+  },
+  {
+    "start": 1744.84,
+    "end": 1749.72,
+    "text": "việc đào rễ, giữ hạt đến cách ăn từng",
+    "textdich": ""
+  },
+  {
+    "start": 1747.64,
+    "end": 1752.24,
+    "text": "miếng quả. Nhưng tất cả những kiến thức",
+    "textdich": ""
+  },
+  {
+    "start": 1749.72,
+    "end": 1754.279,
+    "text": "này sẽ trở nên vô nghĩa nếu thiếu đi một",
+    "textdich": ""
+  },
+  {
+    "start": 1752.24,
+    "end": 1756.399,
+    "text": "mảnh ghép cuối cùng. Mảnh ghép quyết",
+    "textdich": ""
+  },
+  {
+    "start": 1754.279,
+    "end": 1758.88,
+    "text": "định sự thành bại của cả cuộc đời đó",
+    "textdich": ""
+  },
+  {
+    "start": 1756.399,
+    "end": 1760.84,
+    "text": "chính là tư duy, là chết lý sống. Tại",
+    "textdich": ""
+  },
+  {
+    "start": 1758.88,
+    "end": 1762.48,
+    "text": "sao có người uống thuốc cả đời vẫn bệnh,",
+    "textdich": ""
+  },
+  {
+    "start": 1760.84,
+    "end": 1764.6,
+    "text": "còn có người chỉ thay đổi lối sống lại",
+    "textdich": ""
+  },
+  {
+    "start": 1762.48,
+    "end": 1766.279,
+    "text": "khỏe re? Chúng ta đã đi cùng nhau qua",
+    "textdich": ""
+  },
+  {
+    "start": 1764.6,
+    "end": 1768.48,
+    "text": "một chạm đường dài trong video ngày hôm",
+    "textdich": ""
+  },
+  {
+    "start": 1766.279,
+    "end": 1770.799,
+    "text": "nay. Từ sự ngỡ ngàng trước những nghịch",
+    "textdich": ""
+  },
+  {
+    "start": 1768.48,
+    "end": 1773.12,
+    "text": "lý đến sự thán phục trước trí tuệ của",
+    "textdich": ""
+  },
+  {
+    "start": 1770.799,
+    "end": 1775.24,
+    "text": "thiên nhiên và cuối cùng là những công",
+    "textdich": ""
+  },
+  {
+    "start": 1773.12,
+    "end": 1777.399,
+    "text": "thức cụ thể để áp dụng ngay vào đời",
+    "textdich": ""
+  },
+  {
+    "start": 1775.24,
+    "end": 1779.32,
+    "text": "sống. Nhưng trước khi khép lại, tôi muốn",
+    "textdich": ""
+  },
+  {
+    "start": 1777.399,
+    "end": 1781.24,
+    "text": "ngồi lại với bạn một phút không phải với",
+    "textdich": ""
+  },
+  {
+    "start": 1779.32,
+    "end": 1783.2,
+    "text": "tư cách là người chia sẻ kiến thức mà",
+    "textdich": ""
+  },
+  {
+    "start": 1781.24,
+    "end": 1785.88,
+    "text": "như một người bạn tâm giao. Có một câu",
+    "textdich": ""
+  },
+  {
+    "start": 1783.2,
+    "end": 1787.36,
+    "text": "nói mà tôi luôn tâm đắc. Bác sĩ tốt nhất",
+    "textdich": ""
+  },
+  {
+    "start": 1785.88,
+    "end": 1789.6,
+    "text": "trên thế giới không làm việc trong bệnh",
+    "textdich": ""
+  },
+  {
+    "start": 1787.36,
+    "end": 1791.679,
+    "text": "viện mà đang ngủ quên ngay bên trong cơ",
+    "textdich": ""
+  },
+  {
+    "start": 1789.6,
+    "end": 1793.799,
+    "text": "thể bạn. Cây đu đủ mà chúng ta nói đến",
+    "textdich": ""
+  },
+  {
+    "start": 1791.679,
+    "end": 1796.039,
+    "text": "hôm nay hay bất kỳ loại thảo dược nào",
+    "textdich": ""
+  },
+  {
+    "start": 1793.799,
+    "end": 1798.08,
+    "text": "khác thực chất chỉ là những trợ lý đắc",
+    "textdich": ""
+  },
+  {
+    "start": 1796.039,
+    "end": 1801.12,
+    "text": "lực. Chúng cung cấp nguyên liệu, cung",
+    "textdich": ""
+  },
+  {
+    "start": 1798.08,
+    "end": 1802.64,
+    "text": "cấp vũ khí. Nhưng người chỉ huy thực sự,",
+    "textdich": ""
+  },
+  {
+    "start": 1801.12,
+    "end": 1804.72,
+    "text": "người quyết định chiến thắng trong cuộc",
+    "textdich": ""
+  },
+  {
+    "start": 1802.64,
+    "end": 1806.559,
+    "text": "chiến với bệnh tật chính là bạn. Sức",
+    "textdich": ""
+  },
+  {
+    "start": 1804.72,
+    "end": 1809.159,
+    "text": "khỏe không phải là món quà ngẫu nhiên từ",
+    "textdich": ""
+  },
+  {
+    "start": 1806.559,
+    "end": 1811.2,
+    "text": "trời rơi xuống. Sức khỏe là kết quả của",
+    "textdich": ""
+  },
+  {
+    "start": 1809.159,
+    "end": 1813.559,
+    "text": "sự lựa chọn. Mỗi lần bạn quyết định giữ",
+    "textdich": ""
+  },
+  {
+    "start": 1811.2,
+    "end": 1815.559,
+    "text": "lại hạt đu đủ thay vì vứt đi, đó là một",
+    "textdich": ""
+  },
+  {
+    "start": 1813.559,
+    "end": 1817.679,
+    "text": "lựa chọn của trí tuệ. Mỗi lần bạn kiên",
+    "textdich": ""
+  },
+  {
+    "start": 1815.559,
+    "end": 1819.72,
+    "text": "nhẫn đun bát nước rễ cây thay vì tiện",
+    "textdich": ""
+  },
+  {
+    "start": 1817.679,
+    "end": 1822.279,
+    "text": "tay uống một lon nước ngọt, đó là một",
+    "textdich": ""
+  },
+  {
+    "start": 1819.72,
+    "end": 1824.6,
+    "text": "lựa chọn của bản lính. Và mỗi lần bạn ăn",
+    "textdich": ""
+  },
+  {
+    "start": 1822.279,
+    "end": 1827.039,
+    "text": "miếng đù đủ, chậm rãi, lắng nghe cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 1824.6,
+    "end": 1830.32,
+    "text": "mình, đó là sự tỉnh thức. Đừng bao giờ",
+    "textdich": ""
+  },
+  {
+    "start": 1827.039,
+    "end": 1832.72,
+    "text": "nghĩ rằng già rồi sao cũng được hay bệnh",
+    "textdich": ""
+  },
+  {
+    "start": 1830.32,
+    "end": 1834.84,
+    "text": "này là cái số. Không, tuổi tác chỉ là",
+    "textdich": ""
+  },
+  {
+    "start": 1832.72,
+    "end": 1837.2,
+    "text": "con số trên giấy tờ. Chừng nào bạn còn",
+    "textdich": ""
+  },
+  {
+    "start": 1834.84,
+    "end": 1839.559,
+    "text": "thở, chừng đó cơ thể bạn còn đang nỗ lực",
+    "textdich": ""
+  },
+  {
+    "start": 1837.2,
+    "end": 1841.679,
+    "text": "từng giây để sửa chữa và hồi phục. Hãy",
+    "textdich": ""
+  },
+  {
+    "start": 1839.559,
+    "end": 1843.919,
+    "text": "thương nó, hãy tiếp xức cho nó bằng",
+    "textdich": ""
+  },
+  {
+    "start": 1841.679,
+    "end": 1846.24,
+    "text": "những gì tinh túy nhất của tự nhiên. Hôm",
+    "textdich": ""
+  },
+  {
+    "start": 1843.919,
+    "end": 1848.96,
+    "text": "nay bạn đã nắm trong tay tấm bản đồ quý",
+    "textdich": ""
+  },
+  {
+    "start": 1846.24,
+    "end": 1851.399,
+    "text": "giá. Bạn đã biết rễ và hạt là đội quân",
+    "textdich": ""
+  },
+  {
+    "start": 1848.96,
+    "end": 1854.12,
+    "text": "tiên phong dọn sạch đường trong 7 ngày.",
+    "textdich": ""
+  },
+  {
+    "start": 1851.399,
+    "end": 1856.799,
+    "text": "Bạn đã biết lá và hoa là tấm khiên bảo",
+    "textdich": ""
+  },
+  {
+    "start": 1854.12,
+    "end": 1859.279,
+    "text": "vệ tuyến tụy. Và bạn đã biết cách ăn quả",
+    "textdich": ""
+  },
+  {
+    "start": 1856.799,
+    "end": 1861.08,
+    "text": "để vừa ngon miệng vừa an toàn. Đừng giữ",
+    "textdich": ""
+  },
+  {
+    "start": 1859.279,
+    "end": 1862.96,
+    "text": "tấm bản đồ này cho riêng mình. Ngoài",
+    "textdich": ""
+  },
+  {
+    "start": 1861.08,
+    "end": 1864.919,
+    "text": "kia, có biết bao nhiêu người bạn già của",
+    "textdich": ""
+  },
+  {
+    "start": 1862.96,
+    "end": 1866.399,
+    "text": "chúng ta, những người hàng xóm, những",
+    "textdich": ""
+  },
+  {
+    "start": 1864.919,
+    "end": 1868.919,
+    "text": "người thân trong gia đình vẫn đang ngày",
+    "textdich": ""
+  },
+  {
+    "start": 1866.399,
+    "end": 1871.12,
+    "text": "ngày vứt bỏ thuốc tiên vào sọt rác. Họ",
+    "textdich": ""
+  },
+  {
+    "start": 1868.919,
+    "end": 1873.76,
+    "text": "vẫn đang sống trong nỗi sợ hãi mỗi khi",
+    "textdich": ""
+  },
+  {
+    "start": 1871.12,
+    "end": 1875.639,
+    "text": "cầm tờ kết quả xét nghiệm. Hãy giúp tôi",
+    "textdich": ""
+  },
+  {
+    "start": 1873.76,
+    "end": 1877.679,
+    "text": "và giúp chính cộng đồng của chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 1875.639,
+    "end": 1880.32,
+    "text": "bằng một hành động nhỏ nhưng ý nghĩa lớn",
+    "textdich": ""
+  },
+  {
+    "start": 1877.679,
+    "end": 1882.399,
+    "text": "lao. Hãy chia sẻ video này, gửi nó vào",
+    "textdich": ""
+  },
+  {
+    "start": 1880.32,
+    "end": 1884.279,
+    "text": "nhóm Zalo của Hội Người cao tuổi, gửi",
+    "textdich": ""
+  },
+  {
+    "start": 1882.399,
+    "end": 1886.48,
+    "text": "cho con cháu để chúng biết cách chăm sóc",
+    "textdich": ""
+  },
+  {
+    "start": 1884.279,
+    "end": 1888.24,
+    "text": "ông bà. Một nút chia sẻ của bạn hôm nay",
+    "textdich": ""
+  },
+  {
+    "start": 1886.48,
+    "end": 1890.12,
+    "text": "có thể giúp ai đó thoát khỏi nguy cơ",
+    "textdich": ""
+  },
+  {
+    "start": 1888.24,
+    "end": 1891.639,
+    "text": "biến chứng vào ngày mai. Đó là cách",
+    "textdich": ""
+  },
+  {
+    "start": 1890.12,
+    "end": 1894.0,
+    "text": "chúng ta gieo hạt giống thiện lành cho",
+    "textdich": ""
+  },
+  {
+    "start": 1891.639,
+    "end": 1895.84,
+    "text": "cuộc đời. Và nếu bạn đã sẵn sàng áp dụng",
+    "textdich": ""
+  },
+  {
+    "start": 1894.0,
+    "end": 1898.12,
+    "text": "phương pháp này, hãy để lại bình luận",
+    "textdich": ""
+  },
+  {
+    "start": 1895.84,
+    "end": 1901.039,
+    "text": "bên dưới dòng chữ Tôi Sống khỏe. Hãy để",
+    "textdich": ""
+  },
+  {
+    "start": 1898.12,
+    "end": 1903.399,
+    "text": "dòng chữ ấy như một lời cam kết mạnh mẽ",
+    "textdich": ""
+  },
+  {
+    "start": 1901.039,
+    "end": 1905.76,
+    "text": "với chính bản thân mình. Tôi sẽ đọc từng",
+    "textdich": ""
+  },
+  {
+    "start": 1903.399,
+    "end": 1907.679,
+    "text": "bình luận và tôi sẽ thả tim cho sự quyết",
+    "textdich": ""
+  },
+  {
+    "start": 1905.76,
+    "end": 1910.279,
+    "text": "tâm của bạn. Cảm ơn bạn đã dành thời",
+    "textdich": ""
+  },
+  {
+    "start": 1907.679,
+    "end": 1912.6,
+    "text": "gian quý báu để lắng nghe. Tôi là người",
+    "textdich": ""
+  },
+  {
+    "start": 1910.279,
+    "end": 1915.48,
+    "text": "dẫn chuyện của Thức tỉnh Sức sống. Chúc",
+    "textdich": ""
+  },
+  {
+    "start": 1912.6,
+    "end": 1917.519,
+    "text": "bạn một đời an yên, minh mẫn và luôn tìm",
+    "textdich": ""
+  },
+  {
+    "start": 1915.48,
+    "end": 1920.44,
+    "text": "thấy niềm vui trong từng bữa ăn giấc",
+    "textdich": ""
+  },
+  {
+    "start": 1917.519,
+    "end": 1923.72,
+    "text": "ngủ. Xin chào và hẹn gặp lại trong những",
+    "textdich": ""
+  },
+  {
+    "start": 1920.44,
+    "end": 1923.72,
+    "text": "video khai sáng tiếp theo.",
+    "textdich": ""
+  }
+]
