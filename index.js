@@ -345,7 +345,7 @@ function lay_phudejson_byst(){
     //alert(link);
     try {
       //neu app.py chay tai may local 8501 thi:
-      window.location.href = "https://github.com/tien89talkenvi/talk-envi/?link=" + link;
+      window.location.href = "https://tien89.streamlit.app/?link=" + link;
     } catch (err) {
       console.error(err);
       alert('py ko hd');
@@ -375,5 +375,6 @@ function xuLiUrlInput(){
 
 }
 //https://www.youtube.com/watch?v=sdyeqgXleXs
+
 
 
