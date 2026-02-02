@@ -39,7 +39,16 @@
       // 3. FETCH JSON SUBTITLES
       // ==========================
       async function fetchSubtitles(videoId) {
-        const url = `Subs/${videoId}.json`;
+        //const url = `Subs/${videoId}.json`;
+        const url = `https://raw.githubusercontent.com/hoangco89/hoangco89.github.io/main/Subs/${videoId}.json`;
+        //neu repo github la private thi phai dung:
+        //fetch(url, {
+        //    headers: {
+        //      Authorization: "token YOUR_GITHUB_TOKEN"
+        //    }
+        //})
+        //.then(r => r.json())
+        //.then(data => console.log(data));
 
         try {
           const res = await fetch(url);
@@ -345,7 +354,7 @@ function lay_phudejson_byst(){
     //alert(link);
     try {
       //neu app.py chay tai may local 8501 thi:
-      window.location.href = "https://tien89.streamlit.app/?link=" + link;
+      window.location.href = "http://localhost:8501/?link=" + link;
     } catch (err) {
       console.error(err);
       alert('py ko hd');
@@ -355,26 +364,28 @@ function lay_phudejson_byst(){
 }
 
 function xuLiUrlInput(){
-  url = inputurl.value;
-  videoId = url.split('v=')[1];
-  alert(url);
-  subtitles = fetchSubtitles(videoId);
-  if (subtitles.length>0){
-    translateFullJson(subtitles);
-    tbao_pde.textContent = ""
-  }else{
-    currentSubtitle.innerHTML="[source subtitles]";
-    subdich.innerHTML="[translated subtitles]";
-    tbao_pde.textContent = "No subtites. Click here to get!"
+  let url = inputurl.value;
+  //gui link qua nho https://tien89.streamlit.app lay phu de 
+  const link = encodeURIComponent(url);
+  let listgui = ['video', 'en', url];
+  //alert(link);
+  try {
+    //neu app.py chay tai may local 8501 thi:
+    window.location.href = "https://tien89.streamlit.app/?link=" + link;
+  } catch (err) {
+    console.error(err);
+    //alert('tien89.streamlit.app khong dang hoat dong.');
+    return;
   }
-
-  player.loadVideoById(videoId);
-  player.playVideo();
-
-  startSync();
-
 }
-//https://www.youtube.com/watch?v=sdyeqgXleXs
+//https://www.youtube.com/watch?v=Apn6KLPx1_Q
 
 
+
+
+// ham nay phuc vu chu de 3 vi yt khong cho embed, khi do phai nhap dub de chay ngoai trang
+playBtn.addEventListener('dblclick', (e) => {
+  let url = "https://www.youtube.com/watch?v="+videoId;  
+  window.location.href = url;
+});
 

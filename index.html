@@ -13,7 +13,7 @@
 </head>
 <body>
 <!-- Header -->
-  <header class="sticky">
+<header class="sticky">
 
   <div class="video-container">
     <div id="playerContainer"></div>
@@ -29,7 +29,9 @@
     <button class='butp2' onclick="btnYoutubeSound()">Yt only</button>
   </div>
   <!-- <hr> -->
-  </header>
+</header>
+
+<div>
   <div class='outiframe'>
     <br>
     <div id="currentSubtitle">[source subtitles]</div>
@@ -41,7 +43,8 @@
     <hr><br>
 
 
-    <button class="buttonD"><select id="selectVideo"></select></button>
+    <button class="buttonD"><select id="selectVideo"></select> </button>
+    
     <br><button id="tbao_pde" onclick="lay_phudejson_byst()"></button>
 
     <h4>Chọn Chủ đề ⬇ và video ⬆</h4>
@@ -53,6 +56,7 @@
 
     <br><br><button class="buttonD" onclick="tom_tat_ndvideo()" style="width:60%;">Tóm tắt nội dung của video</button><br>
 
+
     <!--<h4><a href="https://tien89.streamlit.app" style="background: transparent;text-align: center; ">.</a></h4>-->
     <h4><a href="z.py" style="background: transparent;text-align: center; ">.</a></h4>
   </div>
@@ -63,11 +67,16 @@
     <p>2318 Cartesian St, Katy, Houston, TX 77494, USA</p>
     <p><a href="https://adunglacchurch.github.io" target="_blank">About</a> | <a href="https://tiensgus.github.io" target="_blank">App1</a>| <a href="https://loan991958.github.io" target="_blank">App2</a>| <a href="https://hoangco89.github.io" target="_blank">App3</a></p>
 </footer>
-
+</div>
   <!-- YouTube API -->
   <script src="https://www.youtube.com/iframe_api"></script>
   <script>
-    const videochon = document.getElementById("videochon");
+    // https://www.youtube.com/watch?v=mi3xR5eGQ3s&list=PLtBFFyhEIC7n7PULjzTttoe4sNKzv4DBu&index=1
+//https://www.youtu.be/watch?v=mi3xR5eGQ3s
+//<a href="https://www.youtube.com/watch?v=mi3xR5eGQ3s&list=PLtBFFyhEIC7n7PULjzTttoe4sNKzv4DBu&index=1">Click</a>
+//<a href="https://www.youtu.be/mi3xR5eGQ3s">CLIC SAU TTTTTTTTT</a>
+
+const videochon = document.getElementById("videochon");
     const playBtn = document.getElementById("playBtn");
     const selectChude = document.getElementById("selectChude");
     const selectVideo = document.getElementById("selectVideo");
@@ -180,6 +189,8 @@
 
       });
 
+//---------THU-----------
+//"https://www.youtube.com/watch?v=mi3xR5eGQ3s&list=PLtBFFyhEIC7n7PULjzTttoe4sNKzv4DBu&index=1"
 </script>
 
   <script src="index.js"></script>
