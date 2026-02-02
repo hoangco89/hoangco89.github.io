@@ -1,0 +1,2786 @@
+[
+  {
+    "start": 20.56,
+    "end": 36.32,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 25.84,
+    "end": 41.44,
+    "text": "H I J K L M N O P, Q, R, S, T, U, V,",
+    "textdich": ""
+  },
+  {
+    "start": 36.32,
+    "end": 46.719,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 41.44,
+    "end": 53.399,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 46.719,
+    "end": 53.399,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 64.96,
+    "end": 80.72,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 70.159,
+    "end": 85.759,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 80.72,
+    "end": 91.04,
+    "text": "W X Y and",
+    "textdich": ""
+  },
+  {
+    "start": 85.759,
+    "end": 96.24,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 91.04,
+    "end": 100.439,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 96.24,
+    "end": 100.439,
+    "text": "Now let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 100.72,
+    "end": 104.119,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 105.2,
+    "end": 124.799,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 113.6,
+    "end": 126.88,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 124.799,
+    "end": 132.679,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 126.88,
+    "end": 132.679,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 148.879,
+    "end": 164.64,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 154.08,
+    "end": 169.68,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 164.64,
+    "end": 174.959,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 169.68,
+    "end": 181.72,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 174.959,
+    "end": 181.72,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 193.28,
+    "end": 208.959,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 198.4,
+    "end": 214.08,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 208.959,
+    "end": 219.36,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 214.08,
+    "end": 224.48,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 219.36,
+    "end": 228.68,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 224.48,
+    "end": 228.68,
+    "text": ">> Now, let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 229.04,
+    "end": 232.36,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 233.519,
+    "end": 253.04,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 241.92,
+    "end": 255.12,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 253.04,
+    "end": 259.959,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 255.12,
+    "end": 259.959,
+    "text": "Next time you sing",
+    "textdich": ""
+  },
+  {
+    "start": 276.96,
+    "end": 292.72,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 282.16,
+    "end": 297.759,
+    "text": "H I J K L M N O P Q R S T U V,",
+    "textdich": ""
+  },
+  {
+    "start": 292.72,
+    "end": 303.04,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 297.759,
+    "end": 309.8,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 303.04,
+    "end": 309.8,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 321.36,
+    "end": 337.039,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 326.479,
+    "end": 342.16,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 337.039,
+    "end": 347.44,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 342.16,
+    "end": 352.639,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 347.44,
+    "end": 356.759,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 352.639,
+    "end": 356.759,
+    "text": "Now let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 357.12,
+    "end": 360.52,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 361.6,
+    "end": 381.199,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 370.0,
+    "end": 383.199,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 381.199,
+    "end": 389.08,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 383.199,
+    "end": 389.08,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 405.199,
+    "end": 420.88,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 410.4,
+    "end": 426.0,
+    "text": "H I J K L M N O P Q R S T U, V,",
+    "textdich": ""
+  },
+  {
+    "start": 420.88,
+    "end": 431.36,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 426.0,
+    "end": 438.039,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 431.36,
+    "end": 438.039,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 449.599,
+    "end": 465.28,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 454.72,
+    "end": 470.4,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 465.28,
+    "end": 475.68,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 470.4,
+    "end": 480.879,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 475.68,
+    "end": 485.0,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 480.879,
+    "end": 485.0,
+    "text": ">> Now, let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 485.36,
+    "end": 488.759,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 489.84,
+    "end": 509.36,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 498.24,
+    "end": 511.44,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 509.36,
+    "end": 517.24,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 511.44,
+    "end": 517.24,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 533.519,
+    "end": 549.2,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 538.72,
+    "end": 554.32,
+    "text": "H I J K L M N O P Q R S T U, V,",
+    "textdich": ""
+  },
+  {
+    "start": 549.2,
+    "end": 559.68,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 554.32,
+    "end": 566.36,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 559.68,
+    "end": 566.36,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 577.92,
+    "end": 593.6,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 583.04,
+    "end": 598.72,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 593.6,
+    "end": 604.0,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 598.72,
+    "end": 609.2,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 604.0,
+    "end": 613.32,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 609.2,
+    "end": 613.32,
+    "text": ">> Now, let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 613.68,
+    "end": 617.079,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 618.16,
+    "end": 637.68,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 626.56,
+    "end": 639.76,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 637.68,
+    "end": 645.56,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 639.76,
+    "end": 645.56,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 661.839,
+    "end": 677.519,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 667.04,
+    "end": 682.64,
+    "text": "H I J K L M N O P Q R S T U, V,",
+    "textdich": ""
+  },
+  {
+    "start": 677.519,
+    "end": 687.92,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 682.64,
+    "end": 694.68,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 687.92,
+    "end": 694.68,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 706.24,
+    "end": 721.92,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 711.36,
+    "end": 727.04,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 721.92,
+    "end": 732.32,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 727.04,
+    "end": 737.44,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 732.32,
+    "end": 741.639,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 737.44,
+    "end": 741.639,
+    "text": "Now let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 742.0,
+    "end": 745.399,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 746.48,
+    "end": 766.0,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 754.88,
+    "end": 768.079,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 766.0,
+    "end": 773.0,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 768.079,
+    "end": 773.0,
+    "text": "Next time you sing",
+    "textdich": ""
+  },
+  {
+    "start": 790.16,
+    "end": 805.839,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 795.36,
+    "end": 810.959,
+    "text": "H I J K L M N O P Q R S T U, V,",
+    "textdich": ""
+  },
+  {
+    "start": 805.839,
+    "end": 816.32,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 810.959,
+    "end": 823.0,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 816.32,
+    "end": 823.0,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 834.56,
+    "end": 850.24,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 839.68,
+    "end": 855.36,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 850.24,
+    "end": 860.639,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 855.36,
+    "end": 865.76,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 860.639,
+    "end": 869.959,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 865.76,
+    "end": 869.959,
+    "text": ">> Now, let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 870.32,
+    "end": 873.72,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 874.8,
+    "end": 894.32,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 883.199,
+    "end": 896.399,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 894.32,
+    "end": 902.199,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 896.399,
+    "end": 902.199,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 917.76,
+    "end": 933.44,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 922.959,
+    "end": 938.56,
+    "text": "H I J K L M N O P Q R S T U V,",
+    "textdich": ""
+  },
+  {
+    "start": 933.44,
+    "end": 943.839,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 938.56,
+    "end": 950.6,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 943.839,
+    "end": 950.6,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 962.079,
+    "end": 977.839,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 967.199,
+    "end": 982.959,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 977.839,
+    "end": 988.16,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 982.959,
+    "end": 993.36,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 988.16,
+    "end": 997.56,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 993.36,
+    "end": 997.56,
+    "text": "Now let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 997.839,
+    "end": 1001.24,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 1002.32,
+    "end": 1021.92,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 1010.72,
+    "end": 1024.0,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 1021.92,
+    "end": 1029.799,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1024.0,
+    "end": 1029.799,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1044.799,
+    "end": 1060.48,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1049.919,
+    "end": 1065.6,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 1060.48,
+    "end": 1070.88,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 1065.6,
+    "end": 1077.559,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1070.88,
+    "end": 1077.559,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1089.12,
+    "end": 1104.799,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1094.24,
+    "end": 1109.919,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 1104.799,
+    "end": 1115.2,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 1109.919,
+    "end": 1120.4,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1115.2,
+    "end": 1124.6,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1120.4,
+    "end": 1124.6,
+    "text": ">> Now, let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 1124.88,
+    "end": 1128.28,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 1129.36,
+    "end": 1148.96,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 1137.76,
+    "end": 1150.96,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 1148.96,
+    "end": 1156.84,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1150.96,
+    "end": 1156.84,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1172.64,
+    "end": 1188.4,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1177.84,
+    "end": 1193.44,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 1188.4,
+    "end": 1198.72,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 1193.44,
+    "end": 1205.48,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1198.72,
+    "end": 1205.48,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1216.96,
+    "end": 1232.64,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1222.08,
+    "end": 1237.84,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 1232.64,
+    "end": 1243.039,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 1237.84,
+    "end": 1248.24,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1243.039,
+    "end": 1252.44,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1248.24,
+    "end": 1252.44,
+    "text": "Now let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 1252.72,
+    "end": 1256.12,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 1257.2,
+    "end": 1276.799,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 1265.6,
+    "end": 1278.88,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 1276.799,
+    "end": 1284.679,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1278.88,
+    "end": 1284.679,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1300.48,
+    "end": 1316.159,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1305.679,
+    "end": 1321.28,
+    "text": "H I J K L M N O P Q R S T U V,",
+    "textdich": ""
+  },
+  {
+    "start": 1316.159,
+    "end": 1326.559,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 1321.28,
+    "end": 1333.32,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1326.559,
+    "end": 1333.32,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1344.799,
+    "end": 1360.559,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1350.0,
+    "end": 1365.679,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 1360.559,
+    "end": 1370.88,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 1365.679,
+    "end": 1376.08,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1370.88,
+    "end": 1380.28,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1376.08,
+    "end": 1380.28,
+    "text": "Now let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 1380.559,
+    "end": 1383.96,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 1385.12,
+    "end": 1404.64,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 1393.44,
+    "end": 1406.72,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 1404.64,
+    "end": 1412.52,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1406.72,
+    "end": 1412.52,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1428.32,
+    "end": 1444.0,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1433.52,
+    "end": 1449.12,
+    "text": "H I J K L M N O P Q R S T U V,",
+    "textdich": ""
+  },
+  {
+    "start": 1444.0,
+    "end": 1454.4,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 1449.12,
+    "end": 1461.159,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1454.4,
+    "end": 1461.159,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1472.72,
+    "end": 1488.4,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1477.84,
+    "end": 1493.52,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 1488.4,
+    "end": 1498.799,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 1493.52,
+    "end": 1503.919,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1498.799,
+    "end": 1508.12,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1503.919,
+    "end": 1508.12,
+    "text": "Now let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 1508.4,
+    "end": 1511.799,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 1512.96,
+    "end": 1532.48,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 1521.36,
+    "end": 1534.559,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 1532.48,
+    "end": 1540.36,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1534.559,
+    "end": 1540.36,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1555.6,
+    "end": 1571.279,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1560.799,
+    "end": 1576.4,
+    "text": "H I J K L M N O P Q R S T U V,",
+    "textdich": ""
+  },
+  {
+    "start": 1571.279,
+    "end": 1581.679,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 1576.4,
+    "end": 1588.44,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1581.679,
+    "end": 1588.44,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1599.919,
+    "end": 1615.679,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1605.039,
+    "end": 1620.799,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 1615.679,
+    "end": 1626.0,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 1620.799,
+    "end": 1631.2,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1626.0,
+    "end": 1635.4,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1631.2,
+    "end": 1635.4,
+    "text": "Now let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 1635.679,
+    "end": 1639.08,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 1640.24,
+    "end": 1659.76,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 1648.559,
+    "end": 1661.84,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 1659.76,
+    "end": 1667.64,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1661.84,
+    "end": 1667.64,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1684.559,
+    "end": 1700.32,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1689.76,
+    "end": 1705.36,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 1700.32,
+    "end": 1710.64,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 1705.36,
+    "end": 1717.399,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1710.64,
+    "end": 1717.399,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1728.88,
+    "end": 1744.64,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1734.08,
+    "end": 1749.679,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 1744.64,
+    "end": 1755.039,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 1749.679,
+    "end": 1760.159,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1755.039,
+    "end": 1764.36,
+    "text": "Next time you sing",
+    "textdich": ""
+  },
+  {
+    "start": 1760.159,
+    "end": 1764.36,
+    "text": "now, let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 1764.64,
+    "end": 1768.039,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 1769.2,
+    "end": 1788.72,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 1777.52,
+    "end": 1790.799,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 1788.72,
+    "end": 1795.64,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1790.799,
+    "end": 1795.64,
+    "text": "Next time you sing",
+    "textdich": ""
+  },
+  {
+    "start": 1813.279,
+    "end": 1828.96,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1818.48,
+    "end": 1834.08,
+    "text": "H I J K L M N O P Q R S T U V,",
+    "textdich": ""
+  },
+  {
+    "start": 1828.96,
+    "end": 1839.36,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 1834.08,
+    "end": 1846.12,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1839.36,
+    "end": 1846.12,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1857.679,
+    "end": 1873.36,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1862.799,
+    "end": 1878.48,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 1873.36,
+    "end": 1883.76,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 1878.48,
+    "end": 1888.88,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1883.76,
+    "end": 1893.08,
+    "text": "Next time you sing with me",
+    "textdich": ""
+  },
+  {
+    "start": 1888.88,
+    "end": 1893.08,
+    "text": "now. Let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 1893.36,
+    "end": 1896.76,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 1897.919,
+    "end": 1917.44,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 1906.32,
+    "end": 1919.519,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 1917.44,
+    "end": 1924.36,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1919.519,
+    "end": 1924.36,
+    "text": "Next time you sing",
+    "textdich": ""
+  },
+  {
+    "start": 1941.6,
+    "end": 1957.36,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1946.799,
+    "end": 1962.399,
+    "text": "H I J K L M N O P Q R S T U V,",
+    "textdich": ""
+  },
+  {
+    "start": 1957.36,
+    "end": 1967.76,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 1962.399,
+    "end": 1974.44,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 1967.76,
+    "end": 1974.44,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 1986.0,
+    "end": 2001.679,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 1991.12,
+    "end": 2006.799,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 2001.679,
+    "end": 2012.08,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2006.799,
+    "end": 2017.2,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2012.08,
+    "end": 2021.399,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2017.2,
+    "end": 2021.399,
+    "text": ">> Now, let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 2021.76,
+    "end": 2025.08,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 2026.24,
+    "end": 2045.76,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 2034.64,
+    "end": 2047.84,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 2045.76,
+    "end": 2053.639,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2047.84,
+    "end": 2053.639,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2069.919,
+    "end": 2085.599,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 2075.119,
+    "end": 2090.72,
+    "text": "H I J K L M N O P Q R S T U, V,",
+    "textdich": ""
+  },
+  {
+    "start": 2085.599,
+    "end": 2096.079,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2090.72,
+    "end": 2102.76,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2096.079,
+    "end": 2102.76,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2114.32,
+    "end": 2130.0,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 2119.44,
+    "end": 2135.04,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 2130.0,
+    "end": 2140.4,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2135.04,
+    "end": 2145.52,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2140.4,
+    "end": 2149.72,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2145.52,
+    "end": 2149.72,
+    "text": ">> Now, let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 2150.0,
+    "end": 2153.4,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 2154.56,
+    "end": 2174.0,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 2162.88,
+    "end": 2176.079,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 2174.0,
+    "end": 2181.88,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2176.079,
+    "end": 2181.88,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2198.24,
+    "end": 2213.92,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 2203.44,
+    "end": 2219.04,
+    "text": "H I J K L M N O P Q R S T U, V,",
+    "textdich": ""
+  },
+  {
+    "start": 2213.92,
+    "end": 2224.4,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2219.04,
+    "end": 2231.079,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2224.4,
+    "end": 2231.079,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2242.64,
+    "end": 2258.32,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 2247.76,
+    "end": 2263.44,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 2258.32,
+    "end": 2268.72,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2263.44,
+    "end": 2273.839,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2268.72,
+    "end": 2278.04,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2273.839,
+    "end": 2278.04,
+    "text": ">> Now, let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 2278.4,
+    "end": 2281.72,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 2282.88,
+    "end": 2302.32,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 2291.2,
+    "end": 2304.4,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 2302.32,
+    "end": 2310.2,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2304.4,
+    "end": 2310.2,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2326.56,
+    "end": 2342.24,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 2331.76,
+    "end": 2347.359,
+    "text": "H I J K L M N O P Q R S T U, V,",
+    "textdich": ""
+  },
+  {
+    "start": 2342.24,
+    "end": 2352.72,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2347.359,
+    "end": 2359.4,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2352.72,
+    "end": 2359.4,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2370.96,
+    "end": 2386.64,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 2376.079,
+    "end": 2391.76,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 2386.64,
+    "end": 2397.04,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2391.76,
+    "end": 2402.16,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2397.04,
+    "end": 2406.359,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2402.16,
+    "end": 2406.359,
+    "text": ">> Now, let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 2406.64,
+    "end": 2410.04,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 2411.2,
+    "end": 2430.64,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 2419.52,
+    "end": 2432.72,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 2430.64,
+    "end": 2437.56,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2432.72,
+    "end": 2437.56,
+    "text": "Next time you sing",
+    "textdich": ""
+  },
+  {
+    "start": 2454.72,
+    "end": 2470.4,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 2459.92,
+    "end": 2475.52,
+    "text": "H I J K L M N O P Q R S T U V,",
+    "textdich": ""
+  },
+  {
+    "start": 2470.4,
+    "end": 2480.88,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2475.52,
+    "end": 2487.56,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2480.88,
+    "end": 2487.56,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2499.119,
+    "end": 2514.8,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 2504.24,
+    "end": 2519.839,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 2514.8,
+    "end": 2525.2,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2519.839,
+    "end": 2530.319,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2525.2,
+    "end": 2534.52,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2530.319,
+    "end": 2534.52,
+    "text": ">> Now, let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 2534.8,
+    "end": 2538.2,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 2539.359,
+    "end": 2558.88,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 2547.76,
+    "end": 2560.96,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 2558.88,
+    "end": 2566.76,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2560.96,
+    "end": 2566.76,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2582.48,
+    "end": 2598.16,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 2587.76,
+    "end": 2603.28,
+    "text": "H I J K L M N O P Q R S T U V,",
+    "textdich": ""
+  },
+  {
+    "start": 2598.16,
+    "end": 2608.56,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2603.28,
+    "end": 2615.319,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2608.56,
+    "end": 2615.319,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2626.88,
+    "end": 2642.56,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 2632.0,
+    "end": 2647.76,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 2642.56,
+    "end": 2652.96,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2647.76,
+    "end": 2658.16,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2652.96,
+    "end": 2662.359,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2658.16,
+    "end": 2662.359,
+    "text": "Now let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 2662.64,
+    "end": 2666.04,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 2667.119,
+    "end": 2686.72,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 2675.52,
+    "end": 2688.8,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 2686.72,
+    "end": 2694.599,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2688.8,
+    "end": 2694.599,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2712.4,
+    "end": 2728.079,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 2717.599,
+    "end": 2733.2,
+    "text": "H I J K L M N O P Q R S, T, U, V,",
+    "textdich": ""
+  },
+  {
+    "start": 2728.079,
+    "end": 2738.56,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2733.2,
+    "end": 2745.24,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2738.56,
+    "end": 2745.24,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2756.8,
+    "end": 2772.48,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 2761.92,
+    "end": 2777.599,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 2772.48,
+    "end": 2782.88,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2777.599,
+    "end": 2788.079,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2782.88,
+    "end": 2792.2,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2788.079,
+    "end": 2792.2,
+    "text": ">> Now, let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 2792.56,
+    "end": 2795.96,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 2797.04,
+    "end": 2816.64,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 2805.44,
+    "end": 2818.64,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 2816.64,
+    "end": 2824.52,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2818.64,
+    "end": 2824.52,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2840.8,
+    "end": 2856.48,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 2846.0,
+    "end": 2861.599,
+    "text": "H I J K L M N O P Q R S T U, V,",
+    "textdich": ""
+  },
+  {
+    "start": 2856.48,
+    "end": 2866.88,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2861.599,
+    "end": 2873.64,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2866.88,
+    "end": 2873.64,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2885.119,
+    "end": 2900.88,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 2890.319,
+    "end": 2906.0,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 2900.88,
+    "end": 2911.28,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2906.0,
+    "end": 2916.4,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2911.28,
+    "end": 2920.599,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2916.4,
+    "end": 2920.599,
+    "text": "Now let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 2920.88,
+    "end": 2924.28,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 2925.44,
+    "end": 2944.96,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 2933.76,
+    "end": 2947.04,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 2944.96,
+    "end": 2952.839,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2947.04,
+    "end": 2952.839,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 2968.0,
+    "end": 2983.68,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 2973.119,
+    "end": 2988.72,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 2983.68,
+    "end": 2994.0,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 2988.72,
+    "end": 3000.76,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 2994.0,
+    "end": 3000.76,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3012.319,
+    "end": 3028.0,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 3017.44,
+    "end": 3033.04,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 3028.0,
+    "end": 3038.4,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 3033.04,
+    "end": 3043.52,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3038.4,
+    "end": 3047.72,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3043.52,
+    "end": 3047.72,
+    "text": ">> Now, let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 3048.0,
+    "end": 3051.4,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 3052.559,
+    "end": 3072.079,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 3060.96,
+    "end": 3074.16,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 3072.079,
+    "end": 3079.96,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3074.16,
+    "end": 3079.96,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3095.92,
+    "end": 3111.68,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 3101.119,
+    "end": 3116.72,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 3111.68,
+    "end": 3122.0,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 3116.72,
+    "end": 3128.76,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3122.0,
+    "end": 3128.76,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3140.24,
+    "end": 3155.92,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 3145.359,
+    "end": 3161.119,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 3155.92,
+    "end": 3166.319,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 3161.119,
+    "end": 3171.52,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3166.319,
+    "end": 3175.72,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3171.52,
+    "end": 3175.72,
+    "text": "Now let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 3176.0,
+    "end": 3179.4,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 3180.48,
+    "end": 3200.079,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 3188.88,
+    "end": 3202.16,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 3200.079,
+    "end": 3207.96,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3202.16,
+    "end": 3207.96,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3223.599,
+    "end": 3239.28,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 3228.8,
+    "end": 3244.4,
+    "text": "H I J K L M N O P Q R S T U V,",
+    "textdich": ""
+  },
+  {
+    "start": 3239.28,
+    "end": 3249.76,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 3244.4,
+    "end": 3256.44,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3249.76,
+    "end": 3256.44,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3268.0,
+    "end": 3283.68,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 3273.119,
+    "end": 3288.72,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 3283.68,
+    "end": 3294.079,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 3288.72,
+    "end": 3299.2,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3294.079,
+    "end": 3303.4,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3299.2,
+    "end": 3303.4,
+    "text": ">> Now, let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 3303.68,
+    "end": 3307.079,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 3308.24,
+    "end": 3327.76,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 3316.64,
+    "end": 3329.839,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 3327.76,
+    "end": 3335.64,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3329.839,
+    "end": 3335.64,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3351.28,
+    "end": 3367.04,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 3356.48,
+    "end": 3372.079,
+    "text": "H I J K L M N O P Q R S T U V,",
+    "textdich": ""
+  },
+  {
+    "start": 3367.04,
+    "end": 3377.359,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 3372.079,
+    "end": 3384.119,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3377.359,
+    "end": 3384.119,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3395.68,
+    "end": 3411.359,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 3400.799,
+    "end": 3416.559,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 3411.359,
+    "end": 3421.76,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 3416.559,
+    "end": 3426.96,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3421.76,
+    "end": 3431.16,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3426.96,
+    "end": 3431.16,
+    "text": "Now let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 3431.44,
+    "end": 3434.839,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 3435.92,
+    "end": 3455.52,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 3444.319,
+    "end": 3457.52,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 3455.52,
+    "end": 3463.4,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3457.52,
+    "end": 3463.4,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3478.88,
+    "end": 3494.64,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 3484.079,
+    "end": 3499.76,
+    "text": "H I J K L M N O P Q R S T U V,",
+    "textdich": ""
+  },
+  {
+    "start": 3494.64,
+    "end": 3504.96,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 3499.76,
+    "end": 3511.72,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3504.96,
+    "end": 3511.72,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3523.28,
+    "end": 3538.96,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 3528.4,
+    "end": 3544.079,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 3538.96,
+    "end": 3549.359,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 3544.079,
+    "end": 3554.559,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3549.359,
+    "end": 3558.76,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3554.559,
+    "end": 3558.76,
+    "text": "Now let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 3559.04,
+    "end": 3562.44,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 3563.52,
+    "end": 3583.119,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 3571.92,
+    "end": 3585.119,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 3583.119,
+    "end": 3591.0,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3585.119,
+    "end": 3591.0,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3606.48,
+    "end": 3622.24,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 3611.68,
+    "end": 3627.28,
+    "text": "H I J K L M N O P Q R S T U V,",
+    "textdich": ""
+  },
+  {
+    "start": 3622.24,
+    "end": 3632.559,
+    "text": "W, X, Y, and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 3627.28,
+    "end": 3639.319,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3632.559,
+    "end": 3639.319,
+    "text": "Next time, won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3650.88,
+    "end": 3666.559,
+    "text": "A B C D E F G",
+    "textdich": ""
+  },
+  {
+    "start": 3656.0,
+    "end": 3671.68,
+    "text": "H I J K L M N O P Q R S T U V",
+    "textdich": ""
+  },
+  {
+    "start": 3666.559,
+    "end": 3676.96,
+    "text": "W X Y and Z.",
+    "textdich": ""
+  },
+  {
+    "start": 3671.68,
+    "end": 3682.16,
+    "text": "Now I know my ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3676.96,
+    "end": 3686.359,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  },
+  {
+    "start": 3682.16,
+    "end": 3686.359,
+    "text": "Now let's take it a little faster.",
+    "textdich": ""
+  },
+  {
+    "start": 3686.64,
+    "end": 3690.04,
+    "text": "Are you ready?",
+    "textdich": ""
+  },
+  {
+    "start": 3691.119,
+    "end": 3710.64,
+    "text": "Let's go. A B C D E F G H I J K L M N O",
+    "textdich": ""
+  },
+  {
+    "start": 3699.52,
+    "end": 3712.72,
+    "text": "P Q R S T U V W X Y and Z. Now I know my",
+    "textdich": ""
+  },
+  {
+    "start": 3710.64,
+    "end": 3718.48,
+    "text": "ABCs.",
+    "textdich": ""
+  },
+  {
+    "start": 3712.72,
+    "end": 3718.48,
+    "text": "Next time won't you sing with me?",
+    "textdich": ""
+  }
+]
