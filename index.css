@@ -6,7 +6,7 @@ body {
    /*background-image:url("Icons/banner5.png");  */
     color: #fff;
     font: 1rem/1 'Poppins', sans-serif;
-    max-width: 800px;
+    max-width: 700px;
     flex-direction: column;
     padding-bottom: env(safe-area-inset-bottom);
     background-size: cover;
