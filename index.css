@@ -6,7 +6,7 @@ body {
    /*background-image:url("Icons/banner5.png");  */
     color: #fff;
     font: 1rem/1 'Poppins', sans-serif;
-    max-width: 700px;
+    max-width: 800px;
     flex-direction: column;
     padding-bottom: env(safe-area-inset-bottom);
     background-size: cover;
@@ -212,6 +212,11 @@ padding: 0px;
 padding-bottom: 0%;
 /*text-align: center;*/
 border-bottom: 2px solid #d4af37; /* vàng ánh kim */
+    max-width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 /* Footer */
