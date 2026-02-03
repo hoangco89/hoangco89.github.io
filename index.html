@@ -6,8 +6,55 @@
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> <!-- Import SweetAlert2 -->
   <title>Tiensg89 Play Youtube</title>
 <style>
-.video-wrapper {
+/* XÓA TRÀN NGANG TRÊN IPHONE */
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+/* ĐỂ MỌI THỨ CO LẠI ĐÚNG CÁCH */
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+/* MENU GROUP: CHO XUỐNG DÒNG, KHÔNG TRÀN */
+.menu-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    width: 100%;
+    padding: 6px;
+}
+
+/* SELECT TỰ CO THEO MÀN HÌNH */
+.menu-group select {
+    flex: 1;
+    min-width: 120px;
+    max-width: 100%;
+}
+
+/* BUTTON CO LẠI, KHÔNG ĐẨY TRÀN */
+.menu-group button {
+    flex: 1;
+    min-width: 80px;
+    max-width: 100%;
+}
+
+/* KHẮC PHỤC LỖI SAFARI CHO IFRAME */
+.video-container {
+    max-width: 100%;
+    overflow: hidden;
+}
+
+body {
+   height: 100%;
+   /* background-image: linear-gradient(60deg,black, rgb(241, 239, 245));*/
     background-image: linear-gradient(-45deg, #f4d03f, #160223); 
+}
+.video-wrapper {
     width: 100%;
     margin: 0;
     padding: 0;
@@ -245,6 +292,4 @@ const videochon = document.getElementById("videochon");
   <script src="index.js"></script>
 </body>
 </html>
-
-
 
