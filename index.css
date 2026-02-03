@@ -1,4 +1,10 @@
-body {
+
+/* ĐỂ MỌI THỨ CO LẠI ĐÚNG CÁCH */
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+html,body {
 
     height: 100%;
    /* background-image: linear-gradient(60deg,black, rgb(241, 239, 245));*/
@@ -16,6 +22,9 @@ body {
     margin-right: auto;
     /* hoặc margin: 0 auto; 
     margin-bottom: 100%;*/
+    width: 100%;
+    overflow-x: hidden;
+    box-sizing: border-box;
 
 }
 
