@@ -1,0 +1,2510 @@
+[
+  {
+    "start": 0.24,
+    "end": 5.359,
+    "text": "Ordering food at a restaurant.",
+    "textdich": ""
+  },
+  {
+    "start": 2.6390000000000002,
+    "end": 8.8,
+    "text": " Good afternoon. Is this table available?",
+    "textdich": ""
+  },
+  {
+    "start": 5.359,
+    "end": 10.48,
+    "text": " Yes, it is. Please have a seat. Welcome.",
+    "textdich": ""
+  },
+  {
+    "start": 8.8,
+    "end": 11.84,
+    "text": " Thank you.  It's really",
+    "textdich": ""
+  },
+  {
+    "start": 10.48,
+    "end": 14.32,
+    "text": "cozy in here.",
+    "textdich": ""
+  },
+  {
+    "start": 11.84,
+    "end": 15.12,
+    "text": " Thanks. Here's your menu. Take your",
+    "textdich": ""
+  },
+  {
+    "start": 14.32,
+    "end": 17.52,
+    "text": "time.",
+    "textdich": ""
+  },
+  {
+    "start": 15.12,
+    "end": 20.24,
+    "text": " Great. Thanks. There are so many",
+    "textdich": ""
+  },
+  {
+    "start": 17.52,
+    "end": 22.32,
+    "text": "options. What do you recommend today?",
+    "textdich": ""
+  },
+  {
+    "start": 20.24,
+    "end": 25.279,
+    "text": " Our grilled chicken sandwich is very",
+    "textdich": ""
+  },
+  {
+    "start": 22.32,
+    "end": 27.92,
+    "text": "popular. And the pasta is great, too.",
+    "textdich": ""
+  },
+  {
+    "start": 25.279,
+    "end": 30.08,
+    "text": " The chicken sandwich sounds good. Is the",
+    "textdich": ""
+  },
+  {
+    "start": 27.92,
+    "end": 33.04,
+    "text": "chicken grilled or fried?",
+    "textdich": ""
+  },
+  {
+    "start": 30.08,
+    "end": 34.88,
+    "text": " It's grilled. You can also choose fried,",
+    "textdich": ""
+  },
+  {
+    "start": 33.04,
+    "end": 37.2,
+    "text": "but grilled is lighter.",
+    "textdich": ""
+  },
+  {
+    "start": 34.88,
+    "end": 38.719,
+    "text": " Perfect. I'll take the grilled chicken",
+    "textdich": ""
+  },
+  {
+    "start": 37.2,
+    "end": 41.68,
+    "text": "sandwich, please.",
+    "textdich": ""
+  },
+  {
+    "start": 38.719,
+    "end": 43.36,
+    "text": " Great choice. Would you like fries or a",
+    "textdich": ""
+  },
+  {
+    "start": 41.68,
+    "end": 44.719,
+    "text": "salad on the side?",
+    "textdich": ""
+  },
+  {
+    "start": 43.36,
+    "end": 47.12,
+    "text": " Fries, please.",
+    "textdich": ""
+  },
+  {
+    "start": 44.719,
+    "end": 49.2,
+    "text": " Sure. And what would you like to drink?",
+    "textdich": ""
+  },
+  {
+    "start": 47.12,
+    "end": 52.8,
+    "text": " Could I have a Coke, please?",
+    "textdich": ""
+  },
+  {
+    "start": 49.2,
+    "end": 54.16,
+    "text": " Absolutely. Small, medium, or large?",
+    "textdich": ""
+  },
+  {
+    "start": 52.8,
+    "end": 57.199,
+    "text": " Medium, please.",
+    "textdich": ""
+  },
+  {
+    "start": 54.16,
+    "end": 59.92,
+    "text": " Got it. Would you like any sauces? Yes.",
+    "textdich": ""
+  },
+  {
+    "start": 57.199,
+    "end": 62.719,
+    "text": "Can I get ketchup and mayo, please?",
+    "textdich": ""
+  },
+  {
+    "start": 59.92,
+    "end": 65.199,
+    "text": " Of course. Anything else for you today?",
+    "textdich": ""
+  },
+  {
+    "start": 62.719,
+    "end": 66.479,
+    "text": " Actually, do you have a soup or",
+    "textdich": ""
+  },
+  {
+    "start": 65.199,
+    "end": 68.88,
+    "text": "something light?",
+    "textdich": ""
+  },
+  {
+    "start": 66.479,
+    "end": 70.0,
+    "text": " Yes, we have tomato soup and chicken",
+    "textdich": ""
+  },
+  {
+    "start": 68.88,
+    "end": 72.64,
+    "text": "noodle soup.",
+    "textdich": ""
+  },
+  {
+    "start": 70.0,
+    "end": 73.68,
+    "text": " Tomato soup sounds nice. Can I add a",
+    "textdich": ""
+  },
+  {
+    "start": 72.64,
+    "end": 76.4,
+    "text": "small one?",
+    "textdich": ""
+  },
+  {
+    "start": 73.68,
+    "end": 77.2,
+    "text": " Sure. Would you like it as a cup or a",
+    "textdich": ""
+  },
+  {
+    "start": 76.4,
+    "end": 78.799,
+    "text": "bowl?",
+    "textdich": ""
+  },
+  {
+    "start": 77.2,
+    "end": 81.04,
+    "text": " A cup is fine.",
+    "textdich": ""
+  },
+  {
+    "start": 78.799,
+    "end": 84.96,
+    "text": " No problem. So, that's one grilled",
+    "textdich": ""
+  },
+  {
+    "start": 81.04,
+    "end": 87.68,
+    "text": "chicken sandwich, fries, a medium Coke,",
+    "textdich": ""
+  },
+  {
+    "start": 84.96,
+    "end": 88.56,
+    "text": "ketchup and mayo, and a cup of tomato",
+    "textdich": ""
+  },
+  {
+    "start": 87.68,
+    "end": 89.759,
+    "text": "soup.",
+    "textdich": ""
+  },
+  {
+    "start": 88.56,
+    "end": 91.84,
+    "text": " That's correct.",
+    "textdich": ""
+  },
+  {
+    "start": 89.759,
+    "end": 94.24,
+    "text": " Would you like to hear about dessert? We",
+    "textdich": ""
+  },
+  {
+    "start": 91.84,
+    "end": 97.04,
+    "text": "have cheesecake and ice cream.",
+    "textdich": ""
+  },
+  {
+    "start": 94.24,
+    "end": 99.439,
+    "text": " Maybe later. I'll see after I eat.",
+    "textdich": ""
+  },
+  {
+    "start": 97.04,
+    "end": 101.68,
+    "text": " Sounds good. The food will be out in",
+    "textdich": ""
+  },
+  {
+    "start": 99.439,
+    "end": 103.92,
+    "text": "about 10 to 15 minutes.",
+    "textdich": ""
+  },
+  {
+    "start": 101.68,
+    "end": 106.799,
+    "text": " Perfect. Thank you so much.",
+    "textdich": ""
+  },
+  {
+    "start": 103.92,
+    "end": 110.079,
+    "text": " You're welcome. Enjoy your meal. Buying",
+    "textdich": ""
+  },
+  {
+    "start": 106.799,
+    "end": 111.6,
+    "text": "coffee at a cafe. Good morning. What can",
+    "textdich": ""
+  },
+  {
+    "start": 110.079,
+    "end": 114.64,
+    "text": "I get for you today?",
+    "textdich": ""
+  },
+  {
+    "start": 111.6,
+    "end": 116.64,
+    "text": " Good morning. I'd like a coffee, please.",
+    "textdich": ""
+  },
+  {
+    "start": 114.64,
+    "end": 117.6,
+    "text": " Sure. What kind of coffee would you",
+    "textdich": ""
+  },
+  {
+    "start": 116.64,
+    "end": 120.399,
+    "text": "like?",
+    "textdich": ""
+  },
+  {
+    "start": 117.6,
+    "end": 123.28,
+    "text": " Hm. What do you recommend?",
+    "textdich": ""
+  },
+  {
+    "start": 120.399,
+    "end": 125.28,
+    "text": " Our latte is very popular. It's smooth",
+    "textdich": ""
+  },
+  {
+    "start": 123.28,
+    "end": 128.319,
+    "text": "and not too strong.",
+    "textdich": ""
+  },
+  {
+    "start": 125.28,
+    "end": 130.64,
+    "text": " That sounds good. I'll have a latte.",
+    "textdich": ""
+  },
+  {
+    "start": 128.319,
+    "end": 132.4,
+    "text": " Great. What size would you like?",
+    "textdich": ""
+  },
+  {
+    "start": 130.64,
+    "end": 134.959,
+    "text": " A medium, please.",
+    "textdich": ""
+  },
+  {
+    "start": 132.4,
+    "end": 136.48,
+    "text": " Would you like it hot or iced?",
+    "textdich": ""
+  },
+  {
+    "start": 134.959,
+    "end": 139.12,
+    "text": " Hot, please.",
+    "textdich": ""
+  },
+  {
+    "start": 136.48,
+    "end": 141.2,
+    "text": " Would you like any milk in it? Yes,",
+    "textdich": ""
+  },
+  {
+    "start": 139.12,
+    "end": 144.08,
+    "text": "regular milk is fine.",
+    "textdich": ""
+  },
+  {
+    "start": 141.2,
+    "end": 146.4,
+    "text": " And would you like any sugar or syrup?",
+    "textdich": ""
+  },
+  {
+    "start": 144.08,
+    "end": 148.56,
+    "text": " Just a little sugar, please.",
+    "textdich": ""
+  },
+  {
+    "start": 146.4,
+    "end": 150.16,
+    "text": " No problem. Would you like something to",
+    "textdich": ""
+  },
+  {
+    "start": 148.56,
+    "end": 153.68,
+    "text": "eat as well?",
+    "textdich": ""
+  },
+  {
+    "start": 150.16,
+    "end": 155.92,
+    "text": " Let me see. What pastries do you have?",
+    "textdich": ""
+  },
+  {
+    "start": 153.68,
+    "end": 157.519,
+    "text": " We have croissants, muffins, and",
+    "textdich": ""
+  },
+  {
+    "start": 155.92,
+    "end": 159.519,
+    "text": "chocolate cookies.",
+    "textdich": ""
+  },
+  {
+    "start": 157.519,
+    "end": 163.36,
+    "text": " I'll take a croissant.",
+    "textdich": ""
+  },
+  {
+    "start": 159.519,
+    "end": 166.0,
+    "text": " Great choice. That will be $5.50.",
+    "textdich": ""
+  },
+  {
+    "start": 163.36,
+    "end": 168.959,
+    "text": " Okay. Can I pay by card?",
+    "textdich": ""
+  },
+  {
+    "start": 166.0,
+    "end": 171.04,
+    "text": " Yes, of course. Here you go.",
+    "textdich": ""
+  },
+  {
+    "start": 168.959,
+    "end": 171.92,
+    "text": " Thank you. Your order will be ready in a",
+    "textdich": ""
+  },
+  {
+    "start": 171.04,
+    "end": 173.12,
+    "text": "moment.",
+    "textdich": ""
+  },
+  {
+    "start": 171.92,
+    "end": 175.36,
+    "text": " Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 173.12,
+    "end": 178.16,
+    "text": " Is this your first time here?",
+    "textdich": ""
+  },
+  {
+    "start": 175.36,
+    "end": 181.599,
+    "text": " Yes, I just moved to this area.",
+    "textdich": ""
+  },
+  {
+    "start": 178.16,
+    "end": 185.36,
+    "text": " Welcome. A lot of people like this cafe.",
+    "textdich": ""
+  },
+  {
+    "start": 181.599,
+    "end": 188.08,
+    "text": " I can see why. It's very nice and cozy.",
+    "textdich": ""
+  },
+  {
+    "start": 185.36,
+    "end": 190.8,
+    "text": " Thank you. We're glad you like it. Here",
+    "textdich": ""
+  },
+  {
+    "start": 188.08,
+    "end": 193.76,
+    "text": "is your latte and your croissant.",
+    "textdich": ""
+  },
+  {
+    "start": 190.8,
+    "end": 196.879,
+    "text": " Great. Everything looks perfect.",
+    "textdich": ""
+  },
+  {
+    "start": 193.76,
+    "end": 198.4,
+    "text": " Be careful. The coffee is hot. Thank you",
+    "textdich": ""
+  },
+  {
+    "start": 196.879,
+    "end": 201.36,
+    "text": "for telling me.",
+    "textdich": ""
+  },
+  {
+    "start": 198.4,
+    "end": 203.76,
+    "text": " Enjoy your coffee. Have a great day.",
+    "textdich": ""
+  },
+  {
+    "start": 201.36,
+    "end": 206.08,
+    "text": " Thank you. You too.",
+    "textdich": ""
+  },
+  {
+    "start": 203.76,
+    "end": 209.599,
+    "text": " Taking a taxi to the airport.",
+    "textdich": ""
+  },
+  {
+    "start": 206.08,
+    "end": 212.159,
+    "text": " Hello. Are you free? I need a taxi.",
+    "textdich": ""
+  },
+  {
+    "start": 209.599,
+    "end": 214.0,
+    "text": " Yes, I'm free. Please get in.",
+    "textdich": ""
+  },
+  {
+    "start": 212.159,
+    "end": 216.08,
+    "text": " Thank you so much.",
+    "textdich": ""
+  },
+  {
+    "start": 214.0,
+    "end": 218.0,
+    "text": " Where would you like to go today?",
+    "textdich": ""
+  },
+  {
+    "start": 216.08,
+    "end": 219.2,
+    "text": " Could you take me to the airport,",
+    "textdich": ""
+  },
+  {
+    "start": 218.0,
+    "end": 221.68,
+    "text": "please?",
+    "textdich": ""
+  },
+  {
+    "start": 219.2,
+    "end": 224.239,
+    "text": " Sure. Which terminal do you need?",
+    "textdich": ""
+  },
+  {
+    "start": 221.68,
+    "end": 227.599,
+    "text": " Terminal 4. The international terminal,",
+    "textdich": ""
+  },
+  {
+    "start": 224.239,
+    "end": 228.799,
+    "text": "please. Got it. Do you have any luggage",
+    "textdich": ""
+  },
+  {
+    "start": 227.599,
+    "end": 232.72,
+    "text": "with you?",
+    "textdich": ""
+  },
+  {
+    "start": 228.799,
+    "end": 235.2,
+    "text": " Yes, one big suitcase and a small bag.",
+    "textdich": ""
+  },
+  {
+    "start": 232.72,
+    "end": 236.959,
+    "text": " No problem. I'll help you. I'll put the",
+    "textdich": ""
+  },
+  {
+    "start": 235.2,
+    "end": 239.84,
+    "text": "suitcase in the trunk.",
+    "textdich": ""
+  },
+  {
+    "start": 236.959,
+    "end": 242.799,
+    "text": " That's very kind of you. Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 239.84,
+    "end": 244.159,
+    "text": " You're welcome. All right. All set.",
+    "textdich": ""
+  },
+  {
+    "start": 242.799,
+    "end": 246.48,
+    "text": "Let's go.",
+    "textdich": ""
+  },
+  {
+    "start": 244.159,
+    "end": 249.439,
+    "text": " How long will it take to get there?",
+    "textdich": ""
+  },
+  {
+    "start": 246.48,
+    "end": 251.84,
+    "text": " About 40 minutes, depending on traffic.",
+    "textdich": ""
+  },
+  {
+    "start": 249.439,
+    "end": 254.48,
+    "text": "Longer during rush hour.",
+    "textdich": ""
+  },
+  {
+    "start": 251.84,
+    "end": 256.4,
+    "text": " Okay, that should be fine. My flight is",
+    "textdich": ""
+  },
+  {
+    "start": 254.48,
+    "end": 259.44,
+    "text": "in 3 hours.",
+    "textdich": ""
+  },
+  {
+    "start": 256.4,
+    "end": 261.12,
+    "text": " Then you have plenty of time. Highway or",
+    "textdich": ""
+  },
+  {
+    "start": 259.44,
+    "end": 263.44,
+    "text": "local roads.",
+    "textdich": ""
+  },
+  {
+    "start": 261.12,
+    "end": 265.04,
+    "text": " Please take the fastest way. I don't",
+    "textdich": ""
+  },
+  {
+    "start": 263.44,
+    "end": 267.36,
+    "text": "want to be late.",
+    "textdich": ""
+  },
+  {
+    "start": 265.04,
+    "end": 269.919,
+    "text": " All right, I'll take the highway. It's",
+    "textdich": ""
+  },
+  {
+    "start": 267.36,
+    "end": 273.68,
+    "text": "usually faster right now.",
+    "textdich": ""
+  },
+  {
+    "start": 269.919,
+    "end": 276.0,
+    "text": " Thank you. About how much will it cost?",
+    "textdich": ""
+  },
+  {
+    "start": 273.68,
+    "end": 279.199,
+    "text": " It depends on traffic, but usually",
+    "textdich": ""
+  },
+  {
+    "start": 276.0,
+    "end": 282.16,
+    "text": "around $50 to $70.",
+    "textdich": ""
+  },
+  {
+    "start": 279.199,
+    "end": 286.4,
+    "text": " Okay. Can I pay by card?",
+    "textdich": ""
+  },
+  {
+    "start": 282.16,
+    "end": 288.88,
+    "text": "Yes, cash or card both are fine. Great.",
+    "textdich": ""
+  },
+  {
+    "start": 286.4,
+    "end": 291.68,
+    "text": "Please fasten your seat belt.",
+    "textdich": ""
+  },
+  {
+    "start": 288.88,
+    "end": 294.479,
+    "text": " Sure. Thanks for reminding me.",
+    "textdich": ""
+  },
+  {
+    "start": 291.68,
+    "end": 296.32,
+    "text": " No problem. Are you traveling for work",
+    "textdich": ""
+  },
+  {
+    "start": 294.479,
+    "end": 300.16,
+    "text": "or vacation?",
+    "textdich": ""
+  },
+  {
+    "start": 296.32,
+    "end": 303.36,
+    "text": " For vacation. I'm visiting for a week.",
+    "textdich": ""
+  },
+  {
+    "start": 300.16,
+    "end": 306.479,
+    "text": " Nice. I hope you have a great trip.",
+    "textdich": ""
+  },
+  {
+    "start": 303.36,
+    "end": 309.28,
+    "text": " Thank you. That's very kind.",
+    "textdich": ""
+  },
+  {
+    "start": 306.479,
+    "end": 311.44,
+    "text": " Immigration at the airport. Next,",
+    "textdich": ""
+  },
+  {
+    "start": 309.28,
+    "end": 313.6,
+    "text": "please. Passport.",
+    "textdich": ""
+  },
+  {
+    "start": 311.44,
+    "end": 315.68,
+    "text": "Hi, here you go.",
+    "textdich": ""
+  },
+  {
+    "start": 313.6,
+    "end": 318.08,
+    "text": " Where are you coming from today?",
+    "textdich": ""
+  },
+  {
+    "start": 315.68,
+    "end": 319.84,
+    "text": " From Berlin, Germany.",
+    "textdich": ""
+  },
+  {
+    "start": 318.08,
+    "end": 321.28,
+    "text": " What's the purpose of your trip to the",
+    "textdich": ""
+  },
+  {
+    "start": 319.84,
+    "end": 324.4,
+    "text": "United States?",
+    "textdich": ""
+  },
+  {
+    "start": 321.28,
+    "end": 326.32,
+    "text": " Tourism. I'm here for vacation.",
+    "textdich": ""
+  },
+  {
+    "start": 324.4,
+    "end": 327.919,
+    "text": " How long are you staying?",
+    "textdich": ""
+  },
+  {
+    "start": 326.32,
+    "end": 330.24,
+    "text": " 2 weeks.",
+    "textdich": ""
+  },
+  {
+    "start": 327.919,
+    "end": 332.639,
+    "text": " Where will you stay in the US?",
+    "textdich": ""
+  },
+  {
+    "start": 330.24,
+    "end": 333.759,
+    "text": " At the City View Hotel in Manhattan, New",
+    "textdich": ""
+  },
+  {
+    "start": 332.639,
+    "end": 335.68,
+    "text": "York.",
+    "textdich": ""
+  },
+  {
+    "start": 333.759,
+    "end": 340.96,
+    "text": " Do you have the address?",
+    "textdich": ""
+  },
+  {
+    "start": 335.68,
+    "end": 342.72,
+    "text": " Yes. 123 Broadway, New York, NY. Are you",
+    "textdich": ""
+  },
+  {
+    "start": 340.96,
+    "end": 345.28,
+    "text": "traveling alone?",
+    "textdich": ""
+  },
+  {
+    "start": 342.72,
+    "end": 347.28,
+    "text": " Yes, I'm traveling alone.",
+    "textdich": ""
+  },
+  {
+    "start": 345.28,
+    "end": 349.44,
+    "text": " What do you do for work?",
+    "textdich": ""
+  },
+  {
+    "start": 347.28,
+    "end": 352.16,
+    "text": " I work in research.",
+    "textdich": ""
+  },
+  {
+    "start": 349.44,
+    "end": 354.24,
+    "text": " Are you planning to work or study in the",
+    "textdich": ""
+  },
+  {
+    "start": 352.16,
+    "end": 356.32,
+    "text": "US on this trip?",
+    "textdich": ""
+  },
+  {
+    "start": 354.24,
+    "end": 358.639,
+    "text": " No, just tourism.",
+    "textdich": ""
+  },
+  {
+    "start": 356.32,
+    "end": 361.6,
+    "text": " Do you have a return ticket?",
+    "textdich": ""
+  },
+  {
+    "start": 358.639,
+    "end": 364.4,
+    "text": " Yes, I fly back on the 15th.",
+    "textdich": ""
+  },
+  {
+    "start": 361.6,
+    "end": 368.88,
+    "text": " How much cash are you carrying?",
+    "textdich": ""
+  },
+  {
+    "start": 364.4,
+    "end": 372.24,
+    "text": " Around $500 and I have credit cards. Any",
+    "textdich": ""
+  },
+  {
+    "start": 368.88,
+    "end": 375.6,
+    "text": "food, plants, or items to declare?",
+    "textdich": ""
+  },
+  {
+    "start": 372.24,
+    "end": 378.08,
+    "text": " Number just personal items.",
+    "textdich": ""
+  },
+  {
+    "start": 375.6,
+    "end": 379.36,
+    "text": " All right. Look at the camera for me.",
+    "textdich": ""
+  },
+  {
+    "start": 378.08,
+    "end": 381.919,
+    "text": " Okay.",
+    "textdich": ""
+  },
+  {
+    "start": 379.36,
+    "end": 383.199,
+    "text": " Place your fingers on the scanner.",
+    "textdich": ""
+  },
+  {
+    "start": 381.919,
+    "end": 386.8,
+    "text": " Sure.",
+    "textdich": ""
+  },
+  {
+    "start": 383.199,
+    "end": 389.36,
+    "text": " All set. Welcome to the United States.",
+    "textdich": ""
+  },
+  {
+    "start": 386.8,
+    "end": 391.68,
+    "text": " Thank you. Have a nice day.",
+    "textdich": ""
+  },
+  {
+    "start": 389.36,
+    "end": 393.759,
+    "text": " You too.",
+    "textdich": ""
+  },
+  {
+    "start": 391.68,
+    "end": 397.039,
+    "text": "Hotel check-in.",
+    "textdich": ""
+  },
+  {
+    "start": 393.759,
+    "end": 399.36,
+    "text": " Good afternoon. Welcome to our hotel.",
+    "textdich": ""
+  },
+  {
+    "start": 397.039,
+    "end": 400.24,
+    "text": "Good afternoon. I'd like to check in,",
+    "textdich": ""
+  },
+  {
+    "start": 399.36,
+    "end": 403.12,
+    "text": "please.",
+    "textdich": ""
+  },
+  {
+    "start": 400.24,
+    "end": 405.759,
+    "text": " Of course. May I have your name, please?",
+    "textdich": ""
+  },
+  {
+    "start": 403.12,
+    "end": 408.16,
+    "text": " Yes, it's Alex Brown.",
+    "textdich": ""
+  },
+  {
+    "start": 405.759,
+    "end": 410.0,
+    "text": " Thank you, Mr. Brown. Do you have a",
+    "textdich": ""
+  },
+  {
+    "start": 408.16,
+    "end": 412.8,
+    "text": "reservation with us?",
+    "textdich": ""
+  },
+  {
+    "start": 410.0,
+    "end": 415.84,
+    "text": " Yes, I do. I booked online.",
+    "textdich": ""
+  },
+  {
+    "start": 412.8,
+    "end": 417.919,
+    "text": " Great. May I see your ID, please?",
+    "textdich": ""
+  },
+  {
+    "start": 415.84,
+    "end": 419.599,
+    "text": " Sure. Here you are.",
+    "textdich": ""
+  },
+  {
+    "start": 417.919,
+    "end": 421.599,
+    "text": " Thank you. Let me check your",
+    "textdich": ""
+  },
+  {
+    "start": 419.599,
+    "end": 424.24,
+    "text": "reservation.",
+    "textdich": ""
+  },
+  {
+    "start": 421.599,
+    "end": 426.96,
+    "text": "Okay, I see you're booking. You'll be",
+    "textdich": ""
+  },
+  {
+    "start": 424.24,
+    "end": 428.56,
+    "text": "staying for two nights, correct?",
+    "textdich": ""
+  },
+  {
+    "start": 426.96,
+    "end": 431.759,
+    "text": " Yes, that's right.",
+    "textdich": ""
+  },
+  {
+    "start": 428.56,
+    "end": 433.44,
+    "text": " You booked a single room with one bed.",
+    "textdich": ""
+  },
+  {
+    "start": 431.759,
+    "end": 436.479,
+    "text": " Yes, that's fine.",
+    "textdich": ""
+  },
+  {
+    "start": 433.44,
+    "end": 437.68,
+    "text": " Checkout time is 11:00 a.m. Is that okay",
+    "textdich": ""
+  },
+  {
+    "start": 436.479,
+    "end": 439.68,
+    "text": "for you?",
+    "textdich": ""
+  },
+  {
+    "start": 437.68,
+    "end": 442.319,
+    "text": " Yes, that works for me.",
+    "textdich": ""
+  },
+  {
+    "start": 439.68,
+    "end": 444.24,
+    "text": " Great. May I have a credit card for the",
+    "textdich": ""
+  },
+  {
+    "start": 442.319,
+    "end": 446.4,
+    "text": "deposit, please?",
+    "textdich": ""
+  },
+  {
+    "start": 444.24,
+    "end": 448.96,
+    "text": " Sure. Here you go.",
+    "textdich": ""
+  },
+  {
+    "start": 446.4,
+    "end": 450.8,
+    "text": " Thank you. The deposit will be returned",
+    "textdich": ""
+  },
+  {
+    "start": 448.96,
+    "end": 453.36,
+    "text": "after checkout.",
+    "textdich": ""
+  },
+  {
+    "start": 450.8,
+    "end": 456.479,
+    "text": " Okay. Thank you for explaining. You're",
+    "textdich": ""
+  },
+  {
+    "start": 453.36,
+    "end": 460.639,
+    "text": "welcome. Here is your room key. Your",
+    "textdich": ""
+  },
+  {
+    "start": 456.479,
+    "end": 463.84,
+    "text": "room is on the third floor. Room 305.",
+    "textdich": ""
+  },
+  {
+    "start": 460.639,
+    "end": 466.639,
+    "text": " Great. Is breakfast included?",
+    "textdich": ""
+  },
+  {
+    "start": 463.84,
+    "end": 469.28,
+    "text": " Yes, breakfast is included. It's served",
+    "textdich": ""
+  },
+  {
+    "start": 466.639,
+    "end": 471.28,
+    "text": "from 7 to 10:00 a.m.",
+    "textdich": ""
+  },
+  {
+    "start": 469.28,
+    "end": 473.84,
+    "text": " Perfect. Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 471.28,
+    "end": 476.72,
+    "text": " The elevator is on your left. If you",
+    "textdich": ""
+  },
+  {
+    "start": 473.84,
+    "end": 478.479,
+    "text": "need anything, please let us know.",
+    "textdich": ""
+  },
+  {
+    "start": 476.72,
+    "end": 480.319,
+    "text": " Thank you very much.",
+    "textdich": ""
+  },
+  {
+    "start": 478.479,
+    "end": 482.8,
+    "text": " Enjoy your stay.",
+    "textdich": ""
+  },
+  {
+    "start": 480.319,
+    "end": 484.56,
+    "text": " Thank you. Have a nice day.",
+    "textdich": ""
+  },
+  {
+    "start": 482.8,
+    "end": 487.759,
+    "text": "buying flowers.",
+    "textdich": ""
+  },
+  {
+    "start": 484.56,
+    "end": 489.68,
+    "text": " Hi, welcome to the flower shop. How can",
+    "textdich": ""
+  },
+  {
+    "start": 487.759,
+    "end": 492.24,
+    "text": "I help you today?",
+    "textdich": ""
+  },
+  {
+    "start": 489.68,
+    "end": 493.52,
+    "text": " Hi, I'm looking for a bouquet for my",
+    "textdich": ""
+  },
+  {
+    "start": 492.24,
+    "end": 497.68,
+    "text": "girlfriend.",
+    "textdich": ""
+  },
+  {
+    "start": 493.52,
+    "end": 500.16,
+    "text": " Of course. Is it for a special occasion?",
+    "textdich": ""
+  },
+  {
+    "start": 497.68,
+    "end": 503.599,
+    "text": " Yes, it's her birthday.",
+    "textdich": ""
+  },
+  {
+    "start": 500.16,
+    "end": 507.599,
+    "text": " That's lovely. Many people choose roses",
+    "textdich": ""
+  },
+  {
+    "start": 503.599,
+    "end": 510.0,
+    "text": "for birthdays. Would you like red, pink,",
+    "textdich": ""
+  },
+  {
+    "start": 507.599,
+    "end": 513.44,
+    "text": "or white roses?",
+    "textdich": ""
+  },
+  {
+    "start": 510.0,
+    "end": 516.56,
+    "text": " Red roses, please. They're her favorite.",
+    "textdich": ""
+  },
+  {
+    "start": 513.44,
+    "end": 517.76,
+    "text": " Great choice. How many roses would you",
+    "textdich": ""
+  },
+  {
+    "start": 516.56,
+    "end": 520.8,
+    "text": "like?",
+    "textdich": ""
+  },
+  {
+    "start": 517.76,
+    "end": 524.56,
+    "text": " Um, maybe 12.",
+    "textdich": ""
+  },
+  {
+    "start": 520.8,
+    "end": 527.36,
+    "text": " A dozen roses is very popular. It looks",
+    "textdich": ""
+  },
+  {
+    "start": 524.56,
+    "end": 530.48,
+    "text": "romantic and elegant.",
+    "textdich": ""
+  },
+  {
+    "start": 527.36,
+    "end": 534.08,
+    "text": " That sounds perfect. How much is it?",
+    "textdich": ""
+  },
+  {
+    "start": 530.48,
+    "end": 538.0,
+    "text": " A dozen red roses is $40.",
+    "textdich": ""
+  },
+  {
+    "start": 534.08,
+    "end": 540.88,
+    "text": "We can also add a card for $2.",
+    "textdich": ""
+  },
+  {
+    "start": 538.0,
+    "end": 543.04,
+    "text": " Okay, I'll take the dozen. And yes, I'd",
+    "textdich": ""
+  },
+  {
+    "start": 540.88,
+    "end": 545.68,
+    "text": "like a card, please.",
+    "textdich": ""
+  },
+  {
+    "start": 543.04,
+    "end": 547.279,
+    "text": " Sure. What would you like to write on",
+    "textdich": ""
+  },
+  {
+    "start": 545.68,
+    "end": 549.76,
+    "text": "the card?",
+    "textdich": ""
+  },
+  {
+    "start": 547.279,
+    "end": 552.8,
+    "text": " Happy birthday. Thank you for always",
+    "textdich": ""
+  },
+  {
+    "start": 549.76,
+    "end": 555.76,
+    "text": "making me smile. Love you.",
+    "textdich": ""
+  },
+  {
+    "start": 552.8,
+    "end": 557.12,
+    "text": " That's very sweet. I'll write that for",
+    "textdich": ""
+  },
+  {
+    "start": 555.76,
+    "end": 558.56,
+    "text": "you.",
+    "textdich": ""
+  },
+  {
+    "start": 557.12,
+    "end": 560.64,
+    "text": " Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 558.56,
+    "end": 563.68,
+    "text": " Would you like the bouquet wrapped in",
+    "textdich": ""
+  },
+  {
+    "start": 560.64,
+    "end": 566.16,
+    "text": "paper or a gift box?",
+    "textdich": ""
+  },
+  {
+    "start": 563.68,
+    "end": 567.6,
+    "text": " Paper is fine. Something simple and",
+    "textdich": ""
+  },
+  {
+    "start": 566.16,
+    "end": 571.36,
+    "text": "nice.",
+    "textdich": ""
+  },
+  {
+    "start": 567.6,
+    "end": 574.8,
+    "text": " No problem. I'll wrap it with a ribbon.",
+    "textdich": ""
+  },
+  {
+    "start": 571.36,
+    "end": 578.72,
+    "text": "Here you go. How does it look?",
+    "textdich": ""
+  },
+  {
+    "start": 574.8,
+    "end": 581.68,
+    "text": " Wow, it looks beautiful. She'll love it.",
+    "textdich": ""
+  },
+  {
+    "start": 578.72,
+    "end": 584.88,
+    "text": " I'm glad to hear that. Will you be",
+    "textdich": ""
+  },
+  {
+    "start": 581.68,
+    "end": 587.04,
+    "text": "paying by cash or card?",
+    "textdich": ""
+  },
+  {
+    "start": 584.88,
+    "end": 590.64,
+    "text": " By card, please.",
+    "textdich": ""
+  },
+  {
+    "start": 587.04,
+    "end": 592.08,
+    "text": " Sure. Please tap your card here.",
+    "textdich": ""
+  },
+  {
+    "start": 590.64,
+    "end": 595.76,
+    "text": " Done.",
+    "textdich": ""
+  },
+  {
+    "start": 592.08,
+    "end": 598.64,
+    "text": " Great. Here's your receipt. I hope she",
+    "textdich": ""
+  },
+  {
+    "start": 595.76,
+    "end": 601.519,
+    "text": "has a wonderful birthday.",
+    "textdich": ""
+  },
+  {
+    "start": 598.64,
+    "end": 605.36,
+    "text": "Thank you so much for your help.",
+    "textdich": ""
+  },
+  {
+    "start": 601.519,
+    "end": 608.0,
+    "text": " You're very welcome. Have a great day.",
+    "textdich": ""
+  },
+  {
+    "start": 605.36,
+    "end": 611.2,
+    "text": " You too. Bye.",
+    "textdich": ""
+  },
+  {
+    "start": 608.0,
+    "end": 613.519,
+    "text": " Returning a shirt. Hi, I'd like to",
+    "textdich": ""
+  },
+  {
+    "start": 611.2,
+    "end": 617.2,
+    "text": "return this shirt, please.",
+    "textdich": ""
+  },
+  {
+    "start": 613.519,
+    "end": 619.36,
+    "text": " Of course. Do you have the receipt?",
+    "textdich": ""
+  },
+  {
+    "start": 617.2,
+    "end": 623.68,
+    "text": " Yes, here it is.",
+    "textdich": ""
+  },
+  {
+    "start": 619.36,
+    "end": 626.16,
+    "text": " Thank you. Let me take a look. May I ask",
+    "textdich": ""
+  },
+  {
+    "start": 623.68,
+    "end": 629.519,
+    "text": "why you're returning it?",
+    "textdich": ""
+  },
+  {
+    "start": 626.16,
+    "end": 631.36,
+    "text": " Sure. It's a bit too small for me.",
+    "textdich": ""
+  },
+  {
+    "start": 629.519,
+    "end": 634.24,
+    "text": " I see.",
+    "textdich": ""
+  },
+  {
+    "start": 631.36,
+    "end": 637.76,
+    "text": "Did you try a larger size?",
+    "textdich": ""
+  },
+  {
+    "start": 634.24,
+    "end": 641.839,
+    "text": " Yes, but it still didn't fit very well.",
+    "textdich": ""
+  },
+  {
+    "start": 637.76,
+    "end": 643.68,
+    "text": " No problem at all. Was the shirt worn or",
+    "textdich": ""
+  },
+  {
+    "start": 641.839,
+    "end": 647.519,
+    "text": "washed?",
+    "textdich": ""
+  },
+  {
+    "start": 643.68,
+    "end": 650.8,
+    "text": " No, it's new. I only tried it on once.",
+    "textdich": ""
+  },
+  {
+    "start": 647.519,
+    "end": 653.519,
+    "text": " Great. That's fine. Would you like a",
+    "textdich": ""
+  },
+  {
+    "start": 650.8,
+    "end": 657.36,
+    "text": "refund or an exchange?",
+    "textdich": ""
+  },
+  {
+    "start": 653.519,
+    "end": 659.6,
+    "text": " I'd like a refund, please. Sure.",
+    "textdich": ""
+  },
+  {
+    "start": 657.36,
+    "end": 661.76,
+    "text": "How did you pay for it?",
+    "textdich": ""
+  },
+  {
+    "start": 659.6,
+    "end": 664.399,
+    "text": " I paid by card.",
+    "textdich": ""
+  },
+  {
+    "start": 661.76,
+    "end": 668.32,
+    "text": " Okay, I'll put the money back on your",
+    "textdich": ""
+  },
+  {
+    "start": 664.399,
+    "end": 670.16,
+    "text": "card. The refund may take 3 to 5",
+    "textdich": ""
+  },
+  {
+    "start": 668.32,
+    "end": 672.079,
+    "text": "business days.",
+    "textdich": ""
+  },
+  {
+    "start": 670.16,
+    "end": 673.519,
+    "text": " That's fine. Thank you for letting me",
+    "textdich": ""
+  },
+  {
+    "start": 672.079,
+    "end": 676.56,
+    "text": "know.",
+    "textdich": ""
+  },
+  {
+    "start": 673.519,
+    "end": 678.24,
+    "text": " No problem. Here's your receipt for the",
+    "textdich": ""
+  },
+  {
+    "start": 676.56,
+    "end": 679.839,
+    "text": "return.",
+    "textdich": ""
+  },
+  {
+    "start": 678.24,
+    "end": 681.68,
+    "text": " Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 679.839,
+    "end": 683.12,
+    "text": " Would you like to look for another shirt",
+    "textdich": ""
+  },
+  {
+    "start": 681.68,
+    "end": 686.32,
+    "text": "today?",
+    "textdich": ""
+  },
+  {
+    "start": 683.12,
+    "end": 689.279,
+    "text": "Not today, but maybe next time.",
+    "textdich": ""
+  },
+  {
+    "start": 686.32,
+    "end": 692.24,
+    "text": " No worries. Thank you for shopping with",
+    "textdich": ""
+  },
+  {
+    "start": 689.279,
+    "end": 696.16,
+    "text": "us. Have a nice day.",
+    "textdich": ""
+  },
+  {
+    "start": 692.24,
+    "end": 697.68,
+    "text": " Thanks. You too. Bye. Doing laundry at a",
+    "textdich": ""
+  },
+  {
+    "start": 696.16,
+    "end": 700.72,
+    "text": "laundromat.",
+    "textdich": ""
+  },
+  {
+    "start": 697.68,
+    "end": 704.0,
+    "text": "Hi. Is this washing machine free?",
+    "textdich": ""
+  },
+  {
+    "start": 700.72,
+    "end": 706.0,
+    "text": " Yes, it is. You can use it.",
+    "textdich": ""
+  },
+  {
+    "start": 704.0,
+    "end": 707.92,
+    "text": " Great. Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 706.0,
+    "end": 710.16,
+    "text": " No problem.",
+    "textdich": ""
+  },
+  {
+    "start": 707.92,
+    "end": 711.2,
+    "text": "Are you doing laundry for the first time",
+    "textdich": ""
+  },
+  {
+    "start": 710.16,
+    "end": 713.519,
+    "text": "here?",
+    "textdich": ""
+  },
+  {
+    "start": 711.2,
+    "end": 715.12,
+    "text": "Yes, I am. I'm not sure how these",
+    "textdich": ""
+  },
+  {
+    "start": 713.519,
+    "end": 718.24,
+    "text": "machines work.",
+    "textdich": ""
+  },
+  {
+    "start": 715.12,
+    "end": 720.48,
+    "text": " Don't worry. They're pretty easy to use.",
+    "textdich": ""
+  },
+  {
+    "start": 718.24,
+    "end": 721.6,
+    "text": " That's good to hear. What should I do",
+    "textdich": ""
+  },
+  {
+    "start": 720.48,
+    "end": 724.959,
+    "text": "first?",
+    "textdich": ""
+  },
+  {
+    "start": 721.6,
+    "end": 727.2,
+    "text": " First, put your clothes in the machine.",
+    "textdich": ""
+  },
+  {
+    "start": 724.959,
+    "end": 730.399,
+    "text": "Then add detergent here.",
+    "textdich": ""
+  },
+  {
+    "start": 727.2,
+    "end": 733.279,
+    "text": " Okay. How much detergent should I use?",
+    "textdich": ""
+  },
+  {
+    "start": 730.399,
+    "end": 735.68,
+    "text": " Just one cap is enough.",
+    "textdich": ""
+  },
+  {
+    "start": 733.279,
+    "end": 738.0,
+    "text": "Too much soap is not good.",
+    "textdich": ""
+  },
+  {
+    "start": 735.68,
+    "end": 739.92,
+    "text": " Got it. Thanks for the tip.",
+    "textdich": ""
+  },
+  {
+    "start": 738.0,
+    "end": 741.839,
+    "text": " You're welcome.",
+    "textdich": ""
+  },
+  {
+    "start": 739.92,
+    "end": 743.12,
+    "text": "After that, choose the water",
+    "textdich": ""
+  },
+  {
+    "start": 741.839,
+    "end": 746.639,
+    "text": "temperature.",
+    "textdich": ""
+  },
+  {
+    "start": 743.12,
+    "end": 749.44,
+    "text": " H I think I'll choose cold water.",
+    "textdich": ""
+  },
+  {
+    "start": 746.639,
+    "end": 751.6,
+    "text": " That's a good choice for most clothes.",
+    "textdich": ""
+  },
+  {
+    "start": 749.44,
+    "end": 754.079,
+    "text": " How long does the wash take?",
+    "textdich": ""
+  },
+  {
+    "start": 751.6,
+    "end": 756.72,
+    "text": " About 30 minutes.",
+    "textdich": ""
+  },
+  {
+    "start": 754.079,
+    "end": 759.6,
+    "text": "You can sit over there and wait.",
+    "textdich": ""
+  },
+  {
+    "start": 756.72,
+    "end": 763.36,
+    "text": " Perfect. Do you come here often?",
+    "textdich": ""
+  },
+  {
+    "start": 759.6,
+    "end": 765.12,
+    "text": " Yes, I come here once a week. It's close",
+    "textdich": ""
+  },
+  {
+    "start": 763.36,
+    "end": 767.44,
+    "text": "to my apartment.",
+    "textdich": ""
+  },
+  {
+    "start": 765.12,
+    "end": 768.88,
+    "text": " That's convenient. I just moved here",
+    "textdich": ""
+  },
+  {
+    "start": 767.44,
+    "end": 770.56,
+    "text": "last month.",
+    "textdich": ""
+  },
+  {
+    "start": 768.88,
+    "end": 772.88,
+    "text": "Welcome.",
+    "textdich": ""
+  },
+  {
+    "start": 770.56,
+    "end": 774.0,
+    "text": "It takes some time to get used to a new",
+    "textdich": ""
+  },
+  {
+    "start": 772.88,
+    "end": 776.48,
+    "text": "place.",
+    "textdich": ""
+  },
+  {
+    "start": 774.0,
+    "end": 777.92,
+    "text": " Yes, that's true. But people here are",
+    "textdich": ""
+  },
+  {
+    "start": 776.48,
+    "end": 780.48,
+    "text": "very friendly.",
+    "textdich": ""
+  },
+  {
+    "start": 777.92,
+    "end": 783.2,
+    "text": " I'm glad to hear that.",
+    "textdich": ""
+  },
+  {
+    "start": 780.48,
+    "end": 785.68,
+    "text": "Oh, my laundry is done.",
+    "textdich": ""
+  },
+  {
+    "start": 783.2,
+    "end": 786.56,
+    "text": " Nice. I think mine will be done soon,",
+    "textdich": ""
+  },
+  {
+    "start": 785.68,
+    "end": 788.8,
+    "text": "too.",
+    "textdich": ""
+  },
+  {
+    "start": 786.56,
+    "end": 791.04,
+    "text": " Good luck with your laundry.",
+    "textdich": ""
+  },
+  {
+    "start": 788.8,
+    "end": 793.76,
+    "text": " Thank you so much for your help.",
+    "textdich": ""
+  },
+  {
+    "start": 791.04,
+    "end": 798.0,
+    "text": " Anytime. Have a great day.",
+    "textdich": ""
+  },
+  {
+    "start": 793.76,
+    "end": 800.079,
+    "text": " You, too. Bye. Morning jog conversation.",
+    "textdich": ""
+  },
+  {
+    "start": 798.0,
+    "end": 801.44,
+    "text": " Good morning, Jake. You're earlier than",
+    "textdich": ""
+  },
+  {
+    "start": 800.079,
+    "end": 804.24,
+    "text": "usual today.",
+    "textdich": ""
+  },
+  {
+    "start": 801.44,
+    "end": 805.44,
+    "text": " Good morning, Emma. Yes, I decided to",
+    "textdich": ""
+  },
+  {
+    "start": 804.24,
+    "end": 808.0,
+    "text": "wake up early.",
+    "textdich": ""
+  },
+  {
+    "start": 805.44,
+    "end": 810.48,
+    "text": " That's nice. Did you sleep well?",
+    "textdich": ""
+  },
+  {
+    "start": 808.0,
+    "end": 811.36,
+    "text": " Not very well, but I wanted to come",
+    "textdich": ""
+  },
+  {
+    "start": 810.48,
+    "end": 814.079,
+    "text": "anyway.",
+    "textdich": ""
+  },
+  {
+    "start": 811.36,
+    "end": 817.04,
+    "text": " I'm glad you did. Shall we start?",
+    "textdich": ""
+  },
+  {
+    "start": 814.079,
+    "end": 819.04,
+    "text": " Yes. Let's begin slowly.",
+    "textdich": ""
+  },
+  {
+    "start": 817.04,
+    "end": 820.16,
+    "text": " The weather feels really good this",
+    "textdich": ""
+  },
+  {
+    "start": 819.04,
+    "end": 823.92,
+    "text": "morning.",
+    "textdich": ""
+  },
+  {
+    "start": 820.16,
+    "end": 825.76,
+    "text": " I agree. It's cool, but not cold.",
+    "textdich": ""
+  },
+  {
+    "start": 823.92,
+    "end": 828.24,
+    "text": "Perfect for running.",
+    "textdich": ""
+  },
+  {
+    "start": 825.76,
+    "end": 829.76,
+    "text": " Much better than yesterday. Yesterday",
+    "textdich": ""
+  },
+  {
+    "start": 828.24,
+    "end": 833.12,
+    "text": "was too hot.",
+    "textdich": ""
+  },
+  {
+    "start": 829.76,
+    "end": 836.639,
+    "text": " I know. I felt tired very quickly.",
+    "textdich": ""
+  },
+  {
+    "start": 833.12,
+    "end": 839.279,
+    "text": " Same here. Today feels easier.",
+    "textdich": ""
+  },
+  {
+    "start": 836.639,
+    "end": 841.839,
+    "text": " How often do you run these days?",
+    "textdich": ""
+  },
+  {
+    "start": 839.279,
+    "end": 844.0,
+    "text": " Usually two or three times a week. I'm",
+    "textdich": ""
+  },
+  {
+    "start": 841.839,
+    "end": 845.92,
+    "text": "trying to be more active.",
+    "textdich": ""
+  },
+  {
+    "start": 844.0,
+    "end": 849.04,
+    "text": " That's a good habit.",
+    "textdich": ""
+  },
+  {
+    "start": 845.92,
+    "end": 851.68,
+    "text": " Yes, running helps me stay healthy.",
+    "textdich": ""
+  },
+  {
+    "start": 849.04,
+    "end": 855.6,
+    "text": " And it's good for the mind, too.",
+    "textdich": ""
+  },
+  {
+    "start": 851.68,
+    "end": 858.079,
+    "text": " Exactly. I feel better after I run.",
+    "textdich": ""
+  },
+  {
+    "start": 855.6,
+    "end": 860.16,
+    "text": "There are many people here today.",
+    "textdich": ""
+  },
+  {
+    "start": 858.079,
+    "end": 861.6,
+    "text": " Yes, a lot of people like morning",
+    "textdich": ""
+  },
+  {
+    "start": 860.16,
+    "end": 864.16,
+    "text": "exercise.",
+    "textdich": ""
+  },
+  {
+    "start": 861.6,
+    "end": 865.6,
+    "text": " I understand why. It's quiet and",
+    "textdich": ""
+  },
+  {
+    "start": 864.16,
+    "end": 868.88,
+    "text": "peaceful",
+    "textdich": ""
+  },
+  {
+    "start": 865.6,
+    "end": 870.399,
+    "text": " and the air feels fresh. How is work",
+    "textdich": ""
+  },
+  {
+    "start": 868.88,
+    "end": 874.079,
+    "text": "going for you?",
+    "textdich": ""
+  },
+  {
+    "start": 870.399,
+    "end": 875.839,
+    "text": " It's quite busy, but not too stressful.",
+    "textdich": ""
+  },
+  {
+    "start": 874.079,
+    "end": 879.199,
+    "text": " That's good to hear.",
+    "textdich": ""
+  },
+  {
+    "start": 875.839,
+    "end": 882.72,
+    "text": " Running helps me relax after a long day.",
+    "textdich": ""
+  },
+  {
+    "start": 879.199,
+    "end": 884.88,
+    "text": " I feel the same way. It clears my head.",
+    "textdich": ""
+  },
+  {
+    "start": 882.72,
+    "end": 888.16,
+    "text": "How are you feeling now?",
+    "textdich": ""
+  },
+  {
+    "start": 884.88,
+    "end": 891.839,
+    "text": " A little tired, but still comfortable.",
+    "textdich": ""
+  },
+  {
+    "start": 888.16,
+    "end": 895.12,
+    "text": " That's normal. Just keep a steady pace.",
+    "textdich": ""
+  },
+  {
+    "start": 891.839,
+    "end": 896.639,
+    "text": " Okay. Thanks for the advice. Do you run",
+    "textdich": ""
+  },
+  {
+    "start": 895.12,
+    "end": 898.8,
+    "text": "every morning?",
+    "textdich": ""
+  },
+  {
+    "start": 896.639,
+    "end": 900.48,
+    "text": " Almost every day. It's part of my",
+    "textdich": ""
+  },
+  {
+    "start": 898.8,
+    "end": 902.399,
+    "text": "routine now.",
+    "textdich": ""
+  },
+  {
+    "start": 900.48,
+    "end": 904.8,
+    "text": " That's impressive.",
+    "textdich": ""
+  },
+  {
+    "start": 902.399,
+    "end": 907.44,
+    "text": " It wasn't easy at first.",
+    "textdich": ""
+  },
+  {
+    "start": 904.8,
+    "end": 909.76,
+    "text": " I hope I can do that, too.",
+    "textdich": ""
+  },
+  {
+    "start": 907.44,
+    "end": 912.959,
+    "text": " We're almost finished.",
+    "textdich": ""
+  },
+  {
+    "start": 909.76,
+    "end": 915.68,
+    "text": " Really? Time passed quickly.",
+    "textdich": ""
+  },
+  {
+    "start": 912.959,
+    "end": 918.88,
+    "text": " Talking makes running easier.",
+    "textdich": ""
+  },
+  {
+    "start": 915.68,
+    "end": 921.04,
+    "text": " Yes, I enjoy running with you.",
+    "textdich": ""
+  },
+  {
+    "start": 918.88,
+    "end": 924.56,
+    "text": " That was a good run.",
+    "textdich": ""
+  },
+  {
+    "start": 921.04,
+    "end": 926.8,
+    "text": " Yes, I feel tired but happy.",
+    "textdich": ""
+  },
+  {
+    "start": 924.56,
+    "end": 929.279,
+    "text": " Same time tomorrow.",
+    "textdich": ""
+  },
+  {
+    "start": 926.8,
+    "end": 930.88,
+    "text": " Sure, I'll try my best.",
+    "textdich": ""
+  },
+  {
+    "start": 929.279,
+    "end": 934.0,
+    "text": " Have a great day.",
+    "textdich": ""
+  },
+  {
+    "start": 930.88,
+    "end": 937.519,
+    "text": " You too. Job interview.",
+    "textdich": ""
+  },
+  {
+    "start": 934.0,
+    "end": 940.399,
+    "text": " Good morning. Please have a seat.",
+    "textdich": ""
+  },
+  {
+    "start": 937.519,
+    "end": 943.04,
+    "text": " Good morning. Thank you for having me.",
+    "textdich": ""
+  },
+  {
+    "start": 940.399,
+    "end": 945.04,
+    "text": "You're welcome. Could you please",
+    "textdich": ""
+  },
+  {
+    "start": 943.04,
+    "end": 948.32,
+    "text": "introduce yourself?",
+    "textdich": ""
+  },
+  {
+    "start": 945.04,
+    "end": 950.959,
+    "text": " Sure. My name is Alex. I recently",
+    "textdich": ""
+  },
+  {
+    "start": 948.32,
+    "end": 953.279,
+    "text": "graduated from university and I'm very",
+    "textdich": ""
+  },
+  {
+    "start": 950.959,
+    "end": 955.519,
+    "text": "interested in this position.",
+    "textdich": ""
+  },
+  {
+    "start": 953.279,
+    "end": 958.8,
+    "text": " Thank you, Alex.",
+    "textdich": ""
+  },
+  {
+    "start": 955.519,
+    "end": 961.12,
+    "text": "Why do you want to work for our company?",
+    "textdich": ""
+  },
+  {
+    "start": 958.8,
+    "end": 963.199,
+    "text": " I like your company culture and I think",
+    "textdich": ""
+  },
+  {
+    "start": 961.12,
+    "end": 964.639,
+    "text": "this role matches my skills and",
+    "textdich": ""
+  },
+  {
+    "start": 963.199,
+    "end": 966.88,
+    "text": "interests.",
+    "textdich": ""
+  },
+  {
+    "start": 964.639,
+    "end": 969.199,
+    "text": " That's good to hear.",
+    "textdich": ""
+  },
+  {
+    "start": 966.88,
+    "end": 971.04,
+    "text": "Can you tell me about your previous",
+    "textdich": ""
+  },
+  {
+    "start": 969.199,
+    "end": 974.0,
+    "text": "experience?",
+    "textdich": ""
+  },
+  {
+    "start": 971.04,
+    "end": 976.32,
+    "text": " Yes, I worked as an intern last year and",
+    "textdich": ""
+  },
+  {
+    "start": 974.0,
+    "end": 978.079,
+    "text": "I helped with daily tasks and team",
+    "textdich": ""
+  },
+  {
+    "start": 976.32,
+    "end": 980.16,
+    "text": "projects.",
+    "textdich": ""
+  },
+  {
+    "start": 978.079,
+    "end": 983.279,
+    "text": " Sounds great.",
+    "textdich": ""
+  },
+  {
+    "start": 980.16,
+    "end": 986.079,
+    "text": "What do you think are your strengths?",
+    "textdich": ""
+  },
+  {
+    "start": 983.279,
+    "end": 989.279,
+    "text": " I'm responsible, a good team player, and",
+    "textdich": ""
+  },
+  {
+    "start": 986.079,
+    "end": 992.16,
+    "text": "I'm always willing to learn new things.",
+    "textdich": ""
+  },
+  {
+    "start": 989.279,
+    "end": 995.199,
+    "text": " Those are important qualities.",
+    "textdich": ""
+  },
+  {
+    "start": 992.16,
+    "end": 997.44,
+    "text": "What about your weaknesses?",
+    "textdich": ""
+  },
+  {
+    "start": 995.199,
+    "end": 1000.32,
+    "text": "Sometimes I'm a little nervous, but I'm",
+    "textdich": ""
+  },
+  {
+    "start": 997.44,
+    "end": 1002.88,
+    "text": "working on improving my confidence.",
+    "textdich": ""
+  },
+  {
+    "start": 1000.32,
+    "end": 1005.92,
+    "text": " That's very honest.",
+    "textdich": ""
+  },
+  {
+    "start": 1002.88,
+    "end": 1008.8,
+    "text": "How do you handle stress at work?",
+    "textdich": ""
+  },
+  {
+    "start": 1005.92,
+    "end": 1012.0,
+    "text": " I try to stay organized, manage my time",
+    "textdich": ""
+  },
+  {
+    "start": 1008.8,
+    "end": 1014.079,
+    "text": "well, and ask for help when needed.",
+    "textdich": ""
+  },
+  {
+    "start": 1012.0,
+    "end": 1017.519,
+    "text": " Good answer.",
+    "textdich": ""
+  },
+  {
+    "start": 1014.079,
+    "end": 1019.519,
+    "text": "Do you have any questions for us?",
+    "textdich": ""
+  },
+  {
+    "start": 1017.519,
+    "end": 1021.92,
+    "text": " Yes. Could you tell me more about the",
+    "textdich": ""
+  },
+  {
+    "start": 1019.519,
+    "end": 1024.88,
+    "text": "team I'll be working with?",
+    "textdich": ""
+  },
+  {
+    "start": 1021.92,
+    "end": 1027.6,
+    "text": " Of course. You'll be working with a",
+    "textdich": ""
+  },
+  {
+    "start": 1024.88,
+    "end": 1030.64,
+    "text": "small and friendly team.",
+    "textdich": ""
+  },
+  {
+    "start": 1027.6,
+    "end": 1033.039,
+    "text": " That sounds great. Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 1030.64,
+    "end": 1035.28,
+    "text": " Thank you for coming today. We'll",
+    "textdich": ""
+  },
+  {
+    "start": 1033.039,
+    "end": 1037.76,
+    "text": "contact you soon.",
+    "textdich": ""
+  },
+  {
+    "start": 1035.28,
+    "end": 1040.319,
+    "text": " Thank you very much. I look forward to",
+    "textdich": ""
+  },
+  {
+    "start": 1037.76,
+    "end": 1040.319,
+    "text": "hearing from",
+    "textdich": ""
+  }
+]
