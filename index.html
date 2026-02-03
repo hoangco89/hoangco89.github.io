@@ -23,24 +23,17 @@ html, body {
 /* MENU GROUP: CHO XUỐNG DÒNG, KHÔNG TRÀN */
 .menu-group {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;   /* KHÔNG cho xuống dòng */
     gap: 6px;
     width: 100%;
+    overflow-x: auto;    /* Nếu quá chật thì cho kéo ngang nhẹ */
     padding: 6px;
 }
 
-/* SELECT TỰ CO THEO MÀN HÌNH */
-.menu-group select {
-    flex: 1;
-    min-width: 120px;
-    max-width: 100%;
-}
-
-/* BUTTON CO LẠI, KHÔNG ĐẨY TRÀN */
+.menu-group select,
 .menu-group button {
-    flex: 1;
-    min-width: 80px;
-    max-width: 100%;
+    flex: 1;             /* Chia đều chiều rộng */
+    min-width: 80px;     /* Không bị co quá nhỏ */
 }
 
 /* KHẮC PHỤC LỖI SAFARI CHO IFRAME */
