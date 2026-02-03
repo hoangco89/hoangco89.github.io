@@ -1,37 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
-<!--
-#https://github.com/hoangco89/hoangco89.github.io/index.html
-#tai xuong 15-01-26
--->
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> <!-- Import SweetAlert2 -->
   <title>Tiensg89 Play Youtube</title>
-   <link rel="stylesheet" href="index.css">
+<style>
+body {
+   height: 100%;
+   /* background-image: linear-gradient(60deg,black, rgb(241, 239, 245));*/
+    background-image: linear-gradient(-45deg, #f4d03f, #160223); 
+}
+.video-wrapper {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* Trên laptop mới giới hạn chiều rộng và canh giữa */
+@media (min-width: 768px) {
+  .video-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  }
+}
+
+/* Khung giữ tỷ lệ 16:9 */
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    background: #000;
+}
+
+/* Iframe full khung */
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+header {
+    background-image: linear-gradient(-45deg, #f4d03f, #160223); 
+    position: sticky;
+    top: 0;
+    z-index:999;
+    background-color: #ffffff;
+    padding: 0px;
+    padding-bottom: 0%;
+    /*text-align: center;*/
+    border-bottom: 2px solid #d4af37; /* vàng ánh kim */
+}
+select {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+
+</style>
 </head>
 <body>
-  <h4>Yt với phụ đề nói</h4>  
-<!-- Header -->
-<header class="sticky"> 
+<div class="video-wrapper">
+    <header class="sticky"> 
 
+        <div class="video-container">
+            <div id="playerContainer">
 
-  <div class="video-container">
-    <div id="playerContainer"></div>
-  </div>
+            </div>
+        </div>
 
-  <div class="menu-group">
-    <select id="voiceSelect"></select>
-    <button id='rateRead' onclick="tocDoDoc()">Rate: 1</button>
+        <div class="menu-group">
+            <select id="voiceSelect"></select>
+            <button id='rateRead' onclick="tocDoDoc()">Rate: 1</button>
+            <button id="playBtn">▶️</button>
 
-    <button id="playBtn">▶️</button>
-
-    <button class='butp1' onclick="btnReadSub()">Sub only</button>
-    <button class='butp2' onclick="btnYoutubeSound()">Yt only</button>
-  </div>
-  <!-- <hr> -->
-  </header>
+            <button class='butp1' onclick="btnReadSub()">Sub only</button>
+            <button class='butp2' onclick="btnYoutubeSound()">Yt only</button>
+        </div>
+        <!-- <hr> -->
+    </header>
 
     <br>
     <div id="currentSubtitle">[source subtitles]</div>
@@ -68,6 +119,8 @@
     <p>2318 Cartesian St, Katy, Houston, TX 77494, USA</p>
     <p><a href="https://adunglacchurch.github.io" target="_blank">About</a> | <a href="https://tiensgus.github.io" target="_blank">App1</a>| <a href="https://loan991958.github.io" target="_blank">App2</a>| <a href="https://hoangco89.github.io" target="_blank">App3</a></p>
 </footer>
+
+</div>
 <!-- YouTube API -->
   <script src="https://www.youtube.com/iframe_api"></script>
   <script>
@@ -196,3 +249,4 @@ const videochon = document.getElementById("videochon");
   <script src="index.js"></script>
 </body>
 </html>
+
