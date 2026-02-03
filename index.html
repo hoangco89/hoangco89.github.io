@@ -55,6 +55,7 @@
     <br><button id="OK" onclick="xuLiUrlInput()">OK</button><br>
 
     <br><br><button class="buttonD" onclick="tom_tat_ndvideo()" style="width:60%;">Tóm tắt nội dung của video</button><br>
+    <div id="chatbox" aria-hidden="false"></div>
 
 
     <!--<h4><a href="https://tien89.streamlit.app" style="background: transparent;text-align: center; ">.</a></h4>-->
@@ -62,10 +63,10 @@
 
 <!-- Footer -->
 <footer>
-
+ 
     <p>&copy; 2026 From tiensg89@gmail.com. All Rights Reserved.</p>
-    <p>2318 Cartesian St, Katy, Houston, TX 77494, USA</p>
-    <p><a href="https://adunglacchurch.github.io" target="_blank">About</a> | <a href="https://tiensgus.github.io" target="_blank">App1</a>| <a href="https://loan991958.github.io" target="_blank">App2</a>| <a href="https://hoangco89.github.io" target="_blank">App3</a></p>
+   <!-- <p>2318 Cartesian St, Katy, Houston, TX 77494, USA</p>
+    <p><a href="https://adunglacchurch.github.io" target="_blank">About</a> | <a href="https://tiensgus.github.io" target="_blank">App1</a>| <a href="https://loan991958.github.io" target="_blank">App2</a>| <a href="https://hoangco89.github.io" target="_blank">App3</a></p>-->
 </footer>
 <!-- YouTube API -->
   <script src="https://www.youtube.com/iframe_api"></script>
@@ -75,7 +76,7 @@
 //<a href="https://www.youtube.com/watch?v=mi3xR5eGQ3s&list=PLtBFFyhEIC7n7PULjzTttoe4sNKzv4DBu&index=1">Click</a>
 //<a href="https://www.youtu.be/mi3xR5eGQ3s">CLIC SAU TTTTTTTTT</a>
 
-const videochon = document.getElementById("videochon");
+    const videochon = document.getElementById("videochon");
     const playBtn = document.getElementById("playBtn");
     const selectChude = document.getElementById("selectChude");
     const selectVideo = document.getElementById("selectVideo");
@@ -83,6 +84,7 @@ const videochon = document.getElementById("videochon");
     const subdich = document.getElementById("subdich");
     const tbao_pde = document.getElementById("tbao_pde");
     const inputurl = document.getElementById("inputurl");
+    const chatbox = document.getElementById("chatbox");
 
     let player = null;
     let videoId = videochon.textContent;
@@ -194,5 +196,4 @@ const videochon = document.getElementById("videochon");
 
   <script src="index.js"></script>
 </body>
-
 </html>

@@ -389,3 +389,10 @@ playBtn.addEventListener('dblclick', (e) => {
   window.location.href = url;
 });
 
+
+function tom_tat_ndvideo(){
+  if (subtitles.length>0){
+    alert('co');
+  }
+  chatbox.innerHTML = 'Toi la ai ? Toi la ai ? Toi la ai ? Toi la ai ? Toi la ai ? Toi la ai ? Toi la ai ? Toi la ai ? ';
+}
