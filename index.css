@@ -221,6 +221,7 @@ padding: 0px;
 padding-bottom: 0%;
 /*text-align: center;*/
 border-bottom: 2px solid #d4af37; /* vàng ánh kim */
+    border-top: 2px solid #d4af37; /* vàng ánh kim */
 }
 
 /* Footer */
@@ -261,3 +262,4 @@ margin-right: auto; /* hoặc margin: 0 auto; */
 font-size: 1.1rem;
 
 }
+
