@@ -232,6 +232,7 @@ color: #ffffff;
 text-align: center;
 padding: 20px;
 margin-top: 20px;
+border-top: 2px solid #d4af37; /* vàng ánh kim */
 border-bottom: 2px solid #d4af37; /* vàng ánh kim */
 }
 
@@ -263,5 +264,6 @@ margin-right: auto; /* hoặc margin: 0 auto; */
 font-size: 1.1rem;
 
 }
+
 
 
