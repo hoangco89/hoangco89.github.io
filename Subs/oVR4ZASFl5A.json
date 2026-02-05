@@ -1,0 +1,278 @@
+[
+  {
+    "start": 0.96,
+    "end": 9.319,
+    "text": "I wash my hands before cooking. I wash",
+    "textdich": ""
+  },
+  {
+    "start": 4.799,
+    "end": 9.319,
+    "text": "my hands before cooking.",
+    "textdich": ""
+  },
+  {
+    "start": 9.519,
+    "end": 17.32,
+    "text": "I sweep the floor. I sweep the floor. H",
+    "textdich": ""
+  },
+  {
+    "start": 18.48,
+    "end": 27.84,
+    "text": "I taste the food. I taste the food.",
+    "textdich": ""
+  },
+  {
+    "start": 24.96,
+    "end": 32.719,
+    "text": "I heat water in the kettle.",
+    "textdich": ""
+  },
+  {
+    "start": 27.84,
+    "end": 35.36,
+    "text": "I heat water in the kettle.",
+    "textdich": ""
+  },
+  {
+    "start": 32.719,
+    "end": 40.52,
+    "text": "I stir the soup.",
+    "textdich": ""
+  },
+  {
+    "start": 35.36,
+    "end": 40.52,
+    "text": "I stir the soup.",
+    "textdich": ""
+  },
+  {
+    "start": 41.68,
+    "end": 48.36,
+    "text": "I slice the bread. I slice the bread.",
+    "textdich": ""
+  },
+  {
+    "start": 48.399,
+    "end": 56.48,
+    "text": "I pour juice into a glass. I pour juice",
+    "textdich": ""
+  },
+  {
+    "start": 52.879,
+    "end": 60.8,
+    "text": "into a glass.",
+    "textdich": ""
+  },
+  {
+    "start": 56.48,
+    "end": 63.8,
+    "text": "I wash the vegetables. I wash the",
+    "textdich": ""
+  },
+  {
+    "start": 60.8,
+    "end": 63.8,
+    "text": "vegetables.",
+    "textdich": ""
+  },
+  {
+    "start": 65.84,
+    "end": 72.52,
+    "text": "I peel the potatoes. I peel the",
+    "textdich": ""
+  },
+  {
+    "start": 69.52,
+    "end": 72.52,
+    "text": "potatoes.",
+    "textdich": ""
+  },
+  {
+    "start": 72.56,
+    "end": 80.0,
+    "text": "I open the fridge.",
+    "textdich": ""
+  },
+  {
+    "start": 75.28,
+    "end": 84.08,
+    "text": "I open the fridge.",
+    "textdich": ""
+  },
+  {
+    "start": 80.0,
+    "end": 86.32,
+    "text": "I make a cup of tea. I make a cup of",
+    "textdich": ""
+  },
+  {
+    "start": 84.08,
+    "end": 89.28,
+    "text": "tea.",
+    "textdich": ""
+  },
+  {
+    "start": 86.32,
+    "end": 94.36,
+    "text": "I turn on the stove.",
+    "textdich": ""
+  },
+  {
+    "start": 89.28,
+    "end": 94.36,
+    "text": "I turn on the stove.",
+    "textdich": ""
+  },
+  {
+    "start": 94.56,
+    "end": 102.439,
+    "text": "I boil water for pasta.",
+    "textdich": ""
+  },
+  {
+    "start": 97.6,
+    "end": 102.439,
+    "text": "I boil water for pasta.",
+    "textdich": ""
+  },
+  {
+    "start": 103.04,
+    "end": 110.2,
+    "text": "I chop the vegetables. I chop the",
+    "textdich": ""
+  },
+  {
+    "start": 107.2,
+    "end": 110.2,
+    "text": "vegetables.",
+    "textdich": ""
+  },
+  {
+    "start": 110.64,
+    "end": 119.0,
+    "text": "I take out the milk.",
+    "textdich": ""
+  },
+  {
+    "start": 113.439,
+    "end": 119.0,
+    "text": "I take out the milk.",
+    "textdich": ""
+  },
+  {
+    "start": 120.159,
+    "end": 130.0,
+    "text": "I set the table. I set the table.",
+    "textdich": ""
+  },
+  {
+    "start": 126.079,
+    "end": 133.84,
+    "text": "I wash the dishes in the sink. I wash",
+    "textdich": ""
+  },
+  {
+    "start": 130.0,
+    "end": 137.92,
+    "text": "the dishes in the sink.",
+    "textdich": ""
+  },
+  {
+    "start": 133.84,
+    "end": 141.8,
+    "text": "I put the pizza in the oven. I put the",
+    "textdich": ""
+  },
+  {
+    "start": 137.92,
+    "end": 141.8,
+    "text": "pizza in the oven.",
+    "textdich": ""
+  },
+  {
+    "start": 142.0,
+    "end": 149.4,
+    "text": "I take out the trash.",
+    "textdich": ""
+  },
+  {
+    "start": 144.56,
+    "end": 149.4,
+    "text": "I take out the trash.",
+    "textdich": ""
+  },
+  {
+    "start": 151.84,
+    "end": 162.56,
+    "text": "I cut the onions. I cut the onions.",
+    "textdich": ""
+  },
+  {
+    "start": 158.16,
+    "end": 165.56,
+    "text": "I open the cupboard. I open the",
+    "textdich": ""
+  },
+  {
+    "start": 162.56,
+    "end": 165.56,
+    "text": "cupboard.",
+    "textdich": ""
+  },
+  {
+    "start": 167.12,
+    "end": 176.64,
+    "text": "I get a bowl. I get a bowl.",
+    "textdich": ""
+  },
+  {
+    "start": 172.879,
+    "end": 181.239,
+    "text": "I break the eggs into the bowl. I break",
+    "textdich": ""
+  },
+  {
+    "start": 176.64,
+    "end": 181.239,
+    "text": "the eggs into the bowl.",
+    "textdich": ""
+  },
+  {
+    "start": 181.519,
+    "end": 188.84,
+    "text": "I clean the counter.",
+    "textdich": ""
+  },
+  {
+    "start": 183.84,
+    "end": 188.84,
+    "text": "I clean the counter.",
+    "textdich": ""
+  },
+  {
+    "start": 189.2,
+    "end": 197.2,
+    "text": "I dry my hands with a towel. I dry my",
+    "textdich": ""
+  },
+  {
+    "start": 193.76,
+    "end": 200.959,
+    "text": "hands with a towel.",
+    "textdich": ""
+  },
+  {
+    "start": 197.2,
+    "end": 205.159,
+    "text": "Learn English with fun.",
+    "textdich": ""
+  },
+  {
+    "start": 200.959,
+    "end": 205.159,
+    "text": "Learn English with fun.",
+    "textdich": ""
+  }
+]
