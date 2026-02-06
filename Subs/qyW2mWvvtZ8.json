@@ -1,0 +1,416 @@
+[
+  {
+    "start": 0.46,
+    "end": 3.08,
+    "text": "It’s Professor Dave, I wanna tell you about fractions.",
+    "textdich": ""
+  },
+  {
+    "start": 9.84,
+    "end": 15.68,
+    "text": "We’ve learned about division, and any time we perform division there must be a dividend,",
+    "textdich": ""
+  },
+  {
+    "start": 15.69,
+    "end": 18.749,
+    "text": "a divisor, and a quotient.",
+    "textdich": ""
+  },
+  {
+    "start": 18.749,
+    "end": 24.009,
+    "text": "At first, we looked at examples where the dividend is larger than the divisor.",
+    "textdich": ""
+  },
+  {
+    "start": 24.009,
+    "end": 29.339,
+    "text": "This can sometimes result in a quotient that is a whole number, like fifteen divided by",
+    "textdich": ""
+  },
+  {
+    "start": 29.339,
+    "end": 31.899,
+    "text": "five, which gives us three.",
+    "textdich": ""
+  },
+  {
+    "start": 31.899,
+    "end": 36.95,
+    "text": "But sometimes the divisor will be larger than the dividend, in which case we will get a",
+    "textdich": ""
+  },
+  {
+    "start": 36.95,
+    "end": 41.6,
+    "text": "fraction that has a value somewhere between zero and one.",
+    "textdich": ""
+  },
+  {
+    "start": 41.6,
+    "end": 46.83,
+    "text": "It’s a piece of one, or a fraction of one, hence the name: fraction.",
+    "textdich": ""
+  },
+  {
+    "start": 46.83,
+    "end": 49.77,
+    "text": "To see how these work, let’s look at a pizza.",
+    "textdich": ""
+  },
+  {
+    "start": 49.77,
+    "end": 54.18,
+    "text": "You’ll typically see a pizza cut up into eight equal slices.",
+    "textdich": ""
+  },
+  {
+    "start": 54.18,
+    "end": 59.29,
+    "text": "To represent this, we can take the number one, to represent the pizza, and divide by",
+    "textdich": ""
+  },
+  {
+    "start": 59.29,
+    "end": 64.53,
+    "text": "the number eight, to show that it has been divided into eight sections.",
+    "textdich": ""
+  },
+  {
+    "start": 64.53,
+    "end": 70.54,
+    "text": "That means that each slice is one eighth of the pizza.",
+    "textdich": ""
+  },
+  {
+    "start": 70.54,
+    "end": 74.29,
+    "text": "If you eat two slices, you have eaten two eighths.",
+    "textdich": ""
+  },
+  {
+    "start": 74.29,
+    "end": 78.831,
+    "text": "You can have three, or four, all the way up to eight eighths if you are very hungry, in",
+    "textdich": ""
+  },
+  {
+    "start": 78.831,
+    "end": 81.81,
+    "text": "which case you have eaten the entire pizza.",
+    "textdich": ""
+  },
+  {
+    "start": 81.81,
+    "end": 85.59,
+    "text": "Let’s say the pizza was instead cut into fourths.",
+    "textdich": ""
+  },
+  {
+    "start": 85.59,
+    "end": 89.35,
+    "text": "Then each slice would be one fourth of the pizza.",
+    "textdich": ""
+  },
+  {
+    "start": 89.35,
+    "end": 94.77,
+    "text": "We can see that eating one fourth of the pizza is the same as eating two eighths, and that’s",
+    "textdich": ""
+  },
+  {
+    "start": 94.77,
+    "end": 97.34,
+    "text": "because these fractions are equivalent.",
+    "textdich": ""
+  },
+  {
+    "start": 97.34,
+    "end": 104.72,
+    "text": "Two divided by eight is the same as one divided by four, and two eighths can therefore reduce",
+    "textdich": ""
+  },
+  {
+    "start": 104.72,
+    "end": 106.42,
+    "text": "to one fourth.",
+    "textdich": ""
+  },
+  {
+    "start": 106.42,
+    "end": 111.52,
+    "text": "When we have a fraction like this, we can manipulate it any way we want by simply doing",
+    "textdich": ""
+  },
+  {
+    "start": 111.52,
+    "end": 117.92,
+    "text": "the same thing to both the top, or numerator, and the bottom, or denominator.",
+    "textdich": ""
+  },
+  {
+    "start": 117.92,
+    "end": 124.4,
+    "text": "If we divide both the two and the eight by two, we get one fourth, which again means",
+    "textdich": ""
+  },
+  {
+    "start": 124.4,
+    "end": 129.259,
+    "text": "that these fractions must be equivalent.",
+    "textdich": ""
+  },
+  {
+    "start": 129.259,
+    "end": 134.83,
+    "text": "If two fractions have the same denominator, it is easy to see which one is greater.",
+    "textdich": ""
+  },
+  {
+    "start": 134.83,
+    "end": 138.54,
+    "text": "If the denominators are different, we can do a number of things.",
+    "textdich": ""
+  },
+  {
+    "start": 138.54,
+    "end": 143.39,
+    "text": "Let’s say we are comparing three eights and three tenths.",
+    "textdich": ""
+  },
+  {
+    "start": 143.39,
+    "end": 145.01,
+    "text": "Which is greater?",
+    "textdich": ""
+  },
+  {
+    "start": 145.01,
+    "end": 150.65,
+    "text": "Well let’s draw two circles; one can be divided into eight pieces, and the other into",
+    "textdich": ""
+  },
+  {
+    "start": 150.65,
+    "end": 151.65,
+    "text": "ten.",
+    "textdich": ""
+  },
+  {
+    "start": 151.65,
+    "end": 155.2,
+    "text": "Then, let’s shade three pieces in each circle.",
+    "textdich": ""
+  },
+  {
+    "start": 155.2,
+    "end": 161.75,
+    "text": "We can clearly see that three eights covers a larger area, so it’s the larger fraction.",
+    "textdich": ""
+  },
+  {
+    "start": 161.75,
+    "end": 167.7,
+    "text": "This makes sense, because the numerator, three, is being divided fewer times than with three",
+    "textdich": ""
+  },
+  {
+    "start": 167.7,
+    "end": 169.26,
+    "text": "tenths.",
+    "textdich": ""
+  },
+  {
+    "start": 169.26,
+    "end": 174.68,
+    "text": "We could also do things like convert to decimal notation, or find the least common denominator,",
+    "textdich": ""
+  },
+  {
+    "start": 174.68,
+    "end": 176.97,
+    "text": "both of which we will learn later.",
+    "textdich": ""
+  },
+  {
+    "start": 176.97,
+    "end": 183.01,
+    "text": "Of course, not all fractions are less than one; fractions can also be greater than one.",
+    "textdich": ""
+  },
+  {
+    "start": 183.01,
+    "end": 187.629,
+    "text": "This will be the case if the dividend is greater than the divisor but the quotient is not a",
+    "textdich": ""
+  },
+  {
+    "start": 187.629,
+    "end": 189.45,
+    "text": "whole number.",
+    "textdich": ""
+  },
+  {
+    "start": 189.45,
+    "end": 193.65,
+    "text": "Take for example four divided by three, or four thirds.",
+    "textdich": ""
+  },
+  {
+    "start": 193.65,
+    "end": 199.35,
+    "text": "We know that three thirds would equal one, and therefore six thirds would equal two,",
+    "textdich": ""
+  },
+  {
+    "start": 199.35,
+    "end": 203.65,
+    "text": "so four thirds is somewhere in between one and two.",
+    "textdich": ""
+  },
+  {
+    "start": 203.65,
+    "end": 209.98,
+    "text": "These are called improper fractions, and we can either leave these as they are, or convert",
+    "textdich": ""
+  },
+  {
+    "start": 209.98,
+    "end": 214.53,
+    "text": "them to mixed numbers, like one and one third.",
+    "textdich": ""
+  },
+  {
+    "start": 214.53,
+    "end": 218.52,
+    "text": "This can be useful in a certain context, like ordering pizzas.",
+    "textdich": ""
+  },
+  {
+    "start": 218.52,
+    "end": 223.75,
+    "text": "Let’s say you’re having a pizza party, so you want to order some pizzas from your",
+    "textdich": ""
+  },
+  {
+    "start": 223.75,
+    "end": 225.76,
+    "text": "favorite restaurant.",
+    "textdich": ""
+  },
+  {
+    "start": 225.76,
+    "end": 232.76,
+    "text": "They cut their pizzas into eight slices, and your ten friends each want three slices.",
+    "textdich": ""
+  },
+  {
+    "start": 232.76,
+    "end": 238.769,
+    "text": "Doing the multiplication, three slices each times ten friends means thirty slices.",
+    "textdich": ""
+  },
+  {
+    "start": 238.769,
+    "end": 244.66,
+    "text": "Since each slice is one eighth of a pizza, we could say that we need thirty eighths of",
+    "textdich": ""
+  },
+  {
+    "start": 244.66,
+    "end": 245.8,
+    "text": "pizza.",
+    "textdich": ""
+  },
+  {
+    "start": 245.8,
+    "end": 248.26,
+    "text": "But when we call to order, we wouldn’t say it that way.",
+    "textdich": ""
+  },
+  {
+    "start": 248.26,
+    "end": 252.11,
+    "text": "We need to order a specific number of whole pizzas.",
+    "textdich": ""
+  },
+  {
+    "start": 252.11,
+    "end": 253.89,
+    "text": "So how many do we need?",
+    "textdich": ""
+  },
+  {
+    "start": 253.89,
+    "end": 261.479,
+    "text": "Well, eight eighths comprise a whole, so eight eights is one pizza, sixteen is two pizzas,",
+    "textdich": ""
+  },
+  {
+    "start": 261.479,
+    "end": 264.35,
+    "text": "and twenty-four gives us three whole pizzas.",
+    "textdich": ""
+  },
+  {
+    "start": 264.35,
+    "end": 267.389,
+    "text": "Then, we still need six more slices.",
+    "textdich": ""
+  },
+  {
+    "start": 267.389,
+    "end": 273.46,
+    "text": "So, instead of thirty eighths, we could say that we need three whole pizzas plus six more",
+    "textdich": ""
+  },
+  {
+    "start": 273.46,
+    "end": 280.3,
+    "text": "slices, or three and six eighths pizza, which reduces to three and three fourths.",
+    "textdich": ""
+  },
+  {
+    "start": 280.3,
+    "end": 285.58,
+    "text": "That means we need to order four pizzas, and we will have two slices left over.",
+    "textdich": ""
+  },
+  {
+    "start": 285.58,
+    "end": 287.53,
+    "text": "We could also go the other way.",
+    "textdich": ""
+  },
+  {
+    "start": 287.53,
+    "end": 293.15,
+    "text": "Say that we ate four and three eighths pizzas, so how many slices did we eat?",
+    "textdich": ""
+  },
+  {
+    "start": 293.15,
+    "end": 298.66,
+    "text": "Well each pizza has eight slices, so we multiply the four by eight to get thirty-two.",
+    "textdich": ""
+  },
+  {
+    "start": 298.66,
+    "end": 303.5,
+    "text": "Then we add on the remaining three, and we get thirty-five slices.",
+    "textdich": ""
+  },
+  {
+    "start": 303.5,
+    "end": 309.66,
+    "text": "We should be able to convert between improper fractions and mixed numbers in this fashion,",
+    "textdich": ""
+  },
+  {
+    "start": 309.66,
+    "end": 311.96,
+    "text": "so before we move on, let’s check comprehension.",
+    "textdich": ""
+  }
+]
