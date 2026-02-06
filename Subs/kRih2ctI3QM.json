@@ -1,0 +1,338 @@
+[
+  {
+    "start": 6.64,
+    "end": 12.8,
+    "text": "We’ve been studying the major classes of linear second-order PDEs. The Laplace equation is",
+    "textdich": ""
+  },
+  {
+    "start": 12.8,
+    "end": 18.32,
+    "text": "elliptic, the wave equation is hyperbolic, and now we turn to the third class, the diffusion",
+    "textdich": ""
+  },
+  {
+    "start": 18.32,
+    "end": 24.32,
+    "text": "equation, which is parabolic. The diffusion equation has the general form partial u partial",
+    "textdich": ""
+  },
+  {
+    "start": 24.32,
+    "end": 32.4,
+    "text": "t equals a times the Laplacian of u, where a is a positive constant. This equation describes systems",
+    "textdich": ""
+  },
+  {
+    "start": 32.4,
+    "end": 39.12,
+    "text": "that generally tend to spread out over time. Two of the main contexts where this PDE comes up are",
+    "textdich": ""
+  },
+  {
+    "start": 39.12,
+    "end": 44.64,
+    "text": "the diffusion of concentrated particles through a medium, hence the name, where u represents the",
+    "textdich": ""
+  },
+  {
+    "start": 44.64,
+    "end": 49.68,
+    "text": "concentration of the particles, and in conductive heat transfer, where u represents the temperature",
+    "textdich": ""
+  },
+  {
+    "start": 49.68,
+    "end": 56.32,
+    "text": "of the medium, and in this context it’s often known as the heat equation. In material diffusion",
+    "textdich": ""
+  },
+  {
+    "start": 56.32,
+    "end": 62.64,
+    "text": "problems, the constant a is known as the diffusion coefficient, and in heat transfer problems, the",
+    "textdich": ""
+  },
+  {
+    "start": 62.64,
+    "end": 68.56,
+    "text": "constant a is known as the thermal diffusivity, which can be related to the more well-known",
+    "textdich": ""
+  },
+  {
+    "start": 68.56,
+    "end": 74.72,
+    "text": "properties thermal conductivity, density, and specific heat capacity. We can also observe that",
+    "textdich": ""
+  },
+  {
+    "start": 74.72,
+    "end": 80.96,
+    "text": "if we assume that there is no time dependence to our solution, so that partial u partial t is zero,",
+    "textdich": ""
+  },
+  {
+    "start": 80.96,
+    "end": 85.44,
+    "text": "the diffusion equation simplifies to the Laplace equation, and so the Laplace",
+    "textdich": ""
+  },
+  {
+    "start": 85.44,
+    "end": 91.68,
+    "text": "equation can be considered the steady-state approximation to the diffusion equation.",
+    "textdich": ""
+  },
+  {
+    "start": 91.68,
+    "end": 96.8,
+    "text": "Let’s solve the 1D diffusion equation using the hopefully familiar method of separation",
+    "textdich": ""
+  },
+  {
+    "start": 96.8,
+    "end": 105.52,
+    "text": "of variables. We assume a solution of the form u of x t equals capital X of x times capital T of t.",
+    "textdich": ""
+  },
+  {
+    "start": 105.52,
+    "end": 112.72,
+    "text": "Subbing this in and separating the equation gives a second-order ODE in X and a first-order ODE in",
+    "textdich": ""
+  },
+  {
+    "start": 112.72,
+    "end": 119.68,
+    "text": "T, where we have chosen negative lambda squared as the separation constant. When we solve these ODEs,",
+    "textdich": ""
+  },
+  {
+    "start": 119.68,
+    "end": 125.12,
+    "text": "we find trigonometric solutions in x and exponential solutions in t.",
+    "textdich": ""
+  },
+  {
+    "start": 125.12,
+    "end": 130.88,
+    "text": "Observe that for our temporal function capital T of t, the sign of the exponential is negative,",
+    "textdich": ""
+  },
+  {
+    "start": 130.88,
+    "end": 136.08,
+    "text": "which represents a term that decays in time, which corresponds to the fact that diffusion",
+    "textdich": ""
+  },
+  {
+    "start": 136.08,
+    "end": 143.68,
+    "text": "processes tend to spread things out over time. We can now assign boundary conditions to identify the",
+    "textdich": ""
+  },
+  {
+    "start": 143.68,
+    "end": 149.52,
+    "text": "possible values of lambda and get our solution by superposition of this general solution.",
+    "textdich": ""
+  },
+  {
+    "start": 149.52,
+    "end": 154.72,
+    "text": "Here is an example relating to heat transfer. If we have a 1-dimensional metal rod between the",
+    "textdich": ""
+  },
+  {
+    "start": 154.72,
+    "end": 161.04,
+    "text": "positions x equals zero and x equals L, where L is the length of the rod, and we insulate the rod",
+    "textdich": ""
+  },
+  {
+    "start": 161.04,
+    "end": 167.2,
+    "text": "from the environment along its length but not at its ends, then the temperature distribution u of x",
+    "textdich": ""
+  },
+  {
+    "start": 167.2,
+    "end": 173.84,
+    "text": "t is modeled by the heat equation. Suppose that we give the rod an initial temperature distribution",
+    "textdich": ""
+  },
+  {
+    "start": 173.84,
+    "end": 182.64,
+    "text": "u of x zero equals u zero sine of pi x over L. By subbing in t equals zero to our general solution",
+    "textdich": ""
+  },
+  {
+    "start": 182.64,
+    "end": 188.4,
+    "text": "and comparing the initial spatial distribution, we find that the coefficient of sine must be",
+    "textdich": ""
+  },
+  {
+    "start": 188.4,
+    "end": 196.0,
+    "text": "u zero and that lambda equals pi over L is the only possible value. Our particular solution is",
+    "textdich": ""
+  },
+  {
+    "start": 196.0,
+    "end": 204.64,
+    "text": "therefore u of x t equals u zero sine of pi x over L times e to the minus pi squared over L",
+    "textdich": ""
+  },
+  {
+    "start": 204.64,
+    "end": 210.56,
+    "text": "squared times a t, which takes the form of a stationary half-wave sinusoid that resembles",
+    "textdich": ""
+  },
+  {
+    "start": 210.56,
+    "end": 216.48,
+    "text": "the initial condition but steadily decreases in amplitude with time, falling to zero everywhere",
+    "textdich": ""
+  },
+  {
+    "start": 216.48,
+    "end": 223.68,
+    "text": "in the limit of infinite time. This models the gradual cooling of the bar as heat is lost through",
+    "textdich": ""
+  },
+  {
+    "start": 223.68,
+    "end": 229.52,
+    "text": "its ends, eventually coming into equilibrium with the environment at temperature u equals zero.",
+    "textdich": ""
+  },
+  {
+    "start": 229.52,
+    "end": 234.88,
+    "text": "In the diffusion equation, the gradient of our solution u has its own physical interpretation",
+    "textdich": ""
+  },
+  {
+    "start": 234.88,
+    "end": 241.68,
+    "text": "called the flux. In 1D mass transfer, we can write that capital J, which is the mass flux,",
+    "textdich": ""
+  },
+  {
+    "start": 241.68,
+    "end": 247.52,
+    "text": "is equal to negative a times del u del x, which represents the number of particles passing",
+    "textdich": ""
+  },
+  {
+    "start": 247.52,
+    "end": 254.56,
+    "text": "through a given point x per unit time. In 1D heat transfer, the equivalent property is written as q,",
+    "textdich": ""
+  },
+  {
+    "start": 254.56,
+    "end": 260.08,
+    "text": "which is the heat flux, representing the thermal energy passing through a point per unit time.",
+    "textdich": ""
+  },
+  {
+    "start": 260.08,
+    "end": 265.92,
+    "text": "These relations collectively are known as Fick’s first law, and together with a conservation law",
+    "textdich": ""
+  },
+  {
+    "start": 265.92,
+    "end": 271.36,
+    "text": "for mass or energy for the cases of material or heat diffusion respectively, we can derive the",
+    "textdich": ""
+  },
+  {
+    "start": 271.36,
+    "end": 277.44,
+    "text": "diffusion equation from first principles. The diffusion equation is also quite easy",
+    "textdich": ""
+  },
+  {
+    "start": 277.44,
+    "end": 283.28,
+    "text": "to modify in order to model more complicated phenomena. For example, if we have a body of water",
+    "textdich": ""
+  },
+  {
+    "start": 283.28,
+    "end": 288.72,
+    "text": "where some chemical reaction is taking place, the concentration of the reactant will be subject to",
+    "textdich": ""
+  },
+  {
+    "start": 288.72,
+    "end": 293.52,
+    "text": "both its own natural diffusion through the water as well as its rate of consumption due to the",
+    "textdich": ""
+  },
+  {
+    "start": 293.52,
+    "end": 299.68,
+    "text": "reaction. To capture the dynamics of the reaction, we can add a source term, r, to the right side",
+    "textdich": ""
+  },
+  {
+    "start": 299.68,
+    "end": 305.6,
+    "text": "of our diffusion PDE, where r is a function that represents the rate of production of what we are",
+    "textdich": ""
+  },
+  {
+    "start": 305.6,
+    "end": 311.28,
+    "text": "measuring. In the case of a chemical reaction with u measuring the concentration of the reactant,",
+    "textdich": ""
+  },
+  {
+    "start": 311.28,
+    "end": 317.12,
+    "text": "this term r will be negative since our reactant is being lost. If we were to do a proper analysis",
+    "textdich": ""
+  },
+  {
+    "start": 317.12,
+    "end": 322.8,
+    "text": "of this reaction-diffusion system, we would replace r with a known function of u, such as",
+    "textdich": ""
+  },
+  {
+    "start": 322.8,
+    "end": 328.88,
+    "text": "the first-order rate equation, r equals negative k u, where k is the rate constant, which might look",
+    "textdich": ""
+  },
+  {
+    "start": 328.88,
+    "end": 334.64,
+    "text": "familiar from chemistry. This example of using source terms comes from mass transfer, and an",
+    "textdich": ""
+  },
+  {
+    "start": 334.64,
+    "end": 340.32,
+    "text": "equivalent for heat transfer could be convection to and from the environment, incident or outgoing",
+    "textdich": ""
+  },
+  {
+    "start": 340.32,
+    "end": 345.28,
+    "text": "thermal radiation, or even heat production due to an internal chemical reaction, which would",
+    "textdich": ""
+  },
+  {
+    "start": 345.28,
+    "end": 355.76,
+    "text": "involve a coupled, nonlinear system of the heat and diffusion PDEs. Let’s check comprehension.",
+    "textdich": ""
+  }
+]
