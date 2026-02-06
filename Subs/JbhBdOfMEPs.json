@@ -1,0 +1,518 @@
+[
+  {
+    "start": 0.44,
+    "end": 3.48,
+    "text": "I’m Professor Dave, and I wanna teach you about mathematics.",
+    "textdich": ""
+  },
+  {
+    "start": 10.36,
+    "end": 12.56,
+    "text": "Not everyone loves math.",
+    "textdich": ""
+  },
+  {
+    "start": 12.57,
+    "end": 16.209,
+    "text": "Many students wonder why it’s even necessary to learn in the first place.",
+    "textdich": ""
+  },
+  {
+    "start": 16.209,
+    "end": 21.16,
+    "text": "Well, it may not always be obvious, but math really is everywhere.",
+    "textdich": ""
+  },
+  {
+    "start": 21.16,
+    "end": 26.8,
+    "text": "Math is how our phones work, how airplanes fly, how social media knows who you’re going",
+    "textdich": ""
+  },
+  {
+    "start": 26.8,
+    "end": 30.04,
+    "text": "to tag in a photo before you do.",
+    "textdich": ""
+  },
+  {
+    "start": 30.04,
+    "end": 35.579,
+    "text": "Math can tell us how disease spreads, who is most likely to win an election, or the",
+    "textdich": ""
+  },
+  {
+    "start": 35.579,
+    "end": 38.42,
+    "text": "odds of winning at casino games.",
+    "textdich": ""
+  },
+  {
+    "start": 38.42,
+    "end": 42.3,
+    "text": "Math also goes far beyond our everyday experience.",
+    "textdich": ""
+  },
+  {
+    "start": 42.3,
+    "end": 48.699,
+    "text": "It is the language of the universe itself, describing how all objects move, from tiny",
+    "textdich": ""
+  },
+  {
+    "start": 48.699,
+    "end": 52.039,
+    "text": "atoms to entire galaxies.",
+    "textdich": ""
+  },
+  {
+    "start": 52.039,
+    "end": 57.67,
+    "text": "Math governs everything from science to economics, so it is not an overstatement when we say",
+    "textdich": ""
+  },
+  {
+    "start": 57.67,
+    "end": 60.21,
+    "text": "that math is everywhere.",
+    "textdich": ""
+  },
+  {
+    "start": 60.21,
+    "end": 66.11,
+    "text": "But in another more tangible sense, math is also nowhere, in that it isn’t a concrete",
+    "textdich": ""
+  },
+  {
+    "start": 66.11,
+    "end": 70.21,
+    "text": "physical object, like you, or your shoe, or your desk.",
+    "textdich": ""
+  },
+  {
+    "start": 70.21,
+    "end": 73.97,
+    "text": "It is inherent in reality.",
+    "textdich": ""
+  },
+  {
+    "start": 73.97,
+    "end": 78.67,
+    "text": "Objects in the night sky obey mathematical laws of motion that exist whether we write",
+    "textdich": ""
+  },
+  {
+    "start": 78.67,
+    "end": 85.74,
+    "text": "them down or not, which means that mathematical truths have their own existence, independent",
+    "textdich": ""
+  },
+  {
+    "start": 85.74,
+    "end": 88.29,
+    "text": "of humans and our symbols.",
+    "textdich": ""
+  },
+  {
+    "start": 88.29,
+    "end": 94.09,
+    "text": "The fact that one plus one equals two does not rely on two people each putting an apple",
+    "textdich": ""
+  },
+  {
+    "start": 94.09,
+    "end": 97.88,
+    "text": "into a basket and then agreeing that the resulting is two apples.",
+    "textdich": ""
+  },
+  {
+    "start": 97.88,
+    "end": 99.68,
+    "text": "It’s just true.",
+    "textdich": ""
+  },
+  {
+    "start": 99.68,
+    "end": 106.31,
+    "text": "The equation that represents this action was true before any humans were even born, and",
+    "textdich": ""
+  },
+  {
+    "start": 106.31,
+    "end": 109.48,
+    "text": "it will be true long after they all die.",
+    "textdich": ""
+  },
+  {
+    "start": 109.48,
+    "end": 113.06,
+    "text": "So where did the math we see in math class come from?",
+    "textdich": ""
+  },
+  {
+    "start": 113.06,
+    "end": 118.06,
+    "text": "Did some caveman stumble across a Calculus textbook buried under a rock?",
+    "textdich": ""
+  },
+  {
+    "start": 118.06,
+    "end": 123.18,
+    "text": "Is this knowledge bestowed upon us from the heavens, like a religious text?",
+    "textdich": ""
+  },
+  {
+    "start": 123.18,
+    "end": 129.46,
+    "text": "For those of us who have difficulty with math, it definitely seems that way sometimes.",
+    "textdich": ""
+  },
+  {
+    "start": 129.46,
+    "end": 133.29,
+    "text": "But the real story is much more interesting.",
+    "textdich": ""
+  },
+  {
+    "start": 133.29,
+    "end": 135.36,
+    "text": "Math comes from us.",
+    "textdich": ""
+  },
+  {
+    "start": 135.36,
+    "end": 136.55,
+    "text": "We make it.",
+    "textdich": ""
+  },
+  {
+    "start": 136.55,
+    "end": 138.92,
+    "text": "And this does not strictly refer to the past.",
+    "textdich": ""
+  },
+  {
+    "start": 138.92,
+    "end": 145.5,
+    "text": "Every day, thousands of mathematicians around the world are busy creating more math.",
+    "textdich": ""
+  },
+  {
+    "start": 145.5,
+    "end": 147.56,
+    "text": "So how do we create math?",
+    "textdich": ""
+  },
+  {
+    "start": 147.56,
+    "end": 151.1,
+    "text": "To answer this, we need to know what math really is.",
+    "textdich": ""
+  },
+  {
+    "start": 151.1,
+    "end": 155.77,
+    "text": "In short, math is the study of questions that have definite answers.",
+    "textdich": ""
+  },
+  {
+    "start": 155.77,
+    "end": 157.43,
+    "text": "That’s it.",
+    "textdich": ""
+  },
+  {
+    "start": 157.43,
+    "end": 163.03,
+    "text": "This may seem incredibly broad, and it is, but this is what sets math apart from other",
+    "textdich": ""
+  },
+  {
+    "start": 163.03,
+    "end": 165.02,
+    "text": "areas of inquiry.",
+    "textdich": ""
+  },
+  {
+    "start": 165.02,
+    "end": 167.95,
+    "text": "Some questions don’t have definite answers.",
+    "textdich": ""
+  },
+  {
+    "start": 167.95,
+    "end": 169.92,
+    "text": "What is the best form of government?",
+    "textdich": ""
+  },
+  {
+    "start": 169.92,
+    "end": 171.95,
+    "text": "Who deserves the Oscar for best picture?",
+    "textdich": ""
+  },
+  {
+    "start": 171.95,
+    "end": 175.0,
+    "text": "What’s better, pizza or cheeseburgers?",
+    "textdich": ""
+  },
+  {
+    "start": 175.0,
+    "end": 181.78,
+    "text": "The answers to these questions are subjective; they vary from person to person, and no matter",
+    "textdich": ""
+  },
+  {
+    "start": 181.78,
+    "end": 188.48,
+    "text": "what anyone says, no one can give a definite answer, because there simply isn’t one.",
+    "textdich": ""
+  },
+  {
+    "start": 188.48,
+    "end": 194.53,
+    "text": "Even with science, if we do an experiment over and over and over, and our equations",
+    "textdich": ""
+  },
+  {
+    "start": 194.53,
+    "end": 200.471,
+    "text": "always make highly accurate predictions about what will happen, we are very likely to be",
+    "textdich": ""
+  },
+  {
+    "start": 200.471,
+    "end": 203.06,
+    "text": "right about a certain phenomenon.",
+    "textdich": ""
+  },
+  {
+    "start": 203.06,
+    "end": 208.38,
+    "text": "But we can never be one hundred percent certain that we won’t get a different result in",
+    "textdich": ""
+  },
+  {
+    "start": 208.38,
+    "end": 210.03,
+    "text": "the future.",
+    "textdich": ""
+  },
+  {
+    "start": 210.03,
+    "end": 217.04,
+    "text": "Science can be consistent far beyond reasonable doubt, but it never claims complete certainty.",
+    "textdich": ""
+  },
+  {
+    "start": 217.04,
+    "end": 223.349,
+    "text": "However, if I draw a circle and try to determine the angle between a radius and a tangent line,",
+    "textdich": ""
+  },
+  {
+    "start": 223.349,
+    "end": 227.06,
+    "text": "I will either get ninety degrees, or I will be wrong.",
+    "textdich": ""
+  },
+  {
+    "start": 227.06,
+    "end": 229.93,
+    "text": "There are no two ways about it.",
+    "textdich": ""
+  },
+  {
+    "start": 229.93,
+    "end": 236.459,
+    "text": "Every mathematical question like this one has a completely inarguable answer.",
+    "textdich": ""
+  },
+  {
+    "start": 236.459,
+    "end": 238.64,
+    "text": "Are there infinitely many prime numbers?",
+    "textdich": ""
+  },
+  {
+    "start": 238.64,
+    "end": 240.95,
+    "text": "Yes, there definitely are.",
+    "textdich": ""
+  },
+  {
+    "start": 240.95,
+    "end": 245.58,
+    "text": "Is there a fraction that, when multiplied by itself, gives the number two?",
+    "textdich": ""
+  },
+  {
+    "start": 245.58,
+    "end": 252.42,
+    "text": "No, there definitely isn’t, and we will learn about these concepts in this course.",
+    "textdich": ""
+  },
+  {
+    "start": 252.42,
+    "end": 257.32,
+    "text": "The job of the mathematician is to ask these kinds of questions and then come up with the",
+    "textdich": ""
+  },
+  {
+    "start": 257.32,
+    "end": 260.38,
+    "text": "tools that are needed to answer them.",
+    "textdich": ""
+  },
+  {
+    "start": 260.38,
+    "end": 265.76,
+    "text": "The answers themselves are fixed and completely out of our control.",
+    "textdich": ""
+  },
+  {
+    "start": 265.76,
+    "end": 270.19,
+    "text": "They are part of the fabric of the reality in which we live.",
+    "textdich": ""
+  },
+  {
+    "start": 270.19,
+    "end": 273.81,
+    "text": "Often times these answers are very surprising.",
+    "textdich": ""
+  },
+  {
+    "start": 273.81,
+    "end": 279.99,
+    "text": "If we ask the question: “Is there more than one kind of infinity?”, the answer is yes.",
+    "textdich": ""
+  },
+  {
+    "start": 279.99,
+    "end": 284.77,
+    "text": "In fact, there are infinitely many different kinds of infinities.",
+    "textdich": ""
+  },
+  {
+    "start": 284.77,
+    "end": 290.99,
+    "text": "Humans did not decide that this was true, we simply decided to ask the question.",
+    "textdich": ""
+  },
+  {
+    "start": 290.99,
+    "end": 293.6,
+    "text": "And that is what we’re going to do in this course.",
+    "textdich": ""
+  },
+  {
+    "start": 293.6,
+    "end": 299.93,
+    "text": "We’re going to ask questions, and then build the tools we need to answer them.",
+    "textdich": ""
+  },
+  {
+    "start": 299.93,
+    "end": 305.0,
+    "text": "The tools that we will build can be applied in virtually every aspect of life, from the",
+    "textdich": ""
+  },
+  {
+    "start": 305.0,
+    "end": 311.58,
+    "text": "biological, to the technological, to the sociological, and even more astoundingly, they sometimes",
+    "textdich": ""
+  },
+  {
+    "start": 311.58,
+    "end": 317.52,
+    "text": "show us the deepest of truths that have been lying in wait for us to uncover.",
+    "textdich": ""
+  },
+  {
+    "start": 317.52,
+    "end": 322.56,
+    "text": "These are the ones that tell us about the nature of reality in a way that philosophers",
+    "textdich": ""
+  },
+  {
+    "start": 322.56,
+    "end": 324.699,
+    "text": "can only dream.",
+    "textdich": ""
+  },
+  {
+    "start": 324.699,
+    "end": 329.59,
+    "text": "So if you want to build up your understanding of math so that you can learn all kinds of",
+    "textdich": ""
+  },
+  {
+    "start": 329.59,
+    "end": 335.19,
+    "text": "physics and chemistry and astronomy, you’ve come to the right place.",
+    "textdich": ""
+  },
+  {
+    "start": 335.19,
+    "end": 340.35,
+    "text": "If you’re a math student at any level, and you need help understanding what your teacher",
+    "textdich": ""
+  },
+  {
+    "start": 340.35,
+    "end": 344.94,
+    "text": "is talking about in class, you’re in the right place, too.",
+    "textdich": ""
+  },
+  {
+    "start": 344.94,
+    "end": 349.69,
+    "text": "If you’re just someone who wants to figure out how much tip to leave at dinner, stick",
+    "textdich": ""
+  },
+  {
+    "start": 349.69,
+    "end": 352.43,
+    "text": "around, all are welcome.",
+    "textdich": ""
+  },
+  {
+    "start": 352.43,
+    "end": 358.93,
+    "text": "In this course, we will begin with the most elementary math there is, the basic arithmetic",
+    "textdich": ""
+  },
+  {
+    "start": 358.93,
+    "end": 364.759,
+    "text": "that was developed at the dawn of civilization, and work our way through everything one would",
+    "textdich": ""
+  },
+  {
+    "start": 364.759,
+    "end": 370.77,
+    "text": "learn in high school, and most of an undergraduate mathematics education.",
+    "textdich": ""
+  },
+  {
+    "start": 370.77,
+    "end": 376.1,
+    "text": "Watch all the way to the end, or bail when you feel like you’re in over your head.",
+    "textdich": ""
+  },
+  {
+    "start": 376.1,
+    "end": 379.86,
+    "text": "Either way, I bet you’ll get farther than you thought you could.",
+    "textdich": ""
+  },
+  {
+    "start": 379.86,
+    "end": 382.82,
+    "text": "So grab a pencil, and let’s learn some math.",
+    "textdich": ""
+  }
+]
