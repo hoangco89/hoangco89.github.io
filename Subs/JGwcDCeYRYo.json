@@ -1,0 +1,782 @@
+[
+  {
+    "start": 3.84,
+    "end": 8.16,
+    "text": "the most essential thing to learn from",
+    "textdich": ""
+  },
+  {
+    "start": 5.44,
+    "end": 10.48,
+    "text": "this video is that energy is never",
+    "textdich": ""
+  },
+  {
+    "start": 8.16,
+    "end": 12.799,
+    "text": "created or destroyed",
+    "textdich": ""
+  },
+  {
+    "start": 10.48,
+    "end": 14.92,
+    "text": "it's only ever transferred between",
+    "textdich": ""
+  },
+  {
+    "start": 12.799,
+    "end": 17.76,
+    "text": "different forms and",
+    "textdich": ""
+  },
+  {
+    "start": 14.92,
+    "end": 19.439,
+    "text": "objects this principle underlies loads",
+    "textdich": ""
+  },
+  {
+    "start": 17.76,
+    "end": 21.119,
+    "text": "of the physics course",
+    "textdich": ""
+  },
+  {
+    "start": 19.439,
+    "end": 24.0,
+    "text": "but today we're just going to look at",
+    "textdich": ""
+  },
+  {
+    "start": 21.119,
+    "end": 26.4,
+    "text": "the different forms that energy can take",
+    "textdich": ""
+  },
+  {
+    "start": 24.0,
+    "end": 30.64,
+    "text": "how energy moves between them",
+    "textdich": ""
+  },
+  {
+    "start": 26.4,
+    "end": 32.48,
+    "text": "and what we mean by the term work done",
+    "textdich": ""
+  },
+  {
+    "start": 30.64,
+    "end": 35.04,
+    "text": "whenever energy is transferred to an",
+    "textdich": ""
+  },
+  {
+    "start": 32.48,
+    "end": 37.44,
+    "text": "object the energy is stored in one of",
+    "textdich": ""
+  },
+  {
+    "start": 35.04,
+    "end": 38.879,
+    "text": "that object's energy stools",
+    "textdich": ""
+  },
+  {
+    "start": 37.44,
+    "end": 39.84,
+    "text": "we take a look at each of them in other",
+    "textdich": ""
+  },
+  {
+    "start": 38.879,
+    "end": 41.92,
+    "text": "videos",
+    "textdich": ""
+  },
+  {
+    "start": 39.84,
+    "end": 44.559,
+    "text": "but to give you a basic idea",
+    "textdich": ""
+  },
+  {
+    "start": 41.92,
+    "end": 46.559,
+    "text": "there's thermal or internal energy which",
+    "textdich": ""
+  },
+  {
+    "start": 44.559,
+    "end": 48.8,
+    "text": "is basically the heat energy trapped",
+    "textdich": ""
+  },
+  {
+    "start": 46.559,
+    "end": 51.28,
+    "text": "within an object and is related to the",
+    "textdich": ""
+  },
+  {
+    "start": 48.8,
+    "end": 53.76,
+    "text": "temperature of that object",
+    "textdich": ""
+  },
+  {
+    "start": 51.28,
+    "end": 56.879,
+    "text": "kinetic energy which is associated with",
+    "textdich": ""
+  },
+  {
+    "start": 53.76,
+    "end": 59.199,
+    "text": "the movement or motion of an object",
+    "textdich": ""
+  },
+  {
+    "start": 56.879,
+    "end": 61.44,
+    "text": "gravitational potential energy which is",
+    "textdich": ""
+  },
+  {
+    "start": 59.199,
+    "end": 62.8,
+    "text": "the energy that an object possesses",
+    "textdich": ""
+  },
+  {
+    "start": 61.44,
+    "end": 65.439,
+    "text": "because of its position in a",
+    "textdich": ""
+  },
+  {
+    "start": 62.8,
+    "end": 67.68,
+    "text": "gravitational field",
+    "textdich": ""
+  },
+  {
+    "start": 65.439,
+    "end": 69.6,
+    "text": "elastic potential energy such as the",
+    "textdich": ""
+  },
+  {
+    "start": 67.68,
+    "end": 71.52,
+    "text": "energy held in an already stretched",
+    "textdich": ""
+  },
+  {
+    "start": 69.6,
+    "end": 73.28,
+    "text": "spring",
+    "textdich": ""
+  },
+  {
+    "start": 71.52,
+    "end": 75.28,
+    "text": "chemical energy which is held in",
+    "textdich": ""
+  },
+  {
+    "start": 73.28,
+    "end": 77.52,
+    "text": "chemical bonds",
+    "textdich": ""
+  },
+  {
+    "start": 75.28,
+    "end": 79.68,
+    "text": "magnetic energy which is what holds",
+    "textdich": ""
+  },
+  {
+    "start": 77.52,
+    "end": 81.92,
+    "text": "magnets to your fridge",
+    "textdich": ""
+  },
+  {
+    "start": 79.68,
+    "end": 83.439,
+    "text": "electrostatic energy which is what",
+    "textdich": ""
+  },
+  {
+    "start": 81.92,
+    "end": 84.88,
+    "text": "occasionally gives you a shock when you",
+    "textdich": ""
+  },
+  {
+    "start": 83.439,
+    "end": 87.28,
+    "text": "touch your car",
+    "textdich": ""
+  },
+  {
+    "start": 84.88,
+    "end": 90.96,
+    "text": "and finally nuclear energy which is what",
+    "textdich": ""
+  },
+  {
+    "start": 87.28,
+    "end": 90.96,
+    "text": "we get from breaking atoms apart",
+    "textdich": ""
+  },
+  {
+    "start": 91.04,
+    "end": 96.32,
+    "text": "now the key idea is that the energy in",
+    "textdich": ""
+  },
+  {
+    "start": 93.439,
+    "end": 98.4,
+    "text": "each of these stores isn't fixed",
+    "textdich": ""
+  },
+  {
+    "start": 96.32,
+    "end": 101.56,
+    "text": "instead it can be transferred from one",
+    "textdich": ""
+  },
+  {
+    "start": 98.4,
+    "end": 101.56,
+    "text": "to another",
+    "textdich": ""
+  },
+  {
+    "start": 101.6,
+    "end": 106.96,
+    "text": "this could be done mechanically such as",
+    "textdich": ""
+  },
+  {
+    "start": 103.68,
+    "end": 109.119,
+    "text": "physically stretching an elastic band",
+    "textdich": ""
+  },
+  {
+    "start": 106.96,
+    "end": 111.04,
+    "text": "electrically such as plugging something",
+    "textdich": ""
+  },
+  {
+    "start": 109.119,
+    "end": 112.64,
+    "text": "into a socket",
+    "textdich": ""
+  },
+  {
+    "start": 111.04,
+    "end": 114.479,
+    "text": "by heating",
+    "textdich": ""
+  },
+  {
+    "start": 112.64,
+    "end": 118.64,
+    "text": "or by radiation",
+    "textdich": ""
+  },
+  {
+    "start": 114.479,
+    "end": 118.64,
+    "text": "like light or sound waves",
+    "textdich": ""
+  },
+  {
+    "start": 120.399,
+    "end": 124.799,
+    "text": "when we consider a particular object or",
+    "textdich": ""
+  },
+  {
+    "start": 122.88,
+    "end": 127.2,
+    "text": "group of objects we can call the",
+    "textdich": ""
+  },
+  {
+    "start": 124.799,
+    "end": 128.8,
+    "text": "collection of matter a system",
+    "textdich": ""
+  },
+  {
+    "start": 127.2,
+    "end": 130.879,
+    "text": "which is just the fancy term that you",
+    "textdich": ""
+  },
+  {
+    "start": 128.8,
+    "end": 133.12,
+    "text": "need to use in physics",
+    "textdich": ""
+  },
+  {
+    "start": 130.879,
+    "end": 134.56,
+    "text": "when the system changes energy is",
+    "textdich": ""
+  },
+  {
+    "start": 133.12,
+    "end": 137.04,
+    "text": "transferred",
+    "textdich": ""
+  },
+  {
+    "start": 134.56,
+    "end": 140.48,
+    "text": "either between objects",
+    "textdich": ""
+  },
+  {
+    "start": 137.04,
+    "end": 140.48,
+    "text": "or between different forms",
+    "textdich": ""
+  },
+  {
+    "start": 140.959,
+    "end": 144.879,
+    "text": "in an open system",
+    "textdich": ""
+  },
+  {
+    "start": 142.48,
+    "end": 147.68,
+    "text": "the matter of the system can exchange",
+    "textdich": ""
+  },
+  {
+    "start": 144.879,
+    "end": 149.76,
+    "text": "energy with the so-called outside world",
+    "textdich": ""
+  },
+  {
+    "start": 147.68,
+    "end": 152.879,
+    "text": "which is just all of the matter that's",
+    "textdich": ""
+  },
+  {
+    "start": 149.76,
+    "end": 155.68,
+    "text": "outside of our system",
+    "textdich": ""
+  },
+  {
+    "start": 152.879,
+    "end": 158.0,
+    "text": "this means that an open system can lose",
+    "textdich": ""
+  },
+  {
+    "start": 155.68,
+    "end": 160.72,
+    "text": "or gain energy as it interacts with the",
+    "textdich": ""
+  },
+  {
+    "start": 158.0,
+    "end": 160.72,
+    "text": "outside world",
+    "textdich": ""
+  },
+  {
+    "start": 161.44,
+    "end": 166.959,
+    "text": "by comparison a closed system is",
+    "textdich": ""
+  },
+  {
+    "start": 164.319,
+    "end": 168.48,
+    "text": "separate from the outside world",
+    "textdich": ""
+  },
+  {
+    "start": 166.959,
+    "end": 172.48,
+    "text": "so neither matter",
+    "textdich": ""
+  },
+  {
+    "start": 168.48,
+    "end": 174.16,
+    "text": "nor energy can enter or leave",
+    "textdich": ""
+  },
+  {
+    "start": 172.48,
+    "end": 176.319,
+    "text": "and so even though energy can be",
+    "textdich": ""
+  },
+  {
+    "start": 174.16,
+    "end": 180.8,
+    "text": "transferred within the system",
+    "textdich": ""
+  },
+  {
+    "start": 176.319,
+    "end": 180.8,
+    "text": "the overall change is always zero",
+    "textdich": ""
+  },
+  {
+    "start": 181.28,
+    "end": 185.12,
+    "text": "to understand how this actually works in",
+    "textdich": ""
+  },
+  {
+    "start": 183.12,
+    "end": 187.519,
+    "text": "practice let's take a look at a couple",
+    "textdich": ""
+  },
+  {
+    "start": 185.12,
+    "end": 189.519,
+    "text": "of examples",
+    "textdich": ""
+  },
+  {
+    "start": 187.519,
+    "end": 191.12,
+    "text": "imagine we have a kettle and we fill it",
+    "textdich": ""
+  },
+  {
+    "start": 189.519,
+    "end": 192.64,
+    "text": "with water",
+    "textdich": ""
+  },
+  {
+    "start": 191.12,
+    "end": 195.04,
+    "text": "when we turn it on",
+    "textdich": ""
+  },
+  {
+    "start": 192.64,
+    "end": 196.64,
+    "text": "electrical energy from the plug socket",
+    "textdich": ""
+  },
+  {
+    "start": 195.04,
+    "end": 197.76,
+    "text": "flows to the heating element of the",
+    "textdich": ""
+  },
+  {
+    "start": 196.64,
+    "end": 200.319,
+    "text": "kettle",
+    "textdich": ""
+  },
+  {
+    "start": 197.76,
+    "end": 202.319,
+    "text": "where is transferred electrically",
+    "textdich": ""
+  },
+  {
+    "start": 200.319,
+    "end": 204.56,
+    "text": "to the thermal energy store of the",
+    "textdich": ""
+  },
+  {
+    "start": 202.319,
+    "end": 206.159,
+    "text": "kettle's heating element",
+    "textdich": ""
+  },
+  {
+    "start": 204.56,
+    "end": 208.48,
+    "text": "which basically means that the flow of",
+    "textdich": ""
+  },
+  {
+    "start": 206.159,
+    "end": 210.72,
+    "text": "electricity warms the metal heating",
+    "textdich": ""
+  },
+  {
+    "start": 208.48,
+    "end": 212.72,
+    "text": "element",
+    "textdich": ""
+  },
+  {
+    "start": 210.72,
+    "end": 215.599,
+    "text": "the heating element then in turn",
+    "textdich": ""
+  },
+  {
+    "start": 212.72,
+    "end": 217.68,
+    "text": "transfers the energy over to the water's",
+    "textdich": ""
+  },
+  {
+    "start": 215.599,
+    "end": 219.599,
+    "text": "thermal energy store",
+    "textdich": ""
+  },
+  {
+    "start": 217.68,
+    "end": 220.53,
+    "text": "and after a short while with a boiled",
+    "textdich": ""
+  },
+  {
+    "start": 219.599,
+    "end": 223.599,
+    "text": "kettle",
+    "textdich": ""
+  },
+  {
+    "start": 220.53,
+    "end": 225.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 223.599,
+    "end": 227.599,
+    "text": "another way of saying energy transferred",
+    "textdich": ""
+  },
+  {
+    "start": 225.76,
+    "end": 229.2,
+    "text": "is work done",
+    "textdich": ""
+  },
+  {
+    "start": 227.599,
+    "end": 230.239,
+    "text": "and there are two main types you need to",
+    "textdich": ""
+  },
+  {
+    "start": 229.2,
+    "end": 233.599,
+    "text": "know",
+    "textdich": ""
+  },
+  {
+    "start": 230.239,
+    "end": 236.159,
+    "text": "mechanical and electrical",
+    "textdich": ""
+  },
+  {
+    "start": 233.599,
+    "end": 238.48,
+    "text": "mechanical work done involves using a",
+    "textdich": ""
+  },
+  {
+    "start": 236.159,
+    "end": 241.36,
+    "text": "force to move an object",
+    "textdich": ""
+  },
+  {
+    "start": 238.48,
+    "end": 243.28,
+    "text": "such as kicking a ball up in the air",
+    "textdich": ""
+  },
+  {
+    "start": 241.36,
+    "end": 245.12,
+    "text": "which involves energy from the chemical",
+    "textdich": ""
+  },
+  {
+    "start": 243.28,
+    "end": 247.439,
+    "text": "energy store of your leg",
+    "textdich": ""
+  },
+  {
+    "start": 245.12,
+    "end": 250.239,
+    "text": "being transferred to the kinetic energy",
+    "textdich": ""
+  },
+  {
+    "start": 247.439,
+    "end": 250.239,
+    "text": "store of the ball",
+    "textdich": ""
+  },
+  {
+    "start": 250.56,
+    "end": 255.28,
+    "text": "electrical work on the other hand is",
+    "textdich": ""
+  },
+  {
+    "start": 252.64,
+    "end": 257.199,
+    "text": "done when current flows",
+    "textdich": ""
+  },
+  {
+    "start": 255.28,
+    "end": 259.759,
+    "text": "you can think of this as the energy",
+    "textdich": ""
+  },
+  {
+    "start": 257.199,
+    "end": 262.959,
+    "text": "required to overcome the resistance in",
+    "textdich": ""
+  },
+  {
+    "start": 259.759,
+    "end": 262.959,
+    "text": "the wires of a circuit",
+    "textdich": ""
+  },
+  {
+    "start": 264.479,
+    "end": 268.56,
+    "text": "to put this into practice imagine a",
+    "textdich": ""
+  },
+  {
+    "start": 266.479,
+    "end": 269.84,
+    "text": "train that's about to cross a broken",
+    "textdich": ""
+  },
+  {
+    "start": 268.56,
+    "end": 272.56,
+    "text": "bridge",
+    "textdich": ""
+  },
+  {
+    "start": 269.84,
+    "end": 274.32,
+    "text": "in order to stop it applies the brakes",
+    "textdich": ""
+  },
+  {
+    "start": 272.56,
+    "end": 277.44,
+    "text": "which creates friction between the",
+    "textdich": ""
+  },
+  {
+    "start": 274.32,
+    "end": 280.0,
+    "text": "brakes and the wheels",
+    "textdich": ""
+  },
+  {
+    "start": 277.44,
+    "end": 282.72,
+    "text": "we say that the friction does work as it",
+    "textdich": ""
+  },
+  {
+    "start": 280.0,
+    "end": 284.56,
+    "text": "slows the train down because it causes",
+    "textdich": ""
+  },
+  {
+    "start": 282.72,
+    "end": 285.6,
+    "text": "energy in the wheel's kinetic energy",
+    "textdich": ""
+  },
+  {
+    "start": 284.56,
+    "end": 288.16,
+    "text": "stores",
+    "textdich": ""
+  },
+  {
+    "start": 285.6,
+    "end": 289.919,
+    "text": "to be transferred to the thermal energy",
+    "textdich": ""
+  },
+  {
+    "start": 288.16,
+    "end": 291.84,
+    "text": "stores of the surroundings in the form",
+    "textdich": ""
+  },
+  {
+    "start": 289.919,
+    "end": 296.199,
+    "text": "of heat",
+    "textdich": ""
+  },
+  {
+    "start": 291.84,
+    "end": 296.199,
+    "text": "which will hopefully slow down the train",
+    "textdich": ""
+  },
+  {
+    "start": 298.08,
+    "end": 302.0,
+    "text": "anyway that's all for today so if you",
+    "textdich": ""
+  },
+  {
+    "start": 300.24,
+    "end": 303.12,
+    "text": "enjoyed it then let us know down below",
+    "textdich": ""
+  },
+  {
+    "start": 302.0,
+    "end": 306.919,
+    "text": "in the comments",
+    "textdich": ""
+  },
+  {
+    "start": 303.12,
+    "end": 306.919,
+    "text": "and we'll see you next time",
+    "textdich": ""
+  }
+]
