@@ -1,0 +1,446 @@
+[
+  {
+    "start": 6.64,
+    "end": 11.12,
+    "text": "Now that we’ve studied the one dimensional wave equation, let’s take a look at what can happen",
+    "textdich": ""
+  },
+  {
+    "start": 11.12,
+    "end": 16.88,
+    "text": "when we move to higher dimensions. Whereas the 1D wave equation can be thought of as modeling",
+    "textdich": ""
+  },
+  {
+    "start": 16.88,
+    "end": 23.04,
+    "text": "vibrations of a string, the 2D wave equation can be used to model vibrations of a membrane, like",
+    "textdich": ""
+  },
+  {
+    "start": 23.04,
+    "end": 29.92,
+    "text": "a drum. If we write down the 2D wave equation, we can use separation of variables, and this time, we",
+    "textdich": ""
+  },
+  {
+    "start": 29.92,
+    "end": 37.44,
+    "text": "can separate into a spatial component which we’ll call capital R of x y, and a temporal component,",
+    "textdich": ""
+  },
+  {
+    "start": 37.44,
+    "end": 44.56,
+    "text": "capital T of t. You might recognize our spatial equation is actually the Helmholtz equation, which",
+    "textdich": ""
+  },
+  {
+    "start": 44.56,
+    "end": 50.16,
+    "text": "we briefly mentioned in the tutorial on Laplace’s equation. When we solve each of these with the",
+    "textdich": ""
+  },
+  {
+    "start": 50.16,
+    "end": 56.64,
+    "text": "conditions of the displacement u being zero on the boundary of a rectangle of width L and height H,",
+    "textdich": ""
+  },
+  {
+    "start": 56.64,
+    "end": 62.64,
+    "text": "we get the following product. Notice that we are now performing a double summation, over two sets",
+    "textdich": ""
+  },
+  {
+    "start": 62.64,
+    "end": 68.56,
+    "text": "of indices, one for the vibrational modes in the x-direction, and one for the y-direction.",
+    "textdich": ""
+  },
+  {
+    "start": 68.56,
+    "end": 74.0,
+    "text": "This greater diversity of mode shapes leads to some interesting patterns, and these vibrational",
+    "textdich": ""
+  },
+  {
+    "start": 74.0,
+    "end": 79.28,
+    "text": "modes can be considered the eigenfunctions of the Laplacian operator. A membrane that",
+    "textdich": ""
+  },
+  {
+    "start": 79.28,
+    "end": 84.88,
+    "text": "is displaced will vibrate in all of these mode shapes to varying degrees, in a similar fashion",
+    "textdich": ""
+  },
+  {
+    "start": 84.88,
+    "end": 91.52,
+    "text": "to the 1D waves on a string we saw previously. Let’s now take a quick look at a variation of",
+    "textdich": ""
+  },
+  {
+    "start": 91.52,
+    "end": 96.64,
+    "text": "the 2D wave equation. This equation doesn’t have a particular name but it does have some",
+    "textdich": ""
+  },
+  {
+    "start": 96.64,
+    "end": 101.76,
+    "text": "very interesting properties. If we take our 2 dimensional membrane and give it some mass and",
+    "textdich": ""
+  },
+  {
+    "start": 101.76,
+    "end": 108.16,
+    "text": "elasticity, such as a solid thin plate made of a strong material, the vibrations in this plate will",
+    "textdich": ""
+  },
+  {
+    "start": 108.16,
+    "end": 113.76,
+    "text": "be modeled by this equation, which comes from something called Kirchhoff-Love plate theory.",
+    "textdich": ""
+  },
+  {
+    "start": 113.76,
+    "end": 119.76,
+    "text": "This is a fourth-order PDE and we can verify that the left side is actually the Laplacian of the",
+    "textdich": ""
+  },
+  {
+    "start": 119.76,
+    "end": 129.2,
+    "text": "Laplacian of u. This Laplacian squared operator is often referred to as the biharmonic operator. Just",
+    "textdich": ""
+  },
+  {
+    "start": 129.2,
+    "end": 134.72,
+    "text": "like the 2D wave equation, the free vibrations of a membrane occur with different modes and",
+    "textdich": ""
+  },
+  {
+    "start": 134.72,
+    "end": 140.96,
+    "text": "nodal lines. The eigenfunctions of the biharmonic operator yield some more interesting patterns,",
+    "textdich": ""
+  },
+  {
+    "start": 140.96,
+    "end": 146.72,
+    "text": "and are best visualized by their nodal lines, which are called Chladni patterns.",
+    "textdich": ""
+  },
+  {
+    "start": 146.72,
+    "end": 152.48,
+    "text": "If you sprinkle some fine sand onto a plate attached to a vibration generator and steadily",
+    "textdich": ""
+  },
+  {
+    "start": 152.48,
+    "end": 157.36,
+    "text": "tweak the vibrational frequency, you will see the sand grains spontaneously arrange",
+    "textdich": ""
+  },
+  {
+    "start": 157.36,
+    "end": 163.28,
+    "text": "themselves into these striking patterns along the nodal lines at certain resonant frequencies,",
+    "textdich": ""
+  },
+  {
+    "start": 163.28,
+    "end": 168.64,
+    "text": "as the sand grains experience forces pushing them away from regions where the vibrations are",
+    "textdich": ""
+  },
+  {
+    "start": 168.64,
+    "end": 173.52,
+    "text": "stronger to where the plate is not moving. Next, let’s move up into three dimensions.",
+    "textdich": ""
+  },
+  {
+    "start": 173.52,
+    "end": 178.8,
+    "text": "In Cartesian coordinates, the analysis is practically identical to the 2D wave equation,",
+    "textdich": ""
+  },
+  {
+    "start": 178.8,
+    "end": 184.64,
+    "text": "just now with a z component and a triple summation over all the vibrational modes. But we can also",
+    "textdich": ""
+  },
+  {
+    "start": 184.64,
+    "end": 189.2,
+    "text": "study waves in spherical coordinates, and this brings some interesting applications",
+    "textdich": ""
+  },
+  {
+    "start": 189.2,
+    "end": 194.72,
+    "text": "in itself. The formula for the Laplacian in spherical coordinates is quite intimidating,",
+    "textdich": ""
+  },
+  {
+    "start": 194.72,
+    "end": 199.84,
+    "text": "but it can be tackled using separation of variables just like before. If we make the",
+    "textdich": ""
+  },
+  {
+    "start": 199.84,
+    "end": 205.84,
+    "text": "choice to keep the two angular components, we end up with three Sturm-Liouville problems:",
+    "textdich": ""
+  },
+  {
+    "start": 205.84,
+    "end": 214.0,
+    "text": "a radial component, an angular component and a temporal component. The temporal component is easy",
+    "textdich": ""
+  },
+  {
+    "start": 214.0,
+    "end": 219.52,
+    "text": "to solve and we will clearly get trigonometric functions. The radial component is a little",
+    "textdich": ""
+  },
+  {
+    "start": 219.52,
+    "end": 224.72,
+    "text": "trickier and it can only be solved with a special function called the spherical Bessel function.",
+    "textdich": ""
+  },
+  {
+    "start": 224.72,
+    "end": 231.04,
+    "text": "The angular component is in itself a PDE. We’re skipping over quite a lot of the algebra here but",
+    "textdich": ""
+  },
+  {
+    "start": 231.04,
+    "end": 237.92,
+    "text": "the solution turns out to be something called the spherical harmonics, denoted Y L m of theta phi,",
+    "textdich": ""
+  },
+  {
+    "start": 237.92,
+    "end": 244.24,
+    "text": "which themselves are defined in terms of another special function called the associated Legendre",
+    "textdich": ""
+  },
+  {
+    "start": 244.24,
+    "end": 249.52,
+    "text": "polynomials. What is probably more interesting than all the equations is what these spherical",
+    "textdich": ""
+  },
+  {
+    "start": 249.52,
+    "end": 254.64,
+    "text": "harmonics look like. As the name implies, spherical harmonics are the spherical version",
+    "textdich": ""
+  },
+  {
+    "start": 254.64,
+    "end": 260.4,
+    "text": "of the wave harmonics we saw in the simpler 1D and 2D cases, and with a little modification",
+    "textdich": ""
+  },
+  {
+    "start": 260.4,
+    "end": 266.24,
+    "text": "for visualization purposes, using distance for magnitude and color for phase, they look like",
+    "textdich": ""
+  },
+  {
+    "start": 266.24,
+    "end": 271.68,
+    "text": "this. For those who know a little chemistry, these shapes should look very familiar - they are the",
+    "textdich": ""
+  },
+  {
+    "start": 271.68,
+    "end": 276.8,
+    "text": "shapes of the atomic orbitals, and this is not a coincidence. The solution to the Schrodinger",
+    "textdich": ""
+  },
+  {
+    "start": 276.8,
+    "end": 281.92,
+    "text": "equation that describes the wavefunction of the electron in the quantum mechanical model of the",
+    "textdich": ""
+  },
+  {
+    "start": 281.92,
+    "end": 287.76,
+    "text": "atom involves finding the angular components of the wave equation in spherical coordinates.",
+    "textdich": ""
+  },
+  {
+    "start": 287.76,
+    "end": 293.28,
+    "text": "The indices L and m, as well as the index n which comes from the radial component,",
+    "textdich": ""
+  },
+  {
+    "start": 293.28,
+    "end": 298.32,
+    "text": "in the context of quantum mechanics, are called quantum numbers, and they determine the different",
+    "textdich": ""
+  },
+  {
+    "start": 298.32,
+    "end": 304.56,
+    "text": "modes of vibration that the electron can be in. Finally, let’s wrap up our discussion of the wave",
+    "textdich": ""
+  },
+  {
+    "start": 304.56,
+    "end": 310.64,
+    "text": "equation with a look at dispersion. Recall that for a 1D wave on a string, the angular velocity",
+    "textdich": ""
+  },
+  {
+    "start": 310.64,
+    "end": 318.0,
+    "text": "omega and the wavenumber k obey the relationship c equals omega over k, where c is the wave speed.",
+    "textdich": ""
+  },
+  {
+    "start": 318.0,
+    "end": 323.84,
+    "text": "In the wave equation, all the waves propagate at the same speed. But we know from daily experience,",
+    "textdich": ""
+  },
+  {
+    "start": 323.84,
+    "end": 328.72,
+    "text": "such as by watching water waves in the ocean approaching a beach, that waves don’t always",
+    "textdich": ""
+  },
+  {
+    "start": 328.72,
+    "end": 333.36,
+    "text": "behave like this. Just because something looks like a wave, it doesn’t mean that it can be",
+    "textdich": ""
+  },
+  {
+    "start": 333.36,
+    "end": 341.28,
+    "text": "modeled by the same wave equation as u x x equals 1 over c squared u t t. Many systems exhibit",
+    "textdich": ""
+  },
+  {
+    "start": 341.28,
+    "end": 346.64,
+    "text": "what is known as dispersion, wherein waves of different wavelengths will propagate at different",
+    "textdich": ""
+  },
+  {
+    "start": 346.64,
+    "end": 352.48,
+    "text": "velocities, and these are usually modeled using more advanced PDEs, such as the third-order",
+    "textdich": ""
+  },
+  {
+    "start": 352.48,
+    "end": 359.76,
+    "text": "wave-like PDE called the KdV equation. For these types of systems, the individual wave crests will",
+    "textdich": ""
+  },
+  {
+    "start": 359.76,
+    "end": 365.28,
+    "text": "propagate at some phase velocity, but if different wavelengths are present in the initial conditions,",
+    "textdich": ""
+  },
+  {
+    "start": 365.28,
+    "end": 370.64,
+    "text": "then the solution will appear to disperse collectively at some different group velocity.",
+    "textdich": ""
+  },
+  {
+    "start": 370.64,
+    "end": 376.4,
+    "text": "The phase velocity is equal to the temporal frequency omega divided by the wavenumber k,",
+    "textdich": ""
+  },
+  {
+    "start": 376.4,
+    "end": 381.44,
+    "text": "or the magnitude of the k vector in higher dimensions, while the group velocity is equal",
+    "textdich": ""
+  },
+  {
+    "start": 381.44,
+    "end": 387.44,
+    "text": "to the derivative of omega with respect to k, given some dispersion relation expressing",
+    "textdich": ""
+  },
+  {
+    "start": 387.44,
+    "end": 392.64,
+    "text": "omega as a function of k. Dispersion tends to occur when we have a system where the wave",
+    "textdich": ""
+  },
+  {
+    "start": 392.64,
+    "end": 398.72,
+    "text": "speed depends on the wavelength, such as beams of white light refracting in a glass prism, with each",
+    "textdich": ""
+  },
+  {
+    "start": 398.72,
+    "end": 403.6,
+    "text": "wavelength having a slightly different refractive index, and therefore traveling with a slightly",
+    "textdich": ""
+  },
+  {
+    "start": 403.6,
+    "end": 409.28,
+    "text": "different phase velocity, splitting the light into the colors of the rainbow. When dispersion results",
+    "textdich": ""
+  },
+  {
+    "start": 409.28,
+    "end": 415.2,
+    "text": "in crests propagating at their own individual phase velocities for enough time that they become",
+    "textdich": ""
+  },
+  {
+    "start": 415.2,
+    "end": 422.56,
+    "text": "isolated from the other crests in the group, we call these self-stabilized crests solitons, and",
+    "textdich": ""
+  },
+  {
+    "start": 422.56,
+    "end": 428.64,
+    "text": "these can only be found as solutions to nonlinear wavelike PDEs, where the superposition principle",
+    "textdich": ""
+  },
+  {
+    "start": 428.64,
+    "end": 434.32,
+    "text": "does not apply. That concludes our investigation of the wave equation and wave-like systems.",
+    "textdich": ""
+  },
+  {
+    "start": 434.32,
+    "end": 458.8,
+    "text": "There’s just one more major PDE to look at, but before we move on, let’s check comprehension.",
+    "textdich": ""
+  }
+]
