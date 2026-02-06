@@ -1,0 +1,92 @@
+[
+  {
+    "start": 1.5899999999999999,
+    "end": 7.269,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 7.44,
+    "end": 10.87,
+    "text": "this intersection has two left turn",
+    "textdich": ""
+  },
+  {
+    "start": 10.08,
+    "end": 12.559,
+    "text": "lanes",
+    "textdich": ""
+  },
+  {
+    "start": 10.87,
+    "end": 15.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 12.559,
+    "end": 17.44,
+    "text": "a dashed line separates the lanes going",
+    "textdich": ""
+  },
+  {
+    "start": 15.28,
+    "end": 20.08,
+    "text": "through the intersection",
+    "textdich": ""
+  },
+  {
+    "start": 17.44,
+    "end": 21.279,
+    "text": "when the red arrow traffic light changes",
+    "textdich": ""
+  },
+  {
+    "start": 20.08,
+    "end": 23.519,
+    "text": "to green",
+    "textdich": ""
+  },
+  {
+    "start": 21.279,
+    "end": 26.4,
+    "text": "follow the dashed line while verifying",
+    "textdich": ""
+  },
+  {
+    "start": 23.519,
+    "end": 27.599,
+    "text": "the car next to you stays on their side",
+    "textdich": ""
+  },
+  {
+    "start": 26.4,
+    "end": 30.0,
+    "text": "of the line",
+    "textdich": ""
+  },
+  {
+    "start": 27.599,
+    "end": 32.8,
+    "text": "making a gradual arc along the dashed",
+    "textdich": ""
+  },
+  {
+    "start": 30.0,
+    "end": 35.09,
+    "text": "line provides a smooth turn to the new",
+    "textdich": ""
+  },
+  {
+    "start": 32.8,
+    "end": 42.859,
+    "text": "street",
+    "textdich": ""
+  },
+  {
+    "start": 35.09,
+    "end": 42.859,
+    "text": "",
+    "textdich": ""
+  }
+]
