@@ -1,0 +1,1658 @@
+[
+  {
+    "start": 0.16,
+    "end": 5.759,
+    "text": "Hello everyone and welcome to this task.",
+    "textdich": ""
+  },
+  {
+    "start": 2.8,
+    "end": 7.359,
+    "text": "Let's go ahead and explore hugging face.",
+    "textdich": ""
+  },
+  {
+    "start": 5.759,
+    "end": 9.12,
+    "text": "So the first question is what do you",
+    "textdich": ""
+  },
+  {
+    "start": 7.359,
+    "end": 11.44,
+    "text": "even mean by that? It's a really cool",
+    "textdich": ""
+  },
+  {
+    "start": 9.12,
+    "end": 14.0,
+    "text": "name by the way. So hugging face has",
+    "textdich": ""
+  },
+  {
+    "start": 11.44,
+    "end": 16.64,
+    "text": "become a central hub for the machine",
+    "textdich": ""
+  },
+  {
+    "start": 14.0,
+    "end": 19.359,
+    "text": "learning community especially for large",
+    "textdich": ""
+  },
+  {
+    "start": 16.64,
+    "end": 22.96,
+    "text": "language models and natural language",
+    "textdich": ""
+  },
+  {
+    "start": 19.359,
+    "end": 26.88,
+    "text": "processing or NLP. On hugging face you",
+    "textdich": ""
+  },
+  {
+    "start": 22.96,
+    "end": 29.519,
+    "text": "can find a ton of pre-trained models.",
+    "textdich": ""
+  },
+  {
+    "start": 26.88,
+    "end": 32.16,
+    "text": "you will find a ton of data sets and you",
+    "textdich": ""
+  },
+  {
+    "start": 29.519,
+    "end": 34.079,
+    "text": "will find what we call it spaces. So",
+    "textdich": ""
+  },
+  {
+    "start": 32.16,
+    "end": 36.559,
+    "text": "when it comes to models, you will find",
+    "textdich": ""
+  },
+  {
+    "start": 34.079,
+    "end": 38.96,
+    "text": "thousands of pre-trained models for",
+    "textdich": ""
+  },
+  {
+    "start": 36.559,
+    "end": 40.8,
+    "text": "various tasks. If you want if you're",
+    "textdich": ""
+  },
+  {
+    "start": 38.96,
+    "end": 44.0,
+    "text": "looking for models for let's say text",
+    "textdich": ""
+  },
+  {
+    "start": 40.8,
+    "end": 46.239,
+    "text": "generation, for translation, for image",
+    "textdich": ""
+  },
+  {
+    "start": 44.0,
+    "end": 48.239,
+    "text": "classification and so on. It is",
+    "textdich": ""
+  },
+  {
+    "start": 46.239,
+    "end": 50.719,
+    "text": "unbelievable and I'm going to visit it",
+    "textdich": ""
+  },
+  {
+    "start": 48.239,
+    "end": 52.8,
+    "text": "right now. Uh we also have a ton of data",
+    "textdich": ""
+  },
+  {
+    "start": 50.719,
+    "end": 55.6,
+    "text": "sets as well. So it has a vast",
+    "textdich": ""
+  },
+  {
+    "start": 52.8,
+    "end": 58.16,
+    "text": "collection of data sets that you can use",
+    "textdich": ""
+  },
+  {
+    "start": 55.6,
+    "end": 61.12,
+    "text": "to train and evaluate your machine",
+    "textdich": ""
+  },
+  {
+    "start": 58.16,
+    "end": 64.239,
+    "text": "learning models and we also have spaces",
+    "textdich": ""
+  },
+  {
+    "start": 61.12,
+    "end": 67.36,
+    "text": "and these are demos of AI models hosted",
+    "textdich": ""
+  },
+  {
+    "start": 64.239,
+    "end": 70.0,
+    "text": "on hugging face infrastructure. Think of",
+    "textdich": ""
+  },
+  {
+    "start": 67.36,
+    "end": 72.24,
+    "text": "it as little gradu apps that are running",
+    "textdich": ""
+  },
+  {
+    "start": 70.0,
+    "end": 73.68,
+    "text": "and you're able to use them right away.",
+    "textdich": ""
+  },
+  {
+    "start": 72.24,
+    "end": 76.32,
+    "text": "And let's go ahead and actually show you",
+    "textdich": ""
+  },
+  {
+    "start": 73.68,
+    "end": 78.4,
+    "text": "a few examples. So I included a link",
+    "textdich": ""
+  },
+  {
+    "start": 76.32,
+    "end": 80.72,
+    "text": "here for you to go ahead and visit",
+    "textdich": ""
+  },
+  {
+    "start": 78.4,
+    "end": 83.439,
+    "text": "hugging face. And once you open hugging",
+    "textdich": ""
+  },
+  {
+    "start": 80.72,
+    "end": 86.799,
+    "text": "face, you'll be directed to this what we",
+    "textdich": ""
+  },
+  {
+    "start": 83.439,
+    "end": 88.72,
+    "text": "call it hub. Here you have models. So if",
+    "textdich": ""
+  },
+  {
+    "start": 86.799,
+    "end": 93.04,
+    "text": "you click here, you will be having",
+    "textdich": ""
+  },
+  {
+    "start": 88.72,
+    "end": 95.6,
+    "text": "access to a brain store I call it. So",
+    "textdich": ""
+  },
+  {
+    "start": 93.04,
+    "end": 99.2,
+    "text": "you have a store where you have tons of",
+    "textdich": ""
+  },
+  {
+    "start": 95.6,
+    "end": 102.4,
+    "text": "brains that are have been pre-trained to",
+    "textdich": ""
+  },
+  {
+    "start": 99.2,
+    "end": 105.28,
+    "text": "perform multiple tasks and they are",
+    "textdich": ""
+  },
+  {
+    "start": 102.4,
+    "end": 107.84,
+    "text": "readily available for you. There are 1.6",
+    "textdich": ""
+  },
+  {
+    "start": 105.28,
+    "end": 111.04,
+    "text": "million models available right now. It's",
+    "textdich": ""
+  },
+  {
+    "start": 107.84,
+    "end": 113.68,
+    "text": "like 1.6 6 million intelligent models",
+    "textdich": ""
+  },
+  {
+    "start": 111.04,
+    "end": 115.68,
+    "text": "available just for you. Just go and play",
+    "textdich": ""
+  },
+  {
+    "start": 113.68,
+    "end": 117.439,
+    "text": "around with them, which is unbelievable",
+    "textdich": ""
+  },
+  {
+    "start": 115.68,
+    "end": 119.52,
+    "text": "if you think about it. If you click",
+    "textdich": ""
+  },
+  {
+    "start": 117.439,
+    "end": 121.84,
+    "text": "here, you will find data sets. So here",
+    "textdich": ""
+  },
+  {
+    "start": 119.52,
+    "end": 124.479,
+    "text": "we have around 370,000",
+    "textdich": ""
+  },
+  {
+    "start": 121.84,
+    "end": 126.32,
+    "text": "data sets around everything. If you want",
+    "textdich": ""
+  },
+  {
+    "start": 124.479,
+    "end": 128.399,
+    "text": "to do text, if you want to do audio, if",
+    "textdich": ""
+  },
+  {
+    "start": 126.32,
+    "end": 130.08,
+    "text": "you want to do 3D images and so on. So",
+    "textdich": ""
+  },
+  {
+    "start": 128.399,
+    "end": 132.08,
+    "text": "if you have any project around any",
+    "textdich": ""
+  },
+  {
+    "start": 130.08,
+    "end": 134.64,
+    "text": "topic, you can go ahead and search the",
+    "textdich": ""
+  },
+  {
+    "start": 132.08,
+    "end": 137.92,
+    "text": "data sets. What we have as well is we",
+    "textdich": ""
+  },
+  {
+    "start": 134.64,
+    "end": 140.48,
+    "text": "have spaces and these are basically apps",
+    "textdich": ""
+  },
+  {
+    "start": 137.92,
+    "end": 142.56,
+    "text": "that are running on hugging face",
+    "textdich": ""
+  },
+  {
+    "start": 140.48,
+    "end": 145.04,
+    "text": "infrastructure and you will be able to",
+    "textdich": ""
+  },
+  {
+    "start": 142.56,
+    "end": 146.959,
+    "text": "go ahead run one of these and explore",
+    "textdich": ""
+  },
+  {
+    "start": 145.04,
+    "end": 149.76,
+    "text": "them. So let's go ahead and actually",
+    "textdich": ""
+  },
+  {
+    "start": 146.959,
+    "end": 152.4,
+    "text": "explore some of these models. So if I go",
+    "textdich": ""
+  },
+  {
+    "start": 149.76,
+    "end": 154.8,
+    "text": "to the models here on the left hand side",
+    "textdich": ""
+  },
+  {
+    "start": 152.4,
+    "end": 157.2,
+    "text": "you will see there are different uh",
+    "textdich": ""
+  },
+  {
+    "start": 154.8,
+    "end": 160.0,
+    "text": "tasks kind of they are grouped according",
+    "textdich": ""
+  },
+  {
+    "start": 157.2,
+    "end": 161.599,
+    "text": "to their use case. For example we have",
+    "textdich": ""
+  },
+  {
+    "start": 160.0,
+    "end": 165.04,
+    "text": "multimodal.",
+    "textdich": ""
+  },
+  {
+    "start": 161.599,
+    "end": 167.36,
+    "text": "So we have audio text uh to text. We",
+    "textdich": ""
+  },
+  {
+    "start": 165.04,
+    "end": 168.959,
+    "text": "have image text to text. You can also",
+    "textdich": ""
+  },
+  {
+    "start": 167.36,
+    "end": 170.8,
+    "text": "see if you are looking for computer",
+    "textdich": ""
+  },
+  {
+    "start": 168.959,
+    "end": 172.959,
+    "text": "vision applications. If you'd like to",
+    "textdich": ""
+  },
+  {
+    "start": 170.8,
+    "end": 176.0,
+    "text": "develop let's say self-driving vehicles,",
+    "textdich": ""
+  },
+  {
+    "start": 172.959,
+    "end": 178.48,
+    "text": "autonomous cars, you can find models",
+    "textdich": ""
+  },
+  {
+    "start": 176.0,
+    "end": 181.76,
+    "text": "here around object detection, image",
+    "textdich": ""
+  },
+  {
+    "start": 178.48,
+    "end": 184.48,
+    "text": "classification, image segmentation,",
+    "textdich": ""
+  },
+  {
+    "start": 181.76,
+    "end": 187.84,
+    "text": "video classification and again the sky's",
+    "textdich": ""
+  },
+  {
+    "start": 184.48,
+    "end": 190.319,
+    "text": "is the limit here. You'll also find um",
+    "textdich": ""
+  },
+  {
+    "start": 187.84,
+    "end": 193.519,
+    "text": "models as well related to natural",
+    "textdich": ""
+  },
+  {
+    "start": 190.319,
+    "end": 195.04,
+    "text": "language processing or NLP. And if you",
+    "textdich": ""
+  },
+  {
+    "start": 193.519,
+    "end": 197.12,
+    "text": "would like to do translation, if you",
+    "textdich": ""
+  },
+  {
+    "start": 195.04,
+    "end": 198.64,
+    "text": "would like to do text classification and",
+    "textdich": ""
+  },
+  {
+    "start": 197.12,
+    "end": 200.4,
+    "text": "if you want to do pretty much anything,",
+    "textdich": ""
+  },
+  {
+    "start": 198.64,
+    "end": 202.959,
+    "text": "you can go ahead and explore these",
+    "textdich": ""
+  },
+  {
+    "start": 200.4,
+    "end": 205.519,
+    "text": "models. There's also audio and there is",
+    "textdich": ""
+  },
+  {
+    "start": 202.959,
+    "end": 207.28,
+    "text": "also table information as well and some",
+    "textdich": ""
+  },
+  {
+    "start": 205.519,
+    "end": 209.44,
+    "text": "applications around robotics and",
+    "textdich": ""
+  },
+  {
+    "start": 207.28,
+    "end": 211.2,
+    "text": "reinforcement learning. Okay, so let's",
+    "textdich": ""
+  },
+  {
+    "start": 209.44,
+    "end": 213.599,
+    "text": "maybe explore a few of those. Let's",
+    "textdich": ""
+  },
+  {
+    "start": 211.2,
+    "end": 215.84,
+    "text": "assume I would like to do let's say text",
+    "textdich": ""
+  },
+  {
+    "start": 213.599,
+    "end": 219.04,
+    "text": "generation. So if you go ahead and click",
+    "textdich": ""
+  },
+  {
+    "start": 215.84,
+    "end": 222.56,
+    "text": "on text generation, you will find here a",
+    "textdich": ""
+  },
+  {
+    "start": 219.04,
+    "end": 226.799,
+    "text": "ton of opensource models available for",
+    "textdich": ""
+  },
+  {
+    "start": 222.56,
+    "end": 229.519,
+    "text": "you for free which is unbelievable. So",
+    "textdich": ""
+  },
+  {
+    "start": 226.799,
+    "end": 232.64,
+    "text": "what you see here is Quen model and this",
+    "textdich": ""
+  },
+  {
+    "start": 229.519,
+    "end": 235.599,
+    "text": "Quen model is by um research team by",
+    "textdich": ""
+  },
+  {
+    "start": 232.64,
+    "end": 238.48,
+    "text": "Alibaba. It's a Chinese basically model",
+    "textdich": ""
+  },
+  {
+    "start": 235.599,
+    "end": 240.56,
+    "text": "and it has been unbelievable. It's",
+    "textdich": ""
+  },
+  {
+    "start": 238.48,
+    "end": 243.439,
+    "text": "extremely powerful. You'll be able you",
+    "textdich": ""
+  },
+  {
+    "start": 240.56,
+    "end": 245.84,
+    "text": "will be able as well to see here deep",
+    "textdich": ""
+  },
+  {
+    "start": 243.439,
+    "end": 248.72,
+    "text": "seek as well as as one of the models.",
+    "textdich": ""
+  },
+  {
+    "start": 245.84,
+    "end": 252.08,
+    "text": "This is quen 3 and when you see 32b that",
+    "textdich": ""
+  },
+  {
+    "start": 248.72,
+    "end": 254.959,
+    "text": "means it has 32 billion parameters. That",
+    "textdich": ""
+  },
+  {
+    "start": 252.08,
+    "end": 257.84,
+    "text": "means the weights or neural connections",
+    "textdich": ""
+  },
+  {
+    "start": 254.959,
+    "end": 259.759,
+    "text": "in that model is 32 billion. Just",
+    "textdich": ""
+  },
+  {
+    "start": 257.84,
+    "end": 261.759,
+    "text": "imagine the number. So let's go ahead",
+    "textdich": ""
+  },
+  {
+    "start": 259.759,
+    "end": 264.88,
+    "text": "and maybe try one of these. If you click",
+    "textdich": ""
+  },
+  {
+    "start": 261.759,
+    "end": 267.04,
+    "text": "on deepsek here, if you click on it, you",
+    "textdich": ""
+  },
+  {
+    "start": 264.88,
+    "end": 269.04,
+    "text": "will be able to see the model card. This",
+    "textdich": ""
+  },
+  {
+    "start": 267.04,
+    "end": 271.44,
+    "text": "is kind of just a one pager that shows",
+    "textdich": ""
+  },
+  {
+    "start": 269.04,
+    "end": 273.04,
+    "text": "you how powerful that model is. You'll",
+    "textdich": ""
+  },
+  {
+    "start": 271.44,
+    "end": 275.44,
+    "text": "be able to see the performance of the",
+    "textdich": ""
+  },
+  {
+    "start": 273.04,
+    "end": 278.16,
+    "text": "model as compared to others. You'll find",
+    "textdich": ""
+  },
+  {
+    "start": 275.44,
+    "end": 280.0,
+    "text": "a model summary here, how it was",
+    "textdich": ""
+  },
+  {
+    "start": 278.16,
+    "end": 283.36,
+    "text": "trained. And you should be able to see",
+    "textdich": ""
+  },
+  {
+    "start": 280.0,
+    "end": 285.759,
+    "text": "as well the um the benchmarks, how it",
+    "textdich": ""
+  },
+  {
+    "start": 283.36,
+    "end": 287.52,
+    "text": "was actually assessed or kind of the",
+    "textdich": ""
+  },
+  {
+    "start": 285.759,
+    "end": 289.6,
+    "text": "performance of that model across various",
+    "textdich": ""
+  },
+  {
+    "start": 287.52,
+    "end": 290.96,
+    "text": "benchmarks. And what you could do as",
+    "textdich": ""
+  },
+  {
+    "start": 289.6,
+    "end": 292.56,
+    "text": "well is you can actually go ahead and",
+    "textdich": ""
+  },
+  {
+    "start": 290.96,
+    "end": 294.72,
+    "text": "play around with the model as well. So",
+    "textdich": ""
+  },
+  {
+    "start": 292.56,
+    "end": 297.04,
+    "text": "now I can go ahead and give it a try and",
+    "textdich": ""
+  },
+  {
+    "start": 294.72,
+    "end": 299.199,
+    "text": "I want you to please go ahead and test",
+    "textdich": ""
+  },
+  {
+    "start": 297.04,
+    "end": 301.6,
+    "text": "it out as well. Now you can go ahead and",
+    "textdich": ""
+  },
+  {
+    "start": 299.199,
+    "end": 304.32,
+    "text": "maybe ask a question. For example, I",
+    "textdich": ""
+  },
+  {
+    "start": 301.6,
+    "end": 309.68,
+    "text": "would say let's say explain how let's",
+    "textdich": ""
+  },
+  {
+    "start": 304.32,
+    "end": 311.12,
+    "text": "say the internet works in a funny way.",
+    "textdich": ""
+  },
+  {
+    "start": 309.68,
+    "end": 312.56,
+    "text": "Let's go ahead and see. So now if I",
+    "textdich": ""
+  },
+  {
+    "start": 311.12,
+    "end": 314.56,
+    "text": "click run and here we go. So now she'll",
+    "textdich": ""
+  },
+  {
+    "start": 312.56,
+    "end": 316.24,
+    "text": "be able to see and you will find that",
+    "textdich": ""
+  },
+  {
+    "start": 314.56,
+    "end": 318.4,
+    "text": "deepseek models are really powerful",
+    "textdich": ""
+  },
+  {
+    "start": 316.24,
+    "end": 320.32,
+    "text": "because they can show you how they are",
+    "textdich": ""
+  },
+  {
+    "start": 318.4,
+    "end": 321.919,
+    "text": "thinking their reasoning ability behind",
+    "textdich": ""
+  },
+  {
+    "start": 320.32,
+    "end": 322.96,
+    "text": "the scenes. And here we go. So now",
+    "textdich": ""
+  },
+  {
+    "start": 321.919,
+    "end": 324.8,
+    "text": "should be able to see imagine the",
+    "textdich": ""
+  },
+  {
+    "start": 322.96,
+    "end": 326.8,
+    "text": "internet as a gigantic magical library",
+    "textdich": ""
+  },
+  {
+    "start": 324.8,
+    "end": 328.96,
+    "text": "where instead of books you have websites",
+    "textdich": ""
+  },
+  {
+    "start": 326.8,
+    "end": 330.479,
+    "text": "instead of librarians you have servers",
+    "textdich": ""
+  },
+  {
+    "start": 328.96,
+    "end": 333.44,
+    "text": "and should be able to see as well coming",
+    "textdich": ""
+  },
+  {
+    "start": 330.479,
+    "end": 335.12,
+    "text": "up with the answer here and um you can",
+    "textdich": ""
+  },
+  {
+    "start": 333.44,
+    "end": 337.44,
+    "text": "go ahead of course reset chat and play",
+    "textdich": ""
+  },
+  {
+    "start": 335.12,
+    "end": 340.639,
+    "text": "around with it as an example. Okay. All",
+    "textdich": ""
+  },
+  {
+    "start": 337.44,
+    "end": 343.36,
+    "text": "right. So let's go back to models and",
+    "textdich": ""
+  },
+  {
+    "start": 340.639,
+    "end": 346.0,
+    "text": "you can go ahead if you like to maybe",
+    "textdich": ""
+  },
+  {
+    "start": 343.36,
+    "end": 347.919,
+    "text": "explore another type of models where you",
+    "textdich": ""
+  },
+  {
+    "start": 346.0,
+    "end": 351.199,
+    "text": "wanted to do for example sentiment",
+    "textdich": ""
+  },
+  {
+    "start": 347.919,
+    "end": 354.24,
+    "text": "analysis which is uh classification. So",
+    "textdich": ""
+  },
+  {
+    "start": 351.199,
+    "end": 355.759,
+    "text": "I can go ahead and if you click on text",
+    "textdich": ""
+  },
+  {
+    "start": 354.24,
+    "end": 357.68,
+    "text": "classification",
+    "textdich": ""
+  },
+  {
+    "start": 355.759,
+    "end": 360.08,
+    "text": "that is going to direct you here. There",
+    "textdich": ""
+  },
+  {
+    "start": 357.68,
+    "end": 363.52,
+    "text": "are multiple models available. One of",
+    "textdich": ""
+  },
+  {
+    "start": 360.08,
+    "end": 366.479,
+    "text": "them is what we call it fin which is a",
+    "textdich": ""
+  },
+  {
+    "start": 363.52,
+    "end": 369.28,
+    "text": "model that has been trained to",
+    "textdich": ""
+  },
+  {
+    "start": 366.479,
+    "end": 371.12,
+    "text": "understand finance related information.",
+    "textdich": ""
+  },
+  {
+    "start": 369.28,
+    "end": 373.759,
+    "text": "And now I can basically put a sentence",
+    "textdich": ""
+  },
+  {
+    "start": 371.12,
+    "end": 376.72,
+    "text": "here and then ask it to give me a",
+    "textdich": ""
+  },
+  {
+    "start": 373.759,
+    "end": 378.639,
+    "text": "sentiment. So for example, I can ask it",
+    "textdich": ""
+  },
+  {
+    "start": 376.72,
+    "end": 383.44,
+    "text": "to let's say tell me I will say for",
+    "textdich": ""
+  },
+  {
+    "start": 378.639,
+    "end": 387.4,
+    "text": "example Apple Apple stock dropped let's",
+    "textdich": ""
+  },
+  {
+    "start": 383.44,
+    "end": 387.4,
+    "text": "say 3% today.",
+    "textdich": ""
+  },
+  {
+    "start": 387.52,
+    "end": 392.96,
+    "text": "Okay. So here we go. If I click on",
+    "textdich": ""
+  },
+  {
+    "start": 389.68,
+    "end": 397.039,
+    "text": "compute that is going to basically run",
+    "textdich": ""
+  },
+  {
+    "start": 392.96,
+    "end": 399.52,
+    "text": "the model for us and um it is going to",
+    "textdich": ""
+  },
+  {
+    "start": 397.039,
+    "end": 401.919,
+    "text": "generate a text classification a",
+    "textdich": ""
+  },
+  {
+    "start": 399.52,
+    "end": 403.6,
+    "text": "sentiment basically across uh based on",
+    "textdich": ""
+  },
+  {
+    "start": 401.919,
+    "end": 404.88,
+    "text": "this model. And of course on the left",
+    "textdich": ""
+  },
+  {
+    "start": 403.6,
+    "end": 407.44,
+    "text": "hand side here you should be able to",
+    "textdich": ""
+  },
+  {
+    "start": 404.88,
+    "end": 409.6,
+    "text": "find the description of that model. It's",
+    "textdich": ""
+  },
+  {
+    "start": 407.44,
+    "end": 411.919,
+    "text": "a model that's used to analyze sentiment",
+    "textdich": ""
+  },
+  {
+    "start": 409.6,
+    "end": 414.639,
+    "text": "on financial text and it's built by",
+    "textdich": ""
+  },
+  {
+    "start": 411.919,
+    "end": 417.199,
+    "text": "further um training the bird language",
+    "textdich": ""
+  },
+  {
+    "start": 414.639,
+    "end": 419.759,
+    "text": "model. Again it's taking some time here",
+    "textdich": ""
+  },
+  {
+    "start": 417.199,
+    "end": 422.24,
+    "text": "for this model to run. This took almost",
+    "textdich": ""
+  },
+  {
+    "start": 419.759,
+    "end": 423.759,
+    "text": "30 seconds and you should be able to",
+    "textdich": ""
+  },
+  {
+    "start": 422.24,
+    "end": 426.16,
+    "text": "find as well kind of the company as well",
+    "textdich": ""
+  },
+  {
+    "start": 423.759,
+    "end": 428.479,
+    "text": "or the provider of that model too. All",
+    "textdich": ""
+  },
+  {
+    "start": 426.16,
+    "end": 431.599,
+    "text": "right and here we go. What you see here",
+    "textdich": ""
+  },
+  {
+    "start": 428.479,
+    "end": 433.84,
+    "text": "is it shows a negative sentiment and",
+    "textdich": ""
+  },
+  {
+    "start": 431.599,
+    "end": 437.759,
+    "text": "showing also kind of the score it's",
+    "textdich": ""
+  },
+  {
+    "start": 433.84,
+    "end": 440.08,
+    "text": "confident by almost 96 here 0.96 and",
+    "textdich": ""
+  },
+  {
+    "start": 437.759,
+    "end": 443.039,
+    "text": "you'll find that there is neutral and",
+    "textdich": ""
+  },
+  {
+    "start": 440.08,
+    "end": 446.319,
+    "text": "positive as well at 0.025. 07. So",
+    "textdich": ""
+  },
+  {
+    "start": 443.039,
+    "end": 449.36,
+    "text": "basically this is a negative sentiment.",
+    "textdich": ""
+  },
+  {
+    "start": 446.319,
+    "end": 451.44,
+    "text": "Okay. So if you go back to here. So now",
+    "textdich": ""
+  },
+  {
+    "start": 449.36,
+    "end": 453.44,
+    "text": "we explored a few of these models. Again",
+    "textdich": ""
+  },
+  {
+    "start": 451.44,
+    "end": 455.44,
+    "text": "it's super fun to go and explore all of",
+    "textdich": ""
+  },
+  {
+    "start": 453.44,
+    "end": 457.36,
+    "text": "these. You can go ahead and click on",
+    "textdich": ""
+  },
+  {
+    "start": 455.44,
+    "end": 459.919,
+    "text": "data sets and you should be able to find",
+    "textdich": ""
+  },
+  {
+    "start": 457.36,
+    "end": 461.599,
+    "text": "tons of data sets available. Let's",
+    "textdich": ""
+  },
+  {
+    "start": 459.919,
+    "end": 463.28,
+    "text": "assume that you're doing images for",
+    "textdich": ""
+  },
+  {
+    "start": 461.599,
+    "end": 465.599,
+    "text": "example. You can click on images. You",
+    "textdich": ""
+  },
+  {
+    "start": 463.28,
+    "end": 467.52,
+    "text": "can also see here the size as well. How",
+    "textdich": ""
+  },
+  {
+    "start": 465.599,
+    "end": 469.039,
+    "text": "many rows that are available and you'll",
+    "textdich": ""
+  },
+  {
+    "start": 467.52,
+    "end": 470.56,
+    "text": "be able to go ahead and explore for",
+    "textdich": ""
+  },
+  {
+    "start": 469.039,
+    "end": 472.88,
+    "text": "example if you want to do let's say",
+    "textdich": ""
+  },
+  {
+    "start": 470.56,
+    "end": 474.56,
+    "text": "self-driving cars for example or",
+    "textdich": ""
+  },
+  {
+    "start": 472.88,
+    "end": 476.8,
+    "text": "something along those lines. You can for",
+    "textdich": ""
+  },
+  {
+    "start": 474.56,
+    "end": 479.36,
+    "text": "example look for traffic and you can",
+    "textdich": ""
+  },
+  {
+    "start": 476.8,
+    "end": 482.24,
+    "text": "find tons of data sets available for",
+    "textdich": ""
+  },
+  {
+    "start": 479.36,
+    "end": 484.56,
+    "text": "traffic. Let's say I'm looking for uh",
+    "textdich": ""
+  },
+  {
+    "start": 482.24,
+    "end": 486.639,
+    "text": "traffic sign data sets for example. Now",
+    "textdich": ""
+  },
+  {
+    "start": 484.56,
+    "end": 488.56,
+    "text": "you should be able to see here the data",
+    "textdich": ""
+  },
+  {
+    "start": 486.639,
+    "end": 490.72,
+    "text": "and you should be able to see how many",
+    "textdich": ""
+  },
+  {
+    "start": 488.56,
+    "end": 492.319,
+    "text": "rows and how many columns are included.",
+    "textdich": ""
+  },
+  {
+    "start": 490.72,
+    "end": 494.16,
+    "text": "Of course you can go ahead download that",
+    "textdich": ""
+  },
+  {
+    "start": 492.319,
+    "end": 496.96,
+    "text": "data and use it in your project. All",
+    "textdich": ""
+  },
+  {
+    "start": 494.16,
+    "end": 500.24,
+    "text": "right. So on spaces you will find tons",
+    "textdich": ""
+  },
+  {
+    "start": 496.96,
+    "end": 502.8,
+    "text": "of applications that are running here on",
+    "textdich": ""
+  },
+  {
+    "start": 500.24,
+    "end": 504.72,
+    "text": "hugging face infrastructure and you can",
+    "textdich": ""
+  },
+  {
+    "start": 502.8,
+    "end": 507.12,
+    "text": "go ahead and just leverage all of these",
+    "textdich": ""
+  },
+  {
+    "start": 504.72,
+    "end": 509.12,
+    "text": "apps right away. For example, if you",
+    "textdich": ""
+  },
+  {
+    "start": 507.12,
+    "end": 511.68,
+    "text": "want to have apps related to image",
+    "textdich": ""
+  },
+  {
+    "start": 509.12,
+    "end": 513.919,
+    "text": "generation, video generation, text",
+    "textdich": ""
+  },
+  {
+    "start": 511.68,
+    "end": 516.08,
+    "text": "generation, language translation, and so",
+    "textdich": ""
+  },
+  {
+    "start": 513.919,
+    "end": 518.159,
+    "text": "on. If you go ahead, for example, and",
+    "textdich": ""
+  },
+  {
+    "start": 516.08,
+    "end": 520.56,
+    "text": "select text generation, you should be",
+    "textdich": ""
+  },
+  {
+    "start": 518.159,
+    "end": 523.599,
+    "text": "able to find one model here, which is",
+    "textdich": ""
+  },
+  {
+    "start": 520.56,
+    "end": 525.04,
+    "text": "Quen 332 billion. If you actually click",
+    "textdich": ""
+  },
+  {
+    "start": 523.599,
+    "end": 527.12,
+    "text": "on this one, let's go ahead and maybe",
+    "textdich": ""
+  },
+  {
+    "start": 525.04,
+    "end": 530.0,
+    "text": "explore it. Here we go. Now, we should",
+    "textdich": ""
+  },
+  {
+    "start": 527.12,
+    "end": 532.56,
+    "text": "be able to find this is a chatbot kind",
+    "textdich": ""
+  },
+  {
+    "start": 530.0,
+    "end": 535.44,
+    "text": "of menu available for you. can talk to",
+    "textdich": ""
+  },
+  {
+    "start": 532.56,
+    "end": 538.8,
+    "text": "it. But here you don't really need to",
+    "textdich": ""
+  },
+  {
+    "start": 535.44,
+    "end": 541.36,
+    "text": "pay for the API costs similar to what we",
+    "textdich": ""
+  },
+  {
+    "start": 538.8,
+    "end": 543.36,
+    "text": "have done with chat GPT for example or",
+    "textdich": ""
+  },
+  {
+    "start": 541.36,
+    "end": 545.76,
+    "text": "open AI models because they are closed",
+    "textdich": ""
+  },
+  {
+    "start": 543.36,
+    "end": 547.519,
+    "text": "source. For example, I can say tell me a",
+    "textdich": ""
+  },
+  {
+    "start": 545.76,
+    "end": 549.2,
+    "text": "joke about calculus and now just going",
+    "textdich": ""
+  },
+  {
+    "start": 547.519,
+    "end": 550.56,
+    "text": "to run it and here we go. You'll find",
+    "textdich": ""
+  },
+  {
+    "start": 549.2,
+    "end": 552.24,
+    "text": "okay the user wants to joke about",
+    "textdich": ""
+  },
+  {
+    "start": 550.56,
+    "end": 554.24,
+    "text": "calculus. Let me think. Calculus is a",
+    "textdich": ""
+  },
+  {
+    "start": 552.24,
+    "end": 556.56,
+    "text": "math subject. So maybe I can use some",
+    "textdich": ""
+  },
+  {
+    "start": 554.24,
+    "end": 558.64,
+    "text": "common terms or concepts limits,",
+    "textdich": ""
+  },
+  {
+    "start": 556.56,
+    "end": 560.8,
+    "text": "derivatives, integrals. Oh maybe",
+    "textdich": ""
+  },
+  {
+    "start": 558.64,
+    "end": 563.36,
+    "text": "personify some of these concepts. Okay,",
+    "textdich": ""
+  },
+  {
+    "start": 560.8,
+    "end": 565.76,
+    "text": "pretty cool. And you you will see",
+    "textdich": ""
+  },
+  {
+    "start": 563.36,
+    "end": 567.519,
+    "text": "because these models uh Quen and Deepse",
+    "textdich": ""
+  },
+  {
+    "start": 565.76,
+    "end": 569.68,
+    "text": "seek and so on, they have a strong",
+    "textdich": ""
+  },
+  {
+    "start": 567.519,
+    "end": 571.36,
+    "text": "reasoning ability and you will see that",
+    "textdich": ""
+  },
+  {
+    "start": 569.68,
+    "end": 574.32,
+    "text": "they kind of showing you how they think",
+    "textdich": ""
+  },
+  {
+    "start": 571.36,
+    "end": 577.04,
+    "text": "first. And this is simply a the joke",
+    "textdich": ""
+  },
+  {
+    "start": 574.32,
+    "end": 578.959,
+    "text": "that came up with. And uh why did the",
+    "textdich": ""
+  },
+  {
+    "start": 577.04,
+    "end": 580.48,
+    "text": "derivative go to the comedy club?",
+    "textdich": ""
+  },
+  {
+    "start": 578.959,
+    "end": 582.959,
+    "text": "Because it heard the integral was",
+    "textdich": ""
+  },
+  {
+    "start": 580.48,
+    "end": 585.68,
+    "text": "serving some limits. Okay, but the",
+    "textdich": ""
+  },
+  {
+    "start": 582.959,
+    "end": 589.44,
+    "text": "derivative said I'm just here to devour",
+    "textdich": ""
+  },
+  {
+    "start": 585.68,
+    "end": 591.519,
+    "text": "it. Okay, the punchline. Okay, maybe",
+    "textdich": ""
+  },
+  {
+    "start": 589.44,
+    "end": 593.04,
+    "text": "it's funny, but okay. All right, so",
+    "textdich": ""
+  },
+  {
+    "start": 591.519,
+    "end": 595.68,
+    "text": "that's kind of you got the idea. And",
+    "textdich": ""
+  },
+  {
+    "start": 593.04,
+    "end": 599.12,
+    "text": "that's it. That's pretty much here all I",
+    "textdich": ""
+  },
+  {
+    "start": 595.68,
+    "end": 603.12,
+    "text": "have for uh hugging face. And u if I",
+    "textdich": ""
+  },
+  {
+    "start": 599.12,
+    "end": 605.68,
+    "text": "want to go back to our Jupiter notebook,",
+    "textdich": ""
+  },
+  {
+    "start": 603.12,
+    "end": 607.36,
+    "text": "here we go. So this is just a quick",
+    "textdich": ""
+  },
+  {
+    "start": 605.68,
+    "end": 610.16,
+    "text": "introduction to hugging face. And here I",
+    "textdich": ""
+  },
+  {
+    "start": 607.36,
+    "end": 612.8,
+    "text": "included some additional points or on",
+    "textdich": ""
+  },
+  {
+    "start": 610.16,
+    "end": 615.12,
+    "text": "why do you want to use even open-source",
+    "textdich": ""
+  },
+  {
+    "start": 612.8,
+    "end": 617.76,
+    "text": "models available on hugging face? Well,",
+    "textdich": ""
+  },
+  {
+    "start": 615.12,
+    "end": 619.68,
+    "text": "first control. You run the model",
+    "textdich": ""
+  },
+  {
+    "start": 617.76,
+    "end": 622.16,
+    "text": "yourself. So that will give you more",
+    "textdich": ""
+  },
+  {
+    "start": 619.68,
+    "end": 623.76,
+    "text": "control over the data data privacy and",
+    "textdich": ""
+  },
+  {
+    "start": 622.16,
+    "end": 627.279,
+    "text": "customization.",
+    "textdich": ""
+  },
+  {
+    "start": 623.76,
+    "end": 630.56,
+    "text": "Also cost. Running smaller models can be",
+    "textdich": ""
+  },
+  {
+    "start": 627.279,
+    "end": 634.16,
+    "text": "cheaper than constantly hitting Open",
+    "textdich": ""
+  },
+  {
+    "start": 630.56,
+    "end": 637.12,
+    "text": "AI's paid API as an example. There is",
+    "textdich": ""
+  },
+  {
+    "start": 634.16,
+    "end": 638.959,
+    "text": "also some level of transparency. You can",
+    "textdich": ""
+  },
+  {
+    "start": 637.12,
+    "end": 641.2,
+    "text": "often study the model architecture",
+    "textdich": ""
+  },
+  {
+    "start": 638.959,
+    "end": 642.8,
+    "text": "because you have access to the weights.",
+    "textdich": ""
+  },
+  {
+    "start": 641.2,
+    "end": 645.68,
+    "text": "So now you have access to the model",
+    "textdich": ""
+  },
+  {
+    "start": 642.8,
+    "end": 648.72,
+    "text": "basically. With OpenAI, we don't. With",
+    "textdich": ""
+  },
+  {
+    "start": 645.68,
+    "end": 650.88,
+    "text": "Gemini, for example, we don't community",
+    "textdich": ""
+  },
+  {
+    "start": 648.72,
+    "end": 653.36,
+    "text": "as well. So, you have access to a huge",
+    "textdich": ""
+  },
+  {
+    "start": 650.88,
+    "end": 655.279,
+    "text": "variety of models fine-tuned for",
+    "textdich": ""
+  },
+  {
+    "start": 653.36,
+    "end": 658.0,
+    "text": "specific tasks as I showed you right",
+    "textdich": ""
+  },
+  {
+    "start": 655.279,
+    "end": 659.92,
+    "text": "now. And of course, we have offline use.",
+    "textdich": ""
+  },
+  {
+    "start": 658.0,
+    "end": 662.64,
+    "text": "Once you download that model, you can",
+    "textdich": ""
+  },
+  {
+    "start": 659.92,
+    "end": 665.279,
+    "text": "use it offline and you can even use it",
+    "textdich": ""
+  },
+  {
+    "start": 662.64,
+    "end": 667.36,
+    "text": "without having an internet connection.",
+    "textdich": ""
+  },
+  {
+    "start": 665.279,
+    "end": 669.44,
+    "text": "And with that, that's all I have for",
+    "textdich": ""
+  },
+  {
+    "start": 667.36,
+    "end": 672.959,
+    "text": "this video. I hope you enjoyed it and",
+    "textdich": ""
+  },
+  {
+    "start": 669.44,
+    "end": 672.959,
+    "text": "see you in the next video.",
+    "textdich": ""
+  }
+]
