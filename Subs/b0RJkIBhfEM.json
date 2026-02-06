@@ -1,0 +1,638 @@
+[
+  {
+    "start": 0.52,
+    "end": 2.74,
+    "text": "Professor Dave here, let’s take some integrals.",
+    "textdich": ""
+  },
+  {
+    "start": 9.64,
+    "end": 15.5,
+    "text": "Hopefully we now understand the relationship between differentiation and integration.",
+    "textdich": ""
+  },
+  {
+    "start": 15.51,
+    "end": 21.34,
+    "text": "These are inverse operations, in the sense that integration requires taking the antiderivative",
+    "textdich": ""
+  },
+  {
+    "start": 21.34,
+    "end": 22.59,
+    "text": "of a function.",
+    "textdich": ""
+  },
+  {
+    "start": 22.59,
+    "end": 28.55,
+    "text": "For basic functions, this is easy to do, but it gets extremely complicated as the functions",
+    "textdich": ""
+  },
+  {
+    "start": 28.55,
+    "end": 33.57,
+    "text": "get more complex, and we will have to learn a number of different strategies to tackle",
+    "textdich": ""
+  },
+  {
+    "start": 33.57,
+    "end": 34.98,
+    "text": "the tougher ones.",
+    "textdich": ""
+  },
+  {
+    "start": 34.98,
+    "end": 36.14,
+    "text": "But that will come later.",
+    "textdich": ""
+  },
+  {
+    "start": 36.14,
+    "end": 43.48,
+    "text": "For now, let’s just go over a few properties of integrals, and then try some simple examples.",
+    "textdich": ""
+  },
+  {
+    "start": 43.48,
+    "end": 48.96,
+    "text": "As we said, it will be a good idea to quickly highlight some important properties of definite integrals.",
+    "textdich": ""
+  },
+  {
+    "start": 49.02,
+    "end": 55.76,
+    "text": "First, if we have some integral of f of x dx, over the interval from a to b, then if",
+    "textdich": ""
+  },
+  {
+    "start": 55.769,
+    "end": 61.809,
+    "text": "we switch the limits of integration, integrating instead from b to a, this will be the same",
+    "textdich": ""
+  },
+  {
+    "start": 61.809,
+    "end": 64.57,
+    "text": "as the first integral but negative.",
+    "textdich": ""
+  },
+  {
+    "start": 64.57,
+    "end": 69.34,
+    "text": "This is because we are integrating in the opposite direction.",
+    "textdich": ""
+  },
+  {
+    "start": 69.34,
+    "end": 75.939,
+    "text": "Next, if both of the limits of integration are the same number, the integral will be",
+    "textdich": ""
+  },
+  {
+    "start": 75.939,
+    "end": 79.2,
+    "text": "equal to zero, no matter what the function is.",
+    "textdich": ""
+  },
+  {
+    "start": 79.2,
+    "end": 83.99,
+    "text": "This is because we are essentially asking about the area under a single point, which",
+    "textdich": ""
+  },
+  {
+    "start": 83.99,
+    "end": 89.74,
+    "text": "would be like finding the area of one infinitely thin rectangle, which is just a line.",
+    "textdich": ""
+  },
+  {
+    "start": 89.74,
+    "end": 94.759,
+    "text": "A line has no area, so this integral equals zero.",
+    "textdich": ""
+  },
+  {
+    "start": 94.759,
+    "end": 101.39,
+    "text": "Similarly, if we have two integrals of the same function over adjacent intervals, one",
+    "textdich": ""
+  },
+  {
+    "start": 101.39,
+    "end": 107.189,
+    "text": "from a to b and the other from b to c, the sum of these integrals is equal to the integral",
+    "textdich": ""
+  },
+  {
+    "start": 107.189,
+    "end": 110.859,
+    "text": "of the function over the whole interval, from a to c.",
+    "textdich": ""
+  },
+  {
+    "start": 110.859,
+    "end": 116.409,
+    "text": "This is the same as saying that the area of this section plus the area of this section",
+    "textdich": ""
+  },
+  {
+    "start": 116.409,
+    "end": 120.57,
+    "text": "is equal to the total area under the curve.",
+    "textdich": ""
+  },
+  {
+    "start": 120.57,
+    "end": 124.08,
+    "text": "So that covers some properties regarding the limits of integration.",
+    "textdich": ""
+  },
+  {
+    "start": 124.08,
+    "end": 130.92,
+    "text": "Next, when integrating a constant, we will simply get that constant times the quantity",
+    "textdich": ""
+  },
+  {
+    "start": 130.92,
+    "end": 134.95,
+    "text": "of the upper limit minus the lower limit.",
+    "textdich": ""
+  },
+  {
+    "start": 134.95,
+    "end": 140.849,
+    "text": "So the integral of three from one to five, will be three times the quantity five minus",
+    "textdich": ""
+  },
+  {
+    "start": 140.849,
+    "end": 144.31,
+    "text": "one, or twelve.",
+    "textdich": ""
+  },
+  {
+    "start": 144.31,
+    "end": 147.91,
+    "text": "This makes sense if you think of the function y equals three.",
+    "textdich": ""
+  },
+  {
+    "start": 147.91,
+    "end": 153.27,
+    "text": "If we chop this off at one and five, this is now just a rectangle with a constant height",
+    "textdich": ""
+  },
+  {
+    "start": 153.27,
+    "end": 159.569,
+    "text": "of three, so multiplying by the difference of these limits is the same as calculating",
+    "textdich": ""
+  },
+  {
+    "start": 159.569,
+    "end": 164.15,
+    "text": "base times height, which gives us the area of the rectangle.",
+    "textdich": ""
+  },
+  {
+    "start": 164.15,
+    "end": 170.29,
+    "text": "Similarly, if we are taking the integral of a constant times some function, we can just",
+    "textdich": ""
+  },
+  {
+    "start": 170.29,
+    "end": 175.019,
+    "text": "pull the constant out of the integral, and we get the constant times the integral of",
+    "textdich": ""
+  },
+  {
+    "start": 175.019,
+    "end": 177.099,
+    "text": "the function.",
+    "textdich": ""
+  },
+  {
+    "start": 177.099,
+    "end": 183.659,
+    "text": "Then, we have the property that says that the integral of a sum of functions over some",
+    "textdich": ""
+  },
+  {
+    "start": 183.659,
+    "end": 189.11,
+    "text": "interval is equal to the sum of their integrals over the same interval.",
+    "textdich": ""
+  },
+  {
+    "start": 189.11,
+    "end": 196.98,
+    "text": "So the integral of f of x plus g of x dx equals the integral of f of x dx plus the integral",
+    "textdich": ""
+  },
+  {
+    "start": 196.98,
+    "end": 197.98,
+    "text": "of g of x dx.",
+    "textdich": ""
+  },
+  {
+    "start": 197.98,
+    "end": 206.56,
+    "text": "The same goes for the difference of functions, we just change these plus signs to minus signs.",
+    "textdich": ""
+  },
+  {
+    "start": 206.56,
+    "end": 212.67,
+    "text": "Let’s also quickly note that if the interval of a function that is being integrated is",
+    "textdich": ""
+  },
+  {
+    "start": 212.67,
+    "end": 216.94,
+    "text": "above the x-axis, its integral will be positive.",
+    "textdich": ""
+  },
+  {
+    "start": 216.94,
+    "end": 225.599,
+    "text": "If instead it is below the x-axis, it will be negative, as these are negative y values.",
+    "textdich": ""
+  },
+  {
+    "start": 225.599,
+    "end": 231.129,
+    "text": "If it crosses the x-axis, with some portion above and some portion below, the integral",
+    "textdich": ""
+  },
+  {
+    "start": 231.129,
+    "end": 238.62,
+    "text": "will be the net area, or the area above the axis minus the area below it.",
+    "textdich": ""
+  },
+  {
+    "start": 238.62,
+    "end": 245.32,
+    "text": "Keeping these properties in mind, let’s move forward and practice evaluating definite integrals.",
+    "textdich": ""
+  },
+  {
+    "start": 246.3,
+    "end": 249.76,
+    "text": "To start out, we will just integrate simple polynomials.",
+    "textdich": ""
+  },
+  {
+    "start": 249.76,
+    "end": 255.04,
+    "text": "This involves taking the antiderivative of a function, as we learned in the previous tutorial.",
+    "textdich": ""
+  },
+  {
+    "start": 255.1,
+    "end": 260.62,
+    "text": "Let’s try something like x squared plus one, dx, from zero to two.",
+    "textdich": ""
+  },
+  {
+    "start": 260.62,
+    "end": 264.93,
+    "text": "First things first, let’s get the antiderivative of this function.",
+    "textdich": ""
+  },
+  {
+    "start": 264.93,
+    "end": 274.16,
+    "text": "X squared will become x cubed over three, and one will become x over one, or simply x.",
+    "textdich": ""
+  },
+  {
+    "start": 275.48,
+    "end": 280.62,
+    "text": "Then we evaluate the antiderivative at the limits of integration, so let’s write F",
+    "textdich": ""
+  },
+  {
+    "start": 280.62,
+    "end": 283.419,
+    "text": "of two minus F of zero.",
+    "textdich": ""
+  },
+  {
+    "start": 283.419,
+    "end": 290.64,
+    "text": "F of two will be one third times two cubed, plus two.",
+    "textdich": ""
+  },
+  {
+    "start": 290.64,
+    "end": 296.28,
+    "text": "Two cubed is eight, so we have eight thirds, and let’s turn two into six thirds, so that",
+    "textdich": ""
+  },
+  {
+    "start": 296.28,
+    "end": 301.28,
+    "text": "we can combine to get fourteen thirds.",
+    "textdich": ""
+  },
+  {
+    "start": 301.28,
+    "end": 307.68,
+    "text": "Then for zero, everything just becomes zero, and we end up simply subtracting zero, so",
+    "textdich": ""
+  },
+  {
+    "start": 307.68,
+    "end": 312.22,
+    "text": "the answer is fourteen thirds.",
+    "textdich": ""
+  },
+  {
+    "start": 312.22,
+    "end": 313.27,
+    "text": "Not too bad, right?",
+    "textdich": ""
+  },
+  {
+    "start": 313.27,
+    "end": 314.919,
+    "text": "Let’s do a couple more.",
+    "textdich": ""
+  },
+  {
+    "start": 314.919,
+    "end": 319.62,
+    "text": "How about two x squared plus root x, from one to four.",
+    "textdich": ""
+  },
+  {
+    "start": 319.62,
+    "end": 326.15,
+    "text": "In finding the antiderivative, x squared becomes x cubed over three, so let’s just put the",
+    "textdich": ""
+  },
+  {
+    "start": 326.15,
+    "end": 330.039,
+    "text": "three out here to get two thirds x cubed.",
+    "textdich": ""
+  },
+  {
+    "start": 330.039,
+    "end": 335.97,
+    "text": "Now for root x, it may seem like we can’t evaluate this, but remember, root x is just",
+    "textdich": ""
+  },
+  {
+    "start": 335.97,
+    "end": 337.81,
+    "text": "x to the one half power.",
+    "textdich": ""
+  },
+  {
+    "start": 337.81,
+    "end": 342.99,
+    "text": "So we can absolutely do exactly the same thing, we just end up with fractions.",
+    "textdich": ""
+  },
+  {
+    "start": 342.99,
+    "end": 350.0,
+    "text": "We add one to the exponent to get x to the three halves, and then we divide by three halves.",
+    "textdich": ""
+  },
+  {
+    "start": 351.28,
+    "end": 357.96,
+    "text": "Dividing by three halves is the same as multiplying by two thirds, so we get two thirds x to the",
+    "textdich": ""
+  },
+  {
+    "start": 357.96,
+    "end": 361.09,
+    "text": "three halves.",
+    "textdich": ""
+  },
+  {
+    "start": 361.09,
+    "end": 363.87,
+    "text": "Now we are ready to plug in some numbers.",
+    "textdich": ""
+  },
+  {
+    "start": 363.87,
+    "end": 373.02,
+    "text": "Four cubed is sixty four, times two thirds is one hundred twenty eight thirds.",
+    "textdich": ""
+  },
+  {
+    "start": 373.02,
+    "end": 378.69,
+    "text": "Four to the three halves power can be evaluated by first taking the square root to get two,",
+    "textdich": ""
+  },
+  {
+    "start": 378.69,
+    "end": 381.74,
+    "text": "and then cubing to get eight.",
+    "textdich": ""
+  },
+  {
+    "start": 381.74,
+    "end": 386.729,
+    "text": "Times two thirds is sixteen thirds, so we add these together to get one hundred forty",
+    "textdich": ""
+  },
+  {
+    "start": 386.729,
+    "end": 390.87,
+    "text": "four thirds.",
+    "textdich": ""
+  },
+  {
+    "start": 390.87,
+    "end": 396.59,
+    "text": "Evaluating for one will be a little easier, since we just end up with two thirds plus",
+    "textdich": ""
+  },
+  {
+    "start": 396.59,
+    "end": 397.66,
+    "text": "two thirds.",
+    "textdich": ""
+  },
+  {
+    "start": 397.66,
+    "end": 403.199,
+    "text": "That’s four thirds to be subtracted from one hundred forty four thirds, leaving us",
+    "textdich": ""
+  },
+  {
+    "start": 403.199,
+    "end": 408.58,
+    "text": "with one hundred and forty thirds.",
+    "textdich": ""
+  },
+  {
+    "start": 408.58,
+    "end": 409.87,
+    "text": "How about just one more.",
+    "textdich": ""
+  },
+  {
+    "start": 409.87,
+    "end": 417.71,
+    "text": "Let’s try the quantity (x to the fifth plus two x cubed plus one) all over x squared,",
+    "textdich": ""
+  },
+  {
+    "start": 417.71,
+    "end": 419.49,
+    "text": "evaluated from one to two.",
+    "textdich": ""
+  },
+  {
+    "start": 419.49,
+    "end": 424.129,
+    "text": "This seems much trickier, because it’s a fraction, but we can very easily express this",
+    "textdich": ""
+  },
+  {
+    "start": 424.129,
+    "end": 431.58,
+    "text": "as a regular polynomial, we just have to divide each term in the numerator by x squared.",
+    "textdich": ""
+  },
+  {
+    "start": 431.58,
+    "end": 434.74,
+    "text": "For x to the fifth, that gives us x cubed.",
+    "textdich": ""
+  },
+  {
+    "start": 434.74,
+    "end": 437.949,
+    "text": "For two x cubed, that gives us two x.",
+    "textdich": ""
+  },
+  {
+    "start": 437.949,
+    "end": 444.77,
+    "text": "And for one, that gives us one over x squared, but let’s remember our rules of exponents",
+    "textdich": ""
+  },
+  {
+    "start": 444.77,
+    "end": 449.78,
+    "text": "and instead express this as x to the negative two.",
+    "textdich": ""
+  },
+  {
+    "start": 449.78,
+    "end": 453.8,
+    "text": "That will allow us to more easily find the antiderivative.",
+    "textdich": ""
+  },
+  {
+    "start": 453.8,
+    "end": 456.669,
+    "text": "Now we are ready to do what we normally do.",
+    "textdich": ""
+  },
+  {
+    "start": 456.669,
+    "end": 463.75,
+    "text": "X cubed becomes x to the fourth over four, two x becomes two x squared over two, or simply",
+    "textdich": ""
+  },
+  {
+    "start": 463.75,
+    "end": 469.47,
+    "text": "x squared, and then for x to the negative two, remember we are still just adding one",
+    "textdich": ""
+  },
+  {
+    "start": 469.47,
+    "end": 475.99,
+    "text": "to the exponent to get x to the negative one, and then we divide by that exponent, so we",
+    "textdich": ""
+  },
+  {
+    "start": 475.99,
+    "end": 478.61,
+    "text": "put this over negative one.",
+    "textdich": ""
+  },
+  {
+    "start": 478.61,
+    "end": 485.849,
+    "text": "So that means we subtract x to the negative one, which is really one over x.",
+    "textdich": ""
+  },
+  {
+    "start": 485.849,
+    "end": 488.47,
+    "text": "So that’s our antiderivative.",
+    "textdich": ""
+  },
+  {
+    "start": 488.47,
+    "end": 492.46,
+    "text": "Now we are ready to plug in some numbers.",
+    "textdich": ""
+  },
+  {
+    "start": 492.46,
+    "end": 497.879,
+    "text": "So this will be our final answer.",
+    "textdich": ""
+  },
+  {
+    "start": 497.879,
+    "end": 503.75,
+    "text": "Hopefully after computing some simple integrals, we can see the immense power of this method.",
+    "textdich": ""
+  },
+  {
+    "start": 503.75,
+    "end": 508.919,
+    "text": "Prior to the fundamental theorem of calculus, finding areas and distances associated with",
+    "textdich": ""
+  },
+  {
+    "start": 508.919,
+    "end": 513.82,
+    "text": "curvature was incredibly complex, and only brilliant mathematicians could figure out",
+    "textdich": ""
+  },
+  {
+    "start": 513.82,
+    "end": 515.11,
+    "text": "how to do it.",
+    "textdich": ""
+  },
+  {
+    "start": 515.11,
+    "end": 520.22,
+    "text": "Now with this simple algorithm of finding the antiderivative, anyone can do it.",
+    "textdich": ""
+  },
+  {
+    "start": 520.22,
+    "end": 524.54,
+    "text": "Now don’t get too cocky, integration will get much harder than this, but before moving",
+    "textdich": ""
+  },
+  {
+    "start": 524.54,
+    "end": 525.9,
+    "text": "forward, let’s check comprehension.",
+    "textdich": ""
+  }
+]
