@@ -1,0 +1,572 @@
+[
+  {
+    "start": 0.34,
+    "end": 3.62,
+    "text": "Hey it’s Professor Dave; let’s talk about addition and subtraction.",
+    "textdich": ""
+  },
+  {
+    "start": 10.36,
+    "end": 15.82,
+    "text": "As we have just come to understand, math never started out as a bunch of seemingly arbitrary",
+    "textdich": ""
+  },
+  {
+    "start": 15.82,
+    "end": 20.06,
+    "text": "operations meant to confuse and frustrate students.",
+    "textdich": ""
+  },
+  {
+    "start": 20.06,
+    "end": 25.45,
+    "text": "It is simply that our understanding of math has become extremely sophisticated over the",
+    "textdich": ""
+  },
+  {
+    "start": 25.45,
+    "end": 31.04,
+    "text": "past few hundred years, and the fact that all of this existing and sometimes difficult",
+    "textdich": ""
+  },
+  {
+    "start": 31.04,
+    "end": 37.67,
+    "text": "math must be learned before anyone can contribute to the field is what is responsible for the",
+    "textdich": ""
+  },
+  {
+    "start": 37.67,
+    "end": 42.05,
+    "text": "way that so many people despise this subject.",
+    "textdich": ""
+  },
+  {
+    "start": 42.05,
+    "end": 47.98,
+    "text": "But let’s remember that math began very simply as part of our language, a set of models",
+    "textdich": ""
+  },
+  {
+    "start": 47.98,
+    "end": 55.19,
+    "text": "and symbols that helped us to communicate ideas and describe our surroundings.",
+    "textdich": ""
+  },
+  {
+    "start": 55.19,
+    "end": 60.039,
+    "text": "Mathematical innovations arose by necessity, and they still do, it’s simply that the",
+    "textdich": ""
+  },
+  {
+    "start": 60.039,
+    "end": 66.74,
+    "text": "frontier of today’s math lies in an abstract place that very few can understand.",
+    "textdich": ""
+  },
+  {
+    "start": 66.74,
+    "end": 71.469,
+    "text": "By the end of this series, maybe we can all get there, but for now, let’s start at the",
+    "textdich": ""
+  },
+  {
+    "start": 71.469,
+    "end": 73.09,
+    "text": "very beginning.",
+    "textdich": ""
+  },
+  {
+    "start": 73.09,
+    "end": 78.909,
+    "text": "What was the first kind of math that was developed by the human race?",
+    "textdich": ""
+  },
+  {
+    "start": 78.909,
+    "end": 82.06,
+    "text": "That would undoubtedly be arithmetic.",
+    "textdich": ""
+  },
+  {
+    "start": 82.06,
+    "end": 87.869,
+    "text": "Shortly after humans were able to count, we needed symbols to represent those counting",
+    "textdich": ""
+  },
+  {
+    "start": 87.869,
+    "end": 93.829,
+    "text": "numbers, as well as methods to manipulate those numbers in ways that represent real-life",
+    "textdich": ""
+  },
+  {
+    "start": 93.829,
+    "end": 95.669,
+    "text": "concepts.",
+    "textdich": ""
+  },
+  {
+    "start": 95.669,
+    "end": 98.46,
+    "text": "How many people are in the tribe?",
+    "textdich": ""
+  },
+  {
+    "start": 98.46,
+    "end": 101.85,
+    "text": "Two kids were just born, how many are there now?",
+    "textdich": ""
+  },
+  {
+    "start": 101.85,
+    "end": 106.579,
+    "text": "How many years has the tribe’s wisest elder been alive?",
+    "textdich": ""
+  },
+  {
+    "start": 106.579,
+    "end": 111.34,
+    "text": "Once civilizations formed and we began to trade goods with one another, we needed to",
+    "textdich": ""
+  },
+  {
+    "start": 111.34,
+    "end": 118.579,
+    "text": "be able to keep track of inventory, price items appropriately, and so forth.",
+    "textdich": ""
+  },
+  {
+    "start": 118.579,
+    "end": 121.02,
+    "text": "How many apples are in the basket?",
+    "textdich": ""
+  },
+  {
+    "start": 121.02,
+    "end": 124.499,
+    "text": "How many do you want, and how many are now left?",
+    "textdich": ""
+  },
+  {
+    "start": 124.499,
+    "end": 129.61,
+    "text": "Being that we like to count on our fingers, and we have ten of them, many counting systems",
+    "textdich": ""
+  },
+  {
+    "start": 129.61,
+    "end": 132.6,
+    "text": "were based on a system of ten.",
+    "textdich": ""
+  },
+  {
+    "start": 132.6,
+    "end": 138.269,
+    "text": "There were others based on twenty, or even sixty, but the one we use today is based on",
+    "textdich": ""
+  },
+  {
+    "start": 138.269,
+    "end": 144.5,
+    "text": "ten, so rather than diving into the anthropology of arithmetic, let’s keep our study focused",
+    "textdich": ""
+  },
+  {
+    "start": 144.5,
+    "end": 147.04,
+    "text": "on what can be readily applied.",
+    "textdich": ""
+  },
+  {
+    "start": 147.04,
+    "end": 153.819,
+    "text": "Presently, our conceptualization of the number ten as the basis for our numerical system",
+    "textdich": ""
+  },
+  {
+    "start": 153.819,
+    "end": 159.629,
+    "text": "is so ingrained in our collective logic that we sometimes forget that this number is completely",
+    "textdich": ""
+  },
+  {
+    "start": 159.629,
+    "end": 161.069,
+    "text": "arbitrary.",
+    "textdich": ""
+  },
+  {
+    "start": 161.069,
+    "end": 165.48,
+    "text": "If we had only eight fingers, things would be totally different.",
+    "textdich": ""
+  },
+  {
+    "start": 165.48,
+    "end": 169.29,
+    "text": "But ten is what we went with, and it works just fine.",
+    "textdich": ""
+  },
+  {
+    "start": 169.29,
+    "end": 177.48,
+    "text": "Getting back to the apples, the basic operations we will learn first are addition and subtraction.",
+    "textdich": ""
+  },
+  {
+    "start": 177.48,
+    "end": 183.51,
+    "text": "Addition is the most basic arithmetic operation, and it represents the combination of two numbers",
+    "textdich": ""
+  },
+  {
+    "start": 183.51,
+    "end": 187.14,
+    "text": "to become a single number, or a sum.",
+    "textdich": ""
+  },
+  {
+    "start": 187.14,
+    "end": 191.909,
+    "text": "If you get two apples from one vendor, and then three from another, how many apples did",
+    "textdich": ""
+  },
+  {
+    "start": 191.909,
+    "end": 193.239,
+    "text": "you get?",
+    "textdich": ""
+  },
+  {
+    "start": 193.239,
+    "end": 198.22,
+    "text": "Of course we can easily count the resulting pile and see that there are five.",
+    "textdich": ""
+  },
+  {
+    "start": 198.22,
+    "end": 201.719,
+    "text": "But how do we represent this mathematically?",
+    "textdich": ""
+  },
+  {
+    "start": 201.719,
+    "end": 208.34,
+    "text": "Using the symbols that are common of today, we would put the number two, then the addition",
+    "textdich": ""
+  },
+  {
+    "start": 208.34,
+    "end": 215.659,
+    "text": "or plus symbol, and then the number three, followed by an equals sign and then the number",
+    "textdich": ""
+  },
+  {
+    "start": 215.659,
+    "end": 216.939,
+    "text": "five.",
+    "textdich": ""
+  },
+  {
+    "start": 216.939,
+    "end": 221.249,
+    "text": "This is an equation, which is a statement of equality.",
+    "textdich": ""
+  },
+  {
+    "start": 221.249,
+    "end": 227.329,
+    "text": "The expression on the left is numerically equivalent with the expression on the right.",
+    "textdich": ""
+  },
+  {
+    "start": 227.329,
+    "end": 233.67,
+    "text": "This particular equation reads, “two plus three equals five”, with the word plus essentially",
+    "textdich": ""
+  },
+  {
+    "start": 233.67,
+    "end": 237.359,
+    "text": "meaning “and”, and the equals sign meaning “is”.",
+    "textdich": ""
+  },
+  {
+    "start": 237.359,
+    "end": 245.15,
+    "text": "Two and three is five, so five is the sum of this additive operation.",
+    "textdich": ""
+  },
+  {
+    "start": 245.15,
+    "end": 250.37,
+    "text": "The next operation that became necessary was subtraction, which is the inverse, or opposite",
+    "textdich": ""
+  },
+  {
+    "start": 250.37,
+    "end": 256.789,
+    "text": "of addition, in that it doesn’t find the sum of two numbers, it finds their difference.",
+    "textdich": ""
+  },
+  {
+    "start": 256.789,
+    "end": 261.0,
+    "text": "You bring all five of your apples home and you eat one of them.",
+    "textdich": ""
+  },
+  {
+    "start": 261.0,
+    "end": 264.52,
+    "text": "If one apple has been subtracted, how many are left?",
+    "textdich": ""
+  },
+  {
+    "start": 264.52,
+    "end": 268.78,
+    "text": "Again, it is easy to count and see that there are four left.",
+    "textdich": ""
+  },
+  {
+    "start": 268.78,
+    "end": 273.72,
+    "text": "But this result can also be calculated, which is much different from counting.",
+    "textdich": ""
+  },
+  {
+    "start": 273.72,
+    "end": 279.4,
+    "text": "We can write another equation with a five, then the minus symbol, followed by a one,",
+    "textdich": ""
+  },
+  {
+    "start": 279.4,
+    "end": 282.53,
+    "text": "then the equals sign, and the number four.",
+    "textdich": ""
+  },
+  {
+    "start": 282.53,
+    "end": 289.25,
+    "text": "This reads, “five minus one equals four”, which essentially means five less one is four,",
+    "textdich": ""
+  },
+  {
+    "start": 289.25,
+    "end": 292.69,
+    "text": "so four is the difference between one and five.",
+    "textdich": ""
+  },
+  {
+    "start": 292.69,
+    "end": 297.62,
+    "text": "On a number line, this is the distance between the two numbers, and this is an excellent",
+    "textdich": ""
+  },
+  {
+    "start": 297.62,
+    "end": 300.53,
+    "text": "way to visualize subtraction.",
+    "textdich": ""
+  },
+  {
+    "start": 300.53,
+    "end": 306.43,
+    "text": "Fourteen minus eleven is three, because three is the difference between the two numbers.",
+    "textdich": ""
+  },
+  {
+    "start": 306.43,
+    "end": 311.55,
+    "text": "It takes three to get from eleven to fourteen.",
+    "textdich": ""
+  },
+  {
+    "start": 311.55,
+    "end": 317.27,
+    "text": "Now that we have become familiar with the symbolic representation of these simple operations,",
+    "textdich": ""
+  },
+  {
+    "start": 317.27,
+    "end": 322.08,
+    "text": "we should discuss some applicable properties of numbers.",
+    "textdich": ""
+  },
+  {
+    "start": 322.08,
+    "end": 329.229,
+    "text": "Addition is commutative, in that the order in which numbers are added does not matter.",
+    "textdich": ""
+  },
+  {
+    "start": 329.229,
+    "end": 335.44,
+    "text": "Two plus three equals five, and three plus two also equals five.",
+    "textdich": ""
+  },
+  {
+    "start": 335.44,
+    "end": 337.379,
+    "text": "Subtraction is not commutative.",
+    "textdich": ""
+  },
+  {
+    "start": 337.379,
+    "end": 341.36,
+    "text": "It does indeed matter which number is being subtracted from the other.",
+    "textdich": ""
+  },
+  {
+    "start": 341.36,
+    "end": 345.919,
+    "text": "Three minus two is not the same as two minus three.",
+    "textdich": ""
+  },
+  {
+    "start": 345.919,
+    "end": 348.3,
+    "text": "Addition is also associative.",
+    "textdich": ""
+  },
+  {
+    "start": 348.3,
+    "end": 353.5,
+    "text": "This means that if performing two successive additions, the order in which they are performed",
+    "textdich": ""
+  },
+  {
+    "start": 353.5,
+    "end": 355.05,
+    "text": "does not matter.",
+    "textdich": ""
+  },
+  {
+    "start": 355.05,
+    "end": 360.379,
+    "text": "Two plus three plus four will be nine no matter which numbers we add first.",
+    "textdich": ""
+  },
+  {
+    "start": 360.379,
+    "end": 365.77,
+    "text": "We can add the first two to get five, and then add that to four, or we can add the latter",
+    "textdich": ""
+  },
+  {
+    "start": 365.77,
+    "end": 368.7,
+    "text": "two to get seven, and then add that to two.",
+    "textdich": ""
+  },
+  {
+    "start": 368.7,
+    "end": 372.229,
+    "text": "The result is the same.",
+    "textdich": ""
+  },
+  {
+    "start": 372.229,
+    "end": 374.139,
+    "text": "Subtraction is not associative.",
+    "textdich": ""
+  },
+  {
+    "start": 374.139,
+    "end": 379.819,
+    "text": "If we write down five minus three minus two, we could do five minus three first.",
+    "textdich": ""
+  },
+  {
+    "start": 379.819,
+    "end": 383.949,
+    "text": "That gives us two, and subtracting the other two, we get zero.",
+    "textdich": ""
+  },
+  {
+    "start": 383.949,
+    "end": 389.93,
+    "text": "If instead we do the three minus two first, we get one, and five minus one is four.",
+    "textdich": ""
+  },
+  {
+    "start": 389.93,
+    "end": 393.69,
+    "text": "So we can see that subtraction is not associative.",
+    "textdich": ""
+  },
+  {
+    "start": 393.69,
+    "end": 398.97,
+    "text": "We will learn all about the order of operations later, as well as other ways in which these",
+    "textdich": ""
+  },
+  {
+    "start": 398.97,
+    "end": 404.669,
+    "text": "kinds of properties become less obvious yet very important.",
+    "textdich": ""
+  },
+  {
+    "start": 404.669,
+    "end": 409.86,
+    "text": "No matter how far we choose to go with math, and no matter how complicated equations appear",
+    "textdich": ""
+  },
+  {
+    "start": 409.86,
+    "end": 416.55,
+    "text": "to be, with symbols like square roots and logarithms and integrals, we must always remember",
+    "textdich": ""
+  },
+  {
+    "start": 416.55,
+    "end": 420.189,
+    "text": "that these symbols mean something concrete.",
+    "textdich": ""
+  },
+  {
+    "start": 420.189,
+    "end": 425.389,
+    "text": "They are rooted in the physical world, even if in a way that is more difficult to immediately",
+    "textdich": ""
+  },
+  {
+    "start": 425.389,
+    "end": 428.639,
+    "text": "conceptualize than the plus symbol.",
+    "textdich": ""
+  },
+  {
+    "start": 428.639,
+    "end": 434.919,
+    "text": "One goal of this series will be to make all the other mathematical operations as intelligible",
+    "textdich": ""
+  },
+  {
+    "start": 434.919,
+    "end": 439.169,
+    "text": "and relatable as addition and subtraction.",
+    "textdich": ""
+  },
+  {
+    "start": 439.169,
+    "end": 445.349,
+    "text": "Once you intimately understand what mathematical constructs represent, they no longer seem",
+    "textdich": ""
+  },
+  {
+    "start": 445.349,
+    "end": 452.48,
+    "text": "arbitrary and infuriating, but instead powerful, as their utility becomes apparent.",
+    "textdich": ""
+  },
+  {
+    "start": 452.48,
+    "end": 457.62,
+    "text": "So let’s move forward and learn some more arithmetic, but first, let’s check comprehension.",
+    "textdich": ""
+  }
+]
