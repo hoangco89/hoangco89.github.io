@@ -1,0 +1,1292 @@
+[
+  {
+    "start": 0.42,
+    "end": 6.12,
+    "text": "so as you know I I think you don't I",
+    "textdich": ""
+  },
+  {
+    "start": 4.2,
+    "end": 8.22,
+    "text": "spent four hours building a fast flask",
+    "textdich": ""
+  },
+  {
+    "start": 6.12,
+    "end": 9.9,
+    "text": "application so this is the application",
+    "textdich": ""
+  },
+  {
+    "start": 8.22,
+    "end": 13.98,
+    "text": "what it does is",
+    "textdich": ""
+  },
+  {
+    "start": 9.9,
+    "end": 16.619,
+    "text": "it has a small database okay and I have",
+    "textdich": ""
+  },
+  {
+    "start": 13.98,
+    "end": 18.0,
+    "text": "added a few links to it so if I try to",
+    "textdich": ""
+  },
+  {
+    "start": 16.619,
+    "end": 21.539,
+    "text": "search something",
+    "textdich": ""
+  },
+  {
+    "start": 18.0,
+    "end": 24.42,
+    "text": "this will return all the data that is in",
+    "textdich": ""
+  },
+  {
+    "start": 21.539,
+    "end": 28.019,
+    "text": "the database currently I have kept my",
+    "textdich": ""
+  },
+  {
+    "start": 24.42,
+    "end": 30.359,
+    "text": "YouTube videos title and its URL there",
+    "textdich": ""
+  },
+  {
+    "start": 28.019,
+    "end": 32.88,
+    "text": "and I have added a copy button and also",
+    "textdich": ""
+  },
+  {
+    "start": 30.359,
+    "end": 34.86,
+    "text": "this is some Dynamic so if I press it I",
+    "textdich": ""
+  },
+  {
+    "start": 32.88,
+    "end": 36.66,
+    "text": "do not have to press enter it will",
+    "textdich": ""
+  },
+  {
+    "start": 34.86,
+    "end": 37.38,
+    "text": "search for it and if I press copy it",
+    "textdich": ""
+  },
+  {
+    "start": 36.66,
+    "end": 40.739,
+    "text": "will",
+    "textdich": ""
+  },
+  {
+    "start": 37.38,
+    "end": 42.78,
+    "text": "copy the data onto clipboard okay so",
+    "textdich": ""
+  },
+  {
+    "start": 40.739,
+    "end": 45.78,
+    "text": "this is what I have made now",
+    "textdich": ""
+  },
+  {
+    "start": 42.78,
+    "end": 48.96,
+    "text": "what I have to do now is I have to add",
+    "textdich": ""
+  },
+  {
+    "start": 45.78,
+    "end": 52.14,
+    "text": "all the videos from both of my channel",
+    "textdich": ""
+  },
+  {
+    "start": 48.96,
+    "end": 55.199,
+    "text": "to here okay and it is quite a pain to",
+    "textdich": ""
+  },
+  {
+    "start": 52.14,
+    "end": 57.62,
+    "text": "add them one by one so I made this",
+    "textdich": ""
+  },
+  {
+    "start": 55.199,
+    "end": 61.5,
+    "text": "little project and this is this little",
+    "textdich": ""
+  },
+  {
+    "start": 57.62,
+    "end": 63.539,
+    "text": "python code to handle this I'm going to",
+    "textdich": ""
+  },
+  {
+    "start": 61.5,
+    "end": 66.36,
+    "text": "run through this all right now",
+    "textdich": ""
+  },
+  {
+    "start": 63.539,
+    "end": 69.24,
+    "text": "but remember you will have already need",
+    "textdich": ""
+  },
+  {
+    "start": 66.36,
+    "end": 71.28,
+    "text": "to have python installed you don't need",
+    "textdich": ""
+  },
+  {
+    "start": 69.24,
+    "end": 74.1,
+    "text": "to know a lot of things I have already",
+    "textdich": ""
+  },
+  {
+    "start": 71.28,
+    "end": 76.86,
+    "text": "taken care of that but it will be really",
+    "textdich": ""
+  },
+  {
+    "start": 74.1,
+    "end": 78.78,
+    "text": "helpful if you actually",
+    "textdich": ""
+  },
+  {
+    "start": 76.86,
+    "end": 80.88,
+    "text": "you know what let's see what kind of",
+    "textdich": ""
+  },
+  {
+    "start": 78.78,
+    "end": 82.259,
+    "text": "hurdles a new person can get into so you",
+    "textdich": ""
+  },
+  {
+    "start": 80.88,
+    "end": 84.6,
+    "text": "click on this code and you click on",
+    "textdich": ""
+  },
+  {
+    "start": 82.259,
+    "end": 87.479,
+    "text": "downloads it once you get this you",
+    "textdich": ""
+  },
+  {
+    "start": 84.6,
+    "end": 88.799,
+    "text": "extract this to let's say downloads",
+    "textdich": ""
+  },
+  {
+    "start": 87.479,
+    "end": 92.46,
+    "text": "that's all right",
+    "textdich": ""
+  },
+  {
+    "start": 88.799,
+    "end": 94.979,
+    "text": "okay so the files input so here is the",
+    "textdich": ""
+  },
+  {
+    "start": 92.46,
+    "end": 98.46,
+    "text": "extracted file you right click and you",
+    "textdich": ""
+  },
+  {
+    "start": 94.979,
+    "end": 100.979,
+    "text": "open it to visual studio code now after",
+    "textdich": ""
+  },
+  {
+    "start": 98.46,
+    "end": 103.74,
+    "text": "you are in Visual Studio code",
+    "textdich": ""
+  },
+  {
+    "start": 100.979,
+    "end": 108.56,
+    "text": "uh you have to trust this first",
+    "textdich": ""
+  },
+  {
+    "start": 103.74,
+    "end": 111.78,
+    "text": "a few things change okay so the thing is",
+    "textdich": ""
+  },
+  {
+    "start": 108.56,
+    "end": 114.659,
+    "text": "based on your system if it's windows or",
+    "textdich": ""
+  },
+  {
+    "start": 111.78,
+    "end": 117.06,
+    "text": "Linux there will be a different way to",
+    "textdich": ""
+  },
+  {
+    "start": 114.659,
+    "end": 119.46,
+    "text": "make a virtual environment okay we make",
+    "textdich": ""
+  },
+  {
+    "start": 117.06,
+    "end": 121.979,
+    "text": "a virtual environment in Python before",
+    "textdich": ""
+  },
+  {
+    "start": 119.46,
+    "end": 123.18,
+    "text": "running the code we don't usually run it",
+    "textdich": ""
+  },
+  {
+    "start": 121.979,
+    "end": 125.04,
+    "text": "right away",
+    "textdich": ""
+  },
+  {
+    "start": 123.18,
+    "end": 128.399,
+    "text": "so in",
+    "textdich": ""
+  },
+  {
+    "start": 125.04,
+    "end": 130.38,
+    "text": "you can Google it it's very easy but on",
+    "textdich": ""
+  },
+  {
+    "start": 128.399,
+    "end": 132.86,
+    "text": "Linux you do it like you know what let",
+    "textdich": ""
+  },
+  {
+    "start": 130.38,
+    "end": 132.86,
+    "text": "me show you",
+    "textdich": ""
+  },
+  {
+    "start": 133.34,
+    "end": 138.66,
+    "text": "virtual",
+    "textdich": ""
+  },
+  {
+    "start": 135.14,
+    "end": 141.06,
+    "text": "environment python windows I think that",
+    "textdich": ""
+  },
+  {
+    "start": 138.66,
+    "end": 143.28,
+    "text": "is what you guys will be using",
+    "textdich": ""
+  },
+  {
+    "start": 141.06,
+    "end": 145.26,
+    "text": "okay that is pretty easy you have to",
+    "textdich": ""
+  },
+  {
+    "start": 143.28,
+    "end": 146.879,
+    "text": "install pip if you install virtual",
+    "textdich": ""
+  },
+  {
+    "start": 145.26,
+    "end": 149.16,
+    "text": "environment virtual environment version",
+    "textdich": ""
+  },
+  {
+    "start": 146.879,
+    "end": 151.739,
+    "text": "and you just run this one virtual",
+    "textdich": ""
+  },
+  {
+    "start": 149.16,
+    "end": 154.08,
+    "text": "environment space",
+    "textdich": ""
+  },
+  {
+    "start": 151.739,
+    "end": 155.52,
+    "text": "I have never done it with this command",
+    "textdich": ""
+  },
+  {
+    "start": 154.08,
+    "end": 158.459,
+    "text": "let me check",
+    "textdich": ""
+  },
+  {
+    "start": 155.52,
+    "end": 161.099,
+    "text": "can I do that",
+    "textdich": ""
+  },
+  {
+    "start": 158.459,
+    "end": 162.84,
+    "text": "okay yeah so it also trades on Linux the",
+    "textdich": ""
+  },
+  {
+    "start": 161.099,
+    "end": 166.2,
+    "text": "same command",
+    "textdich": ""
+  },
+  {
+    "start": 162.84,
+    "end": 169.86,
+    "text": "and to activate it on Windows",
+    "textdich": ""
+  },
+  {
+    "start": 166.2,
+    "end": 172.44,
+    "text": "on Windows you have to",
+    "textdich": ""
+  },
+  {
+    "start": 169.86,
+    "end": 173.819,
+    "text": "on Windows yeah or you can see on",
+    "textdich": ""
+  },
+  {
+    "start": 172.44,
+    "end": 176.04,
+    "text": "Windows you have to do something like",
+    "textdich": ""
+  },
+  {
+    "start": 173.819,
+    "end": 179.64,
+    "text": "this you have to uh",
+    "textdich": ""
+  },
+  {
+    "start": 176.04,
+    "end": 181.8,
+    "text": "you have to do I actually written this",
+    "textdich": ""
+  },
+  {
+    "start": 179.64,
+    "end": 185.099,
+    "text": "command to install you have to go into",
+    "textdich": ""
+  },
+  {
+    "start": 181.8,
+    "end": 186.599,
+    "text": "scripts and activate Okay you have to go",
+    "textdich": ""
+  },
+  {
+    "start": 185.099,
+    "end": 188.64,
+    "text": "into scripts and activity and you have",
+    "textdich": ""
+  },
+  {
+    "start": 186.599,
+    "end": 190.319,
+    "text": "to run that file you know what this is",
+    "textdich": ""
+  },
+  {
+    "start": 188.64,
+    "end": 193.56,
+    "text": "not as clear",
+    "textdich": ""
+  },
+  {
+    "start": 190.319,
+    "end": 196.379,
+    "text": "let me show you this is not as clear",
+    "textdich": ""
+  },
+  {
+    "start": 193.56,
+    "end": 199.68,
+    "text": "okay so this makes the command how to",
+    "textdich": ""
+  },
+  {
+    "start": 196.379,
+    "end": 202.62,
+    "text": "run the right thing so yeah",
+    "textdich": ""
+  },
+  {
+    "start": 199.68,
+    "end": 205.019,
+    "text": "uh you do not have to use the PS1 file",
+    "textdich": ""
+  },
+  {
+    "start": 202.62,
+    "end": 207.659,
+    "text": "user you can just use ins in the",
+    "textdich": ""
+  },
+  {
+    "start": 205.019,
+    "end": 209.34,
+    "text": "terminal you can just type when that the",
+    "textdich": ""
+  },
+  {
+    "start": 207.659,
+    "end": 211.5,
+    "text": "folder that you made you go into scripts",
+    "textdich": ""
+  },
+  {
+    "start": 209.34,
+    "end": 212.879,
+    "text": "and you type activate Okay so this is",
+    "textdich": ""
+  },
+  {
+    "start": 211.5,
+    "end": 215.459,
+    "text": "how you do on",
+    "textdich": ""
+  },
+  {
+    "start": 212.879,
+    "end": 216.42,
+    "text": "they get the process is kind of similar",
+    "textdich": ""
+  },
+  {
+    "start": 215.459,
+    "end": 219.18,
+    "text": "on",
+    "textdich": ""
+  },
+  {
+    "start": 216.42,
+    "end": 222.599,
+    "text": "windows and windows you go when scripts",
+    "textdich": ""
+  },
+  {
+    "start": 219.18,
+    "end": 223.68,
+    "text": "and activate on Linux you go when dot",
+    "textdich": ""
+  },
+  {
+    "start": 222.599,
+    "end": 226.68,
+    "text": "event",
+    "textdich": ""
+  },
+  {
+    "start": 223.68,
+    "end": 229.379,
+    "text": "uh scripts no I don't think it's it's",
+    "textdich": ""
+  },
+  {
+    "start": 226.68,
+    "end": 233.18,
+    "text": "been and activate",
+    "textdich": ""
+  },
+  {
+    "start": 229.379,
+    "end": 238.799,
+    "text": "and oh sorry I have to",
+    "textdich": ""
+  },
+  {
+    "start": 233.18,
+    "end": 241.56,
+    "text": "Source dot slash when we just write the",
+    "textdich": ""
+  },
+  {
+    "start": 238.799,
+    "end": 244.56,
+    "text": "one letter and press tab",
+    "textdich": ""
+  },
+  {
+    "start": 241.56,
+    "end": 246.299,
+    "text": "okay now you can see it says v e and V",
+    "textdich": ""
+  },
+  {
+    "start": 244.56,
+    "end": 250.14,
+    "text": "at the start it means I'm in the virtual",
+    "textdich": ""
+  },
+  {
+    "start": 246.299,
+    "end": 252.48,
+    "text": "room now what do I have to do after that",
+    "textdich": ""
+  },
+  {
+    "start": 250.14,
+    "end": 255.12,
+    "text": "I have to do",
+    "textdich": ""
+  },
+  {
+    "start": 252.48,
+    "end": 258.299,
+    "text": "install python install pip I already",
+    "textdich": ""
+  },
+  {
+    "start": 255.12,
+    "end": 259.979,
+    "text": "have that if you don't have it because",
+    "textdich": ""
+  },
+  {
+    "start": 258.299,
+    "end": 261.299,
+    "text": "it's pretty easy install the",
+    "textdich": ""
+  },
+  {
+    "start": 259.979,
+    "end": 265.88,
+    "text": "requirements so how do you install the",
+    "textdich": ""
+  },
+  {
+    "start": 261.299,
+    "end": 265.88,
+    "text": "requirements if install Dash R",
+    "textdich": ""
+  },
+  {
+    "start": 266.12,
+    "end": 269.88,
+    "text": "requirements Dot",
+    "textdich": ""
+  },
+  {
+    "start": 268.139,
+    "end": 272.699,
+    "text": "EXT",
+    "textdich": ""
+  },
+  {
+    "start": 269.88,
+    "end": 274.38,
+    "text": "okay so in if you see the requirements",
+    "textdich": ""
+  },
+  {
+    "start": 272.699,
+    "end": 277.34,
+    "text": "we are using three",
+    "textdich": ""
+  },
+  {
+    "start": 274.38,
+    "end": 280.259,
+    "text": "libraries beautiful so for selenium and",
+    "textdich": ""
+  },
+  {
+    "start": 277.34,
+    "end": 281.94,
+    "text": "tqdm okay",
+    "textdich": ""
+  },
+  {
+    "start": 280.259,
+    "end": 286.52,
+    "text": "selenium for automating the task",
+    "textdich": ""
+  },
+  {
+    "start": 281.94,
+    "end": 286.52,
+    "text": "Beautiful soap for actually",
+    "textdich": ""
+  },
+  {
+    "start": 288.419,
+    "end": 292.139,
+    "text": "I don't even remember at this point but",
+    "textdich": ""
+  },
+  {
+    "start": 290.52,
+    "end": 295.199,
+    "text": "basically connecting to the web server",
+    "textdich": ""
+  },
+  {
+    "start": 292.139,
+    "end": 298.5,
+    "text": "take you to M to keep a progress bar at",
+    "textdich": ""
+  },
+  {
+    "start": 295.199,
+    "end": 301.919,
+    "text": "the bottom okay this is the file okay",
+    "textdich": ""
+  },
+  {
+    "start": 298.5,
+    "end": 305.52,
+    "text": "and you have to do two things first on",
+    "textdich": ""
+  },
+  {
+    "start": 301.919,
+    "end": 307.139,
+    "text": "the channel URL you put you put a",
+    "textdich": ""
+  },
+  {
+    "start": 305.52,
+    "end": 309.3,
+    "text": "channel same so here you can see the",
+    "textdich": ""
+  },
+  {
+    "start": 307.139,
+    "end": 311.58,
+    "text": "channel URL you have to put the videos",
+    "textdich": ""
+  },
+  {
+    "start": 309.3,
+    "end": 314.28,
+    "text": "link so you go to Anon Channel let's say",
+    "textdich": ""
+  },
+  {
+    "start": 311.58,
+    "end": 316.74,
+    "text": "I go to I go to this channel",
+    "textdich": ""
+  },
+  {
+    "start": 314.28,
+    "end": 319.74,
+    "text": "I go to my own channel to my own channel",
+    "textdich": ""
+  },
+  {
+    "start": 316.74,
+    "end": 322.08,
+    "text": "and you click on videos",
+    "textdich": ""
+  },
+  {
+    "start": 319.74,
+    "end": 323.88,
+    "text": "you see this URL this is the URL that",
+    "textdich": ""
+  },
+  {
+    "start": 322.08,
+    "end": 326.4,
+    "text": "we've seen you've got that and you paste",
+    "textdich": ""
+  },
+  {
+    "start": 323.88,
+    "end": 329.28,
+    "text": "it here we got it now if your internet",
+    "textdich": ""
+  },
+  {
+    "start": 326.4,
+    "end": 332.4,
+    "text": "speed is good and your system is not",
+    "textdich": ""
+  },
+  {
+    "start": 329.28,
+    "end": 335.4,
+    "text": "very slow keep it one otherwise increase",
+    "textdich": ""
+  },
+  {
+    "start": 332.4,
+    "end": 337.979,
+    "text": "it to two two would be enough okay so",
+    "textdich": ""
+  },
+  {
+    "start": 335.4,
+    "end": 340.86,
+    "text": "what will happen is uh",
+    "textdich": ""
+  },
+  {
+    "start": 337.979,
+    "end": 343.56,
+    "text": "based on this value the page will",
+    "textdich": ""
+  },
+  {
+    "start": 340.86,
+    "end": 345.72,
+    "text": "actually run okay so let me show you",
+    "textdich": ""
+  },
+  {
+    "start": 343.56,
+    "end": 348.6,
+    "text": "that in the 2D batter to run this just",
+    "textdich": ""
+  },
+  {
+    "start": 345.72,
+    "end": 351.9,
+    "text": "type Python and if you are using Python",
+    "textdich": ""
+  },
+  {
+    "start": 348.6,
+    "end": 353.759,
+    "text": "3 you can type Python 3 space and this",
+    "textdich": ""
+  },
+  {
+    "start": 351.9,
+    "end": 356.1,
+    "text": "file",
+    "textdich": ""
+  },
+  {
+    "start": 353.759,
+    "end": 359.1,
+    "text": "okay and I keep it to the side so you",
+    "textdich": ""
+  },
+  {
+    "start": 356.1,
+    "end": 360.78,
+    "text": "can see so you see what happens the page",
+    "textdich": ""
+  },
+  {
+    "start": 359.1,
+    "end": 361.8,
+    "text": "opens",
+    "textdich": ""
+  },
+  {
+    "start": 360.78,
+    "end": 364.08,
+    "text": "okay",
+    "textdich": ""
+  },
+  {
+    "start": 361.8,
+    "end": 366.9,
+    "text": "and it checks how many videos are there",
+    "textdich": ""
+  },
+  {
+    "start": 364.08,
+    "end": 368.82,
+    "text": "so there are 250 videos so if I have set",
+    "textdich": ""
+  },
+  {
+    "start": 366.9,
+    "end": 371.58,
+    "text": "the internet speed to one it will scroll",
+    "textdich": ""
+  },
+  {
+    "start": 368.82,
+    "end": 374.34,
+    "text": "down for 50 seconds if my net speed was",
+    "textdich": ""
+  },
+  {
+    "start": 371.58,
+    "end": 376.44,
+    "text": "low this will increase too and so that's",
+    "textdich": ""
+  },
+  {
+    "start": 374.34,
+    "end": 379.199,
+    "text": "why I say if you're on a good speed keep",
+    "textdich": ""
+  },
+  {
+    "start": 376.44,
+    "end": 382.5,
+    "text": "it one uh if your internet speed is slow",
+    "textdich": ""
+  },
+  {
+    "start": 379.199,
+    "end": 385.919,
+    "text": "just make it two so this will run for 50",
+    "textdich": ""
+  },
+  {
+    "start": 382.5,
+    "end": 388.56,
+    "text": "seconds I try to you know manage it so",
+    "textdich": ""
+  },
+  {
+    "start": 385.919,
+    "end": 390.84,
+    "text": "that it stops at the end of the page but",
+    "textdich": ""
+  },
+  {
+    "start": 388.56,
+    "end": 395.039,
+    "text": "it was getting too complex and I ideally",
+    "textdich": ""
+  },
+  {
+    "start": 390.84,
+    "end": 397.62,
+    "text": "didn't want to look into it so anyways",
+    "textdich": ""
+  },
+  {
+    "start": 395.039,
+    "end": 400.38,
+    "text": "so this will what is this doing this is",
+    "textdich": ""
+  },
+  {
+    "start": 397.62,
+    "end": 402.72,
+    "text": "scrolling to the bottom and based on the",
+    "textdich": ""
+  },
+  {
+    "start": 400.38,
+    "end": 404.94,
+    "text": "number of the videos it will scroll",
+    "textdich": ""
+  },
+  {
+    "start": 402.72,
+    "end": 407.22,
+    "text": "okay just put this here and after this",
+    "textdich": ""
+  },
+  {
+    "start": 404.94,
+    "end": 410.52,
+    "text": "sprawling is complete",
+    "textdich": ""
+  },
+  {
+    "start": 407.22,
+    "end": 412.979,
+    "text": "see it almost took if it is right it is",
+    "textdich": ""
+  },
+  {
+    "start": 410.52,
+    "end": 416.4,
+    "text": "45 seconds yeah this is the last video",
+    "textdich": ""
+  },
+  {
+    "start": 412.979,
+    "end": 418.919,
+    "text": "at almost there so even if you have a",
+    "textdich": ""
+  },
+  {
+    "start": 416.4,
+    "end": 420.78,
+    "text": "little bit of bad internet",
+    "textdich": ""
+  },
+  {
+    "start": 418.919,
+    "end": 424.02,
+    "text": "you should go and now you can see there",
+    "textdich": ""
+  },
+  {
+    "start": 420.78,
+    "end": 426.12,
+    "text": "is a video info.txt file now it contains",
+    "textdich": ""
+  },
+  {
+    "start": 424.02,
+    "end": 429.38,
+    "text": "all the video let's check a random video",
+    "textdich": ""
+  },
+  {
+    "start": 426.12,
+    "end": 432.479,
+    "text": "if this is correct or not",
+    "textdich": ""
+  },
+  {
+    "start": 429.38,
+    "end": 435.479,
+    "text": "so this video is",
+    "textdich": ""
+  },
+  {
+    "start": 432.479,
+    "end": 435.479,
+    "text": "unboxing",
+    "textdich": ""
+  },
+  {
+    "start": 438.3,
+    "end": 443.52,
+    "text": "now no",
+    "textdich": ""
+  },
+  {
+    "start": 440.52,
+    "end": 445.52,
+    "text": "our area so yeah this is right and there",
+    "textdich": ""
+  },
+  {
+    "start": 443.52,
+    "end": 448.86,
+    "text": "is there is a",
+    "textdich": ""
+  },
+  {
+    "start": 445.52,
+    "end": 452.34,
+    "text": "tab between all these data so what will",
+    "textdich": ""
+  },
+  {
+    "start": 448.86,
+    "end": 455.699,
+    "text": "happen is if you have Excel",
+    "textdich": ""
+  },
+  {
+    "start": 452.34,
+    "end": 458.699,
+    "text": "okay and if you go into action and you",
+    "textdich": ""
+  },
+  {
+    "start": 455.699,
+    "end": 460.08,
+    "text": "just paste it what will happen is they",
+    "textdich": ""
+  },
+  {
+    "start": 458.699,
+    "end": 462.24,
+    "text": "will separate",
+    "textdich": ""
+  },
+  {
+    "start": 460.08,
+    "end": 466.46,
+    "text": "okay like this the links will be in the",
+    "textdich": ""
+  },
+  {
+    "start": 462.24,
+    "end": 470.039,
+    "text": "second column and this will be in the",
+    "textdich": ""
+  },
+  {
+    "start": 466.46,
+    "end": 472.62,
+    "text": "okay now you know what",
+    "textdich": ""
+  },
+  {
+    "start": 470.039,
+    "end": 474.0,
+    "text": "I'm going to do this for all my channels",
+    "textdich": ""
+  },
+  {
+    "start": 472.62,
+    "end": 476.759,
+    "text": "right now",
+    "textdich": ""
+  },
+  {
+    "start": 474.0,
+    "end": 478.44,
+    "text": "so this is my first channel and this is",
+    "textdich": ""
+  },
+  {
+    "start": 476.759,
+    "end": 480.9,
+    "text": "my second Channel",
+    "textdich": ""
+  },
+  {
+    "start": 478.44,
+    "end": 483.599,
+    "text": "okay uh as soon as I run it it will",
+    "textdich": ""
+  },
+  {
+    "start": 480.9,
+    "end": 486.0,
+    "text": "override this file so that's why I took",
+    "textdich": ""
+  },
+  {
+    "start": 483.599,
+    "end": 489.06,
+    "text": "the code out of there I didn't want to",
+    "textdich": ""
+  },
+  {
+    "start": 486.0,
+    "end": 491.819,
+    "text": "do that let's see for this",
+    "textdich": ""
+  },
+  {
+    "start": 489.06,
+    "end": 494.34,
+    "text": "Channel how much seconds it will take so",
+    "textdich": ""
+  },
+  {
+    "start": 491.819,
+    "end": 497.639,
+    "text": "it has only 124 videos so it will only",
+    "textdich": ""
+  },
+  {
+    "start": 494.34,
+    "end": 500.879,
+    "text": "run for 24.8 seconds",
+    "textdich": ""
+  },
+  {
+    "start": 497.639,
+    "end": 502.8,
+    "text": "okay let's see if that is enough or",
+    "textdich": ""
+  },
+  {
+    "start": 500.879,
+    "end": 504.72,
+    "text": "should I increase it to two",
+    "textdich": ""
+  },
+  {
+    "start": 502.8,
+    "end": 507.66,
+    "text": "if you want to be safe and you have time",
+    "textdich": ""
+  },
+  {
+    "start": 504.72,
+    "end": 510.0,
+    "text": "just make this internet speed and just",
+    "textdich": ""
+  },
+  {
+    "start": 507.66,
+    "end": 511.319,
+    "text": "go away if you have a lot of videos on",
+    "textdich": ""
+  },
+  {
+    "start": 510.0,
+    "end": 513.659,
+    "text": "that channel",
+    "textdich": ""
+  },
+  {
+    "start": 511.319,
+    "end": 516.36,
+    "text": "I don't think I will be needing more",
+    "textdich": ""
+  },
+  {
+    "start": 513.659,
+    "end": 519.839,
+    "text": "almost almost yep",
+    "textdich": ""
+  },
+  {
+    "start": 516.36,
+    "end": 523.26,
+    "text": "so the first video is 4.5 KV views",
+    "textdich": ""
+  },
+  {
+    "start": 519.839,
+    "end": 527.16,
+    "text": "okay Total videos for 123.",
+    "textdich": ""
+  },
+  {
+    "start": 523.26,
+    "end": 528.2,
+    "text": "okay and if I go into the this file it",
+    "textdich": ""
+  },
+  {
+    "start": 527.16,
+    "end": 531.66,
+    "text": "has",
+    "textdich": ""
+  },
+  {
+    "start": 528.2,
+    "end": 534.0,
+    "text": "you can easily paste it below this",
+    "textdich": ""
+  },
+  {
+    "start": 531.66,
+    "end": 536.399,
+    "text": "so yeah now I can simply copy this and",
+    "textdich": ""
+  },
+  {
+    "start": 534.0,
+    "end": 538.32,
+    "text": "also since it is slash T you don't even",
+    "textdich": ""
+  },
+  {
+    "start": 536.399,
+    "end": 540.48,
+    "text": "need to paste it into Excel you can also",
+    "textdich": ""
+  },
+  {
+    "start": 538.32,
+    "end": 542.279,
+    "text": "directly go ahead and paste it into your",
+    "textdich": ""
+  },
+  {
+    "start": 540.48,
+    "end": 545.399,
+    "text": "database",
+    "textdich": ""
+  },
+  {
+    "start": 542.279,
+    "end": 548.519,
+    "text": "so yeah that's it I know the code is not",
+    "textdich": ""
+  },
+  {
+    "start": 545.399,
+    "end": 551.279,
+    "text": "as user friendly but I think anyone who",
+    "textdich": ""
+  },
+  {
+    "start": 548.519,
+    "end": 554.64,
+    "text": "is looking into something like this",
+    "textdich": ""
+  },
+  {
+    "start": 551.279,
+    "end": 557.22,
+    "text": "that can you know make their life a bit",
+    "textdich": ""
+  },
+  {
+    "start": 554.64,
+    "end": 559.62,
+    "text": "easier I think they can go a bit ahead",
+    "textdich": ""
+  },
+  {
+    "start": 557.22,
+    "end": 562.32,
+    "text": "and try to figure out how the virtual",
+    "textdich": ""
+  },
+  {
+    "start": 559.62,
+    "end": 565.279,
+    "text": "environment you can activate and install",
+    "textdich": ""
+  },
+  {
+    "start": 562.32,
+    "end": 565.279,
+    "text": "okay see you",
+    "textdich": ""
+  }
+]
