@@ -150,7 +150,7 @@ overflow-y: auto;
 
 #subdich{
 text-align: left;
-color:yellow;
+color:orange;
 font-size: 1.1rem;
 height:5rem;
 margin-left:10px;
@@ -280,5 +280,6 @@ font-size: 1.1rem;
   position:relative ; 
   
 }
+
 
 
