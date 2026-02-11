@@ -15,8 +15,9 @@
 <!-- Header -->
 <header class="sticky"> 
 
-
   <div class="video-container">
+    <img src="Icons/sophie.jpg" class="preview-image" id="preview">
+
     <div id="playerContainer"></div>
   </div>
 
@@ -90,11 +91,16 @@
     let videoId = videochon.textContent;
     let subtitles = [];
     
+document.getElementById("preview").addEventListener("click", function () {
+    this.style.display = "none"; // Ẩn ảnh
+});
+
+
     function onYouTubeIframeAPIReady() {
       player = new YT.Player("playerContainer", {
         height: "315",
         width: "560",
-        videoId: videochon.textContent, //`${id_video}`
+        videoId: `${videoId}`,
         playerVars: { autoplay: 0, controls: 1 },
         events: {
           onReady: () => { },
@@ -112,6 +118,8 @@
       // 5. PLAY BUTTON
       // ==========================
       playBtn.addEventListener("click", async () => {
+              document.getElementById("preview").click();
+
         //alert("Playing video ID: " + videochon.textContent);
          videoId = videochon.textContent;
           subtitles = await fetchSubtitles(videoId);
@@ -135,6 +143,7 @@
       // ==========================
     
       selectVideo.addEventListener("change", async () => {
+              document.getElementById("preview").click();
         const chudeId = selectChude.value;
         const key = "bai_" + chudeId;
         localStorage.setItem(key, selectVideo.value);
@@ -163,6 +172,7 @@
       });
 
       selectVideo.addEventListener("dblclick", async () => {
+              document.getElementById("preview").click();
         const chudeId = selectChude.value;
         const key = "bai_" + chudeId;
         localStorage.setItem(key, selectVideo.value);
@@ -192,9 +202,24 @@
 
 //---------THU-----------
 //"https://www.youtube.com/watch?v=mi3xR5eGQ3s&list=PLtBFFyhEIC7n7PULjzTttoe4sNKzv4DBu&index=1"
+
+//document.addEventListener('DOMContentLoaded', (event) => {
+//  const previewImage = document.querySelector('.preview-image');
+//  const videoIframe = document.getElementById('video-iframe');
+
+//  previewImage.addEventListener('click', function() {
+    // Add 'hidden' class to fade out and hide the image
+//    this.classList.add('hidden');
+
+    // Add autoplay parameter to the iframe src to start the video
+    // Check if the URL already has parameters or needs the first one
+//    const separator = videoIframe.src.includes('?') ? '&' : '?';
+//    videoIframe.src += separator + 'autoplay=1';
+//  });
+//});
+
 </script>
 
   <script src="index.js"></script>
 </body>
-
 </html>

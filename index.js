@@ -396,3 +396,14 @@ function tom_tat_ndvideo(){
   }
   chatbox.innerHTML = 'Toi la ai ? Toi la ai ? Toi la ai ? Toi la ai ? Toi la ai ? Toi la ai ? Toi la ai ? Toi la ai ? ';
 }
+
+iframe.onload = () => {
+    document.getElementById("preview").style.opacity = "0";
+    iframe.style.opacity = "1";
+};
+
+window.addEventListener("load", () => {
+    playBtn.click();
+});
+
+
