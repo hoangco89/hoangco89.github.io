@@ -365,18 +365,22 @@ function lay_phudejson_byst(){
 
 function xuLiUrlInput(){
   let url = inputurl.value;
-  //gui link qua nho https://tien89.streamlit.app lay phu de 
-  const link = encodeURIComponent(url);
-  //let listgui = ['video', 'en', url];
-  //alert(link);
-  try {
-    //neu app.py chay tai may local 8501 thi:
-    window.location.href = "https://tien89.streamlit.app/?link=" + link;
-    inputurl.value = "";
-  } catch (err) {
-    console.error(err);
-    //alert('tien89.streamlit.app khong dang hoat dong.');
-    return;
+  if (url.includes("https://www.you")){
+    //gui link qua nho https://tien89.streamlit.app lay phu de 
+    const link = encodeURIComponent(url);
+    //let listgui = ['video', 'en', url]; 
+    //alert(link);
+    try {
+      //neu app.py chay tai may local 8501 thi:
+      window.location.href = "https://tien89.streamlit.app/?link=" + link;
+      inputurl.value = "";
+    } catch (err) {
+      console.error(err);
+      //alert('tien89.streamlit.app khong dang hoat dong.');
+      return;
+    }
+  }else{
+      inputurl.value = "";
   }
 }
 //https://www.youtube.com/watch?v=Apn6KLPx1_Q
