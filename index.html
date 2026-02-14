@@ -41,7 +41,9 @@
     <div class="group-3element">
       <button onclick="markTime()">Marktime</button>
       <button class="chinh-speed" onclick="giamSpeed()">S-</button>
-      <div id="videochon" onclick="them_Http()">uckcR0Zl_2Q</div>
+<div class="box visible" id="hthispeed">1.2</div>
+
+      <div class="box hidden" id="videochon" onclick="them_Http()">uckcR0Zl_2Q</div>
       <button class="chinh-speed" onclick="tangSpeed()">S+</button>
       <button onclick="repeatLast()">Repeat</button>
     </div>
@@ -77,6 +79,7 @@
 <!-- YouTube API -->
   <script src="https://www.youtube.com/iframe_api"></script>
   <script>
+
     // https://www.youtube.com/watch?v=mi3xR5eGQ3s&list=PLtBFFyhEIC7n7PULjzTttoe4sNKzv4DBu&index=1
 //https://www.youtu.be/watch?v=mi3xR5eGQ3s
 //<a href="https://www.youtube.com/watch?v=mi3xR5eGQ3s&list=PLtBFFyhEIC7n7PULjzTttoe4sNKzv4DBu&index=1">Click</a>
@@ -91,6 +94,8 @@
     const tbao_pde = document.getElementById("tbao_pde");
     const inputurl = document.getElementById("inputurl");
     const chatbox = document.getElementById("chatbox");
+    const hthispeed = document.getElementById("hthispeed");
+
 
     let player = null;
     let videoId = videochon.textContent;
@@ -244,12 +249,14 @@ let sp = 1;
 function giamSpeed() {
   sp = sp - 0.1;
   player.setPlaybackRate(sp);
+  hthispeed.textContent = sp.toFixed(1);
+
 }
 function tangSpeed() {
   sp = sp + 0.1
   player.setPlaybackRate(sp);
+  hthispeed.textContent = sp.toFixed(1);
 }
-
 </script>
 
   <script src="index.js"></script>

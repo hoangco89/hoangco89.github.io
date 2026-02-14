@@ -314,3 +314,17 @@ font-size: 1.1rem;
     height:30px;
     border-radius: 50%;
 }
+
+.box {
+  border: none;
+  background: transparent;
+  color:yellow;
+}
+
+.hidden {
+  opacity: 0;        /* Ẩn hoàn toàn */
+  /*pointer-events: auto;  Vẫn cho phép click */
+  pointer-events: none;
+position: absolute;  /* Không chiếm chỗ */
+
+}
