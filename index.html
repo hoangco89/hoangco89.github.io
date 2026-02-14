@@ -16,8 +16,7 @@
 <header class="sticky"> 
 
   <div class="video-container">
-    <img src="https://i.ytimg.com/vi_webp/SyJlbqiZABQ/hq720.webp" class="preview-image" id="preview">
-
+    <img id="preview" class="preview-image" src="https://i.ytimg.com/vi_webp/SyJlbqiZABQ/hq720.webp">
     <div id="playerContainer"></div>
   </div>
 
@@ -39,7 +38,13 @@
     <div id="subdich">[translated subtitles ]</div>
     
     <hr>
-    <div id="videochon" onclick="them_Http()">uckcR0Zl_2Q</div>
+    <div class="group-3element">
+      <button onclick="markTime()">Marktime</button>
+      <button class="chinh-speed" onclick="giamSpeed()">S-</button>
+      <div id="videochon" onclick="them_Http()">uckcR0Zl_2Q</div>
+      <button class="chinh-speed" onclick="tangSpeed()">S+</button>
+      <button onclick="repeatLast()">Repeat</button>
+    </div>
     <hr>
     <br>
 
@@ -90,6 +95,9 @@
     let player = null;
     let videoId = videochon.textContent;
     let subtitles = [];
+ 
+    let lastTime = 0;
+
     
 document.getElementById("preview").addEventListener("click", function () {
     this.style.display = "none"; // Ẩn ảnh
@@ -217,10 +225,33 @@ document.getElementById("preview").addEventListener("click", function () {
 //    videoIframe.src += separator + 'autoplay=1';
 //  });
 //});
+// Save current time
+function markTime() {
+  if (player && player.getCurrentTime) {
+    lastTime = player.getCurrentTime();
+    console.log("Đã lưu thời điểm:", lastTime);
+  }
+}
+
+// Repeat last marked time
+function repeatLast() {
+  if (player && player.seekTo) {
+    player.seekTo(lastTime-1, true);
+    player.playVideo();
+  }
+}
+let sp = 1;
+function giamSpeed() {
+  sp = sp - 0.1;
+  player.setPlaybackRate(sp);
+}
+function tangSpeed() {
+  sp = sp + 0.1
+  player.setPlaybackRate(sp);
+}
 
 </script>
 
   <script src="index.js"></script>
 </body>
-
 </html>
