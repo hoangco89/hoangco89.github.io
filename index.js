@@ -365,7 +365,7 @@ function lay_phudejson_byst(){
 
 function xuLiUrlInput(){
   let url = inputurl.value;
-  if (url.includes("https://www.you")){
+  
     //gui link qua nho https://tien89.streamlit.app lay phu de 
     const link = encodeURIComponent(url);
     //let listgui = ['video', 'en', url]; 
@@ -379,9 +379,7 @@ function xuLiUrlInput(){
       //alert('tien89.streamlit.app khong dang hoat dong.');
       return;
     }
-  }else{
-      inputurl.value = "";
-  }
+  
 }
 //https://www.youtube.com/watch?v=Apn6KLPx1_Q
 
