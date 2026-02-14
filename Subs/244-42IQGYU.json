@@ -1,0 +1,518 @@
+[
+  {
+    "start": 7.04,
+    "end": 11.92,
+    "text": "In this video, we're going to look at",
+    "textdich": ""
+  },
+  {
+    "start": 8.96,
+    "end": 15.679,
+    "text": "what kinetic energy is and show you how",
+    "textdich": ""
+  },
+  {
+    "start": 11.92,
+    "end": 18.24,
+    "text": "to calculate it using the equation.",
+    "textdich": ""
+  },
+  {
+    "start": 15.679,
+    "end": 20.64,
+    "text": "Now, the kinetic energy of an object is",
+    "textdich": ""
+  },
+  {
+    "start": 18.24,
+    "end": 22.32,
+    "text": "the energy that it possesses due to its",
+    "textdich": ""
+  },
+  {
+    "start": 20.64,
+    "end": 24.72,
+    "text": "motion.",
+    "textdich": ""
+  },
+  {
+    "start": 22.32,
+    "end": 27.039,
+    "text": "So, anything that's moving has kinetic",
+    "textdich": ""
+  },
+  {
+    "start": 24.72,
+    "end": 29.039,
+    "text": "energy, whether it's a plane or a",
+    "textdich": ""
+  },
+  {
+    "start": 27.039,
+    "end": 31.359,
+    "text": "particle.",
+    "textdich": ""
+  },
+  {
+    "start": 29.039,
+    "end": 35.2,
+    "text": "How much energy an object has though",
+    "textdich": ""
+  },
+  {
+    "start": 31.359,
+    "end": 36.88,
+    "text": "depends on two things. Its speed and its",
+    "textdich": ""
+  },
+  {
+    "start": 35.2,
+    "end": 39.36,
+    "text": "mass.",
+    "textdich": ""
+  },
+  {
+    "start": 36.88,
+    "end": 41.6,
+    "text": "For speed, the faster an object is",
+    "textdich": ""
+  },
+  {
+    "start": 39.36,
+    "end": 44.879,
+    "text": "moving, the more kinetic energy it will",
+    "textdich": ""
+  },
+  {
+    "start": 41.6,
+    "end": 46.96,
+    "text": "have. Which kind of makes sense because",
+    "textdich": ""
+  },
+  {
+    "start": 44.879,
+    "end": 49.2,
+    "text": "if you think about any fast moving",
+    "textdich": ""
+  },
+  {
+    "start": 46.96,
+    "end": 51.6,
+    "text": "object, it must have had lots of energy",
+    "textdich": ""
+  },
+  {
+    "start": 49.2,
+    "end": 54.239,
+    "text": "transferred to it in order to speed it",
+    "textdich": ""
+  },
+  {
+    "start": 51.6,
+    "end": 57.6,
+    "text": "up. And that energy is stored in the",
+    "textdich": ""
+  },
+  {
+    "start": 54.239,
+    "end": 60.96,
+    "text": "kinetic energy store. So fast objects",
+    "textdich": ""
+  },
+  {
+    "start": 57.6,
+    "end": 62.96,
+    "text": "have lots of kinetic energy.",
+    "textdich": ""
+  },
+  {
+    "start": 60.96,
+    "end": 65.119,
+    "text": "Meanwhile, for mass, as long as",
+    "textdich": ""
+  },
+  {
+    "start": 62.96,
+    "end": 66.88,
+    "text": "everything else is kept equal, for",
+    "textdich": ""
+  },
+  {
+    "start": 65.119,
+    "end": 70.56,
+    "text": "example, the objects have the same",
+    "textdich": ""
+  },
+  {
+    "start": 66.88,
+    "end": 74.32,
+    "text": "speed, then the more mass an object has,",
+    "textdich": ""
+  },
+  {
+    "start": 70.56,
+    "end": 78.24,
+    "text": "the more kinetic energy it'll have.",
+    "textdich": ""
+  },
+  {
+    "start": 74.32,
+    "end": 81.68,
+    "text": "So if our particle weighed 0.1 g, but",
+    "textdich": ""
+  },
+  {
+    "start": 78.24,
+    "end": 85.6,
+    "text": "our plane weighed 20 tons and both of",
+    "textdich": ""
+  },
+  {
+    "start": 81.68,
+    "end": 87.759,
+    "text": "them were traveling at 900 m/s,",
+    "textdich": ""
+  },
+  {
+    "start": 85.6,
+    "end": 89.84,
+    "text": "the plane would have much more kinetic",
+    "textdich": ""
+  },
+  {
+    "start": 87.759,
+    "end": 94.68,
+    "text": "energy because it has a much larger",
+    "textdich": ""
+  },
+  {
+    "start": 89.84,
+    "end": 94.68,
+    "text": "mass, but the speeds are the same.",
+    "textdich": ""
+  },
+  {
+    "start": 95.84,
+    "end": 102.4,
+    "text": "What if instead though the plane was",
+    "textdich": ""
+  },
+  {
+    "start": 98.56,
+    "end": 106.32,
+    "text": "traveling at 5 m/s and the particle was",
+    "textdich": ""
+  },
+  {
+    "start": 102.4,
+    "end": 108.399,
+    "text": "traveling at 4,000 m/s?",
+    "textdich": ""
+  },
+  {
+    "start": 106.32,
+    "end": 110.72,
+    "text": "In order to find out which object had",
+    "textdich": ""
+  },
+  {
+    "start": 108.399,
+    "end": 113.439,
+    "text": "the most kinetic energy this time, we'd",
+    "textdich": ""
+  },
+  {
+    "start": 110.72,
+    "end": 115.92,
+    "text": "have to use the equation which states",
+    "textdich": ""
+  },
+  {
+    "start": 113.439,
+    "end": 119.759,
+    "text": "that E K=",
+    "textdich": ""
+  },
+  {
+    "start": 115.92,
+    "end": 121.04,
+    "text": "12 mv^ 2.",
+    "textdich": ""
+  },
+  {
+    "start": 119.759,
+    "end": 124.479,
+    "text": "If you're not familiar with this",
+    "textdich": ""
+  },
+  {
+    "start": 121.04,
+    "end": 128.0,
+    "text": "equation, the E stands for energy and",
+    "textdich": ""
+  },
+  {
+    "start": 124.479,
+    "end": 130.399,
+    "text": "the little K means it's kinetic energy.",
+    "textdich": ""
+  },
+  {
+    "start": 128.0,
+    "end": 134.4,
+    "text": "Then M is mass, which we measure in",
+    "textdich": ""
+  },
+  {
+    "start": 130.399,
+    "end": 136.319,
+    "text": "kilos, and V is velocity, which for the",
+    "textdich": ""
+  },
+  {
+    "start": 134.4,
+    "end": 141.08,
+    "text": "sake of this question is the same as",
+    "textdich": ""
+  },
+  {
+    "start": 136.319,
+    "end": 141.08,
+    "text": "speed and is measured in meters/s.",
+    "textdich": ""
+  },
+  {
+    "start": 141.28,
+    "end": 146.08,
+    "text": "So, as with any question, once we have",
+    "textdich": ""
+  },
+  {
+    "start": 143.599,
+    "end": 147.84,
+    "text": "our equation, the next step is to make",
+    "textdich": ""
+  },
+  {
+    "start": 146.08,
+    "end": 149.84,
+    "text": "sure all of our values are in the",
+    "textdich": ""
+  },
+  {
+    "start": 147.84,
+    "end": 152.959,
+    "text": "correct units.",
+    "textdich": ""
+  },
+  {
+    "start": 149.84,
+    "end": 155.76,
+    "text": "So, we have to change 20 tons to 20,000",
+    "textdich": ""
+  },
+  {
+    "start": 152.959,
+    "end": 159.599,
+    "text": "kilos as there are 1,000 kilos in each",
+    "textdich": ""
+  },
+  {
+    "start": 155.76,
+    "end": 163.519,
+    "text": "ton. And we need to divide 0.1 g by",
+    "textdich": ""
+  },
+  {
+    "start": 159.599,
+    "end": 165.2,
+    "text": "1,000 to get 0.1",
+    "textdich": ""
+  },
+  {
+    "start": 163.519,
+    "end": 167.04,
+    "text": "kilos.",
+    "textdich": ""
+  },
+  {
+    "start": 165.2,
+    "end": 169.68,
+    "text": "And we're now ready to plug these values",
+    "textdich": ""
+  },
+  {
+    "start": 167.04,
+    "end": 174.08,
+    "text": "into our equations.",
+    "textdich": ""
+  },
+  {
+    "start": 169.68,
+    "end": 178.0,
+    "text": "For the plane, we do 12 or 0.5",
+    "textdich": ""
+  },
+  {
+    "start": 174.08,
+    "end": 181.2,
+    "text": "time it mass of 20,000 kilos time it",
+    "textdich": ""
+  },
+  {
+    "start": 178.0,
+    "end": 183.04,
+    "text": "speed of 5 squared.",
+    "textdich": ""
+  },
+  {
+    "start": 181.2,
+    "end": 185.12,
+    "text": "And remember that it's only the speed",
+    "textdich": ""
+  },
+  {
+    "start": 183.04,
+    "end": 186.64,
+    "text": "that's being squared, not the entire",
+    "textdich": ""
+  },
+  {
+    "start": 185.12,
+    "end": 189.36,
+    "text": "thing.",
+    "textdich": ""
+  },
+  {
+    "start": 186.64,
+    "end": 191.519,
+    "text": "So that gives us 250,000",
+    "textdich": ""
+  },
+  {
+    "start": 189.36,
+    "end": 194.319,
+    "text": "which will be in jewels because we",
+    "textdich": ""
+  },
+  {
+    "start": 191.519,
+    "end": 199.12,
+    "text": "measure energy in jewels.",
+    "textdich": ""
+  },
+  {
+    "start": 194.319,
+    "end": 203.159,
+    "text": "And we could rewrite it as 250 K as the",
+    "textdich": ""
+  },
+  {
+    "start": 199.12,
+    "end": 203.159,
+    "text": "K just means 1,00.",
+    "textdich": ""
+  },
+  {
+    "start": 203.36,
+    "end": 210.599,
+    "text": "Meanwhile, for the particle, we do 0.5",
+    "textdich": ""
+  },
+  {
+    "start": 207.12,
+    "end": 210.599,
+    "text": "* 0.001*",
+    "textdich": ""
+  },
+  {
+    "start": 211.28,
+    "end": 220.599,
+    "text": "4,000^ 2, which gives us 800 JW or 0.8",
+    "textdich": ""
+  },
+  {
+    "start": 217.599,
+    "end": 220.599,
+    "text": "K.",
+    "textdich": ""
+  },
+  {
+    "start": 220.879,
+    "end": 225.28,
+    "text": "So even though the particle was",
+    "textdich": ""
+  },
+  {
+    "start": 222.64,
+    "end": 227.68,
+    "text": "traveling much faster, it still had less",
+    "textdich": ""
+  },
+  {
+    "start": 225.28,
+    "end": 230.92,
+    "text": "kinetic energy because its mass was so",
+    "textdich": ""
+  },
+  {
+    "start": 227.68,
+    "end": 230.92,
+    "text": "much lower.",
+    "textdich": ""
+  },
+  {
+    "start": 233.519,
+    "end": 237.599,
+    "text": "If you haven't heard yet, you can find",
+    "textdich": ""
+  },
+  {
+    "start": 235.2,
+    "end": 239.76,
+    "text": "all of our videos on our website,",
+    "textdich": ""
+  },
+  {
+    "start": 237.599,
+    "end": 243.12,
+    "text": "cognito.org.",
+    "textdich": ""
+  },
+  {
+    "start": 239.76,
+    "end": 246.08,
+    "text": "You'll also find questions, flashcards,",
+    "textdich": ""
+  },
+  {
+    "start": 243.12,
+    "end": 248.159,
+    "text": "exam style questions, and pass papers.",
+    "textdich": ""
+  },
+  {
+    "start": 246.08,
+    "end": 250.72,
+    "text": "And we track all of your progress so",
+    "textdich": ""
+  },
+  {
+    "start": 248.159,
+    "end": 253.68,
+    "text": "that you always know what to study next.",
+    "textdich": ""
+  },
+  {
+    "start": 250.72,
+    "end": 257.959,
+    "text": "So sign up for free by clicking here or",
+    "textdich": ""
+  },
+  {
+    "start": 253.68,
+    "end": 257.959,
+    "text": "browse our playlist here on YouTube.",
+    "textdich": ""
+  }
+]
