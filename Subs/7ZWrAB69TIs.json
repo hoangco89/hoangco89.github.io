@@ -1,0 +1,968 @@
+[
+  {
+    "start": 0.32,
+    "end": 6.879,
+    "text": "Chào các bé, chào mừng đến với Thế giới Truyện của Ông Sách và Tôi",
+    "textdich": ""
+  },
+  {
+    "start": 3.84,
+    "end": 9.04,
+    "text": ", nơi những câu chuyện và sự sáng tạo",
+    "textdich": ""
+  },
+  {
+    "start": 6.879,
+    "end": 12.0,
+    "text": "trở nên sống động.",
+    "textdich": ""
+  },
+  {
+    "start": 9.04,
+    "end": 15.28,
+    "text": "Bạn đã bao giờ leo lên một nơi cao",
+    "textdich": ""
+  },
+  {
+    "start": 12.0,
+    "end": 19.359,
+    "text": "đến nỗi mây chạm vào mặt mình chưa? Jack",
+    "textdich": ""
+  },
+  {
+    "start": 15.28,
+    "end": 23.8,
+    "text": "đã làm vậy. Và những gì anh ấy tìm thấy ở đỉnh cao",
+    "textdich": ""
+  },
+  {
+    "start": 19.359,
+    "end": 23.8,
+    "text": "đã thay đổi cuộc đời anh ấy  mãi mãi. Ngày xửa ngày xưa,",
+    "textdich": ""
+  },
+  {
+    "start": 25.6,
+    "end": 32.079,
+    "text": "tại một ngôi làng nhỏ bé, yên tĩnh, có",
+    "textdich": ""
+  },
+  {
+    "start": 28.88,
+    "end": 38.52,
+    "text": "một góa phụ nghèo và người con trai duy nhất của bà",
+    "textdich": ""
+  },
+  {
+    "start": 32.079,
+    "end": 38.52,
+    "text": ", một cậu bé vui vẻ, đầy hy vọng tên là Jack.",
+    "textdich": ""
+  },
+  {
+    "start": 39.36,
+    "end": 45.68,
+    "text": "Nhưng cuộc sống không hề dễ dàng. Mái nhà của họ",
+    "textdich": ""
+  },
+  {
+    "start": 42.719,
+    "end": 48.0,
+    "text": "bị dột, tủ đựng thức ăn thường xuyên trống rỗng,",
+    "textdich": ""
+  },
+  {
+    "start": 45.68,
+    "end": 52.559,
+    "text": "và tài sản quý giá duy nhất của họ là một",
+    "textdich": ""
+  },
+  {
+    "start": 48.0,
+    "end": 58.295,
+    "text": "con bò hiền lành tên là Milky.",
+    "textdich": ""
+  },
+  {
+    "start": 52.559,
+    "end": 59.52,
+    "text": "Một buổi sáng nọ, Milky đột nhiên ngừng cho sữa.",
+    "textdich": ""
+  },
+  {
+    "start": 58.295,
+    "end": 63.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 59.52,
+    "end": 65.92,
+    "text": "Ôi, Jack, chúng ta không thể sống sót như thế này được.",
+    "textdich": ""
+  },
+  {
+    "start": 63.92,
+    "end": 68.479,
+    "text": "Bạn phải đưa  Milky ra",
+    "textdich": ""
+  },
+  {
+    "start": 65.92,
+    "end": 70.08,
+    "text": "chợ và bán nó đi.",
+    "textdich": ""
+  },
+  {
+    "start": 68.479,
+    "end": 74.72,
+    "text": "Mẹ ơi,",
+    "textdich": ""
+  },
+  {
+    "start": 70.08,
+    "end": 78.08,
+    "text": "hôm nay con sẽ bán Milky. Có lẽ",
+    "textdich": ""
+  },
+  {
+    "start": 74.72,
+    "end": 81.36,
+    "text": "sẽ có người chăm sóc tốt cho cô ấy.",
+    "textdich": ""
+  },
+  {
+    "start": 78.08,
+    "end": 85.04,
+    "text": "Tôi rất đau lòng khi phải nói điều này, Jack à, nhưng chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 81.36,
+    "end": 87.68,
+    "text": "buộc phải làm vậy. Tôi rất tiếc, con trai ạ.",
+    "textdich": ""
+  },
+  {
+    "start": 85.04,
+    "end": 89.92,
+    "text": "Mang trong mình cả nước mắt và lòng can đảm,",
+    "textdich": ""
+  },
+  {
+    "start": 87.68,
+    "end": 91.6,
+    "text": "Jack bắt đầu bước về phía",
+    "textdich": ""
+  },
+  {
+    "start": 89.92,
+    "end": 95.92,
+    "text": "chợ làng.",
+    "textdich": ""
+  },
+  {
+    "start": 91.6,
+    "end": 98.88,
+    "text": "Rồi một ông lão kỳ lạ xuất hiện. Chào cậu bé",
+    "textdich": ""
+  },
+  {
+    "start": 95.92,
+    "end": 100.0,
+    "text": ". Sao",
+    "textdich": ""
+  },
+  {
+    "start": 98.88,
+    "end": 103.6,
+    "text": "mặt mày lại buồn thế?",
+    "textdich": ""
+  },
+  {
+    "start": 100.0,
+    "end": 109.04,
+    "text": "Tôi đang bán con bò của mình. Chúng tôi hầu như chẳng có",
+    "textdich": ""
+  },
+  {
+    "start": 103.6,
+    "end": 113.04,
+    "text": "gì ở nhà cả. Chúng tôi cần tiền.",
+    "textdich": ""
+  },
+  {
+    "start": 109.04,
+    "end": 116.799,
+    "text": "Thay vì tiền, hãy dùng năm hạt đậu thần kỳ này",
+    "textdich": ""
+  },
+  {
+    "start": 113.04,
+    "end": 119.84,
+    "text": ". Họ mang theo những phép màu. Hãy",
+    "textdich": ""
+  },
+  {
+    "start": 116.799,
+    "end": 121.2,
+    "text": "gieo mầm âm nhạc này tối nay. Hãy tin tưởng đi,",
+    "textdich": ""
+  },
+  {
+    "start": 119.84,
+    "end": 125.68,
+    "text": "chàng trai.",
+    "textdich": ""
+  },
+  {
+    "start": 121.2,
+    "end": 126.799,
+    "text": "Tôi tin tưởng bạn. Đây, lấy sữa đi. Cảm ơn",
+    "textdich": ""
+  },
+  {
+    "start": 125.68,
+    "end": 130.319,
+    "text": ".",
+    "textdich": ""
+  },
+  {
+    "start": 126.799,
+    "end": 134.0,
+    "text": "Cậu bé chạy về nhà với vẻ mặt phấn khích, nóng lòng muốn kể",
+    "textdich": ""
+  },
+  {
+    "start": 130.319,
+    "end": 137.2,
+    "text": "hết mọi chuyện cho mẹ nghe. Mẹ ơi, con không",
+    "textdich": ""
+  },
+  {
+    "start": 134.0,
+    "end": 142.239,
+    "text": "bán Milky để lấy tiền. Tôi có thứ",
+    "textdich": ""
+  },
+  {
+    "start": 137.2,
+    "end": 146.8,
+    "text": "tốt hơn rồi. Nhìn kìa, những hạt đậu thần kỳ. Jack, cậu bé ngốc nghếch",
+    "textdich": ""
+  },
+  {
+    "start": 142.239,
+    "end": 150.48,
+    "text": ". Hạt đậu thần kỳ. Vớ vẩn. Chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 146.8,
+    "end": 153.28,
+    "text": "cần thức ăn, chứ không phải những giấc mơ hão huyền.",
+    "textdich": ""
+  },
+  {
+    "start": 150.48,
+    "end": 158.959,
+    "text": "Mẹ ném những hạt đậu ra ngoài cửa sổ,",
+    "textdich": ""
+  },
+  {
+    "start": 153.28,
+    "end": 163.12,
+    "text": "quay lưng đi và ngồi phịch xuống ghế.",
+    "textdich": ""
+  },
+  {
+    "start": 158.959,
+    "end": 165.68,
+    "text": "Đêm đó, Jack khóc thầm và chìm vào",
+    "textdich": ""
+  },
+  {
+    "start": 163.12,
+    "end": 168.4,
+    "text": "giấc ngủ với nỗi buồn mà cậu không thể diễn tả bằng",
+    "textdich": ""
+  },
+  {
+    "start": 165.68,
+    "end": 170.959,
+    "text": "lời.",
+    "textdich": ""
+  },
+  {
+    "start": 168.4,
+    "end": 173.36,
+    "text": "Nhưng những hạt đậu thần kỳ",
+    "textdich": ""
+  },
+  {
+    "start": 170.959,
+    "end": 175.92,
+    "text": "bắt đầu phát sáng dưới lòng đất ",
+    "textdich": ""
+  },
+  {
+    "start": 173.36,
+    "end": 179.519,
+    "text": ".",
+    "textdich": ""
+  },
+  {
+    "start": 175.92,
+    "end": 183.08,
+    "text": "Đến sáng, một cây đậu khổng lồ xoắn ốc vươn",
+    "textdich": ""
+  },
+  {
+    "start": 179.519,
+    "end": 183.08,
+    "text": "lên tận mây.",
+    "textdich": ""
+  },
+  {
+    "start": 187.519,
+    "end": 194.8,
+    "text": "Mẹ ơi, ra ngoài đi ạ. Điều này",
+    "textdich": ""
+  },
+  {
+    "start": 192.56,
+    "end": 198.56,
+    "text": "thật tuyệt vời.",
+    "textdich": ""
+  },
+  {
+    "start": 194.8,
+    "end": 201.519,
+    "text": "Ôi trời ơi, Jack. Bạn đã",
+    "textdich": ""
+  },
+  {
+    "start": 198.56,
+    "end": 205.68,
+    "text": "làm gì vậy?",
+    "textdich": ""
+  },
+  {
+    "start": 201.519,
+    "end": 209.28,
+    "text": "Đó là sự thật. Phép màu là có thật.",
+    "textdich": ""
+  },
+  {
+    "start": 205.68,
+    "end": 213.44,
+    "text": "Sự tò mò của Jack càng mạnh mẽ hơn và cậu bé leo lên,",
+    "textdich": ""
+  },
+  {
+    "start": 209.28,
+    "end": 217.04,
+    "text": "leo lên, leo lên nữa.",
+    "textdich": ""
+  },
+  {
+    "start": 213.44,
+    "end": 220.08,
+    "text": "Trên đỉnh núi, Jack tìm thấy một vùng đất kỳ diệu",
+    "textdich": ""
+  },
+  {
+    "start": 217.04,
+    "end": 223.04,
+    "text": "được bao phủ bởi những đám mây mù và một",
+    "textdich": ""
+  },
+  {
+    "start": 220.08,
+    "end": 227.12,
+    "text": "con đường vàng. Jack tiếp tục đi theo con đường cho đến khi",
+    "textdich": ""
+  },
+  {
+    "start": 223.04,
+    "end": 230.879,
+    "text": "đến một dinh thự đồ sộ trông giống như lâu đài. Lâu",
+    "textdich": ""
+  },
+  {
+    "start": 227.12,
+    "end": 234.319,
+    "text": "đài đó, nó rất lớn.",
+    "textdich": ""
+  },
+  {
+    "start": 230.879,
+    "end": 236.319,
+    "text": "Tôi hy vọng có người tốt bụng sống ở đây. Jack",
+    "textdich": ""
+  },
+  {
+    "start": 234.319,
+    "end": 239.799,
+    "text": "gõ nhẹ vào cánh cửa gỗ khổng lồ ",
+    "textdich": ""
+  },
+  {
+    "start": 236.319,
+    "end": 239.799,
+    "text": ".",
+    "textdich": ""
+  },
+  {
+    "start": 239.84,
+    "end": 245.519,
+    "text": "Ồ, một cậu bé nhỏ xíu. Em đến đây làm gì vậy,",
+    "textdich": ""
+  },
+  {
+    "start": 244.239,
+    "end": 249.519,
+    "text": "em yêu?",
+    "textdich": ""
+  },
+  {
+    "start": 245.519,
+    "end": 251.599,
+    "text": "Tôi đói bụng, thưa bà. Bạn có thể cho",
+    "textdich": ""
+  },
+  {
+    "start": 249.519,
+    "end": 255.92,
+    "text": "tôi một ít thức ăn được không?",
+    "textdich": ""
+  },
+  {
+    "start": 251.599,
+    "end": 258.88,
+    "text": "Ôi, tội nghiệp đứa trẻ. Vào nhanh lên. Hãy ăn",
+    "textdich": ""
+  },
+  {
+    "start": 255.92,
+    "end": 263.759,
+    "text": "trước khi chồng tôi về. Cảm ơn",
+    "textdich": ""
+  },
+  {
+    "start": 258.88,
+    "end": 267.759,
+    "text": "bà. Bạn thật tốt bụng.",
+    "textdich": ""
+  },
+  {
+    "start": 263.759,
+    "end": 268.96,
+    "text": "Đột nhiên, mặt đất rung chuyển. Rầm, rầm,",
+    "textdich": ""
+  },
+  {
+    "start": 267.759,
+    "end": 272.96,
+    "text": "rầm.",
+    "textdich": ""
+  },
+  {
+    "start": 268.96,
+    "end": 274.479,
+    "text": "Ôi không, anh ấy về rồi. Con ơi, trốn đi. Hãy",
+    "textdich": ""
+  },
+  {
+    "start": 272.96,
+    "end": 277.68,
+    "text": "nhanh chóng trốn đi.",
+    "textdich": ""
+  },
+  {
+    "start": 274.479,
+    "end": 280.24,
+    "text": "Jack hoảng sợ và bò lại phía sau một chiếc cốc khổng lồ,",
+    "textdich": ""
+  },
+  {
+    "start": 277.68,
+    "end": 283.24,
+    "text": "to hơn cả người cậu. Fe",
+    "textdich": ""
+  },
+  {
+    "start": 280.24,
+    "end": 283.24,
+    "text": ".",
+    "textdich": ""
+  },
+  {
+    "start": 284.4,
+    "end": 293.199,
+    "text": "Tôi ngửi thấy mùi máu của một người Anh.",
+    "textdich": ""
+  },
+  {
+    "start": 289.44,
+    "end": 297.04,
+    "text": "Ôi trời. Bạn và cái mũi của bạn. Bạn ngửi thấy mùi",
+    "textdich": ""
+  },
+  {
+    "start": 293.199,
+    "end": 301.84,
+    "text": "gió, chứ không phải mùi người. Ngồi xuống và ăn đi. Tốt lắm",
+    "textdich": ""
+  },
+  {
+    "start": 297.04,
+    "end": 305.12,
+    "text": ". Tôi đói quá.",
+    "textdich": ""
+  },
+  {
+    "start": 301.84,
+    "end": 309.52,
+    "text": "Anh ta ngồi xuống và ăn một đống thức ăn khổng lồ.",
+    "textdich": ""
+  },
+  {
+    "start": 305.12,
+    "end": 315.44,
+    "text": "Sau khi hoàn thành, anh ta gầm lên. Gà mái",
+    "textdich": ""
+  },
+  {
+    "start": 309.52,
+    "end": 319.36,
+    "text": ", lại đây. Hãy đẻ cho tôi những quả trứng vàng.",
+    "textdich": ""
+  },
+  {
+    "start": 315.44,
+    "end": 323.68,
+    "text": "Tôi phải tuân lệnh. Con gà mái vàng tiến về",
+    "textdich": ""
+  },
+  {
+    "start": 319.36,
+    "end": 325.52,
+    "text": "phía trước. Tiếng leng keng. Một quả trứng vàng óng ánh rơi xuống",
+    "textdich": ""
+  },
+  {
+    "start": 323.68,
+    "end": 328.72,
+    "text": ".",
+    "textdich": ""
+  },
+  {
+    "start": 325.52,
+    "end": 332.16,
+    "text": "Giant đặt con gà mái trở lại vào lồng. Anh ta",
+    "textdich": ""
+  },
+  {
+    "start": 328.72,
+    "end": 333.84,
+    "text": "dậm chân tiến về phía chiếc giường khổng lồ của mình và ngủ thiếp đi",
+    "textdich": ""
+  },
+  {
+    "start": 332.16,
+    "end": 338.08,
+    "text": "ngay lập tức. Này",
+    "textdich": ""
+  },
+  {
+    "start": 333.84,
+    "end": 341.84,
+    "text": "cậu bé, ra đây nhanh lên. Nghe này, con gà mái này",
+    "textdich": ""
+  },
+  {
+    "start": 338.08,
+    "end": 343.84,
+    "text": "không phải của anh ta. Hắn đã cướp cô ấy. Hãy đưa cô ấy đi",
+    "textdich": ""
+  },
+  {
+    "start": 341.84,
+    "end": 349.12,
+    "text": "trước khi hắn tỉnh dậy.",
+    "textdich": ""
+  },
+  {
+    "start": 343.84,
+    "end": 353.28,
+    "text": "Hãy cứu tôi với. Tôi không thuộc về nơi này. Tôi",
+    "textdich": ""
+  },
+  {
+    "start": 349.12,
+    "end": 358.639,
+    "text": "chỉ muốn sống an toàn, chứ không phải sống trong lồng.",
+    "textdich": ""
+  },
+  {
+    "start": 353.28,
+    "end": 362.56,
+    "text": "Tôi sẽ bảo vệ bạn. Cảm ơn bà. Chạy",
+    "textdich": ""
+  },
+  {
+    "start": 358.639,
+    "end": 365.68,
+    "text": "đi, cậu bé. Chạy nhanh lên. Nếu anh ta tỉnh dậy,",
+    "textdich": ""
+  },
+  {
+    "start": 362.56,
+    "end": 368.319,
+    "text": "cả hai chúng ta đều sẽ không an toàn.",
+    "textdich": ""
+  },
+  {
+    "start": 365.68,
+    "end": 370.96,
+    "text": "Jack lao ra khỏi lâu đài, ôm",
+    "textdich": ""
+  },
+  {
+    "start": 368.319,
+    "end": 375.96,
+    "text": "chặt con gà mái vàng,",
+    "textdich": ""
+  },
+  {
+    "start": 370.96,
+    "end": 375.96,
+    "text": "và nhanh chóng trèo xuống cây đậu.",
+    "textdich": ""
+  },
+  {
+    "start": 377.284,
+    "end": 381.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 378.8,
+    "end": 384.479,
+    "text": "Vài ngày sau, mọi thứ sắp sửa",
+    "textdich": ""
+  },
+  {
+    "start": 381.919,
+    "end": 388.08,
+    "text": "thay đổi. Tôi còn",
+    "textdich": ""
+  },
+  {
+    "start": 384.479,
+    "end": 393.004,
+    "text": "một việc nữa phải làm. Cây",
+    "textdich": ""
+  },
+  {
+    "start": 388.08,
+    "end": 393.039,
+    "text": "đàn hạc vàng ấy như đang kêu cứu.",
+    "textdich": ""
+  },
+  {
+    "start": 393.004,
+    "end": 395.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 393.039,
+    "end": 399.36,
+    "text": "Anh ta lại trèo lên cây đậu thần,",
+    "textdich": ""
+  },
+  {
+    "start": 395.759,
+    "end": 405.319,
+    "text": "bước vào lâu đài, và ở đó anh ta",
+    "textdich": ""
+  },
+  {
+    "start": 399.36,
+    "end": 405.319,
+    "text": "nhìn thấy nó, cây đàn hạc vàng.",
+    "textdich": ""
+  },
+  {
+    "start": 410.72,
+    "end": 419.599,
+    "text": "Ôi, cậu bé ơi, hãy cứu tôi với. Tôi sợ gã",
+    "textdich": ""
+  },
+  {
+    "start": 416.319,
+    "end": 422.72,
+    "text": "khổng lồ mỗi ngày.",
+    "textdich": ""
+  },
+  {
+    "start": 419.599,
+    "end": 426.319,
+    "text": "Tôi sẽ đưa bạn về nhà. Tôi hứa.",
+    "textdich": ""
+  },
+  {
+    "start": 422.72,
+    "end": 429.44,
+    "text": "Nhưng ngay khi Jack nhấc cây đàn hạc lên, một tiếng",
+    "textdich": ""
+  },
+  {
+    "start": 426.319,
+    "end": 433.039,
+    "text": "dậm chân lớn vang vọng khắp lâu đài.",
+    "textdich": ""
+  },
+  {
+    "start": 429.44,
+    "end": 435.919,
+    "text": "Ồ, lại là bạn. ",
+    "textdich": ""
+  },
+  {
+    "start": 433.039,
+    "end": 439.84,
+    "text": "Sao ngươi dám quay lại?",
+    "textdich": ""
+  },
+  {
+    "start": 435.919,
+    "end": 441.039,
+    "text": "Ôi không, anh ta đến rồi. Tôi phải chạy",
+    "textdich": ""
+  },
+  {
+    "start": 439.84,
+    "end": 443.28,
+    "text": "nhanh lên.",
+    "textdich": ""
+  },
+  {
+    "start": 441.039,
+    "end": 446.0,
+    "text": "Jack chạy ra khỏi lâu đài, tim",
+    "textdich": ""
+  },
+  {
+    "start": 443.28,
+    "end": 447.12,
+    "text": "đập thình thịch khi gã khổng lồ gầm rú phía sau",
+    "textdich": ""
+  },
+  {
+    "start": 446.0,
+    "end": 451.28,
+    "text": ".",
+    "textdich": ""
+  },
+  {
+    "start": 447.12,
+    "end": 455.12,
+    "text": "Trả lại đàn hạc cho tôi.",
+    "textdich": ""
+  },
+  {
+    "start": 451.28,
+    "end": 457.52,
+    "text": "Và cuộc rượt đuổi gay cấn bắt đầu. Jack chạy vụt",
+    "textdich": ""
+  },
+  {
+    "start": 455.12,
+    "end": 460.319,
+    "text": "qua tầng mây, cây đàn",
+    "textdich": ""
+  },
+  {
+    "start": 457.52,
+    "end": 463.28,
+    "text": "hạc trong tay anh ngân nga một cách lo lắng.",
+    "textdich": ""
+  },
+  {
+    "start": 460.319,
+    "end": 465.28,
+    "text": "Anh ấy đang ở ngay phía sau chúng ta. Jack,",
+    "textdich": ""
+  },
+  {
+    "start": 463.28,
+    "end": 467.36,
+    "text": "nhanh lên nào.",
+    "textdich": ""
+  },
+  {
+    "start": 465.28,
+    "end": 470.96,
+    "text": "Jack nắm lấy cây đậu thần  và",
+    "textdich": ""
+  },
+  {
+    "start": 467.36,
+    "end": 474.8,
+    "text": "trượt xuống thật nhanh. Nhưng lần này, gã",
+    "textdich": ""
+  },
+  {
+    "start": 470.96,
+    "end": 477.759,
+    "text": "khổng lồ đã leo xuống được theo sau anh ta.",
+    "textdich": ""
+  },
+  {
+    "start": 474.8,
+    "end": 482.52,
+    "text": "Tôi chưa xong việc với anh đâu.",
+    "textdich": ""
+  },
+  {
+    "start": 477.759,
+    "end": 482.52,
+    "text": "Ngươi không thể trốn thoát khỏi ta đâu, thằng nhóc. Mẹ",
+    "textdich": ""
+  },
+  {
+    "start": 482.96,
+    "end": 490.639,
+    "text": ". Mẹ ơi, mang rìu đến đây.",
+    "textdich": ""
+  },
+  {
+    "start": 486.96,
+    "end": 491.759,
+    "text": "Jack, chuyện gì đang xảy ra vậy? Cái rìu? Vâng, tôi",
+    "textdich": ""
+  },
+  {
+    "start": 490.639,
+    "end": 493.919,
+    "text": "có nó.",
+    "textdich": ""
+  },
+  {
+    "start": 491.759,
+    "end": 499.36,
+    "text": "Jack với tay xuống đất và giơ",
+    "textdich": ""
+  },
+  {
+    "start": 493.919,
+    "end": 503.36,
+    "text": "chiếc rìu lên. Chặt, chặt, chặt. Không. Dừng lại. Đừng",
+    "textdich": ""
+  },
+  {
+    "start": 499.36,
+    "end": 507.599,
+    "text": "cắt nó. Beanotalk ngã xuống. Gã khổng lồ",
+    "textdich": ""
+  },
+  {
+    "start": 503.36,
+    "end": 512.52,
+    "text": "ngã lăn xuống rất xa",
+    "textdich": ""
+  },
+  {
+    "start": 507.599,
+    "end": 512.52,
+    "text": "và biến mất mãi mãi.",
+    "textdich": ""
+  },
+  {
+    "start": 514.959,
+    "end": 520.479,
+    "text": "Con yêu, con đã trở về rồi.",
+    "textdich": ""
+  },
+  {
+    "start": 518.159,
+    "end": 523.599,
+    "text": "Bạn đã quay trở lại. Giờ thì",
+    "textdich": ""
+  },
+  {
+    "start": 520.479,
+    "end": 525.92,
+    "text": "chúng ta  đã an toàn rồi. Cảm ơn bạn,",
+    "textdich": ""
+  },
+  {
+    "start": 523.599,
+    "end": 528.16,
+    "text": "Jack. Và âm nhạc hòa bình",
+    "textdich": ""
+  },
+  {
+    "start": 525.92,
+    "end": 532.08,
+    "text": "đã trở lại.",
+    "textdich": ""
+  },
+  {
+    "start": 528.16,
+    "end": 534.959,
+    "text": "Đây là sự khởi đầu mới của chúng ta. Tất cả chỉ",
+    "textdich": ""
+  },
+  {
+    "start": 532.08,
+    "end": 537.92,
+    "text": "nhờ vài hạt đậu thần kỳ.",
+    "textdich": ""
+  },
+  {
+    "start": 534.959,
+    "end": 540.0,
+    "text": "Lòng dũng cảm dẫn đến những điều tuyệt vời,",
+    "textdich": ""
+  },
+  {
+    "start": 537.92,
+    "end": 543.279,
+    "text": "đặc biệt là khi nó được dẫn dắt bởi",
+    "textdich": ""
+  },
+  {
+    "start": 540.0,
+    "end": 545.92,
+    "text": "lòng tốt. Nếu bạn thích câu chuyện này,",
+    "textdich": ""
+  },
+  {
+    "start": 543.279,
+    "end": 548.399,
+    "text": "hãy nhấn nút thích, chia sẻ với",
+    "textdich": ""
+  },
+  {
+    "start": 545.92,
+    "end": 551.36,
+    "text": "bạn bè và đừng quên nhấn",
+    "textdich": ""
+  },
+  {
+    "start": 548.399,
+    "end": 556.36,
+    "text": "nút đăng ký để xem thêm nhiều",
+    "textdich": ""
+  },
+  {
+    "start": 551.36,
+    "end": 556.36,
+    "text": "câu chuyện kỳ ​​diệu khác nhé! Hẹn gặp lại lần sau.",
+    "textdich": ""
+  }
+]
