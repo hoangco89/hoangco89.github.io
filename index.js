@@ -357,7 +357,7 @@ function lay_phudejson_byst(){
       window.location.href = "https://tien89.streamlit.app/?link=" + link;
     } catch (err) {
       console.error(err);
-      alert('py ko hd');
+      //alert('py ko hd');
       return;
     }
 
@@ -371,7 +371,7 @@ function xuLiUrlInput(){
   //alert(link);
   try {
     //neu app.py chay tai may local 8501 thi:
-    window.location.href = "http://localhost:8501/?link=" + link;
+    window.location.href = "https://tien89.streamlit.app/?link=" + link;
   } catch (err) {
     console.error(err);
     //alert('tien89.streamlit.app khong dang hoat dong.');
