@@ -1,0 +1,2762 @@
+[
+  {
+    "start": 24.967,
+    "end": 28.1,
+    "text": "Hey there! What can I get for you today?",
+    "textdich": ""
+  },
+  {
+    "start": 28.167,
+    "end": 32.667,
+    "text": "Hello! I want some tomatoes, please. The red ones.",
+    "textdich": ""
+  },
+  {
+    "start": 32.733,
+    "end": 36.533,
+    "text": "Sure! These tomatoes are great for salads!",
+    "textdich": ""
+  },
+  {
+    "start": 36.633,
+    "end": 39.1,
+    "text": "or you can just eat them as they are.",
+    "textdich": ""
+  },
+  {
+    "start": 39.1,
+    "end": 41.1,
+    "text": "Fresh from the farm!",
+    "textdich": ""
+  },
+  {
+    "start": 41.167,
+    "end": 45.067,
+    "text": "Oh, they look nice. How much are they?",
+    "textdich": ""
+  },
+  {
+    "start": 45.167,
+    "end": 47.833,
+    "text": "It’s three dollars for a pound.",
+    "textdich": ""
+  },
+  {
+    "start": 47.833,
+    "end": 51.933,
+    "text": "But if you want to buy a little more, I can give you a deal.",
+    "textdich": ""
+  },
+  {
+    "start": 52.0,
+    "end": 54.067,
+    "text": "I'll cut you a break.",
+    "textdich": ""
+  },
+  {
+    "start": 54.133,
+    "end": 56.767,
+    "text": "Cut me a break.",
+    "textdich": ""
+  },
+  {
+    "start": 56.833,
+    "end": 61.533,
+    "text": "Oh, I just mean I’ll give you a better price if you buy more.",
+    "textdich": ""
+  },
+  {
+    "start": 61.6,
+    "end": 64.6,
+    "text": "It's like a little discount.",
+    "textdich": ""
+  },
+  {
+    "start": 64.667,
+    "end": 67.467,
+    "text": "Ah, I see! I'll take it.",
+    "textdich": ""
+  },
+  {
+    "start": 67.567,
+    "end": 69.767,
+    "text": "How much are the apples?",
+    "textdich": ""
+  },
+  {
+    "start": 69.767,
+    "end": 72.767,
+    "text": "They’re two dollars fifty for a dozen.",
+    "textdich": ""
+  },
+  {
+    "start": 72.767,
+    "end": 78.167,
+    "text": "You know, these apples will really hit the spot if you’re looking for a sweet snack.",
+    "textdich": ""
+  },
+  {
+    "start": 78.267,
+    "end": 82.267,
+    "text": "Hit the spot? I don’t understand.",
+    "textdich": ""
+  },
+  {
+    "start": 82.333,
+    "end": 85.967,
+    "text": "It’s just a way of saying something is really good,",
+    "textdich": ""
+  },
+  {
+    "start": 86.067,
+    "end": 88.833,
+    "text": "like perfect for what you need.",
+    "textdich": ""
+  },
+  {
+    "start": 88.833,
+    "end": 92.467,
+    "text": "So, these apples are delicious if you’re hungry.",
+    "textdich": ""
+  },
+  {
+    "start": 92.567,
+    "end": 97.367,
+    "text": "Ah, okay. I’ll take the tomatoes and apples then.",
+    "textdich": ""
+  },
+  {
+    "start": 97.433,
+    "end": 100.267,
+    "text": "Great choice. You love them.",
+    "textdich": ""
+  },
+  {
+    "start": 100.267,
+    "end": 103.433,
+    "text": "It'll be a nice little treat for the week.",
+    "textdich": ""
+  },
+  {
+    "start": 103.533,
+    "end": 106.433,
+    "text": "Thank you. You really helped me today.",
+    "textdich": ""
+  },
+  {
+    "start": 106.5,
+    "end": 109.6,
+    "text": "No problem! I’m happy to help anytime.",
+    "textdich": ""
+  },
+  {
+    "start": 109.6,
+    "end": 124.7,
+    "text": "Have a great day.",
+    "textdich": ""
+  },
+  {
+    "start": 124.767,
+    "end": 127.067,
+    "text": "Excuse me, do you have more bread?",
+    "textdich": ""
+  },
+  {
+    "start": 127.067,
+    "end": 129.533,
+    "text": "I don't see any on the shelf.",
+    "textdich": ""
+  },
+  {
+    "start": 129.633,
+    "end": 133.767,
+    "text": "Oh, yeah, we’re just about to restock.",
+    "textdich": ""
+  },
+  {
+    "start": 133.967,
+    "end": 136.567,
+    "text": "I'm putting some out right now.",
+    "textdich": ""
+  },
+  {
+    "start": 136.667,
+    "end": 138.3,
+    "text": "That's great.",
+    "textdich": ""
+  },
+  {
+    "start": 138.367,
+    "end": 140.433,
+    "text": "Should be ready in a minute.",
+    "textdich": ""
+  },
+  {
+    "start": 140.433,
+    "end": 144.1,
+    "text": "We always try to get the shelves filled up quickly.",
+    "textdich": ""
+  },
+  {
+    "start": 144.2,
+    "end": 146.867,
+    "text": "I see. Thank you for your help!",
+    "textdich": ""
+  },
+  {
+    "start": 146.933,
+    "end": 151.833,
+    "text": "No problem! You know, we’re always trying to keep things in stock.",
+    "textdich": ""
+  },
+  {
+    "start": 151.833,
+    "end": 157.933,
+    "text": "Sometimes we run out, but we try to get things back on the shelf as fast as we can.",
+    "textdich": ""
+  },
+  {
+    "start": 158.0,
+    "end": 162.167,
+    "text": "Why do you have to run outside to get more?",
+    "textdich": ""
+  },
+  {
+    "start": 162.233,
+    "end": 166.967,
+    "text": "Oh, run out just means that we don't have any more of something.",
+    "textdich": ""
+  },
+  {
+    "start": 167.067,
+    "end": 170.5,
+    "text": "Like, if we don’t have any more bread, we’ve run out.",
+    "textdich": ""
+  },
+  {
+    "start": 170.7,
+    "end": 172.567,
+    "text": "But I'm getting more now.",
+    "textdich": ""
+  },
+  {
+    "start": 172.667,
+    "end": 176.633,
+    "text": "Ah, okay. I understand now. Thank you!",
+    "textdich": ""
+  },
+  {
+    "start": 176.7,
+    "end": 178.167,
+    "text": "You got it!",
+    "textdich": ""
+  },
+  {
+    "start": 178.167,
+    "end": 182.233,
+    "text": "And don’t worry, I’ll make sure the bread is back on the shelf in no time.",
+    "textdich": ""
+  },
+  {
+    "start": 182.233,
+    "end": 184.2,
+    "text": "It'll be good to go.",
+    "textdich": ""
+  },
+  {
+    "start": 184.267,
+    "end": 188.3,
+    "text": "Great! I will wait. I’m happy to come back later.",
+    "textdich": ""
+  },
+  {
+    "start": 188.367,
+    "end": 191.667,
+    "text": "Perfect! And if you ever need something, just ask.",
+    "textdich": ""
+  },
+  {
+    "start": 191.667,
+    "end": 193.933,
+    "text": "We're happy to help out.",
+    "textdich": ""
+  },
+  {
+    "start": 193.933,
+    "end": 207.933,
+    "text": "I will! Thanks again!",
+    "textdich": ""
+  },
+  {
+    "start": 208.033,
+    "end": 212.667,
+    "text": "Hello! These are beautiful dishes. How much are they?",
+    "textdich": ""
+  },
+  {
+    "start": 212.767,
+    "end": 217.4,
+    "text": "Hi there! Those are 5 dollars for the set.",
+    "textdich": ""
+  },
+  {
+    "start": 217.467,
+    "end": 220.9,
+    "text": "They’re a real steal at that price!",
+    "textdich": ""
+  },
+  {
+    "start": 220.967,
+    "end": 224.233,
+    "text": "A steal? Did you steal them?",
+    "textdich": ""
+  },
+  {
+    "start": 224.3,
+    "end": 228.5,
+    "text": "Oh, a steal just means it’s a really good deal.",
+    "textdich": ""
+  },
+  {
+    "start": 228.6,
+    "end": 232.933,
+    "text": "Like you’re getting something for much less than it’s worth.",
+    "textdich": ""
+  },
+  {
+    "start": 233.0,
+    "end": 236.733,
+    "text": "Ah, I see! That’s a good deal.",
+    "textdich": ""
+  },
+  {
+    "start": 236.833,
+    "end": 238.6,
+    "text": "I will take them.",
+    "textdich": ""
+  },
+  {
+    "start": 238.6,
+    "end": 242.233,
+    "text": "Great choice! You really can’t go wrong with these.",
+    "textdich": ""
+  },
+  {
+    "start": 242.3,
+    "end": 244.633,
+    "text": "They're in good shape, too.",
+    "textdich": ""
+  },
+  {
+    "start": 244.633,
+    "end": 246.967,
+    "text": "Yes, they look nice.",
+    "textdich": ""
+  },
+  {
+    "start": 246.967,
+    "end": 248.967,
+    "text": "But what about that pot?",
+    "textdich": ""
+  },
+  {
+    "start": 248.967,
+    "end": 251.333,
+    "text": "Is it also a steal?",
+    "textdich": ""
+  },
+  {
+    "start": 251.4,
+    "end": 257.467,
+    "text": "Haha, well, the pot is not a steal, but it’s a good price too.",
+    "textdich": ""
+  },
+  {
+    "start": 257.533,
+    "end": 263.2,
+    "text": "Just 10 dollars. It’s a little old, but still in great condition.",
+    "textdich": ""
+  },
+  {
+    "start": 263.267,
+    "end": 265.9,
+    "text": "I see! I will take it, too.",
+    "textdich": ""
+  },
+  {
+    "start": 265.9,
+    "end": 268.2,
+    "text": "How much for everything?",
+    "textdich": ""
+  },
+  {
+    "start": 268.3,
+    "end": 271.6,
+    "text": "Let’s see… the set of dishes and the pot...",
+    "textdich": ""
+  },
+  {
+    "start": 271.6,
+    "end": 275.533,
+    "text": "That’ll be 15 dollas in total.",
+    "textdich": ""
+  },
+  {
+    "start": 275.6,
+    "end": 278.667,
+    "text": "I’ll cut you a break since you’re buying both.",
+    "textdich": ""
+  },
+  {
+    "start": 278.667,
+    "end": 280.233,
+    "text": "Cut me a break?",
+    "textdich": ""
+  },
+  {
+    "start": 280.233,
+    "end": 282.1,
+    "text": "What does that mean?",
+    "textdich": ""
+  },
+  {
+    "start": 282.1,
+    "end": 286.467,
+    "text": "Oh, cut you a break means I’m giving you a better deal.",
+    "textdich": ""
+  },
+  {
+    "start": 286.567,
+    "end": 289.733,
+    "text": "A little discount because you're buying more.",
+    "textdich": ""
+  },
+  {
+    "start": 289.833,
+    "end": 292.667,
+    "text": "Oh, that’s nice! Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 292.767,
+    "end": 295.233,
+    "text": "I am happy with my purchases.",
+    "textdich": ""
+  },
+  {
+    "start": 295.3,
+    "end": 310.667,
+    "text": "You’re welcome! I hope you enjoy them!",
+    "textdich": ""
+  },
+  {
+    "start": 310.767,
+    "end": 315.067,
+    "text": "Hello, I’m looking for a phone for my grandson.",
+    "textdich": ""
+  },
+  {
+    "start": 315.133,
+    "end": 317.633,
+    "text": "He's turning 15.",
+    "textdich": ""
+  },
+  {
+    "start": 317.633,
+    "end": 321.4,
+    "text": "Hi! That’s great! I’m sure he’ll love it.",
+    "textdich": ""
+  },
+  {
+    "start": 321.5,
+    "end": 323.4,
+    "text": "We have a lot of options.",
+    "textdich": ""
+  },
+  {
+    "start": 323.4,
+    "end": 327.4,
+    "text": "Are you thinking about a smartphone or something else?",
+    "textdich": ""
+  },
+  {
+    "start": 327.5,
+    "end": 332.033,
+    "text": "I’m not sure. I think he wants a smartphone.",
+    "textdich": ""
+  },
+  {
+    "start": 332.1,
+    "end": 335.133,
+    "text": "What's the best one for a teenager?",
+    "textdich": ""
+  },
+  {
+    "start": 335.133,
+    "end": 340.167,
+    "text": "Well, we have some new models that are flying off the shelves right now.",
+    "textdich": ""
+  },
+  {
+    "start": 340.233,
+    "end": 342.6,
+    "text": "I would recommend something like this one.",
+    "textdich": ""
+  },
+  {
+    "start": 342.6,
+    "end": 345.7,
+    "text": "It's very popular with the younger crowd",
+    "textdich": ""
+  },
+  {
+    "start": 345.8,
+    "end": 347.667,
+    "text": "flying off the shelves.",
+    "textdich": ""
+  },
+  {
+    "start": 347.667,
+    "end": 350.667,
+    "text": "Is it moving too fast?",
+    "textdich": ""
+  },
+  {
+    "start": 350.767,
+    "end": 356.0,
+    "text": "Oh no! Flying off the shelves just means it's selling really quickly.",
+    "textdich": ""
+  },
+  {
+    "start": 356.1,
+    "end": 358.733,
+    "text": "In other words, people love it.",
+    "textdich": ""
+  },
+  {
+    "start": 358.833,
+    "end": 363.4,
+    "text": "Ah, I see! It sounds like a good choice.",
+    "textdich": ""
+  },
+  {
+    "start": 363.5,
+    "end": 365.7,
+    "text": "What about the price?",
+    "textdich": ""
+  },
+  {
+    "start": 365.7,
+    "end": 370.433,
+    "text": "It's a bit on the expensive side, but I can give you a deal.",
+    "textdich": ""
+  },
+  {
+    "start": 370.533,
+    "end": 372.367,
+    "text": "What's the deal?",
+    "textdich": ""
+  },
+  {
+    "start": 372.367,
+    "end": 376.4,
+    "text": "If you buy today, I can throw in a case for free.",
+    "textdich": ""
+  },
+  {
+    "start": 376.467,
+    "end": 379.633,
+    "text": "Throw in? Why do you have to throw it?",
+    "textdich": ""
+  },
+  {
+    "start": 379.733,
+    "end": 383.3,
+    "text": "Throw in just means I’ll include it for no extra charge.",
+    "textdich": ""
+  },
+  {
+    "start": 383.3,
+    "end": 386.333,
+    "text": "So, it’s like a bonus gift!",
+    "textdich": ""
+  },
+  {
+    "start": 386.433,
+    "end": 390.967,
+    "text": "Oh, I see! That’s nice. I’ll take it.",
+    "textdich": ""
+  },
+  {
+    "start": 391.067,
+    "end": 393.267,
+    "text": "Thank you for your help.",
+    "textdich": ""
+  },
+  {
+    "start": 393.267,
+    "end": 396.733,
+    "text": "You’re welcome! I’m sure your grandson will be thrilled.",
+    "textdich": ""
+  },
+  {
+    "start": 396.733,
+    "end": 399.133,
+    "text": "Let me wrap it up for you.",
+    "textdich": ""
+  },
+  {
+    "start": 399.133,
+    "end": 414.567,
+    "text": "I’m sure he will! Thank you again!",
+    "textdich": ""
+  },
+  {
+    "start": 414.633,
+    "end": 418.967,
+    "text": "Excuse me, do you have any old jackets for sale?",
+    "textdich": ""
+  },
+  {
+    "start": 419.033,
+    "end": 423.067,
+    "text": "Oh, definitely! We have a whole rack over here.",
+    "textdich": ""
+  },
+  {
+    "start": 423.133,
+    "end": 425.667,
+    "text": "You might find something you like!",
+    "textdich": ""
+  },
+  {
+    "start": 425.767,
+    "end": 428.833,
+    "text": "This one is nice. How much is it?",
+    "textdich": ""
+  },
+  {
+    "start": 428.933,
+    "end": 433.633,
+    "text": "That one is 15 bucks. It’s a real find, to be honest.",
+    "textdich": ""
+  },
+  {
+    "start": 433.7,
+    "end": 436.4,
+    "text": "It's in great shape for its age.",
+    "textdich": ""
+  },
+  {
+    "start": 436.4,
+    "end": 439.4,
+    "text": "A find? What does that mean?",
+    "textdich": ""
+  },
+  {
+    "start": 439.5,
+    "end": 443.467,
+    "text": "A fine just means something really good that you discover.",
+    "textdich": ""
+  },
+  {
+    "start": 443.533,
+    "end": 447.367,
+    "text": "So, that jacket is great! You should buy it!",
+    "textdich": ""
+  },
+  {
+    "start": 447.433,
+    "end": 450.3,
+    "text": "Ah, I understand now! I’ll take it.",
+    "textdich": ""
+  },
+  {
+    "start": 450.367,
+    "end": 452.267,
+    "text": "What else do you have?",
+    "textdich": ""
+  },
+  {
+    "start": 452.267,
+    "end": 457.833,
+    "text": "Well, if you’re looking for shoes, we just got a new batch in.",
+    "textdich": ""
+  },
+  {
+    "start": 457.9,
+    "end": 461.667,
+    "text": "They're a bit worn, but still good to go!",
+    "textdich": ""
+  },
+  {
+    "start": 461.767,
+    "end": 466.233,
+    "text": "Worn? Like... somebody has worn it?",
+    "textdich": ""
+  },
+  {
+    "start": 466.3,
+    "end": 469.233,
+    "text": "Kind of. Worn just means they’ve been used,",
+    "textdich": ""
+  },
+  {
+    "start": 469.233,
+    "end": 471.3,
+    "text": "But they're still in good condition.",
+    "textdich": ""
+  },
+  {
+    "start": 471.3,
+    "end": 473.667,
+    "text": "They're just not brand new.",
+    "textdich": ""
+  },
+  {
+    "start": 473.667,
+    "end": 478.567,
+    "text": "Ah, I see. How about good to go?",
+    "textdich": ""
+  },
+  {
+    "start": 478.567,
+    "end": 480.133,
+    "text": "I don't get it.",
+    "textdich": ""
+  },
+  {
+    "start": 480.133,
+    "end": 485.433,
+    "text": "Oh, good to go means something is ready to be used, with no problems.",
+    "textdich": ""
+  },
+  {
+    "start": 485.533,
+    "end": 488.867,
+    "text": "That’s great! I’ll take a look at the shoes, too.",
+    "textdich": ""
+  },
+  {
+    "start": 488.933,
+    "end": 491.7,
+    "text": "Awesome! Let me know if you need anything else.",
+    "textdich": ""
+  },
+  {
+    "start": 491.7,
+    "end": 494.933,
+    "text": "I’m sure you’ll find some great deals today.",
+    "textdich": ""
+  },
+  {
+    "start": 495.033,
+    "end": 510.133,
+    "text": "Thank you!",
+    "textdich": ""
+  },
+  {
+    "start": 510.2,
+    "end": 514.0,
+    "text": "Hello! I want to book a table for tonight.",
+    "textdich": ""
+  },
+  {
+    "start": 514.067,
+    "end": 516.933,
+    "text": "Sure! How many people will be coming?",
+    "textdich": ""
+  },
+  {
+    "start": 516.933,
+    "end": 519.467,
+    "text": "Just me and my friend. Two people.",
+    "textdich": ""
+  },
+  {
+    "start": 519.467,
+    "end": 522.933,
+    "text": "Great! What time would you like to come in?",
+    "textdich": ""
+  },
+  {
+    "start": 523.033,
+    "end": 526.033,
+    "text": "Um, what time is good?",
+    "textdich": ""
+  },
+  {
+    "start": 526.1,
+    "end": 529.6,
+    "text": "Well, we have some spots open at 7 or 8.",
+    "textdich": ""
+  },
+  {
+    "start": 529.667,
+    "end": 533.2,
+    "text": "Which one works better for you?",
+    "textdich": ""
+  },
+  {
+    "start": 533.267,
+    "end": 538.1,
+    "text": "Hmm, 7 is good. But... is it busy at 7?",
+    "textdich": ""
+  },
+  {
+    "start": 538.167,
+    "end": 543.3,
+    "text": "Oh, it’s usually a little busy at that time, but we can fit you in.",
+    "textdich": ""
+  },
+  {
+    "start": 543.4,
+    "end": 544.967,
+    "text": "Fit me in.",
+    "textdich": ""
+  },
+  {
+    "start": 544.967,
+    "end": 546.467,
+    "text": "What does that mean?",
+    "textdich": ""
+  },
+  {
+    "start": 546.467,
+    "end": 549.467,
+    "text": "Fit you in just means we have space for you.",
+    "textdich": ""
+  },
+  {
+    "start": 549.667,
+    "end": 553.7,
+    "text": "Even if it’s busy, we can still give you a table!",
+    "textdich": ""
+  },
+  {
+    "start": 553.8,
+    "end": 558.333,
+    "text": "Ah, I understand now! I will take 7 then.",
+    "textdich": ""
+  },
+  {
+    "start": 558.4,
+    "end": 561.867,
+    "text": "Perfect! So, 7 PM for two people.",
+    "textdich": ""
+  },
+  {
+    "start": 561.967,
+    "end": 565.333,
+    "text": "Do you want to leave your name for the reservation?",
+    "textdich": ""
+  },
+  {
+    "start": 565.4,
+    "end": 567.433,
+    "text": "Leave my name?",
+    "textdich": ""
+  },
+  {
+    "start": 567.433,
+    "end": 570.833,
+    "text": "Oh, leave your name just means you tell me your name,",
+    "textdich": ""
+  },
+  {
+    "start": 570.833,
+    "end": 574.2,
+    "text": "so we can hold the table for you.",
+    "textdich": ""
+  },
+  {
+    "start": 574.3,
+    "end": 577.433,
+    "text": "Ah, okay! My name is Anna.",
+    "textdich": ""
+  },
+  {
+    "start": 577.533,
+    "end": 580.833,
+    "text": "Got it, Anna. Your table will be ready at 7.",
+    "textdich": ""
+  },
+  {
+    "start": 580.833,
+    "end": 582.2,
+    "text": "See you then!",
+    "textdich": ""
+  },
+  {
+    "start": 582.2,
+    "end": 584.467,
+    "text": "Thank you! I will see you at 7!",
+    "textdich": ""
+  },
+  {
+    "start": 584.467,
+    "end": 602.367,
+    "text": "You're welcome. Have a great day.",
+    "textdich": ""
+  },
+  {
+    "start": 602.433,
+    "end": 605.6,
+    "text": "Hey, Joe. What are you doing today?",
+    "textdich": ""
+  },
+  {
+    "start": 605.667,
+    "end": 606.533,
+    "text": "Hi, Sharon.",
+    "textdich": ""
+  },
+  {
+    "start": 606.533,
+    "end": 609.333,
+    "text": "Today is our yearly spring cleaning.",
+    "textdich": ""
+  },
+  {
+    "start": 609.433,
+    "end": 611.567,
+    "text": "What exactly is it?",
+    "textdich": ""
+  },
+  {
+    "start": 611.567,
+    "end": 614.833,
+    "text": "It's the day we completely clean the entire house.",
+    "textdich": ""
+  },
+  {
+    "start": 614.9,
+    "end": 619.433,
+    "text": "We throw away stuff we don't need, and pack up items to donate.",
+    "textdich": ""
+  },
+  {
+    "start": 619.5,
+    "end": 623.833,
+    "text": "We also clean all of the rooms, and wash all of the windows.",
+    "textdich": ""
+  },
+  {
+    "start": 623.933,
+    "end": 626.033,
+    "text": "That's a lot to do.",
+    "textdich": ""
+  },
+  {
+    "start": 626.033,
+    "end": 628.933,
+    "text": "Yes, it takes the entire day.",
+    "textdich": ""
+  },
+  {
+    "start": 629.0,
+    "end": 631.533,
+    "text": "Do your children assist you?",
+    "textdich": ""
+  },
+  {
+    "start": 631.533,
+    "end": 632.267,
+    "text": "Of course.",
+    "textdich": ""
+  },
+  {
+    "start": 632.267,
+    "end": 638.2,
+    "text": "They sort clothes and toys in the closet and toy pens to donate or throw away.",
+    "textdich": ""
+  },
+  {
+    "start": 638.3,
+    "end": 639.2,
+    "text": "Great.",
+    "textdich": ""
+  },
+  {
+    "start": 639.2,
+    "end": 642.9,
+    "text": "But why is it referred to as spring cleaning?",
+    "textdich": ""
+  },
+  {
+    "start": 642.967,
+    "end": 645.767,
+    "text": "Simply because it's spring now.",
+    "textdich": ""
+  },
+  {
+    "start": 645.867,
+    "end": 650.333,
+    "text": "I see. I think my family also needs a cleaning day like this.",
+    "textdich": ""
+  },
+  {
+    "start": 650.333,
+    "end": 652.6,
+    "text": "Our home is quite messy.",
+    "textdich": ""
+  },
+  {
+    "start": 652.7,
+    "end": 658.933,
+    "text": "Jim delivers the items to the local homeless shelter after we have them ready for donation.",
+    "textdich": ""
+  },
+  {
+    "start": 659.033,
+    "end": 661.5,
+    "text": "This makes cleaning the house simpler.",
+    "textdich": ""
+  },
+  {
+    "start": 661.5,
+    "end": 665.633,
+    "text": "It's a meaningful job. I'll tell my family about it.",
+    "textdich": ""
+  },
+  {
+    "start": 665.7,
+    "end": 667.867,
+    "text": "Well, I'd best get started.",
+    "textdich": ""
+  },
+  {
+    "start": 667.867,
+    "end": 671.933,
+    "text": "I have a lot to accomplish, so I'll chat with you later, Sharon.",
+    "textdich": ""
+  },
+  {
+    "start": 672.0,
+    "end": 689.167,
+    "text": "Goodbye, Joe. Thanks for the cleaning tip.",
+    "textdich": ""
+  },
+  {
+    "start": 689.267,
+    "end": 692.067,
+    "text": "Hello, Sally. How are you doing today?",
+    "textdich": ""
+  },
+  {
+    "start": 692.133,
+    "end": 693.533,
+    "text": "Hello, Karen.",
+    "textdich": ""
+  },
+  {
+    "start": 693.533,
+    "end": 696.3,
+    "text": "I have a lot to accomplish today.",
+    "textdich": ""
+  },
+  {
+    "start": 696.3,
+    "end": 697.967,
+    "text": "What do you have to do?",
+    "textdich": ""
+  },
+  {
+    "start": 698.033,
+    "end": 701.0,
+    "text": "I have a lot of work to do like doing laundry,",
+    "textdich": ""
+  },
+  {
+    "start": 701.0,
+    "end": 704.967,
+    "text": "as well as vacuuming the whole house and cleaning the kitchen.",
+    "textdich": ""
+  },
+  {
+    "start": 705.033,
+    "end": 707.333,
+    "text": "That's a lot of work to accomplish.",
+    "textdich": ""
+  },
+  {
+    "start": 707.333,
+    "end": 710.533,
+    "text": "Why don't you start doing some of it tomorrow?",
+    "textdich": ""
+  },
+  {
+    "start": 710.6,
+    "end": 712.533,
+    "text": "My mother will visit me tonight.",
+    "textdich": ""
+  },
+  {
+    "start": 712.533,
+    "end": 715.6,
+    "text": "I need to clean up before my mom comes.",
+    "textdich": ""
+  },
+  {
+    "start": 715.667,
+    "end": 717.233,
+    "text": "I got it.",
+    "textdich": ""
+  },
+  {
+    "start": 717.233,
+    "end": 720.233,
+    "text": "She likes a clean and tidy home.",
+    "textdich": ""
+  },
+  {
+    "start": 720.3,
+    "end": 722.033,
+    "text": "I get what you're saying.",
+    "textdich": ""
+  },
+  {
+    "start": 722.033,
+    "end": 726.2,
+    "text": "My mother is also incredibly tidy and well-organized.",
+    "textdich": ""
+  },
+  {
+    "start": 726.267,
+    "end": 730.467,
+    "text": "I should have begun a few days ago, but I was too busy with work.",
+    "textdich": ""
+  },
+  {
+    "start": 730.567,
+    "end": 733.4,
+    "text": "Why isn't your husband assisting you?",
+    "textdich": ""
+  },
+  {
+    "start": 733.4,
+    "end": 735.167,
+    "text": "He did assist me.",
+    "textdich": ""
+  },
+  {
+    "start": 735.167,
+    "end": 740.667,
+    "text": "Yesterday, he mowed the yard, cleaned all of the bathrooms, and set up the guest room.",
+    "textdich": ""
+  },
+  {
+    "start": 740.733,
+    "end": 744.1,
+    "text": "Wow. He accomplished a lot as well.",
+    "textdich": ""
+  },
+  {
+    "start": 744.2,
+    "end": 747.067,
+    "text": "Now I also need to buy some supplies.",
+    "textdich": ""
+  },
+  {
+    "start": 747.067,
+    "end": 748.9,
+    "text": "What a hectic day.",
+    "textdich": ""
+  },
+  {
+    "start": 748.9,
+    "end": 751.167,
+    "text": "Do you need any help from me?",
+    "textdich": ""
+  },
+  {
+    "start": 751.167,
+    "end": 753.633,
+    "text": "No. That's okay.",
+    "textdich": ""
+  },
+  {
+    "start": 753.7,
+    "end": 755.767,
+    "text": "I'm not really busy after work today.",
+    "textdich": ""
+  },
+  {
+    "start": 755.767,
+    "end": 757.367,
+    "text": "I can help you.",
+    "textdich": ""
+  },
+  {
+    "start": 757.367,
+    "end": 759.567,
+    "text": "So can you help me buy food?",
+    "textdich": ""
+  },
+  {
+    "start": 759.567,
+    "end": 762.7,
+    "text": "I have listed all the necessary foods.",
+    "textdich": ""
+  },
+  {
+    "start": 762.8,
+    "end": 765.833,
+    "text": "Sure. I'll do it after my shift is over.",
+    "textdich": ""
+  },
+  {
+    "start": 765.9,
+    "end": 767.433,
+    "text": "Thank you so much.",
+    "textdich": ""
+  },
+  {
+    "start": 767.433,
+    "end": 769.333,
+    "text": "You are so nice.",
+    "textdich": ""
+  },
+  {
+    "start": 769.433,
+    "end": 787.367,
+    "text": "We are a neighborhood. Don't be so formal.",
+    "textdich": ""
+  },
+  {
+    "start": 787.433,
+    "end": 790.933,
+    "text": "Ted, do you have any boxes you're not using?",
+    "textdich": ""
+  },
+  {
+    "start": 791.0,
+    "end": 794.0,
+    "text": "I think I have. Let me check in stock.",
+    "textdich": ""
+  },
+  {
+    "start": 794.1,
+    "end": 796.0,
+    "text": "Thank you very much.",
+    "textdich": ""
+  },
+  {
+    "start": 796.0,
+    "end": 798.433,
+    "text": "Need curtains to move house?",
+    "textdich": ""
+  },
+  {
+    "start": 798.5,
+    "end": 801.433,
+    "text": "No. Today I need to clear out my attic.",
+    "textdich": ""
+  },
+  {
+    "start": 801.433,
+    "end": 803.6,
+    "text": "My attic is getting messy.",
+    "textdich": ""
+  },
+  {
+    "start": 803.6,
+    "end": 805.833,
+    "text": "You should clean it regularly.",
+    "textdich": ""
+  },
+  {
+    "start": 805.833,
+    "end": 809.333,
+    "text": "I know. I'm not even sure what's in there anymore.",
+    "textdich": ""
+  },
+  {
+    "start": 809.433,
+    "end": 812.933,
+    "text": "I'm sure there'll be a lot of things you don't need anymore.",
+    "textdich": ""
+  },
+  {
+    "start": 813.033,
+    "end": 815.467,
+    "text": "That's what my wife told me.",
+    "textdich": ""
+  },
+  {
+    "start": 815.467,
+    "end": 818.2,
+    "text": "Last month, I had to clear out my attic,",
+    "textdich": ""
+  },
+  {
+    "start": 818.2,
+    "end": 820.833,
+    "text": "and my wife said the same thing to me.",
+    "textdich": ""
+  },
+  {
+    "start": 820.833,
+    "end": 823.0,
+    "text": "They must be talking to each other.",
+    "textdich": ""
+  },
+  {
+    "start": 823.0,
+    "end": 825.5,
+    "text": "What are you going to do with all of them?",
+    "textdich": ""
+  },
+  {
+    "start": 825.5,
+    "end": 828.1,
+    "text": "I think I'll sell things I don't need.",
+    "textdich": ""
+  },
+  {
+    "start": 828.1,
+    "end": 830.933,
+    "text": "What did you do with all of your belongings?",
+    "textdich": ""
+  },
+  {
+    "start": 830.933,
+    "end": 835.367,
+    "text": "I threw them away if they broke and donated the other half.",
+    "textdich": ""
+  },
+  {
+    "start": 835.433,
+    "end": 838.367,
+    "text": "Great. Maybe I'll make a donation.",
+    "textdich": ""
+  },
+  {
+    "start": 838.367,
+    "end": 840.467,
+    "text": "How many cartons do you need?",
+    "textdich": ""
+  },
+  {
+    "start": 840.533,
+    "end": 843.467,
+    "text": "About 2 or 3 cartons are enough.",
+    "textdich": ""
+  },
+  {
+    "start": 843.467,
+    "end": 859.0,
+    "text": "Okay.",
+    "textdich": ""
+  },
+  {
+    "start": 859.1,
+    "end": 863.3,
+    "text": "Mommy, I'm not feeling good.",
+    "textdich": ""
+  },
+  {
+    "start": 863.4,
+    "end": 865.5,
+    "text": "What's the matter, Susie?",
+    "textdich": ""
+  },
+  {
+    "start": 865.5,
+    "end": 868.367,
+    "text": "You didn't have a good time at the birthday party?",
+    "textdich": ""
+  },
+  {
+    "start": 868.433,
+    "end": 871.2,
+    "text": "It was a lot of fun, for sure.",
+    "textdich": ""
+  },
+  {
+    "start": 871.2,
+    "end": 874.733,
+    "text": "But suddenly, my stomach hurts.",
+    "textdich": ""
+  },
+  {
+    "start": 874.833,
+    "end": 878.967,
+    "text": "Oh no. Did you eat a lot of food at the party?",
+    "textdich": ""
+  },
+  {
+    "start": 879.067,
+    "end": 881.5,
+    "text": "Maybe it's like that.",
+    "textdich": ""
+  },
+  {
+    "start": 881.5,
+    "end": 883.433,
+    "text": "What did you have for dinner?",
+    "textdich": ""
+  },
+  {
+    "start": 883.5,
+    "end": 888.733,
+    "text": "Pizza, cake, ice cream and potato chips.",
+    "textdich": ""
+  },
+  {
+    "start": 888.8,
+    "end": 891.2,
+    "text": "That is a lot of food.",
+    "textdich": ""
+  },
+  {
+    "start": 891.2,
+    "end": 896.367,
+    "text": "In addition, I had a Coke, cookies, and popcorn.",
+    "textdich": ""
+  },
+  {
+    "start": 896.467,
+    "end": 899.367,
+    "text": "That's why your stomach hurts, Susie.",
+    "textdich": ""
+  },
+  {
+    "start": 899.367,
+    "end": 903.567,
+    "text": "You ate too much, why did you consume so much?",
+    "textdich": ""
+  },
+  {
+    "start": 903.633,
+    "end": 908.133,
+    "text": "It was time to eat, and everything looked delectable.",
+    "textdich": ""
+  },
+  {
+    "start": 908.233,
+    "end": 911.7,
+    "text": "Susie, I believe you should rest for a bit.",
+    "textdich": ""
+  },
+  {
+    "start": 911.8,
+    "end": 917.633,
+    "text": "Yes, mother.",
+    "textdich": ""
+  },
+  {
+    "start": 917.7,
+    "end": 919.733,
+    "text": "Where are you going, Susie?",
+    "textdich": ""
+  },
+  {
+    "start": 919.733,
+    "end": 936.667,
+    "text": "I need to use the restroom first.",
+    "textdich": ""
+  },
+  {
+    "start": 936.767,
+    "end": 939.6,
+    "text": "So, what are your plans?",
+    "textdich": ""
+  },
+  {
+    "start": 939.6,
+    "end": 941.5,
+    "text": "Are you going on a trip?",
+    "textdich": ""
+  },
+  {
+    "start": 941.6,
+    "end": 944.033,
+    "text": "Yes. I'll be in Chicago.",
+    "textdich": ""
+  },
+  {
+    "start": 944.1,
+    "end": 947.033,
+    "text": "My sister just gave birth to a child.",
+    "textdich": ""
+  },
+  {
+    "start": 947.033,
+    "end": 949.567,
+    "text": "I'll be assisting her for a few weeks.",
+    "textdich": ""
+  },
+  {
+    "start": 949.567,
+    "end": 953.533,
+    "text": "Great, send my congratulations to your sister.",
+    "textdich": ""
+  },
+  {
+    "start": 953.633,
+    "end": 954.9,
+    "text": "Thanks.",
+    "textdich": ""
+  },
+  {
+    "start": 955.0,
+    "end": 957.233,
+    "text": "Is it a boy or a girl?",
+    "textdich": ""
+  },
+  {
+    "start": 957.233,
+    "end": 960.167,
+    "text": "A girl. Rose is her given name.",
+    "textdich": ""
+  },
+  {
+    "start": 960.333,
+    "end": 962.7,
+    "text": "What a lovely name.",
+    "textdich": ""
+  },
+  {
+    "start": 962.8,
+    "end": 965.867,
+    "text": "Yeah, this is named after our grandma.",
+    "textdich": ""
+  },
+  {
+    "start": 965.933,
+    "end": 968.967,
+    "text": "My kid is named after my grandmother as well.",
+    "textdich": ""
+  },
+  {
+    "start": 968.967,
+    "end": 971.3,
+    "text": "Marie is her given name.",
+    "textdich": ""
+  },
+  {
+    "start": 971.367,
+    "end": 973.8,
+    "text": "That is also a lovely name.",
+    "textdich": ""
+  },
+  {
+    "start": 973.867,
+    "end": 974.933,
+    "text": "Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 974.933,
+    "end": 978.133,
+    "text": "Is this your younger sisters first child?",
+    "textdich": ""
+  },
+  {
+    "start": 978.2,
+    "end": 981.633,
+    "text": "Yes, she is my first niece as well.",
+    "textdich": ""
+  },
+  {
+    "start": 981.7,
+    "end": 985.1,
+    "text": "She is also the family's first grandchild.",
+    "textdich": ""
+  },
+  {
+    "start": 985.167,
+    "end": 987.267,
+    "text": "What a unique gift!",
+    "textdich": ""
+  },
+  {
+    "start": 987.267,
+    "end": 989.533,
+    "text": "Yeah. My mum is overjoyed.",
+    "textdich": ""
+  },
+  {
+    "start": 989.533,
+    "end": 992.867,
+    "text": "She bought a lot of clothes for my niece already.",
+    "textdich": ""
+  },
+  {
+    "start": 992.933,
+    "end": 994.9,
+    "text": "That's fantastic.",
+    "textdich": ""
+  },
+  {
+    "start": 994.9,
+    "end": 996.367,
+    "text": "Sorry, I gotta go.",
+    "textdich": ""
+  },
+  {
+    "start": 996.367,
+    "end": 999.167,
+    "text": "I need to go to the airport by 1 p.m..",
+    "textdich": ""
+  },
+  {
+    "start": 999.167,
+    "end": 1024.333,
+    "text": "Okay. See you later.",
+    "textdich": ""
+  },
+  {
+    "start": 1024.433,
+    "end": 1026.667,
+    "text": "Hello, Linda speaking.",
+    "textdich": ""
+  },
+  {
+    "start": 1026.767,
+    "end": 1029.267,
+    "text": "Hello, Linda. This is Sue.",
+    "textdich": ""
+  },
+  {
+    "start": 1029.267,
+    "end": 1031.1,
+    "text": "Yeah. What's wrong?",
+    "textdich": ""
+  },
+  {
+    "start": 1031.167,
+    "end": 1034.033,
+    "text": "I have a question concerning the flu shot.",
+    "textdich": ""
+  },
+  {
+    "start": 1034.1,
+    "end": 1036.2,
+    "text": "What exactly is it?",
+    "textdich": ""
+  },
+  {
+    "start": 1036.3,
+    "end": 1039.633,
+    "text": "Are your children getting vaccinated against the flu this year?",
+    "textdich": ""
+  },
+  {
+    "start": 1039.733,
+    "end": 1040.733,
+    "text": "Oh, yes.",
+    "textdich": ""
+  },
+  {
+    "start": 1040.733,
+    "end": 1043.067,
+    "text": "They did go to the hospital last week.",
+    "textdich": ""
+  },
+  {
+    "start": 1043.067,
+    "end": 1044.967,
+    "text": "How about your child?",
+    "textdich": ""
+  },
+  {
+    "start": 1044.967,
+    "end": 1047.267,
+    "text": "My child is also vaccinated.",
+    "textdich": ""
+  },
+  {
+    "start": 1047.267,
+    "end": 1049.833,
+    "text": "I and my husband got one, too.",
+    "textdich": ""
+  },
+  {
+    "start": 1049.833,
+    "end": 1052.233,
+    "text": "My husband doesn't get vaccines.",
+    "textdich": ""
+  },
+  {
+    "start": 1052.333,
+    "end": 1053.6,
+    "text": "Why?",
+    "textdich": ""
+  },
+  {
+    "start": 1053.667,
+    "end": 1056.067,
+    "text": "He says he is never ill.",
+    "textdich": ""
+  },
+  {
+    "start": 1056.133,
+    "end": 1057.733,
+    "text": "This is also okay.",
+    "textdich": ""
+  },
+  {
+    "start": 1057.733,
+    "end": 1060.833,
+    "text": "But vaccination is one way to prevent disease.",
+    "textdich": ""
+  },
+  {
+    "start": 1060.9,
+    "end": 1063.933,
+    "text": "I know, but my husband doesn't want to.",
+    "textdich": ""
+  },
+  {
+    "start": 1064.033,
+    "end": 1067.733,
+    "text": "Last year, both of my children became quite ill.",
+    "textdich": ""
+  },
+  {
+    "start": 1067.8,
+    "end": 1071.8,
+    "text": "I simply want to make sure they're safe in case something bad happens.",
+    "textdich": ""
+  },
+  {
+    "start": 1071.9,
+    "end": 1075.3,
+    "text": "Alright. I'll plan an appointment for all of us.",
+    "textdich": ""
+  },
+  {
+    "start": 1075.4,
+    "end": 1077.3,
+    "text": "Let's have a picnic next week.",
+    "textdich": ""
+  },
+  {
+    "start": 1077.3,
+    "end": 1079.5,
+    "text": "The kids will be very happy.",
+    "textdich": ""
+  },
+  {
+    "start": 1079.6,
+    "end": 1097.467,
+    "text": "Great idea. See you next week.",
+    "textdich": ""
+  },
+  {
+    "start": 1097.533,
+    "end": 1099.6,
+    "text": "Hello, Sue. I'm Linda.",
+    "textdich": ""
+  },
+  {
+    "start": 1099.767,
+    "end": 1102.467,
+    "text": "Are you available for lunch today?",
+    "textdich": ""
+  },
+  {
+    "start": 1102.467,
+    "end": 1107.633,
+    "text": "No, David is unwell today and was unable to attend school.",
+    "textdich": ""
+  },
+  {
+    "start": 1107.7,
+    "end": 1109.133,
+    "text": "That's awful.",
+    "textdich": ""
+  },
+  {
+    "start": 1109.133,
+    "end": 1110.9,
+    "text": "Is it a cold?",
+    "textdich": ""
+  },
+  {
+    "start": 1110.9,
+    "end": 1112.767,
+    "text": "Yes, I believe so.",
+    "textdich": ""
+  },
+  {
+    "start": 1112.767,
+    "end": 1116.2,
+    "text": "He was suffering from a cough and a sore throat.",
+    "textdich": ""
+  },
+  {
+    "start": 1116.267,
+    "end": 1119.2,
+    "text": "My kid was also unwell last week.",
+    "textdich": ""
+  },
+  {
+    "start": 1119.2,
+    "end": 1122.533,
+    "text": "He was absent from school for four days.",
+    "textdich": ""
+  },
+  {
+    "start": 1122.633,
+    "end": 1125.0,
+    "text": "I hope David isn't too sick.",
+    "textdich": ""
+  },
+  {
+    "start": 1125.0,
+    "end": 1127.3,
+    "text": "There is a virus circulating.",
+    "textdich": ""
+  },
+  {
+    "start": 1127.3,
+    "end": 1129.867,
+    "text": "We must also maintain our health.",
+    "textdich": ""
+  },
+  {
+    "start": 1129.867,
+    "end": 1134.3,
+    "text": "I know. To keep healthy, I've started taking additional vitamin C.",
+    "textdich": ""
+  },
+  {
+    "start": 1134.367,
+    "end": 1138.0,
+    "text": "Right, me too. I'm going to go out and buy something.",
+    "textdich": ""
+  },
+  {
+    "start": 1138.0,
+    "end": 1140.4,
+    "text": "Do you want anything from the store?",
+    "textdich": ""
+  },
+  {
+    "start": 1140.4,
+    "end": 1142.333,
+    "text": "In fact, I do.",
+    "textdich": ""
+  },
+  {
+    "start": 1142.333,
+    "end": 1146.4,
+    "text": "I couldn't go shopping since I didn't want to abandon David.",
+    "textdich": ""
+  },
+  {
+    "start": 1146.5,
+    "end": 1149.633,
+    "text": "I get what you mean. What do you want?",
+    "textdich": ""
+  },
+  {
+    "start": 1149.7,
+    "end": 1152.133,
+    "text": "Could you kindly buy a chicken for me?",
+    "textdich": ""
+  },
+  {
+    "start": 1152.133,
+    "end": 1155.133,
+    "text": "I'd want to cook some chicken soup for David.",
+    "textdich": ""
+  },
+  {
+    "start": 1155.2,
+    "end": 1158.033,
+    "text": "Okay. I'll buy a chicken for you.",
+    "textdich": ""
+  },
+  {
+    "start": 1158.1,
+    "end": 1160.0,
+    "text": "Thank you so much.",
+    "textdich": ""
+  },
+  {
+    "start": 1160.1,
+    "end": 1165.467,
+    "text": "Okay, I'll go to the shop after lunch and will arrive at your place about 2:00 p.m.",
+    "textdich": ""
+  },
+  {
+    "start": 1165.533,
+    "end": 1166.1,
+    "text": "Great.",
+    "textdich": ""
+  },
+  {
+    "start": 1166.1,
+    "end": 1167.167,
+    "text": "Then I'll see you.",
+    "textdich": ""
+  },
+  {
+    "start": 1167.167,
+    "end": 1169.967,
+    "text": "Don't forget to stock up on vitamin C.",
+    "textdich": ""
+  },
+  {
+    "start": 1170.067,
+    "end": 1188.133,
+    "text": "I remember. See ya!",
+    "textdich": ""
+  },
+  {
+    "start": 1188.233,
+    "end": 1193.9,
+    "text": "Uh, Dad… is that steak supposed to be that color?",
+    "textdich": ""
+  },
+  {
+    "start": 1193.967,
+    "end": 1197.833,
+    "text": "Yep! That’s what a well-done steak looks like, sweetie.",
+    "textdich": ""
+  },
+  {
+    "start": 1197.9,
+    "end": 1202.7,
+    "text": "Well-done? Dad, it looks like charcoal!",
+    "textdich": ""
+  },
+  {
+    "start": 1202.767,
+    "end": 1206.667,
+    "text": "It’s just a little burnt. Don’t be so dramatic.",
+    "textdich": ""
+  },
+  {
+    "start": 1206.767,
+    "end": 1212.1,
+    "text": "No, seriously, dad. Your grilling skills need work.",
+    "textdich": ""
+  },
+  {
+    "start": 1212.167,
+    "end": 1216.9,
+    "text": "Mia, be nice to your dad. He is doing his best.",
+    "textdich": ""
+  },
+  {
+    "start": 1216.967,
+    "end": 1221.067,
+    "text": "Thanks, babe. How come my own daughter doesn't trust me?",
+    "textdich": ""
+  },
+  {
+    "start": 1221.167,
+    "end": 1224.3,
+    "text": "Oh, I trust that if I eat that steak,",
+    "textdich": ""
+  },
+  {
+    "start": 1224.333,
+    "end": 1226.933,
+    "text": "I'll end up with a stomach ache.",
+    "textdich": ""
+  },
+  {
+    "start": 1227.0,
+    "end": 1230.833,
+    "text": "Ha ha! You're being dramatic again!",
+    "textdich": ""
+  },
+  {
+    "start": 1230.933,
+    "end": 1235.133,
+    "text": "Mom, please stop him before he ruins all the meat.",
+    "textdich": ""
+  },
+  {
+    "start": 1235.233,
+    "end": 1239.0,
+    "text": "Honey, if every steak turns out like your hair...",
+    "textdich": ""
+  },
+  {
+    "start": 1239.067,
+    "end": 1241.367,
+    "text": "See, your mom believes in me.",
+    "textdich": ""
+  },
+  {
+    "start": 1241.367,
+    "end": 1242.667,
+    "text": "My hair looks great.",
+    "textdich": ""
+  },
+  {
+    "start": 1242.667,
+    "end": 1245.667,
+    "text": "So the steaks must be too.",
+    "textdich": ""
+  },
+  {
+    "start": 1245.767,
+    "end": 1249.067,
+    "text": "No, I meant your hair is pitch black.",
+    "textdich": ""
+  },
+  {
+    "start": 1249.133,
+    "end": 1253.433,
+    "text": "If you burn them all, we will have no choice but ordering pizzas!",
+    "textdich": ""
+  },
+  {
+    "start": 1253.533,
+    "end": 1271.3,
+    "text": "I’m calling the pizza place!",
+    "textdich": ""
+  },
+  {
+    "start": 1271.367,
+    "end": 1276.2,
+    "text": "Hi! I’m looking for some cream to protect my skin from the sun.",
+    "textdich": ""
+  },
+  {
+    "start": 1276.3,
+    "end": 1278.467,
+    "text": "You mean sunscreen?",
+    "textdich": ""
+  },
+  {
+    "start": 1278.533,
+    "end": 1280.3,
+    "text": "Sunscreen?",
+    "textdich": ""
+  },
+  {
+    "start": 1280.3,
+    "end": 1284.367,
+    "text": "Yeah, that’s what we call the cream that protects you from the sun.",
+    "textdich": ""
+  },
+  {
+    "start": 1284.433,
+    "end": 1287.7,
+    "text": "Ohhh, I see! Thanks for the correction!",
+    "textdich": ""
+  },
+  {
+    "start": 1287.767,
+    "end": 1292.1,
+    "text": "No problem! Do you know what kind of sunscreen you’re looking for?",
+    "textdich": ""
+  },
+  {
+    "start": 1292.2,
+    "end": 1297.133,
+    "text": "Uh… something good? Honestly, I don’t know much about it.",
+    "textdich": ""
+  },
+  {
+    "start": 1297.2,
+    "end": 1301.1,
+    "text": "That’s totally fine. Let’s start with SPF.",
+    "textdich": ""
+  },
+  {
+    "start": 1301.167,
+    "end": 1302.5,
+    "text": "SPF?",
+    "textdich": ""
+  },
+  {
+    "start": 1302.6,
+    "end": 1307.4,
+    "text": "It's a type of number that tells you how well the sunscreen protects you.",
+    "textdich": ""
+  },
+  {
+    "start": 1307.5,
+    "end": 1311.233,
+    "text": "How about this SPF 30 one? Is it good?",
+    "textdich": ""
+  },
+  {
+    "start": 1311.3,
+    "end": 1315.833,
+    "text": "SPF 30 blocks about 97% of UV rays.",
+    "textdich": ""
+  },
+  {
+    "start": 1315.9,
+    "end": 1320.633,
+    "text": "This one with SPF 50 blocks around 98%.",
+    "textdich": ""
+  },
+  {
+    "start": 1320.7,
+    "end": 1323.533,
+    "text": "So not a huge difference, right?",
+    "textdich": ""
+  },
+  {
+    "start": 1323.533,
+    "end": 1327.7,
+    "text": "Not huge, but SPF 50 lasts longer.",
+    "textdich": ""
+  },
+  {
+    "start": 1327.767,
+    "end": 1332.567,
+    "text": "Also, we have two types of sunscreens. Physical and chemical.",
+    "textdich": ""
+  },
+  {
+    "start": 1332.633,
+    "end": 1334.567,
+    "text": "What's the difference?",
+    "textdich": ""
+  },
+  {
+    "start": 1334.667,
+    "end": 1337.767,
+    "text": "Physical sunscreen sits on your skin like a shield.",
+    "textdich": ""
+  },
+  {
+    "start": 1337.867,
+    "end": 1341.2,
+    "text": "Chemical sunscreen goes into your skin.",
+    "textdich": ""
+  },
+  {
+    "start": 1341.267,
+    "end": 1343.1,
+    "text": "Which one is better?",
+    "textdich": ""
+  },
+  {
+    "start": 1343.2,
+    "end": 1348.8,
+    "text": "It depends on your skin. Physical is usually gentler for sensitive skin.",
+    "textdich": ""
+  },
+  {
+    "start": 1348.867,
+    "end": 1352.967,
+    "text": "Chemical feels lighter so it is better for oily skin.",
+    "textdich": ""
+  },
+  {
+    "start": 1353.033,
+    "end": 1356.567,
+    "text": "I’ll take the SPF 50 physical one then.",
+    "textdich": ""
+  },
+  {
+    "start": 1356.633,
+    "end": 1359.967,
+    "text": "Great choice! That’ll be 29 dollars.",
+    "textdich": ""
+  },
+  {
+    "start": 1360.067,
+    "end": 1365.733,
+    "text": "Wait! 29 dollars for this tiny bottle?! Does it last like… a year?",
+    "textdich": ""
+  },
+  {
+    "start": 1365.8,
+    "end": 1369.933,
+    "text": "If you use it properly, it’ll last about 2 to 3 weeks.",
+    "textdich": ""
+  },
+  {
+    "start": 1370.0,
+    "end": 1389.233,
+    "text": "Shoot! At this rate, my wallet’s going to need protection too.",
+    "textdich": ""
+  },
+  {
+    "start": 1389.333,
+    "end": 1391.733,
+    "text": "You go first, Jake!",
+    "textdich": ""
+  },
+  {
+    "start": 1391.733,
+    "end": 1394.067,
+    "text": "No, ladies first!",
+    "textdich": ""
+  },
+  {
+    "start": 1394.167,
+    "end": 1400.067,
+    "text": "Fine.",
+    "textdich": ""
+  },
+  {
+    "start": 1400.133,
+    "end": 1403.667,
+    "text": "Oh my gosh, The water is freezing!",
+    "textdich": ""
+  },
+  {
+    "start": 1403.767,
+    "end": 1408.333,
+    "text": "Ha ha! You need to get used to cold water slowly!",
+    "textdich": ""
+  },
+  {
+    "start": 1408.4,
+    "end": 1411.367,
+    "text": "You mean as slowly as how you swim?",
+    "textdich": ""
+  },
+  {
+    "start": 1411.467,
+    "end": 1416.533,
+    "text": "You’ll eat those words!",
+    "textdich": ""
+  },
+  {
+    "start": 1416.6,
+    "end": 1419.533,
+    "text": "Ugh! So cold!",
+    "textdich": ""
+  },
+  {
+    "start": 1419.533,
+    "end": 1421.467,
+    "text": "I told you.",
+    "textdich": ""
+  },
+  {
+    "start": 1421.467,
+    "end": 1424.433,
+    "text": "Let's do some laps to see who's faster.",
+    "textdich": ""
+  },
+  {
+    "start": 1424.5,
+    "end": 1428.267,
+    "text": "You mean faster to give up? I'm sure you'll win!",
+    "textdich": ""
+  },
+  {
+    "start": 1428.367,
+    "end": 1430.267,
+    "text": "We'll see about that!",
+    "textdich": ""
+  },
+  {
+    "start": 1430.267,
+    "end": 1434.1,
+    "text": "There is nothing to see, because I'm not racing you!",
+    "textdich": ""
+  },
+  {
+    "start": 1434.167,
+    "end": 1437.367,
+    "text": "Why not? Are you afraid of losing already?",
+    "textdich": ""
+  },
+  {
+    "start": 1437.433,
+    "end": 1440.233,
+    "text": "I'm afraid I might hurt your ego.",
+    "textdich": ""
+  },
+  {
+    "start": 1440.333,
+    "end": 1444.333,
+    "text": "Whatever! At least I can dive to the bottom of this pool.",
+    "textdich": ""
+  },
+  {
+    "start": 1444.4,
+    "end": 1448.3,
+    "text": "Do you want to bet? I'll bet 50 bucks I'll win.",
+    "textdich": ""
+  },
+  {
+    "start": 1448.367,
+    "end": 1451.733,
+    "text": "Is that what your dignity's worth these days?",
+    "textdich": ""
+  },
+  {
+    "start": 1451.8,
+    "end": 1454.9,
+    "text": "Ugh, fine. 100 bucks!",
+    "textdich": ""
+  },
+  {
+    "start": 1454.967,
+    "end": 1457.233,
+    "text": "Deal. Let's go.",
+    "textdich": ""
+  },
+  {
+    "start": 1457.3,
+    "end": 1476.733,
+    "text": "Hey! You started before I was ready. That’s cheating!",
+    "textdich": ""
+  },
+  {
+    "start": 1476.8,
+    "end": 1479.5,
+    "text": "Hey there, what are you looking for?",
+    "textdich": ""
+  },
+  {
+    "start": 1479.6,
+    "end": 1483.433,
+    "text": "Hi! I need some yarn and tools to make a crop top.",
+    "textdich": ""
+  },
+  {
+    "start": 1483.5,
+    "end": 1486.067,
+    "text": "But I've never crocheted before.",
+    "textdich": ""
+  },
+  {
+    "start": 1486.067,
+    "end": 1488.467,
+    "text": "No worries. I can help you with that.",
+    "textdich": ""
+  },
+  {
+    "start": 1488.467,
+    "end": 1491.533,
+    "text": "What kind of crop top do you want to make?",
+    "textdich": ""
+  },
+  {
+    "start": 1491.633,
+    "end": 1493.233,
+    "text": "Like this one.",
+    "textdich": ""
+  },
+  {
+    "start": 1493.233,
+    "end": 1497.533,
+    "text": "Oh, I know this! It's been very popular this summer.",
+    "textdich": ""
+  },
+  {
+    "start": 1497.633,
+    "end": 1501.0,
+    "text": "Right?! Do you think it's hard to crochet?",
+    "textdich": ""
+  },
+  {
+    "start": 1501.067,
+    "end": 1506.3,
+    "text": "It's actually very beginner-friendly. We also sell the pattern chart for it.",
+    "textdich": ""
+  },
+  {
+    "start": 1506.4,
+    "end": 1511.067,
+    "text": "Awesome, I can't wait to get started! What yarn should I buy?",
+    "textdich": ""
+  },
+  {
+    "start": 1511.067,
+    "end": 1515.867,
+    "text": "I suggest cotton yarn. It's breathable and doesn't make you hot.",
+    "textdich": ""
+  },
+  {
+    "start": 1515.933,
+    "end": 1519.333,
+    "text": "Lovely! What about the crochet hook?",
+    "textdich": ""
+  },
+  {
+    "start": 1519.4,
+    "end": 1524.233,
+    "text": "For cotton yarn, a 5mm hook usually works well.",
+    "textdich": ""
+  },
+  {
+    "start": 1524.333,
+    "end": 1528.833,
+    "text": "I trust you. And can I get a copy of that crop top pattern chart?",
+    "textdich": ""
+  },
+  {
+    "start": 1528.9,
+    "end": 1531.0,
+    "text": "Sure. Here you go.",
+    "textdich": ""
+  },
+  {
+    "start": 1531.067,
+    "end": 1532.467,
+    "text": "This one?",
+    "textdich": ""
+  },
+  {
+    "start": 1532.533,
+    "end": 1534.733,
+    "text": "Yes. What's wrong?",
+    "textdich": ""
+  },
+  {
+    "start": 1534.8,
+    "end": 1540.067,
+    "text": "Ugh, it looks so complicated! I thought it was supposed to be beginner-friendly?!",
+    "textdich": ""
+  },
+  {
+    "start": 1540.167,
+    "end": 1561.667,
+    "text": "Yeah, crocheting it is beginner-friendly. Reading the chart is a different story though.",
+    "textdich": ""
+  },
+  {
+    "start": 1561.767,
+    "end": 1566.9,
+    "text": "Ugh, it's really pouring out there today. Hope it stops soon.",
+    "textdich": ""
+  },
+  {
+    "start": 1566.967,
+    "end": 1571.3,
+    "text": "Hey, can I borrow your car? Mine's still in the shop.",
+    "textdich": ""
+  },
+  {
+    "start": 1571.367,
+    "end": 1573.967,
+    "text": "I'm not sure you should go out right now, honey.",
+    "textdich": ""
+  },
+  {
+    "start": 1573.967,
+    "end": 1577.633,
+    "text": "It's pretty dangerous to drive in this downpour.",
+    "textdich": ""
+  },
+  {
+    "start": 1577.733,
+    "end": 1580.533,
+    "text": "But I need to buy some bread today.",
+    "textdich": ""
+  },
+  {
+    "start": 1580.533,
+    "end": 1585.633,
+    "text": "Why? I'm pretty sure we have a loaf or two left in the cupboard.",
+    "textdich": ""
+  },
+  {
+    "start": 1585.7,
+    "end": 1591.133,
+    "text": "No, no. I need sourdough bread. And it has to be freshly baked!",
+    "textdich": ""
+  },
+  {
+    "start": 1591.233,
+    "end": 1595.833,
+    "text": "It's not the end of the world, honey. We can survive with regular bread.",
+    "textdich": ""
+  },
+  {
+    "start": 1595.933,
+    "end": 1600.7,
+    "text": "You don't get it! I'm going to a potluck party at Chloe's today.",
+    "textdich": ""
+  },
+  {
+    "start": 1600.767,
+    "end": 1602.033,
+    "text": "So?",
+    "textdich": ""
+  },
+  {
+    "start": 1602.133,
+    "end": 1605.833,
+    "text": "And I promised I would bring homemade sourdough bread!",
+    "textdich": ""
+  },
+  {
+    "start": 1605.933,
+    "end": 1608.233,
+    "text": "Why would you promise something like that?",
+    "textdich": ""
+  },
+  {
+    "start": 1608.233,
+    "end": 1610.633,
+    "text": "You don't even know how to bake.",
+    "textdich": ""
+  },
+  {
+    "start": 1610.633,
+    "end": 1614.233,
+    "text": "But everyone else is making their own dishes...",
+    "textdich": ""
+  },
+  {
+    "start": 1614.333,
+    "end": 1615.8,
+    "text": "What am I supposed to do?",
+    "textdich": ""
+  },
+  {
+    "start": 1615.8,
+    "end": 1619.833,
+    "text": "Pray a loaf of sourdough magically appears on our porch?",
+    "textdich": ""
+  },
+  {
+    "start": 1619.9,
+    "end": 1640.9,
+    "text": "Nope! Let's pray this rain doesn't stop, so that potluck party gets canceled!",
+    "textdich": ""
+  },
+  {
+    "start": 1640.967,
+    "end": 1645.2,
+    "text": "Excuse me! Do you mind if I sit here?",
+    "textdich": ""
+  },
+  {
+    "start": 1645.267,
+    "end": 1648.067,
+    "text": "Not at all! Go for it!",
+    "textdich": ""
+  },
+  {
+    "start": 1648.133,
+    "end": 1650.9,
+    "text": "It's a lovely day, isn't it?",
+    "textdich": ""
+  },
+  {
+    "start": 1650.9,
+    "end": 1653.433,
+    "text": "Yeah. It's perfect.",
+    "textdich": ""
+  },
+  {
+    "start": 1653.433,
+    "end": 1660.033,
+    "text": "My family is having a barbecue party today, so I'm glad the weather is so nice.",
+    "textdich": ""
+  },
+  {
+    "start": 1660.1,
+    "end": 1662.767,
+    "text": "A BBQ on a weekday?",
+    "textdich": ""
+  },
+  {
+    "start": 1662.833,
+    "end": 1667.833,
+    "text": "Yep, it's kind of a tradition for us. Wednesday party!",
+    "textdich": ""
+  },
+  {
+    "start": 1667.9,
+    "end": 1672.8,
+    "text": "How fun! My daughter is always swamped with work during the week.",
+    "textdich": ""
+  },
+  {
+    "start": 1672.867,
+    "end": 1677.7,
+    "text": "She barely has time to eat properly, let alone have a party.",
+    "textdich": ""
+  },
+  {
+    "start": 1677.767,
+    "end": 1683.267,
+    "text": "Oh, really? That must make you feel a bit lonely.",
+    "textdich": ""
+  },
+  {
+    "start": 1683.333,
+    "end": 1688.467,
+    "text": "Yeah, sometimes. But we do go to the park on weekends.",
+    "textdich": ""
+  },
+  {
+    "start": 1688.533,
+    "end": 1692.367,
+    "text": "Not every week, but maybe two or three times a month.",
+    "textdich": ""
+  },
+  {
+    "start": 1692.433,
+    "end": 1698.2,
+    "text": "That sounds sweet! My family comes to the park once in a while, too.",
+    "textdich": ""
+  },
+  {
+    "start": 1698.2,
+    "end": 1701.267,
+    "text": "Which park do you usually go to?",
+    "textdich": ""
+  },
+  {
+    "start": 1701.333,
+    "end": 1706.333,
+    "text": "The park downtown. My daughter loves the playground there.",
+    "textdich": ""
+  },
+  {
+    "start": 1706.4,
+    "end": 1708.867,
+    "text": "You mean your granddaughter?",
+    "textdich": ""
+  },
+  {
+    "start": 1708.867,
+    "end": 1711.167,
+    "text": "No, my daughter.",
+    "textdich": ""
+  },
+  {
+    "start": 1711.167,
+    "end": 1714.567,
+    "text": "Oh! How old is your daughter?",
+    "textdich": ""
+  },
+  {
+    "start": 1714.633,
+    "end": 1716.8,
+    "text": "She is twenty-five.",
+    "textdich": ""
+  },
+  {
+    "start": 1716.8,
+    "end": 1721.467,
+    "text": "Twenty-five? And she still plays on the playground?",
+    "textdich": ""
+  },
+  {
+    "start": 1721.533,
+    "end": 1723.867,
+    "text": "Oh, absolutely!",
+    "textdich": ""
+  },
+  {
+    "start": 1723.867,
+    "end": 1729.0,
+    "text": "She loves the swings and slides. I guess like mother, like daughter!",
+    "textdich": ""
+  },
+  {
+    "start": 1729.067,
+    "end": 1733.933,
+    "text": "I do, too. But I always I thought I was too old for that.",
+    "textdich": ""
+  },
+  {
+    "start": 1734.0,
+    "end": 1751.8,
+    "text": "Age is just a number when you're on the playground!",
+    "textdich": ""
+  },
+  {
+    "start": 1751.9,
+    "end": 1754.867,
+    "text": "Hey, do you want to come to the movie tonight?",
+    "textdich": ""
+  },
+  {
+    "start": 1754.867,
+    "end": 1759.667,
+    "text": "Sorry. I can't. My sister is cooking dinner now.",
+    "textdich": ""
+  },
+  {
+    "start": 1759.733,
+    "end": 1762.467,
+    "text": "So? Can't you eat later?",
+    "textdich": ""
+  },
+  {
+    "start": 1762.533,
+    "end": 1768.033,
+    "text": "You don't understand. When my sister cooks, it's a family emergency.",
+    "textdich": ""
+  },
+  {
+    "start": 1768.1,
+    "end": 1771.733,
+    "text": "Come on, how bad can her cooking be?",
+    "textdich": ""
+  },
+  {
+    "start": 1771.8,
+    "end": 1776.667,
+    "text": "It's not about the food. It's about the fire hazard she might cause.",
+    "textdich": ""
+  },
+  {
+    "start": 1776.733,
+    "end": 1779.467,
+    "text": "Is that really that serious?",
+    "textdich": ""
+  },
+  {
+    "start": 1779.533,
+    "end": 1782.667,
+    "text": "Yes! Last time she tried to make \"burnt cheesecake,\"",
+    "textdich": ""
+  },
+  {
+    "start": 1782.7,
+    "end": 1785.933,
+    "text": "she nearly burnt down the kitchen.",
+    "textdich": ""
+  },
+  {
+    "start": 1786.0,
+    "end": 1789.767,
+    "text": "Ugh... Did the cheesecake at least taste good?",
+    "textdich": ""
+  },
+  {
+    "start": 1789.833,
+    "end": 1793.933,
+    "text": "I have no idea. It got burned with the stove!",
+    "textdich": ""
+  },
+  {
+    "start": 1794.0,
+    "end": 1798.167,
+    "text": "Maybe that was just a one-off. Don't be so hard on her.",
+    "textdich": ""
+  },
+  {
+    "start": 1798.233,
+    "end": 1804.167,
+    "text": "No, I wouldn't be saying this if she hadn't already set the kitchen on fire once before!",
+    "textdich": ""
+  },
+  {
+    "start": 1804.233,
+    "end": 1807.733,
+    "text": "Maybe she'll catch on to fire safety this time?",
+    "textdich": ""
+  },
+  {
+    "start": 1807.8,
+    "end": 1810.233,
+    "text": "Or the kitchen will catch fire this time.",
+    "textdich": ""
+  },
+  {
+    "start": 1810.233,
+    "end": 1811.6,
+    "text": "I'm not taking the risk.",
+    "textdich": ""
+  }
+]
