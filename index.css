@@ -248,11 +248,11 @@ border-top: 2px solid #d4af37; /* vàng ánh kim */
 /*background-color: #2f2f2f;*/
 color: #d4af37;
 text-align: center;
-padding: 20px;
+padding: 10px;
 }
 
 footer p, footer a {
-color: #d4af37;;
+color: rgb(222, 221, 220);
 font-size: 0.9em;
 }
 

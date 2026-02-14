@@ -372,6 +372,7 @@ function xuLiUrlInput(){
   try {
     //neu app.py chay tai may local 8501 thi:
     window.location.href = "https://tien89.streamlit.app/?link=" + link;
+    inputurl.value = "";
   } catch (err) {
     console.error(err);
     //alert('tien89.streamlit.app khong dang hoat dong.');
@@ -389,13 +390,23 @@ playBtn.addEventListener('dblclick', (e) => {
   window.location.href = url;
 });
 
-
+let dem = 0;
 function tom_tat_ndvideo(){
-  if (subtitles.length>0){
-    alert('co');
+  dem = dem + 1;
+  if (dem%2 === 1){
+    if (subtitles.length>0){
+      let alltext = '';
+      subtitles.forEach(item => {
+        alltext = alltext + `${item.textdich} `;
+      });
+      chatbox.innerHTML = alltext.replaceAll(".", ".<br><br>");
+    }else{  
+      chatbox.innerHTML = 'No subtitles!';
+    }
+  }else{
+    chatbox.innerHTML = '';
   }
-  chatbox.innerHTML = 'Toi la ai ? Toi la ai ? Toi la ai ? Toi la ai ? Toi la ai ? Toi la ai ? Toi la ai ? Toi la ai ? ';
-}
+};
 
 iframe.onload = () => {
     document.getElementById("preview").style.opacity = "0";
