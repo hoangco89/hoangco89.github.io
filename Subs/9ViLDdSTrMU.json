@@ -1,0 +1,1028 @@
+[
+  {
+    "start": 0.24,
+    "end": 4.08,
+    "text": "When you drop an apple, we know that the",
+    "textdich": ""
+  },
+  {
+    "start": 2.159,
+    "end": 6.319,
+    "text": "earth pulls on the apple and makes it",
+    "textdich": ""
+  },
+  {
+    "start": 4.08,
+    "end": 8.32,
+    "text": "fall. We call this the force of gravity.",
+    "textdich": ""
+  },
+  {
+    "start": 6.319,
+    "end": 11.28,
+    "text": "But the big question is, does the apple",
+    "textdich": ""
+  },
+  {
+    "start": 8.32,
+    "end": 13.679,
+    "text": "also put a force on the earth? Let's",
+    "textdich": ""
+  },
+  {
+    "start": 11.28,
+    "end": 15.599,
+    "text": "find out. Let's quickly recap. What",
+    "textdich": ""
+  },
+  {
+    "start": 13.679,
+    "end": 19.199,
+    "text": "exactly is a force? Well, remember that",
+    "textdich": ""
+  },
+  {
+    "start": 15.599,
+    "end": 20.8,
+    "text": "force is just a push or a pull. But what",
+    "textdich": ""
+  },
+  {
+    "start": 19.199,
+    "end": 22.88,
+    "text": "exactly is needed for an object to",
+    "textdich": ""
+  },
+  {
+    "start": 20.8,
+    "end": 25.359,
+    "text": "experience a push or a pull? The answer",
+    "textdich": ""
+  },
+  {
+    "start": 22.88,
+    "end": 28.24,
+    "text": "is some kind of an interaction. For",
+    "textdich": ""
+  },
+  {
+    "start": 25.359,
+    "end": 31.599,
+    "text": "example, when you hit a ball using your",
+    "textdich": ""
+  },
+  {
+    "start": 28.24,
+    "end": 33.6,
+    "text": "bat, the bat is in contact with the ball",
+    "textdich": ""
+  },
+  {
+    "start": 31.599,
+    "end": 36.559,
+    "text": "and it pushes the ball. It exerts a",
+    "textdich": ""
+  },
+  {
+    "start": 33.6,
+    "end": 39.12,
+    "text": "force on the ball. We call this the",
+    "textdich": ""
+  },
+  {
+    "start": 36.559,
+    "end": 41.28,
+    "text": "contact forces. Here, the bat is",
+    "textdich": ""
+  },
+  {
+    "start": 39.12,
+    "end": 42.96,
+    "text": "interacting with the ball. But you don't",
+    "textdich": ""
+  },
+  {
+    "start": 41.28,
+    "end": 44.96,
+    "text": "always need a contact. For example, if",
+    "textdich": ""
+  },
+  {
+    "start": 42.96,
+    "end": 46.719,
+    "text": "you consider the force that the earth is",
+    "textdich": ""
+  },
+  {
+    "start": 44.96,
+    "end": 48.879,
+    "text": "putting on the apple, for example, and",
+    "textdich": ""
+  },
+  {
+    "start": 46.719,
+    "end": 50.239,
+    "text": "making it fall, look, there is no",
+    "textdich": ""
+  },
+  {
+    "start": 48.879,
+    "end": 52.48,
+    "text": "contact over here. That's why these are",
+    "textdich": ""
+  },
+  {
+    "start": 50.239,
+    "end": 54.879,
+    "text": "called non-cont forces. But there's",
+    "textdich": ""
+  },
+  {
+    "start": 52.48,
+    "end": 58.64,
+    "text": "still an interaction. And the key thing",
+    "textdich": ""
+  },
+  {
+    "start": 54.879,
+    "end": 60.719,
+    "text": "is that you need two objects. Um, an",
+    "textdich": ""
+  },
+  {
+    "start": 58.64,
+    "end": 63.039,
+    "text": "apple cannot put a force on itself. You",
+    "textdich": ""
+  },
+  {
+    "start": 60.719,
+    "end": 64.799,
+    "text": "need for example an earth to exert a",
+    "textdich": ""
+  },
+  {
+    "start": 63.039,
+    "end": 66.0,
+    "text": "force on the apple. Similarly, a ball",
+    "textdich": ""
+  },
+  {
+    "start": 64.799,
+    "end": 68.24,
+    "text": "for example cannot put a force on",
+    "textdich": ""
+  },
+  {
+    "start": 66.0,
+    "end": 70.72,
+    "text": "itself. In this particular example, we",
+    "textdich": ""
+  },
+  {
+    "start": 68.24,
+    "end": 73.76,
+    "text": "need a bat to push on it to exert a",
+    "textdich": ""
+  },
+  {
+    "start": 70.72,
+    "end": 78.08,
+    "text": "force on it. So look, the forces arise",
+    "textdich": ""
+  },
+  {
+    "start": 73.76,
+    "end": 80.32,
+    "text": "from interactions between two objects or",
+    "textdich": ""
+  },
+  {
+    "start": 78.08,
+    "end": 82.64,
+    "text": "two particles you can say. But the big",
+    "textdich": ""
+  },
+  {
+    "start": 80.32,
+    "end": 85.0,
+    "text": "question is this. When the bat interacts",
+    "textdich": ""
+  },
+  {
+    "start": 82.64,
+    "end": 88.0,
+    "text": "with the ball, it exerts a force on the",
+    "textdich": ""
+  },
+  {
+    "start": 85.0,
+    "end": 91.36,
+    "text": "ball. But does the bat experience a",
+    "textdich": ""
+  },
+  {
+    "start": 88.0,
+    "end": 94.0,
+    "text": "force as well? Let's see. And to think",
+    "textdich": ""
+  },
+  {
+    "start": 91.36,
+    "end": 96.159,
+    "text": "about this intuitively, imagine you're",
+    "textdich": ""
+  },
+  {
+    "start": 94.0,
+    "end": 98.479,
+    "text": "not hitting a baseball. Imagine you're",
+    "textdich": ""
+  },
+  {
+    "start": 96.159,
+    "end": 100.24,
+    "text": "hitting a bowling ball. I know it sounds",
+    "textdich": ""
+  },
+  {
+    "start": 98.479,
+    "end": 102.799,
+    "text": "it sounds weird, but just think about",
+    "textdich": ""
+  },
+  {
+    "start": 100.24,
+    "end": 104.24,
+    "text": "it. You take a bat and you try to whack",
+    "textdich": ""
+  },
+  {
+    "start": 102.799,
+    "end": 105.52,
+    "text": "that bowling ball. You put a force on",
+    "textdich": ""
+  },
+  {
+    "start": 104.24,
+    "end": 107.6,
+    "text": "that bowling ball. What's going to",
+    "textdich": ""
+  },
+  {
+    "start": 105.52,
+    "end": 110.24,
+    "text": "happen? Oh, you can feel it in your",
+    "textdich": ""
+  },
+  {
+    "start": 107.6,
+    "end": 112.32,
+    "text": "bones. That bat is either going to break",
+    "textdich": ""
+  },
+  {
+    "start": 110.24,
+    "end": 115.28,
+    "text": "or it's going to fly backwards, isn't",
+    "textdich": ""
+  },
+  {
+    "start": 112.32,
+    "end": 118.0,
+    "text": "it? So just from that intuitive feeling,",
+    "textdich": ""
+  },
+  {
+    "start": 115.28,
+    "end": 120.079,
+    "text": "you can see that there must be a force",
+    "textdich": ""
+  },
+  {
+    "start": 118.0,
+    "end": 123.84,
+    "text": "acting on the bat as well. And that",
+    "textdich": ""
+  },
+  {
+    "start": 120.079,
+    "end": 126.56,
+    "text": "force will be backwards. So yes indeed,",
+    "textdich": ""
+  },
+  {
+    "start": 123.84,
+    "end": 128.16,
+    "text": "there is a force acting on that bat. So",
+    "textdich": ""
+  },
+  {
+    "start": 126.56,
+    "end": 130.959,
+    "text": "what you notice is that when the bat",
+    "textdich": ""
+  },
+  {
+    "start": 128.16,
+    "end": 134.319,
+    "text": "puts a force on the ball, the ball puts",
+    "textdich": ""
+  },
+  {
+    "start": 130.959,
+    "end": 136.239,
+    "text": "a force back on the bat. But how big is",
+    "textdich": ""
+  },
+  {
+    "start": 134.319,
+    "end": 138.64,
+    "text": "this force? Well, let's think about it.",
+    "textdich": ""
+  },
+  {
+    "start": 136.239,
+    "end": 140.48,
+    "text": "If you were to put a small force on that",
+    "textdich": ""
+  },
+  {
+    "start": 138.64,
+    "end": 143.12,
+    "text": "ball, if you were to gently tap that",
+    "textdich": ""
+  },
+  {
+    "start": 140.48,
+    "end": 144.8,
+    "text": "ball with a very tiny force, then you",
+    "textdich": ""
+  },
+  {
+    "start": 143.12,
+    "end": 147.44,
+    "text": "wouldn't expect your bat to break. You",
+    "textdich": ""
+  },
+  {
+    "start": 144.8,
+    "end": 149.68,
+    "text": "would expect a tiny force back on your",
+    "textdich": ""
+  },
+  {
+    "start": 147.44,
+    "end": 151.36,
+    "text": "bat, isn't it? But if you put a giant",
+    "textdich": ""
+  },
+  {
+    "start": 149.68,
+    "end": 153.28,
+    "text": "force on that ball, if you try to whack",
+    "textdich": ""
+  },
+  {
+    "start": 151.36,
+    "end": 154.879,
+    "text": "it, then there's a very good chance that",
+    "textdich": ""
+  },
+  {
+    "start": 153.28,
+    "end": 156.56,
+    "text": "bat is going to fly off or the bat is",
+    "textdich": ""
+  },
+  {
+    "start": 154.879,
+    "end": 158.319,
+    "text": "going to break. So this means and we've",
+    "textdich": ""
+  },
+  {
+    "start": 156.56,
+    "end": 160.08,
+    "text": "done careful experiments to arrive at",
+    "textdich": ""
+  },
+  {
+    "start": 158.319,
+    "end": 162.879,
+    "text": "this conclusion. But this means that",
+    "textdich": ""
+  },
+  {
+    "start": 160.08,
+    "end": 166.48,
+    "text": "when a bat puts a force on the ball, the",
+    "textdich": ""
+  },
+  {
+    "start": 162.879,
+    "end": 170.319,
+    "text": "ball puts an equal but look opposite",
+    "textdich": ""
+  },
+  {
+    "start": 166.48,
+    "end": 172.72,
+    "text": "force back on the bat. And this is true",
+    "textdich": ""
+  },
+  {
+    "start": 170.319,
+    "end": 175.12,
+    "text": "in general for all forces. For example,",
+    "textdich": ""
+  },
+  {
+    "start": 172.72,
+    "end": 178.08,
+    "text": "imagine you and your friend are skating",
+    "textdich": ""
+  },
+  {
+    "start": 175.12,
+    "end": 179.76,
+    "text": "and you push your friend to the left.",
+    "textdich": ""
+  },
+  {
+    "start": 178.08,
+    "end": 181.44,
+    "text": "What's going to happen? Well, surely",
+    "textdich": ""
+  },
+  {
+    "start": 179.76,
+    "end": 183.76,
+    "text": "your friend is going to start moving",
+    "textdich": ""
+  },
+  {
+    "start": 181.44,
+    "end": 185.84,
+    "text": "this way, but you will also get pushed",
+    "textdich": ""
+  },
+  {
+    "start": 183.76,
+    "end": 188.959,
+    "text": "backwards, which means your friend will",
+    "textdich": ""
+  },
+  {
+    "start": 185.84,
+    "end": 191.12,
+    "text": "also end up pushing on you and the force",
+    "textdich": ""
+  },
+  {
+    "start": 188.959,
+    "end": 193.12,
+    "text": "lasts as long as there is contact. The",
+    "textdich": ""
+  },
+  {
+    "start": 191.12,
+    "end": 196.8,
+    "text": "moment the contact is lost, the force is",
+    "textdich": ""
+  },
+  {
+    "start": 193.12,
+    "end": 199.28,
+    "text": "gone. So this is always true and we give",
+    "textdich": ""
+  },
+  {
+    "start": 196.8,
+    "end": 201.68,
+    "text": "a name to this. We call it the Newton's",
+    "textdich": ""
+  },
+  {
+    "start": 199.28,
+    "end": 204.48,
+    "text": "third law. So in general we could say",
+    "textdich": ""
+  },
+  {
+    "start": 201.68,
+    "end": 208.879,
+    "text": "when an object A puts a force on object",
+    "textdich": ""
+  },
+  {
+    "start": 204.48,
+    "end": 212.159,
+    "text": "B, object P puts an equal and opposite",
+    "textdich": ""
+  },
+  {
+    "start": 208.879,
+    "end": 214.239,
+    "text": "force back on object A. For example, if",
+    "textdich": ""
+  },
+  {
+    "start": 212.159,
+    "end": 216.959,
+    "text": "the bat puts a force on B uh on the",
+    "textdich": ""
+  },
+  {
+    "start": 214.239,
+    "end": 218.959,
+    "text": "ball, sorry, the ball puts an equal and",
+    "textdich": ""
+  },
+  {
+    "start": 216.959,
+    "end": 220.48,
+    "text": "opposite force back on the bat.",
+    "textdich": ""
+  },
+  {
+    "start": 218.959,
+    "end": 222.4,
+    "text": "Similarly, when this girl puts a force",
+    "textdich": ""
+  },
+  {
+    "start": 220.48,
+    "end": 225.12,
+    "text": "on this boy, the boy puts an equal and",
+    "textdich": ""
+  },
+  {
+    "start": 222.4,
+    "end": 226.159,
+    "text": "opposite force back on the girl. And by",
+    "textdich": ""
+  },
+  {
+    "start": 225.12,
+    "end": 227.44,
+    "text": "the way, you're completely free to",
+    "textdich": ""
+  },
+  {
+    "start": 226.159,
+    "end": 229.36,
+    "text": "choose which one is your A and which one",
+    "textdich": ""
+  },
+  {
+    "start": 227.44,
+    "end": 230.799,
+    "text": "is your B. It doesn't matter. The force",
+    "textdich": ""
+  },
+  {
+    "start": 229.36,
+    "end": 232.239,
+    "text": "only lasts as long as there's",
+    "textdich": ""
+  },
+  {
+    "start": 230.799,
+    "end": 233.76,
+    "text": "interaction. Over here, the interaction",
+    "textdich": ""
+  },
+  {
+    "start": 232.239,
+    "end": 235.36,
+    "text": "only exists when there's a contact. So",
+    "textdich": ""
+  },
+  {
+    "start": 233.76,
+    "end": 237.439,
+    "text": "when the contact is gone, the force",
+    "textdich": ""
+  },
+  {
+    "start": 235.36,
+    "end": 239.36,
+    "text": "disappears. And since this is true for",
+    "textdich": ""
+  },
+  {
+    "start": 237.439,
+    "end": 241.519,
+    "text": "all forces, we can now answer our",
+    "textdich": ""
+  },
+  {
+    "start": 239.36,
+    "end": 244.64,
+    "text": "original question. The Earth is putting",
+    "textdich": ""
+  },
+  {
+    "start": 241.519,
+    "end": 247.04,
+    "text": "a force on the apple pulling it down. So",
+    "textdich": ""
+  },
+  {
+    "start": 244.64,
+    "end": 249.439,
+    "text": "according to Newton's third law, the",
+    "textdich": ""
+  },
+  {
+    "start": 247.04,
+    "end": 252.08,
+    "text": "apple must also put an equal and",
+    "textdich": ""
+  },
+  {
+    "start": 249.439,
+    "end": 254.08,
+    "text": "opposite force back on the Earth. Which",
+    "textdich": ""
+  },
+  {
+    "start": 252.08,
+    "end": 257.519,
+    "text": "means the apple is also pulling back on",
+    "textdich": ""
+  },
+  {
+    "start": 254.08,
+    "end": 259.919,
+    "text": "the Earth with the exact same force.",
+    "textdich": ""
+  },
+  {
+    "start": 257.519,
+    "end": 262.32,
+    "text": "That is not intuitive at all. I mean,",
+    "textdich": ""
+  },
+  {
+    "start": 259.919,
+    "end": 265.199,
+    "text": "think about it. This apple is so tiny",
+    "textdich": ""
+  },
+  {
+    "start": 262.32,
+    "end": 268.32,
+    "text": "and it has such a small mass compared to",
+    "textdich": ""
+  },
+  {
+    "start": 265.199,
+    "end": 270.32,
+    "text": "the Earth and yet they exert exactly",
+    "textdich": ""
+  },
+  {
+    "start": 268.32,
+    "end": 271.84,
+    "text": "equal but opposite forces on each other,",
+    "textdich": ""
+  },
+  {
+    "start": 270.32,
+    "end": 273.84,
+    "text": "which is pretty awesome if you think",
+    "textdich": ""
+  },
+  {
+    "start": 271.84,
+    "end": 276.32,
+    "text": "about it. So, according to Newton's",
+    "textdich": ""
+  },
+  {
+    "start": 273.84,
+    "end": 279.36,
+    "text": "third law, forces will always always",
+    "textdich": ""
+  },
+  {
+    "start": 276.32,
+    "end": 281.28,
+    "text": "come in pairs. But that raises another",
+    "textdich": ""
+  },
+  {
+    "start": 279.36,
+    "end": 282.88,
+    "text": "big question. If forces always come in",
+    "textdich": ""
+  },
+  {
+    "start": 281.28,
+    "end": 284.56,
+    "text": "pairs and they're always equal and",
+    "textdich": ""
+  },
+  {
+    "start": 282.88,
+    "end": 287.36,
+    "text": "opposite to each other, shouldn't they",
+    "textdich": ""
+  },
+  {
+    "start": 284.56,
+    "end": 289.52,
+    "text": "cancel out? Why don't they cancel out?",
+    "textdich": ""
+  },
+  {
+    "start": 287.36,
+    "end": 291.68,
+    "text": "Well, because they are always acting on",
+    "textdich": ""
+  },
+  {
+    "start": 289.52,
+    "end": 294.32,
+    "text": "different objects. For example, over",
+    "textdich": ""
+  },
+  {
+    "start": 291.68,
+    "end": 296.88,
+    "text": "here, one force is acting on the apple.",
+    "textdich": ""
+  },
+  {
+    "start": 294.32,
+    "end": 298.24,
+    "text": "The other force is acting on Earth.",
+    "textdich": ""
+  },
+  {
+    "start": 296.88,
+    "end": 300.08,
+    "text": "Similarly, if you go back to our",
+    "textdich": ""
+  },
+  {
+    "start": 298.24,
+    "end": 302.88,
+    "text": "previous example, look, one force is",
+    "textdich": ""
+  },
+  {
+    "start": 300.08,
+    "end": 304.56,
+    "text": "acting on the ball, the other force is",
+    "textdich": ""
+  },
+  {
+    "start": 302.88,
+    "end": 305.84,
+    "text": "being exerted on the bat. One force is",
+    "textdich": ""
+  },
+  {
+    "start": 304.56,
+    "end": 309.44,
+    "text": "acting on the girl, the other force is",
+    "textdich": ""
+  },
+  {
+    "start": 305.84,
+    "end": 312.16,
+    "text": "acting on the on the boy over here. So,",
+    "textdich": ""
+  },
+  {
+    "start": 309.44,
+    "end": 314.0,
+    "text": "these pairs of forces are always acting",
+    "textdich": ""
+  },
+  {
+    "start": 312.16,
+    "end": 316.16,
+    "text": "on different objects or on on different",
+    "textdich": ""
+  },
+  {
+    "start": 314.0,
+    "end": 317.44,
+    "text": "particles. So they can never cancel out.",
+    "textdich": ""
+  },
+  {
+    "start": 316.16,
+    "end": 318.88,
+    "text": "Remember when you're determining whether",
+    "textdich": ""
+  },
+  {
+    "start": 317.44,
+    "end": 320.639,
+    "text": "forces are balanced or not, you're",
+    "textdich": ""
+  },
+  {
+    "start": 318.88,
+    "end": 323.52,
+    "text": "talking about forces acting on one",
+    "textdich": ""
+  },
+  {
+    "start": 320.639,
+    "end": 324.8,
+    "text": "single particle or one single object.",
+    "textdich": ""
+  },
+  {
+    "start": 323.52,
+    "end": 326.72,
+    "text": "All right. Finally, the cool thing about",
+    "textdich": ""
+  },
+  {
+    "start": 324.8,
+    "end": 328.72,
+    "text": "Newton's third law is if you know one of",
+    "textdich": ""
+  },
+  {
+    "start": 326.72,
+    "end": 331.919,
+    "text": "the forces and you want to identify the",
+    "textdich": ""
+  },
+  {
+    "start": 328.72,
+    "end": 334.639,
+    "text": "other force pair, then just switch the",
+    "textdich": ""
+  },
+  {
+    "start": 331.919,
+    "end": 337.199,
+    "text": "words around. For example, a fish uses",
+    "textdich": ""
+  },
+  {
+    "start": 334.639,
+    "end": 338.96,
+    "text": "its tail to put a backward force on the",
+    "textdich": ""
+  },
+  {
+    "start": 337.199,
+    "end": 341.84,
+    "text": "water. Therefore, according to Newton's",
+    "textdich": ""
+  },
+  {
+    "start": 338.96,
+    "end": 345.12,
+    "text": "third law, the water at the same time",
+    "textdich": ""
+  },
+  {
+    "start": 341.84,
+    "end": 347.28,
+    "text": "puts a forward force on the fish.",
+    "textdich": ""
+  },
+  {
+    "start": 345.12,
+    "end": 349.84,
+    "text": "Consider jumping. When you're jumping,",
+    "textdich": ""
+  },
+  {
+    "start": 347.28,
+    "end": 351.36,
+    "text": "you put a downward force on the ground.",
+    "textdich": ""
+  },
+  {
+    "start": 349.84,
+    "end": 353.759,
+    "text": "Well, according to the third law, at the",
+    "textdich": ""
+  },
+  {
+    "start": 351.36,
+    "end": 356.8,
+    "text": "same time, the ground puts an upward",
+    "textdich": ""
+  },
+  {
+    "start": 353.759,
+    "end": 358.32,
+    "text": "force back on you. And if you consider",
+    "textdich": ""
+  },
+  {
+    "start": 356.8,
+    "end": 360.8,
+    "text": "the example of an apple or a ball",
+    "textdich": ""
+  },
+  {
+    "start": 358.32,
+    "end": 363.039,
+    "text": "falling down, for example, the earth",
+    "textdich": ""
+  },
+  {
+    "start": 360.8,
+    "end": 364.639,
+    "text": "pulls on the apple, pushes a downward",
+    "textdich": ""
+  },
+  {
+    "start": 363.039,
+    "end": 366.8,
+    "text": "force, exerts a downward force on the",
+    "textdich": ""
+  },
+  {
+    "start": 364.639,
+    "end": 369.919,
+    "text": "apple. According to Newton law, the",
+    "textdich": ""
+  },
+  {
+    "start": 366.8,
+    "end": 372.8,
+    "text": "apple exerts an upward force on the",
+    "textdich": ""
+  },
+  {
+    "start": 369.919,
+    "end": 374.4,
+    "text": "earth. So long story short, forces arise",
+    "textdich": ""
+  },
+  {
+    "start": 372.8,
+    "end": 376.24,
+    "text": "due to interactions. Some of these",
+    "textdich": ""
+  },
+  {
+    "start": 374.4,
+    "end": 379.12,
+    "text": "interactions will require contact,",
+    "textdich": ""
+  },
+  {
+    "start": 376.24,
+    "end": 381.84,
+    "text": "others, like gravity for example, don't.",
+    "textdich": ""
+  },
+  {
+    "start": 379.12,
+    "end": 384.319,
+    "text": "But you always have two particles or two",
+    "textdich": ""
+  },
+  {
+    "start": 381.84,
+    "end": 387.36,
+    "text": "objects interacting with each other. And",
+    "textdich": ""
+  },
+  {
+    "start": 384.319,
+    "end": 390.08,
+    "text": "as a result, forces always come in",
+    "textdich": ""
+  },
+  {
+    "start": 387.36,
+    "end": 391.919,
+    "text": "pairs. These forces are always equal and",
+    "textdich": ""
+  },
+  {
+    "start": 390.08,
+    "end": 394.0,
+    "text": "opposite, but because they're acting on",
+    "textdich": ""
+  },
+  {
+    "start": 391.919,
+    "end": 397.4,
+    "text": "different objects, they will never",
+    "textdich": ""
+  },
+  {
+    "start": 394.0,
+    "end": 397.4,
+    "text": "cancel out.",
+    "textdich": ""
+  }
+]
