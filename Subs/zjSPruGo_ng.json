@@ -1,0 +1,2642 @@
+[
+    {
+        "start": 0.16,
+        "end": 4.56,
+        "text": "A small accident.",
+        "textdich": ""
+    },
+    {
+        "start": 2.48,
+        "end": 7.6,
+        "text": " Ouch.",
+        "textdich": ""
+    },
+    {
+        "start": 4.56,
+        "end": 9.92,
+        "text": " Oh, sorry. Sorry.",
+        "textdich": ""
+    },
+    {
+        "start": 7.6,
+        "end": 12.8,
+        "text": " Did you hit me?",
+        "textdich": ""
+    },
+    {
+        "start": 9.92,
+        "end": 15.519,
+        "text": " Yes. I'm really sorry.",
+        "textdich": ""
+    },
+    {
+        "start": 12.8,
+        "end": 18.64,
+        "text": " That scared me.",
+        "textdich": ""
+    },
+    {
+        "start": 15.519,
+        "end": 21.92,
+        "text": " I didn't see you in time.",
+        "textdich": ""
+    },
+    {
+        "start": 18.64,
+        "end": 25.199,
+        "text": " You were going too fast.",
+        "textdich": ""
+    },
+    {
+        "start": 21.92,
+        "end": 27.84,
+        "text": " Yes, it's my fault.",
+        "textdich": ""
+    },
+    {
+        "start": 25.199,
+        "end": 32.8,
+        "text": " Are you okay?",
+        "textdich": ""
+    },
+    {
+        "start": 27.84,
+        "end": 35.04,
+        "text": " I think so. Uh, just shocked.",
+        "textdich": ""
+    },
+    {
+        "start": 32.8,
+        "end": 36.96,
+        "text": " Are you hurt?",
+        "textdich": ""
+    },
+    {
+        "start": 35.04,
+        "end": 40.079,
+        "text": " A little.",
+        "textdich": ""
+    },
+    {
+        "start": 36.96,
+        "end": 43.76,
+        "text": "My arm.",
+        "textdich": ""
+    },
+    {
+        "start": 40.079,
+        "end": 46.48,
+        "text": " Do you want me to call someone?",
+        "textdich": ""
+    },
+    {
+        "start": 43.76,
+        "end": 48.879,
+        "text": " No, it's not needed.",
+        "textdich": ""
+    },
+    {
+        "start": 46.48,
+        "end": 51.84,
+        "text": " Are you sure?",
+        "textdich": ""
+    },
+    {
+        "start": 48.879,
+        "end": 54.96,
+        "text": " Yes, I'm okay.",
+        "textdich": ""
+    },
+    {
+        "start": 51.84,
+        "end": 57.44,
+        "text": " Do you want to sit down?",
+        "textdich": ""
+    },
+    {
+        "start": 54.96,
+        "end": 60.239,
+        "text": " No, thanks.",
+        "textdich": ""
+    },
+    {
+        "start": 57.44,
+        "end": 62.079,
+        "text": "I'm okay, too.",
+        "textdich": ""
+    },
+    {
+        "start": 60.239,
+        "end": 65.119,
+        "text": " That's good.",
+        "textdich": ""
+    },
+    {
+        "start": 62.079,
+        "end": 71.28,
+        "text": " Uh, I was riding slow, but there were many people.",
+        "textdich": ""
+    },
+    {
+        "start": 67.68,
+        "end": 74.56,
+        "text": " Yes, this street is very busy.",
+        "textdich": ""
+    },
+    {
+        "start": 71.28,
+        "end": 78.4,
+        "text": " Did you break anything?",
+        "textdich": ""
+    },
+    {
+        "start": 74.56,
+        "end": 80.799,
+        "text": " No, my bag just fell.",
+        "textdich": ""
+    },
+    {
+        "start": 78.4,
+        "end": 84.24,
+        "text": " Can I pick it up?",
+        "textdich": ""
+    },
+    {
+        "start": 80.799,
+        "end": 87.119,
+        "text": " It's okay. I have it.",
+        "textdich": ""
+    },
+    {
+        "start": 84.24,
+        "end": 89.52,
+        "text": " I'm sorry again.",
+        "textdich": ""
+    },
+    {
+        "start": 87.119,
+        "end": 92.88,
+        "text": "It's okay.",
+        "textdich": ""
+    },
+    {
+        "start": 89.52,
+        "end": 96.479,
+        "text": " I will be more careful.",
+        "textdich": ""
+    },
+    {
+        "start": 92.88,
+        "end": 98.56,
+        "text": " It's better to go slow here.",
+        "textdich": ""
+    },
+    {
+        "start": 96.479,
+        "end": 101.92,
+        "text": " You're right.",
+        "textdich": ""
+    },
+    {
+        "start": 98.56,
+        "end": 105.759,
+        "text": " Can I do anything for you?",
+        "textdich": ""
+    },
+    {
+        "start": 101.92,
+        "end": 108.399,
+        "text": " No, thanks. Everything is fine.",
+        "textdich": ""
+    },
+    {
+        "start": 105.759,
+        "end": 112.159,
+        "text": " I'm relieved.",
+        "textdich": ""
+    },
+    {
+        "start": 108.399,
+        "end": 116.36,
+        "text": " Have a nice day. Be careful.",
+        "textdich": ""
+    },
+    {
+        "start": 112.159,
+        "end": 116.36,
+        "text": " Thank you. You, too.",
+        "textdich": ""
+    },
+    {
+        "start": 116.72,
+        "end": 120.96,
+        "text": "Cross the street.",
+        "textdich": ""
+    },
+    {
+        "start": 118.96,
+        "end": 123.52,
+        "text": " Hello.",
+        "textdich": ""
+    },
+    {
+        "start": 120.96,
+        "end": 125.759,
+        "text": " Hello, miss.",
+        "textdich": ""
+    },
+    {
+        "start": 123.52,
+        "end": 131.2,
+        "text": " How are you?",
+        "textdich": ""
+    },
+    {
+        "start": 125.759,
+        "end": 134.56,
+        "text": " Fine, thanks. I am just a little lost.",
+        "textdich": ""
+    },
+    {
+        "start": 131.2,
+        "end": 138.239,
+        "text": " Are you looking for something?",
+        "textdich": ""
+    },
+    {
+        "start": 134.56,
+        "end": 141.76,
+        "text": " Yes, the pharmacy.",
+        "textdich": ""
+    },
+    {
+        "start": 138.239,
+        "end": 145.36,
+        "text": " Do you have the address?",
+        "textdich": ""
+    },
+    {
+        "start": 141.76,
+        "end": 148.0,
+        "text": " I think it's on Main Street.",
+        "textdich": ""
+    },
+    {
+        "start": 145.36,
+        "end": 153.68,
+        "text": "Oh, yes, I know. It  is it far from here?",
+        "textdich": ""
+    },
+    {
+        "start": 151.04,
+        "end": 155.92,
+        "text": " No. 5 minutes.",
+        "textdich": ""
+    },
+    {
+        "start": 153.68,
+        "end": 159.2,
+        "text": " That's good.",
+        "textdich": ""
+    },
+    {
+        "start": 155.92,
+        "end": 163.2,
+        "text": " But we need to cross this street.",
+        "textdich": ""
+    },
+    {
+        "start": 159.2,
+        "end": 166.72,
+        "text": " Yes, there are many cars.",
+        "textdich": ""
+    },
+    {
+        "start": 163.2,
+        "end": 170.08,
+        "text": " The crosswalk is over there.",
+        "textdich": ""
+    },
+    {
+        "start": 166.72,
+        "end": 172.56,
+        "text": " Can you come with me?",
+        "textdich": ""
+    },
+    {
+        "start": 170.08,
+        "end": 175.92,
+        "text": " Sure, with pleasure.",
+        "textdich": ""
+    },
+    {
+        "start": 172.56,
+        "end": 179.28,
+        "text": " Thank you. That's kind.",
+        "textdich": ""
+    },
+    {
+        "start": 175.92,
+        "end": 182.239,
+        "text": " Wait, the light is red.",
+        "textdich": ""
+    },
+    {
+        "start": 179.28,
+        "end": 186.159,
+        "text": " Yes, we wait.",
+        "textdich": ""
+    },
+    {
+        "start": 182.239,
+        "end": 189.92,
+        "text": " Now it's green. We can go.",
+        "textdich": ""
+    },
+    {
+        "start": 186.159,
+        "end": 192.72,
+        "text": " Let's walk slowly.",
+        "textdich": ""
+    },
+    {
+        "start": 189.92,
+        "end": 195.28,
+        "text": " Yes. No rush.",
+        "textdich": ""
+    },
+    {
+        "start": 192.72,
+        "end": 200.239,
+        "text": "Are you okay?",
+        "textdich": ""
+    },
+    {
+        "start": 195.28,
+        "end": 203.519,
+        "text": " Yes, I walk a little slow.",
+        "textdich": ""
+    },
+    {
+        "start": 200.239,
+        "end": 205.84,
+        "text": "That's okay.",
+        "textdich": ""
+    },
+    {
+        "start": 203.519,
+        "end": 208.8,
+        "text": " Thank you, miss.",
+        "textdich": ""
+    },
+    {
+        "start": 205.84,
+        "end": 211.599,
+        "text": " Okay, we cross the street.",
+        "textdich": ""
+    },
+    {
+        "start": 208.8,
+        "end": 214.56,
+        "text": " Oh, thank you.",
+        "textdich": ""
+    },
+    {
+        "start": 211.599,
+        "end": 222.959,
+        "text": " Go straight two blocks  and then  turn right.",
+        "textdich": ""
+    },
+    {
+        "start": 219.12,
+        "end": 226.08,
+        "text": " Is the pharmacy on the corner?",
+        "textdich": ""
+    },
+    {
+        "start": 222.959,
+        "end": 228.0,
+        "text": " Yes, next to the bank.",
+        "textdich": ""
+    },
+    {
+        "start": 226.08,
+        "end": 230.799,
+        "text": " Perfect.",
+        "textdich": ""
+    },
+    {
+        "start": 228.0,
+        "end": 235.12,
+        "text": "Are you going alone?",
+        "textdich": ""
+    },
+    {
+        "start": 230.799,
+        "end": 236.959,
+        "text": " No, my daughter waits for me there.",
+        "textdich": ""
+    },
+    {
+        "start": 235.12,
+        "end": 239.76,
+        "text": " That's nice.",
+        "textdich": ""
+    },
+    {
+        "start": 236.959,
+        "end": 243.04,
+        "text": " Can I thank you again?",
+        "textdich": ""
+    },
+    {
+        "start": 239.76,
+        "end": 245.84,
+        "text": " No need. It was a pleasure.",
+        "textdich": ""
+    },
+    {
+        "start": 243.04,
+        "end": 248.879,
+        "text": " Have a nice day.",
+        "textdich": ""
+    },
+    {
+        "start": 245.84,
+        "end": 251.519,
+        "text": " You too. Take care.",
+        "textdich": ""
+    },
+    {
+        "start": 248.879,
+        "end": 254.64,
+        "text": " I will. Thank you.",
+        "textdich": ""
+    },
+    {
+        "start": 251.519,
+        "end": 259.359,
+        "text": " A car is blocking the way.",
+        "textdich": ""
+    },
+    {
+        "start": 254.64,
+        "end": 262.96,
+        "text": " Excuse me. Is that red car yours?",
+        "textdich": ""
+    },
+    {
+        "start": 259.359,
+        "end": 266.24,
+        "text": " Yes, it's mine. Why?",
+        "textdich": ""
+    },
+    {
+        "start": 262.96,
+        "end": 268.56,
+        "text": " It's blocking my car.",
+        "textdich": ""
+    },
+    {
+        "start": 266.24,
+        "end": 272.16,
+        "text": " Oh, really?",
+        "textdich": ""
+    },
+    {
+        "start": 268.56,
+        "end": 274.8,
+        "text": " Yes, I can't get out.",
+        "textdich": ""
+    },
+    {
+        "start": 272.16,
+        "end": 277.6,
+        "text": " Sorry, I didn't see it.",
+        "textdich": ""
+    },
+    {
+        "start": 274.8,
+        "end": 280.639,
+        "text": " It's right behind my car.",
+        "textdich": ""
+    },
+    {
+        "start": 277.6,
+        "end": 284.0,
+        "text": " Oh, I'll move it.",
+        "textdich": ""
+    },
+    {
+        "start": 280.639,
+        "end": 286.32,
+        "text": " Thanks. I'm in a hurry.",
+        "textdich": ""
+    },
+    {
+        "start": 284.0,
+        "end": 288.88,
+        "text": "I understand.",
+        "textdich": ""
+    },
+    {
+        "start": 286.32,
+        "end": 292.32,
+        "text": " I have to go to work.",
+        "textdich": ""
+    },
+    {
+        "start": 288.88,
+        "end": 295.44,
+        "text": " I just wanted to grab some bread.",
+        "textdich": ""
+    },
+    {
+        "start": 292.32,
+        "end": 297.6,
+        "text": "There's no space here.",
+        "textdich": ""
+    },
+    {
+        "start": 295.44,
+        "end": 300.32,
+        "text": " Yes, I know.",
+        "textdich": ""
+    },
+    {
+        "start": 297.6,
+        "end": 302.16,
+        "text": " Can you move forward a little?",
+        "textdich": ""
+    },
+    {
+        "start": 300.32,
+        "end": 305.919,
+        "text": " Sure.",
+        "textdich": ""
+    },
+    {
+        "start": 302.16,
+        "end": 308.08,
+        "text": " That way I can get out.",
+        "textdich": ""
+    },
+    {
+        "start": 305.919,
+        "end": 311.039,
+        "text": " Wait a minute.",
+        "textdich": ""
+    },
+    {
+        "start": 308.08,
+        "end": 313.28,
+        "text": " Thank you so much.",
+        "textdich": ""
+    },
+    {
+        "start": 311.039,
+        "end": 316.0,
+        "text": " No problem.",
+        "textdich": ""
+    },
+    {
+        "start": 313.28,
+        "end": 318.16,
+        "text": "Is it good now?",
+        "textdich": ""
+    },
+    {
+        "start": 316.0,
+        "end": 321.28,
+        "text": " Not yet.",
+        "textdich": ""
+    },
+    {
+        "start": 318.16,
+        "end": 323.44,
+        "text": " A little more, please.",
+        "textdich": ""
+    },
+    {
+        "start": 321.28,
+        "end": 326.32,
+        "text": " Now?",
+        "textdich": ""
+    },
+    {
+        "start": 323.44,
+        "end": 328.8,
+        "text": " Yes. Perfect.",
+        "textdich": ""
+    },
+    {
+        "start": 326.32,
+        "end": 331.68,
+        "text": " Sorry again.",
+        "textdich": ""
+    },
+    {
+        "start": 328.8,
+        "end": 334.32,
+        "text": " It's okay.",
+        "textdich": ""
+    },
+    {
+        "start": 331.68,
+        "end": 337.28,
+        "text": " Everything okay?",
+        "textdich": ""
+    },
+    {
+        "start": 334.32,
+        "end": 340.08,
+        "text": " Yes, thanks.",
+        "textdich": ""
+    },
+    {
+        "start": 337.28,
+        "end": 342.639,
+        "text": " Have a nice day.",
+        "textdich": ""
+    },
+    {
+        "start": 340.08,
+        "end": 347.28,
+        "text": " You too.",
+        "textdich": ""
+    },
+    {
+        "start": 342.639,
+        "end": 350.72,
+        "text": "Don't leave your car like that again.",
+        "textdich": ""
+    },
+    {
+        "start": 347.28,
+        "end": 352.88,
+        "text": " Okay, I'll be careful.",
+        "textdich": ""
+    },
+    {
+        "start": 350.72,
+        "end": 356.0,
+        "text": " Good work.",
+        "textdich": ""
+    },
+    {
+        "start": 352.88,
+        "end": 358.72,
+        "text": " Thanks. See you.",
+        "textdich": ""
+    },
+    {
+        "start": 356.0,
+        "end": 361.84,
+        "text": "See you.",
+        "textdich": ""
+    },
+    {
+        "start": 358.72,
+        "end": 364.16,
+        "text": " Asking the time on the street.",
+        "textdich": ""
+    },
+    {
+        "start": 361.84,
+        "end": 366.08,
+        "text": " Excuse me.",
+        "textdich": ""
+    },
+    {
+        "start": 364.16,
+        "end": 369.6,
+        "text": " Yes.",
+        "textdich": ""
+    },
+    {
+        "start": 366.08,
+        "end": 372.319,
+        "text": " Do you have the time, please?",
+        "textdich": ""
+    },
+    {
+        "start": 369.6,
+        "end": 375.039,
+        "text": "It's 4:20.",
+        "textdich": ""
+    },
+    {
+        "start": 372.319,
+        "end": 377.52,
+        "text": " Thank you very much.",
+        "textdich": ""
+    },
+    {
+        "start": 375.039,
+        "end": 381.52,
+        "text": " You're welcome.",
+        "textdich": ""
+    },
+    {
+        "start": 377.52,
+        "end": 385.039,
+        "text": " Which bus goes to Central Park?",
+        "textdich": ""
+    },
+    {
+        "start": 381.52,
+        "end": 387.68,
+        "text": " I think bus 12 goes there.",
+        "textdich": ""
+    },
+    {
+        "start": 385.039,
+        "end": 390.96,
+        "text": " Are you sure?",
+        "textdich": ""
+    },
+    {
+        "start": 387.68,
+        "end": 393.52,
+        "text": " Yes, I take it sometimes.",
+        "textdich": ""
+    },
+    {
+        "start": 390.96,
+        "end": 396.0,
+        "text": " Where is the stop?",
+        "textdich": ""
+    },
+    {
+        "start": 393.52,
+        "end": 398.4,
+        "text": " At the end of the street.",
+        "textdich": ""
+    },
+    {
+        "start": 396.0,
+        "end": 401.6,
+        "text": " Is it far?",
+        "textdich": ""
+    },
+    {
+        "start": 398.4,
+        "end": 403.28,
+        "text": "No. 3 minutes on foot.",
+        "textdich": ""
+    },
+    {
+        "start": 401.6,
+        "end": 406.0,
+        "text": " Okay.",
+        "textdich": ""
+    },
+    {
+        "start": 403.28,
+        "end": 410.08,
+        "text": " Are you alone?",
+        "textdich": ""
+    },
+    {
+        "start": 406.0,
+        "end": 412.479,
+        "text": " Yes, but my mom is waiting.",
+        "textdich": ""
+    },
+    {
+        "start": 410.08,
+        "end": 415.68,
+        "text": " Oh, that's good.",
+        "textdich": ""
+    },
+    {
+        "start": 412.479,
+        "end": 419.44,
+        "text": " Does the bus come often?",
+        "textdich": ""
+    },
+    {
+        "start": 415.68,
+        "end": 422.08,
+        "text": " Yes, every 15 minutes.",
+        "textdich": ""
+    },
+    {
+        "start": 419.44,
+        "end": 424.479,
+        "text": " Is it a long ride?",
+        "textdich": ""
+    },
+    {
+        "start": 422.08,
+        "end": 427.28,
+        "text": " About 20 minutes.",
+        "textdich": ""
+    },
+    {
+        "start": 424.479,
+        "end": 429.84,
+        "text": " I have time then.",
+        "textdich": ""
+    },
+    {
+        "start": 427.28,
+        "end": 432.56,
+        "text": "Do you have a ticket?",
+        "textdich": ""
+    },
+    {
+        "start": 429.84,
+        "end": 434.639,
+        "text": " Yes, I have it.",
+        "textdich": ""
+    },
+    {
+        "start": 432.56,
+        "end": 437.759,
+        "text": " Perfect.",
+        "textdich": ""
+    },
+    {
+        "start": 434.639,
+        "end": 441.599,
+        "text": " Is there a sign at the stop?",
+        "textdich": ""
+    },
+    {
+        "start": 437.759,
+        "end": 443.44,
+        "text": " Uh, yes, a blue sign.",
+        "textdich": ""
+    },
+    {
+        "start": 441.599,
+        "end": 446.639,
+        "text": " Thanks.",
+        "textdich": ""
+    },
+    {
+        "start": 443.44,
+        "end": 450.56,
+        "text": " Is this your first time here?",
+        "textdich": ""
+    },
+    {
+        "start": 446.639,
+        "end": 454.0,
+        "text": " Yes. I don't know this area.",
+        "textdich": ""
+    },
+    {
+        "start": 450.56,
+        "end": 457.759,
+        "text": " You did the right thing asking.",
+        "textdich": ""
+    },
+    {
+        "start": 454.0,
+        "end": 461.039,
+        "text": "Yes. I don't want to get lost.",
+        "textdich": ""
+    },
+    {
+        "start": 457.759,
+        "end": 464.16,
+        "text": " It's good to ask questions.",
+        "textdich": ""
+    },
+    {
+        "start": 461.039,
+        "end": 469.44,
+        "text": " And if I miss the bus,  another one comes after.",
+        "textdich": ""
+    },
+    {
+        "start": 467.599,
+        "end": 472.639,
+        "text": " Okay.",
+        "textdich": ""
+    },
+    {
+        "start": 469.44,
+        "end": 476.319,
+        "text": " Can you read the signs?",
+        "textdich": ""
+    },
+    {
+        "start": 472.639,
+        "end": 478.56,
+        "text": " A little. I look carefully.",
+        "textdich": ""
+    },
+    {
+        "start": 476.319,
+        "end": 481.84,
+        "text": " Very good.",
+        "textdich": ""
+    },
+    {
+        "start": 478.56,
+        "end": 484.8,
+        "text": " Everything will be fine.",
+        "textdich": ""
+    },
+    {
+        "start": 481.84,
+        "end": 488.8,
+        "text": "Thank you for your help.",
+        "textdich": ""
+    },
+    {
+        "start": 484.8,
+        "end": 492.56,
+        "text": " You're welcome. Be careful.",
+        "textdich": ""
+    },
+    {
+        "start": 488.8,
+        "end": 495.759,
+        "text": " You too. Have a nice day.",
+        "textdich": ""
+    },
+    {
+        "start": 492.56,
+        "end": 498.319,
+        "text": " Have a nice day.",
+        "textdich": ""
+    },
+    {
+        "start": 495.759,
+        "end": 501.68,
+        "text": "A dog off leash.",
+        "textdich": ""
+    },
+    {
+        "start": 498.319,
+        "end": 505.12,
+        "text": " Whoa, you scared me.",
+        "textdich": ""
+    },
+    {
+        "start": 501.68,
+        "end": 508.08,
+        "text": " Oh, sorry. Are you okay?",
+        "textdich": ""
+    },
+    {
+        "start": 505.12,
+        "end": 511.84,
+        "text": " Your dog scared me.",
+        "textdich": ""
+    },
+    {
+        "start": 508.08,
+        "end": 514.8,
+        "text": " I'm sorry. He didn't mean to.",
+        "textdich": ""
+    },
+    {
+        "start": 511.84,
+        "end": 517.76,
+        "text": " He ran right at me.",
+        "textdich": ""
+    },
+    {
+        "start": 514.8,
+        "end": 520.88,
+        "text": " Yeah, but he's friendly.",
+        "textdich": ""
+    },
+    {
+        "start": 517.76,
+        "end": 524.399,
+        "text": " He doesn't have a leash.",
+        "textdich": ""
+    },
+    {
+        "start": 520.88,
+        "end": 526.48,
+        "text": " No, he walks off leash here.",
+        "textdich": ""
+    },
+    {
+        "start": 524.399,
+        "end": 529.6,
+        "text": " That's not good.",
+        "textdich": ""
+    },
+    {
+        "start": 526.48,
+        "end": 532.399,
+        "text": " But he never bites.",
+        "textdich": ""
+    },
+    {
+        "start": 529.6,
+        "end": 536.16,
+        "text": " Still, it's scary.",
+        "textdich": ""
+    },
+    {
+        "start": 532.399,
+        "end": 539.839,
+        "text": " Did he do anything to you?",
+        "textdich": ""
+    },
+    {
+        "start": 536.16,
+        "end": 542.56,
+        "text": " No, he just jumped near me.",
+        "textdich": ""
+    },
+    {
+        "start": 539.839,
+        "end": 544.8,
+        "text": "Sorry, I didn't see.",
+        "textdich": ""
+    },
+    {
+        "start": 542.56,
+        "end": 548.8,
+        "text": " Is he young?",
+        "textdich": ""
+    },
+    {
+        "start": 544.8,
+        "end": 552.48,
+        "text": " Yeah, he's one year old.",
+        "textdich": ""
+    },
+    {
+        "start": 548.8,
+        "end": 555.6,
+        "text": " I see. He's full of energy.",
+        "textdich": ""
+    },
+    {
+        "start": 552.48,
+        "end": 559.36,
+        "text": " Yep. He loves to run.",
+        "textdich": ""
+    },
+    {
+        "start": 555.6,
+        "end": 561.92,
+        "text": " But there are a lot of people here.",
+        "textdich": ""
+    },
+    {
+        "start": 559.36,
+        "end": 564.959,
+        "text": " You're right.",
+        "textdich": ""
+    },
+    {
+        "start": 561.92,
+        "end": 566.959,
+        "text": " Kids could get scared.",
+        "textdich": ""
+    },
+    {
+        "start": 564.959,
+        "end": 570.08,
+        "text": " True.",
+        "textdich": ""
+    },
+    {
+        "start": 566.959,
+        "end": 573.2,
+        "text": "Can you put a leash on him?",
+        "textdich": ""
+    },
+    {
+        "start": 570.08,
+        "end": 575.44,
+        "text": " Sure. Right away.",
+        "textdich": ""
+    },
+    {
+        "start": 573.2,
+        "end": 578.56,
+        "text": " Thanks.",
+        "textdich": ""
+    },
+    {
+        "start": 575.44,
+        "end": 580.48,
+        "text": " There. He's on a leash.",
+        "textdich": ""
+    },
+    {
+        "start": 578.56,
+        "end": 583.12,
+        "text": " That's better.",
+        "textdich": ""
+    },
+    {
+        "start": 580.48,
+        "end": 585.92,
+        "text": " Can I say hi to him?",
+        "textdich": ""
+    },
+    {
+        "start": 583.12,
+        "end": 588.08,
+        "text": " No thanks. I'll stay here.",
+        "textdich": ""
+    },
+    {
+        "start": 585.92,
+        "end": 590.56,
+        "text": " Okay.",
+        "textdich": ""
+    },
+    {
+        "start": 588.08,
+        "end": 592.64,
+        "text": " What's his name?",
+        "textdich": ""
+    },
+    {
+        "start": 590.56,
+        "end": 595.2,
+        "text": " Max.",
+        "textdich": ""
+    },
+    {
+        "start": 592.64,
+        "end": 598.399,
+        "text": " Hi, Max.",
+        "textdich": ""
+    },
+    {
+        "start": 595.2,
+        "end": 601.2,
+        "text": "See, he's calm now.",
+        "textdich": ""
+    },
+    {
+        "start": 598.399,
+        "end": 604.16,
+        "text": " Yeah, he seems nice.",
+        "textdich": ""
+    },
+    {
+        "start": 601.2,
+        "end": 607.44,
+        "text": " He likes people.",
+        "textdich": ""
+    },
+    {
+        "start": 604.16,
+        "end": 609.92,
+        "text": " Yes, but be careful.",
+        "textdich": ""
+    },
+    {
+        "start": 607.44,
+        "end": 612.8,
+        "text": " I will.",
+        "textdich": ""
+    },
+    {
+        "start": 609.92,
+        "end": 616.079,
+        "text": " Thanks for understanding.",
+        "textdich": ""
+    },
+    {
+        "start": 612.8,
+        "end": 618.64,
+        "text": " Thanks for putting the leash on.",
+        "textdich": ""
+    },
+    {
+        "start": 616.079,
+        "end": 620.72,
+        "text": " Have a good day.",
+        "textdich": ""
+    },
+    {
+        "start": 618.64,
+        "end": 624.72,
+        "text": " You too.",
+        "textdich": ""
+    },
+    {
+        "start": 620.72,
+        "end": 629.2,
+        "text": " Asking for a photo. Excuse me. Can you help me?",
+        "textdich": ""
+    },
+    {
+        "start": 626.64,
+        "end": 633.04,
+        "text": " Sure, no problem.",
+        "textdich": ""
+    },
+    {
+        "start": 629.2,
+        "end": 635.279,
+        "text": " Can you take a picture of me, please?",
+        "textdich": ""
+    },
+    {
+        "start": 633.04,
+        "end": 638.8,
+        "text": " Yeah, of course.",
+        "textdich": ""
+    },
+    {
+        "start": 635.279,
+        "end": 641.36,
+        "text": " Thanks. I'm traveling alone.",
+        "textdich": ""
+    },
+    {
+        "start": 638.8,
+        "end": 643.44,
+        "text": " With your phone?",
+        "textdich": ""
+    },
+    {
+        "start": 641.36,
+        "end": 646.88,
+        "text": " Yes, here it is.",
+        "textdich": ""
+    },
+    {
+        "start": 643.44,
+        "end": 650.16,
+        "text": " Where do you want the picture?",
+        "textdich": ""
+    },
+    {
+        "start": 646.88,
+        "end": 654.399,
+        "text": " With that fountain behind me.",
+        "textdich": ""
+    },
+    {
+        "start": 650.16,
+        "end": 657.12,
+        "text": " Perfect. It looks nice.",
+        "textdich": ""
+    },
+    {
+        "start": 654.399,
+        "end": 660.8,
+        "text": " Like this. Okay.",
+        "textdich": ""
+    },
+    {
+        "start": 657.12,
+        "end": 663.04,
+        "text": " No, a little more to the left.",
+        "textdich": ""
+    },
+    {
+        "start": 660.8,
+        "end": 665.92,
+        "text": " Like this.",
+        "textdich": ""
+    },
+    {
+        "start": 663.04,
+        "end": 668.32,
+        "text": " Yes. Perfect.",
+        "textdich": ""
+    },
+    {
+        "start": 665.92,
+        "end": 670.32,
+        "text": " Ready?",
+        "textdich": ""
+    },
+    {
+        "start": 668.32,
+        "end": 674.399,
+        "text": " Yes.",
+        "textdich": ""
+    },
+    {
+        "start": 670.32,
+        "end": 677.04,
+        "text": " 1 2 3.",
+        "textdich": ""
+    },
+    {
+        "start": 674.399,
+        "end": 680.399,
+        "text": " Smile.",
+        "textdich": ""
+    },
+    {
+        "start": 677.04,
+        "end": 683.519,
+        "text": " Do you like it?",
+        "textdich": ""
+    },
+    {
+        "start": 680.399,
+        "end": 686.56,
+        "text": "Oh, yes. It's great.",
+        "textdich": ""
+    },
+    {
+        "start": 683.519,
+        "end": 691.12,
+        "text": " Want another one?",
+        "textdich": ""
+    },
+    {
+        "start": 686.56,
+        "end": 693.68,
+        "text": " Yes. With the statue now.",
+        "textdich": ""
+    },
+    {
+        "start": 691.12,
+        "end": 697.279,
+        "text": " Okay. Here.",
+        "textdich": ""
+    },
+    {
+        "start": 693.68,
+        "end": 699.6,
+        "text": " A bit farther back.",
+        "textdich": ""
+    },
+    {
+        "start": 697.279,
+        "end": 702.56,
+        "text": " Like this.",
+        "textdich": ""
+    },
+    {
+        "start": 699.6,
+        "end": 705.6,
+        "text": " Yes, that's good.",
+        "textdich": ""
+    },
+    {
+        "start": 702.56,
+        "end": 707.76,
+        "text": " Perfect. One more.",
+        "textdich": ""
+    },
+    {
+        "start": 705.6,
+        "end": 710.079,
+        "text": " Thanks.",
+        "textdich": ""
+    },
+    {
+        "start": 707.76,
+        "end": 713.12,
+        "text": "Want to see them?",
+        "textdich": ""
+    },
+    {
+        "start": 710.079,
+        "end": 718.32,
+        "text": " Yes, please. Andy,  look. Here they are.",
+        "textdich": ""
+    },
+    {
+        "start": 715.68,
+        "end": 721.2,
+        "text": " So nice.",
+        "textdich": ""
+    },
+    {
+        "start": 718.32,
+        "end": 723.92,
+        "text": " I'm glad you like them.",
+        "textdich": ""
+    },
+    {
+        "start": 721.2,
+        "end": 726.959,
+        "text": " Thank you so much.",
+        "textdich": ""
+    },
+    {
+        "start": 723.92,
+        "end": 729.92,
+        "text": " No problem. My pleasure.",
+        "textdich": ""
+    },
+    {
+        "start": 726.959,
+        "end": 732.959,
+        "text": " Are you from around here?",
+        "textdich": ""
+    },
+    {
+        "start": 729.92,
+        "end": 735.92,
+        "text": " Yes, I live here.",
+        "textdich": ""
+    },
+    {
+        "start": 732.959,
+        "end": 739.76,
+        "text": " Lucky you.",
+        "textdich": ""
+    },
+    {
+        "start": 735.92,
+        "end": 743.76,
+        "text": "Have you seen a lot of places yet?",
+        "textdich": ""
+    },
+    {
+        "start": 739.76,
+        "end": 747.6,
+        "text": " Not yet. I got here yesterday.",
+        "textdich": ""
+    },
+    {
+        "start": 743.76,
+        "end": 750.8,
+        "text": " I suggest visiting the old town.",
+        "textdich": ""
+    },
+    {
+        "start": 747.6,
+        "end": 753.839,
+        "text": " Is it far from here?",
+        "textdich": ""
+    },
+    {
+        "start": 750.8,
+        "end": 755.36,
+        "text": " No. 10 minutes walking.",
+        "textdich": ""
+    },
+    {
+        "start": 753.839,
+        "end": 758.079,
+        "text": " Great.",
+        "textdich": ""
+    },
+    {
+        "start": 755.36,
+        "end": 761.12,
+        "text": "Any other tips?",
+        "textdich": ""
+    },
+    {
+        "start": 758.079,
+        "end": 767.279,
+        "text": " Yes. The central market is fun and the food is good.",
+        "textdich": ""
+    },
+    {
+        "start": 764.32,
+        "end": 770.399,
+        "text": "Good idea.",
+        "textdich": ""
+    },
+    {
+        "start": 767.279,
+        "end": 775.2,
+        "text": " And if you like art, there's a museum nearby.",
+        "textdich": ""
+    },
+    {
+        "start": 772.56,
+        "end": 777.6,
+        "text": " I love art.",
+        "textdich": ""
+    },
+    {
+        "start": 775.2,
+        "end": 780.72,
+        "text": " Then don't miss it.",
+        "textdich": ""
+    },
+    {
+        "start": 777.6,
+        "end": 783.279,
+        "text": " Thanks for all the advice.",
+        "textdich": ""
+    },
+    {
+        "start": 780.72,
+        "end": 788.0,
+        "text": " Enjoy your trip.",
+        "textdich": ""
+    },
+    {
+        "start": 783.279,
+        "end": 792.0,
+        "text": " Thanks again and for the photos, too.",
+        "textdich": ""
+    },
+    {
+        "start": 788.0,
+        "end": 796.16,
+        "text": " No problem. Have a great day.",
+        "textdich": ""
+    },
+    {
+        "start": 792.0,
+        "end": 800.72,
+        "text": "You too. See you  helping with heavy bags.",
+        "textdich": ""
+    },
+    {
+        "start": 798.959,
+        "end": 803.6,
+        "text": " Hi.",
+        "textdich": ""
+    },
+    {
+        "start": 800.72,
+        "end": 807.2,
+        "text": " Hi.",
+        "textdich": ""
+    },
+    {
+        "start": 803.6,
+        "end": 810.72,
+        "text": " Do you want some help with your bags?",
+        "textdich": ""
+    },
+    {
+        "start": 807.2,
+        "end": 814.32,
+        "text": " Oh, thanks. They're heavy.",
+        "textdich": ""
+    },
+    {
+        "start": 810.72,
+        "end": 816.639,
+        "text": " No problem. I can help.",
+        "textdich": ""
+    },
+    {
+        "start": 814.32,
+        "end": 820.0,
+        "text": " That's very kind.",
+        "textdich": ""
+    },
+    {
+        "start": 816.639,
+        "end": 823.519,
+        "text": " Are you waiting for the bus?",
+        "textdich": ""
+    },
+    {
+        "start": 820.0,
+        "end": 826.8,
+        "text": "Yes. Bus number 22.",
+        "textdich": ""
+    },
+    {
+        "start": 823.519,
+        "end": 830.399,
+        "text": " Me too. I take the 22.",
+        "textdich": ""
+    },
+    {
+        "start": 826.8,
+        "end": 835.36,
+        "text": " Great. We can wait together.",
+        "textdich": ""
+    },
+    {
+        "start": 830.399,
+        "end": 839.279,
+        "text": " Okay. Do you have food in your bags?",
+        "textdich": ""
+    },
+    {
+        "start": 835.36,
+        "end": 842.079,
+        "text": " Yes, I went to the grocery store.",
+        "textdich": ""
+    },
+    {
+        "start": 839.279,
+        "end": 845.839,
+        "text": " Do you live far?",
+        "textdich": ""
+    },
+    {
+        "start": 842.079,
+        "end": 849.519,
+        "text": " No, just three blocks away.",
+        "textdich": ""
+    },
+    {
+        "start": 845.839,
+        "end": 852.24,
+        "text": " Okay. Are you alone?",
+        "textdich": ""
+    },
+    {
+        "start": 849.519,
+        "end": 855.12,
+        "text": "Yes, I'm alone.",
+        "textdich": ""
+    },
+    {
+        "start": 852.24,
+        "end": 858.72,
+        "text": " Do you want to sit?",
+        "textdich": ""
+    },
+    {
+        "start": 855.12,
+        "end": 861.76,
+        "text": " Yes, thanks. I'm tired.",
+        "textdich": ""
+    },
+    {
+        "start": 858.72,
+        "end": 864.079,
+        "text": " I can hold your bags.",
+        "textdich": ""
+    },
+    {
+        "start": 861.76,
+        "end": 868.48,
+        "text": " Thanks, young man.",
+        "textdich": ""
+    },
+    {
+        "start": 864.079,
+        "end": 871.519,
+        "text": " You're welcome. Do you come here often?",
+        "textdich": ""
+    },
+    {
+        "start": 868.48,
+        "end": 874.639,
+        "text": " Yes, every Saturday.",
+        "textdich": ""
+    },
+    {
+        "start": 871.519,
+        "end": 878.48,
+        "text": " Do you buy a lot?",
+        "textdich": ""
+    },
+    {
+        "start": 874.639,
+        "end": 880.88,
+        "text": " Sometimes. Today there were sales.",
+        "textdich": ""
+    },
+    {
+        "start": 878.48,
+        "end": 884.24,
+        "text": "That's nice.",
+        "textdich": ""
+    },
+    {
+        "start": 880.88,
+        "end": 887.04,
+        "text": " But it's heavy after.",
+        "textdich": ""
+    },
+    {
+        "start": 884.24,
+        "end": 889.839,
+        "text": " That's why I help.",
+        "textdich": ""
+    },
+    {
+        "start": 887.04,
+        "end": 892.72,
+        "text": " I'm lucky today.",
+        "textdich": ""
+    },
+    {
+        "start": 889.839,
+        "end": 895.519,
+        "text": " The bus is late.",
+        "textdich": ""
+    },
+    {
+        "start": 892.72,
+        "end": 899.44,
+        "text": " Yes, like always.",
+        "textdich": ""
+    },
+    {
+        "start": 895.519,
+        "end": 901.92,
+        "text": " When it comes, I'll carry your bags.",
+        "textdich": ""
+    },
+    {
+        "start": 899.44,
+        "end": 905.76,
+        "text": " Thank you. Really?",
+        "textdich": ""
+    },
+    {
+        "start": 901.92,
+        "end": 908.56,
+        "text": " No worries. I like to help.",
+        "textdich": ""
+    },
+    {
+        "start": 905.76,
+        "end": 912.639,
+        "text": "Do you have kids?",
+        "textdich": ""
+    },
+    {
+        "start": 908.56,
+        "end": 915.12,
+        "text": " Yes, two grown kids.",
+        "textdich": ""
+    },
+    {
+        "start": 912.639,
+        "end": 917.839,
+        "text": " They must be proud.",
+        "textdich": ""
+    },
+    {
+        "start": 915.12,
+        "end": 920.72,
+        "text": " You're kind.",
+        "textdich": ""
+    },
+    {
+        "start": 917.839,
+        "end": 922.48,
+        "text": " Ah, here's the bus.",
+        "textdich": ""
+    },
+    {
+        "start": 920.72,
+        "end": 925.839,
+        "text": " Finally.",
+        "textdich": ""
+    },
+    {
+        "start": 922.48,
+        "end": 928.24,
+        "text": " Let's go. I'll take the bags.",
+        "textdich": ""
+    },
+    {
+        "start": 925.839,
+        "end": 931.04,
+        "text": " Thanks, young man.",
+        "textdich": ""
+    },
+    {
+        "start": 928.24,
+        "end": 934.639,
+        "text": " My pleasure.",
+        "textdich": ""
+    },
+    {
+        "start": 931.04,
+        "end": 936.8,
+        "text": "Parking ticket for illegal parking.",
+        "textdich": ""
+    },
+    {
+        "start": 934.639,
+        "end": 939.36,
+        "text": "Hi.",
+        "textdich": ""
+    },
+    {
+        "start": 936.8,
+        "end": 942.16,
+        "text": " Hi, officer.",
+        "textdich": ""
+    },
+    {
+        "start": 939.36,
+        "end": 943.839,
+        "text": " Is this your car?",
+        "textdich": ""
+    },
+    {
+        "start": 942.16,
+        "end": 947.279,
+        "text": " Yes, it is.",
+        "textdich": ""
+    },
+    {
+        "start": 943.839,
+        "end": 950.56,
+        "text": " You parked in the wrong place.",
+        "textdich": ""
+    },
+    {
+        "start": 947.279,
+        "end": 953.92,
+        "text": " Oh, really? I didn't know.",
+        "textdich": ""
+    },
+    {
+        "start": 950.56,
+        "end": 956.0,
+        "text": " This is a no parking zone.",
+        "textdich": ""
+    },
+    {
+        "start": 953.92,
+        "end": 958.72,
+        "text": " I'm sorry.",
+        "textdich": ""
+    },
+    {
+        "start": 956.0,
+        "end": 960.88,
+        "text": " There's a sign over there.",
+        "textdich": ""
+    },
+    {
+        "start": 958.72,
+        "end": 964.72,
+        "text": " I didn't see it.",
+        "textdich": ""
+    },
+    {
+        "start": 960.88,
+        "end": 967.759,
+        "text": " This spot is for taxis.",
+        "textdich": ""
+    },
+    {
+        "start": 964.72,
+        "end": 972.24,
+        "text": "I thought it was okay.",
+        "textdich": ""
+    },
+    {
+        "start": 967.759,
+        "end": 975.92,
+        "text": " No, not from 8:00 a.m. to 8:00 p.m.",
+        "textdich": ""
+    },
+    {
+        "start": 972.24,
+        "end": 979.12,
+        "text": " I was only here for 5 minutes.",
+        "textdich": ""
+    },
+    {
+        "start": 975.92,
+        "end": 982.56,
+        "text": " Even 5 minutes is not allowed.",
+        "textdich": ""
+    },
+    {
+        "start": 979.12,
+        "end": 986.079,
+        "text": " Are you going to give me a ticket?",
+        "textdich": ""
+    },
+    {
+        "start": 982.56,
+        "end": 988.72,
+        "text": " Yes, I have to.",
+        "textdich": ""
+    },
+    {
+        "start": 986.079,
+        "end": 990.959,
+        "text": " Uh, how much is it?",
+        "textdich": ""
+    },
+    {
+        "start": 988.72,
+        "end": 993.68,
+        "text": " $50.",
+        "textdich": ""
+    },
+    {
+        "start": 990.959,
+        "end": 996.88,
+        "text": " Can I pay now?",
+        "textdich": ""
+    },
+    {
+        "start": 993.68,
+        "end": 999.839,
+        "text": "No, you'll get a letter.",
+        "textdich": ""
+    },
+    {
+        "start": 996.88,
+        "end": 1002.399,
+        "text": " Okay, it's my fault.",
+        "textdich": ""
+    },
+    {
+        "start": 999.839,
+        "end": 1005.199,
+        "text": " Thanks for understanding.",
+        "textdich": ""
+    },
+    {
+        "start": 1002.399,
+        "end": 1008.24,
+        "text": " Can I move my car?",
+        "textdich": ""
+    },
+    {
+        "start": 1005.199,
+        "end": 1011.92,
+        "text": " Yes, right now.",
+        "textdich": ""
+    },
+    {
+        "start": 1008.24,
+        "end": 1015.12,
+        "text": " Is there parking nearby?",
+        "textdich": ""
+    },
+    {
+        "start": 1011.92,
+        "end": 1018.0,
+        "text": " Yes, just on the next street.",
+        "textdich": ""
+    },
+    {
+        "start": 1015.12,
+        "end": 1022.399,
+        "text": " Do I have to pay there?",
+        "textdich": ""
+    },
+    {
+        "start": 1018.0,
+        "end": 1025.199,
+        "text": " Yes, it's a metered zone.",
+        "textdich": ""
+    },
+    {
+        "start": 1022.399,
+        "end": 1027.28,
+        "text": "Thanks for the info.",
+        "textdich": ""
+    },
+    {
+        "start": 1025.199,
+        "end": 1030.319,
+        "text": " You're welcome.",
+        "textdich": ""
+    },
+    {
+        "start": 1027.28,
+        "end": 1033.28,
+        "text": " Are there many tickets here?",
+        "textdich": ""
+    },
+    {
+        "start": 1030.319,
+        "end": 1036.64,
+        "text": " Yes, very often.",
+        "textdich": ""
+    },
+    {
+        "start": 1033.28,
+        "end": 1038.799,
+        "text": " I'll be careful next time.",
+        "textdich": ""
+    },
+    {
+        "start": 1036.64,
+        "end": 1041.36,
+        "text": " That's good.",
+        "textdich": ""
+    },
+    {
+        "start": 1038.799,
+        "end": 1045.039,
+        "text": " Can I avoid the ticket?",
+        "textdich": ""
+    },
+    {
+        "start": 1041.36,
+        "end": 1047.679,
+        "text": " No, it's already recorded.",
+        "textdich": ""
+    },
+    {
+        "start": 1045.039,
+        "end": 1051.44,
+        "text": " Okay, I understand.",
+        "textdich": ""
+    },
+    {
+        "start": 1047.679,
+        "end": 1053.12,
+        "text": " Thanks for being kind.",
+        "textdich": ""
+    },
+    {
+        "start": 1051.44,
+        "end": 1055.76,
+        "text": "Thank you.",
+        "textdich": ""
+    },
+    {
+        "start": 1053.12,
+        "end": 1058.24,
+        "text": " Can I go now?",
+        "textdich": ""
+    },
+    {
+        "start": 1055.76,
+        "end": 1060.72,
+        "text": " Yes. Good luck.",
+        "textdich": ""
+    },
+    {
+        "start": 1058.24,
+        "end": 1062.88,
+        "text": " Thanks.",
+        "textdich": ""
+    },
+    {
+        "start": 1060.72,
+        "end": 1065.2,
+        "text": " Have a nice day.",
+        "textdich": ""
+    },
+    {
+        "start": 1062.88,
+        "end": 1068.96,
+        "text": " You too.",
+        "textdich": ""
+    },
+    {
+        "start": 1065.2,
+        "end": 1071.679,
+        "text": " I won't make the same mistake again.",
+        "textdich": ""
+    },
+    {
+        "start": 1068.96,
+        "end": 1074.32,
+        "text": " That's a good idea.",
+        "textdich": ""
+    },
+    {
+        "start": 1071.679,
+        "end": 1077.76,
+        "text": " Thanks for everything.",
+        "textdich": ""
+    },
+    {
+        "start": 1074.32,
+        "end": 1080.64,
+        "text": " You're welcome, ma'am.",
+        "textdich": ""
+    },
+    {
+        "start": 1077.76,
+        "end": 1084.799,
+        "text": " Goodbye.",
+        "textdich": ""
+    },
+    {
+        "start": 1080.64,
+        "end": 1087.84,
+        "text": "Goodbye. Have a nice day.",
+        "textdich": ""
+    },
+    {
+        "start": 1084.799,
+        "end": 1090.88,
+        "text": " I got dirty with the ice cream.",
+        "textdich": ""
+    },
+    {
+        "start": 1087.84,
+        "end": 1092.799,
+        "text": " I got ice cream on me.",
+        "textdich": ""
+    },
+    {
+        "start": 1090.88,
+        "end": 1095.44,
+        "text": " Oh no.",
+        "textdich": ""
+    },
+    {
+        "start": 1092.799,
+        "end": 1099.52,
+        "text": " Are you okay?",
+        "textdich": ""
+    },
+    {
+        "start": 1095.44,
+        "end": 1101.52,
+        "text": " Yeah, but I got ice cream on my shirt.",
+        "textdich": ""
+    },
+    {
+        "start": 1099.52,
+        "end": 1105.12,
+        "text": " Where?",
+        "textdich": ""
+    },
+    {
+        "start": 1101.52,
+        "end": 1108.0,
+        "text": " Here on my shirt.",
+        "textdich": ""
+    },
+    {
+        "start": 1105.12,
+        "end": 1113.12,
+        "text": " Oh, what flavor? chocolate.",
+        "textdich": ""
+    },
+    {
+        "start": 1109.679,
+        "end": 1117.12,
+        "text": "There's a brown stain.",
+        "textdich": ""
+    },
+    {
+        "start": 1113.12,
+        "end": 1120.799,
+        "text": " I have some napkins. Do you want one?",
+        "textdich": ""
+    },
+    {
+        "start": 1117.12,
+        "end": 1122.799,
+        "text": " Yes. Thanks a lot.",
+        "textdich": ""
+    },
+    {
+        "start": 1120.799,
+        "end": 1127.52,
+        "text": " Here you go.",
+        "textdich": ""
+    },
+    {
+        "start": 1122.799,
+        "end": 1129.84,
+        "text": " Thanks. The stain is still there.",
+        "textdich": ""
+    },
+    {
+        "start": 1127.52,
+        "end": 1132.48,
+        "text": " Want some water?",
+        "textdich": ""
+    },
+    {
+        "start": 1129.84,
+        "end": 1136.88,
+        "text": " No, it's okay. It's just a little ice cream.",
+        "textdich": ""
+    },
+    {
+        "start": 1134.64,
+        "end": 1141.2,
+        "text": " Does it hurt?",
+        "textdich": ""
+    },
+    {
+        "start": 1136.88,
+        "end": 1143.039,
+        "text": "No, I just got scared.",
+        "textdich": ""
+    },
+    {
+        "start": 1141.2,
+        "end": 1145.36,
+        "text": " That's good.",
+        "textdich": ""
+    },
+    {
+        "start": 1143.039,
+        "end": 1148.32,
+        "text": " How embarrassing.",
+        "textdich": ""
+    },
+    {
+        "start": 1145.36,
+        "end": 1152.08,
+        "text": "People are looking.",
+        "textdich": ""
+    },
+    {
+        "start": 1148.32,
+        "end": 1155.52,
+        "text": " Don't worry. It happens to everyone.",
+        "textdich": ""
+    },
+    {
+        "start": 1152.08,
+        "end": 1158.799,
+        "text": " Has it happened to you, too?",
+        "textdich": ""
+    },
+    {
+        "start": 1155.52,
+        "end": 1164.24,
+        "text": " Yes. Once at the beach  with ice cream?",
+        "textdich": ""
+    },
+    {
+        "start": 1161.36,
+        "end": 1167.36,
+        "text": " No, with juice.",
+        "textdich": ""
+    },
+    {
+        "start": 1164.24,
+        "end": 1167.36,
+        "text": " Bad luck.",
+        "textdich": ""
+    },
+    {
+        "start": 1167.44,
+        "end": 1174.24,
+        "text": "Yeah, but I laughed after.",
+        "textdich": ""
+    },
+    {
+        "start": 1170.96,
+        "end": 1177.84,
+        "text": " Me, too. I'm laughing now.",
+        "textdich": ""
+    },
+    {
+        "start": 1174.24,
+        "end": 1182.64,
+        "text": " Do you want another ice cream?",
+        "textdich": ""
+    },
+    {
+        "start": 1177.84,
+        "end": 1187.2,
+        "text": " I don't know. I'm still scared.",
+        "textdich": ""
+    },
+    {
+        "start": 1182.64,
+        "end": 1190.96,
+        "text": " I'll get you another in a cup this time.",
+        "textdich": ""
+    },
+    {
+        "start": 1187.2,
+        "end": 1194.08,
+        "text": " Good idea. Cups are better.",
+        "textdich": ""
+    },
+    {
+        "start": 1190.96,
+        "end": 1197.28,
+        "text": " Shall we go get ice cream?",
+        "textdich": ""
+    },
+    {
+        "start": 1194.08,
+        "end": 1199.679,
+        "text": "Yes, but you hold it.",
+        "textdich": ""
+    },
+    {
+        "start": 1197.28,
+        "end": 1202.32,
+        "text": " Okay, I'll be careful.",
+        "textdich": ""
+    },
+    {
+        "start": 1199.679,
+        "end": 1204.72,
+        "text": " Thanks for helping me.",
+        "textdich": ""
+    },
+    {
+        "start": 1202.32,
+        "end": 1207.84,
+        "text": " You're welcome.",
+        "textdich": ""
+    },
+    {
+        "start": 1204.72,
+        "end": 1212.16,
+        "text": " Let's go get ice cream.",
+        "textdich": ""
+    },
+    {
+        "start": 1207.84,
+        "end": 1214.0,
+        "text": " Yes, and slowly this time.",
+        "textdich": ""
+    },
+    {
+        "start": 1212.16,
+        "end": 1216.08,
+        "text": "I'm lost.",
+        "textdich": ""
+    },
+    {
+        "start": 1214.0,
+        "end": 1219.919,
+        "text": " Hi, sir.",
+        "textdich": ""
+    },
+    {
+        "start": 1216.08,
+        "end": 1222.88,
+        "text": " Hello. Are you okay?",
+        "textdich": ""
+    },
+    {
+        "start": 1219.919,
+        "end": 1225.12,
+        "text": " No, I'm lost.",
+        "textdich": ""
+    },
+    {
+        "start": 1222.88,
+        "end": 1228.559,
+        "text": "Are you alone?",
+        "textdich": ""
+    },
+    {
+        "start": 1225.12,
+        "end": 1232.48,
+        "text": " Yes, I can't see my mom.",
+        "textdich": ""
+    },
+    {
+        "start": 1228.559,
+        "end": 1236.48,
+        "text": " Okay, we'll find her.",
+        "textdich": ""
+    },
+    {
+        "start": 1232.48,
+        "end": 1238.88,
+        "text": " Thank you. I'm a little scared.",
+        "textdich": ""
+    },
+    {
+        "start": 1236.48,
+        "end": 1241.36,
+        "text": " What's your name?",
+        "textdich": ""
+    },
+    {
+        "start": 1238.88,
+        "end": 1245.039,
+        "text": " My name is Sophia.",
+        "textdich": ""
+    },
+    {
+        "start": 1241.36,
+        "end": 1248.08,
+        "text": " I'm Officer Lewis.",
+        "textdich": ""
+    },
+    {
+        "start": 1245.039,
+        "end": 1251.76,
+        "text": " Hi, Officer Lewis.",
+        "textdich": ""
+    },
+    {
+        "start": 1248.08,
+        "end": 1257.28,
+        "text": " Where did you last see your mom? by the fruit stand.",
+        "textdich": ""
+    },
+    {
+        "start": 1254.88,
+        "end": 1260.4,
+        "text": " How long ago?",
+        "textdich": ""
+    },
+    {
+        "start": 1257.28,
+        "end": 1263.039,
+        "text": " About 20 minutes.",
+        "textdich": ""
+    },
+    {
+        "start": 1260.4,
+        "end": 1265.44,
+        "text": " Do you have her number?",
+        "textdich": ""
+    },
+    {
+        "start": 1263.039,
+        "end": 1268.159,
+        "text": " Yes, in my bag.",
+        "textdich": ""
+    },
+    {
+        "start": 1265.44,
+        "end": 1270.32,
+        "text": " Can I see it?",
+        "textdich": ""
+    },
+    {
+        "start": 1268.159,
+        "end": 1273.12,
+        "text": " Here you go.",
+        "textdich": ""
+    },
+    {
+        "start": 1270.32,
+        "end": 1276.159,
+        "text": " Thanks. I'll call her.",
+        "textdich": ""
+    },
+    {
+        "start": 1273.12,
+        "end": 1280.08,
+        "text": " Is she answering?",
+        "textdich": ""
+    },
+    {
+        "start": 1276.159,
+        "end": 1282.559,
+        "text": " No, I'll try again.",
+        "textdich": ""
+    },
+    {
+        "start": 1280.08,
+        "end": 1286.0,
+        "text": "Thank you.",
+        "textdich": ""
+    },
+    {
+        "start": 1282.559,
+        "end": 1288.4,
+        "text": " Don't worry, I'm here.",
+        "textdich": ""
+    },
+    {
+        "start": 1286.0,
+        "end": 1291.12,
+        "text": " Can I sit down?",
+        "textdich": ""
+    },
+    {
+        "start": 1288.4,
+        "end": 1292.88,
+        "text": " Sure, right here.",
+        "textdich": ""
+    },
+    {
+        "start": 1291.12,
+        "end": 1296.24,
+        "text": " Thanks.",
+        "textdich": ""
+    },
+    {
+        "start": 1292.88,
+        "end": 1300.159,
+        "text": " Does your mom have long hair?",
+        "textdich": ""
+    },
+    {
+        "start": 1296.24,
+        "end": 1302.159,
+        "text": " Yes. And a red jacket?",
+        "textdich": ""
+    },
+    {
+        "start": 1300.159,
+        "end": 1305.44,
+        "text": " Great.",
+        "textdich": ""
+    },
+    {
+        "start": 1302.159,
+        "end": 1308.64,
+        "text": " Are you going to look for her?",
+        "textdich": ""
+    },
+    {
+        "start": 1305.44,
+        "end": 1311.52,
+        "text": " Yes, with a colleague.",
+        "textdich": ""
+    },
+    {
+        "start": 1308.64,
+        "end": 1314.24,
+        "text": "Should I stay here?",
+        "textdich": ""
+    },
+    {
+        "start": 1311.52,
+        "end": 1317.44,
+        "text": " Yes, it's better.",
+        "textdich": ""
+    },
+    {
+        "start": 1314.24,
+        "end": 1320.0,
+        "text": " Can I have some water?",
+        "textdich": ""
+    },
+    {
+        "start": 1317.44,
+        "end": 1322.159,
+        "text": " Yes, here you go.",
+        "textdich": ""
+    },
+    {
+        "start": 1320.0,
+        "end": 1324.48,
+        "text": " Thank you, sir.",
+        "textdich": ""
+    },
+    {
+        "start": 1322.159,
+        "end": 1329.679,
+        "text": " You're welcome, Sophia. Everything's fine.",
+        "textdich": ""
+    },
+    {
+        "start": 1326.4,
+        "end": 1332.799,
+        "text": " Can I check my phone?",
+        "textdich": ""
+    },
+    {
+        "start": 1329.679,
+        "end": 1335.44,
+        "text": " Yes, go ahead.",
+        "textdich": ""
+    },
+    {
+        "start": 1332.799,
+        "end": 1338.64,
+        "text": " Mom texted.",
+        "textdich": ""
+    },
+    {
+        "start": 1335.44,
+        "end": 1341.919,
+        "text": " Awesome. Is she coming?",
+        "textdich": ""
+    },
+    {
+        "start": 1338.64,
+        "end": 1344.0,
+        "text": "Yes, any minute now.",
+        "textdich": ""
+    },
+    {
+        "start": 1341.919,
+        "end": 1348.48,
+        "text": " She's here,  Mom.",
+        "textdich": ""
+    },
+    {
+        "start": 1345.76,
+        "end": 1351.28,
+        "text": "Thank you, officer.",
+        "textdich": ""
+    },
+    {
+        "start": 1348.48,
+        "end": 1353.76,
+        "text": " Everything's okay now.",
+        "textdich": ""
+    },
+    {
+        "start": 1351.28,
+        "end": 1357.28,
+        "text": " Thanks again.",
+        "textdich": ""
+    },
+    {
+        "start": 1353.76,
+        "end": 1360.0,
+        "text": " You're welcome. Have a good day.",
+        "textdich": ""
+    },
+    {
+        "start": 1357.28,
+        "end": 1370.08,
+        "text": " That's all for today. If you enjoyed this video, subscribe and let me know in the comments what situation you'd like to hear next.",
+        "textdich": ""
+    },
+    {
+        "start": 1367.6,
+        "end": 1370.08,
+        "text": "See you",
+        "textdich": ""
+    }
+]
