@@ -1,0 +1,1400 @@
+[
+    {
+        "start": 2.24,
+        "end": 10.32,
+        "text": "Sam, I need to talk to you.",
+        "textdich": ""
+    },
+    {
+        "start": 5.92,
+        "end": 14.0,
+        "text": " Of course, Emily. What's going on?",
+        "textdich": ""
+    },
+    {
+        "start": 10.32,
+        "end": 17.279,
+        "text": " Honestly, I feel really sad these days.",
+        "textdich": ""
+    },
+    {
+        "start": 14.0,
+        "end": 19.6,
+        "text": " Oh no. What happened?",
+        "textdich": ""
+    },
+    {
+        "start": 17.279,
+        "end": 24.32,
+        "text": " My friends always laugh at me when I speak English.",
+        "textdich": ""
+    },
+    {
+        "start": 21.119,
+        "end": 27.439,
+        "text": " They laugh? Why would they do that?",
+        "textdich": ""
+    },
+    {
+        "start": 24.32,
+        "end": 32.399,
+        "text": " Because my English is not good. I try to talk but I make many mistakes.",
+        "textdich": ""
+    },
+    {
+        "start": 30.24,
+        "end": 37.36,
+        "text": " Oh, I understand. That must feel terrible.",
+        "textdich": ""
+    },
+    {
+        "start": 34.64,
+        "end": 42.559,
+        "text": " It is. Every time I try to say something, they laugh.",
+        "textdich": ""
+    },
+    {
+        "start": 40.399,
+        "end": 45.84,
+        "text": " Every single time.",
+        "textdich": ""
+    },
+    {
+        "start": 42.559,
+        "end": 49.039,
+        "text": " Almost every time.",
+        "textdich": ""
+    },
+    {
+        "start": 45.84,
+        "end": 50.96,
+        "text": " That's not fair.",
+        "textdich": ""
+    },
+    {
+        "start": 49.039,
+        "end": 54.16,
+        "text": " I know.",
+        "textdich": ""
+    },
+    {
+        "start": 50.96,
+        "end": 56.399,
+        "text": "It makes me afraid to speak.",
+        "textdich": ""
+    },
+    {
+        "start": 54.16,
+        "end": 62.399,
+        "text": " Afraid of what? afraid of speaking English in front of people.",
+        "textdich": ""
+    },
+    {
+        "start": 59.68,
+        "end": 68.159,
+        "text": " Don't be afraid, Emily. Everyone starts somewhere.",
+        "textdich": ""
+    },
+    {
+        "start": 64.64,
+        "end": 71.04,
+        "text": " I try, but I always fail.",
+        "textdich": ""
+    },
+    {
+        "start": 68.159,
+        "end": 77.04,
+        "text": " Failing is part of learning. Don't worry too much.",
+        "textdich": ""
+    },
+    {
+        "start": 73.36,
+        "end": 80.4,
+        "text": " Then tell me, how can I improve?",
+        "textdich": ""
+    },
+    {
+        "start": 77.04,
+        "end": 82.08,
+        "text": " Start with the simple present tense.",
+        "textdich": ""
+    },
+    {
+        "start": 80.4,
+        "end": 84.0,
+        "text": " Why that one?",
+        "textdich": ""
+    },
+    {
+        "start": 82.08,
+        "end": 87.6,
+        "text": " Because it's the most important tense for beginners.",
+        "textdich": ""
+    },
+    {
+        "start": 86.08,
+        "end": 90.96,
+        "text": "Really?",
+        "textdich": ""
+    },
+    {
+        "start": 87.6,
+        "end": 97.6,
+        "text": " Yes. We use it every single day for habits, for facts, for things we do in daily life.",
+        "textdich": ""
+    },
+    {
+        "start": 94.799,
+        "end": 99.119,
+        "text": " Oh, I see. Daily life things.",
+        "textdich": ""
+    },
+    {
+        "start": 97.6,
+        "end": 102.68,
+        "text": " Exactly.",
+        "textdich": ""
+    },
+    {
+        "start": 99.119,
+        "end": 102.68,
+        "text": "Let me show you.",
+        "textdich": ""
+    },
+    {
+        "start": 104.24,
+        "end": 112.28,
+        "text": "I wake up in the morning.",
+        "textdich": ""
+    },
+    {
+        "start": 107.92,
+        "end": 112.28,
+        "text": " I wake up in the morning, too.",
+        "textdich": ""
+    },
+    {
+        "start": 112.88,
+        "end": 119.56,
+        "text": " I brush my teeth.",
+        "textdich": ""
+    },
+    {
+        "start": 115.119,
+        "end": 119.56,
+        "text": "I brush my teeth as well.",
+        "textdich": ""
+    },
+    {
+        "start": 120.399,
+        "end": 126.6,
+        "text": " I drink water.",
+        "textdich": ""
+    },
+    {
+        "start": 123.04,
+        "end": 126.6,
+        "text": " I drink tea.",
+        "textdich": ""
+    },
+    {
+        "start": 128.319,
+        "end": 135.76,
+        "text": " See, these are all simple present sentences.",
+        "textdich": ""
+    },
+    {
+        "start": 133.36,
+        "end": 144.319,
+        "text": " Oh, we use it to talk about our routines,  right? Simple, isn't it?",
+        "textdich": ""
+    },
+    {
+        "start": 140.8,
+        "end": 146.64,
+        "text": " Yes, it's easy to understand.",
+        "textdich": ""
+    },
+    {
+        "start": 144.319,
+        "end": 149.84,
+        "text": "And it's powerful.",
+        "textdich": ""
+    },
+    {
+        "start": 146.64,
+        "end": 153.84,
+        "text": "Do you speak English with your family?",
+        "textdich": ""
+    },
+    {
+        "start": 149.84,
+        "end": 155.92,
+        "text": " Sometimes, but not often.",
+        "textdich": ""
+    },
+    {
+        "start": 153.84,
+        "end": 159.599,
+        "text": " Why not?",
+        "textdich": ""
+    },
+    {
+        "start": 155.92,
+        "end": 162.0,
+        "text": " Because my family doesn't speak English.",
+        "textdich": ""
+    },
+    {
+        "start": 159.599,
+        "end": 168.336,
+        "text": " That's fine. Practice with your friends then.",
+        "textdich": ""
+    },
+    {
+        "start": 164.239,
+        "end": 168.72,
+        "text": " But my friends laugh at me.",
+        "textdich": ""
+    },
+    {
+        "start": 168.336,
+        "end": 173.631,
+        "text": "  Then practice with me.",
+        "textdich": ""
+    },
+    {
+        "start": 171.611,
+        "end": 178.56,
+        "text": " Really?",
+        "textdich": ""
+    },
+    {
+        "start": 176.48,
+        "end": 181.519,
+        "text": " Of course.",
+        "textdich": ""
+    },
+    {
+        "start": 178.56,
+        "end": 183.44,
+        "text": "I'll help you anytime.",
+        "textdich": ""
+    },
+    {
+        "start": 181.519,
+        "end": 186.0,
+        "text": " Thank you so much, Sam.",
+        "textdich": ""
+    },
+    {
+        "start": 183.44,
+        "end": 189.12,
+        "text": " Let's start right now. Simple sentences first.",
+        "textdich": ""
+    },
+    {
+        "start": 187.12,
+        "end": 190.48,
+        "text": " Okay, I'm ready.",
+        "textdich": ""
+    },
+    {
+        "start": 189.12,
+        "end": 194.12,
+        "text": " I go to school.",
+        "textdich": ""
+    },
+    {
+        "start": 190.48,
+        "end": 194.12,
+        "text": " I go to college.",
+        "textdich": ""
+    },
+    {
+        "start": 194.8,
+        "end": 198.44,
+        "text": " I read books.",
+        "textdich": ""
+    },
+    {
+        "start": 198.48,
+        "end": 206.4,
+        "text": " I read Buzz. I read novels.",
+        "textdich": ""
+    },
+    {
+        "start": 203.68,
+        "end": 208.64,
+        "text": " I like cricket.",
+        "textdich": ""
+    },
+    {
+        "start": 206.4,
+        "end": 211.04,
+        "text": " I like cricket.",
+        "textdich": ""
+    },
+    {
+        "start": 208.64,
+        "end": 214.879,
+        "text": "I like music.",
+        "textdich": ""
+    },
+    {
+        "start": 211.04,
+        "end": 219.28,
+        "text": " Great. These are clear and simple.",
+        "textdich": ""
+    },
+    {
+        "start": 214.879,
+        "end": 222.0,
+        "text": " Yes, very easy to say.",
+        "textdich": ""
+    },
+    {
+        "start": 219.28,
+        "end": 223.84,
+        "text": " Try a few more on your own.",
+        "textdich": ""
+    },
+    {
+        "start": 222.0,
+        "end": 226.159,
+        "text": " Okay.",
+        "textdich": ""
+    },
+    {
+        "start": 223.84,
+        "end": 230.04,
+        "text": "I drink milk.",
+        "textdich": ""
+    },
+    {
+        "start": 226.159,
+        "end": 230.04,
+        "text": " Good. Good.",
+        "textdich": ""
+    },
+    {
+        "start": 230.64,
+        "end": 235.36,
+        "text": "I eat rice.",
+        "textdich": ""
+    },
+    {
+        "start": 233.76,
+        "end": 238.4,
+        "text": " Excellent.",
+        "textdich": ""
+    },
+    {
+        "start": 235.36,
+        "end": 239.599,
+        "text": " I walk to the market.",
+        "textdich": ""
+    },
+    {
+        "start": 238.4,
+        "end": 242.08,
+        "text": " Nice.",
+        "textdich": ""
+    },
+    {
+        "start": 239.599,
+        "end": 246.319,
+        "text": " I play with my sister.",
+        "textdich": ""
+    },
+    {
+        "start": 242.08,
+        "end": 250.4,
+        "text": " Wonderful. You're improving fast.",
+        "textdich": ""
+    },
+    {
+        "start": 246.319,
+        "end": 253.92,
+        "text": " Do you think I can really get better?",
+        "textdich": ""
+    },
+    {
+        "start": 250.4,
+        "end": 257.919,
+        "text": " Are you proud of me?",
+        "textdich": ""
+    },
+    {
+        "start": 253.92,
+        "end": 262.04,
+        "text": " Of course you already are.",
+        "textdich": ""
+    },
+    {
+        "start": 257.919,
+        "end": 262.04,
+        "text": "Keep practicing every day.",
+        "textdich": ""
+    },
+    {
+        "start": 262.24,
+        "end": 265.56,
+        "text": " I will.",
+        "textdich": ""
+    },
+    {
+        "start": 265.6,
+        "end": 272.72,
+        "text": " Yes, I am very proud of you.",
+        "textdich": ""
+    },
+    {
+        "start": 270.479,
+        "end": 275.919,
+        "text": " Thank you.",
+        "textdich": ""
+    },
+    {
+        "start": 272.72,
+        "end": 277.6,
+        "text": " What do you usually do in the morning?",
+        "textdich": ""
+    },
+    {
+        "start": 275.919,
+        "end": 282.24,
+        "text": " I I wake up early.",
+        "textdich": ""
+    },
+    {
+        "start": 280.8,
+        "end": 288.08,
+        "text": " What next?",
+        "textdich": ""
+    },
+    {
+        "start": 282.24,
+        "end": 289.6,
+        "text": " I wash my face and brush my teeth.",
+        "textdich": ""
+    },
+    {
+        "start": 288.08,
+        "end": 292.56,
+        "text": "What do you eat?",
+        "textdich": ""
+    },
+    {
+        "start": 289.6,
+        "end": 294.96,
+        "text": " I eat bread.",
+        "textdich": ""
+    },
+    {
+        "start": 292.56,
+        "end": 298.52,
+        "text": " What do you drink?",
+        "textdich": ""
+    },
+    {
+        "start": 294.96,
+        "end": 298.52,
+        "text": " I drink tea.",
+        "textdich": ""
+    },
+    {
+        "start": 301.759,
+        "end": 308.84,
+        "text": " What do you eat sometimes?",
+        "textdich": ""
+    },
+    {
+        "start": 304.479,
+        "end": 308.84,
+        "text": " Sometimes eggs.",
+        "textdich": ""
+    },
+    {
+        "start": 309.28,
+        "end": 316.16,
+        "text": " I I don't eat eggs.",
+        "textdich": ""
+    },
+    {
+        "start": 313.039,
+        "end": 320.28,
+        "text": " Then what do you eat?",
+        "textdich": ""
+    },
+    {
+        "start": 316.16,
+        "end": 320.28,
+        "text": "Rice and vegetables.",
+        "textdich": ""
+    },
+    {
+        "start": 320.72,
+        "end": 328.8,
+        "text": " That's nice. What do you do after breakfast?",
+        "textdich": ""
+    },
+    {
+        "start": 325.36,
+        "end": 332.44,
+        "text": " I go to the office.",
+        "textdich": ""
+    },
+    {
+        "start": 328.8,
+        "end": 332.44,
+        "text": " I go to college.",
+        "textdich": ""
+    },
+    {
+        "start": 334.0,
+        "end": 339.639,
+        "text": " Do you study hard?",
+        "textdich": ""
+    },
+    {
+        "start": 336.08,
+        "end": 339.639,
+        "text": " Yes, I do.",
+        "textdich": ""
+    },
+    {
+        "start": 339.919,
+        "end": 347.199,
+        "text": " I work hard at my job.",
+        "textdich": ""
+    },
+    {
+        "start": 343.44,
+        "end": 347.199,
+        "text": " I feel happy when I study.",
+        "textdich": ""
+    },
+    {
+        "start": 347.84,
+        "end": 356.199,
+        "text": "And I feel happy when I work.",
+        "textdich": ""
+    },
+    {
+        "start": 351.44,
+        "end": 356.199,
+        "text": " My teacher speaks English in class.",
+        "textdich": ""
+    },
+    {
+        "start": 356.96,
+        "end": 365.08,
+        "text": " Do you understand her?",
+        "textdich": ""
+    },
+    {
+        "start": 359.68,
+        "end": 365.08,
+        "text": " Sometimes yes, sometimes no.",
+        "textdich": ""
+    },
+    {
+        "start": 365.759,
+        "end": 370.52,
+        "text": " Do you ask questions when you don't understand?",
+        "textdich": ""
+    },
+    {
+        "start": 371.84,
+        "end": 377.919,
+        "text": " No, I feel too shy.",
+        "textdich": ""
+    },
+    {
+        "start": 375.919,
+        "end": 380.0,
+        "text": "Don't be shy.",
+        "textdich": ""
+    },
+    {
+        "start": 377.919,
+        "end": 384.44,
+        "text": " But my friends laugh when I ask.",
+        "textdich": ""
+    },
+    {
+        "start": 385.759,
+        "end": 392.36,
+        "text": " Forget them.",
+        "textdich": ""
+    },
+    {
+        "start": 387.199,
+        "end": 392.36,
+        "text": " That's easy to say not to do.",
+        "textdich": ""
+    },
+    {
+        "start": 393.52,
+        "end": 400.44,
+        "text": " I know, but you have to try.",
+        "textdich": ""
+    },
+    {
+        "start": 396.4,
+        "end": 400.44,
+        "text": " Okay, I will try.",
+        "textdich": ""
+    },
+    {
+        "start": 400.56,
+        "end": 405.6,
+        "text": " You spoke well today, Emily.",
+        "textdich": ""
+    },
+    {
+        "start": 402.96,
+        "end": 408.479,
+        "text": " Really?",
+        "textdich": ""
+    },
+    {
+        "start": 405.6,
+        "end": 410.96,
+        "text": "Yes. Really?",
+        "textdich": ""
+    },
+    {
+        "start": 408.479,
+        "end": 414.84,
+        "text": " I feel a bit better now.",
+        "textdich": ""
+    },
+    {
+        "start": 410.96,
+        "end": 414.84,
+        "text": " Good. Keep it up.",
+        "textdich": ""
+    },
+    {
+        "start": 415.84,
+        "end": 422.88,
+        "text": " Thanks, Sam. I feel more confident already.",
+        "textdich": ""
+    },
+    {
+        "start": 420.24,
+        "end": 427.88,
+        "text": " I'm glad to hear that.",
+        "textdich": ""
+    },
+    {
+        "start": 422.88,
+        "end": 427.88,
+        "text": " But I still make mistakes.",
+        "textdich": ""
+    },
+    {
+        "start": 429.36,
+        "end": 434.8,
+        "text": " Everyone does.",
+        "textdich": ""
+    },
+    {
+        "start": 431.28,
+        "end": 434.8,
+        "text": " My friends don't.",
+        "textdich": ""
+    },
+    {
+        "start": 435.36,
+        "end": 442.8,
+        "text": "They do, but they hide it.",
+        "textdich": ""
+    },
+    {
+        "start": 439.759,
+        "end": 444.319,
+        "text": " Then why do they laugh at me?",
+        "textdich": ""
+    },
+    {
+        "start": 442.8,
+        "end": 447.72,
+        "text": " Because they don't understand what learning means.",
+        "textdich": ""
+    },
+    {
+        "start": 448.72,
+        "end": 455.44,
+        "text": " I feel bad when they laugh.",
+        "textdich": ""
+    },
+    {
+        "start": 452.479,
+        "end": 458.44,
+        "text": " Don't care about them. Care about your progress.",
+        "textdich": ""
+    },
+    {
+        "start": 458.639,
+        "end": 465.44,
+        "text": " You're right.",
+        "textdich": ""
+    },
+    {
+        "start": 461.919,
+        "end": 469.36,
+        "text": "How do you practice English?",
+        "textdich": ""
+    },
+    {
+        "start": 465.44,
+        "end": 471.44,
+        "text": " I read every day.",
+        "textdich": ""
+    },
+    {
+        "start": 469.36,
+        "end": 472.479,
+        "text": " What do you read?",
+        "textdich": ""
+    },
+    {
+        "start": 471.44,
+        "end": 475.199,
+        "text": " Short stories.",
+        "textdich": ""
+    },
+    {
+        "start": 472.479,
+        "end": 479.44,
+        "text": " Short stories.",
+        "textdich": ""
+    },
+    {
+        "start": 475.199,
+        "end": 484.4,
+        "text": "That's nice. Do you enjoy reading?",
+        "textdich": ""
+    },
+    {
+        "start": 479.44,
+        "end": 486.639,
+        "text": " Yes. And I I like poems, too.",
+        "textdich": ""
+    },
+    {
+        "start": 484.4,
+        "end": 488.56,
+        "text": " Excellent.",
+        "textdich": ""
+    },
+    {
+        "start": 486.639,
+        "end": 492.44,
+        "text": " Do you read aloud?",
+        "textdich": ""
+    },
+    {
+        "start": 488.56,
+        "end": 492.44,
+        "text": " No. silently.",
+        "textdich": ""
+    },
+    {
+        "start": 493.12,
+        "end": 500.879,
+        "text": " Try reading aloud. It improves your speech.",
+        "textdich": ""
+    },
+    {
+        "start": 497.199,
+        "end": 503.919,
+        "text": " Oh, I didn't know that.",
+        "textdich": ""
+    },
+    {
+        "start": 500.879,
+        "end": 506.96,
+        "text": " When you read aloud, your mouth and mind work together.",
+        "textdich": ""
+    },
+    {
+        "start": 505.44,
+        "end": 513.599,
+        "text": " Well, I'll start reading aloud.",
+        "textdich": ""
+    },
+    {
+        "start": 510.4,
+        "end": 516.919,
+        "text": " Do you watch English movies?",
+        "textdich": ""
+    },
+    {
+        "start": 513.599,
+        "end": 516.919,
+        "text": " Not really.",
+        "textdich": ""
+    },
+    {
+        "start": 517.76,
+        "end": 527.44,
+        "text": "Ah, perfect. Also practice speaking every day.",
+        "textdich": ""
+    },
+    {
+        "start": 525.04,
+        "end": 530.72,
+        "text": " I will.",
+        "textdich": ""
+    },
+    {
+        "start": 527.44,
+        "end": 533.959,
+        "text": " Do you watch English movies?",
+        "textdich": ""
+    },
+    {
+        "start": 530.72,
+        "end": 533.959,
+        "text": " Not really.",
+        "textdich": ""
+    },
+    {
+        "start": 535.04,
+        "end": 540.08,
+        "text": " Why not?",
+        "textdich": ""
+    },
+    {
+        "start": 537.76,
+        "end": 543.399,
+        "text": " I can't understand everything.",
+        "textdich": ""
+    },
+    {
+        "start": 540.08,
+        "end": 543.399,
+        "text": " Use subtitles.",
+        "textdich": ""
+    },
+    {
+        "start": 543.68,
+        "end": 550.399,
+        "text": " I don't like subtitles.",
+        "textdich": ""
+    },
+    {
+        "start": 547.279,
+        "end": 554.44,
+        "text": "But they help you learn new words.",
+        "textdich": ""
+    },
+    {
+        "start": 550.399,
+        "end": 554.44,
+        "text": " Okay, I'll try.",
+        "textdich": ""
+    },
+    {
+        "start": 554.88,
+        "end": 561.56,
+        "text": " Watch one English movie every week.",
+        "textdich": ""
+    },
+    {
+        "start": 558.08,
+        "end": 561.56,
+        "text": " I'll do that.",
+        "textdich": ""
+    },
+    {
+        "start": 562.64,
+        "end": 568.56,
+        "text": " Tell me more sentences.",
+        "textdich": ""
+    },
+    {
+        "start": 564.48,
+        "end": 573.04,
+        "text": " Sure. I clean my room. I write in my notebook.",
+        "textdich": ""
+    },
+    {
+        "start": 571.12,
+        "end": 577.6,
+        "text": " Good. Keep going.",
+        "textdich": ""
+    },
+    {
+        "start": 573.04,
+        "end": 577.6,
+        "text": " I I help my mother in the kitchen.",
+        "textdich": ""
+    },
+    {
+        "start": 577.76,
+        "end": 582.48,
+        "text": "Excellent.",
+        "textdich": ""
+    },
+    {
+        "start": 579.76,
+        "end": 583.44,
+        "text": " I play with my brother.",
+        "textdich": ""
+    },
+    {
+        "start": 582.48,
+        "end": 586.48,
+        "text": " Great.",
+        "textdich": ""
+    },
+    {
+        "start": 583.44,
+        "end": 589.48,
+        "text": " I sing a song.",
+        "textdich": ""
+    },
+    {
+        "start": 586.48,
+        "end": 589.48,
+        "text": " Wonderful.",
+        "textdich": ""
+    },
+    {
+        "start": 589.6,
+        "end": 593.44,
+        "text": " I draw pictures.",
+        "textdich": ""
+    },
+    {
+        "start": 591.279,
+        "end": 595.36,
+        "text": " Nice job.",
+        "textdich": ""
+    },
+    {
+        "start": 593.44,
+        "end": 599.12,
+        "text": " I play cricket.",
+        "textdich": ""
+    },
+    {
+        "start": 595.36,
+        "end": 602.56,
+        "text": " I play badminton.",
+        "textdich": ""
+    },
+    {
+        "start": 599.12,
+        "end": 605.839,
+        "text": " Do you play every day?",
+        "textdich": ""
+    },
+    {
+        "start": 602.56,
+        "end": 608.48,
+        "text": " No, only Sundays.",
+        "textdich": ""
+    },
+    {
+        "start": 605.839,
+        "end": 610.72,
+        "text": "Why only Sunday?",
+        "textdich": ""
+    },
+    {
+        "start": 608.48,
+        "end": 615.16,
+        "text": " I work on other days.",
+        "textdich": ""
+    },
+    {
+        "start": 610.72,
+        "end": 615.16,
+        "text": " Oh, I understand.",
+        "textdich": ""
+    },
+    {
+        "start": 616.32,
+        "end": 622.56,
+        "text": " Do your friends speak English?",
+        "textdich": ""
+    },
+    {
+        "start": 619.2,
+        "end": 624.079,
+        "text": " No, they don't.",
+        "textdich": ""
+    },
+    {
+        "start": 622.56,
+        "end": 629.959,
+        "text": " Then practice with me.",
+        "textdich": ""
+    },
+    {
+        "start": 626.24,
+        "end": 629.959,
+        "text": " Okay, I will.",
+        "textdich": ""
+    },
+    {
+        "start": 631.2,
+        "end": 641.252,
+        "text": " Do you eat ice cream? He chocolate flavor.",
+        "textdich": ""
+    },
+    {
+        "start": 638.88,
+        "end": 642.16,
+        "text": " I like vanilla.",
+        "textdich": ""
+    },
+    {
+        "start": 641.252,
+        "end": 646.959,
+        "text": "  Do you drink coffee?",
+        "textdich": ""
+    },
+    {
+        "start": 644.64,
+        "end": 651.56,
+        "text": " No, I drink tea.",
+        "textdich": ""
+    },
+    {
+        "start": 646.959,
+        "end": 651.56,
+        "text": " I drink tea every day, too.",
+        "textdich": ""
+    },
+    {
+        "start": 652.24,
+        "end": 655.6,
+        "text": " Me, too.",
+        "textdich": ""
+    },
+    {
+        "start": 653.279,
+        "end": 659.592,
+        "text": " Me, too.",
+        "textdich": ""
+    },
+    {
+        "start": 655.6,
+        "end": 660.8,
+        "text": "I I feel happy when I talk to you.",
+        "textdich": ""
+    },
+    {
+        "start": 659.592,
+        "end": 668.12,
+        "text": "  I'm happy listening to you.",
+        "textdich": ""
+    },
+    {
+        "start": 664.079,
+        "end": 668.12,
+        "text": "You never laugh at me.",
+        "textdich": ""
+    },
+    {
+        "start": 668.56,
+        "end": 675.64,
+        "text": " I never will.",
+        "textdich": ""
+    },
+    {
+        "start": 671.36,
+        "end": 675.64,
+        "text": " You always encourage me.",
+        "textdich": ""
+    },
+    {
+        "start": 675.68,
+        "end": 680.56,
+        "text": " Always.",
+        "textdich": ""
+    },
+    {
+        "start": 678.0,
+        "end": 683.2,
+        "text": "You're doing great.",
+        "textdich": ""
+    },
+    {
+        "start": 680.56,
+        "end": 686.399,
+        "text": " Thank you, Sam.",
+        "textdich": ""
+    },
+    {
+        "start": 683.2,
+        "end": 691.44,
+        "text": " Now, why is simple present tense so important?",
+        "textdich": ""
+    },
+    {
+        "start": 687.839,
+        "end": 694.959,
+        "text": " Because we use it every day.",
+        "textdich": ""
+    },
+    {
+        "start": 691.44,
+        "end": 700.24,
+        "text": " Exactly. It's for daily life habits and facts.",
+        "textdich": ""
+    },
+    {
+        "start": 696.24,
+        "end": 706.399,
+        "text": " Like the sun rises in the east.",
+        "textdich": ""
+    },
+    {
+        "start": 700.24,
+        "end": 709.12,
+        "text": " Perfect. Or water boils at 100\u00b0.",
+        "textdich": ""
+    },
+    {
+        "start": 706.399,
+        "end": 712.16,
+        "text": " Oh, I understand now.",
+        "textdich": ""
+    },
+    {
+        "start": 709.12,
+        "end": 715.68,
+        "text": " Sometimes we even use it for schedules.",
+        "textdich": ""
+    },
+    {
+        "start": 712.16,
+        "end": 722.079,
+        "text": "The train leaves at 9.   Wow. It's everywhere.",
+        "textdich": ""
+    },
+    {
+        "start": 718.32,
+        "end": 731.6,
+        "text": " Yes. The foundation of English. Like the base of a house. H  exactly.",
+        "textdich": ""
+    },
+    {
+        "start": 727.76,
+        "end": 735.16,
+        "text": "Without it, English falls apart.",
+        "textdich": ""
+    },
+    {
+        "start": 731.6,
+        "end": 735.16,
+        "text": " That makes sense.",
+        "textdich": ""
+    },
+    {
+        "start": 735.2,
+        "end": 742.48,
+        "text": " So practice daily. Make 10 sentences a day.",
+        "textdich": ""
+    },
+    {
+        "start": 740.32,
+        "end": 745.92,
+        "text": " I will say them aloud and write them down.",
+        "textdich": ""
+    },
+    {
+        "start": 743.76,
+        "end": 750.079,
+        "text": " That's the way.",
+        "textdich": ""
+    },
+    {
+        "start": 745.92,
+        "end": 750.72,
+        "text": " Slowly, I'll get better.",
+        "textdich": ""
+    },
+    {
+        "start": 750.079,
+        "end": 754.0,
+        "text": "H. Yes.",
+        "textdich": ""
+    },
+    {
+        "start": 750.72,
+        "end": 757.44,
+        "text": " Yes. Step by step.",
+        "textdich": ""
+    },
+    {
+        "start": 754.0,
+        "end": 758.72,
+        "text": " Can I tell you some now?",
+        "textdich": ""
+    },
+    {
+        "start": 757.44,
+        "end": 762.72,
+        "text": " Go ahead.",
+        "textdich": ""
+    },
+    {
+        "start": 758.72,
+        "end": 766.48,
+        "text": " I wake up at 7. I eat breakfast at 8:00.",
+        "textdich": ""
+    },
+    {
+        "start": 762.72,
+        "end": 768.639,
+        "text": "I go to class at 9:00.",
+        "textdich": ""
+    },
+    {
+        "start": 766.48,
+        "end": 772.639,
+        "text": " Good.",
+        "textdich": ""
+    },
+    {
+        "start": 768.639,
+        "end": 779.92,
+        "text": " I study with my friends. I drink tea at 4:00. I read at night.",
+        "textdich": ""
+    },
+    {
+        "start": 776.56,
+        "end": 784.6,
+        "text": " Wonderful. You are growing fast.",
+        "textdich": ""
+    },
+    {
+        "start": 779.92,
+        "end": 784.6,
+        "text": " Thank you. I will keep practicing.",
+        "textdich": ""
+    },
+    {
+        "start": 786.72,
+        "end": 792.079,
+        "text": " Never stop.",
+        "textdich": ""
+    },
+    {
+        "start": 789.68,
+        "end": 795.68,
+        "text": " I won't.",
+        "textdich": ""
+    },
+    {
+        "start": 792.079,
+        "end": 800.24,
+        "text": " Remember simple present is for habits, facts, and daily talk.",
+        "textdich": ""
+    },
+    {
+        "start": 798.24,
+        "end": 801.92,
+        "text": " It's everywhere.",
+        "textdich": ""
+    },
+    {
+        "start": 800.24,
+        "end": 806.959,
+        "text": " So master it.",
+        "textdich": ""
+    },
+    {
+        "start": 801.92,
+        "end": 810.32,
+        "text": " I will. I'm not afraid anymore.",
+        "textdich": ""
+    },
+    {
+        "start": 806.959,
+        "end": 813.76,
+        "text": "That's the spirit.",
+        "textdich": ""
+    },
+    {
+        "start": 810.32,
+        "end": 816.079,
+        "text": " I feel strong.",
+        "textdich": ""
+    },
+    {
+        "start": 813.76,
+        "end": 819.04,
+        "text": "I can speak English.",
+        "textdich": ""
+    },
+    {
+        "start": 816.079,
+        "end": 823.04,
+        "text": " Yes, you can.",
+        "textdich": ""
+    },
+    {
+        "start": 819.04,
+        "end": 829.36,
+        "text": " I practice every day. I improve step by step.",
+        "textdich": ""
+    },
+    {
+        "start": 825.279,
+        "end": 834.399,
+        "text": " Exactly. That's how learning works.",
+        "textdich": ""
+    },
+    {
+        "start": 829.36,
+        "end": 838.56,
+        "text": " Thank you, Sam. You're a true friend. and you're a wonderful learner.",
+        "textdich": ""
+    },
+    {
+        "start": 837.099,
+        "end": 849.839,
+        "text": "  I speak English now with joy  and I listen with joy.",
+        "textdich": ""
+    },
+    {
+        "start": 846.8,
+        "end": 852.0,
+        "text": " Simple present tense helps me.",
+        "textdich": ""
+    },
+    {
+        "start": 849.839,
+        "end": 854.399,
+        "text": " I believe in myself.",
+        "textdich": ""
+    },
+    {
+        "start": 852.0,
+        "end": 858.059,
+        "text": " I'm glad we had this conversation.",
+        "textdich": ""
+    },
+    {
+        "start": 854.399,
+        "end": 860.079,
+        "text": " Me, too. It was very helpful.",
+        "textdich": ""
+    },
+    {
+        "start": 858.059,
+        "end": 860.079,
+        "text": " ",
+        "textdich": ""
+    }
+]
