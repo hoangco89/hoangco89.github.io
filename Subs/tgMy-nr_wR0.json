@@ -1,356 +1,1028 @@
 [
-    {
-        "start": 1.12,
-        "end": 11.599,
-        "text": "Welcome to English Story Today. Don't forget like and subscribe.",
-        "textdich": ""
-    },
-    {
-        "start": 6.879,
-        "end": 20.72,
-        "text": "My name is Emily. I am 23 years old. I live in a small city called Willow Creek with my father and my younger sister. I",
-        "textdich": ""
-    },
-    {
-        "start": 18.08,
-        "end": 25.519,
-        "text": "work at a small coffee shop in the city center.",
-        "textdich": ""
-    },
-    {
-        "start": 22.8,
-        "end": 39.04,
-        "text": "I like my job because I love meeting people and making coffee. But one morning, something very strange happened to me. It was a cold, rainy morning in",
-        "textdich": ""
-    },
-    {
-        "start": 35.84,
-        "end": 49.68,
-        "text": "October. I woke up early because I had an early shift at the cafe. When I checked my phone, I saw a message from",
-        "textdich": ""
-    },
-    {
-        "start": 45.84,
-        "end": 63.92,
-        "text": "my best friend Sophie. The message said, \"Emily, please come to the train station today. I really need you. 11 a.m. platform 5. I did not understand.",
-        "textdich": ""
-    },
-    {
-        "start": 61.52,
-        "end": 74.56,
-        "text": "Why did Sophie want me to go to the train station? She didn't say anything else. I called her, but her phone was",
-        "textdich": ""
-    },
-    {
-        "start": 70.64,
-        "end": 86.159,
-        "text": "switched off. I looked at the clock. It was already 9 a.m. I only had 2 hours to get ready and reach the train station. I",
-        "textdich": ""
-    },
-    {
-        "start": 82.799,
-        "end": 97.84,
-        "text": "put on my favorite jeans, a warm blue sweater, and my black boots. I grabbed my raincoat and my small black umbrella.",
-        "textdich": ""
-    },
-    {
-        "start": 94.159,
-        "end": 108.96,
-        "text": "My dad was making breakfast. I told him, \"Dad, I have to go to the train station.\" Sophie needs my help. My dad looked at",
-        "textdich": ""
-    },
-    {
-        "start": 106.0,
-        "end": 123.119,
-        "text": "me with worry. He said, \"Be careful, Emily. Call me if you need anything. I left the house and walked to the bus stop. The rain was falling heavily. I",
-        "textdich": ""
-    },
-    {
-        "start": 119.84,
-        "end": 137.2,
-        "text": "got on the bus. It was crowded with people going to work. I found a small space near the door. The windows were foggy and I watched the city pass by.",
-        "textdich": ""
-    },
-    {
-        "start": 134.0,
-        "end": 151.599,
-        "text": "After 30 minutes, I reached the train station. The station was big and full of noise. People were rushing everywhere with bags and suitcases.",
-        "textdich": ""
-    },
-    {
-        "start": 147.599,
-        "end": 165.44,
-        "text": "I looked for platform 5. It took me 10 minutes to find it. Because the signs were not clear, but when I reached there, Sophie was not there. I waited",
-        "textdich": ""
-    },
-    {
-        "start": 161.68,
-        "end": 181.519,
-        "text": "for 10 minutes, then 15 minutes, then 20 minutes. Still no Sophie. I felt worried and confused. I looked around and saw a young boy",
-        "textdich": ""
-    },
-    {
-        "start": 178.48,
-        "end": 193.2,
-        "text": "sitting alone on a bench. He was holding a small bag and looking very sad. I walked slowly to him and asked, \"Hey,",
-        "textdich": ""
-    },
-    {
-        "start": 189.44,
-        "end": 207.92,
-        "text": "are you okay?\" He looked up. His eyes were red like he had been crying. He said, \"I lost my ticket. I don't know how to go home now.\" I sat down beside",
-        "textdich": ""
-    },
-    {
-        "start": 203.28,
-        "end": 217.84,
-        "text": "him. I said, \"My name is Emily. Maybe I can help you. What's your name?\" He said his name was Oliver. He told me he was",
-        "textdich": ""
-    },
-    {
-        "start": 215.44,
-        "end": 231.12,
-        "text": "visiting his grandmother, but he dropped his train ticket somewhere. He was scared to call his mom. I gave him a small chocolate from my bag and told",
-        "textdich": ""
-    },
-    {
-        "start": 226.799,
-        "end": 238.48,
-        "text": "him, \"Don't worry, we will find a way.\" Just then, my phone rang. It was Sophie.",
-        "textdich": ""
-    },
-    {
-        "start": 235.519,
-        "end": 246.239,
-        "text": "I quickly answered, \"Sophie, where are you?\" Sophie sounded scared.",
-        "textdich": ""
-    },
-    {
-        "start": 242.879,
-        "end": 261.6,
-        "text": "She said, \"Emily, where are you?\" I said, \"I'm at platform 5 waiting for you.\" Sophie said, \"Oh no, I'm at platform 3. Please come quickly. I'm",
-        "textdich": ""
-    },
-    {
-        "start": 258.72,
-        "end": 272.4,
-        "text": "really scared.\" I looked at Oliver and said, \"Wait here for a moment. I'll be right back.\" I ran through the station",
-        "textdich": ""
-    },
-    {
-        "start": 268.16,
-        "end": 283.12,
-        "text": "to platform 3. My shoes were wet and my hair was damp from the rain. When I reached platform 3, I saw Sophie sitting",
-        "textdich": ""
-    },
-    {
-        "start": 279.84,
-        "end": 286.16,
-        "text": "on the floor near a ticket machine.",
-        "textdich": ""
-    },
-    {
-        "start": 283.12,
-        "end": 290.96,
-        "text": "She looked so scared.",
-        "textdich": ""
-    },
-    {
-        "start": 286.16,
-        "end": 302.88,
-        "text": "Sophie, I called. She looked up and ran to me. She hugged me tightly. Emily, I didn't know who to call. I was so",
-        "textdich": ""
-    },
-    {
-        "start": 299.12,
-        "end": 306.72,
-        "text": "scared, she said. What happened, Sophie?",
-        "textdich": ""
-    },
-    {
-        "start": 302.88,
-        "end": 314.24,
-        "text": "I asked. She whispered. I think someone is following me. My eyes opened wide.",
-        "textdich": ""
-    },
-    {
-        "start": 310.96,
-        "end": 317.919,
-        "text": "Who? Why would someone follow you?",
-        "textdich": ""
-    },
-    {
-        "start": 314.24,
-        "end": 330.08,
-        "text": "Sophie said. I don't know. I saw a man on my bus. He kept looking at me. When I got down, he got down, too. Now he's",
-        "textdich": ""
-    },
-    {
-        "start": 326.56,
-        "end": 342.08,
-        "text": "here somewhere. I looked around. People were walking everywhere. Then Sophie pointed slowly at someone near the small cafe.",
-        "textdich": ""
-    },
-    {
-        "start": 338.32,
-        "end": 350.72,
-        "text": "That's him, she whispered. I looked and saw a man in a dark green jacket and a black beanie hat. He was standing near",
-        "textdich": ""
-    },
-    {
-        "start": 348.08,
-        "end": 359.6,
-        "text": "the cafe pretending to look at his phone. I felt my heartbeat faster.",
-        "textdich": ""
-    },
-    {
-        "start": 355.44,
-        "end": 361.84,
-        "text": "Stay here, I said. I'll go talk to him.",
-        "textdich": ""
-    },
-    {
-        "start": 359.6,
-        "end": 371.759,
-        "text": "But when I stepped forward, the man looked at us and quickly walked away. We stood there watching him disappear into",
-        "textdich": ""
-    },
-    {
-        "start": 368.479,
-        "end": 384.88,
-        "text": "the crowd. Sophie said, \"Do you believe me now?\" I nodded. \"Yes, let's tell the station security.\" We went to the help desk and told a kind",
-        "textdich": ""
-    },
-    {
-        "start": 381.6,
-        "end": 395.28,
-        "text": "lady everything. She called the security guard. The guard listened carefully and said, \"Don't worry, we will check the",
-        "textdich": ""
-    },
-    {
-        "start": 391.52,
-        "end": 398.56,
-        "text": "cameras.\" Sophie looked a little calmer.",
-        "textdich": ""
-    },
-    {
-        "start": 395.28,
-        "end": 412.24,
-        "text": "She squeezed my hand and said, \"Thank you, Emily. I don't know what I would do without you.\" I said, \"Next time, send me the right platform.\"",
-        "textdich": ""
-    },
-    {
-        "start": 408.56,
-        "end": 422.8,
-        "text": "We laughed a little, but deep inside I was still worried. Then I remembered Oliver, the little boy. I told Sophie,",
-        "textdich": ""
-    },
-    {
-        "start": 419.759,
-        "end": 432.56,
-        "text": "\"Wait here. I need to help someone else, too.\" We went back to platform 5 and found Oliver still sitting there holding",
-        "textdich": ""
-    },
-    {
-        "start": 428.88,
-        "end": 444.0,
-        "text": "his small bag. Sophie sat with him while I went to the ticket counter. I explained Oliver<unk>'s problem. The lady at the counter was kind. She said",
-        "textdich": ""
-    },
-    {
-        "start": 441.039,
-        "end": 446.8,
-        "text": "she would call Oliver<unk>'s mother.",
-        "textdich": ""
-    },
-    {
-        "start": 444.0,
-        "end": 452.16,
-        "text": "When Oliver's mom arrived, she hugged him tightly.",
-        "textdich": ""
-    },
-    {
-        "start": 448.639,
-        "end": 463.44,
-        "text": "She thanked me and Sophie again and again. I felt warm inside. It felt good to help. When we left the station, it",
-        "textdich": ""
-    },
-    {
-        "start": 460.24,
-        "end": 475.12,
-        "text": "was still raining. Sophie and I shared my umbrella. We walked to a small cafe to rest and drink tea. We talked about what happened. Sophie told me she",
-        "textdich": ""
-    },
-    {
-        "start": 473.12,
-        "end": 487.039,
-        "text": "thought her old boyfriend might be behind this. He was angry when she left him. I told her, \"Don't worry. You are",
-        "textdich": ""
-    },
-    {
-        "start": 483.12,
-        "end": 500.479,
-        "text": "safe now. If he tries anything again, we will tell the police.\" Sophie smiled weakly. \"You're my best friend, Emily. I said always.",
-        "textdich": ""
-    },
-    {
-        "start": 496.639,
-        "end": 510.16,
-        "text": "After tea, we took a taxi home. I looked out the window and saw the city lights shining through the rain. Sophie rested",
-        "textdich": ""
-    },
-    {
-        "start": 506.8,
-        "end": 515.68,
-        "text": "her head on my shoulder. I felt tired but strong.",
-        "textdich": ""
-    },
-    {
-        "start": 512.159,
-        "end": 526.72,
-        "text": "So many things happened that day. The strange man helping Oliver being brave for Sophie. When I got home, my dad and",
-        "textdich": ""
-    },
-    {
-        "start": 523.76,
-        "end": 539.92,
-        "text": "my sister were waiting. They hugged me tight. I told them everything. My dad said, \"You are my brave girl.\" My sister",
-        "textdich": ""
-    },
-    {
-        "start": 534.959,
-        "end": 550.8,
-        "text": "said, \"I want to be like you one day.\" That night, I couldn't sleep well. My mind was full of questions. But I knew",
-        "textdich": ""
-    },
-    {
-        "start": 546.72,
-        "end": 561.839,
-        "text": "one thing. I was not alone. I had my family. I had my best friend. And I had a kind heart that helped people. One",
-        "textdich": ""
-    },
-    {
-        "start": 558.959,
-        "end": 571.44,
-        "text": "week later, I was making coffee at the shop when someone called my name. I turned and saw Oliver and his mother.",
-        "textdich": ""
-    },
-    {
-        "start": 568.56,
-        "end": 580.399,
-        "text": "They came to thank me again. They brought me a small box of homemade cookies. I felt so happy.",
-        "textdich": ""
-    },
-    {
-        "start": 577.76,
-        "end": 586.0,
-        "text": "That day I understood something important.",
-        "textdich": ""
-    },
-    {
-        "start": 582.16,
-        "end": 594.2,
-        "text": "Sometimes scary things happen. But if we help each other, if we stay brave and kind, we can face anything together.",
-        "textdich": ""
-    }
+  {
+    "start": 1.12,
+    "end": 6.879,
+    "text": "Chào mừng đến với English Story Today. Đừng",
+    "textdich": ""
+  },
+  {
+    "start": 3.439,
+    "end": 11.599,
+    "text": "quên like và đăng ký kênh nhé.",
+    "textdich": ""
+  },
+  {
+    "start": 6.879,
+    "end": 14.719,
+    "text": "Tôi tên là Emily. Tôi 23 tuổi. Tôi",
+    "textdich": ""
+  },
+  {
+    "start": 11.599,
+    "end": 18.08,
+    "text": "sống ở một thành phố nhỏ tên là Willow Creek",
+    "textdich": ""
+  },
+  {
+    "start": 14.719,
+    "end": 20.72,
+    "text": "cùng với bố và em gái tôi. Tôi",
+    "textdich": ""
+  },
+  {
+    "start": 18.08,
+    "end": 22.8,
+    "text": "làm việc tại một quán cà phê nhỏ ở",
+    "textdich": ""
+  },
+  {
+    "start": 20.72,
+    "end": 25.519,
+    "text": "trung tâm thành phố.",
+    "textdich": ""
+  },
+  {
+    "start": 22.8,
+    "end": 28.4,
+    "text": "Tôi thích công việc của mình vì tôi thích gặp gỡ",
+    "textdich": ""
+  },
+  {
+    "start": 25.519,
+    "end": 31.359,
+    "text": "mọi người và pha cà phê. Nhưng một",
+    "textdich": ""
+  },
+  {
+    "start": 28.4,
+    "end": 35.84,
+    "text": "buổi sáng nọ, một chuyện rất kỳ lạ đã xảy ra",
+    "textdich": ""
+  },
+  {
+    "start": 31.359,
+    "end": 39.04,
+    "text": "với tôi. Đó là một buổi sáng tháng Mười lạnh lẽo và mưa phùn",
+    "textdich": ""
+  },
+  {
+    "start": 35.84,
+    "end": 42.399,
+    "text": ". Tôi dậy sớm vì phải làm",
+    "textdich": ""
+  },
+  {
+    "start": 39.04,
+    "end": 45.84,
+    "text": "ca sớm ở quán cà phê. Khi tôi",
+    "textdich": ""
+  },
+  {
+    "start": 42.399,
+    "end": 49.68,
+    "text": "kiểm tra điện thoại, tôi thấy một tin nhắn từ",
+    "textdich": ""
+  },
+  {
+    "start": 45.84,
+    "end": 52.64,
+    "text": "người bạn thân nhất của tôi, Sophie. Tin nhắn viết:",
+    "textdich": ""
+  },
+  {
+    "start": 49.68,
+    "end": 56.96,
+    "text": "\"Emily, làm ơn đến ga tàu",
+    "textdich": ""
+  },
+  {
+    "start": 52.64,
+    "end": 61.52,
+    "text": "hôm nay. Tớ thực sự cần cậu. 11 giờ sáng,",
+    "textdich": ""
+  },
+  {
+    "start": 56.96,
+    "end": 63.92,
+    "text": "sân ga số 5.\" Tôi không hiểu.",
+    "textdich": ""
+  },
+  {
+    "start": 61.52,
+    "end": 66.88,
+    "text": "Tại sao Sophie lại muốn tôi đến",
+    "textdich": ""
+  },
+  {
+    "start": 63.92,
+    "end": 70.64,
+    "text": "ga tàu? Cô ấy không nói",
+    "textdich": ""
+  },
+  {
+    "start": 66.88,
+    "end": 74.56,
+    "text": "thêm gì nữa. Tôi gọi cho cô ấy, nhưng điện thoại của cô ấy",
+    "textdich": ""
+  },
+  {
+    "start": 70.64,
+    "end": 79.36,
+    "text": "tắt máy. Tôi nhìn đồng hồ.",
+    "textdich": ""
+  },
+  {
+    "start": 74.56,
+    "end": 82.799,
+    "text": "Đã 9 giờ sáng rồi. Tôi chỉ còn 2 tiếng để",
+    "textdich": ""
+  },
+  {
+    "start": 79.36,
+    "end": 86.159,
+    "text": "chuẩn bị và đến ga tàu. Tôi",
+    "textdich": ""
+  },
+  {
+    "start": 82.799,
+    "end": 90.24,
+    "text": "mặc chiếc quần jeans yêu thích, một chiếc áo len màu xanh ấm áp",
+    "textdich": ""
+  },
+  {
+    "start": 86.159,
+    "end": 94.159,
+    "text": "và đôi bốt đen. Tôi lấy",
+    "textdich": ""
+  },
+  {
+    "start": 90.24,
+    "end": 97.84,
+    "text": "áo mưa và chiếc ô nhỏ màu đen.",
+    "textdich": ""
+  },
+  {
+    "start": 94.159,
+    "end": 100.96,
+    "text": "Bố tôi đang làm bữa sáng. Tôi nói với ông:",
+    "textdich": ""
+  },
+  {
+    "start": 97.84,
+    "end": 102.72,
+    "text": "\"Bố ơi, con phải đến",
+    "textdich": ""
+  },
+  {
+    "start": 100.96,
+    "end": 106.0,
+    "text": "ga tàu.\"",
+    "textdich": ""
+  },
+  {
+    "start": 102.72,
+    "end": 108.96,
+    "text": "Sophie cần con giúp đỡ. Bố tôi nhìn",
+    "textdich": ""
+  },
+  {
+    "start": 106.0,
+    "end": 113.6,
+    "text": "tôi với vẻ lo lắng. Ông nói: \"Cẩn thận nhé,",
+    "textdich": ""
+  },
+  {
+    "start": 108.96,
+    "end": 115.759,
+    "text": "Emily.\" Hãy gọi cho tôi nếu bạn cần gì. Tôi",
+    "textdich": ""
+  },
+  {
+    "start": 113.6,
+    "end": 119.84,
+    "text": "rời khỏi nhà và đi bộ đến trạm xe buýt",
+    "textdich": ""
+  },
+  {
+    "start": 115.759,
+    "end": 123.119,
+    "text": ". Trời mưa rất to. Tôi lên",
+    "textdich": ""
+  },
+  {
+    "start": 119.84,
+    "end": 126.799,
+    "text": "xe buýt. Nơi đó đông nghịt",
+    "textdich": ""
+  },
+  {
+    "start": 123.119,
+    "end": 129.84,
+    "text": "người đi làm. Tôi tìm thấy một",
+    "textdich": ""
+  },
+  {
+    "start": 126.799,
+    "end": 134.0,
+    "text": "khoảng trống nhỏ gần cửa. Cửa sổ mờ",
+    "textdich": ""
+  },
+  {
+    "start": 129.84,
+    "end": 137.2,
+    "text": "hơi nước và tôi ngắm nhìn thành phố trôi qua.",
+    "textdich": ""
+  },
+  {
+    "start": 134.0,
+    "end": 141.36,
+    "text": "Sau 30 phút, tôi đã đến ga xe lửa",
+    "textdich": ""
+  },
+  {
+    "start": 137.2,
+    "end": 144.56,
+    "text": ". Nhà ga rất lớn và",
+    "textdich": ""
+  },
+  {
+    "start": 141.36,
+    "end": 147.599,
+    "text": "ồn ào. Mọi người hối hả chạy khắp nơi",
+    "textdich": ""
+  },
+  {
+    "start": 144.56,
+    "end": 151.599,
+    "text": "với túi xách và vali trên tay.",
+    "textdich": ""
+  },
+  {
+    "start": 147.599,
+    "end": 155.12,
+    "text": "Tôi tìm sân ga số 5. ​​Mất 10",
+    "textdich": ""
+  },
+  {
+    "start": 151.599,
+    "end": 158.08,
+    "text": "phút tôi mới tìm thấy. Vì biển chỉ dẫn",
+    "textdich": ""
+  },
+  {
+    "start": 155.12,
+    "end": 161.68,
+    "text": "không rõ ràng, nhưng khi tôi đến",
+    "textdich": ""
+  },
+  {
+    "start": 158.08,
+    "end": 165.44,
+    "text": "nơi thì Sophie không có ở đó. Tôi đã đợi",
+    "textdich": ""
+  },
+  {
+    "start": 161.68,
+    "end": 171.519,
+    "text": "10 phút, rồi",
+    "textdich": ""
+  },
+  {
+    "start": 165.44,
+    "end": 176.239,
+    "text": "15 phút, rồi 20 phút. Vẫn chưa thấy",
+    "textdich": ""
+  },
+  {
+    "start": 171.519,
+    "end": 178.48,
+    "text": "Sophie đâu. Tôi cảm thấy lo lắng và bối rối. Tôi",
+    "textdich": ""
+  },
+  {
+    "start": 176.239,
+    "end": 181.519,
+    "text": "nhìn quanh và thấy một cậu bé",
+    "textdich": ""
+  },
+  {
+    "start": 178.48,
+    "end": 185.599,
+    "text": "đang ngồi một mình trên ghế đá. Anh ấy đang cầm",
+    "textdich": ""
+  },
+  {
+    "start": 181.519,
+    "end": 189.44,
+    "text": "một chiếc túi nhỏ và trông rất buồn bã. Tôi",
+    "textdich": ""
+  },
+  {
+    "start": 185.599,
+    "end": 193.2,
+    "text": "chậm rãi tiến lại gần anh ấy và hỏi, \"Này,",
+    "textdich": ""
+  },
+  {
+    "start": 189.44,
+    "end": 196.239,
+    "text": "anh có sao không?\" Anh ta ngước nhìn lên. Đôi mắt anh ta",
+    "textdich": ""
+  },
+  {
+    "start": 193.2,
+    "end": 199.84,
+    "text": "đỏ hoe như thể vừa khóc. Anh ấy",
+    "textdich": ""
+  },
+  {
+    "start": 196.239,
+    "end": 203.28,
+    "text": "nói, \"Tôi bị mất vé rồi. Giờ tôi không biết",
+    "textdich": ""
+  },
+  {
+    "start": 199.84,
+    "end": 207.92,
+    "text": "làm sao để về nhà.\" Tôi ngồi xuống bên cạnh",
+    "textdich": ""
+  },
+  {
+    "start": 203.28,
+    "end": 211.599,
+    "text": "anh ấy. Tôi nói, \"Tên tôi là Emily. Có lẽ tôi",
+    "textdich": ""
+  },
+  {
+    "start": 207.92,
+    "end": 215.44,
+    "text": "có thể giúp bạn. Còn bạn tên gì?\" Anh ta nói",
+    "textdich": ""
+  },
+  {
+    "start": 211.599,
+    "end": 217.84,
+    "text": "tên mình là Oliver. Anh ấy nói với tôi là anh ấy",
+    "textdich": ""
+  },
+  {
+    "start": 215.44,
+    "end": 220.72,
+    "text": "đến thăm bà nội, nhưng anh ấy đánh rơi",
+    "textdich": ""
+  },
+  {
+    "start": 217.84,
+    "end": 224.48,
+    "text": "vé tàu ở đâu đó rồi. Anh ấy",
+    "textdich": ""
+  },
+  {
+    "start": 220.72,
+    "end": 226.799,
+    "text": "sợ không dám gọi điện cho mẹ. Tôi lấy một",
+    "textdich": ""
+  },
+  {
+    "start": 224.48,
+    "end": 231.12,
+    "text": "viên sô cô la nhỏ trong túi đưa cho anh ấy và nói,",
+    "textdich": ""
+  },
+  {
+    "start": 226.799,
+    "end": 235.519,
+    "text": "\"Đừng lo, chúng ta sẽ tìm ra cách.\"",
+    "textdich": ""
+  },
+  {
+    "start": 231.12,
+    "end": 238.48,
+    "text": "Ngay lúc đó, điện thoại của tôi reo. Đó là Sophie.",
+    "textdich": ""
+  },
+  {
+    "start": 235.519,
+    "end": 242.879,
+    "text": "Tôi nhanh chóng trả lời, \"Sophie,",
+    "textdich": ""
+  },
+  {
+    "start": 238.48,
+    "end": 246.239,
+    "text": "cậu đang ở đâu?\" Giọng Sophie nghe có vẻ sợ hãi.",
+    "textdich": ""
+  },
+  {
+    "start": 242.879,
+    "end": 250.08,
+    "text": "Cô ấy nói, \"Emily, em đang ở đâu?\" Tôi",
+    "textdich": ""
+  },
+  {
+    "start": 246.239,
+    "end": 254.72,
+    "text": "nói, \"Tôi đang ở sân ga số 5 đợi",
+    "textdich": ""
+  },
+  {
+    "start": 250.08,
+    "end": 258.72,
+    "text": "bạn.\" Sophie nói, \"Ôi không, tôi đang ở",
+    "textdich": ""
+  },
+  {
+    "start": 254.72,
+    "end": 261.6,
+    "text": "sân ga số 3. Làm ơn đến nhanh lên. Tôi",
+    "textdich": ""
+  },
+  {
+    "start": 258.72,
+    "end": 265.28,
+    "text": "sợ quá.\" Tôi nhìn Oliver và",
+    "textdich": ""
+  },
+  {
+    "start": 261.6,
+    "end": 268.16,
+    "text": "nói, \"Đợi ở đây một lát. Tôi sẽ quay",
+    "textdich": ""
+  },
+  {
+    "start": 265.28,
+    "end": 272.4,
+    "text": "lại ngay.\" Tôi chạy xuyên qua nhà ga",
+    "textdich": ""
+  },
+  {
+    "start": 268.16,
+    "end": 275.6,
+    "text": "đến sân ga số 3. Giày tôi ướt sũng và",
+    "textdich": ""
+  },
+  {
+    "start": 272.4,
+    "end": 279.84,
+    "text": "tóc tôi ẩm ướt vì mưa. Khi tôi",
+    "textdich": ""
+  },
+  {
+    "start": 275.6,
+    "end": 283.12,
+    "text": "đến sân ga số 3, tôi thấy Sophie đang ngồi",
+    "textdich": ""
+  },
+  {
+    "start": 279.84,
+    "end": 286.16,
+    "text": "trên sàn gần máy bán vé.",
+    "textdich": ""
+  },
+  {
+    "start": 283.12,
+    "end": 290.96,
+    "text": "Trông cô ấy rất sợ hãi.",
+    "textdich": ""
+  },
+  {
+    "start": 286.16,
+    "end": 296.0,
+    "text": "Tôi gọi cho Sophie. Cô ấy ngước nhìn và chạy",
+    "textdich": ""
+  },
+  {
+    "start": 290.96,
+    "end": 299.12,
+    "text": "đến chỗ tôi. Cô ấy ôm tôi thật chặt. Emily, tôi",
+    "textdich": ""
+  },
+  {
+    "start": 296.0,
+    "end": 302.88,
+    "text": "không biết nên gọi cho ai. \"Tôi",
+    "textdich": ""
+  },
+  {
+    "start": 299.12,
+    "end": 306.72,
+    "text": "sợ lắm,\" cô ấy nói. Chuyện gì đã xảy ra vậy, Sophie?",
+    "textdich": ""
+  },
+  {
+    "start": 302.88,
+    "end": 310.96,
+    "text": "Tôi đã hỏi. Cô ấy thì thầm. Tôi nghĩ có người",
+    "textdich": ""
+  },
+  {
+    "start": 306.72,
+    "end": 314.24,
+    "text": "đang theo dõi tôi. Mắt tôi mở to. Ai",
+    "textdich": ""
+  },
+  {
+    "start": 310.96,
+    "end": 317.919,
+    "text": "? Tại sao người khác lại theo dõi bạn?",
+    "textdich": ""
+  },
+  {
+    "start": 314.24,
+    "end": 322.56,
+    "text": "Sophie nói. Tôi không biết. Tôi nhìn thấy một người đàn ông",
+    "textdich": ""
+  },
+  {
+    "start": 317.919,
+    "end": 326.56,
+    "text": "trên xe buýt của mình. Anh ấy cứ nhìn chằm chằm vào tôi. Khi tôi",
+    "textdich": ""
+  },
+  {
+    "start": 322.56,
+    "end": 330.08,
+    "text": "xuống, anh ấy cũng xuống theo. Giờ thì anh ấy đang ở đâu đó quanh đây",
+    "textdich": ""
+  },
+  {
+    "start": 326.56,
+    "end": 333.52,
+    "text": ". Tôi nhìn xung quanh. Mọi người",
+    "textdich": ""
+  },
+  {
+    "start": 330.08,
+    "end": 336.72,
+    "text": "đi lại khắp nơi. Sau đó, Sophie",
+    "textdich": ""
+  },
+  {
+    "start": 333.52,
+    "end": 338.32,
+    "text": "chậm rãi chỉ tay về phía một người nào đó gần",
+    "textdich": ""
+  },
+  {
+    "start": 336.72,
+    "end": 342.08,
+    "text": "quán cà phê nhỏ. \"",
+    "textdich": ""
+  },
+  {
+    "start": 338.32,
+    "end": 344.96,
+    "text": "Chính là anh ấy,\" cô thì thầm. Tôi nhìn xung quanh và",
+    "textdich": ""
+  },
+  {
+    "start": 342.08,
+    "end": 348.08,
+    "text": "thấy một người đàn ông mặc áo khoác màu xanh đậm và đội",
+    "textdich": ""
+  },
+  {
+    "start": 344.96,
+    "end": 350.72,
+    "text": "mũ len đen. Anh ta đứng gần",
+    "textdich": ""
+  },
+  {
+    "start": 348.08,
+    "end": 355.44,
+    "text": "quán cà phê và giả vờ xem",
+    "textdich": ""
+  },
+  {
+    "start": 350.72,
+    "end": 359.6,
+    "text": "điện thoại. Tôi cảm thấy tim mình đập nhanh hơn. \"",
+    "textdich": ""
+  },
+  {
+    "start": 355.44,
+    "end": 361.84,
+    "text": "Ở lại đây,\" tôi nói. Tôi sẽ đi nói chuyện với anh ấy.",
+    "textdich": ""
+  },
+  {
+    "start": 359.6,
+    "end": 365.199,
+    "text": "Nhưng khi tôi bước tới, người đàn ông",
+    "textdich": ""
+  },
+  {
+    "start": 361.84,
+    "end": 368.479,
+    "text": "nhìn chúng tôi rồi nhanh chóng bỏ đi. Chúng tôi",
+    "textdich": ""
+  },
+  {
+    "start": 365.199,
+    "end": 371.759,
+    "text": "đứng đó nhìn anh ấy biến mất vào",
+    "textdich": ""
+  },
+  {
+    "start": 368.479,
+    "end": 376.319,
+    "text": "đám đông. Sophie nói, \"Giờ thì cậu tin",
+    "textdich": ""
+  },
+  {
+    "start": 371.759,
+    "end": 378.479,
+    "text": "tớ rồi chứ?\" Tôi gật đầu. \"Vâng, chúng ta hãy báo cho",
+    "textdich": ""
+  },
+  {
+    "start": 376.319,
+    "end": 381.6,
+    "text": "bảo vệ nhà ga.\"",
+    "textdich": ""
+  },
+  {
+    "start": 378.479,
+    "end": 384.88,
+    "text": "Chúng tôi đến quầy trợ giúp và kể",
+    "textdich": ""
+  },
+  {
+    "start": 381.6,
+    "end": 387.919,
+    "text": "hết mọi chuyện cho một người phụ nữ tốt bụng. Cô ấy đã gọi bảo",
+    "textdich": ""
+  },
+  {
+    "start": 384.88,
+    "end": 391.52,
+    "text": "vệ. Người bảo vệ lắng nghe cẩn thận rồi",
+    "textdich": ""
+  },
+  {
+    "start": 387.919,
+    "end": 395.28,
+    "text": "nói: \"Đừng lo, chúng tôi sẽ kiểm tra",
+    "textdich": ""
+  },
+  {
+    "start": 391.52,
+    "end": 398.56,
+    "text": "camera.\" Sophie trông có vẻ bình tĩnh hơn một chút.",
+    "textdich": ""
+  },
+  {
+    "start": 395.28,
+    "end": 401.759,
+    "text": "Cô ấy siết chặt tay tôi và nói, \"Cảm",
+    "textdich": ""
+  },
+  {
+    "start": 398.56,
+    "end": 406.16,
+    "text": "ơn Emily. Tôi không biết mình sẽ làm gì nếu",
+    "textdich": ""
+  },
+  {
+    "start": 401.759,
+    "end": 408.56,
+    "text": "không có bạn.\" Tôi nói, \"Lần sau, hãy gửi cho",
+    "textdich": ""
+  },
+  {
+    "start": 406.16,
+    "end": 412.24,
+    "text": "tôi đúng nền tảng nhé.\"",
+    "textdich": ""
+  },
+  {
+    "start": 408.56,
+    "end": 415.44,
+    "text": "Chúng tôi cười khúc khích một chút, nhưng sâu bên trong tôi",
+    "textdich": ""
+  },
+  {
+    "start": 412.24,
+    "end": 419.759,
+    "text": "vẫn lo lắng. Rồi tôi nhớ đến",
+    "textdich": ""
+  },
+  {
+    "start": 415.44,
+    "end": 422.8,
+    "text": "Oliver, cậu bé ấy. Tôi nói với Sophie,",
+    "textdich": ""
+  },
+  {
+    "start": 419.759,
+    "end": 426.08,
+    "text": "\"Đợi ở đây. Tôi cũng cần giúp một người khác nữa",
+    "textdich": ""
+  },
+  {
+    "start": 422.8,
+    "end": 428.88,
+    "text": ".\" Chúng tôi quay lại sân ga số 5 và",
+    "textdich": ""
+  },
+  {
+    "start": 426.08,
+    "end": 432.56,
+    "text": "thấy Oliver vẫn đang ngồi đó, tay cầm",
+    "textdich": ""
+  },
+  {
+    "start": 428.88,
+    "end": 435.199,
+    "text": "chiếc túi nhỏ của mình. Sophie ngồi cạnh anh ấy trong khi",
+    "textdich": ""
+  },
+  {
+    "start": 432.56,
+    "end": 437.919,
+    "text": "tôi đi đến quầy bán vé. Tôi",
+    "textdich": ""
+  },
+  {
+    "start": 435.199,
+    "end": 441.039,
+    "text": "đã giải thích vấn đề của Oliver<unk>.",
+    "textdich": ""
+  },
+  {
+    "start": 437.919,
+    "end": 444.0,
+    "text": "Cô nhân viên ở quầy rất tốt bụng. Cô ấy nói",
+    "textdich": ""
+  },
+  {
+    "start": 441.039,
+    "end": 446.8,
+    "text": "sẽ gọi cho mẹ của Oliver.",
+    "textdich": ""
+  },
+  {
+    "start": 444.0,
+    "end": 448.639,
+    "text": "Khi mẹ của Oliver đến, bà đã ôm",
+    "textdich": ""
+  },
+  {
+    "start": 446.8,
+    "end": 452.16,
+    "text": "cậu thật chặt.",
+    "textdich": ""
+  },
+  {
+    "start": 448.639,
+    "end": 456.479,
+    "text": "Cô ấy cảm ơn tôi và Sophie hết lần này đến lần khác",
+    "textdich": ""
+  },
+  {
+    "start": 452.16,
+    "end": 460.24,
+    "text": ". Tôi cảm thấy ấm áp trong lòng. Cảm giác được",
+    "textdich": ""
+  },
+  {
+    "start": 456.479,
+    "end": 463.44,
+    "text": "giúp đỡ thật tuyệt vời. Khi chúng tôi rời nhà ga, trời vẫn còn",
+    "textdich": ""
+  },
+  {
+    "start": 460.24,
+    "end": 466.639,
+    "text": "mưa. Tôi và Sophie cùng dùng chung",
+    "textdich": ""
+  },
+  {
+    "start": 463.44,
+    "end": 470.08,
+    "text": "chiếc ô của tôi. Chúng tôi đi bộ đến một quán cà phê nhỏ",
+    "textdich": ""
+  },
+  {
+    "start": 466.639,
+    "end": 473.12,
+    "text": "để nghỉ ngơi và uống trà. Chúng tôi đã nói chuyện về",
+    "textdich": ""
+  },
+  {
+    "start": 470.08,
+    "end": 475.12,
+    "text": "những gì đã xảy ra. Sophie nói với tôi rằng cô ấy",
+    "textdich": ""
+  },
+  {
+    "start": 473.12,
+    "end": 478.8,
+    "text": "nghi ngờ bạn trai cũ của mình đứng",
+    "textdich": ""
+  },
+  {
+    "start": 475.12,
+    "end": 483.12,
+    "text": "sau chuyện này. Anh ấy đã rất tức giận khi cô ấy bỏ đi",
+    "textdich": ""
+  },
+  {
+    "start": 478.8,
+    "end": 487.039,
+    "text": ". Tôi nói với cô ấy, \"Đừng lo. Giờ cô",
+    "textdich": ""
+  },
+  {
+    "start": 483.12,
+    "end": 490.319,
+    "text": "an toàn rồi. Nếu hắn ta làm gì nữa, chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 487.039,
+    "end": 494.479,
+    "text": "sẽ báo cảnh sát.\" Sophie mỉm cười",
+    "textdich": ""
+  },
+  {
+    "start": 490.319,
+    "end": 496.639,
+    "text": "yếu ớt. \"Cậu là bạn thân nhất của tớ, Emily. Tớ",
+    "textdich": ""
+  },
+  {
+    "start": 494.479,
+    "end": 500.479,
+    "text": "luôn nói vậy.\"",
+    "textdich": ""
+  },
+  {
+    "start": 496.639,
+    "end": 503.68,
+    "text": "Sau bữa trà chiều, chúng tớ bắt taxi về nhà. Tớ nhìn",
+    "textdich": ""
+  },
+  {
+    "start": 500.479,
+    "end": 506.8,
+    "text": "ra cửa sổ và thấy ánh đèn thành phố",
+    "textdich": ""
+  },
+  {
+    "start": 503.68,
+    "end": 510.16,
+    "text": "chiếu xuyên qua cơn mưa. Sophie tựa",
+    "textdich": ""
+  },
+  {
+    "start": 506.8,
+    "end": 512.159,
+    "text": "đầu vào vai tớ. Tớ cảm thấy mệt mỏi",
+    "textdich": ""
+  },
+  {
+    "start": 510.16,
+    "end": 515.68,
+    "text": "nhưng mạnh mẽ.",
+    "textdich": ""
+  },
+  {
+    "start": 512.159,
+    "end": 519.599,
+    "text": "Rất nhiều chuyện đã xảy ra ngày hôm đó. Người đàn",
+    "textdich": ""
+  },
+  {
+    "start": 515.68,
+    "end": 523.76,
+    "text": "ông lạ mặt giúp Oliver đã dũng cảm",
+    "textdich": ""
+  },
+  {
+    "start": 519.599,
+    "end": 526.72,
+    "text": "vì Sophie. Khi tớ về đến nhà, bố và",
+    "textdich": ""
+  },
+  {
+    "start": 523.76,
+    "end": 530.88,
+    "text": "chị gái tớ đang đợi. Họ ôm tớ thật",
+    "textdich": ""
+  },
+  {
+    "start": 526.72,
+    "end": 534.959,
+    "text": "chặt. Tớ kể cho họ nghe mọi chuyện. Bố tớ",
+    "textdich": ""
+  },
+  {
+    "start": 530.88,
+    "end": 539.92,
+    "text": "nói, \"Con là cô gái dũng cảm của bố.\" Chị gái tớ",
+    "textdich": ""
+  },
+  {
+    "start": 534.959,
+    "end": 543.279,
+    "text": "nói, \"Một ngày nào đó em muốn được như chị.\"",
+    "textdich": ""
+  },
+  {
+    "start": 539.92,
+    "end": 546.72,
+    "text": "Đêm đó, tớ không ngủ ngon.",
+    "textdich": ""
+  },
+  {
+    "start": 543.279,
+    "end": 550.8,
+    "text": "Đầu óc tớ đầy những câu hỏi. Nhưng tớ biết",
+    "textdich": ""
+  },
+  {
+    "start": 546.72,
+    "end": 555.279,
+    "text": "một điều. Tớ không cô đơn. Tớ có",
+    "textdich": ""
+  },
+  {
+    "start": 550.8,
+    "end": 558.959,
+    "text": "gia đình. Tớ có người bạn thân nhất. Và tớ có",
+    "textdich": ""
+  },
+  {
+    "start": 555.279,
+    "end": 561.839,
+    "text": "một trái tim nhân hậu luôn giúp đỡ mọi người. Một",
+    "textdich": ""
+  },
+  {
+    "start": 558.959,
+    "end": 564.88,
+    "text": "tuần sau, tớ đang pha cà phê ở",
+    "textdich": ""
+  },
+  {
+    "start": 561.839,
+    "end": 568.56,
+    "text": "quán thì có người gọi tên tớ. Tớ",
+    "textdich": ""
+  },
+  {
+    "start": 564.88,
+    "end": 571.44,
+    "text": "quay lại và thấy Oliver và mẹ cậu ấy.",
+    "textdich": ""
+  },
+  {
+    "start": 568.56,
+    "end": 573.76,
+    "text": "Họ đến để cảm ơn tớ một lần nữa. Họ",
+    "textdich": ""
+  },
+  {
+    "start": 571.44,
+    "end": 577.76,
+    "text": "mang đến cho tớ một hộp bánh quy tự làm nhỏ",
+    "textdich": ""
+  },
+  {
+    "start": 573.76,
+    "end": 580.399,
+    "text": ". Tớ cảm thấy rất hạnh phúc.",
+    "textdich": ""
+  },
+  {
+    "start": 577.76,
+    "end": 582.16,
+    "text": "Ngày hôm đó tớ đã hiểu ra một điều",
+    "textdich": ""
+  },
+  {
+    "start": 580.399,
+    "end": 586.0,
+    "text": "quan trọng.",
+    "textdich": ""
+  },
+  {
+    "start": 582.16,
+    "end": 588.8,
+    "text": "Đôi khi những điều đáng sợ xảy ra. Nhưng nếu chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 586.0,
+    "end": 594.2,
+    "text": "giúp đỡ lẫn nhau, nếu chúng ta giữ vững sự dũng cảm và lòng",
+    "textdich": ""
+  },
+  {
+    "start": 588.8,
+    "end": 594.2,
+    "text": "tốt, chúng ta có thể đối mặt với bất cứ điều gì. cùng nhau.",
+    "textdich": ""
+  }
 ]
