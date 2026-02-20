@@ -1,0 +1,914 @@
+[
+  {
+    "start": 0.32,
+    "end": 6.48,
+    "text": "Hello everyone. I hope you are all well.",
+    "textdich": ""
+  },
+  {
+    "start": 3.919,
+    "end": 9.2,
+    "text": "If you want to learn English better and",
+    "textdich": ""
+  },
+  {
+    "start": 6.48,
+    "end": 12.88,
+    "text": "speak fluently, then this video is for",
+    "textdich": ""
+  },
+  {
+    "start": 9.2,
+    "end": 15.759,
+    "text": "you because it contains many daily",
+    "textdich": ""
+  },
+  {
+    "start": 12.88,
+    "end": 18.56,
+    "text": "useful sentences that we use in everyday",
+    "textdich": ""
+  },
+  {
+    "start": 15.759,
+    "end": 21.92,
+    "text": "life. Practice these sentences, repeat",
+    "textdich": ""
+  },
+  {
+    "start": 18.56,
+    "end": 25.6,
+    "text": "them, and listen carefully. Now, let's",
+    "textdich": ""
+  },
+  {
+    "start": 21.92,
+    "end": 27.84,
+    "text": "start. My name is Thomas.",
+    "textdich": ""
+  },
+  {
+    "start": 25.6,
+    "end": 31.599,
+    "text": "I am a teacher.",
+    "textdich": ""
+  },
+  {
+    "start": 27.84,
+    "end": 35.2,
+    "text": "I wake up at 6:00 a.m. every day.",
+    "textdich": ""
+  },
+  {
+    "start": 31.599,
+    "end": 37.84,
+    "text": "I brush my teeth and wash my face.",
+    "textdich": ""
+  },
+  {
+    "start": 35.2,
+    "end": 41.04,
+    "text": "I make a cup of tea.",
+    "textdich": ""
+  },
+  {
+    "start": 37.84,
+    "end": 44.239,
+    "text": "I eat breakfast with my family.",
+    "textdich": ""
+  },
+  {
+    "start": 41.04,
+    "end": 48.0,
+    "text": "I check my phone for messages.",
+    "textdich": ""
+  },
+  {
+    "start": 44.239,
+    "end": 50.879,
+    "text": "I prepare my lesson for the day. I dress",
+    "textdich": ""
+  },
+  {
+    "start": 48.0,
+    "end": 54.0,
+    "text": "in a neat shirt and pants.",
+    "textdich": ""
+  },
+  {
+    "start": 50.879,
+    "end": 57.039,
+    "text": "I pack my bag for school.",
+    "textdich": ""
+  },
+  {
+    "start": 54.0,
+    "end": 60.32,
+    "text": "I say goodbye to my family.",
+    "textdich": ""
+  },
+  {
+    "start": 57.039,
+    "end": 63.039,
+    "text": "I leave home with a happy smile.",
+    "textdich": ""
+  },
+  {
+    "start": 60.32,
+    "end": 65.84,
+    "text": "I walk to the bus stop.",
+    "textdich": ""
+  },
+  {
+    "start": 63.039,
+    "end": 68.88,
+    "text": "The sun is shining today.",
+    "textdich": ""
+  },
+  {
+    "start": 65.84,
+    "end": 71.76,
+    "text": "I see children going to school.",
+    "textdich": ""
+  },
+  {
+    "start": 68.88,
+    "end": 74.799,
+    "text": "I greet them with a smile.",
+    "textdich": ""
+  },
+  {
+    "start": 71.76,
+    "end": 77.759,
+    "text": "Birds are singing on the trees.",
+    "textdich": ""
+  },
+  {
+    "start": 74.799,
+    "end": 80.88,
+    "text": "I feel happy and fresh.",
+    "textdich": ""
+  },
+  {
+    "start": 77.759,
+    "end": 84.479,
+    "text": "I meet my friend, Mr. David.",
+    "textdich": ""
+  },
+  {
+    "start": 80.88,
+    "end": 86.32,
+    "text": "We talk about our day. The bus arrives",
+    "textdich": ""
+  },
+  {
+    "start": 84.479,
+    "end": 89.36,
+    "text": "on time.",
+    "textdich": ""
+  },
+  {
+    "start": 86.32,
+    "end": 92.88,
+    "text": "I take a seat near the window.",
+    "textdich": ""
+  },
+  {
+    "start": 89.36,
+    "end": 96.24,
+    "text": "I look outside and enjoy the view.",
+    "textdich": ""
+  },
+  {
+    "start": 92.88,
+    "end": 99.759,
+    "text": "I feel ready to teach my students.",
+    "textdich": ""
+  },
+  {
+    "start": 96.24,
+    "end": 102.799,
+    "text": "I reach the school at 8:00 a.m.",
+    "textdich": ""
+  },
+  {
+    "start": 99.759,
+    "end": 106.079,
+    "text": "I greet the principal politely.",
+    "textdich": ""
+  },
+  {
+    "start": 102.799,
+    "end": 109.04,
+    "text": "I see the students in the playground.",
+    "textdich": ""
+  },
+  {
+    "start": 106.079,
+    "end": 112.399,
+    "text": "They run and play happily.",
+    "textdich": ""
+  },
+  {
+    "start": 109.04,
+    "end": 115.04,
+    "text": "I feel excited to meet my class.",
+    "textdich": ""
+  },
+  {
+    "start": 112.399,
+    "end": 118.479,
+    "text": "I enter my classroom.",
+    "textdich": ""
+  },
+  {
+    "start": 115.04,
+    "end": 121.439,
+    "text": "I arrange the chairs and tables.",
+    "textdich": ""
+  },
+  {
+    "start": 118.479,
+    "end": 124.32,
+    "text": "I put my books on the desk.",
+    "textdich": ""
+  },
+  {
+    "start": 121.439,
+    "end": 127.2,
+    "text": "The students start coming in.",
+    "textdich": ""
+  },
+  {
+    "start": 124.32,
+    "end": 130.959,
+    "text": "I smile at each student.",
+    "textdich": ""
+  },
+  {
+    "start": 127.2,
+    "end": 134.64,
+    "text": "I say, \"Good morning, everyone.\"",
+    "textdich": ""
+  },
+  {
+    "start": 130.959,
+    "end": 137.76,
+    "text": "They reply, \"Good morning, sir.\"",
+    "textdich": ""
+  },
+  {
+    "start": 134.64,
+    "end": 140.72,
+    "text": "I start the lesson with a story.",
+    "textdich": ""
+  },
+  {
+    "start": 137.76,
+    "end": 143.76,
+    "text": "The students listen carefully.",
+    "textdich": ""
+  },
+  {
+    "start": 140.72,
+    "end": 147.12,
+    "text": "I ask simple questions.",
+    "textdich": ""
+  },
+  {
+    "start": 143.76,
+    "end": 150.239,
+    "text": "They answer with small sentences.",
+    "textdich": ""
+  },
+  {
+    "start": 147.12,
+    "end": 153.36,
+    "text": "I write new words on the board.",
+    "textdich": ""
+  },
+  {
+    "start": 150.239,
+    "end": 156.879,
+    "text": "I explain their meaning clearly.",
+    "textdich": ""
+  },
+  {
+    "start": 153.36,
+    "end": 160.319,
+    "text": "I give examples from daily life.",
+    "textdich": ""
+  },
+  {
+    "start": 156.879,
+    "end": 162.72,
+    "text": "The students repeat after me. I check",
+    "textdich": ""
+  },
+  {
+    "start": 160.319,
+    "end": 165.599,
+    "text": "their pronunciation.",
+    "textdich": ""
+  },
+  {
+    "start": 162.72,
+    "end": 168.4,
+    "text": "I clap when they do well.",
+    "textdich": ""
+  },
+  {
+    "start": 165.599,
+    "end": 171.36,
+    "text": "Learning makes them happy.",
+    "textdich": ""
+  },
+  {
+    "start": 168.4,
+    "end": 174.4,
+    "text": "Learning makes me happy, too.",
+    "textdich": ""
+  },
+  {
+    "start": 171.36,
+    "end": 177.519,
+    "text": "Today we play a word game.",
+    "textdich": ""
+  },
+  {
+    "start": 174.4,
+    "end": 180.8,
+    "text": "Each student says one word.",
+    "textdich": ""
+  },
+  {
+    "start": 177.519,
+    "end": 183.36,
+    "text": "I make sentences from their words.",
+    "textdich": ""
+  },
+  {
+    "start": 180.8,
+    "end": 186.48,
+    "text": "They enjoy the game.",
+    "textdich": ""
+  },
+  {
+    "start": 183.36,
+    "end": 189.76,
+    "text": "I correct their mistakes gently.",
+    "textdich": ""
+  },
+  {
+    "start": 186.48,
+    "end": 192.56,
+    "text": "I encourage everyone to try.",
+    "textdich": ""
+  },
+  {
+    "start": 189.76,
+    "end": 195.28,
+    "text": "We laugh and have fun.",
+    "textdich": ""
+  },
+  {
+    "start": 192.56,
+    "end": 198.48,
+    "text": "Some students are shy.",
+    "textdich": ""
+  },
+  {
+    "start": 195.28,
+    "end": 202.159,
+    "text": "I ask them, \"Can you try?\"",
+    "textdich": ""
+  },
+  {
+    "start": 198.48,
+    "end": 205.28,
+    "text": "Slowly they speak with confidence.",
+    "textdich": ""
+  },
+  {
+    "start": 202.159,
+    "end": 208.879,
+    "text": "I feel proud of my students.",
+    "textdich": ""
+  },
+  {
+    "start": 205.28,
+    "end": 211.519,
+    "text": "Comment below which game do you like.",
+    "textdich": ""
+  },
+  {
+    "start": 208.879,
+    "end": 215.04,
+    "text": "We take a short break.",
+    "textdich": ""
+  },
+  {
+    "start": 211.519,
+    "end": 217.599,
+    "text": "Students drink water and eat snacks.",
+    "textdich": ""
+  },
+  {
+    "start": 215.04,
+    "end": 220.64,
+    "text": "They talk with friends.",
+    "textdich": ""
+  },
+  {
+    "start": 217.599,
+    "end": 223.599,
+    "text": "I sit quietly for a while.",
+    "textdich": ""
+  },
+  {
+    "start": 220.64,
+    "end": 226.48,
+    "text": "I drink my coffee slowly.",
+    "textdich": ""
+  },
+  {
+    "start": 223.599,
+    "end": 229.519,
+    "text": "I enjoy the fresh air.",
+    "textdich": ""
+  },
+  {
+    "start": 226.48,
+    "end": 232.72,
+    "text": "I watch the children playing.",
+    "textdich": ""
+  },
+  {
+    "start": 229.519,
+    "end": 235.519,
+    "text": "Some are running, some are reading.",
+    "textdich": ""
+  },
+  {
+    "start": 232.72,
+    "end": 238.64,
+    "text": "I feel calm and peaceful.",
+    "textdich": ""
+  },
+  {
+    "start": 235.519,
+    "end": 241.84,
+    "text": "I prepare for the next lesson.",
+    "textdich": ""
+  },
+  {
+    "start": 238.64,
+    "end": 244.72,
+    "text": "Break time is short but nice.",
+    "textdich": ""
+  },
+  {
+    "start": 241.84,
+    "end": 247.36,
+    "text": "Students come back happily.",
+    "textdich": ""
+  },
+  {
+    "start": 244.72,
+    "end": 250.48,
+    "text": "I teach writing today.",
+    "textdich": ""
+  },
+  {
+    "start": 247.36,
+    "end": 252.319,
+    "text": "I show them simple sentences.",
+    "textdich": ""
+  },
+  {
+    "start": 250.48,
+    "end": 254.159,
+    "text": "They copy the sentences in their",
+    "textdich": ""
+  },
+  {
+    "start": 252.319,
+    "end": 256.959,
+    "text": "notebooks.",
+    "textdich": ""
+  },
+  {
+    "start": 254.159,
+    "end": 260.56,
+    "text": "I check their handwriting.",
+    "textdich": ""
+  },
+  {
+    "start": 256.959,
+    "end": 263.44,
+    "text": "I explain slowly and clearly.",
+    "textdich": ""
+  },
+  {
+    "start": 260.56,
+    "end": 266.08,
+    "text": "Students ask questions.",
+    "textdich": ""
+  },
+  {
+    "start": 263.44,
+    "end": 269.44,
+    "text": "I answer them kindly.",
+    "textdich": ""
+  },
+  {
+    "start": 266.08,
+    "end": 272.72,
+    "text": "We practice every word together.",
+    "textdich": ""
+  },
+  {
+    "start": 269.44,
+    "end": 275.919,
+    "text": "I tell them, \"Practice daily.\"",
+    "textdich": ""
+  },
+  {
+    "start": 272.72,
+    "end": 278.88,
+    "text": "They repeat my sentences again.",
+    "textdich": ""
+  },
+  {
+    "start": 275.919,
+    "end": 281.84,
+    "text": "I smile at their progress.",
+    "textdich": ""
+  },
+  {
+    "start": 278.88,
+    "end": 284.72,
+    "text": "Writing is fun when you try.",
+    "textdich": ""
+  },
+  {
+    "start": 281.84,
+    "end": 287.44,
+    "text": "I bring a short story.",
+    "textdich": ""
+  },
+  {
+    "start": 284.72,
+    "end": 290.16,
+    "text": "Students listen carefully.",
+    "textdich": ""
+  },
+  {
+    "start": 287.44,
+    "end": 292.8,
+    "text": "I read the story aloud.",
+    "textdich": ""
+  },
+  {
+    "start": 290.16,
+    "end": 296.56,
+    "text": "They follow the words.",
+    "textdich": ""
+  },
+  {
+    "start": 292.8,
+    "end": 299.84,
+    "text": "I ask simple questions about the story.",
+    "textdich": ""
+  },
+  {
+    "start": 296.56,
+    "end": 302.88,
+    "text": "They answer with small sentences.",
+    "textdich": ""
+  },
+  {
+    "start": 299.84,
+    "end": 306.479,
+    "text": "I correct gently when needed.",
+    "textdich": ""
+  },
+  {
+    "start": 302.88,
+    "end": 309.84,
+    "text": "I encourage everyone to read aloud.",
+    "textdich": ""
+  },
+  {
+    "start": 306.479,
+    "end": 312.56,
+    "text": "Slowly they read confidently.",
+    "textdich": ""
+  },
+  {
+    "start": 309.84,
+    "end": 315.68,
+    "text": "I clap for their efforts.",
+    "textdich": ""
+  },
+  {
+    "start": 312.56,
+    "end": 318.72,
+    "text": "Reading improves their English.",
+    "textdich": ""
+  },
+  {
+    "start": 315.68,
+    "end": 321.68,
+    "text": "Reading is a key to knowledge.",
+    "textdich": ""
+  },
+  {
+    "start": 318.72,
+    "end": 324.24,
+    "text": "Today we draw pictures.",
+    "textdich": ""
+  },
+  {
+    "start": 321.68,
+    "end": 327.199,
+    "text": "Students love drawing.",
+    "textdich": ""
+  },
+  {
+    "start": 324.24,
+    "end": 330.32,
+    "text": "I tell them simple words.",
+    "textdich": ""
+  },
+  {
+    "start": 327.199,
+    "end": 334.0,
+    "text": "They draw according to the words.",
+    "textdich": ""
+  },
+  {
+    "start": 330.32,
+    "end": 337.039,
+    "text": "Some draw trees. Some animals.",
+    "textdich": ""
+  },
+  {
+    "start": 334.0,
+    "end": 340.0,
+    "text": "I appreciate every drawing.",
+    "textdich": ""
+  },
+  {
+    "start": 337.039,
+    "end": 343.52,
+    "text": "They feel happy and proud.",
+    "textdich": ""
+  },
+  {
+    "start": 340.0,
+    "end": 346.639,
+    "text": "I write small words on their papers.",
+    "textdich": ""
+  },
+  {
+    "start": 343.52,
+    "end": 349.6,
+    "text": "They learn spelling while drawing.",
+    "textdich": ""
+  },
+  {
+    "start": 346.639,
+    "end": 352.72,
+    "text": "Art is a fun way to learn.",
+    "textdich": ""
+  },
+  {
+    "start": 349.6,
+    "end": 355.6,
+    "text": "I smile at their creativity.",
+    "textdich": ""
+  },
+  {
+    "start": 352.72,
+    "end": 358.8,
+    "text": "I teach them how to speak.",
+    "textdich": ""
+  },
+  {
+    "start": 355.6,
+    "end": 361.52,
+    "text": "I ask simple questions.",
+    "textdich": ""
+  },
+  {
+    "start": 358.8,
+    "end": 364.639,
+    "text": "Students answer slowly.",
+    "textdich": ""
+  },
+  {
+    "start": 361.52,
+    "end": 367.12,
+    "text": "I repeat correct sentences.",
+    "textdich": ""
+  },
+  {
+    "start": 364.639,
+    "end": 370.96,
+    "text": "They listen and learn.",
+    "textdich": ""
+  },
+  {
+    "start": 367.12,
+    "end": 374.0,
+    "text": "I tell them speak English daily.",
+    "textdich": ""
+  },
+  {
+    "start": 370.96,
+    "end": 376.96,
+    "text": "Students practice with each other.",
+    "textdich": ""
+  },
+  {
+    "start": 374.0,
+    "end": 379.52,
+    "text": "They make small dialogues.",
+    "textdich": ""
+  },
+  {
+    "start": 376.96,
+    "end": 382.639,
+    "text": "I correct gently.",
+    "textdich": ""
+  },
+  {
+    "start": 379.52,
+    "end": 386.319,
+    "text": "Confidence grows every day.",
+    "textdich": ""
+  },
+  {
+    "start": 382.639,
+    "end": 389.44,
+    "text": "I feel happy seeing their progress.",
+    "textdich": ""
+  },
+  {
+    "start": 386.319,
+    "end": 393.28,
+    "text": "Speaking English is not hard.",
+    "textdich": ""
+  },
+  {
+    "start": 389.44,
+    "end": 396.08,
+    "text": "The school day ends at 300 p.m.",
+    "textdich": ""
+  },
+  {
+    "start": 393.28,
+    "end": 399.12,
+    "text": "Students pack their bags.",
+    "textdich": ""
+  },
+  {
+    "start": 396.08,
+    "end": 402.24,
+    "text": "I check everyone is ready.",
+    "textdich": ""
+  },
+  {
+    "start": 399.12,
+    "end": 404.96,
+    "text": "I say, \"See you tomorrow.\"",
+    "textdich": ""
+  },
+  {
+    "start": 402.24,
+    "end": 408.08,
+    "text": "They wave and smile.",
+    "textdich": ""
+  },
+  {
+    "start": 404.96,
+    "end": 411.039,
+    "text": "I leave the classroom slowly.",
+    "textdich": ""
+  },
+  {
+    "start": 408.08,
+    "end": 413.6,
+    "text": "I feel tired but happy.",
+    "textdich": ""
+  },
+  {
+    "start": 411.039,
+    "end": 416.56,
+    "text": "Teaching is my passion.",
+    "textdich": ""
+  },
+  {
+    "start": 413.6,
+    "end": 419.12,
+    "text": "I meet my friend outside.",
+    "textdich": ""
+  },
+  {
+    "start": 416.56,
+    "end": 422.56,
+    "text": "We talk about the day.",
+    "textdich": ""
+  },
+  {
+    "start": 419.12,
+    "end": 425.68,
+    "text": "I walk home with peace in my heart.",
+    "textdich": ""
+  },
+  {
+    "start": 422.56,
+    "end": 428.88,
+    "text": "Every day is a new learning.",
+    "textdich": ""
+  },
+  {
+    "start": 425.68,
+    "end": 431.84,
+    "text": "I reach home at 400 p.m.",
+    "textdich": ""
+  },
+  {
+    "start": 428.88,
+    "end": 434.639,
+    "text": "I drink tea and relax.",
+    "textdich": ""
+  },
+  {
+    "start": 431.84,
+    "end": 437.44,
+    "text": "I think about my students.",
+    "textdich": ""
+  },
+  {
+    "start": 434.639,
+    "end": 440.4,
+    "text": "I feel proud of their learning.",
+    "textdich": ""
+  },
+  {
+    "start": 437.44,
+    "end": 443.919,
+    "text": "I prepare notes for tomorrow.",
+    "textdich": ""
+  },
+  {
+    "start": 440.4,
+    "end": 446.479,
+    "text": "I read English books for myself.",
+    "textdich": ""
+  },
+  {
+    "start": 443.919,
+    "end": 449.68,
+    "text": "Learning never stops.",
+    "textdich": ""
+  },
+  {
+    "start": 446.479,
+    "end": 452.8,
+    "text": "I love my job very much.",
+    "textdich": ""
+  },
+  {
+    "start": 449.68,
+    "end": 454.72,
+    "text": "I hope you enjoy my story.",
+    "textdich": ""
+  },
+  {
+    "start": 452.8,
+    "end": 456.4,
+    "text": "Practice with me and improve your",
+    "textdich": ""
+  },
+  {
+    "start": 454.72,
+    "end": 459.039,
+    "text": "English",
+    "textdich": ""
+  },
+  {
+    "start": 456.4,
+    "end": 462.039,
+    "text": "every day. Small steps make big",
+    "textdich": ""
+  },
+  {
+    "start": 459.039,
+    "end": 462.039,
+    "text": "progress.",
+    "textdich": ""
+  }
+]
