@@ -44,7 +44,7 @@
     <hr>
     <div class="group-3element">
       <form id="learnToggleBtn" >
-        Learning : 
+        Learning :
         <input type="radio" name="state" id="repeatoff" checked>off
         <input type="radio" name="state" id="repeaton">on
       </form>
@@ -102,6 +102,10 @@
     const hthispeed = document.getElementById("hthispeed");
     const state_rep = document.getElementById("state_rep");
     const learnToggleBtn = document.getElementById("learnToggleBtn");
+    const repeatoff = document.getElementById("repeatoff");
+    const repeaton = document.getElementById("repeaton");
+
+    repeatoff.checked = true;
     
     chatbox.innerHTML = "";
     let player = null;
@@ -559,10 +563,13 @@ learnToggleBtn.addEventListener("click", () => {
   setLearningEnabled(!learningEnabled);
   if (learningEnabled) {
     //alert('Learning is ON');
+    repeaton.checked = true;
     learnToggleBtn.style.textShadow = "2px 2px 4px #000000"; // Bật bóng đổ
     state_rep.textContent = "[Learning Mode ON]"; // Optional: show status when turning on
   } else {
     //alert('Learning is OFF');
+    repeatoff.checked = true;
+
     learnToggleBtn.style.textShadow = "none"; // Tắt bóng đổ
     state_rep.textContent = ""; // Clear status when turning off
   }
