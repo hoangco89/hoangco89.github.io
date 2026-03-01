@@ -44,7 +44,7 @@
     <hr>
     <div class="group-3element">
       <form id="learnToggleBtn" >
-        Shadowing : 
+        Learning : 
         <input type="radio" name="state" id="repeatoff" checked>off
         <input type="radio" name="state" id="repeaton">on
       </form>
@@ -560,9 +560,11 @@ learnToggleBtn.addEventListener("click", () => {
   if (learningEnabled) {
     //alert('Learning is ON');
     learnToggleBtn.style.textShadow = "2px 2px 4px #000000"; // Bật bóng đổ
+    state_rep.textContent = "[Learning Mode ON]"; // Optional: show status when turning on
   } else {
     //alert('Learning is OFF');
     learnToggleBtn.style.textShadow = "none"; // Tắt bóng đổ
+    state_rep.textContent = ""; // Clear status when turning off
   }
 });
 
