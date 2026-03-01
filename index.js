@@ -225,6 +225,7 @@ fetchJsonChude().then(data => {
 
 //ham tao menu selectVideo theo chude da chon
 async function taomenu_selectVideo(id_ofcddc){
+  console.log('id_ofcddc : ', id_ofcddc);
     const url = `Jschude/${id_ofcddc}.json`;
     fetch(url)
         .then(response => {
@@ -399,9 +400,9 @@ function tom_tat_ndvideo(){
     if (subtitles.length>0){
       let alltext = '';
       subtitles.forEach(item => {
-        alltext = alltext + `${item.textdich} `;
+        alltext = alltext + ` ${item.textdich} `;
       });
-      chatbox.innerHTML = alltext.replaceAll(".", ".<br><br>");
+      chatbox.innerHTML = alltext.replaceAll(". ", ".<br><br>");
     }else{  
       chatbox.innerHTML = 'No subtitles!';
     }
