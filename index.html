@@ -50,10 +50,10 @@
       </form>
       <div class="box visible" id="hthispeed">1</div>
 
-      <button class='caption' onclick="an_hien_pd_dich()">TransCap</button>
+      <button id='transCap' onclick="an_hien_pd_dich()">TransCap</button>
 
       <div class="box hidden" id="videochon" onclick="them_Http()">uckcR0Zl_2Q</div>
-      <button class='caption' onclick="an_hien_pd_goc()">SourceCap</button>
+      <button id='sourceCap' onclick="an_hien_pd_goc()">SourceCap</button>
     </div>
     <hr>
     <br>
@@ -80,10 +80,10 @@
 
 <!-- Footer -->
 <footer>
+  <p><a id="gledich">GTL</a> ||| <a href="https://www.bbc.co.uk/learningenglish" target="_blank">BBC</a> ||| <a href="https://learningenglish.voanews.com" target="_blank">VOA</a> ||| <a href="https://spotlightenglish.com" target="_blank">SLE</a></p>
   <p>&copy; From tiensg89@gmail.com at Houston 2026</p>
   <!-- <p>2318 Cartesian St, Katy, Houston, TX 77494, USA</p>
   <p><a href="https://adunglacchurch.github.io" target="_blank">About</a> | <a href="https://tiensgus.github.io" target="_blank">App1</a>| <a href="https://loan991958.github.io" target="_blank">App2</a>| <a href="https://hoangco89.github.io" target="_blank">App3</a></p>-->
-  <p><a href="https://www.bbc.co.uk/learningenglish" target="_blank">BBC</a> ||| <a href="https://learningenglish.voanews.com" target="_blank">VOA</a> ||| <a href="https://spotlightenglish.com" target="_blank">SLE</a></p>
 </footer>
 
 <!-- YouTube API================================================================================= -->
@@ -104,6 +104,8 @@
     const learnToggleBtn = document.getElementById("learnToggleBtn");
     const repeatoff = document.getElementById("repeatoff");
     const repeaton = document.getElementById("repeaton");
+    const gledich = document.getElementById("gledich");
+    const voiceSelect = document.getElementById("voiceSelect");
 
     repeatoff.checked = true;
     
@@ -479,8 +481,10 @@ function an_hien_pd_goc() {
   i_an_hien_pd_goc++;
   if (i_an_hien_pd_goc % 2 === 1) {
     currentSubtitle.style.color = "transparent"; // Ẩn phụ đề gốc
+    sourceCap.style.color = "black";
   }else{
     currentSubtitle.style.color = "rgb(231, 225, 225)"; // Hiển thị phụ đề gốc
+    sourceCap.style.color = "rgb(231, 225, 225)";
   }  
 }
 
@@ -490,8 +494,10 @@ function an_hien_pd_dich() {
   i_an_hien_pd_dich++;
   if (i_an_hien_pd_dich % 2 === 1) {
     subdich.style.color = "transparent"; // Ẩn phụ đề dịch 
+    transCap.style.color = "black";
   } else {
     subdich.style.color = "rgb(231, 225, 225)"; // Hiển thị phụ đề dịch
+    transCap.style.color = "rgb(231, 225, 225)";
   }
 }
 
@@ -586,6 +592,7 @@ learnToggleBtn.addEventListener("click", () => {
 
 
 <script src="index.js"></script>
+<script src="index2.js"></script>
 
 
 </body>

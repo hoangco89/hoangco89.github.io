@@ -8,7 +8,7 @@
       // ==========================
       // 1. LOAD VOICES
       // ==========================
-      const voiceSelect = document.getElementById("voiceSelect");
+      //const voiceSelect = document.getElementById("voiceSelect");
       let voices = [];
 
       function loadVoices() {

@@ -338,7 +338,7 @@ font-size: 1.1rem;
 position: absolute;  /* Không chiếm chỗ */
 
 }
-.caption{
+#sourceCap, #transCap{
   background: transparent;
   color:rgb(231, 225, 225);
   border-color: #000;
