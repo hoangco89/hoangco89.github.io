@@ -40,9 +40,13 @@ function xuli_box(){
 
 } 
 
+function micro_thu(){
+  alert('OK!');
+}
+
 //Ham nay mo trang  Swal.fire de ghi text hoac noi text cho viec dich tu en qua lang trong menu voiceSelect
 function chatBox(){
-    let bien1 = 'en';
+    let langen = 'en';
     langlay = '';
     for (let opt of voiceSelect.options) {
       if (opt.textContent.includes(voiceSelect.value)) {
@@ -51,13 +55,14 @@ function chatBox(){
       }
     }
 
+    
     Swal.fire({
-        title: `<span style='color:darkgreen;'>Input by (Micro) || (Keyboard)</span>`,
+        title: `<div style='color:darkgreen;'>Input by ⌨ or <span id="mic_ro" onclick="micro_thu()">🎙️</span></div>`,
         html: `
-            <a>${bien1}</a>
-            <textarea id="box_input_1" onblur="xuli_boxghi()" spellcheck="false" style="width:100%; height:150px; color:darkblue; font-size:1.4rem;"></textarea>
-            <a>${langlay}</a>
-            <textarea id="box_input_2" spellcheck="false" style="width:100%; height:150px; color:darkgreen; font-size:1.4rem;"></textarea>
+            <a style="color: darkblue;">${langen}</a>
+            <textarea id="box_input_1" spellcheck="false" style="width:100%; height:150px; color:darkblue; font-size:1.3rem; border: 1px solid darkgreen; padding: 10px;"></textarea>
+            <a style="color: darkgreen;">${langlay}</a>
+            <textarea id="box_input_2" spellcheck="false" style="width:100%; height:150px; color:darkgreen; font-size:1.3rem; border: 1px solid darkblue; padding: 10px;"></textarea>
             <br>
             <button id="loseFocus_xulibox" onclick="xuli_box()" style="color:red;">Click here for Translation</button>
             <br>
