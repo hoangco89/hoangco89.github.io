@@ -344,7 +344,7 @@ position: absolute;  /* Không chiếm chỗ */
   border-color: #000;
   border-bottom: 3px solid black;
   font-size: 0.7rem;
-  width:80px;
+  width:70px;
   height:30px;
 }
 form {
@@ -352,5 +352,6 @@ form {
     width:180px;
     height:30px;
     line-height: 30px;
+
 
 }
