@@ -1,0 +1,3326 @@
+[
+  {
+    "start": 0.4,
+    "end": 6.08,
+    "text": "GPT4, GPT5.",
+    "textdich": ""
+  },
+  {
+    "start": 3.52,
+    "end": 8.24,
+    "text": "That is how the internet talks about the",
+    "textdich": ""
+  },
+  {
+    "start": 6.08,
+    "end": 10.96,
+    "text": "latest model of OpenAI which was",
+    "textdich": ""
+  },
+  {
+    "start": 8.24,
+    "end": 14.16,
+    "text": "released about a week ago. And Sam",
+    "textdich": ""
+  },
+  {
+    "start": 10.96,
+    "end": 17.359,
+    "text": "Ultman said if GPT4 was a college",
+    "textdich": ""
+  },
+  {
+    "start": 14.16,
+    "end": 20.0,
+    "text": "student, GPT5 has a PhD in every",
+    "textdich": ""
+  },
+  {
+    "start": 17.359,
+    "end": 23.039,
+    "text": "possible subject. So people have been",
+    "textdich": ""
+  },
+  {
+    "start": 20.0,
+    "end": 25.68,
+    "text": "testing GPT5 in different areas,",
+    "textdich": ""
+  },
+  {
+    "start": 23.039,
+    "end": 28.32,
+    "text": "specifically in coding and tech. But",
+    "textdich": ""
+  },
+  {
+    "start": 25.68,
+    "end": 31.439,
+    "text": "I've been thinking, are we finally at a",
+    "textdich": ""
+  },
+  {
+    "start": 28.32,
+    "end": 33.68,
+    "text": "point where we can say that AI,",
+    "textdich": ""
+  },
+  {
+    "start": 31.439,
+    "end": 37.12,
+    "text": "specifically GPT5,",
+    "textdich": ""
+  },
+  {
+    "start": 33.68,
+    "end": 40.559,
+    "text": "is a better alternative to books and",
+    "textdich": ""
+  },
+  {
+    "start": 37.12,
+    "end": 43.12,
+    "text": "overall to traditional learning methods?",
+    "textdich": ""
+  },
+  {
+    "start": 40.559,
+    "end": 45.68,
+    "text": "Now, this video doesn't have a script. I",
+    "textdich": ""
+  },
+  {
+    "start": 43.12,
+    "end": 49.039,
+    "text": "only press the record button, but I have",
+    "textdich": ""
+  },
+  {
+    "start": 45.68,
+    "end": 51.68,
+    "text": "a fun test designed, and we're going to",
+    "textdich": ""
+  },
+  {
+    "start": 49.039,
+    "end": 55.559,
+    "text": "do this together for the first time.",
+    "textdich": ""
+  },
+  {
+    "start": 51.68,
+    "end": 55.559,
+    "text": "Let's get straight to it.",
+    "textdich": ""
+  },
+  {
+    "start": 57.199,
+    "end": 63.039,
+    "text": "So what's the test? I have GPT5 here and",
+    "textdich": ""
+  },
+  {
+    "start": 60.96,
+    "end": 65.76,
+    "text": "I have a very good book here. Now this",
+    "textdich": ""
+  },
+  {
+    "start": 63.039,
+    "end": 68.72,
+    "text": "book is Objective Proficiency. This was",
+    "textdich": ""
+  },
+  {
+    "start": 65.76,
+    "end": 71.36,
+    "text": "published by Cambridge University Press.",
+    "textdich": ""
+  },
+  {
+    "start": 68.72,
+    "end": 73.6,
+    "text": "So it's one of the best books out there.",
+    "textdich": ""
+  },
+  {
+    "start": 71.36,
+    "end": 76.56,
+    "text": "This is a very standard method for",
+    "textdich": ""
+  },
+  {
+    "start": 73.6,
+    "end": 79.84,
+    "text": "learning English. And the book is quite",
+    "textdich": ""
+  },
+  {
+    "start": 76.56,
+    "end": 82.799,
+    "text": "old. It was published in 2013, which is",
+    "textdich": ""
+  },
+  {
+    "start": 79.84,
+    "end": 87.119,
+    "text": "about 12 years ago. It's a relatively",
+    "textdich": ""
+  },
+  {
+    "start": 82.799,
+    "end": 89.68,
+    "text": "old book with the latest AI model. Now,",
+    "textdich": ""
+  },
+  {
+    "start": 87.119,
+    "end": 93.36,
+    "text": "I think a very good way to start the",
+    "textdich": ""
+  },
+  {
+    "start": 89.68,
+    "end": 97.04,
+    "text": "test is by grammar. We're going to see",
+    "textdich": ""
+  },
+  {
+    "start": 93.36,
+    "end": 99.92,
+    "text": "if AI, well, GPT5 is a better teacher of",
+    "textdich": ""
+  },
+  {
+    "start": 97.04,
+    "end": 102.479,
+    "text": "grammar or if the book is better. Let's",
+    "textdich": ""
+  },
+  {
+    "start": 99.92,
+    "end": 108.0,
+    "text": "start with GPT5.",
+    "textdich": ""
+  },
+  {
+    "start": 102.479,
+    "end": 110.72,
+    "text": "I'm going to ask Chad GPT to teach me",
+    "textdich": ""
+  },
+  {
+    "start": 108.0,
+    "end": 112.72,
+    "text": "future tenses. I don't have any",
+    "textdich": ""
+  },
+  {
+    "start": 110.72,
+    "end": 115.36,
+    "text": "particular preference. I can say future",
+    "textdich": ""
+  },
+  {
+    "start": 112.72,
+    "end": 118.56,
+    "text": "simple or future continuous. But",
+    "textdich": ""
+  },
+  {
+    "start": 115.36,
+    "end": 120.88,
+    "text": "overall, let's begin the test with a",
+    "textdich": ""
+  },
+  {
+    "start": 118.56,
+    "end": 123.119,
+    "text": "simple prompt.",
+    "textdich": ""
+  },
+  {
+    "start": 120.88,
+    "end": 128.92,
+    "text": "Teach me",
+    "textdich": ""
+  },
+  {
+    "start": 123.119,
+    "end": 128.92,
+    "text": "future tenses in English.",
+    "textdich": ""
+  },
+  {
+    "start": 129.599,
+    "end": 133.68,
+    "text": "Okay, great.",
+    "textdich": ""
+  },
+  {
+    "start": 131.76,
+    "end": 136.4,
+    "text": "I mean a lot of people have tested this",
+    "textdich": ""
+  },
+  {
+    "start": 133.68,
+    "end": 139.04,
+    "text": "and said that this is much faster in",
+    "textdich": ""
+  },
+  {
+    "start": 136.4,
+    "end": 140.72,
+    "text": "producing a response compared to GPT4.",
+    "textdich": ""
+  },
+  {
+    "start": 139.04,
+    "end": 143.44,
+    "text": "But honestly",
+    "textdich": ""
+  },
+  {
+    "start": 140.72,
+    "end": 145.12,
+    "text": "we don't care about how fast it is. We",
+    "textdich": ""
+  },
+  {
+    "start": 143.44,
+    "end": 147.52,
+    "text": "are going to use it for learning a",
+    "textdich": ""
+  },
+  {
+    "start": 145.12,
+    "end": 150.08,
+    "text": "language. So it's not important how fast",
+    "textdich": ""
+  },
+  {
+    "start": 147.52,
+    "end": 154.879,
+    "text": "it is. It's important how good the",
+    "textdich": ""
+  },
+  {
+    "start": 150.08,
+    "end": 156.64,
+    "text": "explanation is. Right? Let's see. So",
+    "textdich": ""
+  },
+  {
+    "start": 154.879,
+    "end": 158.56,
+    "text": "great. Let's keep it simple and clear.",
+    "textdich": ""
+  },
+  {
+    "start": 156.64,
+    "end": 161.76,
+    "text": "In English we can talk about the future",
+    "textdich": ""
+  },
+  {
+    "start": 158.56,
+    "end": 164.16,
+    "text": "in different ways. will plus space form",
+    "textdich": ""
+  },
+  {
+    "start": 161.76,
+    "end": 167.2,
+    "text": "of the verb. We use this for decisions",
+    "textdich": ""
+  },
+  {
+    "start": 164.16,
+    "end": 169.76,
+    "text": "now or future facts. This is the simple",
+    "textdich": ""
+  },
+  {
+    "start": 167.2,
+    "end": 172.879,
+    "text": "future tense. I'll call you tomorrow.",
+    "textdich": ""
+  },
+  {
+    "start": 169.76,
+    "end": 175.84,
+    "text": "Great. I mean it's amazing. There is a",
+    "textdich": ""
+  },
+  {
+    "start": 172.879,
+    "end": 178.959,
+    "text": "how many tenses are there? Six tenses.",
+    "textdich": ""
+  },
+  {
+    "start": 175.84,
+    "end": 181.76,
+    "text": "Six future tenses. We have future simple",
+    "textdich": ""
+  },
+  {
+    "start": 178.959,
+    "end": 184.56,
+    "text": "be going to for future plans or things",
+    "textdich": ""
+  },
+  {
+    "start": 181.76,
+    "end": 186.56,
+    "text": "we see are sure to happen. We have",
+    "textdich": ""
+  },
+  {
+    "start": 184.56,
+    "end": 190.239,
+    "text": "present continuous for future. This is",
+    "textdich": ""
+  },
+  {
+    "start": 186.56,
+    "end": 193.519,
+    "text": "amazing. I only asked GPT to teach me",
+    "textdich": ""
+  },
+  {
+    "start": 190.239,
+    "end": 195.76,
+    "text": "about future tenses, but it already",
+    "textdich": ""
+  },
+  {
+    "start": 193.519,
+    "end": 198.239,
+    "text": "knows I mean this is the latest model of",
+    "textdich": ""
+  },
+  {
+    "start": 195.76,
+    "end": 200.4,
+    "text": "OpenAI. It already knows that present",
+    "textdich": ""
+  },
+  {
+    "start": 198.239,
+    "end": 202.319,
+    "text": "continuous and present simple can be",
+    "textdich": ""
+  },
+  {
+    "start": 200.4,
+    "end": 205.519,
+    "text": "used for future tense. This is amazing",
+    "textdich": ""
+  },
+  {
+    "start": 202.319,
+    "end": 208.64,
+    "text": "guys. I have to tell you honestly in",
+    "textdich": ""
+  },
+  {
+    "start": 205.519,
+    "end": 211.36,
+    "text": "this day and age, if you still have any",
+    "textdich": ""
+  },
+  {
+    "start": 208.64,
+    "end": 214.4,
+    "text": "excuses as to why your grammar is not",
+    "textdich": ""
+  },
+  {
+    "start": 211.36,
+    "end": 216.4,
+    "text": "good or your English is not good, I",
+    "textdich": ""
+  },
+  {
+    "start": 214.4,
+    "end": 218.239,
+    "text": "would have to say that's on you. That's",
+    "textdich": ""
+  },
+  {
+    "start": 216.4,
+    "end": 221.519,
+    "text": "on you because you have the best",
+    "textdich": ""
+  },
+  {
+    "start": 218.239,
+    "end": 224.0,
+    "text": "resources available. AI is a huge thing.",
+    "textdich": ""
+  },
+  {
+    "start": 221.519,
+    "end": 225.68,
+    "text": "So you can see six tenses. For each",
+    "textdich": ""
+  },
+  {
+    "start": 224.0,
+    "end": 228.56,
+    "text": "tense, there is a well name of the",
+    "textdich": ""
+  },
+  {
+    "start": 225.68,
+    "end": 230.4,
+    "text": "tense, structure of the tense, how to",
+    "textdich": ""
+  },
+  {
+    "start": 228.56,
+    "end": 231.92,
+    "text": "use the tense, and two example",
+    "textdich": ""
+  },
+  {
+    "start": 230.4,
+    "end": 234.959,
+    "text": "sentences.",
+    "textdich": ""
+  },
+  {
+    "start": 231.92,
+    "end": 237.12,
+    "text": "The good thing about learning with AI is",
+    "textdich": ""
+  },
+  {
+    "start": 234.959,
+    "end": 239.12,
+    "text": "I can choose one of these and ask",
+    "textdich": ""
+  },
+  {
+    "start": 237.12,
+    "end": 242.0,
+    "text": "further questions. For example, I'm",
+    "textdich": ""
+  },
+  {
+    "start": 239.12,
+    "end": 246.159,
+    "text": "going to choose the first one and click",
+    "textdich": ""
+  },
+  {
+    "start": 242.0,
+    "end": 249.48,
+    "text": "ask chat GPT and say, can you give me",
+    "textdich": ""
+  },
+  {
+    "start": 246.159,
+    "end": 249.48,
+    "text": "more examples?",
+    "textdich": ""
+  },
+  {
+    "start": 250.08,
+    "end": 256.0,
+    "text": "There it is. Yes, a lot of more. Oh,",
+    "textdich": ""
+  },
+  {
+    "start": 253.92,
+    "end": 258.639,
+    "text": "great. Actually, the examples are",
+    "textdich": ""
+  },
+  {
+    "start": 256.0,
+    "end": 260.639,
+    "text": "already categorized. I haven't used the",
+    "textdich": ""
+  },
+  {
+    "start": 258.639,
+    "end": 264.4,
+    "text": "special prompt. This is a very simple",
+    "textdich": ""
+  },
+  {
+    "start": 260.639,
+    "end": 265.919,
+    "text": "prompt. And GPT understood that I'm",
+    "textdich": ""
+  },
+  {
+    "start": 264.4,
+    "end": 267.6,
+    "text": "trying to learn. So, it already",
+    "textdich": ""
+  },
+  {
+    "start": 265.919,
+    "end": 270.32,
+    "text": "categorized everything for me. And I",
+    "textdich": ""
+  },
+  {
+    "start": 267.6,
+    "end": 272.08,
+    "text": "think this is brilliant. It's something",
+    "textdich": ""
+  },
+  {
+    "start": 270.32,
+    "end": 275.84,
+    "text": "that a lot of teachers don't do for",
+    "textdich": ""
+  },
+  {
+    "start": 272.08,
+    "end": 278.32,
+    "text": "their students. And I think this is huge",
+    "textdich": ""
+  },
+  {
+    "start": 275.84,
+    "end": 280.72,
+    "text": "decisions now. I'm thirsty. I'll drink",
+    "textdich": ""
+  },
+  {
+    "start": 278.32,
+    "end": 284.0,
+    "text": "some water. Amazing. Future facts.",
+    "textdich": ""
+  },
+  {
+    "start": 280.72,
+    "end": 286.32,
+    "text": "Winter will start in December. Promise",
+    "textdich": ""
+  },
+  {
+    "start": 284.0,
+    "end": 288.08,
+    "text": "offer and request. This is great guys.",
+    "textdich": ""
+  },
+  {
+    "start": 286.32,
+    "end": 291.199,
+    "text": "Fantastic. You know what else you can",
+    "textdich": ""
+  },
+  {
+    "start": 288.08,
+    "end": 293.919,
+    "text": "do? This is interactive. That means if I",
+    "textdich": ""
+  },
+  {
+    "start": 291.199,
+    "end": 298.16,
+    "text": "want to learn more or practice more, I",
+    "textdich": ""
+  },
+  {
+    "start": 293.919,
+    "end": 301.16,
+    "text": "can say generate some practice",
+    "textdich": ""
+  },
+  {
+    "start": 298.16,
+    "end": 301.16,
+    "text": "questions.",
+    "textdich": ""
+  },
+  {
+    "start": 303.12,
+    "end": 307.36,
+    "text": "Awesome. All right. All right. Here",
+    "textdich": ""
+  },
+  {
+    "start": 305.199,
+    "end": 309.68,
+    "text": "there are a lot of different questions.",
+    "textdich": ""
+  },
+  {
+    "start": 307.36,
+    "end": 312.16,
+    "text": "And again, I have to say I have to say",
+    "textdich": ""
+  },
+  {
+    "start": 309.68,
+    "end": 316.4,
+    "text": "I'm surprised because with a very simple",
+    "textdich": ""
+  },
+  {
+    "start": 312.16,
+    "end": 322.56,
+    "text": "prompt, GBT5 is acting just like a",
+    "textdich": ""
+  },
+  {
+    "start": 316.4,
+    "end": 325.84,
+    "text": "teacher. We have gapped texts. We have",
+    "textdich": ""
+  },
+  {
+    "start": 322.56,
+    "end": 327.52,
+    "text": "uh multiplechoice questions. We have",
+    "textdich": ""
+  },
+  {
+    "start": 325.84,
+    "end": 330.72,
+    "text": "make your own sentence questions. This",
+    "textdich": ""
+  },
+  {
+    "start": 327.52,
+    "end": 332.72,
+    "text": "is a freeer practice kind of exercise.",
+    "textdich": ""
+  },
+  {
+    "start": 330.72,
+    "end": 335.12,
+    "text": "And this is amazing. Use will to make a",
+    "textdich": ""
+  },
+  {
+    "start": 332.72,
+    "end": 336.88,
+    "text": "promise. You know what else is great",
+    "textdich": ""
+  },
+  {
+    "start": 335.12,
+    "end": 339.6,
+    "text": "about AI?",
+    "textdich": ""
+  },
+  {
+    "start": 336.88,
+    "end": 341.36,
+    "text": "If the book tells you to make a",
+    "textdich": ""
+  },
+  {
+    "start": 339.6,
+    "end": 343.759,
+    "text": "sentence, you would make that sentence,",
+    "textdich": ""
+  },
+  {
+    "start": 341.36,
+    "end": 345.759,
+    "text": "but probably you wouldn't be able to",
+    "textdich": ""
+  },
+  {
+    "start": 343.759,
+    "end": 347.84,
+    "text": "talk to the book and say, \"Hey, book, I",
+    "textdich": ""
+  },
+  {
+    "start": 345.759,
+    "end": 351.28,
+    "text": "made this sentence. Is it correct? But",
+    "textdich": ""
+  },
+  {
+    "start": 347.84,
+    "end": 354.96,
+    "text": "AI will do that for you. That's huge.",
+    "textdich": ""
+  },
+  {
+    "start": 351.28,
+    "end": 357.36,
+    "text": "Now, let's see how the book approaches",
+    "textdich": ""
+  },
+  {
+    "start": 354.96,
+    "end": 360.56,
+    "text": "the same thing. We're going to see if",
+    "textdich": ""
+  },
+  {
+    "start": 357.36,
+    "end": 363.52,
+    "text": "the book has a different way of teaching",
+    "textdich": ""
+  },
+  {
+    "start": 360.56,
+    "end": 365.52,
+    "text": "us grammar. We're going to go to unit",
+    "textdich": ""
+  },
+  {
+    "start": 363.52,
+    "end": 367.6,
+    "text": "two of the book. I know this book very",
+    "textdich": ""
+  },
+  {
+    "start": 365.52,
+    "end": 370.56,
+    "text": "well because I've been teaching it for a",
+    "textdich": ""
+  },
+  {
+    "start": 367.6,
+    "end": 373.199,
+    "text": "quite a while now. And I used to study",
+    "textdich": ""
+  },
+  {
+    "start": 370.56,
+    "end": 375.68,
+    "text": "this book myself back in 2013. This was",
+    "textdich": ""
+  },
+  {
+    "start": 373.199,
+    "end": 378.72,
+    "text": "one of the books that really helped me.",
+    "textdich": ""
+  },
+  {
+    "start": 375.68,
+    "end": 382.4,
+    "text": "I remember that unit two of the you see",
+    "textdich": ""
+  },
+  {
+    "start": 378.72,
+    "end": 385.759,
+    "text": "I've studied this book. Uh unit two of",
+    "textdich": ""
+  },
+  {
+    "start": 382.4,
+    "end": 388.639,
+    "text": "the book was about the future tenses. So",
+    "textdich": ""
+  },
+  {
+    "start": 385.759,
+    "end": 390.96,
+    "text": "we're going to see the approach of the",
+    "textdich": ""
+  },
+  {
+    "start": 388.639,
+    "end": 394.4,
+    "text": "book and then we can compare it to Chad",
+    "textdich": ""
+  },
+  {
+    "start": 390.96,
+    "end": 397.199,
+    "text": "GPT. Right? So here's the thing. The",
+    "textdich": ""
+  },
+  {
+    "start": 394.4,
+    "end": 399.84,
+    "text": "book begins with a couple of images and",
+    "textdich": ""
+  },
+  {
+    "start": 397.199,
+    "end": 402.08,
+    "text": "a speaking task. The book asks you to",
+    "textdich": ""
+  },
+  {
+    "start": 399.84,
+    "end": 404.639,
+    "text": "look at the photos. talk to a partner",
+    "textdich": ""
+  },
+  {
+    "start": 402.08,
+    "end": 406.4,
+    "text": "about these photos and about your",
+    "textdich": ""
+  },
+  {
+    "start": 404.639,
+    "end": 409.28,
+    "text": "expectations.",
+    "textdich": ""
+  },
+  {
+    "start": 406.4,
+    "end": 413.52,
+    "text": "Then there is a a reading task and there",
+    "textdich": ""
+  },
+  {
+    "start": 409.28,
+    "end": 415.28,
+    "text": "is a passage of ABC D four paragraphs.",
+    "textdich": ""
+  },
+  {
+    "start": 413.52,
+    "end": 417.919,
+    "text": "In the passage, this is what I want you",
+    "textdich": ""
+  },
+  {
+    "start": 415.28,
+    "end": 420.96,
+    "text": "to know guys. Within the passage, there",
+    "textdich": ""
+  },
+  {
+    "start": 417.919,
+    "end": 423.68,
+    "text": "are a lot of sentences in the future",
+    "textdich": ""
+  },
+  {
+    "start": 420.96,
+    "end": 425.599,
+    "text": "tense and with different future tenses.",
+    "textdich": ""
+  },
+  {
+    "start": 423.68,
+    "end": 427.599,
+    "text": "Future simple, be going to, future",
+    "textdich": ""
+  },
+  {
+    "start": 425.599,
+    "end": 429.68,
+    "text": "perfect, present simple for future,",
+    "textdich": ""
+  },
+  {
+    "start": 427.599,
+    "end": 432.4,
+    "text": "present continuous for future. Then",
+    "textdich": ""
+  },
+  {
+    "start": 429.68,
+    "end": 435.599,
+    "text": "there is a vocabulary part that teaches",
+    "textdich": ""
+  },
+  {
+    "start": 432.4,
+    "end": 438.319,
+    "text": "collocations with traveler",
+    "textdich": ""
+  },
+  {
+    "start": 435.599,
+    "end": 442.08,
+    "text": "and then discuss with a partner and",
+    "textdich": ""
+  },
+  {
+    "start": 438.319,
+    "end": 445.199,
+    "text": "finally we get to aspect of the future",
+    "textdich": ""
+  },
+  {
+    "start": 442.08,
+    "end": 447.199,
+    "text": "the grammar part. Now why did I mention",
+    "textdich": ""
+  },
+  {
+    "start": 445.199,
+    "end": 449.68,
+    "text": "this? Why did I start from the beginning",
+    "textdich": ""
+  },
+  {
+    "start": 447.199,
+    "end": 451.199,
+    "text": "of the unit and then got to the grammar",
+    "textdich": ""
+  },
+  {
+    "start": 449.68,
+    "end": 453.68,
+    "text": "part? Why did I not just open the",
+    "textdich": ""
+  },
+  {
+    "start": 451.199,
+    "end": 456.479,
+    "text": "grammar part? because",
+    "textdich": ""
+  },
+  {
+    "start": 453.68,
+    "end": 458.56,
+    "text": "u in 2023",
+    "textdich": ""
+  },
+  {
+    "start": 456.479,
+    "end": 460.8,
+    "text": "I attended a course which was called",
+    "textdich": ""
+  },
+  {
+    "start": 458.56,
+    "end": 462.8,
+    "text": "SELTA. Let me explain what SELTA is.",
+    "textdich": ""
+  },
+  {
+    "start": 460.8,
+    "end": 465.919,
+    "text": "Selta is a course designed by Cambridge",
+    "textdich": ""
+  },
+  {
+    "start": 462.8,
+    "end": 468.4,
+    "text": "for teachers of English. I'm an English",
+    "textdich": ""
+  },
+  {
+    "start": 465.919,
+    "end": 471.199,
+    "text": "teacher and I wanted to become certified",
+    "textdich": ""
+  },
+  {
+    "start": 468.4,
+    "end": 473.84,
+    "text": "by Cambridge University. So I took the",
+    "textdich": ""
+  },
+  {
+    "start": 471.199,
+    "end": 477.12,
+    "text": "uh the course and I finished the course",
+    "textdich": ""
+  },
+  {
+    "start": 473.84,
+    "end": 478.879,
+    "text": "with grade A.",
+    "textdich": ""
+  },
+  {
+    "start": 477.12,
+    "end": 481.44,
+    "text": "Past grade A is the highest level of",
+    "textdich": ""
+  },
+  {
+    "start": 478.879,
+    "end": 483.44,
+    "text": "SELTA. Now why did I talk about SELTA?",
+    "textdich": ""
+  },
+  {
+    "start": 481.44,
+    "end": 486.16,
+    "text": "Because in SELTA, one of the things that",
+    "textdich": ""
+  },
+  {
+    "start": 483.44,
+    "end": 489.12,
+    "text": "they tell us as teachers is to not",
+    "textdich": ""
+  },
+  {
+    "start": 486.16,
+    "end": 491.199,
+    "text": "directly jump to the topic of the",
+    "textdich": ""
+  },
+  {
+    "start": 489.12,
+    "end": 493.68,
+    "text": "lesson. So if the lesson is a grammar",
+    "textdich": ""
+  },
+  {
+    "start": 491.199,
+    "end": 497.199,
+    "text": "lesson or a vocabulary lesson, it is",
+    "textdich": ""
+  },
+  {
+    "start": 493.68,
+    "end": 499.36,
+    "text": "completely wrong to start directly",
+    "textdich": ""
+  },
+  {
+    "start": 497.199,
+    "end": 501.52,
+    "text": "teaching that grammar point. That's",
+    "textdich": ""
+  },
+  {
+    "start": 499.36,
+    "end": 503.759,
+    "text": "completely wrong. So what is the right",
+    "textdich": ""
+  },
+  {
+    "start": 501.52,
+    "end": 507.68,
+    "text": "approach? The right approach is what",
+    "textdich": ""
+  },
+  {
+    "start": 503.759,
+    "end": 510.479,
+    "text": "Selta and Cambridge describe as lesson",
+    "textdich": ""
+  },
+  {
+    "start": 507.68,
+    "end": 512.479,
+    "text": "shapes. Now, if the lesson is grammar,",
+    "textdich": ""
+  },
+  {
+    "start": 510.479,
+    "end": 515.44,
+    "text": "the correct approach would be to have a",
+    "textdich": ""
+  },
+  {
+    "start": 512.479,
+    "end": 517.68,
+    "text": "leadin and then to have a gist task and",
+    "textdich": ""
+  },
+  {
+    "start": 515.44,
+    "end": 520.08,
+    "text": "then to have a detail task and then to",
+    "textdich": ""
+  },
+  {
+    "start": 517.68,
+    "end": 522.479,
+    "text": "have a notice in task and finally",
+    "textdich": ""
+  },
+  {
+    "start": 520.08,
+    "end": 524.8,
+    "text": "present the language followed by control",
+    "textdich": ""
+  },
+  {
+    "start": 522.479,
+    "end": 527.279,
+    "text": "practice and freer practice. Now, why am",
+    "textdich": ""
+  },
+  {
+    "start": 524.8,
+    "end": 530.48,
+    "text": "I saying this? I have a point. Stick to",
+    "textdich": ""
+  },
+  {
+    "start": 527.279,
+    "end": 532.08,
+    "text": "the end of my argument. This logical",
+    "textdich": ""
+  },
+  {
+    "start": 530.48,
+    "end": 535.44,
+    "text": "structure",
+    "textdich": ""
+  },
+  {
+    "start": 532.08,
+    "end": 538.48,
+    "text": "is absolutely crucial for you a student",
+    "textdich": ""
+  },
+  {
+    "start": 535.44,
+    "end": 543.36,
+    "text": "of English to understand how the tense",
+    "textdich": ""
+  },
+  {
+    "start": 538.48,
+    "end": 545.12,
+    "text": "is being used in real context. If I jump",
+    "textdich": ""
+  },
+  {
+    "start": 543.36,
+    "end": 547.279,
+    "text": "directly to the grammar point and I",
+    "textdich": ""
+  },
+  {
+    "start": 545.12,
+    "end": 550.0,
+    "text": "explain it to you, you might understand",
+    "textdich": ""
+  },
+  {
+    "start": 547.279,
+    "end": 553.2,
+    "text": "it but it will be hard for you to use",
+    "textdich": ""
+  },
+  {
+    "start": 550.0,
+    "end": 554.56,
+    "text": "it. That's very important guys. But",
+    "textdich": ""
+  },
+  {
+    "start": 553.2,
+    "end": 557.44,
+    "text": "through the lesson shape and through",
+    "textdich": ""
+  },
+  {
+    "start": 554.56,
+    "end": 559.36,
+    "text": "this logical progression of tasks, let's",
+    "textdich": ""
+  },
+  {
+    "start": 557.44,
+    "end": 561.839,
+    "text": "say, you will learn how the grammar",
+    "textdich": ""
+  },
+  {
+    "start": 559.36,
+    "end": 564.48,
+    "text": "point is actually used in context. In",
+    "textdich": ""
+  },
+  {
+    "start": 561.839,
+    "end": 567.68,
+    "text": "what context it's being used, how is it",
+    "textdich": ""
+  },
+  {
+    "start": 564.48,
+    "end": 569.839,
+    "text": "being used? What's the structure? How to",
+    "textdich": ""
+  },
+  {
+    "start": 567.68,
+    "end": 572.16,
+    "text": "use it in sentences in control practice",
+    "textdich": ""
+  },
+  {
+    "start": 569.839,
+    "end": 575.12,
+    "text": "and in freer practice. Now, this is",
+    "textdich": ""
+  },
+  {
+    "start": 572.16,
+    "end": 577.6,
+    "text": "exactly what the book has done. There is",
+    "textdich": ""
+  },
+  {
+    "start": 575.12,
+    "end": 580.48,
+    "text": "a text. In the text, there are sentences",
+    "textdich": ""
+  },
+  {
+    "start": 577.6,
+    "end": 582.48,
+    "text": "with the future tense. You see the text,",
+    "textdich": ""
+  },
+  {
+    "start": 580.48,
+    "end": 585.519,
+    "text": "you see the context. The context is",
+    "textdich": ""
+  },
+  {
+    "start": 582.48,
+    "end": 588.56,
+    "text": "about traveling and then we start with",
+    "textdich": ""
+  },
+  {
+    "start": 585.519,
+    "end": 590.959,
+    "text": "the aspects of the future. So let's see",
+    "textdich": ""
+  },
+  {
+    "start": 588.56,
+    "end": 593.6,
+    "text": "what the book is saying. Now this book",
+    "textdich": ""
+  },
+  {
+    "start": 590.959,
+    "end": 596.64,
+    "text": "has started with a simple explanation.",
+    "textdich": ""
+  },
+  {
+    "start": 593.6,
+    "end": 600.32,
+    "text": "Then there is a reference to pages 178",
+    "textdich": ""
+  },
+  {
+    "start": 596.64,
+    "end": 603.279,
+    "text": "which is the lesson on grammar and then",
+    "textdich": ""
+  },
+  {
+    "start": 600.32,
+    "end": 606.399,
+    "text": "there are certain exercises controlled",
+    "textdich": ""
+  },
+  {
+    "start": 603.279,
+    "end": 608.399,
+    "text": "practice exercises and freer practice.",
+    "textdich": ""
+  },
+  {
+    "start": 606.399,
+    "end": 611.12,
+    "text": "What's the difference? Controlled",
+    "textdich": ""
+  },
+  {
+    "start": 608.399,
+    "end": 614.0,
+    "text": "practice is when you don't produce the",
+    "textdich": ""
+  },
+  {
+    "start": 611.12,
+    "end": 615.68,
+    "text": "entire sentence. You have a sentence.",
+    "textdich": ""
+  },
+  {
+    "start": 614.0,
+    "end": 617.839,
+    "text": "You are given two choices and you have",
+    "textdich": ""
+  },
+  {
+    "start": 615.68,
+    "end": 620.72,
+    "text": "to choose one. This is controlled. It",
+    "textdich": ""
+  },
+  {
+    "start": 617.839,
+    "end": 623.04,
+    "text": "means you do not have to worry about how",
+    "textdich": ""
+  },
+  {
+    "start": 620.72,
+    "end": 625.839,
+    "text": "to structure the sentence. Your only",
+    "textdich": ""
+  },
+  {
+    "start": 623.04,
+    "end": 628.8,
+    "text": "concern is to choose one.",
+    "textdich": ""
+  },
+  {
+    "start": 625.839,
+    "end": 631.44,
+    "text": "Freer practice is like this. The last",
+    "textdich": ""
+  },
+  {
+    "start": 628.8,
+    "end": 634.64,
+    "text": "exercise on this page says",
+    "textdich": ""
+  },
+  {
+    "start": 631.44,
+    "end": 637.279,
+    "text": "using a suitable tense or one of the",
+    "textdich": ""
+  },
+  {
+    "start": 634.64,
+    "end": 639.279,
+    "text": "expressions above. Talk to your partner",
+    "textdich": ""
+  },
+  {
+    "start": 637.279,
+    "end": 641.44,
+    "text": "about the following. So, a topic is",
+    "textdich": ""
+  },
+  {
+    "start": 639.279,
+    "end": 644.48,
+    "text": "given to you. You have to decide what",
+    "textdich": ""
+  },
+  {
+    "start": 641.44,
+    "end": 646.32,
+    "text": "tense to choose and then how to say it,",
+    "textdich": ""
+  },
+  {
+    "start": 644.48,
+    "end": 648.48,
+    "text": "how to make the sentence. You're",
+    "textdich": ""
+  },
+  {
+    "start": 646.32,
+    "end": 650.64,
+    "text": "absolutely free in what you want to say",
+    "textdich": ""
+  },
+  {
+    "start": 648.48,
+    "end": 654.16,
+    "text": "and how you want to say it, but you must",
+    "textdich": ""
+  },
+  {
+    "start": 650.64,
+    "end": 657.279,
+    "text": "use a tense. Now, here's my idea. It",
+    "textdich": ""
+  },
+  {
+    "start": 654.16,
+    "end": 662.079,
+    "text": "might not be a popular opinion but this",
+    "textdich": ""
+  },
+  {
+    "start": 657.279,
+    "end": 667.12,
+    "text": "book which was designed in 2013",
+    "textdich": ""
+  },
+  {
+    "start": 662.079,
+    "end": 670.079,
+    "text": "12 years ago is much better than AI. Now",
+    "textdich": ""
+  },
+  {
+    "start": 667.12,
+    "end": 672.8,
+    "text": "hold on hold on let me explain why is it",
+    "textdich": ""
+  },
+  {
+    "start": 670.079,
+    "end": 675.6,
+    "text": "better. Well the thing is you cannot ask",
+    "textdich": ""
+  },
+  {
+    "start": 672.8,
+    "end": 677.44,
+    "text": "the book to give you more exercises or",
+    "textdich": ""
+  },
+  {
+    "start": 675.6,
+    "end": 681.04,
+    "text": "to produce more exercises or to give you",
+    "textdich": ""
+  },
+  {
+    "start": 677.44,
+    "end": 684.079,
+    "text": "feedback. But the book comes with a",
+    "textdich": ""
+  },
+  {
+    "start": 681.04,
+    "end": 685.839,
+    "text": "structure. That's what AI doesn't have.",
+    "textdich": ""
+  },
+  {
+    "start": 684.079,
+    "end": 689.519,
+    "text": "Let's say you open your laptop, you go",
+    "textdich": ""
+  },
+  {
+    "start": 685.839,
+    "end": 693.68,
+    "text": "to chat GPT, and you say, \"Hey, I want",
+    "textdich": ""
+  },
+  {
+    "start": 689.519,
+    "end": 695.839,
+    "text": "to um learn what what do you want to",
+    "textdich": ""
+  },
+  {
+    "start": 693.68,
+    "end": 698.24,
+    "text": "learn?\" So, you randomly would name a",
+    "textdich": ""
+  },
+  {
+    "start": 695.839,
+    "end": 700.88,
+    "text": "grammar point like, \"I want to learn the",
+    "textdich": ""
+  },
+  {
+    "start": 698.24,
+    "end": 703.2,
+    "text": "past tense.\" Why did you say the past",
+    "textdich": ""
+  },
+  {
+    "start": 700.88,
+    "end": 705.36,
+    "text": "why not the future tense? Why do you",
+    "textdich": ""
+  },
+  {
+    "start": 703.2,
+    "end": 707.68,
+    "text": "want to learn the past tense now? Why",
+    "textdich": ""
+  },
+  {
+    "start": 705.36,
+    "end": 709.68,
+    "text": "don't you want to learn the modal verbs?",
+    "textdich": ""
+  },
+  {
+    "start": 707.68,
+    "end": 711.36,
+    "text": "You see, it becomes kind of random.",
+    "textdich": ""
+  },
+  {
+    "start": 709.68,
+    "end": 713.36,
+    "text": "There is no structure. You're just",
+    "textdich": ""
+  },
+  {
+    "start": 711.36,
+    "end": 715.519,
+    "text": "choosing one topic randomly and then you",
+    "textdich": ""
+  },
+  {
+    "start": 713.36,
+    "end": 720.399,
+    "text": "ask GPT to teach you something in that",
+    "textdich": ""
+  },
+  {
+    "start": 715.519,
+    "end": 722.64,
+    "text": "tense and then what? But with the book",
+    "textdich": ""
+  },
+  {
+    "start": 720.399,
+    "end": 724.56,
+    "text": "starting from unit one, let me show you",
+    "textdich": ""
+  },
+  {
+    "start": 722.64,
+    "end": 727.519,
+    "text": "something. When you're studying with the",
+    "textdich": ""
+  },
+  {
+    "start": 724.56,
+    "end": 730.72,
+    "text": "book, everything is designed in a",
+    "textdich": ""
+  },
+  {
+    "start": 727.519,
+    "end": 733.839,
+    "text": "specific way. So when you start from the",
+    "textdich": ""
+  },
+  {
+    "start": 730.72,
+    "end": 736.88,
+    "text": "first unit and when you go to the end of",
+    "textdich": ""
+  },
+  {
+    "start": 733.839,
+    "end": 739.6,
+    "text": "the book which is the last unit you",
+    "textdich": ""
+  },
+  {
+    "start": 736.88,
+    "end": 741.36,
+    "text": "follow a clear path that is specifically",
+    "textdich": ""
+  },
+  {
+    "start": 739.6,
+    "end": 743.36,
+    "text": "designed for you. You don't have to",
+    "textdich": ""
+  },
+  {
+    "start": 741.36,
+    "end": 746.16,
+    "text": "worry about what grammar I should learn",
+    "textdich": ""
+  },
+  {
+    "start": 743.36,
+    "end": 748.8,
+    "text": "next. What is better to learn after",
+    "textdich": ""
+  },
+  {
+    "start": 746.16,
+    "end": 750.959,
+    "text": "future perfect? Well you don't have to",
+    "textdich": ""
+  },
+  {
+    "start": 748.8,
+    "end": 754.88,
+    "text": "worry about that. The book has already",
+    "textdich": ""
+  },
+  {
+    "start": 750.959,
+    "end": 757.6,
+    "text": "done that for you in 2013",
+    "textdich": ""
+  },
+  {
+    "start": 754.88,
+    "end": 760.24,
+    "text": "12 years ago. But with AI, it's like",
+    "textdich": ""
+  },
+  {
+    "start": 757.6,
+    "end": 762.639,
+    "text": "somebody who knows everything but has no",
+    "textdich": ""
+  },
+  {
+    "start": 760.24,
+    "end": 764.8,
+    "text": "plan or no schedule. There's no",
+    "textdich": ""
+  },
+  {
+    "start": 762.639,
+    "end": 768.16,
+    "text": "structure. That's one of the things",
+    "textdich": ""
+  },
+  {
+    "start": 764.8,
+    "end": 771.68,
+    "text": "which I think is crucial.",
+    "textdich": ""
+  },
+  {
+    "start": 768.16,
+    "end": 774.72,
+    "text": "Books are designed to teach you English.",
+    "textdich": ""
+  },
+  {
+    "start": 771.68,
+    "end": 777.519,
+    "text": "AI knows English but is not designed to",
+    "textdich": ""
+  },
+  {
+    "start": 774.72,
+    "end": 780.079,
+    "text": "be a teacher. However, does it mean that",
+    "textdich": ""
+  },
+  {
+    "start": 777.519,
+    "end": 782.48,
+    "text": "we only have to use a book and not AI?",
+    "textdich": ""
+  },
+  {
+    "start": 780.079,
+    "end": 784.16,
+    "text": "Absolutely not. As you can see, AI does",
+    "textdich": ""
+  },
+  {
+    "start": 782.48,
+    "end": 786.56,
+    "text": "not have the structure that the book",
+    "textdich": ""
+  },
+  {
+    "start": 784.16,
+    "end": 789.839,
+    "text": "has. However,",
+    "textdich": ""
+  },
+  {
+    "start": 786.56,
+    "end": 792.16,
+    "text": "AI is interactive. That means you can",
+    "textdich": ""
+  },
+  {
+    "start": 789.839,
+    "end": 794.399,
+    "text": "ask AI for feedback. You can ask AI to",
+    "textdich": ""
+  },
+  {
+    "start": 792.16,
+    "end": 796.639,
+    "text": "give you more exercises.",
+    "textdich": ""
+  },
+  {
+    "start": 794.399,
+    "end": 798.88,
+    "text": "You can ask AI to correct your",
+    "textdich": ""
+  },
+  {
+    "start": 796.639,
+    "end": 801.279,
+    "text": "sentences. Or if you haven't understood",
+    "textdich": ""
+  },
+  {
+    "start": 798.88,
+    "end": 803.839,
+    "text": "something very well, you can ask AI to",
+    "textdich": ""
+  },
+  {
+    "start": 801.279,
+    "end": 806.16,
+    "text": "clarify. The book cannot do that.",
+    "textdich": ""
+  },
+  {
+    "start": 803.839,
+    "end": 809.36,
+    "text": "However, AI doesn't have the structure",
+    "textdich": ""
+  },
+  {
+    "start": 806.16,
+    "end": 812.8,
+    "text": "of the book. So, I want you to see it",
+    "textdich": ""
+  },
+  {
+    "start": 809.36,
+    "end": 816.0,
+    "text": "like this. It is not a question of which",
+    "textdich": ""
+  },
+  {
+    "start": 812.8,
+    "end": 819.2,
+    "text": "one is better. It's not a question of",
+    "textdich": ""
+  },
+  {
+    "start": 816.0,
+    "end": 822.0,
+    "text": "looking for a substitute. AI is so good",
+    "textdich": ""
+  },
+  {
+    "start": 819.2,
+    "end": 825.04,
+    "text": "that books are now obsolete or books are",
+    "textdich": ""
+  },
+  {
+    "start": 822.0,
+    "end": 828.56,
+    "text": "so good that you shouldn't use AI.",
+    "textdich": ""
+  },
+  {
+    "start": 825.04,
+    "end": 832.48,
+    "text": "I think the correct way to say this is",
+    "textdich": ""
+  },
+  {
+    "start": 828.56,
+    "end": 835.44,
+    "text": "as compliments rather than substitutes.",
+    "textdich": ""
+  },
+  {
+    "start": 832.48,
+    "end": 837.839,
+    "text": "AI with traditional learning",
+    "textdich": ""
+  },
+  {
+    "start": 835.44,
+    "end": 839.68,
+    "text": "together they unlock a lot of",
+    "textdich": ""
+  },
+  {
+    "start": 837.839,
+    "end": 842.72,
+    "text": "potentials. You can do a lot of things",
+    "textdich": ""
+  },
+  {
+    "start": 839.68,
+    "end": 844.24,
+    "text": "that you couldn't do in the past. Now we",
+    "textdich": ""
+  },
+  {
+    "start": 842.72,
+    "end": 846.56,
+    "text": "talked about grammar. How about",
+    "textdich": ""
+  },
+  {
+    "start": 844.24,
+    "end": 850.88,
+    "text": "vocabulary? I think it's exactly the",
+    "textdich": ""
+  },
+  {
+    "start": 846.56,
+    "end": 854.8,
+    "text": "same. You can ask AI to teach me. Here's",
+    "textdich": ""
+  },
+  {
+    "start": 850.88,
+    "end": 857.199,
+    "text": "the prompt. Teach me what? 10",
+    "textdich": ""
+  },
+  {
+    "start": 854.8,
+    "end": 860.399,
+    "text": "collocations",
+    "textdich": ""
+  },
+  {
+    "start": 857.199,
+    "end": 864.32,
+    "text": "about collocations about what?",
+    "textdich": ""
+  },
+  {
+    "start": 860.399,
+    "end": 867.68,
+    "text": "Collocations with with the word",
+    "textdich": ""
+  },
+  {
+    "start": 864.32,
+    "end": 870.32,
+    "text": "job. Before I send the prompt to GPT, I",
+    "textdich": ""
+  },
+  {
+    "start": 867.68,
+    "end": 873.12,
+    "text": "want to tell you one thing. Why am I",
+    "textdich": ""
+  },
+  {
+    "start": 870.32,
+    "end": 877.519,
+    "text": "asking for this? Why collocations with",
+    "textdich": ""
+  },
+  {
+    "start": 873.12,
+    "end": 881.199,
+    "text": "job? That is so random. As you can see,",
+    "textdich": ""
+  },
+  {
+    "start": 877.519,
+    "end": 886.199,
+    "text": "this request is not following any",
+    "textdich": ""
+  },
+  {
+    "start": 881.199,
+    "end": 886.199,
+    "text": "structure. But let's send it.",
+    "textdich": ""
+  },
+  {
+    "start": 886.24,
+    "end": 891.68,
+    "text": "Amazing.",
+    "textdich": ""
+  },
+  {
+    "start": 888.639,
+    "end": 893.76,
+    "text": "Well, fantastic. 10 collocations.",
+    "textdich": ""
+  },
+  {
+    "start": 891.68,
+    "end": 895.36,
+    "text": "Get a job, look for a job, apply for a",
+    "textdich": ""
+  },
+  {
+    "start": 893.76,
+    "end": 896.72,
+    "text": "job, do a job, quit a job, lose a job,",
+    "textdich": ""
+  },
+  {
+    "start": 895.36,
+    "end": 898.48,
+    "text": "part-time job, full-time job, well paid",
+    "textdich": ""
+  },
+  {
+    "start": 896.72,
+    "end": 900.48,
+    "text": "job, dream job. Amazing. This is",
+    "textdich": ""
+  },
+  {
+    "start": 898.48,
+    "end": 903.279,
+    "text": "fantastic, guys. This is fantastic. But",
+    "textdich": ""
+  },
+  {
+    "start": 900.48,
+    "end": 906.24,
+    "text": "again this is so random. First of all,",
+    "textdich": ""
+  },
+  {
+    "start": 903.279,
+    "end": 908.56,
+    "text": "first of all as a teacher from what I",
+    "textdich": ""
+  },
+  {
+    "start": 906.24,
+    "end": 910.32,
+    "text": "have learned from Cambridge",
+    "textdich": ""
+  },
+  {
+    "start": 908.56,
+    "end": 913.36,
+    "text": "you need to follow a lesson shape. That",
+    "textdich": ""
+  },
+  {
+    "start": 910.32,
+    "end": 915.92,
+    "text": "means you shouldn't jump to the topic of",
+    "textdich": ""
+  },
+  {
+    "start": 913.36,
+    "end": 919.279,
+    "text": "that lesson the target language. If the",
+    "textdich": ""
+  },
+  {
+    "start": 915.92,
+    "end": 921.44,
+    "text": "target language is collocations with job",
+    "textdich": ""
+  },
+  {
+    "start": 919.279,
+    "end": 924.8,
+    "text": "you do not start there. You start",
+    "textdich": ""
+  },
+  {
+    "start": 921.44,
+    "end": 928.24,
+    "text": "earlier at the lead in at the gist task",
+    "textdich": ""
+  },
+  {
+    "start": 924.8,
+    "end": 930.32,
+    "text": "at the speaking or writing task and then",
+    "textdich": ""
+  },
+  {
+    "start": 928.24,
+    "end": 931.92,
+    "text": "you have a noticing task in which",
+    "textdich": ""
+  },
+  {
+    "start": 930.32,
+    "end": 935.12,
+    "text": "students would notice the different",
+    "textdich": ""
+  },
+  {
+    "start": 931.92,
+    "end": 937.68,
+    "text": "collocations used and then you have the",
+    "textdich": ""
+  },
+  {
+    "start": 935.12,
+    "end": 939.44,
+    "text": "presentation of the language followed by",
+    "textdich": ""
+  },
+  {
+    "start": 937.68,
+    "end": 944.24,
+    "text": "control practice and freer practice.",
+    "textdich": ""
+  },
+  {
+    "start": 939.44,
+    "end": 946.32,
+    "text": "There is a structure to that jumping",
+    "textdich": ""
+  },
+  {
+    "start": 944.24,
+    "end": 948.399,
+    "text": "directly to the topic. What's wrong with",
+    "textdich": ""
+  },
+  {
+    "start": 946.32,
+    "end": 951.44,
+    "text": "that? Well, I tell you what's wrong with",
+    "textdich": ""
+  },
+  {
+    "start": 948.399,
+    "end": 953.12,
+    "text": "that. You will learn a lot of words but",
+    "textdich": ""
+  },
+  {
+    "start": 951.44,
+    "end": 955.36,
+    "text": "then you will forget them or you won't",
+    "textdich": ""
+  },
+  {
+    "start": 953.12,
+    "end": 956.88,
+    "text": "be able to use them. Let me tell you one",
+    "textdich": ""
+  },
+  {
+    "start": 955.36,
+    "end": 958.639,
+    "text": "more thing. I don't have a dictionary",
+    "textdich": ""
+  },
+  {
+    "start": 956.88,
+    "end": 960.32,
+    "text": "here but do you have a dictionary at",
+    "textdich": ""
+  },
+  {
+    "start": 958.639,
+    "end": 962.48,
+    "text": "home? If you don't have the dictionary",
+    "textdich": ""
+  },
+  {
+    "start": 960.32,
+    "end": 964.0,
+    "text": "book, you can certainly use online",
+    "textdich": ""
+  },
+  {
+    "start": 962.48,
+    "end": 965.6,
+    "text": "dictionaries, right? They're free. You",
+    "textdich": ""
+  },
+  {
+    "start": 964.0,
+    "end": 968.72,
+    "text": "can go to Cambridge dictionary. Let me",
+    "textdich": ""
+  },
+  {
+    "start": 965.6,
+    "end": 970.959,
+    "text": "just show you. You can go to Cambridge",
+    "textdich": ""
+  },
+  {
+    "start": 968.72,
+    "end": 973.44,
+    "text": "dictionary and that's it. Yes, beat",
+    "textdich": ""
+  },
+  {
+    "start": 970.959,
+    "end": 977.68,
+    "text": "around the bush. This is the Cambridge",
+    "textdich": ""
+  },
+  {
+    "start": 973.44,
+    "end": 981.36,
+    "text": "dictionary. Now all of the words in the",
+    "textdich": ""
+  },
+  {
+    "start": 977.68,
+    "end": 984.959,
+    "text": "English language are here. All of the",
+    "textdich": ""
+  },
+  {
+    "start": 981.36,
+    "end": 987.04,
+    "text": "words. So if I have this, why do I need",
+    "textdich": ""
+  },
+  {
+    "start": 984.959,
+    "end": 989.12,
+    "text": "a teacher? Why do I need to go to an",
+    "textdich": ""
+  },
+  {
+    "start": 987.04,
+    "end": 991.44,
+    "text": "English school? Why do I need to",
+    "textdich": ""
+  },
+  {
+    "start": 989.12,
+    "end": 994.48,
+    "text": "register in an online course? Why do I",
+    "textdich": ""
+  },
+  {
+    "start": 991.44,
+    "end": 997.199,
+    "text": "need a book? Why do I need AI in order",
+    "textdich": ""
+  },
+  {
+    "start": 994.48,
+    "end": 999.839,
+    "text": "to learn new words? You have dictionary,",
+    "textdich": ""
+  },
+  {
+    "start": 997.199,
+    "end": 1001.68,
+    "text": "don't you? Use your dictionary. All of",
+    "textdich": ""
+  },
+  {
+    "start": 999.839,
+    "end": 1004.16,
+    "text": "the words are there. Do you see where",
+    "textdich": ""
+  },
+  {
+    "start": 1001.68,
+    "end": 1006.56,
+    "text": "I'm getting at? In the dictionary, you",
+    "textdich": ""
+  },
+  {
+    "start": 1004.16,
+    "end": 1008.32,
+    "text": "have everything, all of the words. But",
+    "textdich": ""
+  },
+  {
+    "start": 1006.56,
+    "end": 1012.16,
+    "text": "why don't you learn new words from your",
+    "textdich": ""
+  },
+  {
+    "start": 1008.32,
+    "end": 1014.0,
+    "text": "dictionary? See, because it's not about",
+    "textdich": ""
+  },
+  {
+    "start": 1012.16,
+    "end": 1016.88,
+    "text": "memorizing the words. It's about",
+    "textdich": ""
+  },
+  {
+    "start": 1014.0,
+    "end": 1019.199,
+    "text": "learning how to use the words. So, you",
+    "textdich": ""
+  },
+  {
+    "start": 1016.88,
+    "end": 1021.759,
+    "text": "need a structure and that's what",
+    "textdich": ""
+  },
+  {
+    "start": 1019.199,
+    "end": 1024.799,
+    "text": "traditional learning provides and that's",
+    "textdich": ""
+  },
+  {
+    "start": 1021.759,
+    "end": 1027.439,
+    "text": "what AI does not provide. However,",
+    "textdich": ""
+  },
+  {
+    "start": 1024.799,
+    "end": 1030.799,
+    "text": "again, do not think in terms of",
+    "textdich": ""
+  },
+  {
+    "start": 1027.439,
+    "end": 1033.679,
+    "text": "substitution. think in terms of how good",
+    "textdich": ""
+  },
+  {
+    "start": 1030.799,
+    "end": 1036.16,
+    "text": "they are together, not which one is",
+    "textdich": ""
+  },
+  {
+    "start": 1033.679,
+    "end": 1038.88,
+    "text": "better than the other. So with a book, I",
+    "textdich": ""
+  },
+  {
+    "start": 1036.16,
+    "end": 1041.039,
+    "text": "can learn new words. With AI, I can",
+    "textdich": ""
+  },
+  {
+    "start": 1038.88,
+    "end": 1043.439,
+    "text": "practice. I can ask AI to make",
+    "textdich": ""
+  },
+  {
+    "start": 1041.039,
+    "end": 1045.199,
+    "text": "sentences. I can write a text and ask AI",
+    "textdich": ""
+  },
+  {
+    "start": 1043.439,
+    "end": 1047.199,
+    "text": "to correct it for me. With the book, I",
+    "textdich": ""
+  },
+  {
+    "start": 1045.199,
+    "end": 1049.919,
+    "text": "cannot do that. So far, we've covered",
+    "textdich": ""
+  },
+  {
+    "start": 1047.199,
+    "end": 1053.12,
+    "text": "grammar and vocabulary. And I think it",
+    "textdich": ""
+  },
+  {
+    "start": 1049.919,
+    "end": 1056.32,
+    "text": "was obvious that the book is a much",
+    "textdich": ""
+  },
+  {
+    "start": 1053.12,
+    "end": 1058.96,
+    "text": "better starting point. But after",
+    "textdich": ""
+  },
+  {
+    "start": 1056.32,
+    "end": 1062.48,
+    "text": "studying with the book, it's an amazing",
+    "textdich": ""
+  },
+  {
+    "start": 1058.96,
+    "end": 1064.24,
+    "text": "idea to go to AI, use any AI models,",
+    "textdich": ""
+  },
+  {
+    "start": 1062.48,
+    "end": 1068.08,
+    "text": "GPT5,",
+    "textdich": ""
+  },
+  {
+    "start": 1064.24,
+    "end": 1071.36,
+    "text": "uh what are the other ones? Uh Gemini or",
+    "textdich": ""
+  },
+  {
+    "start": 1068.08,
+    "end": 1073.919,
+    "text": "any other AI models and to use them as",
+    "textdich": ""
+  },
+  {
+    "start": 1071.36,
+    "end": 1078.64,
+    "text": "further practice tools.",
+    "textdich": ""
+  },
+  {
+    "start": 1073.919,
+    "end": 1081.2,
+    "text": " Oh yeah. Damn. Damn boy. Damn boy. But",
+    "textdich": ""
+  },
+  {
+    "start": 1078.64,
+    "end": 1083.039,
+    "text": "there is something that has been",
+    "textdich": ""
+  },
+  {
+    "start": 1081.2,
+    "end": 1086.799,
+    "text": "revolutionized",
+    "textdich": ""
+  },
+  {
+    "start": 1083.039,
+    "end": 1089.679,
+    "text": "by AI and that is how to learn and how",
+    "textdich": ""
+  },
+  {
+    "start": 1086.799,
+    "end": 1092.88,
+    "text": "to practice your productive skills.",
+    "textdich": ""
+  },
+  {
+    "start": 1089.679,
+    "end": 1096.0,
+    "text": "Wait, what are productive skills? You",
+    "textdich": ""
+  },
+  {
+    "start": 1092.88,
+    "end": 1098.559,
+    "text": "see in English we have four main skills.",
+    "textdich": ""
+  },
+  {
+    "start": 1096.0,
+    "end": 1100.559,
+    "text": "Reading, writing, speaking and",
+    "textdich": ""
+  },
+  {
+    "start": 1098.559,
+    "end": 1102.64,
+    "text": "listening. These are the four main",
+    "textdich": ""
+  },
+  {
+    "start": 1100.559,
+    "end": 1106.48,
+    "text": "skills of English and any other",
+    "textdich": ""
+  },
+  {
+    "start": 1102.64,
+    "end": 1109.36,
+    "text": "languages. Now two of these skills are",
+    "textdich": ""
+  },
+  {
+    "start": 1106.48,
+    "end": 1111.6,
+    "text": "productive. Two of them are receptive.",
+    "textdich": ""
+  },
+  {
+    "start": 1109.36,
+    "end": 1114.72,
+    "text": "What are the receptive skills? Reading",
+    "textdich": ""
+  },
+  {
+    "start": 1111.6,
+    "end": 1117.84,
+    "text": "and listening. What does it mean? It",
+    "textdich": ""
+  },
+  {
+    "start": 1114.72,
+    "end": 1121.36,
+    "text": "means you are receiving the information",
+    "textdich": ""
+  },
+  {
+    "start": 1117.84,
+    "end": 1123.919,
+    "text": "in a reading text in a passage. The text",
+    "textdich": ""
+  },
+  {
+    "start": 1121.36,
+    "end": 1126.24,
+    "text": "is already there. Everything is there.",
+    "textdich": ""
+  },
+  {
+    "start": 1123.919,
+    "end": 1128.88,
+    "text": "You can see that you don't have to",
+    "textdich": ""
+  },
+  {
+    "start": 1126.24,
+    "end": 1132.64,
+    "text": "produce anything. You just read the",
+    "textdich": ""
+  },
+  {
+    "start": 1128.88,
+    "end": 1134.799,
+    "text": "text. You extract the information",
+    "textdich": ""
+  },
+  {
+    "start": 1132.64,
+    "end": 1137.6,
+    "text": "with a listening task. The same thing",
+    "textdich": ""
+  },
+  {
+    "start": 1134.799,
+    "end": 1139.36,
+    "text": "happens. The audio file is there. There",
+    "textdich": ""
+  },
+  {
+    "start": 1137.6,
+    "end": 1142.08,
+    "text": "are some questions. You listen, you",
+    "textdich": ""
+  },
+  {
+    "start": 1139.36,
+    "end": 1145.679,
+    "text": "extract the information and then you do",
+    "textdich": ""
+  },
+  {
+    "start": 1142.08,
+    "end": 1147.2,
+    "text": "the tasks. But the other two skills,",
+    "textdich": ""
+  },
+  {
+    "start": 1145.679,
+    "end": 1149.44,
+    "text": "speaking and writing, these are",
+    "textdich": ""
+  },
+  {
+    "start": 1147.2,
+    "end": 1151.679,
+    "text": "productive skills. That means nothing is",
+    "textdich": ""
+  },
+  {
+    "start": 1149.44,
+    "end": 1154.559,
+    "text": "produced for you. You have to produce",
+    "textdich": ""
+  },
+  {
+    "start": 1151.679,
+    "end": 1156.4,
+    "text": "everything yourself. In a writing task,",
+    "textdich": ""
+  },
+  {
+    "start": 1154.559,
+    "end": 1158.799,
+    "text": "you have to write the entire text",
+    "textdich": ""
+  },
+  {
+    "start": 1156.4,
+    "end": 1161.44,
+    "text": "yourself. In a speaking task, you have",
+    "textdich": ""
+  },
+  {
+    "start": 1158.799,
+    "end": 1163.84,
+    "text": "to speak. There is nothing given to you.",
+    "textdich": ""
+  },
+  {
+    "start": 1161.44,
+    "end": 1166.32,
+    "text": "Maybe a Q card, maybe a question, maybe",
+    "textdich": ""
+  },
+  {
+    "start": 1163.84,
+    "end": 1169.6,
+    "text": "a riddle, but you have to produce",
+    "textdich": ""
+  },
+  {
+    "start": 1166.32,
+    "end": 1171.6,
+    "text": "everything yourself. Here's the thing.",
+    "textdich": ""
+  },
+  {
+    "start": 1169.6,
+    "end": 1174.0,
+    "text": "Books and generally speaking,",
+    "textdich": ""
+  },
+  {
+    "start": 1171.6,
+    "end": 1176.799,
+    "text": "traditional learning methods are amazing",
+    "textdich": ""
+  },
+  {
+    "start": 1174.0,
+    "end": 1180.4,
+    "text": "for receptive tasks, for reading, and",
+    "textdich": ""
+  },
+  {
+    "start": 1176.799,
+    "end": 1183.36,
+    "text": "for listening. However, AI has",
+    "textdich": ""
+  },
+  {
+    "start": 1180.4,
+    "end": 1186.64,
+    "text": "revolutionized English learning. For",
+    "textdich": ""
+  },
+  {
+    "start": 1183.36,
+    "end": 1188.88,
+    "text": "productive tasks, speaking and writing.",
+    "textdich": ""
+  },
+  {
+    "start": 1186.64,
+    "end": 1191.12,
+    "text": "Ordinarily, if you want someone to give",
+    "textdich": ""
+  },
+  {
+    "start": 1188.88,
+    "end": 1193.76,
+    "text": "you feedback on your spoken or written",
+    "textdich": ""
+  },
+  {
+    "start": 1191.12,
+    "end": 1195.919,
+    "text": "English, you need to pay and have a",
+    "textdich": ""
+  },
+  {
+    "start": 1193.76,
+    "end": 1197.76,
+    "text": "teacher. You need to join an institute,",
+    "textdich": ""
+  },
+  {
+    "start": 1195.919,
+    "end": 1200.48,
+    "text": "you need to get a one-to-one class with",
+    "textdich": ""
+  },
+  {
+    "start": 1197.76,
+    "end": 1202.88,
+    "text": "a teacher, you need to pay money. But",
+    "textdich": ""
+  },
+  {
+    "start": 1200.48,
+    "end": 1204.48,
+    "text": "with AI, you don't need to do that.",
+    "textdich": ""
+  },
+  {
+    "start": 1202.88,
+    "end": 1208.48,
+    "text": "That's something that books cannot do,",
+    "textdich": ""
+  },
+  {
+    "start": 1204.48,
+    "end": 1210.48,
+    "text": "but AI can. I can simply go to chat GPT.",
+    "textdich": ""
+  },
+  {
+    "start": 1208.48,
+    "end": 1213.52,
+    "text": "Let's do this together. And I want to",
+    "textdich": ""
+  },
+  {
+    "start": 1210.48,
+    "end": 1217.44,
+    "text": "practice my writing skill. About the",
+    "textdich": ""
+  },
+  {
+    "start": 1213.52,
+    "end": 1219.84,
+    "text": "same thing. Here's the beauty of AI.",
+    "textdich": ""
+  },
+  {
+    "start": 1217.44,
+    "end": 1222.32,
+    "text": "First, I started by the future tenses.",
+    "textdich": ""
+  },
+  {
+    "start": 1219.84,
+    "end": 1224.88,
+    "text": "Then I continued with collocations with",
+    "textdich": ""
+  },
+  {
+    "start": 1222.32,
+    "end": 1227.919,
+    "text": "job. I want to mix the two in a writing",
+    "textdich": ""
+  },
+  {
+    "start": 1224.88,
+    "end": 1233.12,
+    "text": "task. So, here's a simple prompt.",
+    "textdich": ""
+  },
+  {
+    "start": 1227.919,
+    "end": 1238.72,
+    "text": "Use the future tenses plus",
+    "textdich": ""
+  },
+  {
+    "start": 1233.12,
+    "end": 1244.32,
+    "text": "the collocations with job and give me a",
+    "textdich": ""
+  },
+  {
+    "start": 1238.72,
+    "end": 1246.24,
+    "text": "topic to write a text about.",
+    "textdich": ""
+  },
+  {
+    "start": 1244.32,
+    "end": 1248.24,
+    "text": "Sorry for the spelling mistake, but it",
+    "textdich": ""
+  },
+  {
+    "start": 1246.24,
+    "end": 1250.88,
+    "text": "doesn't matter because I can already",
+    "textdich": ""
+  },
+  {
+    "start": 1248.24,
+    "end": 1254.4,
+    "text": "understand what you want to say. Uh, so",
+    "textdich": ""
+  },
+  {
+    "start": 1250.88,
+    "end": 1257.76,
+    "text": "here here are a few suggestions.",
+    "textdich": ""
+  },
+  {
+    "start": 1254.4,
+    "end": 1260.4,
+    "text": "topic for your writing, my future career",
+    "textdich": ""
+  },
+  {
+    "start": 1257.76,
+    "end": 1262.96,
+    "text": "plans. You see the future tense with the",
+    "textdich": ""
+  },
+  {
+    "start": 1260.4,
+    "end": 1265.2,
+    "text": "collocations of job, my future career",
+    "textdich": ""
+  },
+  {
+    "start": 1262.96,
+    "end": 1267.6,
+    "text": "plans. And now it's amazing. I I mean",
+    "textdich": ""
+  },
+  {
+    "start": 1265.2,
+    "end": 1269.919,
+    "text": "there are a few ideas here which well I",
+    "textdich": ""
+  },
+  {
+    "start": 1267.6,
+    "end": 1272.72,
+    "text": "I don't want to look at your task.",
+    "textdich": ""
+  },
+  {
+    "start": 1269.919,
+    "end": 1274.799,
+    "text": "Here's your task. Write a short text,",
+    "textdich": ""
+  },
+  {
+    "start": 1272.72,
+    "end": 1276.96,
+    "text": "eight to 10 sentences on my future",
+    "textdich": ""
+  },
+  {
+    "start": 1274.799,
+    "end": 1279.679,
+    "text": "career plans using at least five",
+    "textdich": ""
+  },
+  {
+    "start": 1276.96,
+    "end": 1281.84,
+    "text": "different future tenses and some of the",
+    "textdich": ""
+  },
+  {
+    "start": 1279.679,
+    "end": 1283.76,
+    "text": "job collocations above. This is",
+    "textdich": ""
+  },
+  {
+    "start": 1281.84,
+    "end": 1286.4,
+    "text": "fantastic. You can write a text and you",
+    "textdich": ""
+  },
+  {
+    "start": 1283.76,
+    "end": 1289.6,
+    "text": "can ask AI to give you feedback. This is",
+    "textdich": ""
+  },
+  {
+    "start": 1286.4,
+    "end": 1291.919,
+    "text": "something that a book cannot do. This is",
+    "textdich": ""
+  },
+  {
+    "start": 1289.6,
+    "end": 1294.0,
+    "text": "something that would be really costly if",
+    "textdich": ""
+  },
+  {
+    "start": 1291.919,
+    "end": 1295.679,
+    "text": "you wanted to do this with a teacher.",
+    "textdich": ""
+  },
+  {
+    "start": 1294.0,
+    "end": 1299.12,
+    "text": "But with AI, you can do this for free.",
+    "textdich": ""
+  },
+  {
+    "start": 1295.679,
+    "end": 1302.159,
+    "text": "Now, this is for your writing task. How",
+    "textdich": ""
+  },
+  {
+    "start": 1299.12,
+    "end": 1304.32,
+    "text": "about speaking? Well, AI can also help",
+    "textdich": ""
+  },
+  {
+    "start": 1302.159,
+    "end": 1308.08,
+    "text": "you with that. However, usually you",
+    "textdich": ""
+  },
+  {
+    "start": 1304.32,
+    "end": 1309.679,
+    "text": "would need to have a paid plan of I",
+    "textdich": ""
+  },
+  {
+    "start": 1308.08,
+    "end": 1314.64,
+    "text": "think you need to have the paid plan of",
+    "textdich": ""
+  },
+  {
+    "start": 1309.679,
+    "end": 1318.48,
+    "text": "GPT. I read somewhere that with GPT5,",
+    "textdich": ""
+  },
+  {
+    "start": 1314.64,
+    "end": 1320.88,
+    "text": "the advanced voice mode is now for free",
+    "textdich": ""
+  },
+  {
+    "start": 1318.48,
+    "end": 1323.12,
+    "text": "for everyone. I'm not sure. Go ahead and",
+    "textdich": ""
+  },
+  {
+    "start": 1320.88,
+    "end": 1325.36,
+    "text": "test it. I have the pro version of Chad",
+    "textdich": ""
+  },
+  {
+    "start": 1323.12,
+    "end": 1328.32,
+    "text": "GPT and I'm going to use that pro",
+    "textdich": ""
+  },
+  {
+    "start": 1325.36,
+    "end": 1329.76,
+    "text": "version to practice speaking. Right. All",
+    "textdich": ""
+  },
+  {
+    "start": 1328.32,
+    "end": 1331.919,
+    "text": "right. I'm going to use the pro version",
+    "textdich": ""
+  },
+  {
+    "start": 1329.76,
+    "end": 1335.6,
+    "text": "of Chad GPT",
+    "textdich": ""
+  },
+  {
+    "start": 1331.919,
+    "end": 1341.919,
+    "text": "and we're going to speak with it.",
+    "textdich": ""
+  },
+  {
+    "start": 1335.6,
+    "end": 1341.919,
+    "text": "Um, let me open GPT here. There it is.",
+    "textdich": ""
+  },
+  {
+    "start": 1343.76,
+    "end": 1349.76,
+    "text": "Okay, let's start. We go to the advanced",
+    "textdich": ""
+  },
+  {
+    "start": 1345.919,
+    "end": 1353.2,
+    "text": "mode. Hello, I'm a student and I want to",
+    "textdich": ""
+  },
+  {
+    "start": 1349.76,
+    "end": 1356.08,
+    "text": "practice speaking English with you. Can",
+    "textdich": ""
+  },
+  {
+    "start": 1353.2,
+    "end": 1358.0,
+    "text": "you help me?",
+    "textdich": ""
+  },
+  {
+    "start": 1356.08,
+    "end": 1359.84,
+    "text": " Absolutely. I'd be happy to help you",
+    "textdich": ""
+  },
+  {
+    "start": 1358.0,
+    "end": 1361.28,
+    "text": "practice speaking English. Just let me",
+    "textdich": ""
+  },
+  {
+    "start": 1359.84,
+    "end": 1363.28,
+    "text": "know what you like to talk about or if",
+    "textdich": ""
+  },
+  {
+    "start": 1361.28,
+    "end": 1366.559,
+    "text": "you have any specific topics in mind and",
+    "textdich": ""
+  },
+  {
+    "start": 1363.28,
+    "end": 1370.799,
+    "text": "we can start chatting. Yes, my lesson is",
+    "textdich": ""
+  },
+  {
+    "start": 1366.559,
+    "end": 1374.64,
+    "text": "about the future tenses and also",
+    "textdich": ""
+  },
+  {
+    "start": 1370.799,
+    "end": 1376.88,
+    "text": "collocations with job. Ask me some",
+    "textdich": ""
+  },
+  {
+    "start": 1374.64,
+    "end": 1378.64,
+    "text": "questions.",
+    "textdich": ""
+  },
+  {
+    "start": 1376.88,
+    "end": 1380.559,
+    "text": " Of course, let's practice those",
+    "textdich": ""
+  },
+  {
+    "start": 1378.64,
+    "end": 1382.88,
+    "text": "together. I'll ask you a few questions",
+    "textdich": ""
+  },
+  {
+    "start": 1380.559,
+    "end": 1385.12,
+    "text": "using future tenses and those.",
+    "textdich": ""
+  },
+  {
+    "start": 1382.88,
+    "end": 1387.2,
+    "text": " This is fantastic. Oh my god, I",
+    "textdich": ""
+  },
+  {
+    "start": 1385.12,
+    "end": 1390.0,
+    "text": "interrupted it. But as you can see, this",
+    "textdich": ""
+  },
+  {
+    "start": 1387.2,
+    "end": 1391.76,
+    "text": "is huge. This has revolutionized",
+    "textdich": ""
+  },
+  {
+    "start": 1390.0,
+    "end": 1393.44,
+    "text": "language learning. I think that's enough",
+    "textdich": ""
+  },
+  {
+    "start": 1391.76,
+    "end": 1396.08,
+    "text": "for this video. Let me summarize",
+    "textdich": ""
+  },
+  {
+    "start": 1393.44,
+    "end": 1398.96,
+    "text": "everything. I think AI is amazing, but",
+    "textdich": ""
+  },
+  {
+    "start": 1396.08,
+    "end": 1401.679,
+    "text": "it's not a great tool to start with.",
+    "textdich": ""
+  },
+  {
+    "start": 1398.96,
+    "end": 1404.24,
+    "text": "It's an amazing tool to practice with.",
+    "textdich": ""
+  },
+  {
+    "start": 1401.679,
+    "end": 1406.4,
+    "text": "But if you want real learning, go with",
+    "textdich": ""
+  },
+  {
+    "start": 1404.24,
+    "end": 1409.36,
+    "text": "traditional learning methods. Go to a",
+    "textdich": ""
+  },
+  {
+    "start": 1406.4,
+    "end": 1411.44,
+    "text": "classroom, register in an online course,",
+    "textdich": ""
+  },
+  {
+    "start": 1409.36,
+    "end": 1413.12,
+    "text": "go to a language institute. Maybe you",
+    "textdich": ""
+  },
+  {
+    "start": 1411.44,
+    "end": 1414.64,
+    "text": "have something nearby and you can go",
+    "textdich": ""
+  },
+  {
+    "start": 1413.12,
+    "end": 1417.44,
+    "text": "there and you can register and you can",
+    "textdich": ""
+  },
+  {
+    "start": 1414.64,
+    "end": 1420.4,
+    "text": "attend lessons in person. Or if you know",
+    "textdich": ""
+  },
+  {
+    "start": 1417.44,
+    "end": 1423.36,
+    "text": "a teacher apart from me",
+    "textdich": ""
+  },
+  {
+    "start": 1420.4,
+    "end": 1425.12,
+    "text": "uh to learn English, you can register in",
+    "textdich": ""
+  },
+  {
+    "start": 1423.36,
+    "end": 1427.039,
+    "text": "their courses, you can register in their",
+    "textdich": ""
+  },
+  {
+    "start": 1425.12,
+    "end": 1428.64,
+    "text": "academy or you can ask for a one-to-one",
+    "textdich": ""
+  },
+  {
+    "start": 1427.039,
+    "end": 1431.919,
+    "text": "lesson. Alternatively, you can",
+    "textdich": ""
+  },
+  {
+    "start": 1428.64,
+    "end": 1433.679,
+    "text": "self-study at home using um course",
+    "textdich": ""
+  },
+  {
+    "start": 1431.919,
+    "end": 1437.679,
+    "text": "books.",
+    "textdich": ""
+  },
+  {
+    "start": 1433.679,
+    "end": 1440.96,
+    "text": "But after you do this, make sure you",
+    "textdich": ""
+  },
+  {
+    "start": 1437.679,
+    "end": 1443.039,
+    "text": "open Chad GPT or any other AI model and",
+    "textdich": ""
+  },
+  {
+    "start": 1440.96,
+    "end": 1445.76,
+    "text": "you practice with it and you ask for",
+    "textdich": ""
+  },
+  {
+    "start": 1443.039,
+    "end": 1448.72,
+    "text": "feedback. Make sure you practice writing",
+    "textdich": ""
+  },
+  {
+    "start": 1445.76,
+    "end": 1451.279,
+    "text": "and speaking with AI. Make sure you",
+    "textdich": ""
+  },
+  {
+    "start": 1448.72,
+    "end": 1453.84,
+    "text": "don't see AI as a replacement for",
+    "textdich": ""
+  },
+  {
+    "start": 1451.279,
+    "end": 1455.76,
+    "text": "traditional learning, but you see it as",
+    "textdich": ""
+  },
+  {
+    "start": 1453.84,
+    "end": 1458.72,
+    "text": "a compliment. You see it as something",
+    "textdich": ""
+  },
+  {
+    "start": 1455.76,
+    "end": 1461.279,
+    "text": "that can make it even better. Now, this",
+    "textdich": ""
+  },
+  {
+    "start": 1458.72,
+    "end": 1463.679,
+    "text": "was the first video of a series of",
+    "textdich": ""
+  },
+  {
+    "start": 1461.279,
+    "end": 1467.039,
+    "text": "videos I'm going to make on the topic of",
+    "textdich": ""
+  },
+  {
+    "start": 1463.679,
+    "end": 1469.36,
+    "text": "the uses of AI and the latest technology",
+    "textdich": ""
+  },
+  {
+    "start": 1467.039,
+    "end": 1471.2,
+    "text": "in learning a language, specifically",
+    "textdich": ""
+  },
+  {
+    "start": 1469.36,
+    "end": 1473.039,
+    "text": "English. I'm going to make a new",
+    "textdich": ""
+  },
+  {
+    "start": 1471.2,
+    "end": 1474.64,
+    "text": "playlist. I'm going to make a lot of",
+    "textdich": ""
+  },
+  {
+    "start": 1473.039,
+    "end": 1476.72,
+    "text": "more interesting, exciting, and",
+    "textdich": ""
+  },
+  {
+    "start": 1474.64,
+    "end": 1478.559,
+    "text": "mind-blowing lessons for you guys. So,",
+    "textdich": ""
+  },
+  {
+    "start": 1476.72,
+    "end": 1480.48,
+    "text": "if you don't want to miss them, make",
+    "textdich": ""
+  },
+  {
+    "start": 1478.559,
+    "end": 1482.559,
+    "text": "sure you subscribe to my channel and",
+    "textdich": ""
+  },
+  {
+    "start": 1480.48,
+    "end": 1484.24,
+    "text": "turn on notifications. Also, if you",
+    "textdich": ""
+  },
+  {
+    "start": 1482.559,
+    "end": 1486.159,
+    "text": "enjoyed this lesson, don't forget to",
+    "textdich": ""
+  },
+  {
+    "start": 1484.24,
+    "end": 1488.72,
+    "text": "give it a thumbs up and let me know what",
+    "textdich": ""
+  },
+  {
+    "start": 1486.159,
+    "end": 1490.4,
+    "text": "you think about AI and how you have used",
+    "textdich": ""
+  },
+  {
+    "start": 1488.72,
+    "end": 1492.799,
+    "text": "it in the past and share your",
+    "textdich": ""
+  },
+  {
+    "start": 1490.4,
+    "end": 1496.6,
+    "text": "experiences in the comment section down",
+    "textdich": ""
+  },
+  {
+    "start": 1492.799,
+    "end": 1496.6,
+    "text": "below. See you.",
+    "textdich": ""
+  }
+]
