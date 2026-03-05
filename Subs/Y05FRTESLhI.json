@@ -1,0 +1,737 @@
+[
+  {
+    "start": 0.64,
+    "end": 7.96,
+    "text": "Wow,"
+  },
+  {
+    "start": 2.48,
+    "end": 7.96,
+    "text": "the airport is huge today."
+  },
+  {
+    "start": 9.519,
+    "end": 15.96,
+    "text": "I am so excited to go to America."
+  },
+  {
+    "start": 17.359,
+    "end": 22.039,
+    "text": "I hope my flight goes smoothly."
+  },
+  {
+    "start": 25.76,
+    "end": 32.96,
+    "text": "My passport and ticket are ready. Excuse"
+  },
+  {
+    "start": 31.039,
+    "end": 34.239,
+    "text": "me. Can you tell me where the check-in"
+  },
+  {
+    "start": 32.96,
+    "end": 36.96,
+    "text": "counter is?"
+  },
+  {
+    "start": 34.239,
+    "end": 40.0,
+    "text": ">> Sure. Go straight and take a left."
+  },
+  {
+    "start": 36.96,
+    "end": 43.2,
+    "text": "You'll see counters 20 to 25."
+  },
+  {
+    "start": 40.0,
+    "end": 46.239,
+    "text": ">> Thank you so much. You're welcome. Have"
+  },
+  {
+    "start": 43.2,
+    "end": 48.879,
+    "text": "a good trip."
+  },
+  {
+    "start": 46.239,
+    "end": 51.92,
+    "text": ">> I will. Thanks."
+  },
+  {
+    "start": 48.879,
+    "end": 52.879,
+    "text": ">> Hello. May I see your passport and"
+  },
+  {
+    "start": 51.92,
+    "end": 56.0,
+    "text": "ticket?"
+  },
+  {
+    "start": 52.879,
+    "end": 58.079,
+    "text": ">> Yes, here they are."
+  },
+  {
+    "start": 56.0,
+    "end": 59.359,
+    "text": "Are you traveling for business or"
+  },
+  {
+    "start": 58.079,
+    "end": 61.12,
+    "text": "holiday?"
+  },
+  {
+    "start": 59.359,
+    "end": 65.04,
+    "text": ">> Holiday."
+  },
+  {
+    "start": 61.12,
+    "end": 69.119,
+    "text": "My first trip to America."
+  },
+  {
+    "start": 65.04,
+    "end": 69.68,
+    "text": ">> Great. Any checked bags?"
+  },
+  {
+    "start": 69.119,
+    "end": 72.159,
+    "text": ">> Just one."
+  },
+  {
+    "start": 69.68,
+    "end": 76.36,
+    "text": ">> Just one."
+  },
+  {
+    "start": 72.159,
+    "end": 76.36,
+    "text": ">> Place it on the scale, please."
+  },
+  {
+    "start": 76.4,
+    "end": 80.96,
+    "text": ">> Okay."
+  },
+  {
+    "start": 79.119,
+    "end": 83.84,
+    "text": "Is it okay?"
+  },
+  {
+    "start": 80.96,
+    "end": 86.24,
+    "text": ">> Perfect. Here's your boarding pass. Your"
+  },
+  {
+    "start": 83.84,
+    "end": 89.96,
+    "text": "gate is 22."
+  },
+  {
+    "start": 86.24,
+    "end": 89.96,
+    "text": ">> Thank you very much."
+  },
+  {
+    "start": 90.32,
+    "end": 94.079,
+    "text": ">> Hi."
+  },
+  {
+    "start": 92.0,
+    "end": 97.96,
+    "text": ">> Is this seat free?"
+  },
+  {
+    "start": 94.079,
+    "end": 97.96,
+    "text": ">> Yes, please sit."
+  },
+  {
+    "start": 100.0,
+    "end": 104.72,
+    "text": ">> Thank you."
+  },
+  {
+    "start": 102.32,
+    "end": 106.32,
+    "text": ">> Are you going to America, too?"
+  },
+  {
+    "start": 104.72,
+    "end": 108.24,
+    "text": ">> Yes."
+  },
+  {
+    "start": 106.32,
+    "end": 111.439,
+    "text": ">> First time?"
+  },
+  {
+    "start": 108.24,
+    "end": 113.84,
+    "text": ">> Yes. I'm so excited."
+  },
+  {
+    "start": 111.439,
+    "end": 116.88,
+    "text": ">> Me, too."
+  },
+  {
+    "start": 113.84,
+    "end": 118.64,
+    "text": "Which city are you visiting first?"
+  },
+  {
+    "start": 116.88,
+    "end": 123.32,
+    "text": ">> The city center."
+  },
+  {
+    "start": 118.64,
+    "end": 123.32,
+    "text": ">> That's a great place to start."
+  },
+  {
+    "start": 124.799,
+    "end": 128.959,
+    "text": ">> I think I'll get a coffee before"
+  },
+  {
+    "start": 126.64,
+    "end": 130.959,
+    "text": "boarding."
+  },
+  {
+    "start": 128.959,
+    "end": 134.72,
+    "text": ">> Good idea."
+  },
+  {
+    "start": 130.959,
+    "end": 138.599,
+    "text": "I need something warm, too."
+  },
+  {
+    "start": 134.72,
+    "end": 138.599,
+    "text": ">> Do you travel often?"
+  },
+  {
+    "start": 138.64,
+    "end": 143.68,
+    "text": ">> Sometimes."
+  },
+  {
+    "start": 140.319,
+    "end": 147.76,
+    "text": "I love exploring new places."
+  },
+  {
+    "start": 143.68,
+    "end": 149.44,
+    "text": ">> Me, too. That's why I chose America."
+  },
+  {
+    "start": 147.76,
+    "end": 153.36,
+    "text": "Did I?"
+  },
+  {
+    "start": 149.44,
+    "end": 156.4,
+    "text": ">> You'll have so much fun."
+  },
+  {
+    "start": 153.36,
+    "end": 158.56,
+    "text": ">> Flight 405 to America will begin"
+  },
+  {
+    "start": 156.4,
+    "end": 161.599,
+    "text": "boarding shortly."
+  },
+  {
+    "start": 158.56,
+    "end": 162.72,
+    "text": ">> Finally, it's almost time. Ready for"
+  },
+  {
+    "start": 161.599,
+    "end": 165.72,
+    "text": "boarding?"
+  },
+  {
+    "start": 162.72,
+    "end": 165.72,
+    "text": ">> Yes."
+  },
+  {
+    "start": 168.08,
+    "end": 171.92,
+    "text": "I hope my seat is comfortable."
+  },
+  {
+    "start": 170.56,
+    "end": 174.959,
+    "text": ">> Me, too."
+  },
+  {
+    "start": 171.92,
+    "end": 177.959,
+    "text": ">> May I see your boarding pass? Here you"
+  },
+  {
+    "start": 174.959,
+    "end": 177.959,
+    "text": "go."
+  },
+  {
+    "start": 180.8,
+    "end": 187.599,
+    "text": ">> Seat 14A. Welcome aboard."
+  },
+  {
+    "start": 184.4,
+    "end": 191.04,
+    "text": "Thank you."
+  },
+  {
+    "start": 187.599,
+    "end": 192.959,
+    "text": ">> This plane is so big."
+  },
+  {
+    "start": 191.04,
+    "end": 195.76,
+    "text": ">> It is."
+  },
+  {
+    "start": 192.959,
+    "end": 199.519,
+    "text": "I hope the flight is smooth."
+  },
+  {
+    "start": 195.76,
+    "end": 201.04,
+    "text": "Hi. Is this your first long flight?"
+  },
+  {
+    "start": 199.519,
+    "end": 204.68,
+    "text": ">> Yes."
+  },
+  {
+    "start": 201.04,
+    "end": 204.68,
+    "text": "How about you?"
+  },
+  {
+    "start": 206.319,
+    "end": 211.519,
+    "text": ">> First long flight, too. I'm excited and"
+  },
+  {
+    "start": 210.159,
+    "end": 215.76,
+    "text": "nervous."
+  },
+  {
+    "start": 211.519,
+    "end": 220.28,
+    "text": ">> Me, too. I hope everything goes well."
+  },
+  {
+    "start": 215.76,
+    "end": 220.28,
+    "text": "The crew looks very nice."
+  },
+  {
+    "start": 221.92,
+    "end": 228.08,
+    "text": ">> Would anyone like food or drinks? Yes."
+  },
+  {
+    "start": 225.12,
+    "end": 231.64,
+    "text": "Food, please."
+  },
+  {
+    "start": 228.08,
+    "end": 231.64,
+    "text": "I'll have juice."
+  },
+  {
+    "start": 232.4,
+    "end": 238.36,
+    "text": "Coming right up."
+  },
+  {
+    "start": 235.04,
+    "end": 238.36,
+    "text": ">> Thank you."
+  },
+  {
+    "start": 239.04,
+    "end": 244.76,
+    "text": "It looks delicious."
+  },
+  {
+    "start": 241.439,
+    "end": 244.76,
+    "text": "Mine, too."
+  },
+  {
+    "start": 244.879,
+    "end": 249.76,
+    "text": ">> Do you travel alone?"
+  },
+  {
+    "start": 247.92,
+    "end": 253.28,
+    "text": ">> Sometimes."
+  },
+  {
+    "start": 249.76,
+    "end": 256.799,
+    "text": "Oh, what about you?"
+  },
+  {
+    "start": 253.28,
+    "end": 262.84,
+    "text": "Today is my first solo holiday."
+  },
+  {
+    "start": 256.799,
+    "end": 262.84,
+    "text": ">> Mom, that's brave. Thank you."
+  },
+  {
+    "start": 263.84,
+    "end": 268.553,
+    "text": "Look at the clouds. They're so"
+  },
+  {
+    "start": 266.8,
+    "end": 269.12,
+    "text": "beautiful."
+  },
+  {
+    "start": 268.553,
+    "end": 275.56,
+    "text": "[gasps]"
+  },
+  {
+    "start": 269.12,
+    "end": 275.56,
+    "text": "I love flying. The sky is amazing."
+  },
+  {
+    "start": 275.919,
+    "end": 280.8,
+    "text": ">> Yes."
+  },
+  {
+    "start": 277.84,
+    "end": 284.0,
+    "text": "It feels like we're in another world."
+  },
+  {
+    "start": 280.8,
+    "end": 286.96,
+    "text": ">> Absolutely. Ladies and gentlemen, we are"
+  },
+  {
+    "start": 284.0,
+    "end": 290.52,
+    "text": "descending into America. Please fasten"
+  },
+  {
+    "start": 286.96,
+    "end": 290.52,
+    "text": "your seat belts."
+  },
+  {
+    "start": 291.12,
+    "end": 295.84,
+    "text": ">> Look outside."
+  },
+  {
+    "start": 292.96,
+    "end": 297.68,
+    "text": "I can see buildings."
+  },
+  {
+    "start": 295.84,
+    "end": 300.16,
+    "text": ">> Wow,"
+  },
+  {
+    "start": 297.68,
+    "end": 303.36,
+    "text": "amazing view."
+  },
+  {
+    "start": 300.16,
+    "end": 305.759,
+    "text": ">> My first time here. I can't wait to"
+  },
+  {
+    "start": 303.36,
+    "end": 309.88,
+    "text": "explore."
+  },
+  {
+    "start": 305.759,
+    "end": 309.88,
+    "text": "You will love it."
+  },
+  {
+    "start": 311.199,
+    "end": 321.639,
+    "text": "We are landing. This is so exciting."
+  },
+  {
+    "start": 316.479,
+    "end": 321.639,
+    "text": "The city looks beautiful from above."
+  },
+  {
+    "start": 323.44,
+    "end": 329.88,
+    "text": "Yes. I hope everything goes smoothly at"
+  },
+  {
+    "start": 326.72,
+    "end": 329.88,
+    "text": "the airport."
+  },
+  {
+    "start": 330.16,
+    "end": 339.72,
+    "text": "I hope my luggage arrives safely."
+  },
+  {
+    "start": 333.919,
+    "end": 339.72,
+    "text": ">> Mine, too. Airports can be stressful."
+  },
+  {
+    "start": 341.28,
+    "end": 349.12,
+    "text": "Definitely, but also exciting."
+  },
+  {
+    "start": 344.639,
+    "end": 353.52,
+    "text": ">> Yes, traveling is always fun."
+  },
+  {
+    "start": 349.12,
+    "end": 358.6,
+    "text": ">> I see my suitcase. Ah,"
+  },
+  {
+    "start": 353.52,
+    "end": 358.6,
+    "text": "finally. I'm happy it arrived."
+  },
+  {
+    "start": 358.72,
+    "end": 360.96,
+    "text": ">> Me, too."
+  },
+  {
+    "start": 359.919,
+    "end": 363.6,
+    "text": ">> Yeah,"
+  },
+  {
+    "start": 360.96,
+    "end": 366.96,
+    "text": ">> everything went well."
+  },
+  {
+    "start": 363.6,
+    "end": 369.039,
+    "text": "Excuse me. Is this the line for taxis?"
+  },
+  {
+    "start": 366.96,
+    "end": 371.28,
+    "text": ">> Yes, please wait here. Where are you"
+  },
+  {
+    "start": 369.039,
+    "end": 374.0,
+    "text": "heading?"
+  },
+  {
+    "start": 371.28,
+    "end": 376.88,
+    "text": ">> To a hotel in the city center."
+  },
+  {
+    "start": 374.0,
+    "end": 380.199,
+    "text": ">> Hop in. I'll take you there safely."
+  },
+  {
+    "start": 376.88,
+    "end": 380.199,
+    "text": ">> Thank you."
+  },
+  {
+    "start": 383.039,
+    "end": 390.56,
+    "text": ">> It's so exciting to see the city."
+  },
+  {
+    "start": 387.6,
+    "end": 393.44,
+    "text": ">> Yes, it's beautiful. Especially for"
+  },
+  {
+    "start": 390.56,
+    "end": 398.0,
+    "text": "first time visitors."
+  },
+  {
+    "start": 393.44,
+    "end": 399.28,
+    "text": ">> I can't wait to explore everything."
+  },
+  {
+    "start": 398.0,
+    "end": 402.88,
+    "text": "Oh,"
+  },
+  {
+    "start": 399.28,
+    "end": 404.24,
+    "text": ">> you will love it here."
+  },
+  {
+    "start": 402.88,
+    "end": 406.88,
+    "text": ">> Welcome."
+  },
+  {
+    "start": 404.24,
+    "end": 410.8,
+    "text": ">> Do you have a reservation?"
+  },
+  {
+    "start": 406.88,
+    "end": 414.88,
+    "text": ">> Yes, under Lucy Smith."
+  },
+  {
+    "start": 410.8,
+    "end": 419.039,
+    "text": ">> Here's your room key. Room 503."
+  },
+  {
+    "start": 414.88,
+    "end": 422.479,
+    "text": ">> Thank you. Is the elevator near?"
+  },
+  {
+    "start": 419.039,
+    "end": 424.08,
+    "text": ">> Yes, right over there."
+  },
+  {
+    "start": 422.479,
+    "end": 427.08,
+    "text": "Mhm."
+  },
+  {
+    "start": 424.08,
+    "end": 427.08,
+    "text": ">> Great."
+  },
+  {
+    "start": 429.12,
+    "end": 435.759,
+    "text": ">> Wow,"
+  },
+  {
+    "start": 431.84,
+    "end": 439.919,
+    "text": "the room is beautiful."
+  },
+  {
+    "start": 435.759,
+    "end": 445.24,
+    "text": "The view from the window is amazing."
+  },
+  {
+    "start": 439.919,
+    "end": 445.24,
+    "text": "I'm ready to start exploring the city."
+  },
+  {
+    "start": 446.479,
+    "end": 453.88,
+    "text": "Hello, friends."
+  },
+  {
+    "start": 448.88,
+    "end": 453.88,
+    "text": "I'm finally in America"
+  },
+  {
+    "start": 454.479,
+    "end": 463.16,
+    "text": "today. I traveled by plane and"
+  },
+  {
+    "start": 458.88,
+    "end": 463.16,
+    "text": "everything went smoothly."
+  },
+  {
+    "start": 464.16,
+    "end": 471.24,
+    "text": "I'm so excited to explore the city and"
+  },
+  {
+    "start": 467.52,
+    "end": 471.24,
+    "text": "try new food."
+  },
+  {
+    "start": 474.24,
+    "end": 482.72,
+    "text": "Traveling is exciting. If you enjoyed"
+  },
+  {
+    "start": 478.08,
+    "end": 485.72,
+    "text": "this video, please subscribe, like, and"
+  },
+  {
+    "start": 482.72,
+    "end": 485.72,
+    "text": "share."
+  },
+  {
+    "start": 485.84,
+    "end": 492.68,
+    "text": "Don't forget to comment. Thank you for"
+  },
+  {
+    "start": 488.56,
+    "end": 492.68,
+    "text": "watching. Goodbye."
+  }
+]
