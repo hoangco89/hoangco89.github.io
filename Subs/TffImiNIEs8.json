@@ -1,0 +1,764 @@
+[
+  {
+    "start": 1.199,
+    "end": 4.199,
+    "text": "foreign",
+    "textdich": ""
+  },
+  {
+    "start": 5.4,
+    "end": 12.9,
+    "text": "hello I want to fly to New York",
+    "textdich": ""
+  },
+  {
+    "start": 9.42,
+    "end": 17.299,
+    "text": "hi when do you want to go",
+    "textdich": ""
+  },
+  {
+    "start": 12.9,
+    "end": 17.299,
+    "text": "I want to travel on September 10th",
+    "textdich": ""
+  },
+  {
+    "start": 17.88,
+    "end": 23.22,
+    "text": "we have morning and evening flights",
+    "textdich": ""
+  },
+  {
+    "start": 20.039,
+    "end": 26.519,
+    "text": "which one do you prefer",
+    "textdich": ""
+  },
+  {
+    "start": 23.22,
+    "end": 28.98,
+    "text": "I like the morning flight",
+    "textdich": ""
+  },
+  {
+    "start": 26.519,
+    "end": 31.08,
+    "text": "great do you want a window seat or an",
+    "textdich": ""
+  },
+  {
+    "start": 28.98,
+    "end": 34.62,
+    "text": "aisle seat",
+    "textdich": ""
+  },
+  {
+    "start": 31.08,
+    "end": 37.2,
+    "text": "I'd like a window seat please",
+    "textdich": ""
+  },
+  {
+    "start": 34.62,
+    "end": 39.18,
+    "text": "sure would you like to have a meal on",
+    "textdich": ""
+  },
+  {
+    "start": 37.2,
+    "end": 43.92,
+    "text": "the flight",
+    "textdich": ""
+  },
+  {
+    "start": 39.18,
+    "end": 48.059,
+    "text": "yes please I'd like a vegetarian meal",
+    "textdich": ""
+  },
+  {
+    "start": 43.92,
+    "end": 51.719,
+    "text": "got it do you have bags to check in",
+    "textdich": ""
+  },
+  {
+    "start": 48.059,
+    "end": 54.18,
+    "text": "yes I have one big bag",
+    "textdich": ""
+  },
+  {
+    "start": 51.719,
+    "end": 56.719,
+    "text": "okay please make a payment to confirm",
+    "textdich": ""
+  },
+  {
+    "start": 54.18,
+    "end": 56.719,
+    "text": "your booking",
+    "textdich": ""
+  },
+  {
+    "start": 58.199,
+    "end": 63.359,
+    "text": "thank you your ticket is now booked for",
+    "textdich": ""
+  },
+  {
+    "start": 60.96,
+    "end": 64.86,
+    "text": "September 10th to New York have a good",
+    "textdich": ""
+  },
+  {
+    "start": 63.359,
+    "end": 68.12,
+    "text": "trip",
+    "textdich": ""
+  },
+  {
+    "start": 64.86,
+    "end": 70.56,
+    "text": "thanks I'm excited",
+    "textdich": ""
+  },
+  {
+    "start": 68.12,
+    "end": 71.82,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 70.56,
+    "end": 73.16,
+    "text": "thank you",
+    "textdich": ""
+  },
+  {
+    "start": 71.82,
+    "end": 76.4,
+    "text": "foreign",
+    "textdich": ""
+  },
+  {
+    "start": 73.16,
+    "end": 76.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 78.299,
+    "end": 85.08,
+    "text": "hello here they are",
+    "textdich": ""
+  },
+  {
+    "start": 81.84,
+    "end": 86.939,
+    "text": "thank you now do you have any liquids in",
+    "textdich": ""
+  },
+  {
+    "start": 85.08,
+    "end": 90.619,
+    "text": "your bag",
+    "textdich": ""
+  },
+  {
+    "start": 86.939,
+    "end": 90.619,
+    "text": "just a small bottle of water",
+    "textdich": ""
+  },
+  {
+    "start": 90.659,
+    "end": 94.7,
+    "text": "please take it out and put it in the",
+    "textdich": ""
+  },
+  {
+    "start": 92.46,
+    "end": 94.7,
+    "text": "tray",
+    "textdich": ""
+  },
+  {
+    "start": 95.1,
+    "end": 98.9,
+    "text": "okay I've done that",
+    "textdich": ""
+  },
+  {
+    "start": 99.0,
+    "end": 104.34,
+    "text": "good do you have a laptop or tablet in",
+    "textdich": ""
+  },
+  {
+    "start": 102.06,
+    "end": 108.02,
+    "text": "your bag",
+    "textdich": ""
+  },
+  {
+    "start": 104.34,
+    "end": 108.02,
+    "text": "yes I have a laptop",
+    "textdich": ""
+  },
+  {
+    "start": 108.18,
+    "end": 113.18,
+    "text": "please take it out and put it separately",
+    "textdich": ""
+  },
+  {
+    "start": 110.159,
+    "end": 113.18,
+    "text": "in another tray",
+    "textdich": ""
+  },
+  {
+    "start": 113.22,
+    "end": 119.939,
+    "text": "is everything okay",
+    "textdich": ""
+  },
+  {
+    "start": 116.1,
+    "end": 123.65,
+    "text": "yes perfect have a safe flight",
+    "textdich": ""
+  },
+  {
+    "start": 119.939,
+    "end": 128.819,
+    "text": "thank you and have a good day",
+    "textdich": ""
+  },
+  {
+    "start": 123.65,
+    "end": 130.86,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 128.819,
+    "end": 135.12,
+    "text": "hello",
+    "textdich": ""
+  },
+  {
+    "start": 130.86,
+    "end": 138.98,
+    "text": "good morning how can I assist you",
+    "textdich": ""
+  },
+  {
+    "start": 135.12,
+    "end": 138.98,
+    "text": "I want to get my porting pass",
+    "textdich": ""
+  },
+  {
+    "start": 139.08,
+    "end": 144.36,
+    "text": "sure can you show me your passport and",
+    "textdich": ""
+  },
+  {
+    "start": 141.959,
+    "end": 146.879,
+    "text": "ticket please",
+    "textdich": ""
+  },
+  {
+    "start": 144.36,
+    "end": 150.98,
+    "text": "here they are",
+    "textdich": ""
+  },
+  {
+    "start": 146.879,
+    "end": 150.98,
+    "text": "thank you give me a moment",
+    "textdich": ""
+  },
+  {
+    "start": 153.72,
+    "end": 161.34,
+    "text": "okay you're flying to New York right",
+    "textdich": ""
+  },
+  {
+    "start": 157.68,
+    "end": 165.599,
+    "text": "yes that's right",
+    "textdich": ""
+  },
+  {
+    "start": 161.34,
+    "end": 169.34,
+    "text": "great do you have a c preference",
+    "textdich": ""
+  },
+  {
+    "start": 165.599,
+    "end": 169.34,
+    "text": "I'd like a window seat if available",
+    "textdich": ""
+  },
+  {
+    "start": 169.44,
+    "end": 172.28,
+    "text": "let me check",
+    "textdich": ""
+  },
+  {
+    "start": 175.14,
+    "end": 181.44,
+    "text": "yes we have a window seat available for",
+    "textdich": ""
+  },
+  {
+    "start": 177.84,
+    "end": 185.58,
+    "text": "you would you like it",
+    "textdich": ""
+  },
+  {
+    "start": 181.44,
+    "end": 188.16,
+    "text": "yes please that sounds good",
+    "textdich": ""
+  },
+  {
+    "start": 185.58,
+    "end": 190.379,
+    "text": "all right do you have any checked",
+    "textdich": ""
+  },
+  {
+    "start": 188.16,
+    "end": 193.86,
+    "text": "baggage",
+    "textdich": ""
+  },
+  {
+    "start": 190.379,
+    "end": 196.62,
+    "text": "I have one suitcase",
+    "textdich": ""
+  },
+  {
+    "start": 193.86,
+    "end": 198.92,
+    "text": "okay please put your suitcase on the",
+    "textdich": ""
+  },
+  {
+    "start": 196.62,
+    "end": 198.92,
+    "text": "scale",
+    "textdich": ""
+  },
+  {
+    "start": 201.54,
+    "end": 206.18,
+    "text": "it's within the weight limit you're good",
+    "textdich": ""
+  },
+  {
+    "start": 204.12,
+    "end": 209.159,
+    "text": "to go",
+    "textdich": ""
+  },
+  {
+    "start": 206.18,
+    "end": 211.379,
+    "text": "thank you is there anything else I need",
+    "textdich": ""
+  },
+  {
+    "start": 209.159,
+    "end": 214.68,
+    "text": "to know",
+    "textdich": ""
+  },
+  {
+    "start": 211.379,
+    "end": 217.44,
+    "text": "your gate is B5 and boarding starts at 9",
+    "textdich": ""
+  },
+  {
+    "start": 214.68,
+    "end": 220.76,
+    "text": "30 A.M",
+    "textdich": ""
+  },
+  {
+    "start": 217.44,
+    "end": 220.76,
+    "text": "thank you for the information",
+    "textdich": ""
+  },
+  {
+    "start": 220.98,
+    "end": 228.19,
+    "text": "you're welcome have a safe flight",
+    "textdich": ""
+  },
+  {
+    "start": 224.94,
+    "end": 234.44,
+    "text": "thank you goodbye",
+    "textdich": ""
+  },
+  {
+    "start": 228.19,
+    "end": 237.659,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 234.44,
+    "end": 239.879,
+    "text": "good morning may I see your boarding",
+    "textdich": ""
+  },
+  {
+    "start": 237.659,
+    "end": 242.519,
+    "text": "pass",
+    "textdich": ""
+  },
+  {
+    "start": 239.879,
+    "end": 246.54,
+    "text": "here it is",
+    "textdich": ""
+  },
+  {
+    "start": 242.519,
+    "end": 248.819,
+    "text": "thank you c18a it's on the left side of",
+    "textdich": ""
+  },
+  {
+    "start": 246.54,
+    "end": 252.98,
+    "text": "the plane",
+    "textdich": ""
+  },
+  {
+    "start": 248.819,
+    "end": 252.98,
+    "text": "great how do I find it",
+    "textdich": ""
+  },
+  {
+    "start": 253.019,
+    "end": 258.06,
+    "text": "walk straight down this aisle the seat",
+    "textdich": ""
+  },
+  {
+    "start": 255.599,
+    "end": 260.639,
+    "text": "numbers are above the seats look for",
+    "textdich": ""
+  },
+  {
+    "start": 258.06,
+    "end": 264.18,
+    "text": "number 18a",
+    "textdich": ""
+  },
+  {
+    "start": 260.639,
+    "end": 267.54,
+    "text": "okay I'll look for it",
+    "textdich": ""
+  },
+  {
+    "start": 264.18,
+    "end": 270.78,
+    "text": "would you like help with your bag",
+    "textdich": ""
+  },
+  {
+    "start": 267.54,
+    "end": 273.0,
+    "text": "no I can manage",
+    "textdich": ""
+  },
+  {
+    "start": 270.78,
+    "end": 275.639,
+    "text": "all right let me know if you need",
+    "textdich": ""
+  },
+  {
+    "start": 273.0,
+    "end": 278.72,
+    "text": "anything else",
+    "textdich": ""
+  },
+  {
+    "start": 275.639,
+    "end": 278.72,
+    "text": "sure thank you",
+    "textdich": ""
+  },
+  {
+    "start": 280.34,
+    "end": 285.18,
+    "text": "excuse me",
+    "textdich": ""
+  },
+  {
+    "start": 283.47,
+    "end": 288.78,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 285.18,
+    "end": 290.699,
+    "text": "yes how can I help you",
+    "textdich": ""
+  },
+  {
+    "start": 288.78,
+    "end": 293.28,
+    "text": "I'm feeling cold",
+    "textdich": ""
+  },
+  {
+    "start": 290.699,
+    "end": 297.0,
+    "text": "do you have a blanket",
+    "textdich": ""
+  },
+  {
+    "start": 293.28,
+    "end": 299.22,
+    "text": "sure I'll get one for you",
+    "textdich": ""
+  },
+  {
+    "start": 297.0,
+    "end": 301.259,
+    "text": "thank you",
+    "textdich": ""
+  },
+  {
+    "start": 299.22,
+    "end": 303.419,
+    "text": "here's your blanket",
+    "textdich": ""
+  },
+  {
+    "start": 301.259,
+    "end": 306.84,
+    "text": "anything else",
+    "textdich": ""
+  },
+  {
+    "start": 303.419,
+    "end": 309.3,
+    "text": "no that's all for now",
+    "textdich": ""
+  },
+  {
+    "start": 306.84,
+    "end": 312.259,
+    "text": "you're welcome if you need anything else",
+    "textdich": ""
+  },
+  {
+    "start": 309.3,
+    "end": 312.259,
+    "text": "just call",
+    "textdich": ""
+  },
+  {
+    "start": 312.419,
+    "end": 320.0,
+    "text": "I will how long until we land",
+    "textdich": ""
+  },
+  {
+    "start": 316.86,
+    "end": 320.0,
+    "text": "about two hours",
+    "textdich": ""
+  },
+  {
+    "start": 320.04,
+    "end": 325.86,
+    "text": "okay thank you for the information",
+    "textdich": ""
+  },
+  {
+    "start": 323.94,
+    "end": 328.59,
+    "text": "it's my pleasure",
+    "textdich": ""
+  },
+  {
+    "start": 325.86,
+    "end": 339.259,
+    "text": "have a comfortable Journey",
+    "textdich": ""
+  },
+  {
+    "start": 328.59,
+    "end": 343.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 339.259,
+    "end": 347.82,
+    "text": "hello sir are you Mr John",
+    "textdich": ""
+  },
+  {
+    "start": 343.919,
+    "end": 350.82,
+    "text": "yes that's me are you my driver",
+    "textdich": ""
+  },
+  {
+    "start": 347.82,
+    "end": 353.22,
+    "text": "yes I am I'm here to take you to the",
+    "textdich": ""
+  },
+  {
+    "start": 350.82,
+    "end": 357.06,
+    "text": "central Hotel",
+    "textdich": ""
+  },
+  {
+    "start": 353.22,
+    "end": 361.38,
+    "text": "great how long is the drive",
+    "textdich": ""
+  },
+  {
+    "start": 357.06,
+    "end": 365.759,
+    "text": "about 30 minutes depending on traffic",
+    "textdich": ""
+  },
+  {
+    "start": 361.38,
+    "end": 368.34,
+    "text": "all right I hope it's not too busy now",
+    "textdich": ""
+  },
+  {
+    "start": 365.759,
+    "end": 370.259,
+    "text": "usually it's not bad this time of the",
+    "textdich": ""
+  },
+  {
+    "start": 368.34,
+    "end": 373.86,
+    "text": "day",
+    "textdich": ""
+  },
+  {
+    "start": 370.259,
+    "end": 376.62,
+    "text": "I have this suitcase and a backpack",
+    "textdich": ""
+  },
+  {
+    "start": 373.86,
+    "end": 378.84,
+    "text": "I'll take the suitcase please follow me",
+    "textdich": ""
+  },
+  {
+    "start": 376.62,
+    "end": 380.94,
+    "text": "to the car",
+    "textdich": ""
+  },
+  {
+    "start": 378.84,
+    "end": 389.52,
+    "text": "sure thank you",
+    "textdich": ""
+  },
+  {
+    "start": 380.94,
+    "end": 391.02,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 389.52,
+    "end": 393.9,
+    "text": "here's the car",
+    "textdich": ""
+  },
+  {
+    "start": 391.02,
+    "end": 398.46,
+    "text": "please sit in the back",
+    "textdich": ""
+  },
+  {
+    "start": 393.9,
+    "end": 403.699,
+    "text": "okay is it a direct route to the hotel",
+    "textdich": ""
+  },
+  {
+    "start": 398.46,
+    "end": 403.699,
+    "text": "yes straight to the hotel you can relax",
+    "textdich": ""
+  },
+  {
+    "start": 403.919,
+    "end": 411.3,
+    "text": "that's good I'm tired after the flight",
+    "textdich": ""
+  },
+  {
+    "start": 408.36,
+    "end": 413.46,
+    "text": "I understand we'll get you to the hotel",
+    "textdich": ""
+  },
+  {
+    "start": 411.3,
+    "end": 417.3,
+    "text": "soon",
+    "textdich": ""
+  },
+  {
+    "start": 413.46,
+    "end": 421.639,
+    "text": "thank you I appreciate it",
+    "textdich": ""
+  },
+  {
+    "start": 417.3,
+    "end": 421.639,
+    "text": "you're welcome enjoy the ride",
+    "textdich": ""
+  }
+]
