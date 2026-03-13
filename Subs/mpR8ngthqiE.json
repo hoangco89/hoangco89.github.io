@@ -1,0 +1,470 @@
+[
+  {
+    "start": 0.24,
+    "end": 10.48,
+    "text": "The story of FastAPI is, oh, \nit's like, so many parts.",
+    "textdich": ""
+  },
+  {
+    "start": 10.48,
+    "end": 15.2,
+    "text": "When I started working on, like, actually building \nFastAPI I was just trying to solve the problem",
+    "textdich": ""
+  },
+  {
+    "start": 15.2,
+    "end": 22.24,
+    "text": "that I needed to solve in a way that was useful \nand efficient for me. I always expected that no",
+    "textdich": ""
+  },
+  {
+    "start": 22.24,
+    "end": 27.12,
+    "text": "one will pay attention but it actually like, took \noff and people started liking it. FastAPI FastAPI",
+    "textdich": ""
+  },
+  {
+    "start": 27.12,
+    "end": 36.16,
+    "text": "FastAPI FastAPI. It kept growing in GitHub \nstars and it was just like this steep line.",
+    "textdich": ""
+  },
+  {
+    "start": 36.16,
+    "end": 48.4,
+    "text": "My name is Sebastian Ramirez \nand I created FastAPI.",
+    "textdich": ""
+  },
+  {
+    "start": 57.12,
+    "end": 63.04,
+    "text": "I like to play around and say that I'm a \nkindergarten dropout, but it's actually not true.",
+    "textdich": ""
+  },
+  {
+    "start": 63.04,
+    "end": 68.88,
+    "text": "I'm a elementary first dropout. I was in a, you \nknow, like regular Catholic school in Colombia,",
+    "textdich": ""
+  },
+  {
+    "start": 68.88,
+    "end": 73.36,
+    "text": "but I will ask too many questions. I was also \nlike very curious about many different things,",
+    "textdich": ""
+  },
+  {
+    "start": 73.36,
+    "end": 78.32,
+    "text": "but I was not really enjoying the way \nthat the school was working. So I ended",
+    "textdich": ""
+  },
+  {
+    "start": 78.32,
+    "end": 85.52,
+    "text": "up just like being homeschooled all my \nlife. Having this mindset of liking to",
+    "textdich": ""
+  },
+  {
+    "start": 85.52,
+    "end": 90.56,
+    "text": "study and to understand how things work. \nI think that probably helped with FastAPI",
+    "textdich": ""
+  },
+  {
+    "start": 90.56,
+    "end": 98.16,
+    "text": "in that I was just trying to see like is \nthere any better way to do these things.",
+    "textdich": ""
+  },
+  {
+    "start": 98.16,
+    "end": 103.44,
+    "text": "When I started programming, I was always a \nconsumer of open source. And then at some point,",
+    "textdich": ""
+  },
+  {
+    "start": 103.44,
+    "end": 109.04,
+    "text": "it was probably trying to solve a problem that I \nhad with some open source project somewhere and",
+    "textdich": ""
+  },
+  {
+    "start": 109.04,
+    "end": 115.2,
+    "text": "figuring out that it was actually for probably the \nfirst time not my, uh, error, but it was actually",
+    "textdich": ""
+  },
+  {
+    "start": 115.2,
+    "end": 120.88,
+    "text": "something wrong in the tool. And I figured that \nI could help it with it and I could solve it.",
+    "textdich": ""
+  },
+  {
+    "start": 120.88,
+    "end": 126.08,
+    "text": "And I was trying to use the tools that I had at \nhand and trying to learn all the tools possible",
+    "textdich": ""
+  },
+  {
+    "start": 126.08,
+    "end": 131.68,
+    "text": "and then learning the things that I liked about \neach one of those. I was actually convinced that",
+    "textdich": ""
+  },
+  {
+    "start": 131.68,
+    "end": 135.12,
+    "text": "there will be a tool that will have like all the \nthings that I wanted. I was just trying to learn",
+    "textdich": ""
+  },
+  {
+    "start": 135.12,
+    "end": 141.92,
+    "text": "what was the right way to do it and what was the \nright tool. When I found one that was the closest",
+    "textdich": ""
+  },
+  {
+    "start": 141.92,
+    "end": 147.28,
+    "text": "to what I wanted, it was called API start. And \nthis was built by the same author that had built",
+    "textdich": ""
+  },
+  {
+    "start": 147.28,
+    "end": 152.48,
+    "text": "Django REST framework. the alitor needed to stop \nworking on that because the alter was working on",
+    "textdich": ""
+  },
+  {
+    "start": 152.48,
+    "end": 158.56,
+    "text": "starlet that was this new framework that was in \nthe newest standards and that's had like a much",
+    "textdich": ""
+  },
+  {
+    "start": 158.56,
+    "end": 162.32,
+    "text": "better performance. I was also doing a bunch of \nfront end and learning how the front end works",
+    "textdich": ""
+  },
+  {
+    "start": 162.32,
+    "end": 167.92,
+    "text": "and learning that all these type annotations were \nwhat provides auto completion and inline errors",
+    "textdich": ""
+  },
+  {
+    "start": 167.92,
+    "end": 171.36,
+    "text": "and I wanted to have that in Python. Then \nI figured that there was an alternative to",
+    "textdich": ""
+  },
+  {
+    "start": 171.36,
+    "end": 177.52,
+    "text": "Marshmallow called Pyantic that was at that time \nfocused on validation of settings. So I wanted",
+    "textdich": ""
+  },
+  {
+    "start": 177.52,
+    "end": 183.28,
+    "text": "to combine Pyantic with the things on starlet \nand put build something together with that. At",
+    "textdich": ""
+  },
+  {
+    "start": 183.28,
+    "end": 188.56,
+    "text": "some point I actually went to the to the github \nissues in Starlet and I said hey I would like to",
+    "textdich": ""
+  },
+  {
+    "start": 188.56,
+    "end": 193.36,
+    "text": "build this thing that is pretty much you know \nlike it's similar to API star that was like by",
+    "textdich": ""
+  },
+  {
+    "start": 193.36,
+    "end": 198.32,
+    "text": "the same author and I asked would you like to have \nthis in Starlet and they said like no just like go",
+    "textdich": ""
+  },
+  {
+    "start": 198.32,
+    "end": 201.76,
+    "text": "build your own thing. So I was like okay I'm going \nto build my own thing and then I went and built",
+    "textdich": ""
+  },
+  {
+    "start": 201.76,
+    "end": 208.88,
+    "text": "FastAPI mixing Pyantic and started and putting all \nthese things together. It was just trying to solve",
+    "textdich": ""
+  },
+  {
+    "start": 208.88,
+    "end": 218.24,
+    "text": "the problems that will come natural for building \nAPIs web APIs using the new H features of the",
+    "textdich": ""
+  },
+  {
+    "start": 218.24,
+    "end": 224.32,
+    "text": "language type annotations async and weight and a \nbunch of different ideas from different tools like",
+    "textdich": ""
+  },
+  {
+    "start": 224.32,
+    "end": 233.6,
+    "text": "dependency injection. That's how it came to be. \nThe name fast API, the word fast has actually like",
+    "textdich": ""
+  },
+  {
+    "start": 233.6,
+    "end": 238.64,
+    "text": "I guess multiple meanings. And I guess one very \nimportant one that people don't necessarily pay",
+    "textdich": ""
+  },
+  {
+    "start": 238.64,
+    "end": 245.2,
+    "text": "attention is that it's fast to build stuff with \nfast API. So you can like get something out the",
+    "textdich": ""
+  },
+  {
+    "start": 245.2,
+    "end": 253.04,
+    "text": "door very very quickly. It's also h fast in terms \nof performance and uh in terms of throughput.",
+    "textdich": ""
+  },
+  {
+    "start": 253.04,
+    "end": 260.16,
+    "text": "I wanted to build something that would appeal \nto myself when I was learning how to use these",
+    "textdich": ""
+  },
+  {
+    "start": 260.16,
+    "end": 264.56,
+    "text": "things. I wanted to build something that will be \nvery simple to understand and to figure out how to",
+    "textdich": ""
+  },
+  {
+    "start": 264.56,
+    "end": 270.24,
+    "text": "use it. I was trying to solve the thing for me as \na developer using FastAPI, not as the person that",
+    "textdich": ""
+  },
+  {
+    "start": 270.24,
+    "end": 275.28,
+    "text": "builds it, but as the person that uses it. So, it \nwas a lot of just like designing that developer",
+    "textdich": ""
+  },
+  {
+    "start": 275.28,
+    "end": 281.76,
+    "text": "experience before actually going and implementing \nthe things underneath. FastAPI is built on top of",
+    "textdich": ""
+  },
+  {
+    "start": 281.76,
+    "end": 287.28,
+    "text": "type hints or type annotations. You can use type \nannotations to be able to just declare them once",
+    "textdich": ""
+  },
+  {
+    "start": 287.28,
+    "end": 292.8,
+    "text": "and then get multiple features out of that. \nYou not only get auto-completion and errors,",
+    "textdich": ""
+  },
+  {
+    "start": 292.8,
+    "end": 299.04,
+    "text": "you also get data validation, data serialization \nand documentation automatically based on just",
+    "textdich": ""
+  },
+  {
+    "start": 299.04,
+    "end": 307.68,
+    "text": "those same regular type annotations. The fact that \nFastAPIs by default is internally async is super",
+    "textdich": ""
+  },
+  {
+    "start": 307.68,
+    "end": 314.16,
+    "text": "important in like, in in particular nowadays that \nwhen we have applications and APIs that need to",
+    "textdich": ""
+  },
+  {
+    "start": 314.16,
+    "end": 321.36,
+    "text": "work with lots and lots of concurrent clients or \nconcurrent uh users when you build with FastAPI",
+    "textdich": ""
+  },
+  {
+    "start": 321.36,
+    "end": 327.84,
+    "text": "you get an automatic documentation site for the \nAPI. I guess it's one of those things that for",
+    "textdich": ""
+  },
+  {
+    "start": 327.84,
+    "end": 333.04,
+    "text": "people that when people start working with FastAPI \nand they just like build, you know, like a tiny",
+    "textdich": ""
+  },
+  {
+    "start": 333.04,
+    "end": 338.32,
+    "text": "piece of code and they just go to /docs and they \nsee this is all happening automatically. That's",
+    "textdich": ""
+  },
+  {
+    "start": 338.32,
+    "end": 344.0,
+    "text": "normally the moment like, oh wait, I like this. \nWhat's happening here? By now, you've probably",
+    "textdich": ""
+  },
+  {
+    "start": 344.0,
+    "end": 348.48,
+    "text": "heard that FastAPI is great. I'm going to be \nshowing you the Python web framework known as",
+    "textdich": ""
+  },
+  {
+    "start": 348.48,
+    "end": 354.96,
+    "text": "FastAPI. It's really fast. That's why it's called \nFastAPI. The first sign that FastAPI was catching",
+    "textdich": ""
+  },
+  {
+    "start": 354.96,
+    "end": 363.92,
+    "text": "on was I guess GitHub stars. Then FastAPI was on \nlike I I don't know if Reddit or Hacker News or",
+    "textdich": ""
+  },
+  {
+    "start": 363.92,
+    "end": 372.16,
+    "text": "something and then it suddenly grew in like a few \ndays to 500 stars. Then it just kept growing like",
+    "textdich": ""
+  },
+  {
+    "start": 372.16,
+    "end": 380.64,
+    "text": "a very high speed. Then this was definitely not \nexpected. FastAPI is currently used by so many",
+    "textdich": ""
+  },
+  {
+    "start": 380.64,
+    "end": 389.84,
+    "text": "companies like Microsoft, Uber, Netflix, Amazon, \nMeta, OpenAI, I don't know, the list just goes",
+    "textdich": ""
+  },
+  {
+    "start": 389.84,
+    "end": 395.84,
+    "text": "on and on. It's like all the big ones, but also \nall the small ones is used by so many people in",
+    "textdich": ""
+  },
+  {
+    "start": 395.84,
+    "end": 400.96,
+    "text": "so many places. It's also used for many things \nthat are like super strange and super cool. So",
+    "textdich": ""
+  },
+  {
+    "start": 400.96,
+    "end": 407.52,
+    "text": "for example the Web Space Telescope, like this \ngiant telescope in space, all the images and all",
+    "textdich": ""
+  },
+  {
+    "start": 407.52,
+    "end": 412.96,
+    "text": "the science data that is taken from the telescope \nis sent to earth and then distributed across the",
+    "textdich": ""
+  },
+  {
+    "start": 412.96,
+    "end": 420.48,
+    "text": "world using FastAPI. They are using FastAPI like \ndiscovering new drugs, tracking COVID, tracking",
+    "textdich": ""
+  },
+  {
+    "start": 420.48,
+    "end": 433.6,
+    "text": "wildfires, handling disaster recovery for the Red \nCross, you know, like so many different things.",
+    "textdich": ""
+  },
+  {
+    "start": 433.6,
+    "end": 438.8,
+    "text": "I'm so happy to see that it's useful to so \nmany people. I I like, get so excited when",
+    "textdich": ""
+  },
+  {
+    "start": 438.8,
+    "end": 443.92,
+    "text": "people come and tell me like, hey, we are using \nFastAPI for this for like we're using. It was,",
+    "textdich": ""
+  },
+  {
+    "start": 443.92,
+    "end": 448.8,
+    "text": "you know, like it helped me find a job. It \nhelped me solve like all these different",
+    "textdich": ""
+  },
+  {
+    "start": 448.8,
+    "end": 454.56,
+    "text": "types of problems. Every time that I hear someone \ntelling me something like that, I I get so happy",
+    "textdich": ""
+  },
+  {
+    "start": 454.56,
+    "end": 462.88,
+    "text": "and so excited. With FastAPI growing, the ideas \nthat I brought into building APIs with FastAPI,",
+    "textdich": ""
+  },
+  {
+    "start": 462.88,
+    "end": 467.84,
+    "text": "I want to bring those same ideas and those \nsame improvements into deploying FastAPI",
+    "textdich": ""
+  },
+  {
+    "start": 467.84,
+    "end": 474.16,
+    "text": "applications to the cloud. I would like \nto empower many people to build more stuff",
+    "textdich": ""
+  },
+  {
+    "start": 474.16,
+    "end": 477.76,
+    "text": "uh to build more applications. Many \npeople, many companies, many organizations,",
+    "textdich": ""
+  },
+  {
+    "start": 477.76,
+    "end": 484.8,
+    "text": "many different types of products that could \nbe built. I like to help people help others",
+    "textdich": ""
+  },
+  {
+    "start": 484.8,
+    "end": 490.16,
+    "text": "with the tools. So that is that is in general \nwhat I am trying to do just to help people",
+    "textdich": ""
+  },
+  {
+    "start": 490.16,
+    "end": 497.2,
+    "text": "be more efficient and uh generate value and \nsolve problems for all their people around.",
+    "textdich": ""
+  }
+]
