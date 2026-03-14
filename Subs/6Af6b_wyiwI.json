@@ -1,0 +1,836 @@
+[
+  {
+    "start": 0.0,
+    "end": 7.0,
+    "text": "Translator: Nguyen Trang (Rin)\nReviewer: Vi Phan Thi",
+    "textdich": ""
+  },
+  {
+    "start": 17.504,
+    "end": 19.398,
+    "text": "Khi tôi còn bé,",
+    "textdich": ""
+  },
+  {
+    "start": 19.398,
+    "end": 22.959,
+    "text": "hiểm họa chúng tôi sợ nhất\nlà chiến tranh hạt nhân.",
+    "textdich": ""
+  },
+  {
+    "start": 23.819,
+    "end": 27.085,
+    "text": "Đó là lý do chúng tôi có\nthùng như thế này trong tầng hầm,",
+    "textdich": ""
+  },
+  {
+    "start": 27.085,
+    "end": 29.656,
+    "text": "chứa đầy các thùng nước\nvà thức ăn.",
+    "textdich": ""
+  },
+  {
+    "start": 30.256,
+    "end": 31.901,
+    "text": "Khi chiến tranh hạt nhân xảy ra,",
+    "textdich": ""
+  },
+  {
+    "start": 31.901,
+    "end": 36.637,
+    "text": "chúng tôi định đi xuống tầng hầm,\nngồi xổm xuống và ăn thức ăn trong thùng.",
+    "textdich": ""
+  },
+  {
+    "start": 37.877,
+    "end": 41.597,
+    "text": "Ngày nay nguy cơ lớn nhất\ntrong thảm họa toàn cầu",
+    "textdich": ""
+  },
+  {
+    "start": 41.597,
+    "end": 44.457,
+    "text": "không giống như vậy.",
+    "textdich": ""
+  },
+  {
+    "start": 44.457,
+    "end": 47.238,
+    "text": "Thay vào đó,\nnó như thế này.",
+    "textdich": ""
+  },
+  {
+    "start": 48.438,
+    "end": 53.929,
+    "text": "Nếu cái gì tước đi sinh mạng\nhơn 10 triệu người trong vài thập kỉ tới,",
+    "textdich": ""
+  },
+  {
+    "start": 53.929,
+    "end": 57.314,
+    "text": "nhiều khả năng đó là\nvirus lây nhiễm mức độ cao",
+    "textdich": ""
+  },
+  {
+    "start": 57.314,
+    "end": 59.792,
+    "text": "hơn là chiến tranh.",
+    "textdich": ""
+  },
+  {
+    "start": 59.792,
+    "end": 63.679,
+    "text": "Không phải tên lửa,\nmà là vi khuẩn.",
+    "textdich": ""
+  },
+  {
+    "start": 63.679,
+    "end": 65.878,
+    "text": "Phần đa lý do là",
+    "textdich": ""
+  },
+  {
+    "start": 65.878,
+    "end": 70.081,
+    "text": "chúng ta đã đầu tư số tiền lớn\nđể ngăn ngừa hạt nhân.",
+    "textdich": ""
+  },
+  {
+    "start": 70.081,
+    "end": 75.179,
+    "text": "Nhưng thực sự đầu tư rất ít\nvào hệ thống ngăn ngừa dịch bệnh.",
+    "textdich": ""
+  },
+  {
+    "start": 76.129,
+    "end": 79.093,
+    "text": "Chúng ta chưa sẵn sàng\ncho dịch bệnh sắp tới.",
+    "textdich": ""
+  },
+  {
+    "start": 80.023,
+    "end": 81.758,
+    "text": "Hãy nhìn vào dịch bệnh Ebola.",
+    "textdich": ""
+  },
+  {
+    "start": 81.758,
+    "end": 85.615,
+    "text": "Chắc hẳn các bạn\nđã đọc về nó trên báo,",
+    "textdich": ""
+  },
+  {
+    "start": 85.615,
+    "end": 87.221,
+    "text": "rất nhiều thách thức khó khăn.",
+    "textdich": ""
+  },
+  {
+    "start": 87.221,
+    "end": 90.876,
+    "text": "Tôi đã theo sát nó qua các\ncông cụ phân tích tình huống",
+    "textdich": ""
+  },
+  {
+    "start": 90.876,
+    "end": 95.721,
+    "text": "chúng tôi sử dụng để theo dõi\ntình hình loại trừ bệnh bại liệt.",
+    "textdich": ""
+  },
+  {
+    "start": 95.721,
+    "end": 97.573,
+    "text": "Khi bạn nhìn xem\nđiều đang diễn ra,",
+    "textdich": ""
+  },
+  {
+    "start": 97.573,
+    "end": 102.081,
+    "text": "vấn đề không phải là có hệ thống\nlàm việc chưa đủ hiệu quả,",
+    "textdich": ""
+  },
+  {
+    "start": 102.081,
+    "end": 105.649,
+    "text": "mà là không có\nmột hệ thống nào cả.",
+    "textdich": ""
+  },
+  {
+    "start": 106.589,
+    "end": 111.028,
+    "text": "Thực tế, có nhiều\nmảnh ghép quan trọng bị thiếu.",
+    "textdich": ""
+  },
+  {
+    "start": 111.028,
+    "end": 115.94,
+    "text": "Chúng ta không có sẵn\nnhóm nhà nghiên cứu dịch bệnh gửi đi",
+    "textdich": ""
+  },
+  {
+    "start": 115.94,
+    "end": 119.696,
+    "text": "xem xét trực tiếp loại bệnh,\nnghiên cứu mức độ lây lan.",
+    "textdich": ""
+  },
+  {
+    "start": 119.696,
+    "end": 122.452,
+    "text": "Các ca bệnh chỉ được biết\ntrên báo chí.",
+    "textdich": ""
+  },
+  {
+    "start": 122.452,
+    "end": 124.808,
+    "text": "Thông tin đến quá trễ\ntrước khi được công bố",
+    "textdich": ""
+  },
+  {
+    "start": 124.808,
+    "end": 126.782,
+    "text": "và cực kỳ thiếu chính xác.",
+    "textdich": ""
+  },
+  {
+    "start": 127.492,
+    "end": 129.858,
+    "text": "Chúng ta không có sẵn đội y khoa.",
+    "textdich": ""
+  },
+  {
+    "start": 129.858,
+    "end": 132.453,
+    "text": "Chúng ta không có phương thức\ntập dượt cho mọi người.",
+    "textdich": ""
+  },
+  {
+    "start": 132.453,
+    "end": 137.784,
+    "text": "Hiện nay, tổ chức Bác sĩ không biên giới\nđiều phối thành công các tình nguyện viên.",
+    "textdich": ""
+  },
+  {
+    "start": 137.784,
+    "end": 140.88,
+    "text": "Nhưng dù thế, ta còn chậm hơn nhiều\nso với việc chúng ta nên đưa",
+    "textdich": ""
+  },
+  {
+    "start": 140.88,
+    "end": 144.022,
+    "text": "hàng ngàn người làm việc\nvào những quốc gia này",
+    "textdich": ""
+  },
+  {
+    "start": 144.022,
+    "end": 151.007,
+    "text": "Và một đại dịch lớn sẽ yêu cầu chúng ta\nphải có hàng trăm ngàn người làm việc.",
+    "textdich": ""
+  },
+  {
+    "start": 152.752,
+    "end": 157.155,
+    "text": "Đã không có ai ở đó\nđể xem xét phương án điều trị.",
+    "textdich": ""
+  },
+  {
+    "start": 157.155,
+    "end": 158.946,
+    "text": "Không có ai chẩn đoán triệu chứng.",
+    "textdich": ""
+  },
+  {
+    "start": 158.946,
+    "end": 162.243,
+    "text": "Không có ai tìm hiểu\nnên sử dụng công cụ nào.",
+    "textdich": ""
+  },
+  {
+    "start": 162.243,
+    "end": 165.723,
+    "text": "Ví dụ, chúng ta có thể\nlấy máu người sống sót,",
+    "textdich": ""
+  },
+  {
+    "start": 165.723,
+    "end": 171.158,
+    "text": "xử lý và cấy plasma vào\ncơ thể người để phòng bệnh.",
+    "textdich": ""
+  },
+  {
+    "start": 171.158,
+    "end": 173.764,
+    "text": "Nhưng chúng ta chưa bao giờ thử.",
+    "textdich": ""
+  },
+  {
+    "start": 173.764,
+    "end": 175.52,
+    "text": "Chúng ta đã bỏ lỡ nhiều điều.",
+    "textdich": ""
+  },
+  {
+    "start": 175.52,
+    "end": 179.415,
+    "text": "Và những điều này\nthực sự là thất bại toàn cầu.",
+    "textdich": ""
+  },
+  {
+    "start": 180.305,
+    "end": 185.873,
+    "text": "WHO được tài trợ kiểm soát dịch bệnh,\nnhưng họ không làm những việc này.",
+    "textdich": ""
+  },
+  {
+    "start": 187.049,
+    "end": 189.842,
+    "text": "Trên màn ảnh, việc làm này\nhoàn toàn khác biệt.",
+    "textdich": ""
+  },
+  {
+    "start": 189.842,
+    "end": 194.674,
+    "text": "Có một nhóm nhà dịch tễ học đẹp trai\nsẵn sàng lên đường,",
+    "textdich": ""
+  },
+  {
+    "start": 194.674,
+    "end": 200.446,
+    "text": "họ đi vào và ngăn chặn thành công ổ dịch\nnhưng nó chỉ thuần chất Hollywood.",
+    "textdich": ""
+  },
+  {
+    "start": 202.177,
+    "end": 205.887,
+    "text": "Dự phòng thất bại có thể\nkhiến cho dịch bệnh sắp tới",
+    "textdich": ""
+  },
+  {
+    "start": 205.887,
+    "end": 209.695,
+    "text": "tàn phá mãnh liệt\nhơn cả Ebola.",
+    "textdich": ""
+  },
+  {
+    "start": 210.735,
+    "end": 215.531,
+    "text": "Hãy nhìn tình hình phát triển\ncủa dịch Ebola trong năm qua.",
+    "textdich": ""
+  },
+  {
+    "start": 216.311,
+    "end": 219.149,
+    "text": "Khoảng 10,000 người đã chết,",
+    "textdich": ""
+  },
+  {
+    "start": 219.149,
+    "end": 223.846,
+    "text": "và hầu hết ở ba nước Đông Phi.",
+    "textdich": ""
+  },
+  {
+    "start": 223.846,
+    "end": 226.433,
+    "text": "Có 3 lý do tại sao\nnó không lan rộng nữa.",
+    "textdich": ""
+  },
+  {
+    "start": 226.433,
+    "end": 230.874,
+    "text": "Đầu tiên là có nhiều nhân viên y tế\nlàm những công việc dũng cảm.",
+    "textdich": ""
+  },
+  {
+    "start": 230.874,
+    "end": 234.136,
+    "text": "Họ tìm người dân\nvà ngăn ngừa bệnh lan rộng.",
+    "textdich": ""
+  },
+  {
+    "start": 234.136,
+    "end": 236.621,
+    "text": "Thứ hai là bản chất của virus.",
+    "textdich": ""
+  },
+  {
+    "start": 236.621,
+    "end": 239.697,
+    "text": "Virus Ebola không lây nhiễm\nqua đường không khí.",
+    "textdich": ""
+  },
+  {
+    "start": 239.697,
+    "end": 241.81,
+    "text": "Và khi mắc bệnh,",
+    "textdich": ""
+  },
+  {
+    "start": 241.81,
+    "end": 244.55,
+    "text": "hầu như những người bị bệnh\nđều nằm liệt giường.",
+    "textdich": ""
+  },
+  {
+    "start": 246.22,
+    "end": 250.411,
+    "text": "Thứ ba, dịch bệnh\nkhông lan tràn vào khu đô thị.",
+    "textdich": ""
+  },
+  {
+    "start": 250.411,
+    "end": 252.115,
+    "text": "Đó chỉ là may mắn.",
+    "textdich": ""
+  },
+  {
+    "start": 252.115,
+    "end": 254.355,
+    "text": "Nếu nó lan tràn vào\ncác khu đô thị,",
+    "textdich": ""
+  },
+  {
+    "start": 254.355,
+    "end": 257.877,
+    "text": "số lượng các ca nhiễm\nsẽ lớn hơn rất nhiều.",
+    "textdich": ""
+  },
+  {
+    "start": 257.877,
+    "end": 261.466,
+    "text": "Nên lần tới, chúng ta có thể\nsẽ không gặp may như vậy.",
+    "textdich": ""
+  },
+  {
+    "start": 261.466,
+    "end": 266.53,
+    "text": "Có thể có virus lây nhiễm vào con người\nvẫn khiến họ đủ khỏe",
+    "textdich": ""
+  },
+  {
+    "start": 266.53,
+    "end": 269.842,
+    "text": "để đi máy bay,\nhay ra chợ.",
+    "textdich": ""
+  },
+  {
+    "start": 269.842,
+    "end": 272.846,
+    "text": "Nguồn virus có thể là đại dịch\ntự nhiên như khuẩn Ebola,",
+    "textdich": ""
+  },
+  {
+    "start": 272.846,
+    "end": 274.826,
+    "text": "hay có thể là\nkhủng bố sinh học.",
+    "textdich": ""
+  },
+  {
+    "start": 274.826,
+    "end": 279.474,
+    "text": "Có những điều sẽ làm cho\nmọi việc trở nên tồi tệ ngàn lần.",
+    "textdich": ""
+  },
+  {
+    "start": 279.474,
+    "end": 285.475,
+    "text": "Hãy nhìn vào ví dụ thực tế\nvirus lây lan trong không khí,",
+    "textdich": ""
+  },
+  {
+    "start": 285.475,
+    "end": 289.07,
+    "text": "Dịch Cúm Tây Ban Nha năm 1918.",
+    "textdich": ""
+  },
+  {
+    "start": 289.63,
+    "end": 291.56,
+    "text": "Đây là điều sẽ xảy ra:",
+    "textdich": ""
+  },
+  {
+    "start": 291.56,
+    "end": 295.558,
+    "text": "Virus lan truyền trên thế giới\ncực kỳ nhanh, rất nhanh.",
+    "textdich": ""
+  },
+  {
+    "start": 295.558,
+    "end": 300.683,
+    "text": "Bạn có thể thấy hơn 300 triệu người\nchết do đại dịch đó.",
+    "textdich": ""
+  },
+  {
+    "start": 300.683,
+    "end": 302.496,
+    "text": "Vậy nên đây là\nmột vấn đề nghiêm trọng.",
+    "textdich": ""
+  },
+  {
+    "start": 302.496,
+    "end": 304.257,
+    "text": "Chúng ta cần phải quan tâm.",
+    "textdich": ""
+  },
+  {
+    "start": 304.257,
+    "end": 308.692,
+    "text": "Nhưng trên thực tế, chúng ta có thể\nxây dựng hệ thống phản hồi tốt.",
+    "textdich": ""
+  },
+  {
+    "start": 308.692,
+    "end": 313.836,
+    "text": "Chúng ta có nhiều lợi ích từ\nkhoa học và công nghệ ở đây.",
+    "textdich": ""
+  },
+  {
+    "start": 313.836,
+    "end": 314.883,
+    "text": "Chúng ta có di động",
+    "textdich": ""
+  },
+  {
+    "start": 314.883,
+    "end": 318.14,
+    "text": "để thu thập thông tin từ cộng đồng\nvà đưa thông tin tới họ.",
+    "textdich": ""
+  },
+  {
+    "start": 318.14,
+    "end": 322.319,
+    "text": "Chúng ta có bản đồ vệ tinh có thể\nxem mọi người đang ở đâu, đi đến chỗ nào.",
+    "textdich": ""
+  },
+  {
+    "start": 322.319,
+    "end": 324.627,
+    "text": "Chúng ta có nhiều tiến bộ\nvề sinh học",
+    "textdich": ""
+  },
+  {
+    "start": 324.627,
+    "end": 328.453,
+    "text": "có thể thay đổi đáng kể thời gian\nquay vòng để tìm hiểu về mầm bệnh",
+    "textdich": ""
+  },
+  {
+    "start": 328.453,
+    "end": 333.322,
+    "text": "và có thể chế tạo thuốc và vắc-xin\nphù hợp với mầm bệnh đó.",
+    "textdich": ""
+  },
+  {
+    "start": 333.322,
+    "end": 334.888,
+    "text": "Vậy là chúng ta có các công cụ,",
+    "textdich": ""
+  },
+  {
+    "start": 334.888,
+    "end": 339.5,
+    "text": "nhưng những công cụ này cần được\nđặt vào trong hệ thống y tế toàn cầu.",
+    "textdich": ""
+  },
+  {
+    "start": 339.5,
+    "end": 341.793,
+    "text": "Và chúng ta cần trang bị sẵn sàng.",
+    "textdich": ""
+  },
+  {
+    "start": 341.793,
+    "end": 344.257,
+    "text": "Bài học tốt nhất, theo tôi,\nvề cách chuẩn bị",
+    "textdich": ""
+  },
+  {
+    "start": 344.257,
+    "end": 346.758,
+    "text": "một lần nữa là những gì\nchúng ta làm vì chiến tranh.",
+    "textdich": ""
+  },
+  {
+    "start": 346.758,
+    "end": 351.005,
+    "text": "Với người lính, chúng ta\ncó toàn thời gian, đợi xuất phát.",
+    "textdich": ""
+  },
+  {
+    "start": 351.005,
+    "end": 354.316,
+    "text": "Đội quan dự phòng có thể\ntăng lên số lượng lớn.",
+    "textdich": ""
+  },
+  {
+    "start": 354.316,
+    "end": 358.005,
+    "text": "NATO có đơn vị lưu đoọng\ncó thể điều động nhanh chóng.",
+    "textdich": ""
+  },
+  {
+    "start": 358.005,
+    "end": 361.455,
+    "text": "NATO tiến hành nhiều trò chơi\nchiến tranh, họ được huấn luyện tốt chứ?",
+    "textdich": ""
+  },
+  {
+    "start": 361.455,
+    "end": 363.883,
+    "text": "Liệu họ có hiểu về nhiên liệu\nvà hậu cần",
+    "textdich": ""
+  },
+  {
+    "start": 363.883,
+    "end": 366.241,
+    "text": "và tần sóng radio giống nhau?",
+    "textdich": ""
+  },
+  {
+    "start": 366.241,
+    "end": 368.779,
+    "text": "Vâng, họ luôn sẵn sàng ra đi.",
+    "textdich": ""
+  },
+  {
+    "start": 368.779,
+    "end": 373.134,
+    "text": "Đó là những việc chúng ta\ncần đối phó với dịch bệnh.",
+    "textdich": ""
+  },
+  {
+    "start": 373.134,
+    "end": 375.301,
+    "text": "Những mảnh ghép quan trọng\nlà gì?",
+    "textdich": ""
+  },
+  {
+    "start": 375.301,
+    "end": 380.591,
+    "text": "Thứ nhất, chúng ta cần có\nhệ thống y tế mạnh ở các nước nghèo.",
+    "textdich": ""
+  },
+  {
+    "start": 380.591,
+    "end": 383.778,
+    "text": "Đó là nơi các bà mẹ\ncó thể sinh nở an toàn,",
+    "textdich": ""
+  },
+  {
+    "start": 383.778,
+    "end": 385.295,
+    "text": "trẻ em được tiêm đủ vắc-xin.",
+    "textdich": ""
+  },
+  {
+    "start": 385.295,
+    "end": 389.634,
+    "text": "Nhưng, cũng nơi đó chúng ta sẽ\nchứng kiến sự bùng nổ rất sớm.",
+    "textdich": ""
+  },
+  {
+    "start": 390.154,
+    "end": 391.935,
+    "text": "Chúng ta cần có\nđội y tế dự phòng:",
+    "textdich": ""
+  },
+  {
+    "start": 391.935,
+    "end": 394.501,
+    "text": "rất nhiều người đã được\nđào tạo và có nền tảng",
+    "textdich": ""
+  },
+  {
+    "start": 394.501,
+    "end": 397.853,
+    "text": "họ sẵn sàng lên đường\nvới các chuyên gia.",
+    "textdich": ""
+  },
+  {
+    "start": 397.853,
+    "end": 402.266,
+    "text": "Và tiếp đến chúng ta cần\nsắp xếp đội y tế đi với quân đội,",
+    "textdich": ""
+  },
+  {
+    "start": 402.266,
+    "end": 406.417,
+    "text": "tận dụng năng lực của quân nhân\nnhư di chuyển nhanh, làm hậu cần",
+    "textdich": ""
+  },
+  {
+    "start": 406.417,
+    "end": 408.22,
+    "text": "và đảo bảo an ninh khu vực.",
+    "textdich": ""
+  },
+  {
+    "start": 408.22,
+    "end": 411.129,
+    "text": "Chúng ta cần làm mô phỏng,",
+    "textdich": ""
+  },
+  {
+    "start": 411.129,
+    "end": 415.927,
+    "text": "trò chơi vi trùng, không phải trò chơi\nchiến đấu, để xem lỗ hổng ở đâu.",
+    "textdich": ""
+  },
+  {
+    "start": 415.927,
+    "end": 418.723,
+    "text": "Lần trước một trò chơi vi trùng\nđược đưa ra ở Mỹ",
+    "textdich": ""
+  },
+  {
+    "start": 418.723,
+    "end": 422.443,
+    "text": "năm 2001, trò chơi đó không\nnhận được phản hồi tốt lắm.",
+    "textdich": ""
+  },
+  {
+    "start": 422.453,
+    "end": 427.49,
+    "text": "Tỉ số của trận đấu là:\nvi trùng: 1, con người: 0.",
+    "textdich": ""
+  },
+  {
+    "start": 427.49,
+    "end": 430.742,
+    "text": "Cuối cùng, ta cần nhiều \nNghiên cứu&Phát triển tiên tiến",
+    "textdich": ""
+  },
+  {
+    "start": 430.742,
+    "end": 433.994,
+    "text": "về vắc-xin & chẩn đoán.",
+    "textdich": ""
+  },
+  {
+    "start": 433.994,
+    "end": 437.246,
+    "text": "Đã có nhiều đột phá lớn,\ngiống như virus Adeno liên hợp",
+    "textdich": ""
+  },
+  {
+    "start": 437.246,
+    "end": 441.229,
+    "text": "có thể đạt được hiệu quả\nnhanh chóng.",
+    "textdich": ""
+  },
+  {
+    "start": 441.229,
+    "end": 444.599,
+    "text": "Hiện tại tôi chưa có\ncon số chính xác chi phí hết bao nhiêu,",
+    "textdich": ""
+  },
+  {
+    "start": 444.599,
+    "end": 449.095,
+    "text": "nhưng tôi chắc chắn nó sẽ khiêm tốn\nhơn nhiều so với thiệt hại tiền tàng.",
+    "textdich": ""
+  },
+  {
+    "start": 449.095,
+    "end": 453.74,
+    "text": "Ngân hàng thế giới ước tính\nnếu chúng ta gặp phải dịch cúm toàn cầu,",
+    "textdich": ""
+  },
+  {
+    "start": 453.74,
+    "end": 457.465,
+    "text": "tài sản thế giới sẽ giảm xuống\nhơn 3 nghìn tỉ đô",
+    "textdich": ""
+  },
+  {
+    "start": 457.465,
+    "end": 461.332,
+    "text": "và hàng triệu triệu người chết.",
+    "textdich": ""
+  },
+  {
+    "start": 461.332,
+    "end": 464.317,
+    "text": "Món đầu tư này đem lại\nlợi ích to lớn",
+    "textdich": ""
+  },
+  {
+    "start": 464.317,
+    "end": 466.518,
+    "text": "vượt xa việc sẵn sàng\nchiến đấu với dịch bệnh.",
+    "textdich": ""
+  },
+  {
+    "start": 466.518,
+    "end": 468.982,
+    "text": "Chăm sóc sức khỏe thiết yếu,\nnghiên cứu phát triển,",
+    "textdich": ""
+  },
+  {
+    "start": 468.982,
+    "end": 471.812,
+    "text": "những điều này sẽ làm giảm đi\nbất bình đẳng y tế toàn cầu",
+    "textdich": ""
+  },
+  {
+    "start": 471.812,
+    "end": 475.502,
+    "text": "và làm cho thế giới\nan toàn rất nhiều.",
+    "textdich": ""
+  },
+  {
+    "start": 475.502,
+    "end": 478.864,
+    "text": "Vì thế tôi cho rằng điều này\nhoàn toàn cần phải được ưu tiên.",
+    "textdich": ""
+  },
+  {
+    "start": 479.514,
+    "end": 480.98,
+    "text": "Không cần phải hoảng sợ.",
+    "textdich": ""
+  },
+  {
+    "start": 480.98,
+    "end": 485.469,
+    "text": "Chúng ta không phải tích trữ mỳ ăn\nhoặc trốn dưới tầng hầm.",
+    "textdich": ""
+  },
+  {
+    "start": 485.469,
+    "end": 489.309,
+    "text": "Nhưng chúng ta cần bắt tay làm ngay\nvì thời gian không chờ đợi chúng ta.",
+    "textdich": ""
+  },
+  {
+    "start": 489.309,
+    "end": 495.524,
+    "text": "Trên thực tế, nếu có một điều lạc quan\nnó có thể đến từ vụ dịch bệnh Ebola,",
+    "textdich": ""
+  },
+  {
+    "start": 495.524,
+    "end": 501.33,
+    "text": "có thể xem đó là một cảnh báo sớm,\ntiếng gọi cảnh tỉnh, hãy sẵn sàng.",
+    "textdich": ""
+  },
+  {
+    "start": 501.33,
+    "end": 506.978,
+    "text": "Nếu bắt đầu ngay bây giờ, chúng ta\ncó thể sẵn sàng cho dịch bệnh sắp tới.",
+    "textdich": ""
+  },
+  {
+    "start": 506.978,
+    "end": 508.574,
+    "text": "Xin cảm ơn.",
+    "textdich": ""
+  },
+  {
+    "start": 508.574,
+    "end": 511.868,
+    "text": "(Vỗ tay)",
+    "textdich": ""
+  }
+]
