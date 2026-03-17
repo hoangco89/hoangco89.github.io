@@ -1,0 +1,3092 @@
+[
+  {
+    "start": 0.88,
+    "end": 6.64,
+    "text": "Oh my god, new car. I will try to drive",
+    "textdich": ""
+  },
+  {
+    "start": 4.789,
+    "end": 6.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 4.799,
+    "end": 10.32,
+    "text": "the car.",
+    "textdich": ""
+  },
+  {
+    "start": 6.63,
+    "end": 10.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 6.64,
+    "end": 13.32,
+    "text": "Let's go. Yeah, I want faster and",
+    "textdich": ""
+  },
+  {
+    "start": 10.31,
+    "end": 13.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 10.32,
+    "end": 13.32,
+    "text": "faster.",
+    "textdich": ""
+  },
+  {
+    "start": 13.35,
+    "end": 13.35,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 13.36,
+    "end": 18.48,
+    "text": " Oh no, my wheel lost on the way. Wrong",
+    "textdich": ""
+  },
+  {
+    "start": 16.95,
+    "end": 18.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 16.96,
+    "end": 23.6,
+    "text": "car.",
+    "textdich": ""
+  },
+  {
+    "start": 18.47,
+    "end": 23.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 18.48,
+    "end": 27.199,
+    "text": " The wheels on the bus go and round and",
+    "textdich": ""
+  },
+  {
+    "start": 23.59,
+    "end": 27.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 23.6,
+    "end": 31.92,
+    "text": "round. Round and round. The wheels on",
+    "textdich": ""
+  },
+  {
+    "start": 27.189,
+    "end": 31.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 27.199,
+    "end": 33.76,
+    "text": "the bus go round and round all through",
+    "textdich": ""
+  },
+  {
+    "start": 31.91,
+    "end": 33.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 31.92,
+    "end": 38.079,
+    "text": "the town.",
+    "textdich": ""
+  },
+  {
+    "start": 33.75,
+    "end": 38.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 33.76,
+    "end": 42.32,
+    "text": "The doors on the bus go open and shut,",
+    "textdich": ""
+  },
+  {
+    "start": 38.069,
+    "end": 42.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 38.079,
+    "end": 47.28,
+    "text": "open and shut, open and shut. The doors",
+    "textdich": ""
+  },
+  {
+    "start": 42.31,
+    "end": 47.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 42.32,
+    "end": 51.92,
+    "text": "on the bus go open and shut. All through",
+    "textdich": ""
+  },
+  {
+    "start": 47.27,
+    "end": 51.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 47.28,
+    "end": 55.68,
+    "text": "the town, the wipers on the bus go swish",
+    "textdich": ""
+  },
+  {
+    "start": 51.91,
+    "end": 55.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 51.92,
+    "end": 59.039,
+    "text": "swish swish swish swish swish swish",
+    "textdich": ""
+  },
+  {
+    "start": 55.67,
+    "end": 59.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 55.68,
+    "end": 65.96,
+    "text": "swish swish. The wipers on the bus go",
+    "textdich": ""
+  },
+  {
+    "start": 59.029,
+    "end": 65.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 59.039,
+    "end": 65.96,
+    "text": "swish swish swish all through the town.",
+    "textdich": ""
+  },
+  {
+    "start": 72.31,
+    "end": 72.31,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 72.32,
+    "end": 80.72,
+    "text": "The horn on the bus goes beep beep beep",
+    "textdich": ""
+  },
+  {
+    "start": 76.39,
+    "end": 80.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 76.4,
+    "end": 85.759,
+    "text": "beep beep beep beep beep beep. The horn",
+    "textdich": ""
+  },
+  {
+    "start": 80.71,
+    "end": 85.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 80.72,
+    "end": 87.6,
+    "text": "on the bus go beep beep beep all through",
+    "textdich": ""
+  },
+  {
+    "start": 85.749,
+    "end": 87.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 85.759,
+    "end": 92.24,
+    "text": "the town.",
+    "textdich": ""
+  },
+  {
+    "start": 87.59,
+    "end": 92.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 87.6,
+    "end": 96.56,
+    "text": "The people on the bus go up and down, up",
+    "textdich": ""
+  },
+  {
+    "start": 92.23,
+    "end": 96.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 92.24,
+    "end": 102.96,
+    "text": "and down, up and down. The people on the",
+    "textdich": ""
+  },
+  {
+    "start": 96.55,
+    "end": 102.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 96.56,
+    "end": 107.6,
+    "text": "bus go up and down all through the town.",
+    "textdich": ""
+  },
+  {
+    "start": 102.95,
+    "end": 107.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 102.96,
+    "end": 111.92,
+    "text": "The driver on the bus go on back, move",
+    "textdich": ""
+  },
+  {
+    "start": 107.59,
+    "end": 111.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 107.6,
+    "end": 118.159,
+    "text": "on back, move on back. The driver on the",
+    "textdich": ""
+  },
+  {
+    "start": 111.91,
+    "end": 118.159,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 111.92,
+    "end": 122.079,
+    "text": "bus go on back all through the town. The",
+    "textdich": ""
+  },
+  {
+    "start": 118.149,
+    "end": 122.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 118.159,
+    "end": 125.84,
+    "text": "wheels on the bus go round and round,",
+    "textdich": ""
+  },
+  {
+    "start": 122.069,
+    "end": 125.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 122.079,
+    "end": 130.64,
+    "text": "round and round, round and round. The",
+    "textdich": ""
+  },
+  {
+    "start": 125.83,
+    "end": 130.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 125.84,
+    "end": 134.599,
+    "text": "wheels on the bus go round and round all",
+    "textdich": ""
+  },
+  {
+    "start": 130.63,
+    "end": 134.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 130.64,
+    "end": 134.599,
+    "text": "through the town.",
+    "textdich": ""
+  },
+  {
+    "start": 145.35,
+    "end": 145.35,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 145.36,
+    "end": 150.319,
+    "text": "Come here to play finger family. Yes,",
+    "textdich": ""
+  },
+  {
+    "start": 147.91,
+    "end": 150.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 147.92,
+    "end": 153.04,
+    "text": "yes, yes.",
+    "textdich": ""
+  },
+  {
+    "start": 150.309,
+    "end": 153.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 150.319,
+    "end": 156.72,
+    "text": " Daddy finger, daddy finger, where are",
+    "textdich": ""
+  },
+  {
+    "start": 153.03,
+    "end": 156.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 153.04,
+    "end": 160.239,
+    "text": "you? Here I am, here I am. How do you",
+    "textdich": ""
+  },
+  {
+    "start": 156.71,
+    "end": 160.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 156.72,
+    "end": 163.28,
+    "text": "do? Daddy finger, daddy finger, what do",
+    "textdich": ""
+  },
+  {
+    "start": 160.229,
+    "end": 163.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 160.239,
+    "end": 167.16,
+    "text": "you do? Play trumpet, play trumpet,",
+    "textdich": ""
+  },
+  {
+    "start": 163.27,
+    "end": 167.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 163.28,
+    "end": 167.16,
+    "text": "that's what I do.",
+    "textdich": ""
+  },
+  {
+    "start": 179.83,
+    "end": 179.83,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 179.84,
+    "end": 186.319,
+    "text": "Mommy finger, mommy finger, where are",
+    "textdich": ""
+  },
+  {
+    "start": 182.55,
+    "end": 186.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 182.56,
+    "end": 189.76,
+    "text": "you? Here I am, here I am. How do you",
+    "textdich": ""
+  },
+  {
+    "start": 186.309,
+    "end": 189.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 186.319,
+    "end": 193.2,
+    "text": "do? Mommy finger, mommy finger, what do",
+    "textdich": ""
+  },
+  {
+    "start": 189.75,
+    "end": 193.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 189.76,
+    "end": 196.68,
+    "text": "you do? See doctor, sea doctor, that's",
+    "textdich": ""
+  },
+  {
+    "start": 193.19,
+    "end": 196.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 193.2,
+    "end": 196.68,
+    "text": "what I do.",
+    "textdich": ""
+  },
+  {
+    "start": 201.99,
+    "end": 201.99,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 202.0,
+    "end": 208.239,
+    "text": "Brother finger, brother finger, where",
+    "textdich": ""
+  },
+  {
+    "start": 204.309,
+    "end": 208.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 204.319,
+    "end": 211.44,
+    "text": "are you? Here I am. Here I am. How do",
+    "textdich": ""
+  },
+  {
+    "start": 208.229,
+    "end": 211.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 208.239,
+    "end": 214.0,
+    "text": "you do? Brother finger, brother finger,",
+    "textdich": ""
+  },
+  {
+    "start": 211.43,
+    "end": 214.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 211.44,
+    "end": 218.84,
+    "text": "what do you do? Building things.",
+    "textdich": ""
+  },
+  {
+    "start": 213.99,
+    "end": 218.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 214.0,
+    "end": 218.84,
+    "text": "Building things. That's what I do.",
+    "textdich": ""
+  },
+  {
+    "start": 231.43,
+    "end": 231.43,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 231.44,
+    "end": 238.0,
+    "text": "Sister finger, sister finger, where are",
+    "textdich": ""
+  },
+  {
+    "start": 234.229,
+    "end": 238.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 234.239,
+    "end": 241.28,
+    "text": "you? Here I am. Here I am. How do you",
+    "textdich": ""
+  },
+  {
+    "start": 237.99,
+    "end": 241.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 238.0,
+    "end": 244.0,
+    "text": "do? Sister finger, sister finger, what",
+    "textdich": ""
+  },
+  {
+    "start": 241.27,
+    "end": 244.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 241.28,
+    "end": 248.36,
+    "text": "do you do? Throw and paint. Throw and",
+    "textdich": ""
+  },
+  {
+    "start": 243.99,
+    "end": 248.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 244.0,
+    "end": 248.36,
+    "text": "paint. That's what I do.",
+    "textdich": ""
+  },
+  {
+    "start": 264.71,
+    "end": 264.71,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 264.72,
+    "end": 272.16,
+    "text": "Baby finger, baby finger, where are you?",
+    "textdich": ""
+  },
+  {
+    "start": 268.39,
+    "end": 272.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 268.4,
+    "end": 274.88,
+    "text": "Here I am. Here I am. How do you do?",
+    "textdich": ""
+  },
+  {
+    "start": 272.15,
+    "end": 274.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 272.16,
+    "end": 277.199,
+    "text": "Baby finger, baby finger, what do you",
+    "textdich": ""
+  },
+  {
+    "start": 274.87,
+    "end": 277.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 274.88,
+    "end": 281.639,
+    "text": "do? Play with friends. Play with",
+    "textdich": ""
+  },
+  {
+    "start": 277.189,
+    "end": 281.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 277.199,
+    "end": 281.639,
+    "text": "friends. That's what I do.",
+    "textdich": ""
+  },
+  {
+    "start": 281.83,
+    "end": 281.83,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 281.84,
+    "end": 290.68,
+    "text": "Hi. Hi. My flower is waking up. Goodbye",
+    "textdich": ""
+  },
+  {
+    "start": 286.469,
+    "end": 290.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 286.479,
+    "end": 290.68,
+    "text": "and play another day.",
+    "textdich": ""
+  },
+  {
+    "start": 295.27,
+    "end": 295.27,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 295.28,
+    "end": 301.72,
+    "text": " Wo! Surprise eggs.",
+    "textdich": ""
+  },
+  {
+    "start": 298.39,
+    "end": 301.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 298.4,
+    "end": 301.72,
+    "text": " They're moving.",
+    "textdich": ""
+  },
+  {
+    "start": 301.99,
+    "end": 301.99,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 302.0,
+    "end": 308.24,
+    "text": " They disappeared. What should we do?",
+    "textdich": ""
+  },
+  {
+    "start": 305.27,
+    "end": 308.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 305.28,
+    "end": 310.639,
+    "text": " Let me think.",
+    "textdich": ""
+  },
+  {
+    "start": 308.23,
+    "end": 310.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 308.24,
+    "end": 315.479,
+    "text": "We can find around here. Maybe they want",
+    "textdich": ""
+  },
+  {
+    "start": 310.629,
+    "end": 315.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 310.639,
+    "end": 315.479,
+    "text": "to play peekab-boo. Go. Go.",
+    "textdich": ""
+  },
+  {
+    "start": 318.469,
+    "end": 318.469,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 318.479,
+    "end": 324.96,
+    "text": "Huh?",
+    "textdich": ""
+  },
+  {
+    "start": 320.79,
+    "end": 324.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 320.8,
+    "end": 328.639,
+    "text": "What color? What color do you see? It is",
+    "textdich": ""
+  },
+  {
+    "start": 324.95,
+    "end": 328.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 324.96,
+    "end": 332.4,
+    "text": "red. It is red. Red. Red. Red. Color",
+    "textdich": ""
+  },
+  {
+    "start": 328.629,
+    "end": 332.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 328.639,
+    "end": 337.72,
+    "text": "red. Color red. Do you like it? Yes, I",
+    "textdich": ""
+  },
+  {
+    "start": 332.39,
+    "end": 337.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 332.4,
+    "end": 337.72,
+    "text": "do. Yes, I do. I love red.",
+    "textdich": ""
+  },
+  {
+    "start": 346.87,
+    "end": 346.87,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 346.88,
+    "end": 353.44,
+    "text": "The farmer mills the cow. The farmer",
+    "textdich": ""
+  },
+  {
+    "start": 349.749,
+    "end": 353.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 349.759,
+    "end": 357.479,
+    "text": "mills the cow. Hi-ho the derry-o. The",
+    "textdich": ""
+  },
+  {
+    "start": 353.43,
+    "end": 357.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 353.44,
+    "end": 357.479,
+    "text": "farmer mills the cow.",
+    "textdich": ""
+  },
+  {
+    "start": 369.67,
+    "end": 369.67,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 369.68,
+    "end": 377.12,
+    "text": "What color? What color do you see? It's",
+    "textdich": ""
+  },
+  {
+    "start": 373.749,
+    "end": 377.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 373.759,
+    "end": 379.44,
+    "text": "orange. It's orange. Orange. Orange",
+    "textdich": ""
+  },
+  {
+    "start": 377.11,
+    "end": 379.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 377.12,
+    "end": 383.68,
+    "text": "color. Orange. Color. Orange. Do you",
+    "textdich": ""
+  },
+  {
+    "start": 379.43,
+    "end": 383.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 379.44,
+    "end": 386.68,
+    "text": "like it? Yes, I do. Yes, I do. I love",
+    "textdich": ""
+  },
+  {
+    "start": 383.67,
+    "end": 386.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 383.68,
+    "end": 386.68,
+    "text": "orange.",
+    "textdich": ""
+  },
+  {
+    "start": 391.909,
+    "end": 391.909,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 391.919,
+    "end": 399.28,
+    "text": "What color? What color do you see? It's",
+    "textdich": ""
+  },
+  {
+    "start": 395.909,
+    "end": 399.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 395.919,
+    "end": 401.6,
+    "text": "orange. It's orange. Orange. Orange",
+    "textdich": ""
+  },
+  {
+    "start": 399.27,
+    "end": 401.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 399.28,
+    "end": 405.84,
+    "text": "color. Orange. Color. Orange. Do you",
+    "textdich": ""
+  },
+  {
+    "start": 401.59,
+    "end": 405.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 401.6,
+    "end": 408.84,
+    "text": "like it? Yes, I do. Yes, I do. I love",
+    "textdich": ""
+  },
+  {
+    "start": 405.83,
+    "end": 408.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 405.84,
+    "end": 408.84,
+    "text": "orange.",
+    "textdich": ""
+  },
+  {
+    "start": 413.909,
+    "end": 413.909,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 413.919,
+    "end": 422.199,
+    "text": "Huh?",
+    "textdich": ""
+  },
+  {
+    "start": 416.469,
+    "end": 422.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 416.479,
+    "end": 422.199,
+    "text": "Have you seen the next egg? Wait for me.",
+    "textdich": ""
+  },
+  {
+    "start": 425.35,
+    "end": 425.35,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 425.36,
+    "end": 432.68,
+    "text": "I see yellow egg. Guess what animals are",
+    "textdich": ""
+  },
+  {
+    "start": 428.95,
+    "end": 432.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 428.96,
+    "end": 432.68,
+    "text": "in the yellow egg?",
+    "textdich": ""
+  },
+  {
+    "start": 436.39,
+    "end": 436.39,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 436.4,
+    "end": 441.24,
+    "text": "It's a giraffe. Right.",
+    "textdich": ""
+  },
+  {
+    "start": 442.95,
+    "end": 442.95,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 442.96,
+    "end": 446.68,
+    "text": "He's eating leaves.",
+    "textdich": ""
+  },
+  {
+    "start": 447.11,
+    "end": 447.11,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 447.12,
+    "end": 450.52,
+    "text": "So cute.",
+    "textdich": ""
+  },
+  {
+    "start": 451.67,
+    "end": 451.67,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 451.68,
+    "end": 456.24,
+    "text": "Maybe the green egg is not here. I think",
+    "textdich": ""
+  },
+  {
+    "start": 454.07,
+    "end": 456.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 454.08,
+    "end": 458.0,
+    "text": "the green egg will be around the trees.",
+    "textdich": ""
+  },
+  {
+    "start": 456.23,
+    "end": 458.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 456.24,
+    "end": 459.44,
+    "text": "There it is. I'm right.",
+    "textdich": ""
+  },
+  {
+    "start": 457.99,
+    "end": 459.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 458.0,
+    "end": 460.88,
+    "text": " So good, monkey.",
+    "textdich": ""
+  },
+  {
+    "start": 459.43,
+    "end": 460.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 459.44,
+    "end": 462.08,
+    "text": " Let me take it down.",
+    "textdich": ""
+  },
+  {
+    "start": 460.87,
+    "end": 462.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 460.88,
+    "end": 467.4,
+    "text": " Be careful.",
+    "textdich": ""
+  },
+  {
+    "start": 462.07,
+    "end": 467.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 462.08,
+    "end": 467.4,
+    "text": " Ah, catch it, Bo. Here I am.",
+    "textdich": ""
+  },
+  {
+    "start": 469.189,
+    "end": 469.189,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 469.199,
+    "end": 473.8,
+    "text": " Open it, monkey.",
+    "textdich": ""
+  },
+  {
+    "start": 470.79,
+    "end": 473.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 470.8,
+    "end": 473.8,
+    "text": " Yes.",
+    "textdich": ""
+  },
+  {
+    "start": 474.469,
+    "end": 474.469,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 474.479,
+    "end": 477.72,
+    "text": "Oh yeah.",
+    "textdich": ""
+  },
+  {
+    "start": 478.79,
+    "end": 478.79,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 478.8,
+    "end": 486.4,
+    "text": " Old Macdonald had a farm, e-i-e-i-o.",
+    "textdich": ""
+  },
+  {
+    "start": 483.51,
+    "end": 486.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 483.52,
+    "end": 488.479,
+    "text": "And on his farm he had a duck.",
+    "textdich": ""
+  },
+  {
+    "start": 486.39,
+    "end": 488.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 486.4,
+    "end": 490.479,
+    "text": "E-i-e-i-o.",
+    "textdich": ""
+  },
+  {
+    "start": 488.469,
+    "end": 490.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 488.479,
+    "end": 492.319,
+    "text": "With a quack quack here and a quack",
+    "textdich": ""
+  },
+  {
+    "start": 490.469,
+    "end": 492.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 490.479,
+    "end": 494.24,
+    "text": "quack there. With a here quack, there a",
+    "textdich": ""
+  },
+  {
+    "start": 492.309,
+    "end": 494.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 492.319,
+    "end": 496.72,
+    "text": "quack, everywhere a quack quack. Oink",
+    "textdich": ""
+  },
+  {
+    "start": 494.23,
+    "end": 496.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 494.24,
+    "end": 499.28,
+    "text": "oink here and a oink oink there. Here an",
+    "textdich": ""
+  },
+  {
+    "start": 496.71,
+    "end": 499.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 496.72,
+    "end": 501.84,
+    "text": "oink, there a everywhere oink oi. Moo",
+    "textdich": ""
+  },
+  {
+    "start": 499.27,
+    "end": 501.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 499.28,
+    "end": 504.16,
+    "text": "moo here and a moo moo there. Here a",
+    "textdich": ""
+  },
+  {
+    "start": 501.83,
+    "end": 504.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 501.84,
+    "end": 509.639,
+    "text": "moo, there a moo, everywhere a moo moo.",
+    "textdich": ""
+  },
+  {
+    "start": 504.15,
+    "end": 509.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 504.16,
+    "end": 509.639,
+    "text": " Old Macdonald had a farm, e-i-e-i-o.",
+    "textdich": ""
+  },
+  {
+    "start": 523.909,
+    "end": 523.909,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 523.919,
+    "end": 529.36,
+    "text": "And on his farm he had a horse,",
+    "textdich": ""
+  },
+  {
+    "start": 526.79,
+    "end": 529.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 526.8,
+    "end": 534.399,
+    "text": "e-i-e-i-o.",
+    "textdich": ""
+  },
+  {
+    "start": 529.35,
+    "end": 534.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 529.36,
+    "end": 539.44,
+    "text": "Old Macdonald had a farm, e-i-e-i-o.",
+    "textdich": ""
+  },
+  {
+    "start": 534.389,
+    "end": 539.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 534.399,
+    "end": 544.48,
+    "text": "Old Macdonald had a farm, e-i-e-i-o.",
+    "textdich": ""
+  },
+  {
+    "start": 539.43,
+    "end": 544.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 539.44,
+    "end": 549.959,
+    "text": "Old Macdonald had a farm, e-i-e-i-o.",
+    "textdich": ""
+  },
+  {
+    "start": 544.47,
+    "end": 549.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 544.48,
+    "end": 549.959,
+    "text": "Old Macdonald had a farm, e-i-e-i-o.",
+    "textdich": ""
+  },
+  {
+    "start": 552.15,
+    "end": 552.15,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 552.16,
+    "end": 555.16,
+    "text": "E-i-e-i-o.",
+    "textdich": ""
+  },
+  {
+    "start": 560.07,
+    "end": 560.07,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 560.08,
+    "end": 567.0,
+    "text": "Wow, this gift is for us. How can we",
+    "textdich": ""
+  },
+  {
+    "start": 563.67,
+    "end": 567.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 563.68,
+    "end": 567.0,
+    "text": "open it?",
+    "textdich": ""
+  },
+  {
+    "start": 568.47,
+    "end": 568.47,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 568.48,
+    "end": 571.88,
+    "text": " It's moving.",
+    "textdich": ""
+  },
+  {
+    "start": 572.47,
+    "end": 572.47,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 572.48,
+    "end": 578.56,
+    "text": " Yes, it's a pick your own ice cream",
+    "textdich": ""
+  },
+  {
+    "start": 575.35,
+    "end": 578.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 575.36,
+    "end": 579.36,
+    "text": "machine. Do B Kid and his friends like",
+    "textdich": ""
+  },
+  {
+    "start": 578.55,
+    "end": 579.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 578.56,
+    "end": 582.36,
+    "text": "this gift?",
+    "textdich": ""
+  },
+  {
+    "start": 579.35,
+    "end": 582.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 579.36,
+    "end": 582.36,
+    "text": " Yeah.",
+    "textdich": ""
+  },
+  {
+    "start": 586.31,
+    "end": 586.31,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 586.32,
+    "end": 592.04,
+    "text": "Huh? Stop. I have a plan.",
+    "textdich": ""
+  },
+  {
+    "start": 589.03,
+    "end": 592.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 589.04,
+    "end": 592.04,
+    "text": " Oh.",
+    "textdich": ""
+  },
+  {
+    "start": 592.71,
+    "end": 592.71,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 592.72,
+    "end": 599.2,
+    "text": " Oh, it seems like friends trust Bit a",
+    "textdich": ""
+  },
+  {
+    "start": 595.99,
+    "end": 599.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 596.0,
+    "end": 601.519,
+    "text": "lot. So now, what should we do so we",
+    "textdich": ""
+  },
+  {
+    "start": 599.19,
+    "end": 601.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 599.2,
+    "end": 604.08,
+    "text": "don't fight with each other anymore?",
+    "textdich": ""
+  },
+  {
+    "start": 601.509,
+    "end": 604.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 601.519,
+    "end": 606.8,
+    "text": "Just line up and everyone will get ice",
+    "textdich": ""
+  },
+  {
+    "start": 604.07,
+    "end": 606.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 604.08,
+    "end": 610.08,
+    "text": "cream. Sharing things is something good.",
+    "textdich": ""
+  },
+  {
+    "start": 606.79,
+    "end": 610.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 606.8,
+    "end": 613.44,
+    "text": "Do you agree? Sharing things will bring",
+    "textdich": ""
+  },
+  {
+    "start": 610.07,
+    "end": 613.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 610.08,
+    "end": 615.519,
+    "text": "you joy. What do you think? Mommy, I",
+    "textdich": ""
+  },
+  {
+    "start": 613.43,
+    "end": 615.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 613.44,
+    "end": 617.839,
+    "text": "would like to help you and to share my",
+    "textdich": ""
+  },
+  {
+    "start": 615.509,
+    "end": 617.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 615.519,
+    "end": 621.2,
+    "text": "time with you. You make really much for",
+    "textdich": ""
+  },
+  {
+    "start": 617.829,
+    "end": 621.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 617.839,
+    "end": 624.399,
+    "text": "me and I want to. Sharing things is",
+    "textdich": ""
+  },
+  {
+    "start": 621.19,
+    "end": 624.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 621.2,
+    "end": 626.399,
+    "text": "something good. Oh yes. Oh yes. Sharing",
+    "textdich": ""
+  },
+  {
+    "start": 624.389,
+    "end": 626.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 624.399,
+    "end": 630.16,
+    "text": "things will bring you joy. Oh yes. Oh",
+    "textdich": ""
+  },
+  {
+    "start": 626.389,
+    "end": 630.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 626.399,
+    "end": 632.48,
+    "text": "yes. Giving something to another without",
+    "textdich": ""
+  },
+  {
+    "start": 630.15,
+    "end": 632.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 630.16,
+    "end": 635.76,
+    "text": "asking something back. Sharing is that",
+    "textdich": ""
+  },
+  {
+    "start": 632.47,
+    "end": 635.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 632.48,
+    "end": 639.04,
+    "text": "will bring happiness to us. Sharing",
+    "textdich": ""
+  },
+  {
+    "start": 635.75,
+    "end": 639.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 635.76,
+    "end": 641.04,
+    "text": "things is something good. Do you agree?",
+    "textdich": ""
+  },
+  {
+    "start": 639.03,
+    "end": 641.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 639.04,
+    "end": 644.079,
+    "text": "Sharing things will bring you joy.",
+    "textdich": ""
+  },
+  {
+    "start": 641.03,
+    "end": 644.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 641.04,
+    "end": 646.16,
+    "text": "through your tears. Mommy, I would like",
+    "textdich": ""
+  },
+  {
+    "start": 644.069,
+    "end": 646.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 644.079,
+    "end": 648.88,
+    "text": "to help you and to share my time with",
+    "textdich": ""
+  },
+  {
+    "start": 646.15,
+    "end": 648.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 646.16,
+    "end": 651.839,
+    "text": "you. You make really much for me and I",
+    "textdich": ""
+  },
+  {
+    "start": 648.87,
+    "end": 651.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 648.88,
+    "end": 655.2,
+    "text": "want to sharing things is something",
+    "textdich": ""
+  },
+  {
+    "start": 651.829,
+    "end": 655.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 651.839,
+    "end": 658.48,
+    "text": "good. Do you agree? Sharing things will",
+    "textdich": ""
+  },
+  {
+    "start": 655.19,
+    "end": 658.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 655.2,
+    "end": 660.88,
+    "text": "bring you joy. What do you think? Mommy,",
+    "textdich": ""
+  },
+  {
+    "start": 658.47,
+    "end": 660.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 658.48,
+    "end": 663.2,
+    "text": "I would like to help you and to share my",
+    "textdich": ""
+  },
+  {
+    "start": 660.87,
+    "end": 663.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 660.88,
+    "end": 666.56,
+    "text": "time with you. You make really much for",
+    "textdich": ""
+  },
+  {
+    "start": 663.19,
+    "end": 666.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 663.2,
+    "end": 669.76,
+    "text": "me and I want to sharing things is",
+    "textdich": ""
+  },
+  {
+    "start": 666.55,
+    "end": 669.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 666.56,
+    "end": 673.2,
+    "text": "something good. Oh yes. Oh yes. Sharing",
+    "textdich": ""
+  },
+  {
+    "start": 669.75,
+    "end": 673.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 669.76,
+    "end": 675.519,
+    "text": "things will bring you joy or yes or no.",
+    "textdich": ""
+  },
+  {
+    "start": 673.19,
+    "end": 675.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 673.2,
+    "end": 677.839,
+    "text": "Giving something to another without",
+    "textdich": ""
+  },
+  {
+    "start": 675.509,
+    "end": 677.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 675.519,
+    "end": 682.36,
+    "text": "asking something back. Sharing is that",
+    "textdich": ""
+  },
+  {
+    "start": 677.829,
+    "end": 682.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 677.839,
+    "end": 682.36,
+    "text": "will bring happiness to us.",
+    "textdich": ""
+  },
+  {
+    "start": 683.59,
+    "end": 683.59,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 683.6,
+    "end": 688.44,
+    "text": "Oh no, my ice cream fell down.",
+    "textdich": ""
+  },
+  {
+    "start": 689.67,
+    "end": 689.67,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 689.68,
+    "end": 695.279,
+    "text": "Bit. Haha. You only eat ice cream cone",
+    "textdich": ""
+  },
+  {
+    "start": 693.11,
+    "end": 695.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 693.12,
+    "end": 698.92,
+    "text": "bunny. I thought you would share your",
+    "textdich": ""
+  },
+  {
+    "start": 695.269,
+    "end": 698.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 695.279,
+    "end": 698.92,
+    "text": "ice cream with me.",
+    "textdich": ""
+  },
+  {
+    "start": 700.63,
+    "end": 700.63,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 700.64,
+    "end": 706.64,
+    "text": "Bunny, eat my ice cream. Your soul",
+    "textdich": ""
+  },
+  {
+    "start": 703.35,
+    "end": 706.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 703.36,
+    "end": 709.64,
+    "text": "coming from Is it delicious? Yes, yes,",
+    "textdich": ""
+  },
+  {
+    "start": 706.63,
+    "end": 709.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 706.64,
+    "end": 709.64,
+    "text": "yes.",
+    "textdich": ""
+  },
+  {
+    "start": 711.03,
+    "end": 711.03,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 711.04,
+    "end": 718.72,
+    "text": "Let's work together in the kitchen.",
+    "textdich": ""
+  },
+  {
+    "start": 714.069,
+    "end": 718.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 714.079,
+    "end": 722.959,
+    "text": "Let's make yummy ice cream. What do we",
+    "textdich": ""
+  },
+  {
+    "start": 718.71,
+    "end": 722.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 718.72,
+    "end": 726.959,
+    "text": "have? What do we have to make yummy ice",
+    "textdich": ""
+  },
+  {
+    "start": 722.949,
+    "end": 726.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 722.959,
+    "end": 731.92,
+    "text": "cream? Some juicy fruit, some cookies",
+    "textdich": ""
+  },
+  {
+    "start": 726.949,
+    "end": 731.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 726.959,
+    "end": 736.72,
+    "text": "and milk for our yummy ice cream.",
+    "textdich": ""
+  },
+  {
+    "start": 731.91,
+    "end": 736.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 731.92,
+    "end": 739.72,
+    "text": "Ice cream. Ice cream. We love yummy ice",
+    "textdich": ""
+  },
+  {
+    "start": 736.71,
+    "end": 739.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 736.72,
+    "end": 739.72,
+    "text": "cream.",
+    "textdich": ""
+  },
+  {
+    "start": 741.829,
+    "end": 741.829,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 741.839,
+    "end": 749.519,
+    "text": "Let's work together in the kitchen.",
+    "textdich": ""
+  },
+  {
+    "start": 744.87,
+    "end": 749.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 744.88,
+    "end": 753.519,
+    "text": "Let's make yummy ice cream. Oh, we can't",
+    "textdich": ""
+  },
+  {
+    "start": 749.509,
+    "end": 753.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 749.519,
+    "end": 758.079,
+    "text": "wait. Oh, we can't wait to make yummy",
+    "textdich": ""
+  },
+  {
+    "start": 753.509,
+    "end": 758.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 753.519,
+    "end": 762.8,
+    "text": "ice cream. So colorful, so cool and",
+    "textdich": ""
+  },
+  {
+    "start": 758.069,
+    "end": 762.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 758.079,
+    "end": 767.6,
+    "text": "sweet. Is our yummy ice cream.",
+    "textdich": ""
+  },
+  {
+    "start": 762.79,
+    "end": 767.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 762.8,
+    "end": 769.92,
+    "text": "Ice cream. Ice cream. We love yummy ice",
+    "textdich": ""
+  },
+  {
+    "start": 767.59,
+    "end": 769.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 767.6,
+    "end": 774.399,
+    "text": "cream. I'll get all the ice cream in the",
+    "textdich": ""
+  },
+  {
+    "start": 769.91,
+    "end": 774.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 769.92,
+    "end": 776.56,
+    "text": "world. All colors. Right, right, right.",
+    "textdich": ""
+  },
+  {
+    "start": 774.389,
+    "end": 776.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 774.399,
+    "end": 779.92,
+    "text": "Oh my god, the ice cream fell to the",
+    "textdich": ""
+  },
+  {
+    "start": 776.55,
+    "end": 779.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 776.56,
+    "end": 782.16,
+    "text": "ground. Haha. That's not good. We can",
+    "textdich": ""
+  },
+  {
+    "start": 779.91,
+    "end": 782.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 779.92,
+    "end": 785.399,
+    "text": "get enough and share with each other.",
+    "textdich": ""
+  },
+  {
+    "start": 782.15,
+    "end": 785.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 782.16,
+    "end": 785.399,
+    "text": "That's right",
+    "textdich": ""
+  },
+  {
+    "start": 787.43,
+    "end": 787.43,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 787.44,
+    "end": 790.92,
+    "text": "and your family.",
+    "textdich": ""
+  },
+  {
+    "start": 794.389,
+    "end": 794.389,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 794.399,
+    "end": 801.76,
+    "text": " Where is my dad?",
+    "textdich": ""
+  },
+  {
+    "start": 797.829,
+    "end": 801.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 797.839,
+    "end": 802.639,
+    "text": "Balloon one. Balloon one. Where is it?",
+    "textdich": ""
+  },
+  {
+    "start": 801.75,
+    "end": 802.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 801.76,
+    "end": 807.44,
+    "text": " Hello kids.",
+    "textdich": ""
+  },
+  {
+    "start": 802.629,
+    "end": 807.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 802.639,
+    "end": 809.76,
+    "text": " Here it is. Here it is on a finger.",
+    "textdich": ""
+  },
+  {
+    "start": 807.43,
+    "end": 809.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 807.44,
+    "end": 812.24,
+    "text": "Balloon one.",
+    "textdich": ""
+  },
+  {
+    "start": 809.75,
+    "end": 812.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 809.76,
+    "end": 815.44,
+    "text": "What's the color?",
+    "textdich": ""
+  },
+  {
+    "start": 812.23,
+    "end": 815.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 812.24,
+    "end": 818.44,
+    "text": "It is blue and blue. Blue balloon",
+    "textdich": ""
+  },
+  {
+    "start": 815.43,
+    "end": 818.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 815.44,
+    "end": 818.44,
+    "text": "finger.",
+    "textdich": ""
+  },
+  {
+    "start": 836.15,
+    "end": 836.15,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 836.16,
+    "end": 845.839,
+    "text": " Balloon. Balloon two, where is it? Here",
+    "textdich": ""
+  },
+  {
+    "start": 841.269,
+    "end": 845.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 841.279,
+    "end": 848.88,
+    "text": "it is. Here it is on a finger.",
+    "textdich": ""
+  },
+  {
+    "start": 845.829,
+    "end": 848.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 845.839,
+    "end": 850.639,
+    "text": "Balloon two. Balloon two. What's the",
+    "textdich": ""
+  },
+  {
+    "start": 848.87,
+    "end": 850.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 848.88,
+    "end": 853.839,
+    "text": "color?",
+    "textdich": ""
+  },
+  {
+    "start": 850.629,
+    "end": 853.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 850.639,
+    "end": 855.44,
+    "text": "It is pink. Here is pink. Pink balloon",
+    "textdich": ""
+  },
+  {
+    "start": 853.829,
+    "end": 855.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 853.839,
+    "end": 858.88,
+    "text": "finger.",
+    "textdich": ""
+  },
+  {
+    "start": 855.43,
+    "end": 858.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 855.44,
+    "end": 865.04,
+    "text": "Balloon three. Balloon three. Where is",
+    "textdich": ""
+  },
+  {
+    "start": 858.87,
+    "end": 865.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 858.88,
+    "end": 868.079,
+    "text": "it? Here it is. Here it is on a finger.",
+    "textdich": ""
+  },
+  {
+    "start": 865.03,
+    "end": 868.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 865.04,
+    "end": 869.839,
+    "text": "Bowl three. Balloon three. What's the",
+    "textdich": ""
+  },
+  {
+    "start": 868.069,
+    "end": 869.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 868.079,
+    "end": 873.04,
+    "text": "color?",
+    "textdich": ""
+  },
+  {
+    "start": 869.829,
+    "end": 873.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 869.839,
+    "end": 874.639,
+    "text": "It is green. It is green. Green balloon",
+    "textdich": ""
+  },
+  {
+    "start": 873.03,
+    "end": 874.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 873.04,
+    "end": 879.44,
+    "text": "finger.",
+    "textdich": ""
+  },
+  {
+    "start": 874.629,
+    "end": 879.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 874.639,
+    "end": 884.24,
+    "text": "Balloon for balloon for where is it?",
+    "textdich": ""
+  },
+  {
+    "start": 879.43,
+    "end": 884.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 879.44,
+    "end": 887.279,
+    "text": "Here it is. Here it is on a finger.",
+    "textdich": ""
+  },
+  {
+    "start": 884.23,
+    "end": 887.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 884.24,
+    "end": 889.04,
+    "text": "Balloon for balloon for what's the",
+    "textdich": ""
+  },
+  {
+    "start": 887.269,
+    "end": 889.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 887.279,
+    "end": 892.24,
+    "text": "color?",
+    "textdich": ""
+  },
+  {
+    "start": 889.03,
+    "end": 892.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 889.04,
+    "end": 895.24,
+    "text": "It is red. It is red. Red balloon",
+    "textdich": ""
+  },
+  {
+    "start": 892.23,
+    "end": 895.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 892.24,
+    "end": 895.24,
+    "text": "finger.",
+    "textdich": ""
+  },
+  {
+    "start": 903.43,
+    "end": 903.43,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 903.44,
+    "end": 913.04,
+    "text": "Balloon five. Balloon five. Where is it?",
+    "textdich": ""
+  },
+  {
+    "start": 908.23,
+    "end": 913.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 908.24,
+    "end": 916.079,
+    "text": "Here it is. Here it is on a finger.",
+    "textdich": ""
+  },
+  {
+    "start": 913.03,
+    "end": 916.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 913.04,
+    "end": 917.76,
+    "text": "Balloon five. Balloon five. What's the",
+    "textdich": ""
+  },
+  {
+    "start": 916.069,
+    "end": 917.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 916.079,
+    "end": 920.8,
+    "text": "color?",
+    "textdich": ""
+  },
+  {
+    "start": 917.75,
+    "end": 920.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 917.76,
+    "end": 923.04,
+    "text": "It's yellow. It's yellow. Yellow.",
+    "textdich": ""
+  },
+  {
+    "start": 920.79,
+    "end": 923.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 920.8,
+    "end": 927.36,
+    "text": "Balloon finger.",
+    "textdich": ""
+  },
+  {
+    "start": 923.03,
+    "end": 927.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 923.04,
+    "end": 932.48,
+    "text": "Blow up, blow up all the balloons.",
+    "textdich": ""
+  },
+  {
+    "start": 927.35,
+    "end": 932.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 927.36,
+    "end": 937.04,
+    "text": "They get so big and they goes boom. It's",
+    "textdich": ""
+  },
+  {
+    "start": 932.47,
+    "end": 937.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 932.48,
+    "end": 943.04,
+    "text": "so much fun to play with the balloon.",
+    "textdich": ""
+  },
+  {
+    "start": 937.03,
+    "end": 943.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 937.04,
+    "end": 947.839,
+    "text": "One 2 3 4 five balloons.",
+    "textdich": ""
+  },
+  {
+    "start": 943.03,
+    "end": 947.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 943.04,
+    "end": 951.199,
+    "text": " Ice cream colors. Ice cream colors.",
+    "textdich": ""
+  },
+  {
+    "start": 947.829,
+    "end": 951.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 947.839,
+    "end": 952.959,
+    "text": " Yeah, I love ice cream. We want ice",
+    "textdich": ""
+  },
+  {
+    "start": 951.189,
+    "end": 952.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 951.199,
+    "end": 955.36,
+    "text": "cream. Ice man.",
+    "textdich": ""
+  },
+  {
+    "start": 952.949,
+    "end": 955.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 952.959,
+    "end": 958.68,
+    "text": " Kids, come here and choose your favorite",
+    "textdich": ""
+  },
+  {
+    "start": 955.35,
+    "end": 958.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 955.36,
+    "end": 958.68,
+    "text": "ice cream.",
+    "textdich": ""
+  },
+  {
+    "start": 962.87,
+    "end": 962.87,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 962.88,
+    "end": 968.48,
+    "text": " Wow, I love it.",
+    "textdich": ""
+  },
+  {
+    "start": 965.43,
+    "end": 968.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 965.44,
+    "end": 973.199,
+    "text": " Let's work together in the kitchen.",
+    "textdich": ""
+  },
+  {
+    "start": 968.47,
+    "end": 973.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 968.48,
+    "end": 977.44,
+    "text": "Let's make yummy ice cream. What do we",
+    "textdich": ""
+  },
+  {
+    "start": 973.189,
+    "end": 977.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 973.199,
+    "end": 981.36,
+    "text": "have? What do we have to make yummy ice",
+    "textdich": ""
+  },
+  {
+    "start": 977.43,
+    "end": 981.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 977.44,
+    "end": 986.399,
+    "text": "cream? Some juicy fruit. Some cookies",
+    "textdich": ""
+  },
+  {
+    "start": 981.35,
+    "end": 986.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 981.36,
+    "end": 991.199,
+    "text": "and milk for our yummy ice cream.",
+    "textdich": ""
+  },
+  {
+    "start": 986.389,
+    "end": 991.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 986.399,
+    "end": 994.199,
+    "text": "Ice cream. Ice cream. We love yummy ice",
+    "textdich": ""
+  },
+  {
+    "start": 991.189,
+    "end": 994.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 991.199,
+    "end": 994.199,
+    "text": "cream.",
+    "textdich": ""
+  },
+  {
+    "start": 996.23,
+    "end": 996.23,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 996.24,
+    "end": 1004.0,
+    "text": "Let's work together in the kitchen.",
+    "textdich": ""
+  },
+  {
+    "start": 999.35,
+    "end": 1004.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 999.36,
+    "end": 1007.92,
+    "text": "Let's make yummy ice cream. Oh, we can't",
+    "textdich": ""
+  },
+  {
+    "start": 1003.99,
+    "end": 1007.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1004.0,
+    "end": 1012.56,
+    "text": "wait. Oh, we can't wait to make yummy",
+    "textdich": ""
+  },
+  {
+    "start": 1007.91,
+    "end": 1012.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1007.92,
+    "end": 1017.199,
+    "text": "ice cream. So colorful, so cool, and",
+    "textdich": ""
+  },
+  {
+    "start": 1012.55,
+    "end": 1017.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1012.56,
+    "end": 1022.079,
+    "text": "sweet. It's our yummy ice cream.",
+    "textdich": ""
+  },
+  {
+    "start": 1017.189,
+    "end": 1022.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1017.199,
+    "end": 1025.079,
+    "text": "Ice cream. Ice cream. We love yummy ice",
+    "textdich": ""
+  },
+  {
+    "start": 1022.069,
+    "end": 1025.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1022.079,
+    "end": 1025.079,
+    "text": "cream.",
+    "textdich": ""
+  },
+  {
+    "start": 1027.189,
+    "end": 1027.189,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1027.199,
+    "end": 1034.959,
+    "text": "Let's work together in the kitchen.",
+    "textdich": ""
+  },
+  {
+    "start": 1030.23,
+    "end": 1034.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1030.24,
+    "end": 1039.199,
+    "text": "Let's make yummy ice cream. What do we",
+    "textdich": ""
+  },
+  {
+    "start": 1034.949,
+    "end": 1039.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1034.959,
+    "end": 1043.12,
+    "text": "have? What do we have to make yummy ice",
+    "textdich": ""
+  },
+  {
+    "start": 1039.189,
+    "end": 1043.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1039.199,
+    "end": 1048.079,
+    "text": "cream? Some juicy fruit, some cookies",
+    "textdich": ""
+  },
+  {
+    "start": 1043.11,
+    "end": 1048.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1043.12,
+    "end": 1052.88,
+    "text": "and milk for our yummy ice cream.",
+    "textdich": ""
+  },
+  {
+    "start": 1048.069,
+    "end": 1052.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1048.079,
+    "end": 1055.88,
+    "text": "Ice cream. Ice cream. We love yummy ice",
+    "textdich": ""
+  },
+  {
+    "start": 1052.87,
+    "end": 1055.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1052.88,
+    "end": 1055.88,
+    "text": "cream.",
+    "textdich": ""
+  },
+  {
+    "start": 1057.99,
+    "end": 1057.99,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1058.0,
+    "end": 1065.679,
+    "text": " Let's work together in the kitchen.",
+    "textdich": ""
+  },
+  {
+    "start": 1061.029,
+    "end": 1065.679,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1061.039,
+    "end": 1069.679,
+    "text": "Let's make yummy ice cream. Oh, we can't",
+    "textdich": ""
+  },
+  {
+    "start": 1065.669,
+    "end": 1069.679,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1065.679,
+    "end": 1074.24,
+    "text": "wait. Oh, we can't wait to make yummy",
+    "textdich": ""
+  },
+  {
+    "start": 1069.669,
+    "end": 1074.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1069.679,
+    "end": 1078.96,
+    "text": "ice cream. So colorful, so cool and",
+    "textdich": ""
+  },
+  {
+    "start": 1074.23,
+    "end": 1078.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1074.24,
+    "end": 1083.76,
+    "text": "sweet is our yummy ice cream.",
+    "textdich": ""
+  },
+  {
+    "start": 1078.95,
+    "end": 1083.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1078.96,
+    "end": 1088.48,
+    "text": "Ice cream. Ice cream. We love yummy ice",
+    "textdich": ""
+  },
+  {
+    "start": 1083.75,
+    "end": 1088.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1083.76,
+    "end": 1093.2,
+    "text": "cream. Ice cream. Ice cream. We love",
+    "textdich": ""
+  },
+  {
+    "start": 1088.47,
+    "end": 1093.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1088.48,
+    "end": 1098.76,
+    "text": "yummy ice cream. Yummy ice cream. Ice",
+    "textdich": ""
+  },
+  {
+    "start": 1093.19,
+    "end": 1098.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1093.2,
+    "end": 1098.76,
+    "text": "cream. We love yummy ice cream.",
+    "textdich": ""
+  }
+]
