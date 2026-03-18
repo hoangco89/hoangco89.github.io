@@ -1,0 +1,2306 @@
+[
+  {
+    "start": 6.039,
+    "end": 7.367,
+    "text": "Would you like a drink, sir?",
+    "textdich": ""
+  },
+  {
+    "start": 8.357,
+    "end": 10.01,
+    "text": "Yes, a diet Coke, please.",
+    "textdich": ""
+  },
+  {
+    "start": 10.01,
+    "end": 11.231,
+    "text": "Ice and lemon?",
+    "textdich": ""
+  },
+  {
+    "start": 11.385,
+    "end": 12.408,
+    "text": "Just lemon.",
+    "textdich": ""
+  },
+  {
+    "start": 23.458,
+    "end": 24.481,
+    "text": "Here you are.",
+    "textdich": ""
+  },
+  {
+    "start": 24.481,
+    "end": 25.308,
+    "text": "Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 32.845,
+    "end": 34.12,
+    "text": "Coffee? Tea?",
+    "textdich": ""
+  },
+  {
+    "start": 34.12,
+    "end": 34.997,
+    "text": "Coffee, please.",
+    "textdich": ""
+  },
+  {
+    "start": 42.269,
+    "end": 42.809,
+    "text": "Milk?",
+    "textdich": ""
+  },
+  {
+    "start": 42.809,
+    "end": 43.811,
+    "text": "Yes, please.",
+    "textdich": ""
+  },
+  {
+    "start": 45.334,
+    "end": 46.413,
+    "text": "Sugar?",
+    "textdich": ""
+  },
+  {
+    "start": 46.413,
+    "end": 47.663,
+    "text": "No, thanks.",
+    "textdich": ""
+  },
+  {
+    "start": 52.007,
+    "end": 52.783,
+    "text": "Here you are.",
+    "textdich": ""
+  },
+  {
+    "start": 52.783,
+    "end": 53.585,
+    "text": "Thanks.",
+    "textdich": ""
+  },
+  {
+    "start": 70.916,
+    "end": 72.977,
+    "text": "Hello. Are you Mark Ryder?",
+    "textdich": ""
+  },
+  {
+    "start": 72.983,
+    "end": 74.15,
+    "text": "Yes. Are you Allie?",
+    "textdich": ""
+  },
+  {
+    "start": 74.15,
+    "end": 74.815,
+    "text": "Yes, I am.",
+    "textdich": ""
+  },
+  {
+    "start": 74.815,
+    "end": 75.492,
+    "text": "Nice to meet you.",
+    "textdich": ""
+  },
+  {
+    "start": 75.492,
+    "end": 77.204,
+    "text": "And you.\nWelcome to the UK.",
+    "textdich": ""
+  },
+  {
+    "start": 77.547,
+    "end": 79.12,
+    "text": "Your hotel’s in the city center.",
+    "textdich": ""
+  },
+  {
+    "start": 79.12,
+    "end": 79.987,
+    "text": "How far is it?",
+    "textdich": ""
+  },
+  {
+    "start": 80.448,
+    "end": 82.241,
+    "text": "It’s about 30 minutes if the traffic’s Ok.",
+    "textdich": ""
+  },
+  {
+    "start": 82.507,
+    "end": 83.019,
+    "text": "Great!",
+    "textdich": ""
+  },
+  {
+    "start": 83.324,
+    "end": 84.422,
+    "text": "Would you like a coffee first?",
+    "textdich": ""
+  },
+  {
+    "start": 84.422,
+    "end": 85.817,
+    "text": "No, I’m fine, thanks.",
+    "textdich": ""
+  },
+  {
+    "start": 85.817,
+    "end": 86.778,
+    "text": "All right, let’s go.",
+    "textdich": ""
+  },
+  {
+    "start": 87.337,
+    "end": 88.352,
+    "text": "My car’s in the car park.",
+    "textdich": ""
+  },
+  {
+    "start": 88.723,
+    "end": 90.166,
+    "text": "Can I help you with your bags?",
+    "textdich": ""
+  },
+  {
+    "start": 90.364,
+    "end": 91.536,
+    "text": "No, it’s Ok. Thanks.",
+    "textdich": ""
+  },
+  {
+    "start": 93.858,
+    "end": 94.861,
+    "text": "Good evening, sir.",
+    "textdich": ""
+  },
+  {
+    "start": 94.888,
+    "end": 96.363,
+    "text": "Hello. I have a reservation.",
+    "textdich": ""
+  },
+  {
+    "start": 96.591,
+    "end": 97.812,
+    "text": "My name’s Mark Ryder.",
+    "textdich": ""
+  },
+  {
+    "start": 98.149,
+    "end": 99.461,
+    "text": "Can you spell that, please?",
+    "textdich": ""
+  },
+  {
+    "start": 99.656,
+    "end": 101.268,
+    "text": "R-Y-D-E-R.",
+    "textdich": ""
+  },
+  {
+    "start": 103.427,
+    "end": 104.936,
+    "text": "For five nights?",
+    "textdich": ""
+  },
+  {
+    "start": 104.936,
+    "end": 106.013,
+    "text": "Yes, that’s right.",
+    "textdich": ""
+  },
+  {
+    "start": 106.013,
+    "end": 107.545,
+    "text": "Can I have your passport, please?",
+    "textdich": ""
+  },
+  {
+    "start": 107.847,
+    "end": 108.759,
+    "text": "Just a moment.",
+    "textdich": ""
+  },
+  {
+    "start": 109.725,
+    "end": 110.68,
+    "text": "Here you are.",
+    "textdich": ""
+  },
+  {
+    "start": 115.763,
+    "end": 117.185,
+    "text": "Can you sign here, please?",
+    "textdich": ""
+  },
+  {
+    "start": 118.317,
+    "end": 120.258,
+    "text": "Do you want a smoking\nor non-smoking room?",
+    "textdich": ""
+  },
+  {
+    "start": 120.54,
+    "end": 121.778,
+    "text": "Non-smoking, please.",
+    "textdich": ""
+  },
+  {
+    "start": 124.113,
+    "end": 125.065,
+    "text": "Here’s your key.",
+    "textdich": ""
+  },
+  {
+    "start": 125.563,
+    "end": 127.734,
+    "text": "It’s room 425, on the fourth floor.",
+    "textdich": ""
+  },
+  {
+    "start": 127.734,
+    "end": 128.309,
+    "text": "Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 128.739,
+    "end": 129.964,
+    "text": "Oh, where’s the lift?",
+    "textdich": ""
+  },
+  {
+    "start": 130.256,
+    "end": 131.066,
+    "text": "It’s over there.",
+    "textdich": ""
+  },
+  {
+    "start": 131.442,
+    "end": 132.458,
+    "text": "Do you need help with your bags?",
+    "textdich": ""
+  },
+  {
+    "start": 132.458,
+    "end": 134.025,
+    "text": "No, it’s Ok. Thanks.",
+    "textdich": ""
+  },
+  {
+    "start": 134.127,
+    "end": 135.44,
+    "text": "Enjoy your stay, Mr. Ryder.",
+    "textdich": ""
+  },
+  {
+    "start": 135.767,
+    "end": 136.267,
+    "text": "Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 137.774,
+    "end": 140.135,
+    "text": "Where are you from in the United States, Mark?",
+    "textdich": ""
+  },
+  {
+    "start": 140.156,
+    "end": 141.972,
+    "text": "The west Coast, San Francisco.",
+    "textdich": ""
+  },
+  {
+    "start": 141.972,
+    "end": 142.836,
+    "text": "Is it nice?",
+    "textdich": ""
+  },
+  {
+    "start": 142.881,
+    "end": 144.172,
+    "text": "Oh yeah. It’s a great city.",
+    "textdich": ""
+  },
+  {
+    "start": 144.172,
+    "end": 145.288,
+    "text": "Are you from London?",
+    "textdich": ""
+  },
+  {
+    "start": 145.288,
+    "end": 146.727,
+    "text": "No, I’m from Cambridge.",
+    "textdich": ""
+  },
+  {
+    "start": 146.727,
+    "end": 149.589,
+    "text": "My family live there,\nbut I live here in London.",
+    "textdich": ""
+  },
+  {
+    "start": 151.11,
+    "end": 151.916,
+    "text": "Sorry.",
+    "textdich": ""
+  },
+  {
+    "start": 156.288,
+    "end": 157.892,
+    "text": "Hello, darling. How are you?",
+    "textdich": ""
+  },
+  {
+    "start": 158.566,
+    "end": 159.791,
+    "text": "I’m fine, yeah.",
+    "textdich": ""
+  },
+  {
+    "start": 160.939,
+    "end": 161.789,
+    "text": "Don’t worry.",
+    "textdich": ""
+  },
+  {
+    "start": 163.337,
+    "end": 164.514,
+    "text": "Fine, fine.",
+    "textdich": ""
+  },
+  {
+    "start": 165.065,
+    "end": 165.871,
+    "text": "That’s great!",
+    "textdich": ""
+  },
+  {
+    "start": 168.722,
+    "end": 171.221,
+    "text": "Bye, darling.\nI love you.",
+    "textdich": ""
+  },
+  {
+    "start": 173.755,
+    "end": 174.371,
+    "text": "Sorry.",
+    "textdich": ""
+  },
+  {
+    "start": 174.696,
+    "end": 176.062,
+    "text": "That’s Ok. Your wife?",
+    "textdich": ""
+  },
+  {
+    "start": 176.062,
+    "end": 177.338,
+    "text": "No, no.\nMy daughter.",
+    "textdich": ""
+  },
+  {
+    "start": 177.338,
+    "end": 179.202,
+    "text": "She always phones me when I’m travelling.",
+    "textdich": ""
+  },
+  {
+    "start": 179.965,
+    "end": 181.025,
+    "text": "How old is she?",
+    "textdich": ""
+  },
+  {
+    "start": 181.101,
+    "end": 183.702,
+    "text": "She’s 9.\nShe lives with her mother in Los Angeles.",
+    "textdich": ""
+  },
+  {
+    "start": 184.602,
+    "end": 185.899,
+    "text": "We’re divorced.",
+    "textdich": ""
+  },
+  {
+    "start": 186.335,
+    "end": 187.722,
+    "text": "Are you married?",
+    "textdich": ""
+  },
+  {
+    "start": 187.722,
+    "end": 188.9,
+    "text": "No, I’m not.",
+    "textdich": ""
+  },
+  {
+    "start": 190.383,
+    "end": 191.678,
+    "text": "How old are you?",
+    "textdich": ""
+  },
+  {
+    "start": 192.511,
+    "end": 193.661,
+    "text": "That’s very personal!",
+    "textdich": ""
+  },
+  {
+    "start": 195.459,
+    "end": 196.284,
+    "text": "What do you think?",
+    "textdich": ""
+  },
+  {
+    "start": 198.808,
+    "end": 200.234,
+    "text": "25? 26?",
+    "textdich": ""
+  },
+  {
+    "start": 200.234,
+    "end": 202.061,
+    "text": "Thanks.\nI’m 27.",
+    "textdich": ""
+  },
+  {
+    "start": 202.686,
+    "end": 203.625,
+    "text": "How old are you?",
+    "textdich": ""
+  },
+  {
+    "start": 204.794,
+    "end": 206.17,
+    "text": "I’m 34.",
+    "textdich": ""
+  },
+  {
+    "start": 208.718,
+    "end": 209.944,
+    "text": "Would you like another drink?",
+    "textdich": ""
+  },
+  {
+    "start": 209.944,
+    "end": 210.595,
+    "text": "No, thanks.",
+    "textdich": ""
+  },
+  {
+    "start": 210.942,
+    "end": 213.704,
+    "text": "I have to go now, Mark.\nOur first meeting’s at 10:00.",
+    "textdich": ""
+  },
+  {
+    "start": 213.962,
+    "end": 214.935,
+    "text": "See you tomorrow.",
+    "textdich": ""
+  },
+  {
+    "start": 215.337,
+    "end": 216.382,
+    "text": "See you tomorrow, Allie.",
+    "textdich": ""
+  },
+  {
+    "start": 216.382,
+    "end": 216.929,
+    "text": "Good night.",
+    "textdich": ""
+  },
+  {
+    "start": 216.929,
+    "end": 217.654,
+    "text": "Good night.",
+    "textdich": ""
+  },
+  {
+    "start": 222.414,
+    "end": 223.444,
+    "text": "Can I help you?",
+    "textdich": ""
+  },
+  {
+    "start": 223.94,
+    "end": 224.665,
+    "text": "What would you like?",
+    "textdich": ""
+  },
+  {
+    "start": 224.719,
+    "end": 225.86,
+    "text": "A cappuccino, please.",
+    "textdich": ""
+  },
+  {
+    "start": 226.342,
+    "end": 227.311,
+    "text": "Regular or large?",
+    "textdich": ""
+  },
+  {
+    "start": 227.311,
+    "end": 228.34,
+    "text": "Large, please.",
+    "textdich": ""
+  },
+  {
+    "start": 228.364,
+    "end": 230.406,
+    "text": "And can I have an espresso, please?",
+    "textdich": ""
+  },
+  {
+    "start": 231.392,
+    "end": 232.675,
+    "text": "To have here or take away?",
+    "textdich": ""
+  },
+  {
+    "start": 232.951,
+    "end": 233.877,
+    "text": "To have here.",
+    "textdich": ""
+  },
+  {
+    "start": 235.396,
+    "end": 236.066,
+    "text": "Anything else?",
+    "textdich": ""
+  },
+  {
+    "start": 236.296,
+    "end": 237.105,
+    "text": "No, thanks.",
+    "textdich": ""
+  },
+  {
+    "start": 237.453,
+    "end": 238.825,
+    "text": "A brownie for me, please.",
+    "textdich": ""
+  },
+  {
+    "start": 238.932,
+    "end": 239.642,
+    "text": "Ok.",
+    "textdich": ""
+  },
+  {
+    "start": 239.801,
+    "end": 240.855,
+    "text": "How much is that?",
+    "textdich": ""
+  },
+  {
+    "start": 240.855,
+    "end": 242.553,
+    "text": "Together or separate?",
+    "textdich": ""
+  },
+  {
+    "start": 242.605,
+    "end": 243.258,
+    "text": "Together.",
+    "textdich": ""
+  },
+  {
+    "start": 244.245,
+    "end": 246.025,
+    "text": "That’s 6.45, please.",
+    "textdich": ""
+  },
+  {
+    "start": 246.025,
+    "end": 247.108,
+    "text": "Sorry\nHow much?",
+    "textdich": ""
+  },
+  {
+    "start": 247.108,
+    "end": 248.19,
+    "text": "6.45.",
+    "textdich": ""
+  },
+  {
+    "start": 248.528,
+    "end": 249.433,
+    "text": "Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 251.407,
+    "end": 252.35,
+    "text": "Thanks, Mark.",
+    "textdich": ""
+  },
+  {
+    "start": 252.35,
+    "end": 252.876,
+    "text": "You’re welcome.",
+    "textdich": ""
+  },
+  {
+    "start": 252.876,
+    "end": 254.518,
+    "text": "Look, there’s a free table over there.",
+    "textdich": ""
+  },
+  {
+    "start": 261.37,
+    "end": 262.256,
+    "text": "There you are.",
+    "textdich": ""
+  },
+  {
+    "start": 262.256,
+    "end": 263.032,
+    "text": "Oh!",
+    "textdich": ""
+  },
+  {
+    "start": 263.797,
+    "end": 265.098,
+    "text": "I’m really sorry!",
+    "textdich": ""
+  },
+  {
+    "start": 265.098,
+    "end": 266.83,
+    "text": "Don’t worry.\nIt’s always the same.",
+    "textdich": ""
+  },
+  {
+    "start": 266.83,
+    "end": 269.332,
+    "text": "When I wear white something\nlike this always happens.",
+    "textdich": ""
+  },
+  {
+    "start": 269.407,
+    "end": 271.058,
+    "text": "Look.\nFirst, I’ll get you another coffee...",
+    "textdich": ""
+  },
+  {
+    "start": 271.058,
+    "end": 272.342,
+    "text": "...then, we can go shopping.",
+    "textdich": ""
+  },
+  {
+    "start": 272.342,
+    "end": 273.195,
+    "text": "Shopping?",
+    "textdich": ""
+  },
+  {
+    "start": 273.38,
+    "end": 274.689,
+    "text": "Yeah. I want to buy you a new shirt.",
+    "textdich": ""
+  },
+  {
+    "start": 274.689,
+    "end": 276.117,
+    "text": "You can’t go to a meeting like that.",
+    "textdich": ""
+  },
+  {
+    "start": 276.117,
+    "end": 278.731,
+    "text": "But we don’t have time\nThe next meeting’s at 12:30.",
+    "textdich": ""
+  },
+  {
+    "start": 278.731,
+    "end": 280.71,
+    "text": "We have time.\nIt’s only 11:00.",
+    "textdich": ""
+  },
+  {
+    "start": 280.71,
+    "end": 281.865,
+    "text": "Are you sure?",
+    "textdich": ""
+  },
+  {
+    "start": 281.865,
+    "end": 284.038,
+    "text": "Yes.\nSit down and relax.",
+    "textdich": ""
+  },
+  {
+    "start": 284.463,
+    "end": 285.937,
+    "text": "Let’s have coffee and then go.",
+    "textdich": ""
+  },
+  {
+    "start": 286.573,
+    "end": 287.833,
+    "text": "Well, Ok.",
+    "textdich": ""
+  },
+  {
+    "start": 296.107,
+    "end": 297.327,
+    "text": "Can I help you?",
+    "textdich": ""
+  },
+  {
+    "start": 297.327,
+    "end": 298.13,
+    "text": "Yes.",
+    "textdich": ""
+  },
+  {
+    "start": 298.318,
+    "end": 299.468,
+    "text": "What size is this shirt?",
+    "textdich": ""
+  },
+  {
+    "start": 299.468,
+    "end": 300.539,
+    "text": "Let's see.",
+    "textdich": ""
+  },
+  {
+    "start": 301.268,
+    "end": 301.917,
+    "text": "A small.",
+    "textdich": ""
+  },
+  {
+    "start": 302.078,
+    "end": 303.162,
+    "text": "What size do you want?",
+    "textdich": ""
+  },
+  {
+    "start": 303.251,
+    "end": 304.051,
+    "text": "A medium.",
+    "textdich": ""
+  },
+  {
+    "start": 306.472,
+    "end": 307.3,
+    "text": "This is a medium.",
+    "textdich": ""
+  },
+  {
+    "start": 307.701,
+    "end": 308.25,
+    "text": "Thanks.",
+    "textdich": ""
+  },
+  {
+    "start": 308.525,
+    "end": 309.457,
+    "text": "Where can I try it on?",
+    "textdich": ""
+  },
+  {
+    "start": 309.73,
+    "end": 311.074,
+    "text": "The changing rooms are over there.",
+    "textdich": ""
+  },
+  {
+    "start": 311.074,
+    "end": 311.853,
+    "text": "Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 319.253,
+    "end": 320.355,
+    "text": "How is it?",
+    "textdich": ""
+  },
+  {
+    "start": 320.355,
+    "end": 321.866,
+    "text": "It's fine.\nHow much is this?",
+    "textdich": ""
+  },
+  {
+    "start": 321.866,
+    "end": 323.379,
+    "text": "34.99.",
+    "textdich": ""
+  },
+  {
+    "start": 323.379,
+    "end": 324.571,
+    "text": "Do you take American Express?",
+    "textdich": ""
+  },
+  {
+    "start": 324.571,
+    "end": 325.337,
+    "text": "Yes, sir.",
+    "textdich": ""
+  },
+  {
+    "start": 328.469,
+    "end": 329.998,
+    "text": "Thank you very much, Mark.",
+    "textdich": ""
+  },
+  {
+    "start": 329.998,
+    "end": 332.098,
+    "text": "You're welcome.\nI'm really sorry about the coffee.",
+    "textdich": ""
+  },
+  {
+    "start": 332.098,
+    "end": 332.958,
+    "text": "That's Ok.",
+    "textdich": ""
+  },
+  {
+    "start": 333.482,
+    "end": 335.543,
+    "text": "It's late. Our meeting's at 12:30.",
+    "textdich": ""
+  },
+  {
+    "start": 335.543,
+    "end": 336.31,
+    "text": "We can take a taxi.",
+    "textdich": ""
+  },
+  {
+    "start": 336.31,
+    "end": 336.775,
+    "text": "Ok.",
+    "textdich": ""
+  },
+  {
+    "start": 338.474,
+    "end": 339.477,
+    "text": "Do you like the shirt?",
+    "textdich": ""
+  },
+  {
+    "start": 339.869,
+    "end": 343.88,
+    "text": "Well, yeah,  it's exactly the same as the other one.",
+    "textdich": ""
+  },
+  {
+    "start": 344.098,
+    "end": 345.994,
+    "text": "The same? lt's completely different!",
+    "textdich": ""
+  },
+  {
+    "start": 346.146,
+    "end": 346.796,
+    "text": "Sorry!",
+    "textdich": ""
+  },
+  {
+    "start": 347.498,
+    "end": 348.522,
+    "text": "Typical man!",
+    "textdich": ""
+  },
+  {
+    "start": 350.369,
+    "end": 351.392,
+    "text": "Allie!",
+    "textdich": ""
+  },
+  {
+    "start": 351.543,
+    "end": 352.839,
+    "text": "Can I ask you something?",
+    "textdich": ""
+  },
+  {
+    "start": 352.839,
+    "end": 354.598,
+    "text": "Yeah. What?",
+    "textdich": ""
+  },
+  {
+    "start": 356.26,
+    "end": 358.437,
+    "text": "Would you like to have\ndinner with me tonight?",
+    "textdich": ""
+  },
+  {
+    "start": 359.307,
+    "end": 360.012,
+    "text": "Tonight?",
+    "textdich": ""
+  },
+  {
+    "start": 360.458,
+    "end": 361.59,
+    "text": "Yeah. You see...",
+    "textdich": ""
+  },
+  {
+    "start": 362.408,
+    "end": 363.468,
+    "text": "... it's my birthday.",
+    "textdich": ""
+  },
+  {
+    "start": 363.468,
+    "end": 365.585,
+    "text": "Oh! Happpy birthday!",
+    "textdich": ""
+  },
+  {
+    "start": 366.194,
+    "end": 368.386,
+    "text": "I'm sorry but I can't have dinner tonight.\nI'm busy.",
+    "textdich": ""
+  },
+  {
+    "start": 368.386,
+    "end": 369.451,
+    "text": "Oh...!",
+    "textdich": ""
+  },
+  {
+    "start": 372.646,
+    "end": 374.486,
+    "text": "How about Friday night?",
+    "textdich": ""
+  },
+  {
+    "start": 375.179,
+    "end": 375.949,
+    "text": "Friday?",
+    "textdich": ""
+  },
+  {
+    "start": 376.798,
+    "end": 377.4,
+    "text": "Well...",
+    "textdich": ""
+  },
+  {
+    "start": 378.923,
+    "end": 379.532,
+    "text": "...Ok.",
+    "textdich": ""
+  },
+  {
+    "start": 381.786,
+    "end": 383.181,
+    "text": "Do you know a good restaurant?",
+    "textdich": ""
+  },
+  {
+    "start": 383.686,
+    "end": 384.766,
+    "text": "Let me think.",
+    "textdich": ""
+  },
+  {
+    "start": 385.056,
+    "end": 386.102,
+    "text": "Do you like Italian food?",
+    "textdich": ""
+  },
+  {
+    "start": 386.102,
+    "end": 386.713,
+    "text": "I love it.",
+    "textdich": ""
+  },
+  {
+    "start": 387.197,
+    "end": 389.258,
+    "text": "Well, there's a new Italian restaurant.\nWe can go there.",
+    "textdich": ""
+  },
+  {
+    "start": 389.258,
+    "end": 390.371,
+    "text": "Good idea.",
+    "textdich": ""
+  },
+  {
+    "start": 390.68,
+    "end": 391.611,
+    "text": "Taxi!",
+    "textdich": ""
+  },
+  {
+    "start": 394.481,
+    "end": 395.395,
+    "text": "Can I help you?",
+    "textdich": ""
+  },
+  {
+    "start": 395.848,
+    "end": 397.063,
+    "text": "How much is that T-shirt?",
+    "textdich": ""
+  },
+  {
+    "start": 397.51,
+    "end": 399.1,
+    "text": "It’s 15.60.",
+    "textdich": ""
+  },
+  {
+    "start": 399.1,
+    "end": 400.709,
+    "text": "Sorry!\nHow much did you say?",
+    "textdich": ""
+  },
+  {
+    "start": 400.824,
+    "end": 402.071,
+    "text": "15.60.",
+    "textdich": ""
+  },
+  {
+    "start": 402.152,
+    "end": 404.829,
+    "text": "And how much are those mugs?",
+    "textdich": ""
+  },
+  {
+    "start": 404.885,
+    "end": 409.143,
+    "text": "The big mugs are 10.25 and the small ones are 8.75.",
+    "textdich": ""
+  },
+  {
+    "start": 410.106,
+    "end": 411.617,
+    "text": "- Can I have a big mug, please?\n- Sure.",
+    "textdich": ""
+  },
+  {
+    "start": 417.747,
+    "end": 418.604,
+    "text": "Here you are.",
+    "textdich": ""
+  },
+  {
+    "start": 419.405,
+    "end": 420.227,
+    "text": "Anything else?",
+    "textdich": ""
+  },
+  {
+    "start": 420.227,
+    "end": 421.543,
+    "text": "Do you have birthday cards?",
+    "textdich": ""
+  },
+  {
+    "start": 421.543,
+    "end": 423.444,
+    "text": "Sorry. We’ve only got post cards.",
+    "textdich": ""
+  },
+  {
+    "start": 423.564,
+    "end": 425.193,
+    "text": "Oh,\nWell, just the mug then.",
+    "textdich": ""
+  },
+  {
+    "start": 425.348,
+    "end": 426.724,
+    "text": "That’s 10.25.",
+    "textdich": ""
+  },
+  {
+    "start": 429.148,
+    "end": 430.188,
+    "text": "Here you are.",
+    "textdich": ""
+  },
+  {
+    "start": 430.648,
+    "end": 432.219,
+    "text": "Have you got the 25?",
+    "textdich": ""
+  },
+  {
+    "start": 432.219,
+    "end": 432.836,
+    "text": "Uh...",
+    "textdich": ""
+  },
+  {
+    "start": 433.1,
+    "end": 433.933,
+    "text": "Yes.",
+    "textdich": ""
+  },
+  {
+    "start": 434.902,
+    "end": 435.417,
+    "text": "Here.",
+    "textdich": ""
+  },
+  {
+    "start": 436.804,
+    "end": 437.73,
+    "text": "Thanks.",
+    "textdich": ""
+  },
+  {
+    "start": 437.782,
+    "end": 438.708,
+    "text": "Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 438.708,
+    "end": 439.882,
+    "text": "- Bye.\n- Bye.",
+    "textdich": ""
+  },
+  {
+    "start": 443.462,
+    "end": 444.587,
+    "text": "Hi, Allie.",
+    "textdich": ""
+  },
+  {
+    "start": 444.587,
+    "end": 445.147,
+    "text": "Wow!",
+    "textdich": ""
+  },
+  {
+    "start": 445.318,
+    "end": 446.791,
+    "text": "You look great!",
+    "textdich": ""
+  },
+  {
+    "start": 447.139,
+    "end": 447.935,
+    "text": "Nice dress!",
+    "textdich": ""
+  },
+  {
+    "start": 447.935,
+    "end": 448.869,
+    "text": "Oh, thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 449.61,
+    "end": 451.175,
+    "text": "Uh, this is for you...",
+    "textdich": ""
+  },
+  {
+    "start": 451.3,
+    "end": 453.606,
+    "text": "...for your birthday.\nI bought you a little present.",
+    "textdich": ""
+  },
+  {
+    "start": 454.255,
+    "end": 455.896,
+    "text": "Oh, oh, no!",
+    "textdich": ""
+  },
+  {
+    "start": 455.999,
+    "end": 457.421,
+    "text": "I hope it isn’t broken.",
+    "textdich": ""
+  },
+  {
+    "start": 459.0,
+    "end": 459.821,
+    "text": "It’s a mug.",
+    "textdich": ""
+  },
+  {
+    "start": 461.973,
+    "end": 463.333,
+    "text": "It was...",
+    "textdich": ""
+  },
+  {
+    "start": 463.333,
+    "end": 464.559,
+    "text": "...a mug.",
+    "textdich": ""
+  },
+  {
+    "start": 464.559,
+    "end": 465.659,
+    "text": "Thanks, Allie.",
+    "textdich": ""
+  },
+  {
+    "start": 465.659,
+    "end": 467.458,
+    "text": "I don’t believe it!\nI’m sorry, Mark.",
+    "textdich": ""
+  },
+  {
+    "start": 467.458,
+    "end": 469.288,
+    "text": "No problem.\nIt was really nice of you.",
+    "textdich": ""
+  },
+  {
+    "start": 469.288,
+    "end": 470.778,
+    "text": "Ok. I’ll get you another one tomorrow.",
+    "textdich": ""
+  },
+  {
+    "start": 470.778,
+    "end": 471.387,
+    "text": "Don’t worry.",
+    "textdich": ""
+  },
+  {
+    "start": 471.783,
+    "end": 473.98,
+    "text": "Listen!\nDid you call a taxi to go to the restaurant?",
+    "textdich": ""
+  },
+  {
+    "start": 473.98,
+    "end": 475.723,
+    "text": "No, I have my car outside.",
+    "textdich": ""
+  },
+  {
+    "start": 476.656,
+    "end": 477.766,
+    "text": "Come on.\nIt’s time to go.",
+    "textdich": ""
+  },
+  {
+    "start": 477.766,
+    "end": 481.125,
+    "text": "I booked the table for 8:00.\nand I’m not sure exactly where the restaurant is.",
+    "textdich": ""
+  },
+  {
+    "start": 481.331,
+    "end": 482.362,
+    "text": "Hey, Allie.",
+    "textdich": ""
+  },
+  {
+    "start": 482.362,
+    "end": 485.335,
+    "text": "Relax.\nThis isn’t work.\nThis is a night out.",
+    "textdich": ""
+  },
+  {
+    "start": 485.335,
+    "end": 487.534,
+    "text": "Sorry.\nI’m a bit stressed today.",
+    "textdich": ""
+  },
+  {
+    "start": 487.534,
+    "end": 488.658,
+    "text": "Ok.",
+    "textdich": ""
+  },
+  {
+    "start": 488.884,
+    "end": 489.983,
+    "text": "Let’s go.",
+    "textdich": ""
+  },
+  {
+    "start": 495.64,
+    "end": 496.686,
+    "text": "Excuse me!",
+    "textdich": ""
+  },
+  {
+    "start": 496.686,
+    "end": 498.338,
+    "text": "Where’s King Street, please?",
+    "textdich": ""
+  },
+  {
+    "start": 499.888,
+    "end": 501.587,
+    "text": "Sorry.\nI don’t know.",
+    "textdich": ""
+  },
+  {
+    "start": 509.956,
+    "end": 511.354,
+    "text": "Excuse me!",
+    "textdich": ""
+  },
+  {
+    "start": 511.354,
+    "end": 512.846,
+    "text": "Is King Street near here?",
+    "textdich": ""
+  },
+  {
+    "start": 512.846,
+    "end": 513.827,
+    "text": "King Street?",
+    "textdich": ""
+  },
+  {
+    "start": 514.603,
+    "end": 517.232,
+    "text": "It’s near here but\nI don’t know exactly where. Sorry!",
+    "textdich": ""
+  },
+  {
+    "start": 517.232,
+    "end": 518.181,
+    "text": "Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 522.147,
+    "end": 522.957,
+    "text": "Excuse me!",
+    "textdich": ""
+  },
+  {
+    "start": 522.957,
+    "end": 524.898,
+    "text": "Can you tell me the way to King Street?",
+    "textdich": ""
+  },
+  {
+    "start": 525.076,
+    "end": 530.654,
+    "text": "Yes. Go straight on, go past the church\nand then turn left at the traffic lights.",
+    "textdich": ""
+  },
+  {
+    "start": 530.654,
+    "end": 532.683,
+    "text": "And then I think it’s the\nsecond on the right.",
+    "textdich": ""
+  },
+  {
+    "start": 533.249,
+    "end": 534.827,
+    "text": "Sorry. Could you say that again, please?",
+    "textdich": ""
+  },
+  {
+    "start": 534.827,
+    "end": 540.108,
+    "text": "Yes. Go straight on, go past the church\nand then turn left at the traffic lights.",
+    "textdich": ""
+  },
+  {
+    "start": 540.108,
+    "end": 542.023,
+    "text": "And then I think it’s\nthe second on the right.",
+    "textdich": ""
+  },
+  {
+    "start": 542.056,
+    "end": 542.912,
+    "text": "Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 548.11,
+    "end": 549.821,
+    "text": "Ok. It's this street.",
+    "textdich": ""
+  },
+  {
+    "start": 551.769,
+    "end": 553.294,
+    "text": "No. it isn't.",
+    "textdich": ""
+  },
+  {
+    "start": 553.294,
+    "end": 556.072,
+    "text": "I'm sure she said the first on the right.",
+    "textdich": ""
+  },
+  {
+    "start": 556.072,
+    "end": 557.973,
+    "text": "No, she said the second on the right.",
+    "textdich": ""
+  },
+  {
+    "start": 558.742,
+    "end": 560.022,
+    "text": "Relax, Allie.",
+    "textdich": ""
+  },
+  {
+    "start": 561.272,
+    "end": 562.937,
+    "text": "Look, let's ask that man there.",
+    "textdich": ""
+  },
+  {
+    "start": 563.417,
+    "end": 565.212,
+    "text": "I don't think he knows.\nHe's a tourist.",
+    "textdich": ""
+  },
+  {
+    "start": 565.212,
+    "end": 566.637,
+    "text": "Just ask him, please.",
+    "textdich": ""
+  },
+  {
+    "start": 566.637,
+    "end": 567.839,
+    "text": "Ok, Ok.",
+    "textdich": ""
+  },
+  {
+    "start": 568.438,
+    "end": 569.094,
+    "text": "Excuse me!",
+    "textdich": ""
+  },
+  {
+    "start": 569.752,
+    "end": 571.158,
+    "text": "We're lost.",
+    "textdich": ""
+  },
+  {
+    "start": 571.158,
+    "end": 573.124,
+    "text": "Do you know where King Street is?",
+    "textdich": ""
+  },
+  {
+    "start": 573.146,
+    "end": 575.184,
+    "text": "Sorry, I don't live here. I'm a tourist.",
+    "textdich": ""
+  },
+  {
+    "start": 578.412,
+    "end": 579.334,
+    "text": "You see. I was right.",
+    "textdich": ""
+  },
+  {
+    "start": 579.334,
+    "end": 582.418,
+    "text": "Ok. Let's try the second on the right.",
+    "textdich": ""
+  },
+  {
+    "start": 586.323,
+    "end": 588.224,
+    "text": "Here it is. King Street.",
+    "textdich": ""
+  },
+  {
+    "start": 588.345,
+    "end": 590.552,
+    "text": "I knew she said the second on the right.",
+    "textdich": ""
+  },
+  {
+    "start": 590.735,
+    "end": 592.834,
+    "text": "There's the restaurant, Donatella's.",
+    "textdich": ""
+  },
+  {
+    "start": 593.215,
+    "end": 594.744,
+    "text": "Can you see anywhere to park?",
+    "textdich": ""
+  },
+  {
+    "start": 594.744,
+    "end": 596.428,
+    "text": "That white car's going over there!",
+    "textdich": ""
+  },
+  {
+    "start": 596.428,
+    "end": 598.117,
+    "text": "Do you think you can park in that space?",
+    "textdich": ""
+  },
+  {
+    "start": 598.142,
+    "end": 599.798,
+    "text": "Are you saying I can't park?",
+    "textdich": ""
+  },
+  {
+    "start": 599.798,
+    "end": 600.949,
+    "text": "Allie, I'm only joking.",
+    "textdich": ""
+  },
+  {
+    "start": 601.044,
+    "end": 603.313,
+    "text": "Ok, Ok. I'm sorry.",
+    "textdich": ""
+  },
+  {
+    "start": 605.02,
+    "end": 605.726,
+    "text": "Good evening!",
+    "textdich": ""
+  },
+  {
+    "start": 605.737,
+    "end": 606.99,
+    "text": "Do you have a reservation?",
+    "textdich": ""
+  },
+  {
+    "start": 606.99,
+    "end": 609.719,
+    "text": "Yes. A table for two my name's Allie Gray.",
+    "textdich": ""
+  },
+  {
+    "start": 609.719,
+    "end": 611.219,
+    "text": "Smoking or non-smoking.",
+    "textdich": ""
+  },
+  {
+    "start": 611.219,
+    "end": 612.312,
+    "text": "Non-smoking, please.",
+    "textdich": ""
+  },
+  {
+    "start": 613.683,
+    "end": 614.757,
+    "text": "Come this way, please.",
+    "textdich": ""
+  },
+  {
+    "start": 618.614,
+    "end": 619.787,
+    "text": "Are you ready to order?",
+    "textdich": ""
+  },
+  {
+    "start": 620.535,
+    "end": 623.328,
+    "text": "Yes. I'd like the onion soup and then the steak, please.",
+    "textdich": ""
+  },
+  {
+    "start": 623.982,
+    "end": 626.877,
+    "text": "The goat's cheese salad and the lasagna for me, please.",
+    "textdich": ""
+  },
+  {
+    "start": 628.212,
+    "end": 629.251,
+    "text": "What would you like to drink?",
+    "textdich": ""
+  },
+  {
+    "start": 630.855,
+    "end": 631.734,
+    "text": "Would you like some wine?",
+    "textdich": ""
+  },
+  {
+    "start": 631.734,
+    "end": 633.672,
+    "text": "No, thanks. Just mineral water for me.",
+    "textdich": ""
+  },
+  {
+    "start": 633.672,
+    "end": 637.109,
+    "text": "Ok. A glass of red wine and a bottle of mineral water, please.",
+    "textdich": ""
+  },
+  {
+    "start": 638.032,
+    "end": 638.984,
+    "text": "Thank you, sir.",
+    "textdich": ""
+  },
+  {
+    "start": 639.074,
+    "end": 639.636,
+    "text": "Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 643.215,
+    "end": 644.132,
+    "text": "How was the pasta?",
+    "textdich": ""
+  },
+  {
+    "start": 644.132,
+    "end": 645.06,
+    "text": "It was delicious.",
+    "textdich": ""
+  },
+  {
+    "start": 647.356,
+    "end": 649.38,
+    "text": "Listen, Allie. There's something I want to ask you.",
+    "textdich": ""
+  },
+  {
+    "start": 649.38,
+    "end": 651.19,
+    "text": "Yes, what?",
+    "textdich": ""
+  },
+  {
+    "start": 651.19,
+    "end": 652.355,
+    "text": "Would you like a dessert?",
+    "textdich": ""
+  },
+  {
+    "start": 652.355,
+    "end": 653.206,
+    "text": "Yes, please.",
+    "textdich": ""
+  },
+  {
+    "start": 653.735,
+    "end": 654.525,
+    "text": "What is there?",
+    "textdich": ""
+  },
+  {
+    "start": 654.525,
+    "end": 656.47,
+    "text": "Tiramisu, ice cream or fruit salad.",
+    "textdich": ""
+  },
+  {
+    "start": 655.569,
+    "end": 657.745,
+    "text": "Fruit salad, please.",
+    "textdich": ""
+  },
+  {
+    "start": 657.745,
+    "end": 658.527,
+    "text": "And you, sir?",
+    "textdich": ""
+  },
+  {
+    "start": 658.527,
+    "end": 660.295,
+    "text": "Nothing for me. Thanks.",
+    "textdich": ""
+  },
+  {
+    "start": 662.103,
+    "end": 663.078,
+    "text": "Allie.",
+    "textdich": ""
+  },
+  {
+    "start": 663.386,
+    "end": 663.941,
+    "text": "Yes?",
+    "textdich": ""
+  },
+  {
+    "start": 667.629,
+    "end": 668.487,
+    "text": "Go on, Mark.",
+    "textdich": ""
+  },
+  {
+    "start": 669.281,
+    "end": 669.857,
+    "text": "Um...",
+    "textdich": ""
+  },
+  {
+    "start": 671.013,
+    "end": 678.082,
+    "text": "Well, tomorrow's my last day and I think we...\nI mean...I..., I really like meeting you.",
+    "textdich": ""
+  },
+  {
+    "start": 678.23,
+    "end": 678.875,
+    "text": "And...",
+    "textdich": ""
+  },
+  {
+    "start": 679.197,
+    "end": 680.018,
+    "text": "Here you are.",
+    "textdich": ""
+  },
+  {
+    "start": 680.138,
+    "end": 681.074,
+    "text": "Fruit salad.",
+    "textdich": ""
+  },
+  {
+    "start": 681.074,
+    "end": 682.004,
+    "text": "Would you like any coffee?",
+    "textdich": ""
+  },
+  {
+    "start": 682.004,
+    "end": 683.679,
+    "text": "Yes, an espresso, please.",
+    "textdich": ""
+  },
+  {
+    "start": 684.129,
+    "end": 685.414,
+    "text": "The same for me, please.",
+    "textdich": ""
+  },
+  {
+    "start": 690.407,
+    "end": 691.123,
+    "text": "Sorry, Mark.",
+    "textdich": ""
+  },
+  {
+    "start": 694.101,
+    "end": 696.097,
+    "text": "Do you want to come to California next month?",
+    "textdich": ""
+  },
+  {
+    "start": 696.683,
+    "end": 698.921,
+    "text": "There's a big conference.\nI'm gonna be there.",
+    "textdich": ""
+  },
+  {
+    "start": 699.478,
+    "end": 700.685,
+    "text": "Why don't you come?",
+    "textdich": ""
+  },
+  {
+    "start": 701.35,
+    "end": 702.273,
+    "text": "What do you think?",
+    "textdich": ""
+  },
+  {
+    "start": 702.661,
+    "end": 703.447,
+    "text": "To espressos.",
+    "textdich": ""
+  },
+  {
+    "start": 705.459,
+    "end": 706.482,
+    "text": "Anything else?",
+    "textdich": ""
+  },
+  {
+    "start": 706.482,
+    "end": 707.797,
+    "text": "A little brandy? A grappa?",
+    "textdich": ""
+  },
+  {
+    "start": 707.797,
+    "end": 708.202,
+    "text": "No.",
+    "textdich": ""
+  },
+  {
+    "start": 708.709,
+    "end": 709.316,
+    "text": "Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 712.23,
+    "end": 713.512,
+    "text": "What do you say, Allie?",
+    "textdich": ""
+  },
+  {
+    "start": 713.841,
+    "end": 715.575,
+    "text": "I'm not sure, Mark.",
+    "textdich": ""
+  },
+  {
+    "start": 716.949,
+    "end": 719.159,
+    "text": "I need some time to think about it, Ok?",
+    "textdich": ""
+  },
+  {
+    "start": 719.159,
+    "end": 721.343,
+    "text": "All right. But please tell me before I go.",
+    "textdich": ""
+  },
+  {
+    "start": 721.35,
+    "end": 722.071,
+    "text": "Ok.",
+    "textdich": ""
+  },
+  {
+    "start": 722.865,
+    "end": 723.985,
+    "text": "Can we have a check, please?",
+    "textdich": ""
+  },
+  {
+    "start": 723.985,
+    "end": 725.27,
+    "text": "Sorry? The check?",
+    "textdich": ""
+  },
+  {
+    "start": 725.92,
+    "end": 728.199,
+    "text": "The bill, Mark. We're in Britain, remember?",
+    "textdich": ""
+  },
+  {
+    "start": 728.199,
+    "end": 730.414,
+    "text": "Sorry. Could we have the bill, please?",
+    "textdich": ""
+  },
+  {
+    "start": 730.414,
+    "end": 730.971,
+    "text": "Yes, sir.",
+    "textdich": ""
+  },
+  {
+    "start": 735.387,
+    "end": 736.466,
+    "text": "Good morning, sir.",
+    "textdich": ""
+  },
+  {
+    "start": 736.466,
+    "end": 739.192,
+    "text": "Good morning. Can I have my bill, please?\nI'm checking out.",
+    "textdich": ""
+  },
+  {
+    "start": 739.192,
+    "end": 740.118,
+    "text": "Which room is it?",
+    "textdich": ""
+  },
+  {
+    "start": 740.118,
+    "end": 741.918,
+    "text": "Room 425.",
+    "textdich": ""
+  },
+  {
+    "start": 743.671,
+    "end": 745.989,
+    "text": "Did you have anything from the minibar last night?",
+    "textdich": ""
+  },
+  {
+    "start": 745.989,
+    "end": 747.375,
+    "text": "Yes, a mineral water.",
+    "textdich": ""
+  },
+  {
+    "start": 751.912,
+    "end": 753.136,
+    "text": "Here you are.",
+    "textdich": ""
+  },
+  {
+    "start": 753.136,
+    "end": 754.814,
+    "text": "How would you like to pay?",
+    "textdich": ""
+  },
+  {
+    "start": 754.814,
+    "end": 756.273,
+    "text": "American Express.",
+    "textdich": ""
+  },
+  {
+    "start": 758.117,
+    "end": 759.938,
+    "text": "Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 765.359,
+    "end": 767.81,
+    "text": "Ok. Can you sign here, please?",
+    "textdich": ""
+  },
+  {
+    "start": 770.861,
+    "end": 771.617,
+    "text": "Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 774.702,
+    "end": 776.556,
+    "text": "Would you like me to call a taxi for you?",
+    "textdich": ""
+  },
+  {
+    "start": 776.556,
+    "end": 777.683,
+    "text": "No, thanks.",
+    "textdich": ""
+  },
+  {
+    "start": 780.837,
+    "end": 782.603,
+    "text": "Do you need any help with your luggage?",
+    "textdich": ""
+  },
+  {
+    "start": 782.918,
+    "end": 784.625,
+    "text": "No, I'm fine. Thanks.",
+    "textdich": ""
+  },
+  {
+    "start": 784.637,
+    "end": 786.048,
+    "text": "Have a good trip, Mr. Ryder.",
+    "textdich": ""
+  },
+  {
+    "start": 786.048,
+    "end": 786.551,
+    "text": "Thank you.",
+    "textdich": ""
+  },
+  {
+    "start": 786.551,
+    "end": 787.095,
+    "text": "Goodbye!",
+    "textdich": ""
+  },
+  {
+    "start": 787.095,
+    "end": 787.784,
+    "text": "Goodbye!",
+    "textdich": ""
+  },
+  {
+    "start": 791.716,
+    "end": 792.562,
+    "text": "Hello?",
+    "textdich": ""
+  },
+  {
+    "start": 792.862,
+    "end": 794.379,
+    "text": "Hi Mark.\nIt's Allie.",
+    "textdich": ""
+  },
+  {
+    "start": 794.791,
+    "end": 797.233,
+    "text": "I'm really sorry but the traffic\nthis morning is terrible.",
+    "textdich": ""
+  },
+  {
+    "start": 797.653,
+    "end": 798.732,
+    "text": "I'm going to be very late.",
+    "textdich": ""
+  },
+  {
+    "start": 799.572,
+    "end": 800.221,
+    "text": "Ok.",
+    "textdich": ""
+  },
+  {
+    "start": 800.891,
+    "end": 805.725,
+    "text": "I think the best thing is for you to take a taxi to\nthe station... and then get the train to the airport.",
+    "textdich": ""
+  },
+  {
+    "start": 805.725,
+    "end": 806.331,
+    "text": "No problem.",
+    "textdich": ""
+  },
+  {
+    "start": 806.973,
+    "end": 808.119,
+    "text": "I'll call a taxi.",
+    "textdich": ""
+  },
+  {
+    "start": 809.774,
+    "end": 812.313,
+    "text": "Well, thanks for everything.",
+    "textdich": ""
+  },
+  {
+    "start": 812.825,
+    "end": 815.191,
+    "text": "No, listen. I'll meet you at the airport.",
+    "textdich": ""
+  },
+  {
+    "start": 815.191,
+    "end": 816.586,
+    "text": "We can say goodbye there.",
+    "textdich": ""
+  },
+  {
+    "start": 816.586,
+    "end": 817.061,
+    "text": "All right.",
+    "textdich": ""
+  },
+  {
+    "start": 817.591,
+    "end": 818.585,
+    "text": "Where can we meet?",
+    "textdich": ""
+  },
+  {
+    "start": 819.061,
+    "end": 820.64,
+    "text": "At the information desk.",
+    "textdich": ""
+  },
+  {
+    "start": 821.061,
+    "end": 822.746,
+    "text": "Ok. See you there.",
+    "textdich": ""
+  },
+  {
+    "start": 822.746,
+    "end": 823.671,
+    "text": "Bye.",
+    "textdich": ""
+  },
+  {
+    "start": 824.311,
+    "end": 826.107,
+    "text": "Excuse me! Change of plan.",
+    "textdich": ""
+  },
+  {
+    "start": 826.107,
+    "end": 828.695,
+    "text": "Could you call me a taxi please to the station?",
+    "textdich": ""
+  },
+  {
+    "start": 837.679,
+    "end": 842.244,
+    "text": "Hello. Sorry I can't take your call.\nPlease leave a message after the tone.",
+    "textdich": ""
+  },
+  {
+    "start": 842.244,
+    "end": 844.142,
+    "text": "Hi, Allie. This is Mark.",
+    "textdich": ""
+  },
+  {
+    "start": 844.523,
+    "end": 845.557,
+    "text": "Where are you?",
+    "textdich": ""
+  },
+  {
+    "start": 846.372,
+    "end": 850.829,
+    "text": "I'm at the information desk.\nMy flight leaves in 40 minutes.",
+    "textdich": ""
+  },
+  {
+    "start": 851.202,
+    "end": 852.237,
+    "text": "Mark! Mark!",
+    "textdich": ""
+  },
+  {
+    "start": 852.719,
+    "end": 853.755,
+    "text": "Sorry I'm late!",
+    "textdich": ""
+  },
+  {
+    "start": 853.755,
+    "end": 855.839,
+    "text": "Don't worry. I'm just happy you got here.",
+    "textdich": ""
+  },
+  {
+    "start": 856.159,
+    "end": 858.015,
+    "text": "Come on. You're gonna miss your flight.",
+    "textdich": ""
+  },
+  {
+    "start": 858.015,
+    "end": 858.83,
+    "text": "Wait a minute.",
+    "textdich": ""
+  },
+  {
+    "start": 859.421,
+    "end": 861.366,
+    "text": "Are you going to come to the\nconference in California?",
+    "textdich": ""
+  },
+  {
+    "start": 861.366,
+    "end": 862.561,
+    "text": "Am I going to see you, again?",
+    "textdich": ""
+  },
+  {
+    "start": 862.926,
+    "end": 864.502,
+    "text": "The plane's going to leave without you.",
+    "textdich": ""
+  },
+  {
+    "start": 864.502,
+    "end": 865.079,
+    "text": "Allie?",
+    "textdich": ""
+  },
+  {
+    "start": 865.189,
+    "end": 868.42,
+    "text": "I asked my boss this morning and he said yes. I can go!",
+    "textdich": ""
+  },
+  {
+    "start": 868.42,
+    "end": 869.065,
+    "text": "Great!",
+    "textdich": ""
+  },
+  {
+    "start": 869.378,
+    "end": 871.047,
+    "text": "I don't have your home phone number.",
+    "textdich": ""
+  },
+  {
+    "start": 871.047,
+    "end": 872.996,
+    "text": "Don't worry. I'll email it to you tomorrow.",
+    "textdich": ""
+  },
+  {
+    "start": 873.998,
+    "end": 878.675,
+    "text": "This is the final call for all passengers\non flight BA287 to San Francisco.",
+    "textdich": ""
+  },
+  {
+    "start": 878.675,
+    "end": 881.208,
+    "text": "Please proceed immediately to Gate 12.",
+    "textdich": ""
+  },
+  {
+    "start": 882.695,
+    "end": 883.604,
+    "text": "Goodbye, Allie.",
+    "textdich": ""
+  },
+  {
+    "start": 883.604,
+    "end": 884.424,
+    "text": "And...",
+    "textdich": ""
+  },
+  {
+    "start": 885.942,
+    "end": 887.071,
+    "text": "...thanks for everything.",
+    "textdich": ""
+  },
+  {
+    "start": 887.447,
+    "end": 888.443,
+    "text": "Goodbye, Mark.",
+    "textdich": ""
+  },
+  {
+    "start": 890.903,
+    "end": 891.891,
+    "text": "Have a safe trip!",
+    "textdich": ""
+  },
+  {
+    "start": 892.854,
+    "end": 893.898,
+    "text": "See you in California.",
+    "textdich": ""
+  },
+  {
+    "start": 897.074,
+    "end": 898.458,
+    "text": "Bye.",
+    "textdich": ""
+  }
+]
