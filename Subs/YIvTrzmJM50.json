@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.719,
+    "end": 5.56,
+    "text": "I wash my clothes.",
+    "textdich": ""
+  },
+  {
+    "start": 6.71,
+    "end": 6.71,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 6.72,
+    "end": 17.719,
+    "text": "I dry my clothes.",
+    "textdich": ""
+  },
+  {
+    "start": 10.31,
+    "end": 17.719,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 10.32,
+    "end": 17.719,
+    "text": "I dry my clothes. I iron my clothes.",
+    "textdich": ""
+  },
+  {
+    "start": 20.87,
+    "end": 20.87,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 20.88,
+    "end": 27.279,
+    "text": "I fold",
+    "textdich": ""
+  },
+  {
+    "start": 23.75,
+    "end": 27.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 23.76,
+    "end": 33.28,
+    "text": "my clothes.",
+    "textdich": ""
+  },
+  {
+    "start": 27.269,
+    "end": 33.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 27.279,
+    "end": 37.32,
+    "text": "I open the wardrobe.",
+    "textdich": ""
+  },
+  {
+    "start": 33.27,
+    "end": 37.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 33.28,
+    "end": 37.32,
+    "text": "I hang my clothes.",
+    "textdich": ""
+  },
+  {
+    "start": 39.03,
+    "end": 39.03,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 39.04,
+    "end": 45.04,
+    "text": "I",
+    "textdich": ""
+  },
+  {
+    "start": 41.35,
+    "end": 45.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 41.36,
+    "end": 50.28,
+    "text": "close the wardrobe.",
+    "textdich": ""
+  },
+  {
+    "start": 45.03,
+    "end": 50.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 45.04,
+    "end": 50.28,
+    "text": "I sew a button.",
+    "textdich": ""
+  },
+  {
+    "start": 54.63,
+    "end": 54.63,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 54.64,
+    "end": 64.76,
+    "text": "I put on my socks.",
+    "textdich": ""
+  },
+  {
+    "start": 58.31,
+    "end": 64.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 58.32,
+    "end": 64.76,
+    "text": "I tie my shoes.",
+    "textdich": ""
+  }
+]
