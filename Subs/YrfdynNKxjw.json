@@ -1,0 +1,254 @@
+[
+  {
+    "start": 3.8,
+    "end": 8.52,
+    "text": "hey folks one possible issue people have with \nwriting web applications in Python is they",
+    "textdich": ""
+  },
+  {
+    "start": 8.52,
+    "end": 13.36,
+    "text": "still have to learn at least some JavaScript or \na JavaScript Centric framework to do something",
+    "textdich": ""
+  },
+  {
+    "start": 13.36,
+    "end": 18.48,
+    "text": "useful but here and there we're seeing Solutions \nemerge that let you write full websites including",
+    "textdich": ""
+  },
+  {
+    "start": 18.48,
+    "end": 23.52,
+    "text": "Rich front-end interactivity with nothing but a \npython backend today I'm going to look at one of",
+    "textdich": ""
+  },
+  {
+    "start": 23.52,
+    "end": 30.68,
+    "text": "these projects called reflex reflex was originally \ncalled pine cone with a y when it was first rolled",
+    "textdich": ""
+  },
+  {
+    "start": 30.68,
+    "end": 36.92,
+    "text": "out to the public in December of 2022 as of July \n2023 it's available as a public beta it's still",
+    "textdich": ""
+  },
+  {
+    "start": 36.92,
+    "end": 41.88,
+    "text": "not recommended for Enterprise production work but \nit is useful enough to try out and build a top of",
+    "textdich": ""
+  },
+  {
+    "start": 41.88,
+    "end": 48.52,
+    "text": "provisionally the basic idea with reflex is that \nyou create web apps using components basically",
+    "textdich": ""
+  },
+  {
+    "start": 48.52,
+    "end": 54.04,
+    "text": "python objects and these objects describe the \nstructure of the page the look of the elements",
+    "textdich": ""
+  },
+  {
+    "start": 54.04,
+    "end": 58.84,
+    "text": "and their behaviors such as what happens when \nyou click a button reflex comes with a whole",
+    "textdich": ""
+  },
+  {
+    "start": 58.84,
+    "end": 63.52,
+    "text": "gallery of built-in object types and the best \npart is how they reflect many common use cases",
+    "textdich": ""
+  },
+  {
+    "start": 63.52,
+    "end": 68.88,
+    "text": "for instance everyone I know of struggles to take \nan element and Center it on a web page with reflex",
+    "textdich": ""
+  },
+  {
+    "start": 68.88,
+    "end": 74.24,
+    "text": "you use the reflex. center element you set the \nheight to 100% And you go about your business",
+    "textdich": ""
+  },
+  {
+    "start": 74.24,
+    "end": 80.08,
+    "text": "it is literally that simple let me zoom in on a \nfew examples a little more closely in this demo",
+    "textdich": ""
+  },
+  {
+    "start": 80.08,
+    "end": 87.12,
+    "text": "we're creating a form with a counter and three \nbuttons increment decrement and randomize this",
+    "textdich": ""
+  },
+  {
+    "start": 87.12,
+    "end": 92.68,
+    "text": "block of nested objects here describes the layout \nof the the page and the dot button elements each",
+    "textdich": ""
+  },
+  {
+    "start": 92.68,
+    "end": 98.56,
+    "text": "have onclick functions assigned to them the \nstate for the page is held in a state object",
+    "textdich": ""
+  },
+  {
+    "start": 98.56,
+    "end": 104.44,
+    "text": "which is a subass of a type reflex provides for \nmanaging State on a web page and you can also see",
+    "textdich": ""
+  },
+  {
+    "start": 104.44,
+    "end": 110.88,
+    "text": "how inline CSS declarations can be supported \neasily if you want to include scripts or HTML",
+    "textdich": ""
+  },
+  {
+    "start": 110.88,
+    "end": 115.16,
+    "text": "manually you can do that by other components \ntoo for instance if I wanted to add an existing",
+    "textdich": ""
+  },
+  {
+    "start": 115.16,
+    "end": 121.28,
+    "text": "third-party JavaScript component like a rich \ntext editor I could put that in by hand another",
+    "textdich": ""
+  },
+  {
+    "start": 121.28,
+    "end": 127.48,
+    "text": "convenient thing reflex gives us is live reloading \nif I make a change to my application you can see",
+    "textdich": ""
+  },
+  {
+    "start": 127.48,
+    "end": 133.68,
+    "text": "here that the app is restarted automatically \nand the changes are reflected almost instantly",
+    "textdich": ""
+  },
+  {
+    "start": 133.68,
+    "end": 138.16,
+    "text": "this shortens the development cycle a good deal \nespecially for things like constantly tweaking a",
+    "textdich": ""
+  },
+  {
+    "start": 138.16,
+    "end": 144.96,
+    "text": "UI if you want to add your own custom components \nreflex provides a way to write them yourself or",
+    "textdich": ""
+  },
+  {
+    "start": 144.96,
+    "end": 150.6,
+    "text": "you can take existing components written in react \nand deploy those that does mean you may have to",
+    "textdich": ""
+  },
+  {
+    "start": 150.6,
+    "end": 155.72,
+    "text": "do some heavy lifting with react to achieve more \nadvanced effects but the broad range of existing",
+    "textdich": ""
+  },
+  {
+    "start": 155.72,
+    "end": 160.48,
+    "text": "react components out there means there's a good \nchance what you need already exists the best way",
+    "textdich": ""
+  },
+  {
+    "start": 160.48,
+    "end": 164.76,
+    "text": "to get started with reflex in my opinion is to \ntake a look at the gallery of examples on the",
+    "textdich": ""
+  },
+  {
+    "start": 164.76,
+    "end": 170.84,
+    "text": "reflex site pull a couple of them that reflect use \ncases you have and see how they work for instance",
+    "textdich": ""
+  },
+  {
+    "start": 170.84,
+    "end": 175.84,
+    "text": "if you wanted to create a database backed app and \nyou want to see how reflexes built-in om supports",
+    "textdich": ""
+  },
+  {
+    "start": 175.84,
+    "end": 182.48,
+    "text": "a given use case you can filter by database and \nchoose something suitable now with any kind of web",
+    "textdich": ""
+  },
+  {
+    "start": 182.48,
+    "end": 186.84,
+    "text": "application at some point you're going to need \nto Grapple directly with the nitty-gritty you",
+    "textdich": ""
+  },
+  {
+    "start": 186.84,
+    "end": 191.84,
+    "text": "can't entirely put off firsthand experience with \nHTML and CSS and JavaScript and their Associated",
+    "textdich": ""
+  },
+  {
+    "start": 191.84,
+    "end": 197.24,
+    "text": "Technologies but projects like reflex are meant \nto minimize the amount of tedium and context",
+    "textdich": ""
+  },
+  {
+    "start": 197.24,
+    "end": 202.32,
+    "text": "switching associated with building such things \nthey aren't meant to completely replace learning",
+    "textdich": ""
+  },
+  {
+    "start": 202.32,
+    "end": 207.24,
+    "text": "about HTML or JavaScript but they're meant \nto make it easier for python users to build",
+    "textdich": ""
+  },
+  {
+    "start": 207.24,
+    "end": 212.6,
+    "text": "things that use those Technologies so again \nwhile reflex is still an alpha product it's",
+    "textdich": ""
+  },
+  {
+    "start": 212.6,
+    "end": 216.52,
+    "text": "worth experimenting with right now to see if \nit can make your python powered Web projects",
+    "textdich": ""
+  },
+  {
+    "start": 216.52,
+    "end": 220.96,
+    "text": "easier to build and deploy so that's it for \nthis episode if you liked it leave a comment",
+    "textdich": ""
+  },
+  {
+    "start": 220.96,
+    "end": 230.16,
+    "text": "below and don't forget to follow Dev with SAR and \ninfoworld on Facebook YouTube and infow ",
+    "textdich": ""
+  },
+  {
+    "start": 230.16,
+    "end": 234.68,
+    "text": "world.com",
+    "textdich": ""
+  }
+]
