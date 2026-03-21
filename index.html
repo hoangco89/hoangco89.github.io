@@ -43,17 +43,18 @@
 
     <hr>
     <div class="group-3element">
+      Loop:<div class="box visible" id="hthireplay">1</div>
+      Speed:<div class="box visible" id="hthispeed">1</div>
+
+      <button id='transCap' onclick="an_hien_pd_dich()">T.Cap</button>
+
+      <div class="box hidden" id="videochon" onclick="them_Http()">uckcR0Zl_2Q</div>
+      <button id='sourceCap' onclick="an_hien_pd_goc()">S.Cap</button>
       <form id="learnToggleBtn" >
-        Repeating :
+        Shad:
         <input type="radio" name="state" id="repeatoff" checked>off
         <input type="radio" name="state" id="repeaton">on
       </form>
-      <div class="box visible" id="hthispeed">1</div>
-
-      <button id='transCap' onclick="an_hien_pd_dich()">TransCap</button>
-
-      <div class="box hidden" id="videochon" onclick="them_Http()">uckcR0Zl_2Q</div>
-      <button id='sourceCap' onclick="an_hien_pd_goc()">SourceCap</button>
     </div>
     <hr>
     <br>
@@ -69,7 +70,7 @@
     <br><br><input type="text" id="inputurl" placeholder="Enter your youtube url then ok" style="width:60%;">
     <br><button id="OK" onclick="xuLiUrlInput()">OK</button><br><br>
 
-    <br><br><button class="buttonD" onclick="tom_tat_ndvideo()" style="width:60%;">Hiển thị toàn văn bản dịch</button><br>
+    <br><br><button class="buttonD" onclick="tom_tat_ndvideo()" style="width:60%;">Hiển thị toàn văn bản dịch </button><br>
     <div id="chatbox" aria-hidden="false"></div>
 
 
@@ -106,6 +107,7 @@
     const repeaton = document.getElementById("repeaton");
     const gledich = document.getElementById("gledich");
     const voiceSelect = document.getElementById("voiceSelect");
+    const hthireplay = document.getElementById("hthireplay");
 
     repeatoff.checked = true;
     
@@ -114,7 +116,11 @@
     let videoId = videochon.textContent;
     let subtitles = [];
     let lastTime = 0;
-
+    
+    let replayCount = 0;
+    
+    let  maxReplay = parseInt(hthireplay.textContent);
+ 
 let list_speed = [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2];
 let index_speed = 3; // Bắt đầu từ tốc độ 1x
 let i_kh_shadow = 0; //chua kich hoat shadow, 
@@ -334,10 +340,21 @@ function advanceLearningAfterPlay() {
               if (e.data === YT.PlayerState.ENDED) stopMonitor();
               return;
             }
+
             // Your original subtitle-sync behavior
             if (e.data === YT.PlayerState.PAUSED) stopReading();
             if (e.data === YT.PlayerState.PLAYING) resumeSync();
-            if (e.data === YT.PlayerState.ENDED) stopReading();
+            //if (e.data === YT.PlayerState.ENDED) stopReading();
+        // Khi video kết thúc
+        
+        if (e.data === YT.PlayerState.ENDED) {
+          replayCount++;
+          if (replayCount < maxReplay) {
+            player.seekTo(0);   // tua về đầu
+            player.playVideo(); // phát lại
+          }
+        }
+
             
           }
         }
@@ -350,6 +367,11 @@ function advanceLearningAfterPlay() {
       // 5. PLAY BUTTON
       // ==========================
       playBtn.addEventListener("click", async () => {
+
+      replayCount = 0;
+      maxReplay = parseInt(hthireplay.textContent);
+
+
         document.getElementById("preview").click();
 
         //alert("Playing video ID: " + videochon.textContent);
@@ -511,6 +533,14 @@ hthispeed.addEventListener("click", function() {
     hthispeed.textContent = sp.toFixed(2);
   }
 });
+hthireplay.addEventListener("click", function() {
+  maxReplay = parseInt(hthireplay.textContent);
+  maxReplay = (maxReplay + 1)%6; 
+  if (maxReplay === 0){
+    maxReplay = 1;
+  } 
+  hthireplay.textContent = maxReplay;
+});
 
 function setLearningEnabled(isOn) {
   learningEnabled = !!isOn;
@@ -572,6 +602,7 @@ learnToggleBtn.addEventListener("click", () => {
     repeaton.checked = true;
     learnToggleBtn.style.textShadow = "2px 2px 4px #000000"; // Bật bóng đổ
     state_rep.textContent = "[Learning Mode ON]"; // Optional: show status when turning on
+    
   } else {
     //alert('Learning is OFF');
     repeatoff.checked = true;
@@ -588,6 +619,31 @@ learnToggleBtn.addEventListener("click", () => {
 //sau do repeat on lai de tiep tuc hoc tu do, khong can phai bam 2 lan nhu truoc nua
 //----------------------------------------------------------------------------------------
 
+</script>
+<script>
+  //-----------------------------------
+//      let replayCount = 0;
+//      const maxReplay = 2; // số lần replay
+
+      // Load YouTube API
+      //const tag = document.createElement("script");
+      //tag.src = "https://www.youtube.com/iframe_api";
+      //document.body.appendChild(tag);
+
+      //let player;
+
+      //function onYouTubeIframeAPIReady() {
+      //  player = new YT.Player("player", {
+      //    height: "360",
+      //    width: "640",
+      //    videoId: "dQw4w9WgXcQ", // đổi video ID ở đây
+      //    events: {
+      //      onStateChange: onPlayerStateChange
+      //    }
+      //  });
+      //}
+
+//-----------------
 </script>
 
 

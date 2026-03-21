@@ -66,9 +66,11 @@ iframe {
 .group-3element{
     display: flex;
     justify-content: space-between;
-    padding: 0px 20px 0px 20px;
+    padding: 0px 10px 0px 10px;
     width: 100%;
     box-sizing: border-box;
+    height:30px;
+    line-height: 30px;
 
 }
 .butp1,.butp2{
@@ -318,7 +320,7 @@ font-size: 1.1rem;
   background: transparent;
 }
 
-#hthispeed {
+#hthispeed , #hthireplay{
     width:30px;
     height:30px;
     line-height: 30px;
@@ -344,12 +346,12 @@ position: absolute;  /* Không chiếm chỗ */
   border-color: #000;
   border-bottom: 3px solid black;
   font-size: 0.7rem;
-  width:70px;
+  width:60px;
   height:30px;
 }
 form {
-    margin-left: 0px;
-    width:180px;
+  
+    width:130px;
     height:30px;
     line-height: 30px;
 
