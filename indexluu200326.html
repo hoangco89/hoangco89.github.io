@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+#https://github.com/hoangco89/hoangco89.github.io/index.html
+#tai xuong 15-01-26
+-->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> <!-- Import SweetAlert2 -->
+  <title>Tiensg89 Play Youtube</title>
+   <link rel="stylesheet" href="index.css">
+</head>
+<body>
+<!-- Header -->
+<header class="sticky"> 
+
+  <div class="video-container">
+    <img id="preview" class="preview-image" src="https://i.ytimg.com/vi_webp/SyJlbqiZABQ/hq720.webp">
+    <div id="playerContainer"></div>
+  </div>
+
+  <div class="menu-group">
+    <select id="voiceSelect"></select>
+    <button id='rateRead' onclick="tocDoDoc()">Rate: 1</button>
+
+    <button id="playBtn">▶️</button>
+
+    <button class='butp1' onclick="btnReadSub()">Sub only</button>
+    <button class='butp2' onclick="btnYoutubeSound()">Yt only</button>
+  </div>
+  <!-- <hr> -->
+  </header>
+
+    <br>
+    <div id="currentSubtitle">[source subtitles]</div>
+    <div class="group-3element">
+      <div id="loa_button">🔊</div>
+      <div id="state_rep"></div>
+    </div><br>
+    <div id="subdich">[translated subtitles ]</div>
+    
+
+    <hr>
+    <div class="group-3element">
+      <form id="learnToggleBtn" >
+        Repeating :
+        <input type="radio" name="state" id="repeatoff" checked>off
+        <input type="radio" name="state" id="repeaton">on
+      </form>
+      <div class="box visible" id="hthispeed">1</div>
+
+      <button id='transCap' onclick="an_hien_pd_dich()">TransCap</button>
+
+      <div class="box hidden" id="videochon" onclick="them_Http()">uckcR0Zl_2Q</div>
+      <button id='sourceCap' onclick="an_hien_pd_goc()">SourceCap</button>
+    </div>
+    <hr>
+    <br>
+
+
+    <button class="buttonD"><select id="selectVideo"></select> </button>
+    
+    <br><button id="tbao_pde" onclick="lay_phudejson_byst()"></button>
+
+    <h4>Chọn Chủ đề ⬇ và video ⬆</h4>
+    <button class="buttonD"><select id="selectChude"></select></button><br>
+
+    <br><br><input type="text" id="inputurl" placeholder="Enter your youtube url then ok" style="width:60%;">
+    <br><button id="OK" onclick="xuLiUrlInput()">OK</button><br><br>
+
+    <br><br><button class="buttonD" onclick="tom_tat_ndvideo()" style="width:60%;">Hiển thị toàn văn bản dịch</button><br>
+    <div id="chatbox" aria-hidden="false"></div>
+
+
+    <!--<h4><a href="https://tien89.streamlit.app" style="background: transparent;text-align: center; ">.</a></h4>
+    <h4><a href="z.py" style="background: transparent;text-align: center; ">.</a></h4>-->
+
+
+
+<!-- Footer -->
+<footer>
+  <p><a id="gledich">GTL</a> ||| <a href="https://www.bbc.co.uk/learningenglish" target="_blank">BBC</a> ||| <a href="https://learningenglish.voanews.com" target="_blank">VOA</a> ||| <a href="https://spotlightenglish.com" target="_blank">SLE</a></p>
+  <p>&copy; From tiensg89@gmail.com at Houston 2026</p>
+  <!-- <p>2318 Cartesian St, Katy, Houston, TX 77494, USA</p>
+  <p><a href="https://adunglacchurch.github.io" target="_blank">About</a> | <a href="https://tiensgus.github.io" target="_blank">App1</a>| <a href="https://loan991958.github.io" target="_blank">App2</a>| <a href="https://hoangco89.github.io" target="_blank">App3</a></p>-->
+</footer>
+
+<!-- YouTube API================================================================================= -->
+<script src="https://www.youtube.com/iframe_api"></script>
+
+<script>
+    const videochon = document.getElementById("videochon");
+    const playBtn = document.getElementById("playBtn");
+    const selectChude = document.getElementById("selectChude");
+    const selectVideo = document.getElementById("selectVideo");
+    const currentSubtitle = document.getElementById("currentSubtitle");
+    const subdich = document.getElementById("subdich");
+    const tbao_pde = document.getElementById("tbao_pde");
+    const inputurl = document.getElementById("inputurl");
+    const chatbox = document.getElementById("chatbox");
+    const hthispeed = document.getElementById("hthispeed");
+    const state_rep = document.getElementById("state_rep");
+    const learnToggleBtn = document.getElementById("learnToggleBtn");
+    const repeatoff = document.getElementById("repeatoff");
+    const repeaton = document.getElementById("repeaton");
+    const gledich = document.getElementById("gledich");
+    const voiceSelect = document.getElementById("voiceSelect");
+
+    repeatoff.checked = true;
+    
+    chatbox.innerHTML = "";
+    let player = null;
+    let videoId = videochon.textContent;
+    let subtitles = [];
+    let lastTime = 0;
+
+let list_speed = [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2];
+let index_speed = 3; // Bắt đầu từ tốc độ 1x
+let i_kh_shadow = 0; //chua kich hoat shadow, 
+learnToggleBtn.style.textShadow = "none"; // Tat bóng đổ
+
+    
+document.getElementById("preview").addEventListener("click", function () {
+    this.style.display = "none"; // Ẩn ảnh
+});
+//---------them theo GPT---
+let learningEnabled = false; // toggle with a button later
+
+let segments = []; // learning segments (merged)
+let rawSegments = []; // from fetchSubtitles
+let segIndex = 0;
+let stepIndex = 0;
+let repsRemaining = 0;
+let timerId = null;
+const reviewQueue = new Set();
+
+const POLL_MS = 150;
+const END_EPS = 0.06;//tien da dc tu tu toi 0.20 nhung cai thien itien 
+// da giam xuong 0.06 de tranh tinh
+
+const beginnerPlan = [
+{ name: "LISTEN_ONLY", reps: 2, captions: false, textdich: false, shadowPause: 0 },
+{ name: "LISTEN_READ", reps: 1, captions: true, textdich: false, shadowPause: 0 },
+{ name: "MEANING", reps: 1, captions: true, textdich: true, shadowPause: 0 }, // optional
+{ name: "SHADOW", reps: 1, captions: true, textdich: false, shadowPause: 3500 },
+{ name: "CONFIRM", reps: 1, captions: false, textdich: false, shadowPause: 0 },
+];
+//--cac ham gpt cho---
+function normalizeText(s) {
+  return (s || "")
+  .replace(/\s*\n\s*/g, " ")
+  .replace(/\s+/g, " ")
+  .trim();
+}
+
+function mergeSubtitleCues(raw, opts = {}) {
+  const minLen = opts.minLen ?? 3.0;
+  const targetLen = opts.targetLen ?? 6.0;
+  const maxLen = opts.maxLen ?? 8.0;
+
+  const isSentenceEnd = (txt) => /[.!?]["')\]]*$/.test(txt);
+
+  const out = [];
+  let cur = null;
+
+  for (const s of raw) {
+    const start = Number(s.start);
+    const end = Number(s.end);
+    const text = normalizeText(s.text);
+    const textdich = normalizeText(s.textdich || "");
+
+    if (!Number.isFinite(start) || !Number.isFinite(end) || end <= start) continue;
+    if (!text) continue;
+
+    if (!cur) {
+      cur = { start, end, text, textdich };
+      continue;
+    }
+
+    if (start - cur.end > 0.5) {
+      out.push(cur);
+      cur = { start, end, text, textdich };
+      continue;
+    }
+
+    const merged = {
+      start: cur.start,
+      end,
+      text: `${cur.text} ${text}`.trim(),
+      textdich: `${cur.textdich} ${textdich}`.trim(),
+    };
+
+    const len = merged.end - merged.start;
+    const shouldFlush =
+      (len >= targetLen) ||
+      (len >= minLen && isSentenceEnd(merged.text)) ||
+      (len >= maxLen);
+
+    cur = merged;
+
+    if (shouldFlush) {
+      out.push(cur);
+      cur = null;
+    }
+  }
+
+  if (cur) out.push(cur);
+  return out.filter(x => (x.end - x.start) >= 1.2);
+}
+
+function startLearning(index) {
+  segIndex = Math.max(0, Math.min(index, segments.length - 1));
+  stepIndex = 0;
+  repsRemaining = beginnerPlan[0].reps;
+
+  applyLearningUI();
+  player.seekTo(segments[segIndex].start, true);
+  player.playVideo();
+  startMonitor();
+}
+
+function applyLearningUI() {
+  const seg = segments[segIndex];
+  const step = beginnerPlan[stepIndex];
+
+  // Captions (your custom divs)
+  currentSubtitle.innerHTML = step.captions ? seg.text : "";
+  subdich.innerHTML = step.textdich ? (seg.textdich || "") : "";
+
+  // Optional: show status somewhere you already have
+  state_rep.textContent = `[ Seg ${segIndex+1}/${segments.length} • ${step.name} • reps ${repsRemaining} ]`;
+}
+
+function startMonitor() {
+  if (timerId) return;
+
+  timerId = setInterval(() => {
+    const seg = segments[segIndex];
+    const step = beginnerPlan[stepIndex];
+    const t = player.getCurrentTime();
+
+    if (t >= seg.end - END_EPS) {
+      // End of segment
+      if (step.name === "SHADOW" && step.shadowPause > 0) {
+        player.pauseVideo();
+        stopMonitor();
+
+        // Show prompt to speak (use any element you like)
+        // tbao_pde.textContent = "Speak now…";
+
+        setTimeout(() => {
+          advanceLearningAfterPlay();
+        }, step.shadowPause);
+
+        return;
+      }
+
+      advanceLearningAfterPlay();
+    }
+  }, POLL_MS);
+}
+
+function stopMonitor() {
+  if (timerId) {
+    clearInterval(timerId);
+    timerId = null;
+  }
+}
+
+function advanceLearningAfterPlay() {
+  repsRemaining--;
+
+  if (repsRemaining > 0) {
+    applyLearningUI();
+    player.seekTo(segments[segIndex].start, true);
+    player.playVideo();
+    startMonitor();
+    return;
+  }
+
+  stepIndex++;
+
+  // auto-skip MEANING if no textdich exists
+  if (stepIndex < beginnerPlan.length && beginnerPlan[stepIndex].name === "MEANING") {
+    const hasTranslation = !!(segments[segIndex].textdich && segments[segIndex].textdich.trim());
+    if (!hasTranslation) stepIndex++;
+  }
+
+  if (stepIndex < beginnerPlan.length) {
+    repsRemaining = beginnerPlan[stepIndex].reps;
+    applyLearningUI();
+    player.seekTo(segments[segIndex].start, true);
+    player.playVideo();
+    startMonitor();
+    return;
+  }
+
+  // Next segment
+  if (segIndex < segments.length - 1) {
+    segIndex++;
+    stepIndex = 0;
+    repsRemaining = beginnerPlan[0].reps;
+    applyLearningUI();
+    player.seekTo(segments[segIndex].start, true);
+    player.playVideo();
+    startMonitor();
+  } else {
+    // Done
+    player.pauseVideo();
+    stopMonitor();
+    // tbao_pde.textContent = "Finished learning session.";
+  }
+}
+
+//---------
+
+    function onYouTubeIframeAPIReady() {
+      player = new YT.Player("playerContainer", {
+        height: "315",
+        width: "560",
+        videoId: `${videoId}`,
+        playerVars: { autoplay: 1, controls: 1 },
+        events: {
+        //onReady: () => startAtSegment(0),
+        //          onStateChange: onPlayerStateChange,
+
+          onReady: () => { },
+          onStateChange: (e) => {
+            if (learningEnabled) {
+              // Learning engine controls seek/pause; avoid resumeSync fighting it
+              if (e.data === YT.PlayerState.PAUSED) stopMonitor();
+              if (e.data === YT.PlayerState.PLAYING) startMonitor();
+              if (e.data === YT.PlayerState.ENDED) stopMonitor();
+              return;
+            }
+            // Your original subtitle-sync behavior
+            if (e.data === YT.PlayerState.PAUSED) stopReading();
+            if (e.data === YT.PlayerState.PLAYING) resumeSync();
+            if (e.data === YT.PlayerState.ENDED) stopReading();
+            
+          }
+        }
+    });
+  }
+
+    window.onYouTubeIframeAPIReady = onYouTubeIframeAPIReady;
+
+      // ==========================
+      // 5. PLAY BUTTON
+      // ==========================
+      playBtn.addEventListener("click", async () => {
+        document.getElementById("preview").click();
+
+        //alert("Playing video ID: " + videochon.textContent);
+        videoId = videochon.textContent;
+        subtitles = await fetchSubtitles(videoId);
+
+        //-------------------gpt------------------
+        subtitles = mergeSubtitleCues(subtitles)
+        //-------------------------------------
+
+        if (subtitles.length>0){
+          translateFullJson(subtitles);
+          tbao_pde.textContent = ""
+        }else{
+          currentSubtitle.innerHTML="[source subtitles]";
+          subdich.innerHTML="[translated subtitles]";
+          tbao_pde.textContent = "No subtites. Click here to get!"
+        }
+        //nen them if subtitles.length>0 vao day de tranh loi khi video khong co phu de, va hien thong bao cho nguoi dung biet la video nay khong
+        //rawSegments = subtitles.map(s => ({
+        //  start: Number(s.start),
+        //  end: Number(s.end),
+        //  text: (s.text || ""),
+        //  textdich: (s.textdich || "") // if your translateFullJson populates this later, it's ok
+        //}));
+
+        //segments = mergeSubtitleCues(rawSegments); // function below
+        //segments = rawSegments; // function below
+        segments = subtitles;
+        //da sua nhu tren de off/on nhu nhau
+        player.loadVideoById(videoId);
+
+        if (learningEnabled && segments.length > 0) {
+          stopReading(); // stop your old speech/subtitle reading loop
+          stopSync(); // stop your old sync loop if it exists
+          startLearning(0);
+        } else {
+          player.playVideo();
+          startSync();
+        }
+
+        //cu player.loadVideoById(videoId);
+        //cu player.playVideo();
+        //cu startSync();
+      });
+
+      // ==========================
+      // 6. AUTO PLAY WHEN CHANGE VIDEO
+      // ==========================
+    
+      selectVideo.addEventListener("change", async () => {
+              document.getElementById("preview").click();
+        const chudeId = selectChude.value;
+        const key = "bai_" + chudeId;
+        localStorage.setItem(key, selectVideo.value);
+        videochon.textContent = selectVideo.value;
+        videoId = videochon.textContent;
+
+        subtitles = await fetchSubtitles(videoId);
+
+        // 🔥 DỊCH TOÀN BỘ JSON
+        if (subtitles.length>0){
+          translateFullJson(subtitles);
+          tbao_pde.textContent = ""
+        }else{
+          currentSubtitle.innerHTML="[source subtitles]";
+          subdich.innerHTML="[translated subtitles]";
+          tbao_pde.textContent = "No subtites. Click here to get!"
+
+
+        }
+
+        player.loadVideoById(videoId);
+        player.playVideo();
+
+        startSync();
+
+      });
+
+      selectVideo.addEventListener("dblclick", async () => {
+              document.getElementById("preview").click();
+        const chudeId = selectChude.value;
+        const key = "bai_" + chudeId;
+        localStorage.setItem(key, selectVideo.value);
+        videochon.textContent = selectVideo.value;
+        videoId = videochon.textContent;
+
+        subtitles = await fetchSubtitles(videoId);
+
+        // 🔥 DỊCH TOÀN BỘ JSON
+        if (subtitles.length>0){
+          translateFullJson(subtitles);
+          tbao_pde.textContent = ""
+        }else{
+          currentSubtitle.innerHTML="[source subtitles]";
+          subdich.innerHTML="[translated subtitles]";
+          tbao_pde.textContent = "No subtites. Click here to get!"
+
+
+        }
+
+        player.loadVideoById(videoId);
+        player.playVideo();
+
+        startSync();
+
+      });
+
+//---------THU-----------
+//"https://www.youtube.com/watch?v=mi3xR5eGQ3s&list=PLtBFFyhEIC7n7PULjzTttoe4sNKzv4DBu&index=1"
+
+//document.addEventListener('DOMContentLoaded', (event) => {
+//  const previewImage = document.querySelector('.preview-image');
+//  const videoIframe = document.getElementById('video-iframe');
+
+//  previewImage.addEventListener('click', function() {
+    // Add 'hidden' class to fade out and hide the image
+//    this.classList.add('hidden');
+
+    // Add autoplay parameter to the iframe src to start the video
+    // Check if the URL already has parameters or needs the first one
+//    const separator = videoIframe.src.includes('?') ? '&' : '?';
+//    videoIframe.src += separator + 'autoplay=1';
+//  });
+//});
+// Save current time
+let i_an_hien_pd_goc = 0;
+function an_hien_pd_goc() {
+  i_an_hien_pd_goc++;
+  if (i_an_hien_pd_goc % 2 === 1) {
+    currentSubtitle.style.color = "transparent"; // Ẩn phụ đề gốc
+    sourceCap.style.color = "black";
+  }else{
+    currentSubtitle.style.color = "rgb(231, 225, 225)"; // Hiển thị phụ đề gốc
+    sourceCap.style.color = "rgb(231, 225, 225)";
+  }  
+}
+
+// Repeat last marked time
+let i_an_hien_pd_dich = 0;
+function an_hien_pd_dich() {
+  i_an_hien_pd_dich++;
+  if (i_an_hien_pd_dich % 2 === 1) {
+    subdich.style.color = "transparent"; // Ẩn phụ đề dịch 
+    transCap.style.color = "black";
+  } else {
+    subdich.style.color = "rgb(231, 225, 225)"; // Hiển thị phụ đề dịch
+    transCap.style.color = "rgb(231, 225, 225)";
+  }
+}
+
+hthispeed.addEventListener("click", function() {
+  index_speed = (index_speed + 1) % list_speed.length;
+  sp = list_speed[index_speed];
+  player.setPlaybackRate(sp);
+  if (index_speed === 3||index_speed === 7) {
+    hthispeed.textContent = sp.toFixed(0);
+  } else {
+    hthispeed.textContent = sp.toFixed(2);
+  }
+});
+
+function setLearningEnabled(isOn) {
+  learningEnabled = !!isOn;
+
+  // Always stop BOTH controllers first (prevents them fighting)
+  stopMonitor(); // learning interval
+  stopReading(); // your speech reading
+  // If you have a stopSync() function, call it here too.
+  // stopSync?.();
+
+  if (learningEnabled) {
+    // Switch to Learning mode
+
+    if (segments && segments.length > 0) {
+      // Keep current time and jump to nearest segment (optional)
+      const t = player.getCurrentTime?.() ?? 0;
+      segIndex = findNearestSegmentIndex(t, segments);
+
+      startLearning(segIndex);
+
+    } else {
+      // No segments loaded -> fallback
+      player.playVideo();
+      startSync();
+    }
+  } else {
+    // Switch to Normal mode
+    // Clear your custom caption UI if you want:
+    // currentSubtitle.innerHTML = "";
+    // subdich.innerHTML = "";
+
+    player.playVideo();
+
+    // IMPORTANT: startSync/resumeSync won't auto-trigger unless statechange fires,
+    // so call startSync explicitly.
+    startSync();
+  }
+}
+
+// Find the segment that contains current time, else nearest previous
+function findNearestSegmentIndex(t, segs) {
+  for (let i = 0; i < segs.length; i++) {
+  if (t >= segs[i].start && t < segs[i].end) return i;
+  }
+  // otherwise pick the last segment whose start <= t
+  let idx = 0;
+  for (let i = 0; i < segs.length; i++) {
+  if (segs[i].start <= t) idx = i;
+  else break;
+  }
+  return idx;
+}
+
+// Toggle learning mode on/off
+learnToggleBtn.addEventListener("click", () => {
+  setLearningEnabled(!learningEnabled);
+  if (learningEnabled) {
+    //alert('Learning is ON');
+    repeaton.checked = true;
+    learnToggleBtn.style.textShadow = "2px 2px 4px #000000"; // Bật bóng đổ
+    state_rep.textContent = "[Learning Mode ON]"; // Optional: show status when turning on
+  } else {
+    //alert('Learning is OFF');
+    repeatoff.checked = true;
+
+    learnToggleBtn.style.textShadow = "none"; // Tắt bóng đổ
+    state_rep.textContent = ""; // Clear status when turning off
+  }
+});
+
+//---GHI CHU KHONG CAN NUT REWIND/FORWARD-------------------------------------------------
+//da bo vi khong dat duoc o vi tri tot hon va de don gian hon cho nguoi dung, 
+//chi can bam vao nut repeat la duoc, khong can phai bam 2 lan nhu truoc nua
+//neu muon lui/toi thi repeat off roi dung chuot re thanh tien trinh toi vi tri minh muon
+//sau do repeat on lai de tiep tuc hoc tu do, khong can phai bam 2 lan nhu truoc nua
+//----------------------------------------------------------------------------------------
+
+</script>
+
+
+<script src="index.js"></script>
+<script src="index2.js"></script>
+
+
+</body>
+</html>
