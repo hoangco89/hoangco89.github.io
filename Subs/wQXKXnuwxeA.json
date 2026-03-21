@@ -1,0 +1,248 @@
+[
+  {
+    "start": 0.64,
+    "end": 10.639,
+    "text": "I want to eat now. I want to eat now. I",
+    "textdich": ""
+  },
+  {
+    "start": 6.55,
+    "end": 10.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 6.56,
+    "end": 12.88,
+    "text": "want to call my friend. I want to call",
+    "textdich": ""
+  },
+  {
+    "start": 10.629,
+    "end": 12.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 10.639,
+    "end": 16.88,
+    "text": "my friend.",
+    "textdich": ""
+  },
+  {
+    "start": 12.87,
+    "end": 16.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 12.88,
+    "end": 19.119,
+    "text": "I want to travel soon. I want to travel",
+    "textdich": ""
+  },
+  {
+    "start": 16.87,
+    "end": 19.119,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 16.88,
+    "end": 22.56,
+    "text": "soon.",
+    "textdich": ""
+  },
+  {
+    "start": 19.109,
+    "end": 22.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 19.119,
+    "end": 24.88,
+    "text": "I want to sleep early. I want to sleep",
+    "textdich": ""
+  },
+  {
+    "start": 22.55,
+    "end": 24.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 22.56,
+    "end": 27.599,
+    "text": "early.",
+    "textdich": ""
+  },
+  {
+    "start": 24.87,
+    "end": 27.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 24.88,
+    "end": 31.039,
+    "text": "I want to drink water.",
+    "textdich": ""
+  },
+  {
+    "start": 27.589,
+    "end": 31.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 27.599,
+    "end": 34.239,
+    "text": "I want to drink water.",
+    "textdich": ""
+  },
+  {
+    "start": 31.029,
+    "end": 34.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 31.039,
+    "end": 37.04,
+    "text": "I want to cook dinner. I want to cook",
+    "textdich": ""
+  },
+  {
+    "start": 34.229,
+    "end": 37.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 34.239,
+    "end": 41.04,
+    "text": "dinner.",
+    "textdich": ""
+  },
+  {
+    "start": 37.03,
+    "end": 41.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 37.04,
+    "end": 43.04,
+    "text": "I want to take shower. I want to take",
+    "textdich": ""
+  },
+  {
+    "start": 41.03,
+    "end": 43.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 41.04,
+    "end": 46.8,
+    "text": "shower.",
+    "textdich": ""
+  },
+  {
+    "start": 43.03,
+    "end": 46.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 43.04,
+    "end": 49.12,
+    "text": "I want to read a book. I want to read a",
+    "textdich": ""
+  },
+  {
+    "start": 46.79,
+    "end": 49.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 46.8,
+    "end": 53.039,
+    "text": "book.",
+    "textdich": ""
+  },
+  {
+    "start": 49.11,
+    "end": 53.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 49.12,
+    "end": 55.039,
+    "text": "I want to watch a movie. I want to watch",
+    "textdich": ""
+  },
+  {
+    "start": 53.029,
+    "end": 55.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 53.039,
+    "end": 58.399,
+    "text": "a movie.",
+    "textdich": ""
+  },
+  {
+    "start": 55.029,
+    "end": 58.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 55.039,
+    "end": 60.64,
+    "text": "I want to buy some food. I want to buy",
+    "textdich": ""
+  },
+  {
+    "start": 58.389,
+    "end": 60.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 58.399,
+    "end": 65.04,
+    "text": "some food.",
+    "textdich": ""
+  },
+  {
+    "start": 60.63,
+    "end": 65.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 60.64,
+    "end": 67.92,
+    "text": "I want to learn English. I want to learn",
+    "textdich": ""
+  },
+  {
+    "start": 65.03,
+    "end": 67.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 65.04,
+    "end": 67.92,
+    "text": "English.",
+    "textdich": ""
+  }
+]
