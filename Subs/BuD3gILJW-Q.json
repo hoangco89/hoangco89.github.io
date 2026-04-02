@@ -1,0 +1,6284 @@
+[
+  {
+    "start": 1.58,
+    "end": 6.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 5.59,
+    "end": 6.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 5.6,
+    "end": 8.559,
+    "text": "hey i'm tim",
+    "textdich": ""
+  },
+  {
+    "start": 6.55,
+    "end": 8.559,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 6.56,
+    "end": 10.719,
+    "text": "and i'm an engineer at streamlit and",
+    "textdich": ""
+  },
+  {
+    "start": 8.549,
+    "end": 10.719,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 8.559,
+    "end": 12.719,
+    "text": "this video is a quick introduction to",
+    "textdich": ""
+  },
+  {
+    "start": 10.709,
+    "end": 12.719,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 10.719,
+    "end": 14.639,
+    "text": "creating streamlit custom components",
+    "textdich": ""
+  },
+  {
+    "start": 12.709,
+    "end": 14.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 12.719,
+    "end": 16.08,
+    "text": "so we're going to be going over uh",
+    "textdich": ""
+  },
+  {
+    "start": 14.629,
+    "end": 16.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 14.639,
+    "end": 18.08,
+    "text": "project setup configuring",
+    "textdich": ""
+  },
+  {
+    "start": 16.07,
+    "end": 18.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 16.08,
+    "end": 20.24,
+    "text": "your development environment and working",
+    "textdich": ""
+  },
+  {
+    "start": 18.07,
+    "end": 20.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 18.08,
+    "end": 21.52,
+    "text": "with the component template project",
+    "textdich": ""
+  },
+  {
+    "start": 20.23,
+    "end": 21.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 20.24,
+    "end": 23.68,
+    "text": "and we're also going to be touching",
+    "textdich": ""
+  },
+  {
+    "start": 21.51,
+    "end": 23.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 21.52,
+    "end": 25.359,
+    "text": "briefly on how the component system",
+    "textdich": ""
+  },
+  {
+    "start": 23.67,
+    "end": 25.359,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 23.68,
+    "end": 26.72,
+    "text": "is implemented under the hood in",
+    "textdich": ""
+  },
+  {
+    "start": 25.349,
+    "end": 26.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 25.359,
+    "end": 28.72,
+    "text": "streamlit so",
+    "textdich": ""
+  },
+  {
+    "start": 26.71,
+    "end": 28.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 26.72,
+    "end": 30.56,
+    "text": "to get the most out of this video you",
+    "textdich": ""
+  },
+  {
+    "start": 28.71,
+    "end": 30.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 28.72,
+    "end": 31.279,
+    "text": "should be familiar with streamlight",
+    "textdich": ""
+  },
+  {
+    "start": 30.55,
+    "end": 31.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 30.56,
+    "end": 32.559,
+    "text": "obviously",
+    "textdich": ""
+  },
+  {
+    "start": 31.269,
+    "end": 32.559,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 31.279,
+    "end": 34.399,
+    "text": "and you should have some passing",
+    "textdich": ""
+  },
+  {
+    "start": 32.549,
+    "end": 34.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 32.559,
+    "end": 36.239,
+    "text": "familiarity with javascript or",
+    "textdich": ""
+  },
+  {
+    "start": 34.389,
+    "end": 36.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 34.399,
+    "end": 39.28,
+    "text": "typescript but you don't need to be",
+    "textdich": ""
+  },
+  {
+    "start": 36.229,
+    "end": 39.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 36.239,
+    "end": 40.239,
+    "text": "a front-end expert by any means to get",
+    "textdich": ""
+  },
+  {
+    "start": 39.27,
+    "end": 40.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 39.28,
+    "end": 42.559,
+    "text": "started",
+    "textdich": ""
+  },
+  {
+    "start": 40.229,
+    "end": 42.559,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 40.239,
+    "end": 44.16,
+    "text": "i am going to copy the contents of the",
+    "textdich": ""
+  },
+  {
+    "start": 42.549,
+    "end": 44.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 42.559,
+    "end": 47.6,
+    "text": "template directory out of the",
+    "textdich": ""
+  },
+  {
+    "start": 44.15,
+    "end": 47.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 44.16,
+    "end": 50.879,
+    "text": "component template repo into my new",
+    "textdich": ""
+  },
+  {
+    "start": 47.59,
+    "end": 50.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 47.6,
+    "end": 53.52,
+    "text": "project folder then in a terminal",
+    "textdich": ""
+  },
+  {
+    "start": 50.869,
+    "end": 53.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 50.879,
+    "end": 54.559,
+    "text": "i'm going to create a new virtual",
+    "textdich": ""
+  },
+  {
+    "start": 53.51,
+    "end": 54.559,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 53.52,
+    "end": 56.96,
+    "text": "environment i",
+    "textdich": ""
+  },
+  {
+    "start": 54.549,
+    "end": 56.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 54.559,
+    "end": 59.28,
+    "text": "prefer pip end but you can use whatever",
+    "textdich": ""
+  },
+  {
+    "start": 56.95,
+    "end": 59.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 56.96,
+    "end": 62.399,
+    "text": "virtual environment creator you prefer",
+    "textdich": ""
+  },
+  {
+    "start": 59.27,
+    "end": 62.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 59.28,
+    "end": 64.799,
+    "text": "and shell so that i'm in a shell",
+    "textdich": ""
+  },
+  {
+    "start": 62.389,
+    "end": 64.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 62.399,
+    "end": 66.56,
+    "text": "and then i'm going to pip install",
+    "textdich": ""
+  },
+  {
+    "start": 64.789,
+    "end": 66.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 64.799,
+    "end": 68.479,
+    "text": "streamlight because",
+    "textdich": ""
+  },
+  {
+    "start": 66.55,
+    "end": 68.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 66.56,
+    "end": 70.799,
+    "text": "in order to create a component for",
+    "textdich": ""
+  },
+  {
+    "start": 68.469,
+    "end": 70.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 68.479,
+    "end": 74.0,
+    "text": "streamlight you need streamlit installed",
+    "textdich": ""
+  },
+  {
+    "start": 70.789,
+    "end": 74.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 70.799,
+    "end": 75.52,
+    "text": "okay so streamlit is installed in our",
+    "textdich": ""
+  },
+  {
+    "start": 73.99,
+    "end": 75.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 74.0,
+    "end": 78.88,
+    "text": "virtual environment and the first thing",
+    "textdich": ""
+  },
+  {
+    "start": 75.51,
+    "end": 78.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 75.52,
+    "end": 79.52,
+    "text": "i do when installing streamla and new is",
+    "textdich": ""
+  },
+  {
+    "start": 78.87,
+    "end": 79.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 78.88,
+    "end": 81.84,
+    "text": "just run",
+    "textdich": ""
+  },
+  {
+    "start": 79.51,
+    "end": 81.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 79.52,
+    "end": 83.28,
+    "text": "streamlet hello from the terminal make",
+    "textdich": ""
+  },
+  {
+    "start": 81.83,
+    "end": 83.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 81.84,
+    "end": 83.84,
+    "text": "sure that everything is running",
+    "textdich": ""
+  },
+  {
+    "start": 83.27,
+    "end": 83.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 83.28,
+    "end": 86.96,
+    "text": "correctly",
+    "textdich": ""
+  },
+  {
+    "start": 83.83,
+    "end": 86.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 83.84,
+    "end": 90.0,
+    "text": "and it is okay next i am going",
+    "textdich": ""
+  },
+  {
+    "start": 86.95,
+    "end": 90.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 86.96,
+    "end": 92.88,
+    "text": "to open this project in",
+    "textdich": ""
+  },
+  {
+    "start": 89.99,
+    "end": 92.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 90.0,
+    "end": 93.84,
+    "text": "my python ide i like pycharm but you can",
+    "textdich": ""
+  },
+  {
+    "start": 92.87,
+    "end": 93.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 92.88,
+    "end": 96.479,
+    "text": "use whatever",
+    "textdich": ""
+  },
+  {
+    "start": 93.83,
+    "end": 96.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 93.84,
+    "end": 98.479,
+    "text": "you choose and i'm going to pop open",
+    "textdich": ""
+  },
+  {
+    "start": 96.469,
+    "end": 98.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 96.479,
+    "end": 101.439,
+    "text": "pycharm's built-in terminal",
+    "textdich": ""
+  },
+  {
+    "start": 98.469,
+    "end": 101.439,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 98.479,
+    "end": 102.159,
+    "text": "now i am going to open the front end",
+    "textdich": ""
+  },
+  {
+    "start": 101.429,
+    "end": 102.159,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 101.439,
+    "end": 104.399,
+    "text": "code",
+    "textdich": ""
+  },
+  {
+    "start": 102.149,
+    "end": 104.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 102.159,
+    "end": 105.92,
+    "text": "in webstorm so i might be the only",
+    "textdich": ""
+  },
+  {
+    "start": 104.389,
+    "end": 105.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 104.399,
+    "end": 106.72,
+    "text": "streamlet engineer who does this but i",
+    "textdich": ""
+  },
+  {
+    "start": 105.91,
+    "end": 106.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 105.92,
+    "end": 109.6,
+    "text": "really like",
+    "textdich": ""
+  },
+  {
+    "start": 106.71,
+    "end": 109.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 106.72,
+    "end": 110.88,
+    "text": "using two different code editors uh when",
+    "textdich": ""
+  },
+  {
+    "start": 109.59,
+    "end": 110.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 109.6,
+    "end": 114.079,
+    "text": "i'm doing streamlet work",
+    "textdich": ""
+  },
+  {
+    "start": 110.87,
+    "end": 114.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 110.88,
+    "end": 117.04,
+    "text": "one for front end code and one for",
+    "textdich": ""
+  },
+  {
+    "start": 114.069,
+    "end": 117.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 114.079,
+    "end": 118.0,
+    "text": "python code so um in webstorm i'm going",
+    "textdich": ""
+  },
+  {
+    "start": 117.03,
+    "end": 118.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 117.04,
+    "end": 121.439,
+    "text": "to open the",
+    "textdich": ""
+  },
+  {
+    "start": 117.99,
+    "end": 121.439,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 118.0,
+    "end": 123.04,
+    "text": "my component frontend directory",
+    "textdich": ""
+  },
+  {
+    "start": 121.429,
+    "end": 123.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 121.439,
+    "end": 125.2,
+    "text": "i'm going to ignore these annoying",
+    "textdich": ""
+  },
+  {
+    "start": 123.03,
+    "end": 125.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 123.04,
+    "end": 127.84,
+    "text": "pop-ups and then i'm going to open",
+    "textdich": ""
+  },
+  {
+    "start": 125.19,
+    "end": 127.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 125.2,
+    "end": 128.879,
+    "text": "another terminal so so just to be clear",
+    "textdich": ""
+  },
+  {
+    "start": 127.83,
+    "end": 128.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 127.84,
+    "end": 132.08,
+    "text": "what's going on here",
+    "textdich": ""
+  },
+  {
+    "start": 128.869,
+    "end": 132.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 128.879,
+    "end": 134.879,
+    "text": "this light colored background editor",
+    "textdich": ""
+  },
+  {
+    "start": 132.07,
+    "end": 134.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 132.08,
+    "end": 135.2,
+    "text": "this is for all my front end code and",
+    "textdich": ""
+  },
+  {
+    "start": 134.869,
+    "end": 135.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 134.879,
+    "end": 138.0,
+    "text": "then",
+    "textdich": ""
+  },
+  {
+    "start": 135.19,
+    "end": 138.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 135.2,
+    "end": 140.319,
+    "text": "this dark colored background editor this",
+    "textdich": ""
+  },
+  {
+    "start": 137.99,
+    "end": 140.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 138.0,
+    "end": 144.0,
+    "text": "is for the python code",
+    "textdich": ""
+  },
+  {
+    "start": 140.309,
+    "end": 144.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 140.319,
+    "end": 146.319,
+    "text": "so first i'm going to run nprm install",
+    "textdich": ""
+  },
+  {
+    "start": 143.99,
+    "end": 146.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 144.0,
+    "end": 147.52,
+    "text": "in the front end and this installs the",
+    "textdich": ""
+  },
+  {
+    "start": 146.309,
+    "end": 147.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 146.319,
+    "end": 150.08,
+    "text": "initial packages",
+    "textdich": ""
+  },
+  {
+    "start": 147.51,
+    "end": 150.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 147.52,
+    "end": 150.8,
+    "text": "that this component template requires to",
+    "textdich": ""
+  },
+  {
+    "start": 150.07,
+    "end": 150.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 150.08,
+    "end": 153.2,
+    "text": "get built",
+    "textdich": ""
+  },
+  {
+    "start": 150.79,
+    "end": 153.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 150.8,
+    "end": 154.08,
+    "text": "the next thing to do is run npm start",
+    "textdich": ""
+  },
+  {
+    "start": 153.19,
+    "end": 154.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 153.2,
+    "end": 157.04,
+    "text": "and this",
+    "textdich": ""
+  },
+  {
+    "start": 154.07,
+    "end": 157.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 154.08,
+    "end": 158.879,
+    "text": "starts serving the component's front end",
+    "textdich": ""
+  },
+  {
+    "start": 157.03,
+    "end": 158.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 157.04,
+    "end": 161.599,
+    "text": "from a development server",
+    "textdich": ""
+  },
+  {
+    "start": 158.869,
+    "end": 161.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 158.879,
+    "end": 161.92,
+    "text": "npm start has um has finished it started",
+    "textdich": ""
+  },
+  {
+    "start": 161.589,
+    "end": 161.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 161.599,
+    "end": 163.599,
+    "text": "this",
+    "textdich": ""
+  },
+  {
+    "start": 161.91,
+    "end": 163.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 161.92,
+    "end": 166.72,
+    "text": "this dev server and the dev server is",
+    "textdich": ""
+  },
+  {
+    "start": 163.589,
+    "end": 166.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 163.599,
+    "end": 169.92,
+    "text": "running on localhost 3001.",
+    "textdich": ""
+  },
+  {
+    "start": 166.71,
+    "end": 169.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 166.72,
+    "end": 171.68,
+    "text": "so back in python land i am going to run",
+    "textdich": ""
+  },
+  {
+    "start": 169.91,
+    "end": 171.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 169.92,
+    "end": 173.04,
+    "text": "pip and shell again to make sure that",
+    "textdich": ""
+  },
+  {
+    "start": 171.67,
+    "end": 173.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 171.68,
+    "end": 174.959,
+    "text": "i'm in the correct",
+    "textdich": ""
+  },
+  {
+    "start": 173.03,
+    "end": 174.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 173.04,
+    "end": 176.879,
+    "text": "virtual environment and then i'm going",
+    "textdich": ""
+  },
+  {
+    "start": 174.949,
+    "end": 176.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 174.959,
+    "end": 180.239,
+    "text": "to run streamlight run",
+    "textdich": ""
+  },
+  {
+    "start": 176.869,
+    "end": 180.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 176.879,
+    "end": 183.36,
+    "text": "my component init.pi",
+    "textdich": ""
+  },
+  {
+    "start": 180.229,
+    "end": 183.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 180.239,
+    "end": 185.84,
+    "text": "and this is going to run the",
+    "textdich": ""
+  },
+  {
+    "start": 183.35,
+    "end": 185.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 183.36,
+    "end": 187.04,
+    "text": "template example okay this the the",
+    "textdich": ""
+  },
+  {
+    "start": 185.83,
+    "end": 187.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 185.84,
+    "end": 189.28,
+    "text": "custom component",
+    "textdich": ""
+  },
+  {
+    "start": 187.03,
+    "end": 189.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 187.04,
+    "end": 190.72,
+    "text": "here is this hello world text with this",
+    "textdich": ""
+  },
+  {
+    "start": 189.27,
+    "end": 190.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 189.28,
+    "end": 192.48,
+    "text": "click me button",
+    "textdich": ""
+  },
+  {
+    "start": 190.71,
+    "end": 192.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 190.72,
+    "end": 194.4,
+    "text": "and we're showing two instances of it",
+    "textdich": ""
+  },
+  {
+    "start": 192.47,
+    "end": 194.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 192.48,
+    "end": 196.72,
+    "text": "here uh when i click",
+    "textdich": ""
+  },
+  {
+    "start": 194.39,
+    "end": 196.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 194.4,
+    "end": 198.08,
+    "text": "the click me button it increments a",
+    "textdich": ""
+  },
+  {
+    "start": 196.71,
+    "end": 198.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 196.72,
+    "end": 200.959,
+    "text": "counter on the front end",
+    "textdich": ""
+  },
+  {
+    "start": 198.07,
+    "end": 200.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 198.08,
+    "end": 202.879,
+    "text": "and the front end sends data back to",
+    "textdich": ""
+  },
+  {
+    "start": 200.949,
+    "end": 202.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 200.959,
+    "end": 204.159,
+    "text": "python lan saying this is how many times",
+    "textdich": ""
+  },
+  {
+    "start": 202.869,
+    "end": 204.159,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 202.879,
+    "end": 207.36,
+    "text": "i have been clicked on",
+    "textdich": ""
+  },
+  {
+    "start": 204.149,
+    "end": 207.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 204.159,
+    "end": 210.239,
+    "text": "so on the front end the component itself",
+    "textdich": ""
+  },
+  {
+    "start": 207.35,
+    "end": 210.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 207.36,
+    "end": 212.319,
+    "text": "is implemented in mycomponent.tsx",
+    "textdich": ""
+  },
+  {
+    "start": 210.229,
+    "end": 212.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 210.239,
+    "end": 214.0,
+    "text": "and one of the nice things about running",
+    "textdich": ""
+  },
+  {
+    "start": 212.309,
+    "end": 214.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 212.319,
+    "end": 217.44,
+    "text": "the front end code in",
+    "textdich": ""
+  },
+  {
+    "start": 213.99,
+    "end": 217.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 214.0,
+    "end": 220.72,
+    "text": "this development server is that we can",
+    "textdich": ""
+  },
+  {
+    "start": 217.43,
+    "end": 220.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 217.44,
+    "end": 224.4,
+    "text": "edit the front end code live",
+    "textdich": ""
+  },
+  {
+    "start": 220.71,
+    "end": 224.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 220.72,
+    "end": 226.239,
+    "text": "so i'm going to change hello to ahoy",
+    "textdich": ""
+  },
+  {
+    "start": 224.39,
+    "end": 226.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 224.4,
+    "end": 228.48,
+    "text": "hit save you can see it gets recompiled",
+    "textdich": ""
+  },
+  {
+    "start": 226.229,
+    "end": 228.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 226.239,
+    "end": 231.04,
+    "text": "down here uh we can edit it live and",
+    "textdich": ""
+  },
+  {
+    "start": 228.47,
+    "end": 231.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 228.48,
+    "end": 233.84,
+    "text": "it's immediately reflected back",
+    "textdich": ""
+  },
+  {
+    "start": 231.03,
+    "end": 233.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 231.04,
+    "end": 236.08,
+    "text": "in our running app so now let's jump",
+    "textdich": ""
+  },
+  {
+    "start": 233.83,
+    "end": 236.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 233.84,
+    "end": 236.959,
+    "text": "into the code that builds the component",
+    "textdich": ""
+  },
+  {
+    "start": 236.07,
+    "end": 236.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 236.08,
+    "end": 239.84,
+    "text": "okay so",
+    "textdich": ""
+  },
+  {
+    "start": 236.949,
+    "end": 239.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 236.959,
+    "end": 240.48,
+    "text": "um over in python land i am going to",
+    "textdich": ""
+  },
+  {
+    "start": 239.83,
+    "end": 240.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 239.84,
+    "end": 243.68,
+    "text": "open",
+    "textdich": ""
+  },
+  {
+    "start": 240.47,
+    "end": 243.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 240.48,
+    "end": 244.4,
+    "text": "the init.pi file inside the my component",
+    "textdich": ""
+  },
+  {
+    "start": 243.67,
+    "end": 244.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 243.68,
+    "end": 245.84,
+    "text": "directory",
+    "textdich": ""
+  },
+  {
+    "start": 244.39,
+    "end": 245.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 244.4,
+    "end": 247.519,
+    "text": "whoops and i'm going to pull up my",
+    "textdich": ""
+  },
+  {
+    "start": 245.83,
+    "end": 247.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 245.84,
+    "end": 248.239,
+    "text": "terminal again i'm just going to run",
+    "textdich": ""
+  },
+  {
+    "start": 247.509,
+    "end": 248.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 247.519,
+    "end": 251.2,
+    "text": "streamlit",
+    "textdich": ""
+  },
+  {
+    "start": 248.229,
+    "end": 251.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 248.239,
+    "end": 252.4,
+    "text": "run my component init.pi so that our",
+    "textdich": ""
+  },
+  {
+    "start": 251.19,
+    "end": 252.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 251.2,
+    "end": 255.599,
+    "text": "server is running",
+    "textdich": ""
+  },
+  {
+    "start": 252.39,
+    "end": 255.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 252.4,
+    "end": 257.28,
+    "text": "so uh this init.pi uh",
+    "textdich": ""
+  },
+  {
+    "start": 255.589,
+    "end": 257.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 255.599,
+    "end": 258.959,
+    "text": "file this is where the component is",
+    "textdich": ""
+  },
+  {
+    "start": 257.27,
+    "end": 258.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 257.28,
+    "end": 260.56,
+    "text": "declared and it's also where we have",
+    "textdich": ""
+  },
+  {
+    "start": 258.949,
+    "end": 260.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 258.959,
+    "end": 261.199,
+    "text": "some example code that shows how it's",
+    "textdich": ""
+  },
+  {
+    "start": 260.55,
+    "end": 261.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 260.56,
+    "end": 262.96,
+    "text": "used",
+    "textdich": ""
+  },
+  {
+    "start": 261.189,
+    "end": 262.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 261.199,
+    "end": 265.759,
+    "text": "and um to explore this i'm actually",
+    "textdich": ""
+  },
+  {
+    "start": 262.95,
+    "end": 265.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 262.96,
+    "end": 268.96,
+    "text": "going to just delete everything",
+    "textdich": ""
+  },
+  {
+    "start": 265.749,
+    "end": 268.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 265.759,
+    "end": 272.24,
+    "text": "and uh and then rewrite it from scratch",
+    "textdich": ""
+  },
+  {
+    "start": 268.95,
+    "end": 272.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 268.96,
+    "end": 276.96,
+    "text": "okay by convention to start with we uh",
+    "textdich": ""
+  },
+  {
+    "start": 272.23,
+    "end": 276.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 272.24,
+    "end": 280.0,
+    "text": "import the components",
+    "textdich": ""
+  },
+  {
+    "start": 276.95,
+    "end": 280.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 276.96,
+    "end": 282.0,
+    "text": "package from streamlit uh by typing",
+    "textdich": ""
+  },
+  {
+    "start": 279.99,
+    "end": 282.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 280.0,
+    "end": 285.199,
+    "text": "import streamlet.components.v1",
+    "textdich": ""
+  },
+  {
+    "start": 281.99,
+    "end": 285.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 282.0,
+    "end": 287.28,
+    "text": "as components so there's uh there's one",
+    "textdich": ""
+  },
+  {
+    "start": 285.189,
+    "end": 287.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 285.199,
+    "end": 289.04,
+    "text": "very important function inside the",
+    "textdich": ""
+  },
+  {
+    "start": 287.27,
+    "end": 289.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 287.28,
+    "end": 292.08,
+    "text": "components package and that",
+    "textdich": ""
+  },
+  {
+    "start": 289.03,
+    "end": 292.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 289.04,
+    "end": 294.72,
+    "text": "is this declare",
+    "textdich": ""
+  },
+  {
+    "start": 292.07,
+    "end": 294.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 292.08,
+    "end": 297.04,
+    "text": "component function okay so declare",
+    "textdich": ""
+  },
+  {
+    "start": 294.71,
+    "end": 297.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 294.72,
+    "end": 299.12,
+    "text": "component takes two parameters the first",
+    "textdich": ""
+  },
+  {
+    "start": 297.03,
+    "end": 299.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 297.04,
+    "end": 300.4,
+    "text": "is just a human readable name our",
+    "textdich": ""
+  },
+  {
+    "start": 299.11,
+    "end": 300.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 299.12,
+    "end": 303.919,
+    "text": "component's name",
+    "textdich": ""
+  },
+  {
+    "start": 300.39,
+    "end": 303.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 300.4,
+    "end": 305.52,
+    "text": "and then the second is the url that our",
+    "textdich": ""
+  },
+  {
+    "start": 303.909,
+    "end": 305.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 303.919,
+    "end": 306.96,
+    "text": "component's front end code is being",
+    "textdich": ""
+  },
+  {
+    "start": 305.51,
+    "end": 306.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 305.52,
+    "end": 309.36,
+    "text": "served from and",
+    "textdich": ""
+  },
+  {
+    "start": 306.95,
+    "end": 309.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 306.96,
+    "end": 310.16,
+    "text": "we know that this is localhost 3001",
+    "textdich": ""
+  },
+  {
+    "start": 309.35,
+    "end": 310.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 309.36,
+    "end": 313.199,
+    "text": "which is",
+    "textdich": ""
+  },
+  {
+    "start": 310.15,
+    "end": 313.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 310.16,
+    "end": 313.68,
+    "text": "uh where our dev server is running i hit",
+    "textdich": ""
+  },
+  {
+    "start": 313.189,
+    "end": 313.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 313.199,
+    "end": 316.32,
+    "text": "save",
+    "textdich": ""
+  },
+  {
+    "start": 313.67,
+    "end": 316.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 313.68,
+    "end": 316.96,
+    "text": "nothing happens in in the streamlit uh",
+    "textdich": ""
+  },
+  {
+    "start": 316.31,
+    "end": 316.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 316.32,
+    "end": 318.56,
+    "text": "running app",
+    "textdich": ""
+  },
+  {
+    "start": 316.95,
+    "end": 318.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 316.96,
+    "end": 320.479,
+    "text": "and we haven't we haven't done anything",
+    "textdich": ""
+  },
+  {
+    "start": 318.55,
+    "end": 320.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 318.56,
+    "end": 323.24,
+    "text": "other than make streamline aware",
+    "textdich": ""
+  },
+  {
+    "start": 320.469,
+    "end": 323.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 320.479,
+    "end": 324.96,
+    "text": "of our component so the return value of",
+    "textdich": ""
+  },
+  {
+    "start": 323.23,
+    "end": 324.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 323.24,
+    "end": 328.32,
+    "text": "components.declare component",
+    "textdich": ""
+  },
+  {
+    "start": 324.95,
+    "end": 328.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 324.96,
+    "end": 332.479,
+    "text": "is a function and i'm going",
+    "textdich": ""
+  },
+  {
+    "start": 328.31,
+    "end": 332.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 328.32,
+    "end": 336.0,
+    "text": "to save a reference to that function and",
+    "textdich": ""
+  },
+  {
+    "start": 332.469,
+    "end": 336.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 332.479,
+    "end": 338.72,
+    "text": "this function is how we",
+    "textdich": ""
+  },
+  {
+    "start": 335.99,
+    "end": 338.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 336.0,
+    "end": 339.84,
+    "text": "instantiate new um instances of our",
+    "textdich": ""
+  },
+  {
+    "start": 338.71,
+    "end": 339.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 338.72,
+    "end": 341.36,
+    "text": "component of",
+    "textdich": ""
+  },
+  {
+    "start": 339.83,
+    "end": 341.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 339.84,
+    "end": 343.199,
+    "text": "our components front end and it's also",
+    "textdich": ""
+  },
+  {
+    "start": 341.35,
+    "end": 343.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 341.36,
+    "end": 345.919,
+    "text": "how we send data to and receive",
+    "textdich": ""
+  },
+  {
+    "start": 343.189,
+    "end": 345.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 343.199,
+    "end": 346.32,
+    "text": "values back from our component so to",
+    "textdich": ""
+  },
+  {
+    "start": 345.909,
+    "end": 346.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 345.919,
+    "end": 348.24,
+    "text": "create",
+    "textdich": ""
+  },
+  {
+    "start": 346.31,
+    "end": 348.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 346.32,
+    "end": 349.44,
+    "text": "a new instance of the component i can",
+    "textdich": ""
+  },
+  {
+    "start": 348.23,
+    "end": 349.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 348.24,
+    "end": 352.32,
+    "text": "just use the",
+    "textdich": ""
+  },
+  {
+    "start": 349.43,
+    "end": 352.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 349.44,
+    "end": 353.52,
+    "text": "the function and uh over here in our",
+    "textdich": ""
+  },
+  {
+    "start": 352.31,
+    "end": 353.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 352.32,
+    "end": 355.28,
+    "text": "running streamlit app",
+    "textdich": ""
+  },
+  {
+    "start": 353.51,
+    "end": 355.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 353.52,
+    "end": 356.8,
+    "text": "we have an instance of the component",
+    "textdich": ""
+  },
+  {
+    "start": 355.27,
+    "end": 356.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 355.28,
+    "end": 358.16,
+    "text": "appearing it is missing some data",
+    "textdich": ""
+  },
+  {
+    "start": 356.79,
+    "end": 358.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 356.8,
+    "end": 361.52,
+    "text": "because we haven't passed",
+    "textdich": ""
+  },
+  {
+    "start": 358.15,
+    "end": 361.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 358.16,
+    "end": 363.84,
+    "text": "some of the data that it expects um",
+    "textdich": ""
+  },
+  {
+    "start": 361.51,
+    "end": 363.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 361.52,
+    "end": 365.36,
+    "text": "i can call my component again to make a",
+    "textdich": ""
+  },
+  {
+    "start": 363.83,
+    "end": 365.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 363.84,
+    "end": 368.08,
+    "text": "second instance",
+    "textdich": ""
+  },
+  {
+    "start": 365.35,
+    "end": 368.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 365.36,
+    "end": 369.68,
+    "text": "but in fact this causes an error and to",
+    "textdich": ""
+  },
+  {
+    "start": 368.07,
+    "end": 369.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 368.08,
+    "end": 370.319,
+    "text": "get around this error we can use the",
+    "textdich": ""
+  },
+  {
+    "start": 369.67,
+    "end": 370.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 369.68,
+    "end": 375.28,
+    "text": "magic",
+    "textdich": ""
+  },
+  {
+    "start": 370.309,
+    "end": 375.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 370.319,
+    "end": 375.28,
+    "text": "key parameter and pass a unique string",
+    "textdich": ""
+  },
+  {
+    "start": 375.35,
+    "end": 375.35,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 375.36,
+    "end": 379.039,
+    "text": "you can do this a few more times",
+    "textdich": ""
+  },
+  {
+    "start": 379.749,
+    "end": 379.749,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 379.759,
+    "end": 383.68,
+    "text": "to demonstrate that we can create as",
+    "textdich": ""
+  },
+  {
+    "start": 381.43,
+    "end": 383.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 381.44,
+    "end": 386.08,
+    "text": "many instances of this component as uh",
+    "textdich": ""
+  },
+  {
+    "start": 383.67,
+    "end": 386.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 383.68,
+    "end": 387.6,
+    "text": "as we want and i will explain what the",
+    "textdich": ""
+  },
+  {
+    "start": 386.07,
+    "end": 387.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 386.08,
+    "end": 390.0,
+    "text": "key component does",
+    "textdich": ""
+  },
+  {
+    "start": 387.59,
+    "end": 390.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 387.6,
+    "end": 391.6,
+    "text": "later okay so let's get back to just",
+    "textdich": ""
+  },
+  {
+    "start": 389.99,
+    "end": 391.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 390.0,
+    "end": 392.56,
+    "text": "having a single instance of this",
+    "textdich": ""
+  },
+  {
+    "start": 391.59,
+    "end": 392.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 391.6,
+    "end": 396.4,
+    "text": "component",
+    "textdich": ""
+  },
+  {
+    "start": 392.55,
+    "end": 396.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 392.56,
+    "end": 398.88,
+    "text": "um to send data to our component we",
+    "textdich": ""
+  },
+  {
+    "start": 396.39,
+    "end": 398.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 396.4,
+    "end": 399.52,
+    "text": "pass named parameters so our component",
+    "textdich": ""
+  },
+  {
+    "start": 398.87,
+    "end": 399.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 398.88,
+    "end": 401.759,
+    "text": "expects",
+    "textdich": ""
+  },
+  {
+    "start": 399.51,
+    "end": 401.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 399.52,
+    "end": 404.8,
+    "text": "a single parameter called name and i'm",
+    "textdich": ""
+  },
+  {
+    "start": 401.749,
+    "end": 404.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 401.759,
+    "end": 404.8,
+    "text": "going to pass it",
+    "textdich": ""
+  },
+  {
+    "start": 405.51,
+    "end": 405.51,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 405.52,
+    "end": 411.84,
+    "text": "this parameter and hit save",
+    "textdich": ""
+  },
+  {
+    "start": 409.189,
+    "end": 411.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 409.199,
+    "end": 414.0,
+    "text": "and we can see that uh it is now saying",
+    "textdich": ""
+  },
+  {
+    "start": 411.83,
+    "end": 414.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 411.84,
+    "end": 417.12,
+    "text": "hello streamlight to see how this works",
+    "textdich": ""
+  },
+  {
+    "start": 413.99,
+    "end": 417.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 414.0,
+    "end": 418.919,
+    "text": "let's jump back over to webstorm",
+    "textdich": ""
+  },
+  {
+    "start": 417.11,
+    "end": 418.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 417.12,
+    "end": 420.639,
+    "text": "okay so again we're in the",
+    "textdich": ""
+  },
+  {
+    "start": 418.909,
+    "end": 420.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 418.919,
+    "end": 423.36,
+    "text": "mycomponent.tsx file",
+    "textdich": ""
+  },
+  {
+    "start": 420.629,
+    "end": 423.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 420.639,
+    "end": 424.4,
+    "text": "inside the front end and the render",
+    "textdich": ""
+  },
+  {
+    "start": 423.35,
+    "end": 424.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 423.36,
+    "end": 427.68,
+    "text": "function is sort of",
+    "textdich": ""
+  },
+  {
+    "start": 424.39,
+    "end": 427.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 424.4,
+    "end": 430.479,
+    "text": "where the magic happens um",
+    "textdich": ""
+  },
+  {
+    "start": 427.67,
+    "end": 430.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 427.68,
+    "end": 431.599,
+    "text": "arguments passed from python are",
+    "textdich": ""
+  },
+  {
+    "start": 430.469,
+    "end": 431.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 430.479,
+    "end": 434.96,
+    "text": "accessible",
+    "textdich": ""
+  },
+  {
+    "start": 431.589,
+    "end": 434.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 431.599,
+    "end": 438.0,
+    "text": "inside this uh dictionary called this",
+    "textdich": ""
+  },
+  {
+    "start": 434.95,
+    "end": 438.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 434.96,
+    "end": 441.28,
+    "text": "dot props dot args so we can see here",
+    "textdich": ""
+  },
+  {
+    "start": 437.99,
+    "end": 441.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 438.0,
+    "end": 442.639,
+    "text": "um this component is expecting a single",
+    "textdich": ""
+  },
+  {
+    "start": 441.27,
+    "end": 442.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 441.28,
+    "end": 444.96,
+    "text": "argument called name",
+    "textdich": ""
+  },
+  {
+    "start": 442.629,
+    "end": 444.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 442.639,
+    "end": 447.44,
+    "text": "and it's accessing that argument by",
+    "textdich": ""
+  },
+  {
+    "start": 444.95,
+    "end": 447.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 444.96,
+    "end": 450.8,
+    "text": "passing a key to a dictionary",
+    "textdich": ""
+  },
+  {
+    "start": 447.43,
+    "end": 450.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 447.44,
+    "end": 453.759,
+    "text": "we could change this to expect a second",
+    "textdich": ""
+  },
+  {
+    "start": 450.79,
+    "end": 453.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 450.8,
+    "end": 457.599,
+    "text": "argument called the greetings",
+    "textdich": ""
+  },
+  {
+    "start": 453.749,
+    "end": 457.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 453.759,
+    "end": 460.639,
+    "text": "and i'm going to change this render code",
+    "textdich": ""
+  },
+  {
+    "start": 457.589,
+    "end": 460.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 457.599,
+    "end": 461.28,
+    "text": "so that it's using our greeting and hit",
+    "textdich": ""
+  },
+  {
+    "start": 460.629,
+    "end": 461.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 460.639,
+    "end": 463.68,
+    "text": "save",
+    "textdich": ""
+  },
+  {
+    "start": 461.27,
+    "end": 463.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 461.28,
+    "end": 464.8,
+    "text": "we can see no greeting argument was",
+    "textdich": ""
+  },
+  {
+    "start": 463.67,
+    "end": 464.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 463.68,
+    "end": 468.08,
+    "text": "passed and so",
+    "textdich": ""
+  },
+  {
+    "start": 464.79,
+    "end": 468.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 464.8,
+    "end": 469.919,
+    "text": "uh on the python side so this doesn't",
+    "textdich": ""
+  },
+  {
+    "start": 468.07,
+    "end": 469.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 468.08,
+    "end": 472.96,
+    "text": "look right yet so i'm going to jump back",
+    "textdich": ""
+  },
+  {
+    "start": 469.909,
+    "end": 472.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 469.919,
+    "end": 476.8,
+    "text": "over and pass",
+    "textdich": ""
+  },
+  {
+    "start": 472.95,
+    "end": 476.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 472.96,
+    "end": 479.44,
+    "text": "a greeting hit save and now",
+    "textdich": ""
+  },
+  {
+    "start": 476.79,
+    "end": 479.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 476.8,
+    "end": 480.08,
+    "text": "everything is working as expected okay",
+    "textdich": ""
+  },
+  {
+    "start": 479.43,
+    "end": 480.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 479.44,
+    "end": 483.36,
+    "text": "so that",
+    "textdich": ""
+  },
+  {
+    "start": 480.07,
+    "end": 483.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 480.08,
+    "end": 486.319,
+    "text": "is part of what's going on here",
+    "textdich": ""
+  },
+  {
+    "start": 483.35,
+    "end": 486.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 483.36,
+    "end": 486.96,
+    "text": "the second thing to explore is the",
+    "textdich": ""
+  },
+  {
+    "start": 486.309,
+    "end": 486.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 486.319,
+    "end": 490.16,
+    "text": "return",
+    "textdich": ""
+  },
+  {
+    "start": 486.95,
+    "end": 490.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 486.96,
+    "end": 492.24,
+    "text": "value how do how we get data back from",
+    "textdich": ""
+  },
+  {
+    "start": 490.15,
+    "end": 492.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 490.16,
+    "end": 495.039,
+    "text": "the front end to our components so",
+    "textdich": ""
+  },
+  {
+    "start": 492.23,
+    "end": 495.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 492.24,
+    "end": 497.28,
+    "text": "can expand this a little bit our",
+    "textdich": ""
+  },
+  {
+    "start": 495.029,
+    "end": 497.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 495.039,
+    "end": 499.28,
+    "text": "component function returns a value",
+    "textdich": ""
+  },
+  {
+    "start": 497.27,
+    "end": 499.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 497.28,
+    "end": 502.879,
+    "text": "we can assign that value to a variable",
+    "textdich": ""
+  },
+  {
+    "start": 499.27,
+    "end": 502.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 499.28,
+    "end": 506.879,
+    "text": "and then we can print it out",
+    "textdich": ""
+  },
+  {
+    "start": 502.869,
+    "end": 506.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 502.879,
+    "end": 510.0,
+    "text": "and of course it is helpful",
+    "textdich": ""
+  },
+  {
+    "start": 506.869,
+    "end": 510.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 506.879,
+    "end": 512.88,
+    "text": "if we import streamlets okay so",
+    "textdich": ""
+  },
+  {
+    "start": 509.99,
+    "end": 512.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 510.0,
+    "end": 514.8,
+    "text": "to start with our component is returning",
+    "textdich": ""
+  },
+  {
+    "start": 512.87,
+    "end": 514.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 512.88,
+    "end": 517.68,
+    "text": "none it has no value let's see",
+    "textdich": ""
+  },
+  {
+    "start": 514.79,
+    "end": 517.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 514.8,
+    "end": 519.599,
+    "text": "if i click this button ah our component",
+    "textdich": ""
+  },
+  {
+    "start": 517.67,
+    "end": 519.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 517.68,
+    "end": 520.0,
+    "text": "has a new value it has a new value every",
+    "textdich": ""
+  },
+  {
+    "start": 519.589,
+    "end": 520.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 519.599,
+    "end": 521.76,
+    "text": "single",
+    "textdich": ""
+  },
+  {
+    "start": 519.99,
+    "end": 521.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 520.0,
+    "end": 523.279,
+    "text": "time i click this button how does this",
+    "textdich": ""
+  },
+  {
+    "start": 521.75,
+    "end": 523.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 521.76,
+    "end": 526.08,
+    "text": "work um",
+    "textdich": ""
+  },
+  {
+    "start": 523.269,
+    "end": 526.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 523.279,
+    "end": 526.72,
+    "text": "let's go back to front and land and",
+    "textdich": ""
+  },
+  {
+    "start": 526.07,
+    "end": 526.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 526.08,
+    "end": 529.76,
+    "text": "inside",
+    "textdich": ""
+  },
+  {
+    "start": 526.71,
+    "end": 529.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 526.72,
+    "end": 532.32,
+    "text": "my component.render there is",
+    "textdich": ""
+  },
+  {
+    "start": 529.75,
+    "end": 532.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 529.76,
+    "end": 533.44,
+    "text": "this button this click me button and the",
+    "textdich": ""
+  },
+  {
+    "start": 532.31,
+    "end": 533.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 532.32,
+    "end": 536.88,
+    "text": "click me button",
+    "textdich": ""
+  },
+  {
+    "start": 533.43,
+    "end": 536.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 533.44,
+    "end": 538.72,
+    "text": "has an on click handler that is defined",
+    "textdich": ""
+  },
+  {
+    "start": 536.87,
+    "end": 538.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 536.88,
+    "end": 541.12,
+    "text": "down here and i'm just going to delete",
+    "textdich": ""
+  },
+  {
+    "start": 538.71,
+    "end": 541.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 538.72,
+    "end": 544.56,
+    "text": "the contents of this on click handler",
+    "textdich": ""
+  },
+  {
+    "start": 541.11,
+    "end": 544.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 541.12,
+    "end": 548.6,
+    "text": "and rewrite it what onclick does",
+    "textdich": ""
+  },
+  {
+    "start": 544.55,
+    "end": 548.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 544.56,
+    "end": 550.48,
+    "text": "is it calls this function called",
+    "textdich": ""
+  },
+  {
+    "start": 548.59,
+    "end": 550.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 548.6,
+    "end": 553.88,
+    "text": "streamlight.setcomponentvalue",
+    "textdich": ""
+  },
+  {
+    "start": 550.47,
+    "end": 553.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 550.48,
+    "end": 555.2,
+    "text": "and um any value that we pass in",
+    "textdich": ""
+  },
+  {
+    "start": 553.87,
+    "end": 555.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 553.88,
+    "end": 557.44,
+    "text": "streamlit.setcomponentvalue",
+    "textdich": ""
+  },
+  {
+    "start": 555.19,
+    "end": 557.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 555.2,
+    "end": 558.32,
+    "text": "will be received as the return value",
+    "textdich": ""
+  },
+  {
+    "start": 557.43,
+    "end": 558.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 557.44,
+    "end": 561.36,
+    "text": "from our",
+    "textdich": ""
+  },
+  {
+    "start": 558.31,
+    "end": 561.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 558.32,
+    "end": 564.399,
+    "text": "um pythoncomponent function so if i were",
+    "textdich": ""
+  },
+  {
+    "start": 561.35,
+    "end": 564.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 561.36,
+    "end": 568.48,
+    "text": "to pass a string i may return",
+    "textdich": ""
+  },
+  {
+    "start": 564.389,
+    "end": 568.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 564.399,
+    "end": 569.6,
+    "text": "i am a return value",
+    "textdich": ""
+  },
+  {
+    "start": 568.47,
+    "end": 569.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 568.48,
+    "end": 571.92,
+    "text": "and hit save this is going to get",
+    "textdich": ""
+  },
+  {
+    "start": 569.59,
+    "end": 571.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 569.6,
+    "end": 573.04,
+    "text": "recompiled now when i click the click me",
+    "textdich": ""
+  },
+  {
+    "start": 571.91,
+    "end": 573.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 571.92,
+    "end": 576.8,
+    "text": "button",
+    "textdich": ""
+  },
+  {
+    "start": 573.03,
+    "end": 576.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 573.04,
+    "end": 579.92,
+    "text": "we can see indeed i am a return value",
+    "textdich": ""
+  },
+  {
+    "start": 576.79,
+    "end": 579.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 576.8,
+    "end": 581.76,
+    "text": "gets passed so i'm just gonna revert",
+    "textdich": ""
+  },
+  {
+    "start": 579.91,
+    "end": 581.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 579.92,
+    "end": 582.56,
+    "text": "back to uh what this originally looked",
+    "textdich": ""
+  },
+  {
+    "start": 581.75,
+    "end": 582.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 581.76,
+    "end": 585.92,
+    "text": "like so",
+    "textdich": ""
+  },
+  {
+    "start": 582.55,
+    "end": 585.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 582.56,
+    "end": 587.68,
+    "text": "um our component template has a bit of",
+    "textdich": ""
+  },
+  {
+    "start": 585.91,
+    "end": 587.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 585.92,
+    "end": 589.2,
+    "text": "state it it remembers the number of",
+    "textdich": ""
+  },
+  {
+    "start": 587.67,
+    "end": 589.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 587.68,
+    "end": 591.6,
+    "text": "times it's been clicked",
+    "textdich": ""
+  },
+  {
+    "start": 589.19,
+    "end": 591.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 589.2,
+    "end": 592.399,
+    "text": "and in the click handler it increments",
+    "textdich": ""
+  },
+  {
+    "start": 591.59,
+    "end": 592.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 591.6,
+    "end": 594.959,
+    "text": "that internal",
+    "textdich": ""
+  },
+  {
+    "start": 592.389,
+    "end": 594.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 592.399,
+    "end": 595.6,
+    "text": "numclix counter and then sends the new",
+    "textdich": ""
+  },
+  {
+    "start": 594.949,
+    "end": 595.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 594.959,
+    "end": 599.279,
+    "text": "value",
+    "textdich": ""
+  },
+  {
+    "start": 595.59,
+    "end": 599.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 595.6,
+    "end": 602.8,
+    "text": "of numclicks back to",
+    "textdich": ""
+  },
+  {
+    "start": 599.269,
+    "end": 602.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 599.279,
+    "end": 604.399,
+    "text": "python okay cool if we switch back over",
+    "textdich": ""
+  },
+  {
+    "start": 602.79,
+    "end": 604.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 602.8,
+    "end": 605.44,
+    "text": "to python",
+    "textdich": ""
+  },
+  {
+    "start": 604.389,
+    "end": 605.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 604.399,
+    "end": 607.839,
+    "text": "we can see again that we're just",
+    "textdich": ""
+  },
+  {
+    "start": 605.43,
+    "end": 607.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 605.44,
+    "end": 610.079,
+    "text": "printing that value out right so",
+    "textdich": ""
+  },
+  {
+    "start": 607.829,
+    "end": 610.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 607.839,
+    "end": 612.0,
+    "text": "it is worth taking a very brief",
+    "textdich": ""
+  },
+  {
+    "start": 610.069,
+    "end": 612.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 610.079,
+    "end": 613.2,
+    "text": "diversion under the hood of streamlight",
+    "textdich": ""
+  },
+  {
+    "start": 611.99,
+    "end": 613.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 612.0,
+    "end": 615.04,
+    "text": "to understand",
+    "textdich": ""
+  },
+  {
+    "start": 613.19,
+    "end": 615.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 613.2,
+    "end": 617.279,
+    "text": "how this magic is happening and",
+    "textdich": ""
+  },
+  {
+    "start": 615.03,
+    "end": 617.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 615.04,
+    "end": 620.24,
+    "text": "demystify components like how is it",
+    "textdich": ""
+  },
+  {
+    "start": 617.269,
+    "end": 620.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 617.279,
+    "end": 620.64,
+    "text": "that this uh that this variable's value",
+    "textdich": ""
+  },
+  {
+    "start": 620.23,
+    "end": 620.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 620.24,
+    "end": 623.12,
+    "text": "is",
+    "textdich": ""
+  },
+  {
+    "start": 620.63,
+    "end": 623.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 620.64,
+    "end": 624.88,
+    "text": "changing and getting reprinted over time",
+    "textdich": ""
+  },
+  {
+    "start": 623.11,
+    "end": 624.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 623.12,
+    "end": 628.16,
+    "text": "to do this first i'm going to",
+    "textdich": ""
+  },
+  {
+    "start": 624.87,
+    "end": 628.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 624.88,
+    "end": 630.32,
+    "text": "i'm going to kill my streamlight server",
+    "textdich": ""
+  },
+  {
+    "start": 628.15,
+    "end": 630.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 628.16,
+    "end": 632.079,
+    "text": "and i'm going to call which streamlit so",
+    "textdich": ""
+  },
+  {
+    "start": 630.31,
+    "end": 632.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 630.32,
+    "end": 635.36,
+    "text": "i can see the location that my",
+    "textdich": ""
+  },
+  {
+    "start": 632.069,
+    "end": 635.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 632.079,
+    "end": 638.48,
+    "text": "streamlet command lives at and",
+    "textdich": ""
+  },
+  {
+    "start": 635.35,
+    "end": 638.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 635.36,
+    "end": 642.48,
+    "text": "i am going to um basically teach",
+    "textdich": ""
+  },
+  {
+    "start": 638.47,
+    "end": 642.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 638.48,
+    "end": 644.88,
+    "text": "pycharm how to run this app",
+    "textdich": ""
+  },
+  {
+    "start": 642.47,
+    "end": 644.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 642.48,
+    "end": 646.88,
+    "text": "from a debug session so what i'm doing",
+    "textdich": ""
+  },
+  {
+    "start": 644.87,
+    "end": 646.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 644.88,
+    "end": 648.959,
+    "text": "is i'm creating a new",
+    "textdich": ""
+  },
+  {
+    "start": 646.87,
+    "end": 648.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 646.88,
+    "end": 650.24,
+    "text": "creating a new debug configuration",
+    "textdich": ""
+  },
+  {
+    "start": 648.949,
+    "end": 650.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 648.959,
+    "end": 653.279,
+    "text": "inside pycharm",
+    "textdich": ""
+  },
+  {
+    "start": 650.23,
+    "end": 653.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 650.24,
+    "end": 655.04,
+    "text": "uh and i'm telling it to to run streamli",
+    "textdich": ""
+  },
+  {
+    "start": 653.269,
+    "end": 655.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 653.279,
+    "end": 656.8,
+    "text": "run mycomponentinit.pi",
+    "textdich": ""
+  },
+  {
+    "start": 655.03,
+    "end": 656.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 655.04,
+    "end": 658.079,
+    "text": "and i'm making sure that when it calls",
+    "textdich": ""
+  },
+  {
+    "start": 656.79,
+    "end": 658.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 656.8,
+    "end": 659.839,
+    "text": "streamlit run",
+    "textdich": ""
+  },
+  {
+    "start": 658.069,
+    "end": 659.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 658.079,
+    "end": 661.519,
+    "text": "it's uh it's executing the streamlit",
+    "textdich": ""
+  },
+  {
+    "start": 659.829,
+    "end": 661.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 659.839,
+    "end": 662.16,
+    "text": "that's inside the virtual environment",
+    "textdich": ""
+  },
+  {
+    "start": 661.509,
+    "end": 662.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 661.519,
+    "end": 663.92,
+    "text": "that we",
+    "textdich": ""
+  },
+  {
+    "start": 662.15,
+    "end": 663.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 662.16,
+    "end": 665.2,
+    "text": "created make sure it's working directory",
+    "textdich": ""
+  },
+  {
+    "start": 663.91,
+    "end": 665.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 663.92,
+    "end": 667.44,
+    "text": "is set properly",
+    "textdich": ""
+  },
+  {
+    "start": 665.19,
+    "end": 667.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 665.2,
+    "end": 668.959,
+    "text": "okay so now if i click the debug button",
+    "textdich": ""
+  },
+  {
+    "start": 667.43,
+    "end": 668.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 667.44,
+    "end": 669.68,
+    "text": "here let's make sure this is still",
+    "textdich": ""
+  },
+  {
+    "start": 668.949,
+    "end": 669.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 668.959,
+    "end": 672.88,
+    "text": "working",
+    "textdich": ""
+  },
+  {
+    "start": 669.67,
+    "end": 672.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 669.68,
+    "end": 674.16,
+    "text": "cool so now we are uh running the same",
+    "textdich": ""
+  },
+  {
+    "start": 672.87,
+    "end": 674.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 672.88,
+    "end": 675.839,
+    "text": "stream like that but instead",
+    "textdich": ""
+  },
+  {
+    "start": 674.15,
+    "end": 675.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 674.16,
+    "end": 677.279,
+    "text": "of running it from a terminal we're",
+    "textdich": ""
+  },
+  {
+    "start": 675.829,
+    "end": 677.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 675.839,
+    "end": 678.16,
+    "text": "actually we're running it from within a",
+    "textdich": ""
+  },
+  {
+    "start": 677.269,
+    "end": 678.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 677.279,
+    "end": 680.72,
+    "text": "debug session",
+    "textdich": ""
+  },
+  {
+    "start": 678.15,
+    "end": 680.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 678.16,
+    "end": 681.279,
+    "text": "inside inside pycharm gonna modify this",
+    "textdich": ""
+  },
+  {
+    "start": 680.71,
+    "end": 681.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 680.72,
+    "end": 684.24,
+    "text": "a bit",
+    "textdich": ""
+  },
+  {
+    "start": 681.269,
+    "end": 684.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 681.279,
+    "end": 684.8,
+    "text": "to say component tutorial give it a",
+    "textdich": ""
+  },
+  {
+    "start": 684.23,
+    "end": 684.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 684.24,
+    "end": 688.0,
+    "text": "title",
+    "textdich": ""
+  },
+  {
+    "start": 684.79,
+    "end": 688.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 684.8,
+    "end": 691.839,
+    "text": "and down here let's say return",
+    "textdich": ""
+  },
+  {
+    "start": 687.99,
+    "end": 691.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 688.0,
+    "end": 695.04,
+    "text": "value next i'm going to kill this",
+    "textdich": ""
+  },
+  {
+    "start": 691.829,
+    "end": 695.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 691.839,
+    "end": 695.839,
+    "text": "and close this page i'm going to set a",
+    "textdich": ""
+  },
+  {
+    "start": 695.03,
+    "end": 695.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 695.04,
+    "end": 699.279,
+    "text": "breakpoint",
+    "textdich": ""
+  },
+  {
+    "start": 695.829,
+    "end": 699.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 695.839,
+    "end": 701.36,
+    "text": "on our first streamlit command",
+    "textdich": ""
+  },
+  {
+    "start": 699.269,
+    "end": 701.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 699.279,
+    "end": 702.72,
+    "text": "restart the server uh the the streamline",
+    "textdich": ""
+  },
+  {
+    "start": 701.35,
+    "end": 702.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 701.36,
+    "end": 705.36,
+    "text": "server has just started",
+    "textdich": ""
+  },
+  {
+    "start": 702.71,
+    "end": 705.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 702.72,
+    "end": 707.04,
+    "text": "and um we've stopped at this first break",
+    "textdich": ""
+  },
+  {
+    "start": 705.35,
+    "end": 707.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 705.36,
+    "end": 708.0,
+    "text": "point i'm gonna advance over the break",
+    "textdich": ""
+  },
+  {
+    "start": 707.03,
+    "end": 708.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 707.04,
+    "end": 710.16,
+    "text": "point and we can see",
+    "textdich": ""
+  },
+  {
+    "start": 707.99,
+    "end": 710.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 708.0,
+    "end": 711.279,
+    "text": "that when i advance over basically a",
+    "textdich": ""
+  },
+  {
+    "start": 710.15,
+    "end": 711.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 710.16,
+    "end": 712.959,
+    "text": "command has been sent",
+    "textdich": ""
+  },
+  {
+    "start": 711.269,
+    "end": 712.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 711.279,
+    "end": 715.2,
+    "text": "from streamlight to the front end saying",
+    "textdich": ""
+  },
+  {
+    "start": 712.949,
+    "end": 715.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 712.959,
+    "end": 715.519,
+    "text": "draw a title you know with this text in",
+    "textdich": ""
+  },
+  {
+    "start": 715.19,
+    "end": 715.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 715.2,
+    "end": 717.68,
+    "text": "it",
+    "textdich": ""
+  },
+  {
+    "start": 715.509,
+    "end": 717.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 715.519,
+    "end": 718.8,
+    "text": "okay i'm going to step over the the next",
+    "textdich": ""
+  },
+  {
+    "start": 717.67,
+    "end": 718.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 717.68,
+    "end": 721.12,
+    "text": "line of code which is the",
+    "textdich": ""
+  },
+  {
+    "start": 718.79,
+    "end": 721.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 718.8,
+    "end": 723.12,
+    "text": "declaration the declare component code",
+    "textdich": ""
+  },
+  {
+    "start": 721.11,
+    "end": 723.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 721.12,
+    "end": 724.56,
+    "text": "we can see that nothing has happened",
+    "textdich": ""
+  },
+  {
+    "start": 723.11,
+    "end": 724.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 723.12,
+    "end": 728.32,
+    "text": "because all we've done is declare a",
+    "textdich": ""
+  },
+  {
+    "start": 724.55,
+    "end": 728.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 724.56,
+    "end": 730.48,
+    "text": "component but when i step over the next",
+    "textdich": ""
+  },
+  {
+    "start": 728.31,
+    "end": 730.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 728.32,
+    "end": 732.079,
+    "text": "line um where we're actually",
+    "textdich": ""
+  },
+  {
+    "start": 730.47,
+    "end": 732.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 730.48,
+    "end": 733.76,
+    "text": "instantiating the component we can see",
+    "textdich": ""
+  },
+  {
+    "start": 732.069,
+    "end": 733.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 732.079,
+    "end": 736.32,
+    "text": "that component appear",
+    "textdich": ""
+  },
+  {
+    "start": 733.75,
+    "end": 736.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 733.76,
+    "end": 738.079,
+    "text": "and finally step over this final line of",
+    "textdich": ""
+  },
+  {
+    "start": 736.31,
+    "end": 738.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 736.32,
+    "end": 738.48,
+    "text": "code our return value is none we end up",
+    "textdich": ""
+  },
+  {
+    "start": 738.069,
+    "end": 738.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 738.079,
+    "end": 739.92,
+    "text": "sort of",
+    "textdich": ""
+  },
+  {
+    "start": 738.47,
+    "end": 739.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 738.48,
+    "end": 741.6,
+    "text": "inside the guts of streamlight but",
+    "textdich": ""
+  },
+  {
+    "start": 739.91,
+    "end": 741.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 739.92,
+    "end": 744.399,
+    "text": "that's not a problem and now i'm going",
+    "textdich": ""
+  },
+  {
+    "start": 741.59,
+    "end": 744.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 741.6,
+    "end": 746.72,
+    "text": "to click this button and",
+    "textdich": ""
+  },
+  {
+    "start": 744.389,
+    "end": 746.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 744.399,
+    "end": 747.76,
+    "text": "lo and behold we are back at our first",
+    "textdich": ""
+  },
+  {
+    "start": 746.71,
+    "end": 747.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 746.72,
+    "end": 750.079,
+    "text": "break point so",
+    "textdich": ""
+  },
+  {
+    "start": 747.75,
+    "end": 750.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 747.76,
+    "end": 751.36,
+    "text": "what happens is okay let's just let's",
+    "textdich": ""
+  },
+  {
+    "start": 750.069,
+    "end": 751.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 750.079,
+    "end": 752.8,
+    "text": "keep stepping through",
+    "textdich": ""
+  },
+  {
+    "start": 751.35,
+    "end": 752.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 751.36,
+    "end": 754.88,
+    "text": "we have a new return value we can see",
+    "textdich": ""
+  },
+  {
+    "start": 752.79,
+    "end": 754.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 752.8,
+    "end": 756.8,
+    "text": "over here it's one and",
+    "textdich": ""
+  },
+  {
+    "start": 754.87,
+    "end": 756.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 754.88,
+    "end": 758.0,
+    "text": "we're printing that new return value out",
+    "textdich": ""
+  },
+  {
+    "start": 756.79,
+    "end": 758.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 756.8,
+    "end": 760.24,
+    "text": "again and every time",
+    "textdich": ""
+  },
+  {
+    "start": 757.99,
+    "end": 760.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 758.0,
+    "end": 761.04,
+    "text": "i click this click me button what's",
+    "textdich": ""
+  },
+  {
+    "start": 760.23,
+    "end": 761.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 760.24,
+    "end": 763.279,
+    "text": "happening",
+    "textdich": ""
+  },
+  {
+    "start": 761.03,
+    "end": 763.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 761.04,
+    "end": 764.56,
+    "text": "is that streamlab is actually rerunning",
+    "textdich": ""
+  },
+  {
+    "start": 763.269,
+    "end": 764.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 763.279,
+    "end": 767.12,
+    "text": "our entire script",
+    "textdich": ""
+  },
+  {
+    "start": 764.55,
+    "end": 767.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 764.56,
+    "end": 768.48,
+    "text": "from top to bottom and so it's not",
+    "textdich": ""
+  },
+  {
+    "start": 767.11,
+    "end": 768.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 767.12,
+    "end": 771.92,
+    "text": "actually the case",
+    "textdich": ""
+  },
+  {
+    "start": 768.47,
+    "end": 771.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 768.48,
+    "end": 772.56,
+    "text": "that return value is getting modified",
+    "textdich": ""
+  },
+  {
+    "start": 771.91,
+    "end": 772.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 771.92,
+    "end": 774.88,
+    "text": "every time",
+    "textdich": ""
+  },
+  {
+    "start": 772.55,
+    "end": 774.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 772.56,
+    "end": 775.839,
+    "text": "we run the report the the streamlit app",
+    "textdich": ""
+  },
+  {
+    "start": 774.87,
+    "end": 775.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 774.88,
+    "end": 778.56,
+    "text": "rather what's",
+    "textdich": ""
+  },
+  {
+    "start": 775.829,
+    "end": 778.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 775.839,
+    "end": 780.0,
+    "text": "actually happening is that we're uh",
+    "textdich": ""
+  },
+  {
+    "start": 778.55,
+    "end": 780.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 778.56,
+    "end": 782.8,
+    "text": "re-running the script",
+    "textdich": ""
+  },
+  {
+    "start": 779.99,
+    "end": 782.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 780.0,
+    "end": 784.24,
+    "text": "and there's a new return value and that",
+    "textdich": ""
+  },
+  {
+    "start": 782.79,
+    "end": 784.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 782.8,
+    "end": 786.48,
+    "text": "new return value",
+    "textdich": ""
+  },
+  {
+    "start": 784.23,
+    "end": 786.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 784.24,
+    "end": 787.44,
+    "text": "that we're storing in a new variable is",
+    "textdich": ""
+  },
+  {
+    "start": 786.47,
+    "end": 787.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 786.48,
+    "end": 790.48,
+    "text": "being printed out",
+    "textdich": ""
+  },
+  {
+    "start": 787.43,
+    "end": 790.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 787.44,
+    "end": 792.32,
+    "text": "in a new call to st right",
+    "textdich": ""
+  },
+  {
+    "start": 790.47,
+    "end": 792.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 790.48,
+    "end": 794.24,
+    "text": "cool and it's worth noting that this is",
+    "textdich": ""
+  },
+  {
+    "start": 792.31,
+    "end": 794.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 792.32,
+    "end": 795.839,
+    "text": "how streamlit works with anything",
+    "textdich": ""
+  },
+  {
+    "start": 794.23,
+    "end": 795.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 794.24,
+    "end": 798.16,
+    "text": "interactive so if you have like a",
+    "textdich": ""
+  },
+  {
+    "start": 795.829,
+    "end": 798.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 795.839,
+    "end": 799.839,
+    "text": "built-in slider on your page and you're",
+    "textdich": ""
+  },
+  {
+    "start": 798.15,
+    "end": 799.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 798.16,
+    "end": 804.0,
+    "text": "sliding that slider back and forth",
+    "textdich": ""
+  },
+  {
+    "start": 799.829,
+    "end": 804.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 799.839,
+    "end": 806.56,
+    "text": "every time uh you settle on a new value",
+    "textdich": ""
+  },
+  {
+    "start": 803.99,
+    "end": 806.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 804.0,
+    "end": 807.04,
+    "text": "your streamlit front end is going to",
+    "textdich": ""
+  },
+  {
+    "start": 806.55,
+    "end": 807.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 806.56,
+    "end": 809.279,
+    "text": "send",
+    "textdich": ""
+  },
+  {
+    "start": 807.03,
+    "end": 809.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 807.04,
+    "end": 810.8,
+    "text": "a little packet of data back to the",
+    "textdich": ""
+  },
+  {
+    "start": 809.269,
+    "end": 810.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 809.279,
+    "end": 812.639,
+    "text": "streamlight server saying hey this is",
+    "textdich": ""
+  },
+  {
+    "start": 810.79,
+    "end": 812.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 810.8,
+    "end": 815.2,
+    "text": "the new the slider's new value",
+    "textdich": ""
+  },
+  {
+    "start": 812.629,
+    "end": 815.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 812.639,
+    "end": 816.24,
+    "text": "stream is going to re-run your app from",
+    "textdich": ""
+  },
+  {
+    "start": 815.19,
+    "end": 816.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 815.2,
+    "end": 818.56,
+    "text": "top to bottom",
+    "textdich": ""
+  },
+  {
+    "start": 816.23,
+    "end": 818.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 816.24,
+    "end": 819.76,
+    "text": "and when it gets to the line that uh",
+    "textdich": ""
+  },
+  {
+    "start": 818.55,
+    "end": 819.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 818.56,
+    "end": 821.76,
+    "text": "declares that slider",
+    "textdich": ""
+  },
+  {
+    "start": 819.75,
+    "end": 821.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 819.76,
+    "end": 822.88,
+    "text": "it's going to look up inside an internal",
+    "textdich": ""
+  },
+  {
+    "start": 821.75,
+    "end": 822.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 821.76,
+    "end": 826.079,
+    "text": "table uh",
+    "textdich": ""
+  },
+  {
+    "start": 822.87,
+    "end": 826.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 822.88,
+    "end": 827.6,
+    "text": "for that slider's new value okay so this",
+    "textdich": ""
+  },
+  {
+    "start": 826.069,
+    "end": 827.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 826.079,
+    "end": 829.44,
+    "text": "is this is essentially",
+    "textdich": ""
+  },
+  {
+    "start": 827.59,
+    "end": 829.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 827.6,
+    "end": 831.12,
+    "text": "how streamlined execution model works",
+    "textdich": ""
+  },
+  {
+    "start": 829.43,
+    "end": 831.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 829.44,
+    "end": 832.079,
+    "text": "and understanding it is really helpful",
+    "textdich": ""
+  },
+  {
+    "start": 831.11,
+    "end": 832.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 831.12,
+    "end": 834.88,
+    "text": "to understanding",
+    "textdich": ""
+  },
+  {
+    "start": 832.069,
+    "end": 834.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 832.079,
+    "end": 835.68,
+    "text": "how custom components work there are a",
+    "textdich": ""
+  },
+  {
+    "start": 834.87,
+    "end": 835.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 834.88,
+    "end": 837.839,
+    "text": "few",
+    "textdich": ""
+  },
+  {
+    "start": 835.67,
+    "end": 837.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 835.68,
+    "end": 838.88,
+    "text": "issues with our component right now um",
+    "textdich": ""
+  },
+  {
+    "start": 837.829,
+    "end": 838.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 837.839,
+    "end": 841.199,
+    "text": "one is that we",
+    "textdich": ""
+  },
+  {
+    "start": 838.87,
+    "end": 841.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 838.88,
+    "end": 843.44,
+    "text": "we need to pass everything by name it's",
+    "textdich": ""
+  },
+  {
+    "start": 841.189,
+    "end": 843.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 841.199,
+    "end": 847.6,
+    "text": "a little unnatural to always have to",
+    "textdich": ""
+  },
+  {
+    "start": 843.43,
+    "end": 847.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 843.44,
+    "end": 849.68,
+    "text": "call a function by naming its parameters",
+    "textdich": ""
+  },
+  {
+    "start": 847.59,
+    "end": 849.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 847.6,
+    "end": 850.639,
+    "text": "another issue we have is that uh the",
+    "textdich": ""
+  },
+  {
+    "start": 849.67,
+    "end": 850.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 849.68,
+    "end": 853.519,
+    "text": "first time",
+    "textdich": ""
+  },
+  {
+    "start": 850.629,
+    "end": 853.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 850.639,
+    "end": 855.36,
+    "text": "our component is created it returns none",
+    "textdich": ""
+  },
+  {
+    "start": 853.509,
+    "end": 855.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 853.519,
+    "end": 856.639,
+    "text": "rather than zero so this return value is",
+    "textdich": ""
+  },
+  {
+    "start": 855.35,
+    "end": 856.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 855.36,
+    "end": 859.92,
+    "text": "actually here's a",
+    "textdich": ""
+  },
+  {
+    "start": 856.629,
+    "end": 859.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 856.639,
+    "end": 861.6,
+    "text": "number of clicks um and it doesn't",
+    "textdich": ""
+  },
+  {
+    "start": 859.91,
+    "end": 861.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 859.92,
+    "end": 863.519,
+    "text": "really make sense to say that there is",
+    "textdich": ""
+  },
+  {
+    "start": 861.59,
+    "end": 863.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 861.6,
+    "end": 865.36,
+    "text": "none number of clicks right like the",
+    "textdich": ""
+  },
+  {
+    "start": 863.509,
+    "end": 865.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 863.519,
+    "end": 867.199,
+    "text": "default value here should be zero",
+    "textdich": ""
+  },
+  {
+    "start": 865.35,
+    "end": 867.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 865.36,
+    "end": 868.399,
+    "text": "and then finally we have this issue",
+    "textdich": ""
+  },
+  {
+    "start": 867.189,
+    "end": 868.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 867.199,
+    "end": 871.44,
+    "text": "where if we create",
+    "textdich": ""
+  },
+  {
+    "start": 868.389,
+    "end": 871.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 868.399,
+    "end": 873.92,
+    "text": "multiple instances of the same",
+    "textdich": ""
+  },
+  {
+    "start": 871.43,
+    "end": 873.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 871.44,
+    "end": 875.44,
+    "text": "component with the same arguments we get",
+    "textdich": ""
+  },
+  {
+    "start": 873.91,
+    "end": 875.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 873.92,
+    "end": 879.04,
+    "text": "this duplicate widget id",
+    "textdich": ""
+  },
+  {
+    "start": 875.43,
+    "end": 879.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 875.44,
+    "end": 882.16,
+    "text": "error right okay so to fix these issues",
+    "textdich": ""
+  },
+  {
+    "start": 879.03,
+    "end": 882.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 879.04,
+    "end": 883.76,
+    "text": "we are going to write a wrapper function",
+    "textdich": ""
+  },
+  {
+    "start": 882.15,
+    "end": 883.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 882.16,
+    "end": 885.36,
+    "text": "so it's worth noting that this is not",
+    "textdich": ""
+  },
+  {
+    "start": 883.75,
+    "end": 885.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 883.76,
+    "end": 887.199,
+    "text": "this uh creating a wrapper function is",
+    "textdich": ""
+  },
+  {
+    "start": 885.35,
+    "end": 887.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 885.36,
+    "end": 889.36,
+    "text": "not required to make a custom component",
+    "textdich": ""
+  },
+  {
+    "start": 887.189,
+    "end": 889.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 887.199,
+    "end": 890.639,
+    "text": "but it is a nice convention to follow",
+    "textdich": ""
+  },
+  {
+    "start": 889.35,
+    "end": 890.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 889.36,
+    "end": 893.04,
+    "text": "and it can make your sort of",
+    "textdich": ""
+  },
+  {
+    "start": 890.629,
+    "end": 893.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 890.639,
+    "end": 895.12,
+    "text": "the public-facing api to your component",
+    "textdich": ""
+  },
+  {
+    "start": 893.03,
+    "end": 895.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 893.04,
+    "end": 895.839,
+    "text": "that much nicer to use i am going to",
+    "textdich": ""
+  },
+  {
+    "start": 895.11,
+    "end": 895.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 895.12,
+    "end": 897.44,
+    "text": "start",
+    "textdich": ""
+  },
+  {
+    "start": 895.829,
+    "end": 897.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 895.839,
+    "end": 899.279,
+    "text": "creating this so i'm going to define a",
+    "textdich": ""
+  },
+  {
+    "start": 897.43,
+    "end": 899.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 897.44,
+    "end": 902.32,
+    "text": "new function called my component",
+    "textdich": ""
+  },
+  {
+    "start": 899.269,
+    "end": 902.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 899.279,
+    "end": 904.24,
+    "text": "and it is going to take a name actually",
+    "textdich": ""
+  },
+  {
+    "start": 902.31,
+    "end": 904.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 902.32,
+    "end": 905.76,
+    "text": "no it's going to take a greeting",
+    "textdich": ""
+  },
+  {
+    "start": 904.23,
+    "end": 905.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 904.24,
+    "end": 907.44,
+    "text": "and then it's going to take a name and",
+    "textdich": ""
+  },
+  {
+    "start": 905.75,
+    "end": 907.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 905.76,
+    "end": 910.639,
+    "text": "i'm going to give this name",
+    "textdich": ""
+  },
+  {
+    "start": 907.43,
+    "end": 910.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 907.44,
+    "end": 912.959,
+    "text": "a default value of streamlit",
+    "textdich": ""
+  },
+  {
+    "start": 910.629,
+    "end": 912.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 910.639,
+    "end": 914.56,
+    "text": "and it's also going to take this magic",
+    "textdich": ""
+  },
+  {
+    "start": 912.949,
+    "end": 914.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 912.959,
+    "end": 915.199,
+    "text": "key parameter which i'm going to default",
+    "textdich": ""
+  },
+  {
+    "start": 914.55,
+    "end": 915.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 914.56,
+    "end": 916.88,
+    "text": "to none",
+    "textdich": ""
+  },
+  {
+    "start": 915.189,
+    "end": 916.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 915.199,
+    "end": 918.8,
+    "text": "what this wrapper function can do is it",
+    "textdich": ""
+  },
+  {
+    "start": 916.87,
+    "end": 918.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 916.88,
+    "end": 919.519,
+    "text": "can pre-process the arguments that it",
+    "textdich": ""
+  },
+  {
+    "start": 918.79,
+    "end": 919.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 918.8,
+    "end": 922.16,
+    "text": "receives",
+    "textdich": ""
+  },
+  {
+    "start": 919.509,
+    "end": 922.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 919.519,
+    "end": 922.8,
+    "text": "and then forwards along to uh to the",
+    "textdich": ""
+  },
+  {
+    "start": 922.15,
+    "end": 922.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 922.16,
+    "end": 924.56,
+    "text": "front end",
+    "textdich": ""
+  },
+  {
+    "start": 922.79,
+    "end": 924.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 922.8,
+    "end": 926.639,
+    "text": "and then it can post-process the return",
+    "textdich": ""
+  },
+  {
+    "start": 924.55,
+    "end": 926.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 924.56,
+    "end": 928.24,
+    "text": "values and it can specify",
+    "textdich": ""
+  },
+  {
+    "start": 926.629,
+    "end": 928.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 926.639,
+    "end": 930.079,
+    "text": "a default value for the first time the",
+    "textdich": ""
+  },
+  {
+    "start": 928.23,
+    "end": 930.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 928.24,
+    "end": 931.6,
+    "text": "component is instantiated",
+    "textdich": ""
+  },
+  {
+    "start": 930.069,
+    "end": 931.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 930.079,
+    "end": 933.839,
+    "text": "and it can also handle this key",
+    "textdich": ""
+  },
+  {
+    "start": 931.59,
+    "end": 933.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 931.6,
+    "end": 936.88,
+    "text": "parameter okay so",
+    "textdich": ""
+  },
+  {
+    "start": 933.829,
+    "end": 936.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 933.839,
+    "end": 939.68,
+    "text": "all i'm going to do to begin with is",
+    "textdich": ""
+  },
+  {
+    "start": 936.87,
+    "end": 939.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 936.88,
+    "end": 940.0,
+    "text": "is basically just pass on the greeting",
+    "textdich": ""
+  },
+  {
+    "start": 939.67,
+    "end": 940.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 939.68,
+    "end": 943.44,
+    "text": "and",
+    "textdich": ""
+  },
+  {
+    "start": 939.99,
+    "end": 943.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 940.0,
+    "end": 946.56,
+    "text": "name parameters but as named arguments",
+    "textdich": ""
+  },
+  {
+    "start": 943.43,
+    "end": 946.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 943.44,
+    "end": 950.639,
+    "text": "to our component function return",
+    "textdich": ""
+  },
+  {
+    "start": 946.55,
+    "end": 950.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 946.56,
+    "end": 951.839,
+    "text": "the value from here i can then go ahead",
+    "textdich": ""
+  },
+  {
+    "start": 950.629,
+    "end": 951.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 950.639,
+    "end": 954.079,
+    "text": "and delete",
+    "textdich": ""
+  },
+  {
+    "start": 951.829,
+    "end": 954.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 951.839,
+    "end": 955.759,
+    "text": "these names and hit save and again",
+    "textdich": ""
+  },
+  {
+    "start": 954.069,
+    "end": 955.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 954.079,
+    "end": 957.519,
+    "text": "nothing has changed because",
+    "textdich": ""
+  },
+  {
+    "start": 955.749,
+    "end": 957.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 955.759,
+    "end": 959.839,
+    "text": "the wrapper function is now properly",
+    "textdich": ""
+  },
+  {
+    "start": 957.509,
+    "end": 959.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 957.519,
+    "end": 960.639,
+    "text": "marshaling the the parameters that we",
+    "textdich": ""
+  },
+  {
+    "start": 959.829,
+    "end": 960.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 959.839,
+    "end": 963.04,
+    "text": "pass",
+    "textdich": ""
+  },
+  {
+    "start": 960.629,
+    "end": 963.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 960.639,
+    "end": 964.48,
+    "text": "by assigning them their expected names",
+    "textdich": ""
+  },
+  {
+    "start": 963.03,
+    "end": 964.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 963.04,
+    "end": 967.04,
+    "text": "if i remove",
+    "textdich": ""
+  },
+  {
+    "start": 964.47,
+    "end": 967.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 964.48,
+    "end": 968.0,
+    "text": "streamlit the same thing everything",
+    "textdich": ""
+  },
+  {
+    "start": 967.03,
+    "end": 968.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 967.04,
+    "end": 970.079,
+    "text": "works still because",
+    "textdich": ""
+  },
+  {
+    "start": 967.99,
+    "end": 970.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 968.0,
+    "end": 971.36,
+    "text": "we've assigned a default value to the",
+    "textdich": ""
+  },
+  {
+    "start": 970.069,
+    "end": 971.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 970.079,
+    "end": 973.36,
+    "text": "name parameter so basically",
+    "textdich": ""
+  },
+  {
+    "start": 971.35,
+    "end": 973.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 971.36,
+    "end": 975.279,
+    "text": "a wrapper function is just a way to make",
+    "textdich": ""
+  },
+  {
+    "start": 973.35,
+    "end": 975.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 973.36,
+    "end": 978.72,
+    "text": "your component like much more pythonic",
+    "textdich": ""
+  },
+  {
+    "start": 975.269,
+    "end": 978.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 975.279,
+    "end": 982.959,
+    "text": "right next let's change this definition",
+    "textdich": ""
+  },
+  {
+    "start": 978.71,
+    "end": 982.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 978.72,
+    "end": 985.199,
+    "text": "uh and uh specify a default value for",
+    "textdich": ""
+  },
+  {
+    "start": 982.949,
+    "end": 985.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 982.959,
+    "end": 986.72,
+    "text": "our component so if i hit save",
+    "textdich": ""
+  },
+  {
+    "start": 985.189,
+    "end": 986.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 985.199,
+    "end": 988.32,
+    "text": "now we can see we haven't clicked our",
+    "textdich": ""
+  },
+  {
+    "start": 986.71,
+    "end": 988.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 986.72,
+    "end": 990.079,
+    "text": "button yet our click me button yet but",
+    "textdich": ""
+  },
+  {
+    "start": 988.31,
+    "end": 990.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 988.32,
+    "end": 991.92,
+    "text": "uh number of clicks is now zero",
+    "textdich": ""
+  },
+  {
+    "start": 990.069,
+    "end": 991.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 990.079,
+    "end": 993.44,
+    "text": "and what this does is it it tells",
+    "textdich": ""
+  },
+  {
+    "start": 991.91,
+    "end": 993.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 991.92,
+    "end": 996.199,
+    "text": "streamlight like if",
+    "textdich": ""
+  },
+  {
+    "start": 993.43,
+    "end": 996.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 993.44,
+    "end": 997.44,
+    "text": "this component has not yet called",
+    "textdich": ""
+  },
+  {
+    "start": 996.189,
+    "end": 997.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 996.199,
+    "end": 999.279,
+    "text": "streamlit.setcomponentvalue on the",
+    "textdich": ""
+  },
+  {
+    "start": 997.43,
+    "end": 999.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 997.44,
+    "end": 1000.88,
+    "text": "frontend like we did here in the in the",
+    "textdich": ""
+  },
+  {
+    "start": 999.269,
+    "end": 1000.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 999.279,
+    "end": 1003.12,
+    "text": "buttonclickhandler",
+    "textdich": ""
+  },
+  {
+    "start": 1000.87,
+    "end": 1003.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1000.88,
+    "end": 1004.88,
+    "text": "then this is the value that the",
+    "textdich": ""
+  },
+  {
+    "start": 1003.11,
+    "end": 1004.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1003.12,
+    "end": 1006.959,
+    "text": "mycomponent function should return",
+    "textdich": ""
+  },
+  {
+    "start": 1004.87,
+    "end": 1006.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1004.88,
+    "end": 1008.32,
+    "text": "right and so finally we have this key",
+    "textdich": ""
+  },
+  {
+    "start": 1006.949,
+    "end": 1008.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1006.959,
+    "end": 1011.6,
+    "text": "parameter so",
+    "textdich": ""
+  },
+  {
+    "start": 1008.31,
+    "end": 1011.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1008.32,
+    "end": 1012.639,
+    "text": "let's again duplicate this code a couple",
+    "textdich": ""
+  },
+  {
+    "start": 1011.59,
+    "end": 1012.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1011.6,
+    "end": 1014.72,
+    "text": "times",
+    "textdich": ""
+  },
+  {
+    "start": 1012.629,
+    "end": 1014.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1012.639,
+    "end": 1016.079,
+    "text": "and see that we get these uh duplicate",
+    "textdich": ""
+  },
+  {
+    "start": 1014.71,
+    "end": 1016.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1014.72,
+    "end": 1019.839,
+    "text": "widget id errors",
+    "textdich": ""
+  },
+  {
+    "start": 1016.069,
+    "end": 1019.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1016.079,
+    "end": 1022.48,
+    "text": "right and so what this means is um",
+    "textdich": ""
+  },
+  {
+    "start": 1019.829,
+    "end": 1022.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1019.839,
+    "end": 1023.44,
+    "text": "let me change this to hello and this to",
+    "textdich": ""
+  },
+  {
+    "start": 1022.47,
+    "end": 1023.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1022.48,
+    "end": 1026.799,
+    "text": "bonjour",
+    "textdich": ""
+  },
+  {
+    "start": 1023.43,
+    "end": 1026.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1023.44,
+    "end": 1027.6,
+    "text": "uh if we pass the exact same set of",
+    "textdich": ""
+  },
+  {
+    "start": 1026.789,
+    "end": 1027.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1026.799,
+    "end": 1030.64,
+    "text": "arguments",
+    "textdich": ""
+  },
+  {
+    "start": 1027.59,
+    "end": 1030.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1027.6,
+    "end": 1032.48,
+    "text": "to a component function then",
+    "textdich": ""
+  },
+  {
+    "start": 1030.63,
+    "end": 1032.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1030.64,
+    "end": 1034.799,
+    "text": "streamline has no way to differentiate",
+    "textdich": ""
+  },
+  {
+    "start": 1032.47,
+    "end": 1034.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1032.48,
+    "end": 1038.0,
+    "text": "those internally the key parameter",
+    "textdich": ""
+  },
+  {
+    "start": 1034.789,
+    "end": 1038.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1034.799,
+    "end": 1040.079,
+    "text": "lets us disambiguate for streamlets",
+    "textdich": ""
+  },
+  {
+    "start": 1037.99,
+    "end": 1040.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1038.0,
+    "end": 1041.36,
+    "text": "multiple instances of a component that",
+    "textdich": ""
+  },
+  {
+    "start": 1040.069,
+    "end": 1041.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1040.079,
+    "end": 1044.959,
+    "text": "may end up with",
+    "textdich": ""
+  },
+  {
+    "start": 1041.35,
+    "end": 1044.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1041.36,
+    "end": 1048.72,
+    "text": "the same set of parameters so basically",
+    "textdich": ""
+  },
+  {
+    "start": 1044.949,
+    "end": 1048.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1044.959,
+    "end": 1051.039,
+    "text": "if we pass different keys",
+    "textdich": ""
+  },
+  {
+    "start": 1048.71,
+    "end": 1051.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1048.72,
+    "end": 1052.88,
+    "text": "to each of the these and we can change",
+    "textdich": ""
+  },
+  {
+    "start": 1051.029,
+    "end": 1052.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1051.039,
+    "end": 1054.96,
+    "text": "all of their arguments to",
+    "textdich": ""
+  },
+  {
+    "start": 1052.87,
+    "end": 1054.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1052.88,
+    "end": 1056.16,
+    "text": "all of their greeting arguments to ahoy",
+    "textdich": ""
+  },
+  {
+    "start": 1054.95,
+    "end": 1056.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1054.96,
+    "end": 1058.16,
+    "text": "and hit save oh",
+    "textdich": ""
+  },
+  {
+    "start": 1056.15,
+    "end": 1058.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1056.16,
+    "end": 1059.36,
+    "text": "and nothing works because i have",
+    "textdich": ""
+  },
+  {
+    "start": 1058.15,
+    "end": 1059.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1058.16,
+    "end": 1062.4,
+    "text": "neglected to actually",
+    "textdich": ""
+  },
+  {
+    "start": 1059.35,
+    "end": 1062.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1059.36,
+    "end": 1063.44,
+    "text": "pass this key argument on inside the",
+    "textdich": ""
+  },
+  {
+    "start": 1062.39,
+    "end": 1063.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1062.4,
+    "end": 1066.24,
+    "text": "wrapper function",
+    "textdich": ""
+  },
+  {
+    "start": 1063.43,
+    "end": 1066.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1063.44,
+    "end": 1067.6,
+    "text": "and here we are now we have this this",
+    "textdich": ""
+  },
+  {
+    "start": 1066.23,
+    "end": 1067.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1066.24,
+    "end": 1070.08,
+    "text": "complete working example",
+    "textdich": ""
+  },
+  {
+    "start": 1067.59,
+    "end": 1070.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1067.6,
+    "end": 1071.039,
+    "text": "where we can instantiate uh multiple",
+    "textdich": ""
+  },
+  {
+    "start": 1070.07,
+    "end": 1071.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1070.08,
+    "end": 1072.799,
+    "text": "instances of the",
+    "textdich": ""
+  },
+  {
+    "start": 1071.029,
+    "end": 1072.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1071.039,
+    "end": 1074.559,
+    "text": "of the component that are all receiving",
+    "textdich": ""
+  },
+  {
+    "start": 1072.789,
+    "end": 1074.559,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1072.799,
+    "end": 1076.16,
+    "text": "the exact same set of parameters they",
+    "textdich": ""
+  },
+  {
+    "start": 1074.549,
+    "end": 1076.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1074.559,
+    "end": 1078.48,
+    "text": "don't have to be but they can be",
+    "textdich": ""
+  },
+  {
+    "start": 1076.15,
+    "end": 1078.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1076.16,
+    "end": 1081.12,
+    "text": "and everything is working just fine okay",
+    "textdich": ""
+  },
+  {
+    "start": 1078.47,
+    "end": 1081.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1078.48,
+    "end": 1083.28,
+    "text": "that wraps up part one and in part two",
+    "textdich": ""
+  },
+  {
+    "start": 1081.11,
+    "end": 1083.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1081.12,
+    "end": 1085.28,
+    "text": "we'll be implementing an actually useful",
+    "textdich": ""
+  },
+  {
+    "start": 1083.27,
+    "end": 1085.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1083.28,
+    "end": 1086.32,
+    "text": "component in a very few lines of code so",
+    "textdich": ""
+  },
+  {
+    "start": 1085.27,
+    "end": 1086.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1085.28,
+    "end": 1088.24,
+    "text": "stay tuned",
+    "textdich": ""
+  },
+  {
+    "start": 1086.31,
+    "end": 1088.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1086.32,
+    "end": 1089.919,
+    "text": "and of course if you're interested in",
+    "textdich": ""
+  },
+  {
+    "start": 1088.23,
+    "end": 1089.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1088.24,
+    "end": 1091.76,
+    "text": "jumping in immediately",
+    "textdich": ""
+  },
+  {
+    "start": 1089.909,
+    "end": 1091.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1089.919,
+    "end": 1093.44,
+    "text": "check out the stream documentation which",
+    "textdich": ""
+  },
+  {
+    "start": 1091.75,
+    "end": 1093.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1091.76,
+    "end": 1094.0,
+    "text": "goes into more detail about all of this",
+    "textdich": ""
+  },
+  {
+    "start": 1093.43,
+    "end": 1094.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1093.44,
+    "end": 1096.32,
+    "text": "stuff",
+    "textdich": ""
+  },
+  {
+    "start": 1093.99,
+    "end": 1096.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1094.0,
+    "end": 1098.16,
+    "text": "and also check out the streamlit forums",
+    "textdich": ""
+  },
+  {
+    "start": 1096.31,
+    "end": 1098.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1096.32,
+    "end": 1103.44,
+    "text": "if you need help or want to show off",
+    "textdich": ""
+  },
+  {
+    "start": 1098.15,
+    "end": 1103.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1098.16,
+    "end": 1103.44,
+    "text": "your work",
+    "textdich": ""
+  }
+]
