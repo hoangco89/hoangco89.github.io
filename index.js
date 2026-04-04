@@ -400,9 +400,19 @@ function tom_tat_ndvideo(){
     if (subtitles.length>0){
       let alltext = '';
       subtitles.forEach(item => {
-        alltext = alltext + ` ${item.textdich} `;
+        alltext = alltext + ` ${item.text}`;
       });
-      chatbox.innerHTML = alltext.replaceAll(". ", ".<br><br>");
+      const parts = alltext
+        .match(/[^?!\.]+[?!\.]*/g)
+        .map(s => s.trim())
+        .filter(s => s.length > 0);
+      
+      alltext='';
+      parts.forEach(part => {
+        alltext = alltext + part + '<br><br>';
+      });
+      
+      chatbox.innerHTML = alltext;
     }else{  
       chatbox.innerHTML = 'No subtitles!';
     }
