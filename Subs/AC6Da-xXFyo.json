@@ -1,0 +1,6920 @@
+[
+  {
+    "start": 24.43,
+    "end": 33.26,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 33.31,
+    "end": 33.31,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 33.32,
+    "end": 39.18,
+    "text": "lý do vì sao mình ra cái bài này là vì",
+    "textdich": ""
+  },
+  {
+    "start": 36.53,
+    "end": 39.18,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 36.54,
+    "end": 42.899,
+    "text": "có một bạn ở trên group bạn ấy đang làm",
+    "textdich": ""
+  },
+  {
+    "start": 39.17,
+    "end": 42.899,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 39.18,
+    "end": 46.28,
+    "text": "đồ án tốt nghiệp và bạn ấy bảo là bây",
+    "textdich": ""
+  },
+  {
+    "start": 42.889,
+    "end": 46.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 42.899,
+    "end": 50.52,
+    "text": "giờ có cách nào để bạn ấy có thể là",
+    "textdich": ""
+  },
+  {
+    "start": 46.27,
+    "end": 50.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 46.28,
+    "end": 52.94,
+    "text": "làm áp xong bạn ấy share cho thầy cô và",
+    "textdich": ""
+  },
+  {
+    "start": 50.51,
+    "end": 52.94,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 50.52,
+    "end": 55.14,
+    "text": "thầy cô vào để",
+    "textdich": ""
+  },
+  {
+    "start": 52.93,
+    "end": 55.14,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 52.94,
+    "end": 58.82,
+    "text": "có thể xem được ứng dụng của bạn hay",
+    "textdich": ""
+  },
+  {
+    "start": 55.13,
+    "end": 58.82,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 55.14,
+    "end": 61.079,
+    "text": "không và có thể là là là là",
+    "textdich": ""
+  },
+  {
+    "start": 58.81,
+    "end": 61.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 58.82,
+    "end": 63.84,
+    "text": "chấm điểm cho bạn ấy test ứng dụng hay",
+    "textdich": ""
+  },
+  {
+    "start": 61.069,
+    "end": 63.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 61.079,
+    "end": 65.339,
+    "text": "không thì bạn ấy cũng triển khai một số",
+    "textdich": ""
+  },
+  {
+    "start": 63.83,
+    "end": 65.339,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 63.84,
+    "end": 67.5,
+    "text": "phương pháp rồi thế nhưng mà mỗi phương",
+    "textdich": ""
+  },
+  {
+    "start": 65.329,
+    "end": 67.5,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 65.339,
+    "end": 69.54,
+    "text": "pháp thì nó sẽ có một cái điểm ưu điểm",
+    "textdich": ""
+  },
+  {
+    "start": 67.49,
+    "end": 69.54,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 67.5,
+    "end": 71.299,
+    "text": "nhưng nhược điểm khác nhau hôm nay mình",
+    "textdich": ""
+  },
+  {
+    "start": 69.53,
+    "end": 71.299,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 69.54,
+    "end": 73.92,
+    "text": "sẽ đi lần lượt từng cái phương pháp 1",
+    "textdich": ""
+  },
+  {
+    "start": 71.289,
+    "end": 73.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 71.299,
+    "end": 76.38,
+    "text": "Thì đại khái ở đây chúng ta sẽ có ba cái",
+    "textdich": ""
+  },
+  {
+    "start": 73.91,
+    "end": 76.38,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 73.92,
+    "end": 78.78,
+    "text": "phương án chính để triển khai một cái",
+    "textdich": ""
+  },
+  {
+    "start": 76.37,
+    "end": 78.78,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 76.38,
+    "end": 82.38,
+    "text": "web App bằng Titan đầu tiên là chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 78.77,
+    "end": 82.38,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 78.78,
+    "end": 85.22,
+    "text": "dùng PC và thứ hai là chúng ta dùng VPS",
+    "textdich": ""
+  },
+  {
+    "start": 82.37,
+    "end": 85.22,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 82.38,
+    "end": 89.22,
+    "text": "và thứ ba là chúng ta dùng cái",
+    "textdich": ""
+  },
+  {
+    "start": 85.21,
+    "end": 89.22,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 85.22,
+    "end": 89.22,
+    "text": "cloud application",
+    "textdich": ""
+  },
+  {
+    "start": 112.81,
+    "end": 112.81,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 112.82,
+    "end": 118.2,
+    "text": "rồi thì như bạn thấy trên màn hình ấy",
+    "textdich": ""
+  },
+  {
+    "start": 115.609,
+    "end": 118.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 115.619,
+    "end": 121.1,
+    "text": "thì chúng ta sẽ có vườn mình phải Note",
+    "textdich": ""
+  },
+  {
+    "start": 118.19,
+    "end": 121.1,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 118.2,
+    "end": 125.42,
+    "text": "mấy phương án nhỉ một phương án là",
+    "textdich": ""
+  },
+  {
+    "start": 121.09,
+    "end": 125.42,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 121.1,
+    "end": 125.42,
+    "text": "PC cộng với",
+    "textdich": ""
+  },
+  {
+    "start": 127.389,
+    "end": 127.389,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 127.399,
+    "end": 132.62,
+    "text": "lần thứ hai để chúng ta là sẽ là phương",
+    "textdich": ""
+  },
+  {
+    "start": 130.91,
+    "end": 132.62,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 130.92,
+    "end": 135.379,
+    "text": "án",
+    "textdich": ""
+  },
+  {
+    "start": 132.61,
+    "end": 135.379,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 132.62,
+    "end": 138.44,
+    "text": "thứ hai này",
+    "textdich": ""
+  },
+  {
+    "start": 135.369,
+    "end": 138.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 135.379,
+    "end": 141.44,
+    "text": "là phương án dùng",
+    "textdich": ""
+  },
+  {
+    "start": 138.43,
+    "end": 141.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 138.44,
+    "end": 141.44,
+    "text": "VPS",
+    "textdich": ""
+  },
+  {
+    "start": 144.79,
+    "end": 144.79,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 144.8,
+    "end": 151.26,
+    "text": "thì 3 thằng này khác nhau như thế nào",
+    "textdich": ""
+  },
+  {
+    "start": 147.17,
+    "end": 151.26,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 147.18,
+    "end": 153.739,
+    "text": "Thì tìm hiểu đầu tiên là về ông phương",
+    "textdich": ""
+  },
+  {
+    "start": 151.25,
+    "end": 153.739,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 151.26,
+    "end": 156.599,
+    "text": "án BC và",
+    "textdich": ""
+  },
+  {
+    "start": 153.729,
+    "end": 156.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 153.739,
+    "end": 159.54,
+    "text": "đơn giản như này nghĩa là đây Bạn tưởng",
+    "textdich": ""
+  },
+  {
+    "start": 156.589,
+    "end": 159.54,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 156.599,
+    "end": 161.239,
+    "text": "tượng là đây là một cái môi trường",
+    "textdich": ""
+  },
+  {
+    "start": 159.53,
+    "end": 161.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 159.54,
+    "end": 165.739,
+    "text": "internet",
+    "textdich": ""
+  },
+  {
+    "start": 161.229,
+    "end": 165.739,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 161.239,
+    "end": 165.739,
+    "text": "Đây là cái PC của bạn này",
+    "textdich": ""
+  },
+  {
+    "start": 168.17,
+    "end": 168.17,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 168.18,
+    "end": 170.959,
+    "text": "laptop",
+    "textdich": ""
+  },
+  {
+    "start": 174.25,
+    "end": 174.25,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 174.26,
+    "end": 181.34,
+    "text": "của bạn Thế còn đây là thầy cô giáo đang",
+    "textdich": ""
+  },
+  {
+    "start": 179.03,
+    "end": 181.34,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 179.04,
+    "end": 181.34,
+    "text": "ở nhà",
+    "textdich": ""
+  },
+  {
+    "start": 181.93,
+    "end": 181.93,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 181.94,
+    "end": 191.54,
+    "text": "thầy cô đúng không Thế thì dẫn đến là gì",
+    "textdich": ""
+  },
+  {
+    "start": 185.949,
+    "end": 191.54,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 185.959,
+    "end": 191.54,
+    "text": "khi bạn chạy cái Titan ở trên này",
+    "textdich": ""
+  },
+  {
+    "start": 193.03,
+    "end": 193.03,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 193.04,
+    "end": 197.06,
+    "text": "thì rõ ràng là thầy cô sẽ không thể nào",
+    "textdich": ""
+  },
+  {
+    "start": 195.83,
+    "end": 197.06,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 195.84,
+    "end": 200.04,
+    "text": "mà mà",
+    "textdich": ""
+  },
+  {
+    "start": 197.05,
+    "end": 200.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 197.06,
+    "end": 203.48,
+    "text": "truy cập được vào cái cái ứng dụng của",
+    "textdich": ""
+  },
+  {
+    "start": 200.03,
+    "end": 203.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 200.04,
+    "end": 203.48,
+    "text": "bạn cả đúng không",
+    "textdich": ""
+  },
+  {
+    "start": 206.27,
+    "end": 206.27,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 206.28,
+    "end": 210.62,
+    "text": "thì thầy cô thì ở nhà thầy cô đây là qua",
+    "textdich": ""
+  },
+  {
+    "start": 209.39,
+    "end": 210.62,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 209.4,
+    "end": 213.12,
+    "text": "đám mây internet",
+    "textdich": ""
+  },
+  {
+    "start": 210.61,
+    "end": 213.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 210.62,
+    "end": 215.7,
+    "text": "nên là không thể nào mà thấy cô truy cập",
+    "textdich": ""
+  },
+  {
+    "start": 213.11,
+    "end": 215.7,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 213.12,
+    "end": 217.14,
+    "text": "được vào ứng dụng này cả đúng không Bạn",
+    "textdich": ""
+  },
+  {
+    "start": 215.69,
+    "end": 217.14,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 215.7,
+    "end": 219.599,
+    "text": "biết rồi khi bạn chạy ứng dụng mà local",
+    "textdich": ""
+  },
+  {
+    "start": 217.13,
+    "end": 219.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 217.14,
+    "end": 221.959,
+    "text": "mấy bạn ấy thì chỉ có máy của bạn và",
+    "textdich": ""
+  },
+  {
+    "start": 219.589,
+    "end": 221.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 219.599,
+    "end": 225.72,
+    "text": "những cái máy khác ở trong cùng cái mạng",
+    "textdich": ""
+  },
+  {
+    "start": 221.949,
+    "end": 225.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 221.959,
+    "end": 229.08,
+    "text": "lan với bạn mà thôi Nên là không thể nào",
+    "textdich": ""
+  },
+  {
+    "start": 225.71,
+    "end": 229.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 225.72,
+    "end": 231.78,
+    "text": "mà truy cập được thế thì chúng ta làm",
+    "textdich": ""
+  },
+  {
+    "start": 229.07,
+    "end": 231.78,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 229.08,
+    "end": 235.26,
+    "text": "thế nào để cho cái ứng dụng của chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 231.77,
+    "end": 235.26,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 231.78,
+    "end": 239.04,
+    "text": "sau khi chạy ở máy laptop thì những",
+    "textdich": ""
+  },
+  {
+    "start": 235.25,
+    "end": 239.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 235.26,
+    "end": 242.48,
+    "text": "người khác ở trên thầy cô hoặc trên thế",
+    "textdich": ""
+  },
+  {
+    "start": 239.03,
+    "end": 242.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 239.04,
+    "end": 246.659,
+    "text": "giới có thể là truy cập được thì làm thế",
+    "textdich": ""
+  },
+  {
+    "start": 242.47,
+    "end": 246.659,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 242.48,
+    "end": 249.08,
+    "text": "nào chúng ta sẽ cài vào phần mềm nữa",
+    "textdich": ""
+  },
+  {
+    "start": 246.649,
+    "end": 249.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 246.659,
+    "end": 249.08,
+    "text": "trong máy tính",
+    "textdich": ""
+  },
+  {
+    "start": 260.83,
+    "end": 260.83,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 260.84,
+    "end": 266.479,
+    "text": "thì khi đăng Cài ứng dụng này thì nó sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 264.07,
+    "end": 266.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 264.08,
+    "end": 270.44,
+    "text": "tạo ra một cái",
+    "textdich": ""
+  },
+  {
+    "start": 266.469,
+    "end": 270.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 266.479,
+    "end": 270.44,
+    "text": "khăn nổ thanos",
+    "textdich": ""
+  },
+  {
+    "start": 272.29,
+    "end": 272.29,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 272.3,
+    "end": 278.54,
+    "text": "ống truyền nó truyền trực tiếp thông qua",
+    "textdich": ""
+  },
+  {
+    "start": 275.629,
+    "end": 278.54,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 275.639,
+    "end": 281.34,
+    "text": "mạng Internet từ thầy cô",
+    "textdich": ""
+  },
+  {
+    "start": 278.53,
+    "end": 281.34,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 278.54,
+    "end": 282.8,
+    "text": "đến bạn và thông tin của ứng dụng chạy",
+    "textdich": ""
+  },
+  {
+    "start": 281.33,
+    "end": 282.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 281.34,
+    "end": 285.84,
+    "text": "trong ngày",
+    "textdich": ""
+  },
+  {
+    "start": 282.79,
+    "end": 285.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 282.8,
+    "end": 288.24,
+    "text": "Đây là mình ví dụ một cách rất là cơ bản",
+    "textdich": ""
+  },
+  {
+    "start": 285.83,
+    "end": 288.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 285.84,
+    "end": 291.139,
+    "text": "thôi nhé Còn về chuyên sâu về cách nó",
+    "textdich": ""
+  },
+  {
+    "start": 288.23,
+    "end": 291.139,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 288.24,
+    "end": 295.28,
+    "text": "tạo thân đồ như thế nào nó",
+    "textdich": ""
+  },
+  {
+    "start": 291.129,
+    "end": 295.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 291.139,
+    "end": 298.38,
+    "text": "uncript ra sao rồi nó",
+    "textdich": ""
+  },
+  {
+    "start": 295.27,
+    "end": 298.38,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 295.28,
+    "end": 300.06,
+    "text": "tcpip thế nào thì mình không đi và chi",
+    "textdich": ""
+  },
+  {
+    "start": 298.37,
+    "end": 300.06,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 298.38,
+    "end": 302.94,
+    "text": "tiết Lý do là mình cũng không phải",
+    "textdich": ""
+  },
+  {
+    "start": 300.05,
+    "end": 302.94,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 300.06,
+    "end": 305.16,
+    "text": "chuyên về ngành mạng máy tính và phần",
+    "textdich": ""
+  },
+  {
+    "start": 302.93,
+    "end": 305.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 302.94,
+    "end": 306.96,
+    "text": "cứng mình là phải dân phần mềm thôi Thế",
+    "textdich": ""
+  },
+  {
+    "start": 305.15,
+    "end": 306.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 305.16,
+    "end": 311.28,
+    "text": "nhưng mà Bạn cứ hiểu lại khái là bạn có",
+    "textdich": ""
+  },
+  {
+    "start": 306.95,
+    "end": 311.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 306.96,
+    "end": 313.699,
+    "text": "phần mềm vào thì sau khi mà chạy nó lên",
+    "textdich": ""
+  },
+  {
+    "start": 311.27,
+    "end": 313.699,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 311.28,
+    "end": 316.699,
+    "text": "thì nó cho bạn một cái gọi là cái",
+    "textdich": ""
+  },
+  {
+    "start": 313.689,
+    "end": 316.699,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 313.699,
+    "end": 316.699,
+    "text": "URL",
+    "textdich": ""
+  },
+  {
+    "start": 317.53,
+    "end": 317.53,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 317.54,
+    "end": 322.86,
+    "text": "này cho cho thầy cô hoặc cho người khác",
+    "textdich": ""
+  },
+  {
+    "start": 321.23,
+    "end": 322.86,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 321.24,
+    "end": 325.979,
+    "text": "là người đó có thể truy cập được vào ứng",
+    "textdich": ""
+  },
+  {
+    "start": 322.85,
+    "end": 325.979,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 322.86,
+    "end": 327.86,
+    "text": "dụng bay thần chạy ở trên cái Laptop của",
+    "textdich": ""
+  },
+  {
+    "start": 325.969,
+    "end": 327.86,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 325.979,
+    "end": 330.539,
+    "text": "bạn đó",
+    "textdich": ""
+  },
+  {
+    "start": 327.85,
+    "end": 330.539,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 327.86,
+    "end": 335.78,
+    "text": "sẽ có dạng như thế nào nó dạng là một",
+    "textdich": ""
+  },
+  {
+    "start": 330.529,
+    "end": 335.78,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 330.539,
+    "end": 338.94,
+    "text": "chuỗi là nhầm chấm n",
+    "textdich": ""
+  },
+  {
+    "start": 335.77,
+    "end": 338.94,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 335.78,
+    "end": 342.419,
+    "text": "crop.com thì phải đó và nó là nhà này",
+    "textdich": ""
+  },
+  {
+    "start": 338.93,
+    "end": 342.419,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 338.94,
+    "end": 344.9,
+    "text": "nếu bạn dùng dịch vụ free thì mỗi lần",
+    "textdich": ""
+  },
+  {
+    "start": 342.409,
+    "end": 344.9,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 342.419,
+    "end": 348.3,
+    "text": "bạn chạy cái ứng dụng",
+    "textdich": ""
+  },
+  {
+    "start": 344.89,
+    "end": 348.3,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 344.9,
+    "end": 351.72,
+    "text": "thì nó sẽ sinh ra một đoạn lằng nhằng",
+    "textdich": ""
+  },
+  {
+    "start": 348.29,
+    "end": 351.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 348.3,
+    "end": 355.02,
+    "text": "này khác nhau để bạn thế thì nó có điểm",
+    "textdich": ""
+  },
+  {
+    "start": 351.71,
+    "end": 355.02,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 351.72,
+    "end": 357.38,
+    "text": "yếu là là nó sẽ mỗi lần bạn chạy lại cái",
+    "textdich": ""
+  },
+  {
+    "start": 355.01,
+    "end": 357.38,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 355.02,
+    "end": 360.24,
+    "text": "ứng dụng trên máy tính",
+    "textdich": ""
+  },
+  {
+    "start": 357.37,
+    "end": 360.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 357.38,
+    "end": 362.82,
+    "text": "Chẳng hạn mà chạy lại thì bạn phải gửi",
+    "textdich": ""
+  },
+  {
+    "start": 360.23,
+    "end": 362.82,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 360.24,
+    "end": 364.62,
+    "text": "lại cái URL mới cho người kia nó làm thế",
+    "textdich": ""
+  },
+  {
+    "start": 362.81,
+    "end": 364.62,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 362.82,
+    "end": 366.74,
+    "text": "là bạn thấy dùng thử thôi Còn nếu bạn",
+    "textdich": ""
+  },
+  {
+    "start": 364.61,
+    "end": 366.74,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 364.62,
+    "end": 372.18,
+    "text": "muốn mà có một cái",
+    "textdich": ""
+  },
+  {
+    "start": 366.73,
+    "end": 372.18,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 366.74,
+    "end": 374.6,
+    "text": "fix fix nhé thì bạn phải trả tiền phí",
+    "textdich": ""
+  },
+  {
+    "start": 372.17,
+    "end": 374.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 372.18,
+    "end": 374.6,
+    "text": "gửi trả tiền",
+    "textdich": ""
+  },
+  {
+    "start": 376.57,
+    "end": 376.57,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 376.58,
+    "end": 383.52,
+    "text": "đấy nhưng mà trong cái loại free rồi nhé",
+    "textdich": ""
+  },
+  {
+    "start": 380.65,
+    "end": 383.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 380.66,
+    "end": 384.72,
+    "text": "Thì lại có hai trường phái một trường",
+    "textdich": ""
+  },
+  {
+    "start": 383.51,
+    "end": 384.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 383.52,
+    "end": 387.259,
+    "text": "phái đầu tiên là bạn không đăng nhập",
+    "textdich": ""
+  },
+  {
+    "start": 384.71,
+    "end": 387.259,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 384.72,
+    "end": 389.72,
+    "text": "không đăng ký AK không đăng ký account",
+    "textdich": ""
+  },
+  {
+    "start": 387.249,
+    "end": 389.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 387.259,
+    "end": 393.8,
+    "text": "đăng ký",
+    "textdich": ""
+  },
+  {
+    "start": 389.71,
+    "end": 393.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 389.72,
+    "end": 397.34,
+    "text": "thì cái URL này này nó chỉ tồn tại trong",
+    "textdich": ""
+  },
+  {
+    "start": 393.79,
+    "end": 397.34,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 393.8,
+    "end": 400.199,
+    "text": "3 tiếng thì phải 3 tiếng",
+    "textdich": ""
+  },
+  {
+    "start": 397.33,
+    "end": 400.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 397.34,
+    "end": 403.34,
+    "text": "sau 3 tiếng là nó mất đi và phải làm lại",
+    "textdich": ""
+  },
+  {
+    "start": 400.189,
+    "end": 403.34,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 400.199,
+    "end": 406.759,
+    "text": "thế còn thứ hai là có đăng ký",
+    "textdich": ""
+  },
+  {
+    "start": 403.33,
+    "end": 406.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 403.34,
+    "end": 406.759,
+    "text": "thì mãi mãi",
+    "textdich": ""
+  },
+  {
+    "start": 415.33,
+    "end": 415.33,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 415.34,
+    "end": 419.12,
+    "text": "thì đó là chúng ta thấy là",
+    "textdich": ""
+  },
+  {
+    "start": 419.29,
+    "end": 419.29,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 419.3,
+    "end": 426.08,
+    "text": "như vậy Rõ ràng là gì với mình thì thông",
+    "textdich": ""
+  },
+  {
+    "start": 422.33,
+    "end": 426.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 422.34,
+    "end": 430.56,
+    "text": "thường là mình dùng cái gói free free",
+    "textdich": ""
+  },
+  {
+    "start": 426.07,
+    "end": 430.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 426.08,
+    "end": 432.06,
+    "text": "này thì nó sẽ có cái limited nữa là về",
+    "textdich": ""
+  },
+  {
+    "start": 430.55,
+    "end": 432.06,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 430.56,
+    "end": 435.18,
+    "text": "số lượt truy cập trong vòng 1 phút thì",
+    "textdich": ""
+  },
+  {
+    "start": 432.05,
+    "end": 435.18,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 432.06,
+    "end": 438.3,
+    "text": "phải nhưng mà mình nghĩ là với cái công",
+    "textdich": ""
+  },
+  {
+    "start": 435.17,
+    "end": 438.3,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 435.18,
+    "end": 440.34,
+    "text": "việc để làm đồ án để test để cho đưa",
+    "textdich": ""
+  },
+  {
+    "start": 438.29,
+    "end": 440.34,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 438.3,
+    "end": 442.44,
+    "text": "thầy cô thì nó không vấn đề gì cả chúng",
+    "textdich": ""
+  },
+  {
+    "start": 440.33,
+    "end": 442.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 440.34,
+    "end": 444.66,
+    "text": "ta hoàn toàn có thể là đáp ứng được với",
+    "textdich": ""
+  },
+  {
+    "start": 442.43,
+    "end": 444.66,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 442.44,
+    "end": 448.259,
+    "text": "gói free Nha và chúng ta dùng free và",
+    "textdich": ""
+  },
+  {
+    "start": 444.65,
+    "end": 448.259,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 444.66,
+    "end": 449.699,
+    "text": "dùng là có đăng ký và login vào thì chút",
+    "textdich": ""
+  },
+  {
+    "start": 448.249,
+    "end": 449.699,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 448.259,
+    "end": 451.819,
+    "text": "nữa mình sẽ demo cho bạn cụ thể phải",
+    "textdich": ""
+  },
+  {
+    "start": 449.689,
+    "end": 451.819,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 449.699,
+    "end": 451.819,
+    "text": "dùng",
+    "textdich": ""
+  },
+  {
+    "start": 452.35,
+    "end": 452.35,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 452.36,
+    "end": 457.44,
+    "text": "nó là thứ nhất thì hướng này nhìn qua",
+    "textdich": ""
+  },
+  {
+    "start": 455.45,
+    "end": 457.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 455.46,
+    "end": 460.819,
+    "text": "cái cái này thì thấy gì Điểm ưu điểm của",
+    "textdich": ""
+  },
+  {
+    "start": 457.43,
+    "end": 460.819,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 457.44,
+    "end": 460.819,
+    "text": "nó là gì ưu điểm",
+    "textdich": ""
+  },
+  {
+    "start": 463.689,
+    "end": 463.689,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 463.699,
+    "end": 467.12,
+    "text": "không tốn tiền",
+    "textdich": ""
+  },
+  {
+    "start": 468.35,
+    "end": 468.35,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 468.36,
+    "end": 471.68,
+    "text": "mua server",
+    "textdich": ""
+  },
+  {
+    "start": 473.809,
+    "end": 473.809,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 473.819,
+    "end": 481.039,
+    "text": "không có tiền mua server chính xác rồi",
+    "textdich": ""
+  },
+  {
+    "start": 476.529,
+    "end": 481.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 476.539,
+    "end": 481.039,
+    "text": "còn tiền nhưng mà lại gì nhiều",
+    "textdich": ""
+  },
+  {
+    "start": 482.529,
+    "end": 482.529,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 482.539,
+    "end": 487.28,
+    "text": "không có tiền mua server triển khai",
+    "textdich": ""
+  },
+  {
+    "start": 485.15,
+    "end": 487.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 485.16,
+    "end": 487.28,
+    "text": "nhanh",
+    "textdich": ""
+  },
+  {
+    "start": 488.99,
+    "end": 488.99,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 489.0,
+    "end": 494.24,
+    "text": "nhưng mà nhược là gì tốn tiền điện",
+    "textdich": ""
+  },
+  {
+    "start": 497.17,
+    "end": 497.17,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 497.18,
+    "end": 501.62,
+    "text": "Chắc chắn rồi Bạn cắm laptop 24h",
+    "textdich": ""
+  },
+  {
+    "start": 568.69,
+    "end": 568.69,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 568.7,
+    "end": 574.04,
+    "text": "VPS này theo mình nhớ là Visual privater",
+    "textdich": ""
+  },
+  {
+    "start": 581.47,
+    "end": 581.47,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 581.48,
+    "end": 587.839,
+    "text": "bạn bỏ tiền ra bạn mua của một cái công",
+    "textdich": ""
+  },
+  {
+    "start": 585.59,
+    "end": 587.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 585.6,
+    "end": 590.36,
+    "text": "ty nào đấy một cái",
+    "textdich": ""
+  },
+  {
+    "start": 587.829,
+    "end": 590.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 587.839,
+    "end": 594.92,
+    "text": "server",
+    "textdich": ""
+  },
+  {
+    "start": 590.35,
+    "end": 594.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 590.36,
+    "end": 594.92,
+    "text": "đây là nhà bạn đây",
+    "textdich": ""
+  },
+  {
+    "start": 599.23,
+    "end": 599.23,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 599.24,
+    "end": 602.48,
+    "text": "là nhà bạn",
+    "textdich": ""
+  },
+  {
+    "start": 603.65,
+    "end": 603.65,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 603.66,
+    "end": 608.36,
+    "text": "Đây là",
+    "textdich": ""
+  },
+  {
+    "start": 605.949,
+    "end": 608.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 605.959,
+    "end": 610.459,
+    "text": "máy phòng máy chủ",
+    "textdich": ""
+  },
+  {
+    "start": 608.35,
+    "end": 610.459,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 608.36,
+    "end": 615.08,
+    "text": "phòng",
+    "textdich": ""
+  },
+  {
+    "start": 610.449,
+    "end": 615.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 610.459,
+    "end": 617.48,
+    "text": "mấy chủ của",
+    "textdich": ""
+  },
+  {
+    "start": 615.07,
+    "end": 617.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 615.08,
+    "end": 620.48,
+    "text": "nhà cung cấp",
+    "textdich": ""
+  },
+  {
+    "start": 617.47,
+    "end": 620.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 617.48,
+    "end": 620.48,
+    "text": "server",
+    "textdich": ""
+  },
+  {
+    "start": 623.65,
+    "end": 623.65,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 623.66,
+    "end": 627.98,
+    "text": "thì bình thường cái Laptop của nó ở đây",
+    "textdich": ""
+  },
+  {
+    "start": 630.07,
+    "end": 630.07,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 630.08,
+    "end": 636.48,
+    "text": "bỏ tiền ra bạn mua một cái server và",
+    "textdich": ""
+  },
+  {
+    "start": 633.53,
+    "end": 636.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 633.54,
+    "end": 640.92,
+    "text": "server đó đặt ở đây đặt ở trên phòng máy",
+    "textdich": ""
+  },
+  {
+    "start": 636.47,
+    "end": 640.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 636.48,
+    "end": 640.92,
+    "text": "chủ của nhà ống cấp server",
+    "textdich": ""
+  },
+  {
+    "start": 642.85,
+    "end": 642.85,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 642.86,
+    "end": 647.54,
+    "text": "thì mình vẽ minh họa này thôi thì Server",
+    "textdich": ""
+  },
+  {
+    "start": 645.41,
+    "end": 647.54,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 645.42,
+    "end": 650.959,
+    "text": "này ngày xưa thì là các sư vương cứng",
+    "textdich": ""
+  },
+  {
+    "start": 647.53,
+    "end": 650.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 647.54,
+    "end": 655.32,
+    "text": "server kiểu như nó là một cái cái",
+    "textdich": ""
+  },
+  {
+    "start": 650.949,
+    "end": 655.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 650.959,
+    "end": 656.72,
+    "text": "xơ bạn mua đặt ở trên nhà cung cấp của",
+    "textdich": ""
+  },
+  {
+    "start": 655.31,
+    "end": 656.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 655.32,
+    "end": 659.519,
+    "text": "phòng máy chủ nhà ống cấp",
+    "textdich": ""
+  },
+  {
+    "start": 656.71,
+    "end": 659.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 656.72,
+    "end": 661.74,
+    "text": "nhưng bây giờ thì Công nghệ Ảo hóa nó",
+    "textdich": ""
+  },
+  {
+    "start": 659.509,
+    "end": 661.74,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 659.519,
+    "end": 663.3,
+    "text": "rất tốt rồi nên là nó sẽ có thể là nó",
+    "textdich": ""
+  },
+  {
+    "start": 661.73,
+    "end": 663.3,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 661.74,
+    "end": 665.339,
+    "text": "chỉ cái nhà cung cấp mà nó chỉ có một",
+    "textdich": ""
+  },
+  {
+    "start": 663.29,
+    "end": 665.339,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 663.3,
+    "end": 668.1,
+    "text": "cái server chính thôi server to thì thôi",
+    "textdich": ""
+  },
+  {
+    "start": 665.329,
+    "end": 668.1,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 665.339,
+    "end": 670.04,
+    "text": "Mà nó chia nhiều cái ảo ở trong này nó",
+    "textdich": ""
+  },
+  {
+    "start": 668.09,
+    "end": 670.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 668.1,
+    "end": 678.12,
+    "text": "bán cho bạn",
+    "textdich": ""
+  },
+  {
+    "start": 670.03,
+    "end": 678.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 670.04,
+    "end": 680.12,
+    "text": "và mỗi cái cấu hình về ram về CPU về GPU",
+    "textdich": ""
+  },
+  {
+    "start": 678.11,
+    "end": 680.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 678.12,
+    "end": 681.68,
+    "text": "về ổ cứng",
+    "textdich": ""
+  },
+  {
+    "start": 680.11,
+    "end": 681.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 680.12,
+    "end": 685.32,
+    "text": "HDD",
+    "textdich": ""
+  },
+  {
+    "start": 681.67,
+    "end": 685.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 681.68,
+    "end": 687.66,
+    "text": "sdd đó tất cả những cái này khi mua bạn",
+    "textdich": ""
+  },
+  {
+    "start": 685.31,
+    "end": 687.66,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 685.32,
+    "end": 690.72,
+    "text": "ấy được tuyển chọn nó tùy thuộc vào việc",
+    "textdich": ""
+  },
+  {
+    "start": 687.65,
+    "end": 690.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 687.66,
+    "end": 693.3,
+    "text": "bạn Bạn làm gì Bạn dùng cái gì nhiều thì",
+    "textdich": ""
+  },
+  {
+    "start": 690.71,
+    "end": 693.3,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 690.72,
+    "end": 695.12,
+    "text": "bạn tăng lên bạn không dùng thì bạn giảm",
+    "textdich": ""
+  },
+  {
+    "start": 693.29,
+    "end": 695.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 693.3,
+    "end": 697.92,
+    "text": "đi",
+    "textdich": ""
+  },
+  {
+    "start": 695.11,
+    "end": 697.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 695.12,
+    "end": 700.44,
+    "text": "Giới thiệu qua một cách mình mua sắm ở",
+    "textdich": ""
+  },
+  {
+    "start": 697.91,
+    "end": 700.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 697.92,
+    "end": 701.899,
+    "text": "trên cái nhóm cấp này rồi",
+    "textdich": ""
+  },
+  {
+    "start": 700.43,
+    "end": 701.899,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 700.44,
+    "end": 705.06,
+    "text": "đó là chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 701.889,
+    "end": 705.06,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 701.899,
+    "end": 708.06,
+    "text": "mua một cái server một cái VPS server",
+    "textdich": ""
+  },
+  {
+    "start": 705.05,
+    "end": 708.06,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 705.06,
+    "end": 709.82,
+    "text": "của một ống cấp thế thì cái nhà cung cấp",
+    "textdich": ""
+  },
+  {
+    "start": 708.05,
+    "end": 709.82,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 708.06,
+    "end": 712.2,
+    "text": "này này",
+    "textdich": ""
+  },
+  {
+    "start": 709.81,
+    "end": 712.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 709.82,
+    "end": 715.1,
+    "text": "thì bạn chú ý là có cả trong nước và",
+    "textdich": ""
+  },
+  {
+    "start": 712.19,
+    "end": 715.1,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 712.2,
+    "end": 717.14,
+    "text": "ngoài nước ngoài nước có Google",
+    "textdich": ""
+  },
+  {
+    "start": 715.09,
+    "end": 717.14,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 715.1,
+    "end": 718.94,
+    "text": "có",
+    "textdich": ""
+  },
+  {
+    "start": 717.13,
+    "end": 718.94,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 717.14,
+    "end": 721.16,
+    "text": "Amazon",
+    "textdich": ""
+  },
+  {
+    "start": 718.93,
+    "end": 721.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 718.94,
+    "end": 723.98,
+    "text": "rồi có",
+    "textdich": ""
+  },
+  {
+    "start": 721.15,
+    "end": 723.98,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 721.16,
+    "end": 728.1,
+    "text": "Microsoft",
+    "textdich": ""
+  },
+  {
+    "start": 723.97,
+    "end": 728.1,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 723.98,
+    "end": 730.38,
+    "text": "trong nước thì có một số như là easy VPS",
+    "textdich": ""
+  },
+  {
+    "start": 728.09,
+    "end": 730.38,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 728.1,
+    "end": 734.18,
+    "text": "là mình hay hay giới thiệu các bạn hãy",
+    "textdich": ""
+  },
+  {
+    "start": 730.37,
+    "end": 734.18,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 730.38,
+    "end": 734.18,
+    "text": "mua của bên này rồi",
+    "textdich": ""
+  },
+  {
+    "start": 742.21,
+    "end": 742.21,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 742.22,
+    "end": 748.019,
+    "text": "thì",
+    "textdich": ""
+  },
+  {
+    "start": 744.009,
+    "end": 748.019,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 744.019,
+    "end": 751.82,
+    "text": "khi họ nhận mua xong mua xong thì họ sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 748.009,
+    "end": 751.82,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 748.019,
+    "end": 753.44,
+    "text": "cho bạn mấy thứ là một là cái",
+    "textdich": ""
+  },
+  {
+    "start": 751.81,
+    "end": 753.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 751.82,
+    "end": 755.959,
+    "text": "ip",
+    "textdich": ""
+  },
+  {
+    "start": 753.43,
+    "end": 755.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 753.44,
+    "end": 759.44,
+    "text": "của cái máy chủ đó",
+    "textdich": ""
+  },
+  {
+    "start": 755.949,
+    "end": 759.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 755.959,
+    "end": 759.44,
+    "text": "mà mua bên này này",
+    "textdich": ""
+  },
+  {
+    "start": 823.97,
+    "end": 823.97,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 823.98,
+    "end": 829.86,
+    "text": "có một điểm lưu ý ở đây là các máy chủ",
+    "textdich": ""
+  },
+  {
+    "start": 826.009,
+    "end": 829.86,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 826.019,
+    "end": 832.86,
+    "text": "này thì bạn có thể chọn là Dùng Windows",
+    "textdich": ""
+  },
+  {
+    "start": 829.85,
+    "end": 832.86,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 829.86,
+    "end": 835.399,
+    "text": "hay là dùng ubuntu vân vân tùy vào nhu",
+    "textdich": ""
+  },
+  {
+    "start": 832.85,
+    "end": 835.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 832.86,
+    "end": 838.8,
+    "text": "cầu của bạn nha nếu mà dùng",
+    "textdich": ""
+  },
+  {
+    "start": 835.389,
+    "end": 838.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 835.399,
+    "end": 840.48,
+    "text": "ubuntu thì bạn dùng SH này còn nếu mà",
+    "textdich": ""
+  },
+  {
+    "start": 838.79,
+    "end": 840.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 838.8,
+    "end": 844.7,
+    "text": "dùng Windows thì bạn dùng một thứ rất",
+    "textdich": ""
+  },
+  {
+    "start": 840.47,
+    "end": 844.7,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 840.48,
+    "end": 844.7,
+    "text": "quen thuộc với bạn đó là Remote Desktop",
+    "textdich": ""
+  },
+  {
+    "start": 847.269,
+    "end": 847.269,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 847.279,
+    "end": 854.899,
+    "text": "nhưng mà tại sao mình lại lại nói về SH",
+    "textdich": ""
+  },
+  {
+    "start": 851.629,
+    "end": 854.899,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 851.639,
+    "end": 860.54,
+    "text": "trước là vì thường khi ta đã thuê cái",
+    "textdich": ""
+  },
+  {
+    "start": 854.889,
+    "end": 860.54,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 854.899,
+    "end": 863.339,
+    "text": "VPS nha thì chúng ta thường dùng",
+    "textdich": ""
+  },
+  {
+    "start": 860.53,
+    "end": 863.339,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 860.54,
+    "end": 866.18,
+    "text": "để tăng tính ổn định cho cái server đó",
+    "textdich": ""
+  },
+  {
+    "start": 863.329,
+    "end": 866.18,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 863.339,
+    "end": 866.18,
+    "text": "nó ômuto",
+    "textdich": ""
+  },
+  {
+    "start": 867.19,
+    "end": 867.19,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 867.2,
+    "end": 872.839,
+    "text": "đánh giá chạy server rất là ổn rất ổn",
+    "textdich": ""
+  },
+  {
+    "start": 869.93,
+    "end": 872.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 869.94,
+    "end": 875.06,
+    "text": "định phân quyền đơn giản bảo mật",
+    "textdich": ""
+  },
+  {
+    "start": 872.829,
+    "end": 875.06,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 872.839,
+    "end": 878.22,
+    "text": "còn",
+    "textdich": ""
+  },
+  {
+    "start": 875.05,
+    "end": 878.22,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 875.06,
+    "end": 879.8,
+    "text": "cái Windows thì nó thiên về để sử dụng",
+    "textdich": ""
+  },
+  {
+    "start": 878.21,
+    "end": 879.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 878.22,
+    "end": 883.399,
+    "text": "hơn mình",
+    "textdich": ""
+  },
+  {
+    "start": 879.79,
+    "end": 883.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 879.8,
+    "end": 883.399,
+    "text": "Đây là quan điểm cá nhân",
+    "textdich": ""
+  },
+  {
+    "start": 883.449,
+    "end": 883.449,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 883.459,
+    "end": 886.88,
+    "text": "mình Ở dưới phần comment",
+    "textdich": ""
+  },
+  {
+    "start": 897.73,
+    "end": 897.73,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 897.74,
+    "end": 903.72,
+    "text": "chạy rất là ngon và sau khi chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 901.389,
+    "end": 903.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 901.399,
+    "end": 907.68,
+    "text": "expose ra thì chúng ta có thể là chạy",
+    "textdich": ""
+  },
+  {
+    "start": 903.71,
+    "end": 907.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 903.72,
+    "end": 910.139,
+    "text": "gần như là 2/7 trên đó vì sao vì cái",
+    "textdich": ""
+  },
+  {
+    "start": 907.67,
+    "end": 910.139,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 907.68,
+    "end": 911.16,
+    "text": "phòng máy chủ mà để mà làm cái DC cái",
+    "textdich": ""
+  },
+  {
+    "start": 910.129,
+    "end": 911.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 910.139,
+    "end": 913.98,
+    "text": "chung cái chủ của người không cấp này",
+    "textdich": ""
+  },
+  {
+    "start": 911.15,
+    "end": 913.98,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 911.16,
+    "end": 915.98,
+    "text": "này thì họ có rất nhiều tiêu chuẩn để",
+    "textdich": ""
+  },
+  {
+    "start": 913.97,
+    "end": 915.98,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 913.98,
+    "end": 919.92,
+    "text": "bảo đảm ví dụ như là",
+    "textdich": ""
+  },
+  {
+    "start": 915.97,
+    "end": 919.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 915.98,
+    "end": 922.44,
+    "text": "chống cháy nổ chống chập điện có thiết",
+    "textdich": ""
+  },
+  {
+    "start": 919.91,
+    "end": 922.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 919.92,
+    "end": 923.94,
+    "text": "bị lưu điện có máy nổ để đảm bảo khi mà",
+    "textdich": ""
+  },
+  {
+    "start": 922.43,
+    "end": 923.94,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 922.44,
+    "end": 926.72,
+    "text": "cái khu vực mà nói chuyện mất điện thì",
+    "textdich": ""
+  },
+  {
+    "start": 923.93,
+    "end": 926.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 923.94,
+    "end": 929.88,
+    "text": "họ sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 926.71,
+    "end": 929.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 926.72,
+    "end": 932.339,
+    "text": "duy trì được nguồn điện cho bạn đó rồi",
+    "textdich": ""
+  },
+  {
+    "start": 929.87,
+    "end": 932.339,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 929.88,
+    "end": 934.5,
+    "text": "Họ có những cái thiết bị thay thế ví dụ",
+    "textdich": ""
+  },
+  {
+    "start": 932.329,
+    "end": 934.5,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 932.339,
+    "end": 937.44,
+    "text": "như là gọi là spepart ấy Ví dụ như là",
+    "textdich": ""
+  },
+  {
+    "start": 934.49,
+    "end": 937.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 934.5,
+    "end": 939.839,
+    "text": "khi một cái router nó hỏng thì thay vì",
+    "textdich": ""
+  },
+  {
+    "start": 937.43,
+    "end": 939.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 937.44,
+    "end": 942.66,
+    "text": "việc là đợi mua sắm thì họ sẽ ngay lập",
+    "textdich": ""
+  },
+  {
+    "start": 939.829,
+    "end": 942.66,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 939.839,
+    "end": 945.36,
+    "text": "tức có một cái khác nó cắm vào để bạn",
+    "textdich": ""
+  },
+  {
+    "start": 942.65,
+    "end": 945.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 942.66,
+    "end": 947.72,
+    "text": "dùng cho bạn luôn rất ổn định nhưng mà",
+    "textdich": ""
+  },
+  {
+    "start": 945.35,
+    "end": 947.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 945.36,
+    "end": 947.72,
+    "text": "cái nhược điểm",
+    "textdich": ""
+  },
+  {
+    "start": 949.31,
+    "end": 949.31,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 949.32,
+    "end": 952.76,
+    "text": "là gì tốn tiền",
+    "textdich": ""
+  },
+  {
+    "start": 953.769,
+    "end": 953.769,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 953.779,
+    "end": 959.22,
+    "text": "mua VPS",
+    "textdich": ""
+  },
+  {
+    "start": 957.009,
+    "end": 959.22,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 957.019,
+    "end": 962.839,
+    "text": "nhưng mà cái tốn tiền này các bạn không",
+    "textdich": ""
+  },
+  {
+    "start": 959.21,
+    "end": 962.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 959.22,
+    "end": 967.019,
+    "text": "lo lắm vì sao vì hiện nay ở",
+    "textdich": ""
+  },
+  {
+    "start": 962.829,
+    "end": 967.019,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 962.839,
+    "end": 971.1,
+    "text": "một số nhà cung cấp có các cái gói khá",
+    "textdich": ""
+  },
+  {
+    "start": 967.009,
+    "end": 971.1,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 967.019,
+    "end": 973.199,
+    "text": "là rẻ khá là rẻ và hình như có mấy chục",
+    "textdich": ""
+  },
+  {
+    "start": 971.09,
+    "end": 973.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 971.1,
+    "end": 975.36,
+    "text": "nghìn thôi và họ cho bạn thuê theo tháng",
+    "textdich": ""
+  },
+  {
+    "start": 973.189,
+    "end": 975.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 973.199,
+    "end": 978.0,
+    "text": "có nghĩa là nếu bạn thuê 3 tháng đi thì",
+    "textdich": ""
+  },
+  {
+    "start": 975.35,
+    "end": 978.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 975.36,
+    "end": 979.74,
+    "text": "cũng tốn khoảng độ hai ba trăm nghìn",
+    "textdich": ""
+  },
+  {
+    "start": 977.99,
+    "end": 979.74,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 978.0,
+    "end": 981.56,
+    "text": "mình nghĩ là chi phí chấp nhận được thì",
+    "textdich": ""
+  },
+  {
+    "start": 979.73,
+    "end": 981.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 979.74,
+    "end": 987.079,
+    "text": "bạn làm đồ án",
+    "textdich": ""
+  },
+  {
+    "start": 981.55,
+    "end": 987.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 981.56,
+    "end": 990.42,
+    "text": "này nó vừa ổn định nó vừa an toàn Nó vừa",
+    "textdich": ""
+  },
+  {
+    "start": 987.069,
+    "end": 990.42,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 987.079,
+    "end": 993.3,
+    "text": "gọi là là đỡ phải gửi đi gửi lại cái URL",
+    "textdich": ""
+  },
+  {
+    "start": 990.41,
+    "end": 993.3,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 990.42,
+    "end": 998.0,
+    "text": "cho cho giáo viên mà lại chỉ có 200.000",
+    "textdich": ""
+  },
+  {
+    "start": 993.29,
+    "end": 998.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 993.3,
+    "end": 998.0,
+    "text": "nên nên thử xem thử",
+    "textdich": ""
+  },
+  {
+    "start": 998.29,
+    "end": 998.29,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 998.3,
+    "end": 1001.72,
+    "text": "Bạn cân nhắc",
+    "textdich": ""
+  },
+  {
+    "start": 1002.65,
+    "end": 1002.65,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1002.66,
+    "end": 1006.639,
+    "text": "rồi phương án thứ ba",
+    "textdich": ""
+  },
+  {
+    "start": 1009.189,
+    "end": 1009.189,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1009.199,
+    "end": 1012.74,
+    "text": "áp là",
+    "textdich": ""
+  },
+  {
+    "start": 1017.61,
+    "end": 1017.61,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1017.62,
+    "end": 1025.12,
+    "text": "thì họ sẽ có những cái cơ sở tầng ở trên",
+    "textdich": ""
+  },
+  {
+    "start": 1022.569,
+    "end": 1025.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1022.579,
+    "end": 1028.22,
+    "text": "Cloud",
+    "textdich": ""
+  },
+  {
+    "start": 1025.11,
+    "end": 1028.22,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1025.12,
+    "end": 1030.319,
+    "text": "họ dựng sẵn rồi họ dựng sẵn ra cơ sở",
+    "textdich": ""
+  },
+  {
+    "start": 1028.21,
+    "end": 1030.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1028.22,
+    "end": 1036.339,
+    "text": "tầng ở trên này rồi và nhiệm vụ của",
+    "textdich": ""
+  },
+  {
+    "start": 1030.309,
+    "end": 1036.339,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1030.319,
+    "end": 1036.339,
+    "text": "chúng ta là chỉ cần là đây laptop đây",
+    "textdich": ""
+  },
+  {
+    "start": 1037.71,
+    "end": 1037.71,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1037.72,
+    "end": 1043.419,
+    "text": "chúng ta sẽ chỉ cần là Push cái ruột của",
+    "textdich": ""
+  },
+  {
+    "start": 1041.289,
+    "end": 1043.419,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1041.299,
+    "end": 1043.419,
+    "text": "chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 1046.59,
+    "end": 1046.59,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1046.6,
+    "end": 1052.96,
+    "text": "và người ta sẽ auto deplo cho bạn luôn",
+    "textdich": ""
+  },
+  {
+    "start": 1055.87,
+    "end": 1055.87,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1055.88,
+    "end": 1065.799,
+    "text": "và sau đó thì nó sẽ cho bạn một cái URL",
+    "textdich": ""
+  },
+  {
+    "start": 1061.529,
+    "end": 1065.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1061.539,
+    "end": 1065.799,
+    "text": "để bạn đi bạn share cho thầy cô",
+    "textdich": ""
+  },
+  {
+    "start": 1101.01,
+    "end": 1101.01,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1101.02,
+    "end": 1105.64,
+    "text": "rồi",
+    "textdich": ""
+  },
+  {
+    "start": 1102.93,
+    "end": 1105.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1102.94,
+    "end": 1110.6,
+    "text": "mạng nó không ổn định mạng nó không ổn",
+    "textdich": ""
+  },
+  {
+    "start": 1105.63,
+    "end": 1110.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1105.64,
+    "end": 1112.82,
+    "text": "lắm rồi thì sau khi mà bạn áp Push có",
+    "textdich": ""
+  },
+  {
+    "start": 1110.59,
+    "end": 1112.82,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1110.6,
+    "end": 1113.98,
+    "text": "chuột lên thì họ sẽ điểm lo cho bạn và",
+    "textdich": ""
+  },
+  {
+    "start": 1112.81,
+    "end": 1113.98,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1112.82,
+    "end": 1118.9,
+    "text": "họ sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 1113.97,
+    "end": 1118.9,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1113.98,
+    "end": 1118.9,
+    "text": "cho bạn URL để bạn có thể share thầy cô",
+    "textdich": ""
+  },
+  {
+    "start": 1120.45,
+    "end": 1120.45,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1120.46,
+    "end": 1128.12,
+    "text": "hay hơn cái VPS là nó thì nếu mà so sánh",
+    "textdich": ""
+  },
+  {
+    "start": 1124.93,
+    "end": 1128.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1124.94,
+    "end": 1131.66,
+    "text": "VPS thì cái hơn của nó là gì Bạn không",
+    "textdich": ""
+  },
+  {
+    "start": 1128.11,
+    "end": 1131.66,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1128.12,
+    "end": 1134.059,
+    "text": "phải cài cắm cái cơ sở ta này nhé còn ở",
+    "textdich": ""
+  },
+  {
+    "start": 1131.65,
+    "end": 1134.059,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1131.66,
+    "end": 1135.7,
+    "text": "đây sau khi có một con máy chủ Đúng",
+    "textdich": ""
+  },
+  {
+    "start": 1134.049,
+    "end": 1135.7,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1134.059,
+    "end": 1139.58,
+    "text": "không",
+    "textdich": ""
+  },
+  {
+    "start": 1135.69,
+    "end": 1139.58,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1135.7,
+    "end": 1142.82,
+    "text": "cài Paypal cho nó bạn cài các thư viện",
+    "textdich": ""
+  },
+  {
+    "start": 1139.57,
+    "end": 1142.82,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1139.58,
+    "end": 1146.36,
+    "text": "liên quan như là pandal set up lên và",
+    "textdich": ""
+  },
+  {
+    "start": 1142.81,
+    "end": 1146.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1142.82,
+    "end": 1151.96,
+    "text": "nếu mà cần thì có set up cả các cái dịch",
+    "textdich": ""
+  },
+  {
+    "start": 1146.35,
+    "end": 1151.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1146.36,
+    "end": 1151.96,
+    "text": "vụ về web server rồi về",
+    "textdich": ""
+  },
+  {
+    "start": 1152.549,
+    "end": 1152.549,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1152.559,
+    "end": 1158.299,
+    "text": "bảo mật về",
+    "textdich": ""
+  },
+  {
+    "start": 1154.81,
+    "end": 1158.299,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1154.82,
+    "end": 1159.98,
+    "text": "tinh về file word đó nhưng mà ở đây thì",
+    "textdich": ""
+  },
+  {
+    "start": 1158.289,
+    "end": 1159.98,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1158.299,
+    "end": 1161.72,
+    "text": "bạn không cần cài gì cả tất cả họ đã có",
+    "textdich": ""
+  },
+  {
+    "start": 1159.97,
+    "end": 1161.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1159.98,
+    "end": 1165.98,
+    "text": "sẵn rồi bạn chỉ cần post cái sport lên",
+    "textdich": ""
+  },
+  {
+    "start": 1161.71,
+    "end": 1165.98,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1161.72,
+    "end": 1167.6,
+    "text": "tất nhiên là theo cái quy tắc của họ họ",
+    "textdich": ""
+  },
+  {
+    "start": 1165.97,
+    "end": 1167.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1165.98,
+    "end": 1171.76,
+    "text": "sẽ quyết định một số nguyên tắc bạn phải",
+    "textdich": ""
+  },
+  {
+    "start": 1167.59,
+    "end": 1171.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1167.6,
+    "end": 1175.34,
+    "text": "tuân theo và pút lên là xong",
+    "textdich": ""
+  },
+  {
+    "start": 1171.75,
+    "end": 1175.34,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1171.76,
+    "end": 1177.14,
+    "text": "và thứ hai là gì nhưng mà đấy là ưu điểm",
+    "textdich": ""
+  },
+  {
+    "start": 1175.33,
+    "end": 1177.14,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1175.34,
+    "end": 1181.34,
+    "text": "nhưng nhược điểm là gì Bạn không được",
+    "textdich": ""
+  },
+  {
+    "start": 1177.13,
+    "end": 1181.34,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1177.14,
+    "end": 1182.84,
+    "text": "quyền tự do như là bên cái cái VPS với",
+    "textdich": ""
+  },
+  {
+    "start": 1181.33,
+    "end": 1182.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1181.34,
+    "end": 1185.72,
+    "text": "VPS là bao nhiêu một cái máy tính của",
+    "textdich": ""
+  },
+  {
+    "start": 1182.83,
+    "end": 1185.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1182.84,
+    "end": 1189.38,
+    "text": "bạn bạn có thể là thích cài cắm thêm cái",
+    "textdich": ""
+  },
+  {
+    "start": 1185.71,
+    "end": 1189.38,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1185.72,
+    "end": 1191.86,
+    "text": "này bạn cài cắm Thế máy kia Bạn mở cửa",
+    "textdich": ""
+  },
+  {
+    "start": 1189.37,
+    "end": 1191.86,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1189.38,
+    "end": 1195.1,
+    "text": "đi thì bố cắt chỗ này",
+    "textdich": ""
+  },
+  {
+    "start": 1191.85,
+    "end": 1195.1,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1191.86,
+    "end": 1195.1,
+    "text": "mở đi",
+    "textdich": ""
+  },
+  {
+    "start": 1250.44,
+    "end": 1250.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1250.45,
+    "end": 1253.499,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1261.37,
+    "end": 1261.37,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1261.38,
+    "end": 1266.299,
+    "text": "rồi thì nhưng mà một cái nhược điểm của",
+    "textdich": ""
+  },
+  {
+    "start": 1263.95,
+    "end": 1266.299,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1263.96,
+    "end": 1269.2,
+    "text": "nó đó là bạn không thể nào mà tự do như",
+    "textdich": ""
+  },
+  {
+    "start": 1266.289,
+    "end": 1269.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1266.299,
+    "end": 1269.2,
+    "text": "ở trên VPS kia được",
+    "textdich": ""
+  },
+  {
+    "start": 1269.97,
+    "end": 1269.97,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1269.98,
+    "end": 1273.4,
+    "text": "quyền dislike",
+    "textdich": ""
+  },
+  {
+    "start": 1284.43,
+    "end": 1284.43,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1284.44,
+    "end": 1289.4,
+    "text": "biết đâu với mức độ đồ án của bạn đơn",
+    "textdich": ""
+  },
+  {
+    "start": 1286.87,
+    "end": 1289.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1286.88,
+    "end": 1290.86,
+    "text": "giản thì bạn có thể dùng gói free cũng",
+    "textdich": ""
+  },
+  {
+    "start": 1289.39,
+    "end": 1290.86,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1289.4,
+    "end": 1293.9,
+    "text": "được",
+    "textdich": ""
+  },
+  {
+    "start": 1290.85,
+    "end": 1293.9,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1290.86,
+    "end": 1295.96,
+    "text": "ba sơ qua về ba cái hướng này Bây giờ",
+    "textdich": ""
+  },
+  {
+    "start": 1293.89,
+    "end": 1295.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1293.9,
+    "end": 1298.4,
+    "text": "mình sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 1295.95,
+    "end": 1298.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1295.96,
+    "end": 1300.88,
+    "text": "demo một chút về ba cái này để các bạn",
+    "textdich": ""
+  },
+  {
+    "start": 1298.39,
+    "end": 1300.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1298.4,
+    "end": 1300.88,
+    "text": "nắm được nhé",
+    "textdich": ""
+  },
+  {
+    "start": 1310.649,
+    "end": 1310.649,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1310.659,
+    "end": 1315.679,
+    "text": "Ok thì đầu tiên là mình sẽ mở một cái",
+    "textdich": ""
+  },
+  {
+    "start": 1314.169,
+    "end": 1315.679,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1314.179,
+    "end": 1320.799,
+    "text": "ứng dụng mình có một ứng dụng quay thần",
+    "textdich": ""
+  },
+  {
+    "start": 1315.669,
+    "end": 1320.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1315.679,
+    "end": 1320.799,
+    "text": "nó đơn giản nha phát đơn giản",
+    "textdich": ""
+  },
+  {
+    "start": 1324.93,
+    "end": 1324.93,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1324.94,
+    "end": 1331.72,
+    "text": "thì bây giờ mình sẽ thế này nó rất đơn",
+    "textdich": ""
+  },
+  {
+    "start": 1328.21,
+    "end": 1331.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1328.22,
+    "end": 1331.72,
+    "text": "giản thôi nó không có gì cả chỉ có là",
+    "textdich": ""
+  },
+  {
+    "start": 1332.19,
+    "end": 1332.19,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1332.2,
+    "end": 1337.1,
+    "text": "chạy một cái ứng dụng web và khi mà mình",
+    "textdich": ""
+  },
+  {
+    "start": 1335.289,
+    "end": 1337.1,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1335.299,
+    "end": 1338.679,
+    "text": "truy cập vào trang chủ nó hiện lên câu",
+    "textdich": ""
+  },
+  {
+    "start": 1337.09,
+    "end": 1338.679,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1337.1,
+    "end": 1344.2,
+    "text": "là Hello world",
+    "textdich": ""
+  },
+  {
+    "start": 1338.669,
+    "end": 1344.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1338.679,
+    "end": 1344.2,
+    "text": "from kiểu như là ai",
+    "textdich": ""
+  },
+  {
+    "start": 1347.89,
+    "end": 1347.89,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1347.9,
+    "end": 1353.02,
+    "text": "Ok Tuy nhiên thì bạn thấy đấy Có Cái lỗi",
+    "textdich": ""
+  },
+  {
+    "start": 1350.89,
+    "end": 1353.02,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1350.9,
+    "end": 1353.02,
+    "text": "này",
+    "textdich": ""
+  },
+  {
+    "start": 1358.57,
+    "end": 1358.57,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1358.58,
+    "end": 1365.14,
+    "text": "Ok Như Vậy là phát đã cài xong",
+    "textdich": ""
+  },
+  {
+    "start": 1362.13,
+    "end": 1365.14,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1362.14,
+    "end": 1365.14,
+    "text": "flash",
+    "textdich": ""
+  },
+  {
+    "start": 1370.289,
+    "end": 1370.289,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1370.299,
+    "end": 1373.539,
+    "text": "sang website",
+    "textdich": ""
+  },
+  {
+    "start": 1375.63,
+    "end": 1375.63,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1375.64,
+    "end": 1381.28,
+    "text": "rồi bấm vào đây",
+    "textdich": ""
+  },
+  {
+    "start": 1378.33,
+    "end": 1381.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1378.34,
+    "end": 1386.02,
+    "text": "nó sẽ Mở Chrome lên",
+    "textdich": ""
+  },
+  {
+    "start": 1381.27,
+    "end": 1386.02,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1381.28,
+    "end": 1386.02,
+    "text": "rồi nó hiện cầu Hello world",
+    "textdich": ""
+  },
+  {
+    "start": 1387.029,
+    "end": 1387.029,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1387.039,
+    "end": 1393.02,
+    "text": "bây giờ mình sẽ demo một cách để chúng",
+    "textdich": ""
+  },
+  {
+    "start": 1389.35,
+    "end": 1393.02,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1389.36,
+    "end": 1395.12,
+    "text": "ta dùng rock nhá đó thì ở đây website",
+    "textdich": ""
+  },
+  {
+    "start": 1393.01,
+    "end": 1395.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1393.02,
+    "end": 1397.88,
+    "text": "chúng ta chỉ chạy được trên máy này và",
+    "textdich": ""
+  },
+  {
+    "start": 1395.11,
+    "end": 1397.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1395.12,
+    "end": 1400.179,
+    "text": "trên những cái máy mà cùng cái mạng lan",
+    "textdich": ""
+  },
+  {
+    "start": 1397.87,
+    "end": 1400.179,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1397.88,
+    "end": 1402.44,
+    "text": "với chúng ta Thôi thôi chúng ta muốn",
+    "textdich": ""
+  },
+  {
+    "start": 1400.169,
+    "end": 1402.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1400.179,
+    "end": 1405.22,
+    "text": "share cho người khác đầu tiên mình sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 1402.43,
+    "end": 1405.22,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1402.44,
+    "end": 1405.22,
+    "text": "share bằng phương án là dùng",
+    "textdich": ""
+  },
+  {
+    "start": 1408.33,
+    "end": 1408.33,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1408.34,
+    "end": 1415.64,
+    "text": "Thì bữa trước ở trên mì ai mình đã có",
+    "textdich": ""
+  },
+  {
+    "start": 1411.909,
+    "end": 1415.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1411.919,
+    "end": 1417.559,
+    "text": "một cái clip về Crop nhưng mà là ta",
+    "textdich": ""
+  },
+  {
+    "start": 1415.63,
+    "end": 1417.559,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1415.64,
+    "end": 1419.24,
+    "text": "không đăng ký không đăng nhập đó thì nó",
+    "textdich": ""
+  },
+  {
+    "start": 1417.549,
+    "end": 1419.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1417.559,
+    "end": 1420.98,
+    "text": "chỉ được khoảng độ 3 tiếng là nó reset",
+    "textdich": ""
+  },
+  {
+    "start": 1419.23,
+    "end": 1420.98,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1419.24,
+    "end": 1425.059,
+    "text": "lại chúng ta thôi Còn bây giờ mình sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 1420.97,
+    "end": 1425.059,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1420.98,
+    "end": 1427.179,
+    "text": "login và cái slogan của thằng Online in",
+    "textdich": ""
+  },
+  {
+    "start": 1425.049,
+    "end": 1427.179,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1425.059,
+    "end": 1427.179,
+    "text": "Online",
+    "textdich": ""
+  },
+  {
+    "start": 1430.35,
+    "end": 1430.35,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1430.36,
+    "end": 1436.419,
+    "text": "quên mật khẩu sau khi bạn log in vào",
+    "textdich": ""
+  },
+  {
+    "start": 1434.529,
+    "end": 1436.419,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1434.539,
+    "end": 1441.64,
+    "text": "luôn nhé thì nó sẽ có hiện ngôi một cái",
+    "textdich": ""
+  },
+  {
+    "start": 1436.409,
+    "end": 1441.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1436.419,
+    "end": 1441.64,
+    "text": "cửa sổ là setup and insta",
+    "textdich": ""
+  },
+  {
+    "start": 1442.289,
+    "end": 1442.289,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1442.299,
+    "end": 1447.38,
+    "text": "thì bạn Download cái file đấy về ở đây",
+    "textdich": ""
+  },
+  {
+    "start": 1445.63,
+    "end": 1447.38,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1445.64,
+    "end": 1450.7,
+    "text": "mình dùng Mac nên mình chọn là download",
+    "textdich": ""
+  },
+  {
+    "start": 1447.37,
+    "end": 1450.7,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1447.38,
+    "end": 1450.7,
+    "text": "format bấm nút",
+    "textdich": ""
+  },
+  {
+    "start": 1451.69,
+    "end": 1451.69,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1451.7,
+    "end": 1457.82,
+    "text": "nó sẽ ra một cái file",
+    "textdich": ""
+  },
+  {
+    "start": 1453.51,
+    "end": 1457.82,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1453.52,
+    "end": 1459.86,
+    "text": "Zip về như vậy đúng rồi thì mình sẽ chọn",
+    "textdich": ""
+  },
+  {
+    "start": 1457.81,
+    "end": 1459.86,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1457.82,
+    "end": 1463.1,
+    "text": "down thẳng vào cái folder mà mình vừa",
+    "textdich": ""
+  },
+  {
+    "start": 1459.85,
+    "end": 1463.1,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1459.86,
+    "end": 1463.1,
+    "text": "mới tạo",
+    "textdich": ""
+  },
+  {
+    "start": 1468.63,
+    "end": 1468.63,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1468.64,
+    "end": 1474.039,
+    "text": "Ok down xong thì bạn giải nén file này",
+    "textdich": ""
+  },
+  {
+    "start": 1471.909,
+    "end": 1474.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1471.919,
+    "end": 1474.039,
+    "text": "ra",
+    "textdich": ""
+  },
+  {
+    "start": 1474.789,
+    "end": 1474.789,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1474.799,
+    "end": 1477.64,
+    "text": "trên Mát",
+    "textdich": ""
+  },
+  {
+    "start": 1479.43,
+    "end": 1479.43,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1479.44,
+    "end": 1485.679,
+    "text": "ok rồi thứ hai bạn để ý cái mục thứ hai",
+    "textdich": ""
+  },
+  {
+    "start": 1483.01,
+    "end": 1485.679,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1483.02,
+    "end": 1485.679,
+    "text": "là một Connect",
+    "textdich": ""
+  },
+  {
+    "start": 1486.99,
+    "end": 1486.99,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1487.0,
+    "end": 1493.7,
+    "text": "mục thứ hai bạn để ý Đây là mục Connect",
+    "textdich": ""
+  },
+  {
+    "start": 1489.789,
+    "end": 1493.7,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1489.799,
+    "end": 1495.46,
+    "text": "do account thì bạn chạy một cái lệnh này",
+    "textdich": ""
+  },
+  {
+    "start": 1493.69,
+    "end": 1495.46,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1493.7,
+    "end": 1498.5,
+    "text": "để bạn",
+    "textdich": ""
+  },
+  {
+    "start": 1495.45,
+    "end": 1498.5,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1495.46,
+    "end": 1502.4,
+    "text": "s cái bàn khai báo là gì Cái cross này",
+    "textdich": ""
+  },
+  {
+    "start": 1498.49,
+    "end": 1502.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1498.5,
+    "end": 1505.48,
+    "text": "thì nó Linh vào cái tài khoản của tôi ở",
+    "textdich": ""
+  },
+  {
+    "start": 1502.39,
+    "end": 1505.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1502.4,
+    "end": 1507.44,
+    "text": "trên cái blogging đấy",
+    "textdich": ""
+  },
+  {
+    "start": 1505.47,
+    "end": 1507.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1505.48,
+    "end": 1509.78,
+    "text": "thông thường nó không biết là bạn sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 1507.43,
+    "end": 1509.78,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1507.44,
+    "end": 1513.98,
+    "text": "Linh vào tài khoản nào thì bạn chạy ra",
+    "textdich": ""
+  },
+  {
+    "start": 1509.77,
+    "end": 1513.98,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1509.78,
+    "end": 1513.98,
+    "text": "ngoài xong nó sẽ tạo ra một cái file ml",
+    "textdich": ""
+  },
+  {
+    "start": 1522.21,
+    "end": 1522.21,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1522.22,
+    "end": 1527.96,
+    "text": "và cái lệnh này thì cái cái phần này nó",
+    "textdich": ""
+  },
+  {
+    "start": 1525.13,
+    "end": 1527.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1525.14,
+    "end": 1530.2,
+    "text": "là skill nhé bạn Đừng có xe bạn này cho",
+    "textdich": ""
+  },
+  {
+    "start": 1527.95,
+    "end": 1530.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1527.96,
+    "end": 1530.2,
+    "text": "bất kỳ ai",
+    "textdich": ""
+  },
+  {
+    "start": 1542.909,
+    "end": 1542.909,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1542.919,
+    "end": 1549.1,
+    "text": "trên mạng",
+    "textdich": ""
+  },
+  {
+    "start": 1545.37,
+    "end": 1549.1,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1545.38,
+    "end": 1549.1,
+    "text": "như nào nhỉ Đây",
+    "textdich": ""
+  },
+  {
+    "start": 1555.21,
+    "end": 1555.21,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1555.22,
+    "end": 1558.4,
+    "text": "không cần nhé",
+    "textdich": ""
+  },
+  {
+    "start": 1563.83,
+    "end": 1563.83,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1563.84,
+    "end": 1568.48,
+    "text": "Ok đó nó đã được cái Token",
+    "textdich": ""
+  },
+  {
+    "start": 1574.59,
+    "end": 1574.59,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1574.6,
+    "end": 1577.9,
+    "text": "như bình thường",
+    "textdich": ""
+  },
+  {
+    "start": 1578.49,
+    "end": 1578.49,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1578.5,
+    "end": 1584.12,
+    "text": "thì bạn để ý này thằng flash nó đã mở",
+    "textdich": ""
+  },
+  {
+    "start": 1581.89,
+    "end": 1584.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1581.9,
+    "end": 1587.659,
+    "text": "một cái dịch vụ web ở cổng bao nhiêu",
+    "textdich": ""
+  },
+  {
+    "start": 1584.11,
+    "end": 1587.659,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1584.12,
+    "end": 1593.419,
+    "text": "cổng 5000 Thế thì bên này ta chỉ cần gõ",
+    "textdich": ""
+  },
+  {
+    "start": 1587.649,
+    "end": 1593.419,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1587.659,
+    "end": 1595.64,
+    "text": "lệnh là rõ http và 5000 đó để khai báo",
+    "textdich": ""
+  },
+  {
+    "start": 1593.409,
+    "end": 1595.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1593.419,
+    "end": 1599.24,
+    "text": "cho Ông rót biết là gì Tôi muốn mở một",
+    "textdich": ""
+  },
+  {
+    "start": 1595.63,
+    "end": 1599.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1595.64,
+    "end": 1600.62,
+    "text": "cái http Channel và cái cổng đít là cổng",
+    "textdich": ""
+  },
+  {
+    "start": 1599.23,
+    "end": 1600.62,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1599.24,
+    "end": 1601.84,
+    "text": "5.000",
+    "textdich": ""
+  },
+  {
+    "start": 1600.61,
+    "end": 1601.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1600.62,
+    "end": 1603.76,
+    "text": "enter",
+    "textdich": ""
+  },
+  {
+    "start": 1601.83,
+    "end": 1603.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1601.84,
+    "end": 1608.299,
+    "text": "của nó",
+    "textdich": ""
+  },
+  {
+    "start": 1603.75,
+    "end": 1608.299,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1603.76,
+    "end": 1608.299,
+    "text": "sinh ra một cái URL",
+    "textdich": ""
+  },
+  {
+    "start": 1615.029,
+    "end": 1615.029,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1615.039,
+    "end": 1621.82,
+    "text": "nó vẫn chả ra đúng là Hello world chính",
+    "textdich": ""
+  },
+  {
+    "start": 1618.61,
+    "end": 1621.82,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1618.62,
+    "end": 1621.82,
+    "text": "là cái website",
+    "textdich": ""
+  },
+  {
+    "start": 1626.31,
+    "end": 1626.31,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1626.32,
+    "end": 1635.14,
+    "text": "của bạn nhé Bây giờ mình",
+    "textdich": ""
+  },
+  {
+    "start": 1631.89,
+    "end": 1635.14,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1631.9,
+    "end": 1635.14,
+    "text": "chơi lại này",
+    "textdich": ""
+  },
+  {
+    "start": 1639.33,
+    "end": 1639.33,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1639.34,
+    "end": 1644.059,
+    "text": "mỗi lần bạn chạy lại nó sẽ đổi Còn nếu",
+    "textdich": ""
+  },
+  {
+    "start": 1642.49,
+    "end": 1644.059,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1642.5,
+    "end": 1648.64,
+    "text": "bạn không chạy lại máy bạn vẫn bật đấy",
+    "textdich": ""
+  },
+  {
+    "start": 1644.049,
+    "end": 1648.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1644.059,
+    "end": 1648.64,
+    "text": "thì nó vẫn cứ Ok ngon lành ở đấy nhá",
+    "textdich": ""
+  },
+  {
+    "start": 1649.11,
+    "end": 1649.11,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1649.12,
+    "end": 1656.84,
+    "text": "Nếu bạn không đăng ký Lộc A cao không",
+    "textdich": ""
+  },
+  {
+    "start": 1652.63,
+    "end": 1656.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1652.64,
+    "end": 1660.98,
+    "text": "log in thì nó sẽ đổi sau 3 tiếng nó bắt",
+    "textdich": ""
+  },
+  {
+    "start": 1656.83,
+    "end": 1660.98,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1656.84,
+    "end": 1663.32,
+    "text": "lại rồi nha Ok đó là rock thứ hai là VPS",
+    "textdich": ""
+  },
+  {
+    "start": 1660.97,
+    "end": 1663.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1660.98,
+    "end": 1665.96,
+    "text": "như mình vừa nói ở trong cái lúc mình",
+    "textdich": ""
+  },
+  {
+    "start": 1663.31,
+    "end": 1665.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1663.32,
+    "end": 1668.96,
+    "text": "mới Note đấy thì VPS là gì Bạn mua một",
+    "textdich": ""
+  },
+  {
+    "start": 1665.95,
+    "end": 1668.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1665.96,
+    "end": 1671.0,
+    "text": "cái máy chủ thuê một cái chủ ở tít xa",
+    "textdich": ""
+  },
+  {
+    "start": 1668.95,
+    "end": 1671.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1668.96,
+    "end": 1673.419,
+    "text": "xôi mù khơi Ở đó đúng không Và họ cho",
+    "textdich": ""
+  },
+  {
+    "start": 1670.99,
+    "end": 1673.419,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1671.0,
+    "end": 1677.62,
+    "text": "bạn user cho bạn",
+    "textdich": ""
+  },
+  {
+    "start": 1673.409,
+    "end": 1677.62,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1673.419,
+    "end": 1677.62,
+    "text": "IP cho bạn password",
+    "textdich": ""
+  },
+  {
+    "start": 1677.73,
+    "end": 1677.73,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1677.74,
+    "end": 1686.38,
+    "text": "và được một công ty là công ty YG VPS",
+    "textdich": ""
+  },
+  {
+    "start": 1680.769,
+    "end": 1686.38,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1680.779,
+    "end": 1686.38,
+    "text": "cho cái IP này và bây giờ rút và",
+    "textdich": ""
+  },
+  {
+    "start": 1690.269,
+    "end": 1690.269,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1690.279,
+    "end": 1698.32,
+    "text": "password.vn thì bên này sẽ có các cái",
+    "textdich": ""
+  },
+  {
+    "start": 1693.81,
+    "end": 1698.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1693.82,
+    "end": 1701.62,
+    "text": "VPS cloud này Việt Nam giá rẻ này",
+    "textdich": ""
+  },
+  {
+    "start": 1698.31,
+    "end": 1701.62,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1698.32,
+    "end": 1701.62,
+    "text": "75.000 một tháng",
+    "textdich": ""
+  },
+  {
+    "start": 1706.83,
+    "end": 1706.83,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1706.84,
+    "end": 1711.86,
+    "text": "100.000 một tháng cho anh rất nhiều gói",
+    "textdich": ""
+  },
+  {
+    "start": 1708.73,
+    "end": 1711.86,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1708.74,
+    "end": 1714.62,
+    "text": "ở đây nhé bạn có thể là lựa chọn gói nào",
+    "textdich": ""
+  },
+  {
+    "start": 1711.85,
+    "end": 1714.62,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1711.86,
+    "end": 1716.6,
+    "text": "phù hợp với mình rồi bạn có thể chọn",
+    "textdich": ""
+  },
+  {
+    "start": 1714.61,
+    "end": 1716.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1714.62,
+    "end": 1719.419,
+    "text": "được cái gói nào phù hợp mình nhất tùy",
+    "textdich": ""
+  },
+  {
+    "start": 1716.59,
+    "end": 1719.419,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1716.6,
+    "end": 1723.88,
+    "text": "vào nhu cầu sử dụng cũng như là cái số",
+    "textdich": ""
+  },
+  {
+    "start": 1719.409,
+    "end": 1723.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1719.419,
+    "end": 1723.88,
+    "text": "lượng co số lượng ram Vân Vân",
+    "textdich": ""
+  },
+  {
+    "start": 1725.31,
+    "end": 1725.31,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1725.32,
+    "end": 1729.88,
+    "text": "ở trên này thì họ sẽ cung cấp cho bạn",
+    "textdich": ""
+  },
+  {
+    "start": 1728.35,
+    "end": 1729.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1728.36,
+    "end": 1733.059,
+    "text": "một cái",
+    "textdich": ""
+  },
+  {
+    "start": 1729.87,
+    "end": 1733.059,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1729.88,
+    "end": 1736.76,
+    "text": "IP một cái",
+    "textdich": ""
+  },
+  {
+    "start": 1733.049,
+    "end": 1736.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1733.059,
+    "end": 1737.62,
+    "text": "password thì mình sẽ dùng một cái phần",
+    "textdich": ""
+  },
+  {
+    "start": 1736.75,
+    "end": 1737.62,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1736.76,
+    "end": 1741.039,
+    "text": "mềm",
+    "textdich": ""
+  },
+  {
+    "start": 1737.61,
+    "end": 1741.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1737.62,
+    "end": 1743.539,
+    "text": "truy cập từ xa SH đây",
+    "textdich": ""
+  },
+  {
+    "start": 1741.029,
+    "end": 1743.539,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1741.039,
+    "end": 1746.559,
+    "text": "hoặc là bạn Windows bạn dùng luôn cái",
+    "textdich": ""
+  },
+  {
+    "start": 1743.529,
+    "end": 1746.559,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1743.539,
+    "end": 1746.559,
+    "text": "Remote Desktop",
+    "textdich": ""
+  },
+  {
+    "start": 1748.289,
+    "end": 1748.289,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1748.299,
+    "end": 1754.72,
+    "text": "thông tin mà IP trên Facebook này rồi",
+    "textdich": ""
+  },
+  {
+    "start": 1752.049,
+    "end": 1754.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1752.059,
+    "end": 1754.72,
+    "text": "mình chỉ thích",
+    "textdich": ""
+  },
+  {
+    "start": 1759.21,
+    "end": 1759.21,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1759.22,
+    "end": 1764.779,
+    "text": "sau khi bạn nhập thông tin vào nó sẽ cho",
+    "textdich": ""
+  },
+  {
+    "start": 1761.83,
+    "end": 1764.779,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1761.84,
+    "end": 1766.039,
+    "text": "bạn một cái cửa sổ họ lệnh như là bạn",
+    "textdich": ""
+  },
+  {
+    "start": 1764.769,
+    "end": 1766.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1764.779,
+    "end": 1768.64,
+    "text": "đang gõ lệnh ở trên máy tính của bạn",
+    "textdich": ""
+  },
+  {
+    "start": 1766.029,
+    "end": 1768.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1766.039,
+    "end": 1771.74,
+    "text": "thôi Mình có thể là",
+    "textdich": ""
+  },
+  {
+    "start": 1768.63,
+    "end": 1771.74,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1768.64,
+    "end": 1776.08,
+    "text": "LS để mình xem thư mục có gì ở trong rồi",
+    "textdich": ""
+  },
+  {
+    "start": 1771.73,
+    "end": 1776.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1771.74,
+    "end": 1776.08,
+    "text": "thì mình có thể tạo thư mục",
+    "textdich": ""
+  },
+  {
+    "start": 1784.47,
+    "end": 1784.47,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1784.48,
+    "end": 1789.399,
+    "text": "thì mình hoàn toàn có quyền mình thao",
+    "textdich": ""
+  },
+  {
+    "start": 1787.45,
+    "end": 1789.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1787.46,
+    "end": 1792.559,
+    "text": "tác và mình",
+    "textdich": ""
+  },
+  {
+    "start": 1789.389,
+    "end": 1792.559,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1789.399,
+    "end": 1795.44,
+    "text": "làm việc trên cái Server này Thế thì bây",
+    "textdich": ""
+  },
+  {
+    "start": 1792.549,
+    "end": 1795.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1792.559,
+    "end": 1797.559,
+    "text": "giờ chúng ta sẽ phải cài cắm cái gì có",
+    "textdich": ""
+  },
+  {
+    "start": 1795.43,
+    "end": 1797.559,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1795.44,
+    "end": 1797.559,
+    "text": "chưa",
+    "textdich": ""
+  },
+  {
+    "start": 1798.33,
+    "end": 1798.33,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1798.34,
+    "end": 1806.0,
+    "text": "2.7.5 nên mình sẽ cài 3 phần 3 cài gif",
+    "textdich": ""
+  },
+  {
+    "start": 1803.13,
+    "end": 1806.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1803.14,
+    "end": 1808.76,
+    "text": "thư viện liên quan trên này mình sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 1805.99,
+    "end": 1808.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1806.0,
+    "end": 1811.94,
+    "text": "không Demo thời gian cài mất cả tiếng",
+    "textdich": ""
+  },
+  {
+    "start": 1808.75,
+    "end": 1811.94,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1808.76,
+    "end": 1813.1,
+    "text": "đồng hồ ấy nha Tóm lại là sau khi chúng",
+    "textdich": ""
+  },
+  {
+    "start": 1811.93,
+    "end": 1813.1,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1811.94,
+    "end": 1815.14,
+    "text": "ta",
+    "textdich": ""
+  },
+  {
+    "start": 1813.09,
+    "end": 1815.14,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1813.1,
+    "end": 1817.539,
+    "text": "cài xong",
+    "textdich": ""
+  },
+  {
+    "start": 1815.13,
+    "end": 1817.539,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1815.14,
+    "end": 1821.0,
+    "text": "thì chúng ta sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 1817.529,
+    "end": 1821.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1817.539,
+    "end": 1824.919,
+    "text": "có một cái server bây giờ chúng ta sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 1820.99,
+    "end": 1824.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1821.0,
+    "end": 1824.919,
+    "text": "chạy được trên này thoải mái",
+    "textdich": ""
+  },
+  {
+    "start": 1827.61,
+    "end": 1827.61,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1827.62,
+    "end": 1832.1,
+    "text": "làm sao mình đưa được cái ứng dụng Flash",
+    "textdich": ""
+  },
+  {
+    "start": 1830.289,
+    "end": 1832.1,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1830.299,
+    "end": 1836.899,
+    "text": "lên trên đó thì sẽ có một phần mềm khác",
+    "textdich": ""
+  },
+  {
+    "start": 1832.09,
+    "end": 1836.899,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1832.1,
+    "end": 1836.899,
+    "text": "ở đây mình hay dùng thôi là file",
+    "textdich": ""
+  },
+  {
+    "start": 1836.95,
+    "end": 1836.95,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1836.96,
+    "end": 1843.86,
+    "text": "đó Nó là một phần mềm để bạn upload cái",
+    "textdich": ""
+  },
+  {
+    "start": 1841.21,
+    "end": 1843.86,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1841.22,
+    "end": 1845.84,
+    "text": "file lên trên cái server hiện đây bạn",
+    "textdich": ""
+  },
+  {
+    "start": 1843.85,
+    "end": 1845.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1843.86,
+    "end": 1848.419,
+    "text": "thấy không bạn Nhập vào đây là hốt này",
+    "textdich": ""
+  },
+  {
+    "start": 1845.83,
+    "end": 1848.419,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1845.84,
+    "end": 1850.84,
+    "text": "là gì chính là cái IP vừa nãy mình vừa",
+    "textdich": ""
+  },
+  {
+    "start": 1848.409,
+    "end": 1850.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1848.419,
+    "end": 1850.84,
+    "text": "show bạn ấy",
+    "textdich": ""
+  },
+  {
+    "start": 1851.789,
+    "end": 1851.789,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1851.799,
+    "end": 1854.799,
+    "text": "103s",
+    "textdich": ""
+  },
+  {
+    "start": 1860.549,
+    "end": 1860.549,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1860.559,
+    "end": 1866.74,
+    "text": "file từ bên trái này lên bên phải đó và",
+    "textdich": ""
+  },
+  {
+    "start": 1865.09,
+    "end": 1866.74,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1865.1,
+    "end": 1871.46,
+    "text": "sau khi upload được rồi bạn lại mở cái",
+    "textdich": ""
+  },
+  {
+    "start": 1866.73,
+    "end": 1871.46,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1866.74,
+    "end": 1874.899,
+    "text": "Tablet ra Bạn gõ lệnh chạy như là cái",
+    "textdich": ""
+  },
+  {
+    "start": 1871.45,
+    "end": 1874.899,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1871.46,
+    "end": 1874.899,
+    "text": "ruột cốt đang ở máy bạn đúng không",
+    "textdich": ""
+  },
+  {
+    "start": 1875.789,
+    "end": 1875.789,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1875.799,
+    "end": 1880.899,
+    "text": "để mô sâu nhé vì nó mất thời gian thì",
+    "textdich": ""
+  },
+  {
+    "start": 1879.25,
+    "end": 1880.899,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1879.26,
+    "end": 1884.72,
+    "text": "bạn nào mà",
+    "textdich": ""
+  },
+  {
+    "start": 1880.889,
+    "end": 1884.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1880.899,
+    "end": 1887.779,
+    "text": "mua VPS Rồi cài cắm vào có vấn đề thì có",
+    "textdich": ""
+  },
+  {
+    "start": 1884.71,
+    "end": 1887.779,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1884.72,
+    "end": 1889.88,
+    "text": "thể là up lên hội anh em thích ăn mì A",
+    "textdich": ""
+  },
+  {
+    "start": 1887.769,
+    "end": 1889.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1887.779,
+    "end": 1894.52,
+    "text": "để mình giải đáp Tuy nhiên thì nếu bạn",
+    "textdich": ""
+  },
+  {
+    "start": 1889.87,
+    "end": 1894.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1889.88,
+    "end": 1894.52,
+    "text": "mà dùng VPS Windows",
+    "textdich": ""
+  },
+  {
+    "start": 1894.99,
+    "end": 1894.99,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1895.0,
+    "end": 1902.48,
+    "text": "Còn nếu mà dùng VPS mà",
+    "textdich": ""
+  },
+  {
+    "start": 1897.93,
+    "end": 1902.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1897.94,
+    "end": 1906.2,
+    "text": "Linux thì sẽ cần phải hỏi cái đấy nhé",
+    "textdich": ""
+  },
+  {
+    "start": 1902.47,
+    "end": 1906.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1902.48,
+    "end": 1908.659,
+    "text": "rồi đó là phương án tiếp theo là về VPS",
+    "textdich": ""
+  },
+  {
+    "start": 1906.19,
+    "end": 1908.659,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1906.2,
+    "end": 1913.539,
+    "text": "Còn bây giờ là phương án thứ ba là về Up",
+    "textdich": ""
+  },
+  {
+    "start": 1908.649,
+    "end": 1913.539,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1908.659,
+    "end": 1913.539,
+    "text": "lên các cái cloud ram",
+    "textdich": ""
+  },
+  {
+    "start": 1913.769,
+    "end": 1913.769,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1913.779,
+    "end": 1918.7,
+    "text": "thì trước đây thì mình dùng hay dùng",
+    "textdich": ""
+  },
+  {
+    "start": 1916.87,
+    "end": 1918.7,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1916.88,
+    "end": 1921.2,
+    "text": "Hero cum",
+    "textdich": ""
+  },
+  {
+    "start": 1918.69,
+    "end": 1921.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1918.7,
+    "end": 1924.26,
+    "text": "nhưng mà gần đây thì herocu nó có cái",
+    "textdich": ""
+  },
+  {
+    "start": 1921.19,
+    "end": 1924.26,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1921.2,
+    "end": 1926.679,
+    "text": "điểm yếu là nó bắt phải nhập thẻ tín",
+    "textdich": ""
+  },
+  {
+    "start": 1924.25,
+    "end": 1926.679,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1924.26,
+    "end": 1928.76,
+    "text": "dụng mới cho trường dùng Mặc dù mình",
+    "textdich": ""
+  },
+  {
+    "start": 1926.669,
+    "end": 1928.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1926.679,
+    "end": 1930.74,
+    "text": "dùng free nhưng vẫn bắt được thẻ tín",
+    "textdich": ""
+  },
+  {
+    "start": 1928.75,
+    "end": 1930.74,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1928.76,
+    "end": 1934.299,
+    "text": "dụng thì mới cho dùng nên là mình bỏ nó",
+    "textdich": ""
+  },
+  {
+    "start": 1930.73,
+    "end": 1934.299,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1930.74,
+    "end": 1937.1,
+    "text": "mình dùng cái dạng vừa sale",
+    "textdich": ""
+  },
+  {
+    "start": 1934.289,
+    "end": 1937.1,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1934.299,
+    "end": 1939.02,
+    "text": "Thực ra là bạn một số bạn hỏi vì sao",
+    "textdich": ""
+  },
+  {
+    "start": 1937.09,
+    "end": 1939.02,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1937.1,
+    "end": 1940.059,
+    "text": "mình tìm ra Versace thì vẫn sale mình gõ",
+    "textdich": ""
+  },
+  {
+    "start": 1939.01,
+    "end": 1940.059,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1939.02,
+    "end": 1943.72,
+    "text": "là",
+    "textdich": ""
+  },
+  {
+    "start": 1940.049,
+    "end": 1943.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1940.059,
+    "end": 1943.72,
+    "text": "Hero cu Altis",
+    "textdich": ""
+  },
+  {
+    "start": 1951.49,
+    "end": 1951.49,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1951.5,
+    "end": 1955.82,
+    "text": "cái việc tạo tài khoản trên này rất đơn",
+    "textdich": ""
+  },
+  {
+    "start": 1953.169,
+    "end": 1955.82,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1953.179,
+    "end": 1958.52,
+    "text": "giản bạn chắc là cái việc tạo tài khoản",
+    "textdich": ""
+  },
+  {
+    "start": 1955.81,
+    "end": 1958.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1955.82,
+    "end": 1962.02,
+    "text": "thì bạn quen rồi nhưng ở đây nó hay là",
+    "textdich": ""
+  },
+  {
+    "start": 1958.51,
+    "end": 1962.02,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1958.52,
+    "end": 1962.02,
+    "text": "cho bạn dùng",
+    "textdich": ""
+  },
+  {
+    "start": 1963.389,
+    "end": 1963.389,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1963.399,
+    "end": 1971.08,
+    "text": "và trong phần dốc của họ này họ nêu rất",
+    "textdich": ""
+  },
+  {
+    "start": 1967.09,
+    "end": 1971.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1967.1,
+    "end": 1971.08,
+    "text": "rõ cách chúng ta bịp",
+    "textdich": ""
+  },
+  {
+    "start": 1979.57,
+    "end": 1979.57,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1979.58,
+    "end": 1985.6,
+    "text": "ở đây thì mình sẽ hướng dẫn các bạn sử",
+    "textdich": ""
+  },
+  {
+    "start": 1982.63,
+    "end": 1985.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1982.64,
+    "end": 1985.6,
+    "text": "dụng cái",
+    "textdich": ""
+  },
+  {
+    "start": 1987.029,
+    "end": 1987.029,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1987.039,
+    "end": 1993.399,
+    "text": "CO2",
+    "textdich": ""
+  },
+  {
+    "start": 1988.71,
+    "end": 1993.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1988.72,
+    "end": 1993.399,
+    "text": "để chúng ta Push cái code",
+    "textdich": ""
+  },
+  {
+    "start": 1995.61,
+    "end": 1995.61,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1995.62,
+    "end": 2001.62,
+    "text": "flash lên trên cái",
+    "textdich": ""
+  },
+  {
+    "start": 1998.49,
+    "end": 2001.62,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1998.5,
+    "end": 2003.7,
+    "text": "cái cái",
+    "textdich": ""
+  },
+  {
+    "start": 2001.61,
+    "end": 2003.7,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2001.62,
+    "end": 2005.159,
+    "text": "rồi thì bạn thấy không mà sau khi mình",
+    "textdich": ""
+  },
+  {
+    "start": 2003.69,
+    "end": 2005.159,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2003.7,
+    "end": 2008.799,
+    "text": "mình vào cái",
+    "textdich": ""
+  },
+  {
+    "start": 2005.149,
+    "end": 2008.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2005.159,
+    "end": 2011.559,
+    "text": "link.com là chéo dốc siêu oai thì nó cho",
+    "textdich": ""
+  },
+  {
+    "start": 2008.789,
+    "end": 2011.559,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2008.799,
+    "end": 2017.22,
+    "text": "bằng cách cài là cái CO2 đó Bạn gõ lệnh",
+    "textdich": ""
+  },
+  {
+    "start": 2011.549,
+    "end": 2017.22,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2011.559,
+    "end": 2017.22,
+    "text": "npm chữ y - g vcl",
+    "textdich": ""
+  },
+  {
+    "start": 2017.269,
+    "end": 2017.269,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2017.279,
+    "end": 2024.279,
+    "text": "xong rồi thì chúng ta đã có thể vớt sell",
+    "textdich": ""
+  },
+  {
+    "start": 2020.13,
+    "end": 2024.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2020.14,
+    "end": 2026.799,
+    "text": "có cái nó ghi là packit contribul là",
+    "textdich": ""
+  },
+  {
+    "start": 2024.269,
+    "end": 2026.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2024.279,
+    "end": 2029.26,
+    "text": "xong rồi ok Bây giờ chúng ta sẽ làm một",
+    "textdich": ""
+  },
+  {
+    "start": 2026.789,
+    "end": 2029.26,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2026.799,
+    "end": 2030.84,
+    "text": "cái việc hai việc việc đầu tiên là chúng",
+    "textdich": ""
+  },
+  {
+    "start": 2029.25,
+    "end": 2030.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2029.26,
+    "end": 2033.159,
+    "text": "ta phải cho cái thằng",
+    "textdich": ""
+  },
+  {
+    "start": 2030.83,
+    "end": 2033.159,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2030.84,
+    "end": 2035.5,
+    "text": "Versace nó biết là chúng ta cần cài",
+    "textdich": ""
+  },
+  {
+    "start": 2033.149,
+    "end": 2035.5,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2033.159,
+    "end": 2037.539,
+    "text": "những cái thư viện gì ở trong cái chương",
+    "textdich": ""
+  },
+  {
+    "start": 2035.49,
+    "end": 2037.539,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2035.5,
+    "end": 2040.32,
+    "text": "trình Python này đúng không thì chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 2037.529,
+    "end": 2040.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2037.539,
+    "end": 2040.32,
+    "text": "sẽ lưu một cái file",
+    "textdich": ""
+  },
+  {
+    "start": 2040.61,
+    "end": 2040.61,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2040.62,
+    "end": 2047.019,
+    "text": "mình chấm tit có dấu SC nhá thì rõ ràng",
+    "textdich": ""
+  },
+  {
+    "start": 2045.09,
+    "end": 2047.019,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2045.1,
+    "end": 2048.7,
+    "text": "là chúng ta ở đây chúng ta Gì ta cần",
+    "textdich": ""
+  },
+  {
+    "start": 2047.009,
+    "end": 2048.7,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2047.019,
+    "end": 2051.52,
+    "text": "những cái gì nhỉ ta cần có flash thôi",
+    "textdich": ""
+  },
+  {
+    "start": 2048.69,
+    "end": 2051.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2048.7,
+    "end": 2054.0,
+    "text": "Chẳng có gì cả Còn tất nhiên trong thực",
+    "textdich": ""
+  },
+  {
+    "start": 2051.51,
+    "end": 2054.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2051.52,
+    "end": 2057.46,
+    "text": "tế khi bạn làm việc với",
+    "textdich": ""
+  },
+  {
+    "start": 2053.99,
+    "end": 2057.46,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2054.0,
+    "end": 2062.28,
+    "text": "một cái ứng dụng Flash mà thực tế ví dụ",
+    "textdich": ""
+  },
+  {
+    "start": 2057.45,
+    "end": 2062.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2057.46,
+    "end": 2062.28,
+    "text": "bạn cần đọc file CSV bạn cài trên fandas",
+    "textdich": ""
+  },
+  {
+    "start": 2063.589,
+    "end": 2063.589,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2063.599,
+    "end": 2070.419,
+    "text": "Còn nếu bạn là muốn cài thêm thư viện 53",
+    "textdich": ""
+  },
+  {
+    "start": 2068.01,
+    "end": 2070.419,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2068.02,
+    "end": 2073.78,
+    "text": "ở đây nhưng trong này mình ví dụ là mình",
+    "textdich": ""
+  },
+  {
+    "start": 2070.409,
+    "end": 2073.78,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2070.419,
+    "end": 2078.639,
+    "text": "chỉ cài mỗi flash thôi nhé",
+    "textdich": ""
+  },
+  {
+    "start": 2073.77,
+    "end": 2078.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2073.78,
+    "end": 2081.599,
+    "text": "ok rồi thì có flash rồi người thứ hai là",
+    "textdich": ""
+  },
+  {
+    "start": 2078.629,
+    "end": 2081.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2078.639,
+    "end": 2081.599,
+    "text": "chúng ta tạo ra một cái file",
+    "textdich": ""
+  },
+  {
+    "start": 2082.73,
+    "end": 2082.73,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2082.74,
+    "end": 2087.24,
+    "text": "Versace",
+    "textdich": ""
+  },
+  {
+    "start": 2084.45,
+    "end": 2087.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2084.46,
+    "end": 2091.06,
+    "text": "chấm dưới sân",
+    "textdich": ""
+  },
+  {
+    "start": 2087.23,
+    "end": 2091.06,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2087.24,
+    "end": 2093.7,
+    "text": "ai để làm gì Chúng ta khai báo cho vừa",
+    "textdich": ""
+  },
+  {
+    "start": 2091.05,
+    "end": 2093.7,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2091.06,
+    "end": 2095.08,
+    "text": "xem biết về cái ứng dụng của chúng ta ví",
+    "textdich": ""
+  },
+  {
+    "start": 2093.69,
+    "end": 2095.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2093.7,
+    "end": 2098.26,
+    "text": "dụ ở đây là cái version 2 mình Kệ nó",
+    "textdich": ""
+  },
+  {
+    "start": 2095.07,
+    "end": 2098.26,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2095.08,
+    "end": 2100.44,
+    "text": "Bill ở đây cái ruột của chúng ta là file",
+    "textdich": ""
+  },
+  {
+    "start": 2098.25,
+    "end": 2100.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2098.26,
+    "end": 2100.44,
+    "text": "gì",
+    "textdich": ""
+  },
+  {
+    "start": 2100.49,
+    "end": 2100.49,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2100.5,
+    "end": 2106.02,
+    "text": "main.pear Bill gì vừa sẹo icon để nó",
+    "textdich": ""
+  },
+  {
+    "start": 2103.65,
+    "end": 2106.02,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2103.66,
+    "end": 2109.54,
+    "text": "biết đây là ngôn ngữ bay thần và",
+    "textdich": ""
+  },
+  {
+    "start": 2106.01,
+    "end": 2109.54,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2106.02,
+    "end": 2112.3,
+    "text": "chạy và đấy mình bị sai cái file Versace",
+    "textdich": ""
+  },
+  {
+    "start": 2109.53,
+    "end": 2112.3,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2109.54,
+    "end": 2114.18,
+    "text": "chấm json một chút thì cái lệnh rút và",
+    "textdich": ""
+  },
+  {
+    "start": 2112.29,
+    "end": 2114.18,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2112.3,
+    "end": 2116.74,
+    "text": "lệnh cũ rồi bây giờ họ dùng",
+    "textdich": ""
+  },
+  {
+    "start": 2114.17,
+    "end": 2116.74,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2114.18,
+    "end": 2119.7,
+    "text": "ở trên vẫn như cũ này ở dưới mình sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 2116.73,
+    "end": 2119.7,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2116.74,
+    "end": 2122.26,
+    "text": "dùng lệnh các cái",
+    "textdich": ""
+  },
+  {
+    "start": 2119.69,
+    "end": 2122.26,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2119.7,
+    "end": 2125.74,
+    "text": "đường dẫn mà khi người dùng gõ ở trên",
+    "textdich": ""
+  },
+  {
+    "start": 2122.25,
+    "end": 2125.74,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2122.26,
+    "end": 2128.579,
+    "text": "cái URL thì mình sẽ rút về cái gì ví dụ",
+    "textdich": ""
+  },
+  {
+    "start": 2125.73,
+    "end": 2128.579,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2125.74,
+    "end": 2131.68,
+    "text": "đây mình gõ là khi người dùng Gõ cái",
+    "textdich": ""
+  },
+  {
+    "start": 2128.569,
+    "end": 2131.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2128.579,
+    "end": 2133.599,
+    "text": "chéo thì thư mục gốc ấy thì mình rút vào",
+    "textdich": ""
+  },
+  {
+    "start": 2131.67,
+    "end": 2133.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2131.68,
+    "end": 2137.98,
+    "text": "thư mục cái mục gốc của cái web của mình",
+    "textdich": ""
+  },
+  {
+    "start": 2133.589,
+    "end": 2137.98,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2133.599,
+    "end": 2141.359,
+    "text": "thế Còn khi mà người dùng gõ a b c mình",
+    "textdich": ""
+  },
+  {
+    "start": 2137.97,
+    "end": 2141.359,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2137.98,
+    "end": 2141.359,
+    "text": "cũng rút vào thư mục gốc là rút về file",
+    "textdich": ""
+  },
+  {
+    "start": 2142.49,
+    "end": 2142.49,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2142.5,
+    "end": 2147.78,
+    "text": "đó được chưa và sau đó mình gõ lệnh gì",
+    "textdich": ""
+  },
+  {
+    "start": 2149.67,
+    "end": 2149.67,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2149.68,
+    "end": 2154.92,
+    "text": "nó sẽ tự động nó hiển cho mình đó",
+    "textdich": ""
+  },
+  {
+    "start": 2152.03,
+    "end": 2154.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2152.04,
+    "end": 2158.02,
+    "text": "nó hỏi là gì",
+    "textdich": ""
+  },
+  {
+    "start": 2154.91,
+    "end": 2158.02,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2154.92,
+    "end": 2160.74,
+    "text": "login to vừa Cell sử dụng huyết áp huyết",
+    "textdich": ""
+  },
+  {
+    "start": 2158.01,
+    "end": 2160.74,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2158.02,
+    "end": 2164.14,
+    "text": "áp hay gì đó mình dùng getup",
+    "textdich": ""
+  },
+  {
+    "start": 2160.73,
+    "end": 2164.14,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2160.74,
+    "end": 2166.8,
+    "text": "nó hiện lên một cái cửa sổ cho mình nhập",
+    "textdich": ""
+  },
+  {
+    "start": 2164.13,
+    "end": 2166.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2164.14,
+    "end": 2169.8,
+    "text": "thông tin đăng nhập",
+    "textdich": ""
+  },
+  {
+    "start": 2166.79,
+    "end": 2169.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2166.8,
+    "end": 2169.8,
+    "text": "rồi",
+    "textdich": ""
+  },
+  {
+    "start": 2172.13,
+    "end": 2172.13,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2172.14,
+    "end": 2180.52,
+    "text": "đóng vào đây nó hỏi tiếp này mình có",
+    "textdich": ""
+  },
+  {
+    "start": 2176.25,
+    "end": 2180.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2176.26,
+    "end": 2180.52,
+    "text": "muốn deployd cái projects",
+    "textdich": ""
+  },
+  {
+    "start": 2211.01,
+    "end": 2211.01,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2211.02,
+    "end": 2218.339,
+    "text": "thư mục nào sự cố để ở đâu để ở đây",
+    "textdich": ""
+  },
+  {
+    "start": 2214.65,
+    "end": 2218.339,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2214.66,
+    "end": 2221.339,
+    "text": "enter rồi Nó đang upload",
+    "textdich": ""
+  },
+  {
+    "start": 2218.329,
+    "end": 2221.339,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2218.339,
+    "end": 2221.339,
+    "text": "scotlands",
+    "textdich": ""
+  },
+  {
+    "start": 2226.01,
+    "end": 2226.01,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2226.02,
+    "end": 2231.96,
+    "text": "Ok nó hiểu này nó đã đưa lên production",
+    "textdich": ""
+  },
+  {
+    "start": 2234.29,
+    "end": 2234.29,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2234.3,
+    "end": 2238.619,
+    "text": "app đó thì bạn giống vừa nãy bạn dùng",
+    "textdich": ""
+  },
+  {
+    "start": 2236.97,
+    "end": 2238.619,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2236.98,
+    "end": 2242.52,
+    "text": "cái",
+    "textdich": ""
+  },
+  {
+    "start": 2238.609,
+    "end": 2242.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2238.619,
+    "end": 2242.52,
+    "text": "bạn dùng cái cái cái cái",
+    "textdich": ""
+  },
+  {
+    "start": 2243.41,
+    "end": 2243.41,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2243.42,
+    "end": 2248.64,
+    "text": "rót nó có bạn cái URL thì ở đây nó cho",
+    "textdich": ""
+  },
+  {
+    "start": 2246.51,
+    "end": 2248.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2246.52,
+    "end": 2248.64,
+    "text": "bạn",
+    "textdich": ""
+  },
+  {
+    "start": 2248.69,
+    "end": 2248.69,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2248.7,
+    "end": 2253.859,
+    "text": "Mình sửa code thì mình gõ lệnh là",
+    "textdich": ""
+  },
+  {
+    "start": 2251.31,
+    "end": 2253.859,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2251.32,
+    "end": 2253.859,
+    "text": "Versace",
+    "textdich": ""
+  },
+  {
+    "start": 2260.15,
+    "end": 2260.15,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2260.16,
+    "end": 2268.96,
+    "text": "Và nếu mình gõ gạch chéo ABC",
+    "textdich": ""
+  },
+  {
+    "start": 2263.75,
+    "end": 2268.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2263.76,
+    "end": 2268.96,
+    "text": "thì nó sẽ có câu là Hello world ABC",
+    "textdich": ""
+  },
+  {
+    "start": 2278.3,
+    "end": 2278.3,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2278.31,
+    "end": 2283.9,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2280.53,
+    "end": 2283.9,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2280.54,
+    "end": 2286.619,
+    "text": "rút khác nhau trong này đó là một cái mà",
+    "textdich": ""
+  },
+  {
+    "start": 2283.89,
+    "end": 2286.619,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2283.9,
+    "end": 2286.619,
+    "text": "chúng ta vừa xem",
+    "textdich": ""
+  },
+  {
+    "start": 2287.03,
+    "end": 2287.03,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2287.04,
+    "end": 2292.42,
+    "text": "chuyển cái ứng dụng của chúng ta lên",
+    "textdich": ""
+  },
+  {
+    "start": 2290.069,
+    "end": 2292.42,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2290.079,
+    "end": 2294.42,
+    "text": "chạy ở trên một cái cloud app plasphone",
+    "textdich": ""
+  },
+  {
+    "start": 2292.41,
+    "end": 2294.42,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2292.42,
+    "end": 2297.28,
+    "text": "và",
+    "textdich": ""
+  },
+  {
+    "start": 2294.41,
+    "end": 2297.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2294.42,
+    "end": 2299.02,
+    "text": "bạn có thể gửi cái link này cho thầy cô",
+    "textdich": ""
+  },
+  {
+    "start": 2297.27,
+    "end": 2299.02,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2297.28,
+    "end": 2301.54,
+    "text": "hay cho người khác để sử dụng ứng dụng",
+    "textdich": ""
+  },
+  {
+    "start": 2299.01,
+    "end": 2301.54,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2299.02,
+    "end": 2303.4,
+    "text": "của chúng ta và rất là ổn định trên này",
+    "textdich": ""
+  },
+  {
+    "start": 2301.53,
+    "end": 2303.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2301.54,
+    "end": 2305.44,
+    "text": "tất nhiên Đây chỉ là những bước cơ bản",
+    "textdich": ""
+  },
+  {
+    "start": 2303.39,
+    "end": 2305.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2303.4,
+    "end": 2308.14,
+    "text": "nhất để upload một cái ứng dụng lên trên",
+    "textdich": ""
+  },
+  {
+    "start": 2305.43,
+    "end": 2308.14,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2305.44,
+    "end": 2309.76,
+    "text": "cái Versace này thôi còn rất nhiều những",
+    "textdich": ""
+  },
+  {
+    "start": 2308.13,
+    "end": 2309.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2308.14,
+    "end": 2311.98,
+    "text": "cấu hình khác còn rất nhiều những cái",
+    "textdich": ""
+  },
+  {
+    "start": 2309.75,
+    "end": 2311.98,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2309.76,
+    "end": 2313.14,
+    "text": "câu lệnh khác và bật mí Bạn muốn là cái",
+    "textdich": ""
+  },
+  {
+    "start": 2311.97,
+    "end": 2313.14,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2311.98,
+    "end": 2316.74,
+    "text": "cái",
+    "textdich": ""
+  },
+  {
+    "start": 2313.13,
+    "end": 2316.74,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2313.14,
+    "end": 2320.26,
+    "text": "nó cho rất nhiều các cái cái khác nhá",
+    "textdich": ""
+  },
+  {
+    "start": 2316.73,
+    "end": 2320.26,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2316.74,
+    "end": 2322.06,
+    "text": "thì đó là ví dụ thôi thì mình cũng không",
+    "textdich": ""
+  },
+  {
+    "start": 2320.25,
+    "end": 2322.06,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2320.26,
+    "end": 2324.04,
+    "text": "có kỳ vọng ở trong một clip giới thiệu",
+    "textdich": ""
+  },
+  {
+    "start": 2322.05,
+    "end": 2324.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2322.06,
+    "end": 2325.599,
+    "text": "đầy đủ các cái cổ phần của thằng đua xe",
+    "textdich": ""
+  },
+  {
+    "start": 2324.03,
+    "end": 2325.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2324.04,
+    "end": 2327.52,
+    "text": "này và mình chỉ nói những cái kết quả",
+    "textdich": ""
+  },
+  {
+    "start": 2325.589,
+    "end": 2327.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2325.599,
+    "end": 2329.32,
+    "text": "nhất để bạn có cái page và khi bạn cần",
+    "textdich": ""
+  },
+  {
+    "start": 2327.51,
+    "end": 2329.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2327.52,
+    "end": 2331.44,
+    "text": "thì bạn sẽ biết à có một thứ tên là",
+    "textdich": ""
+  },
+  {
+    "start": 2329.31,
+    "end": 2331.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2329.32,
+    "end": 2333.7,
+    "text": "Versace",
+    "textdich": ""
+  },
+  {
+    "start": 2331.43,
+    "end": 2333.7,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2331.44,
+    "end": 2336.099,
+    "text": "thì buổi hôm nay mình clip đến đây là",
+    "textdich": ""
+  },
+  {
+    "start": 2333.69,
+    "end": 2336.099,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2333.7,
+    "end": 2338.98,
+    "text": "mình sẽ dài rồi thì mình sẽ giới thiệu",
+    "textdich": ""
+  },
+  {
+    "start": 2336.089,
+    "end": 2338.98,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2336.099,
+    "end": 2342.099,
+    "text": "cho các bạn 3 được 3 cách là dùng PC và",
+    "textdich": ""
+  },
+  {
+    "start": 2338.97,
+    "end": 2342.099,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2338.98,
+    "end": 2343.9,
+    "text": "drop dùng GPS bạn dùng một cái cloud App",
+    "textdich": ""
+  },
+  {
+    "start": 2342.089,
+    "end": 2343.9,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2342.099,
+    "end": 2347.2,
+    "text": "Lock form tên là Versace có rất nhiều",
+    "textdich": ""
+  },
+  {
+    "start": 2343.89,
+    "end": 2347.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2343.9,
+    "end": 2348.579,
+    "text": "những lá aflatforn khác và mỗi cái app",
+    "textdich": ""
+  },
+  {
+    "start": 2347.19,
+    "end": 2348.579,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2347.2,
+    "end": 2351.099,
+    "text": "rap form đó sẽ có một quy định khác nhau",
+    "textdich": ""
+  },
+  {
+    "start": 2348.569,
+    "end": 2351.099,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2348.579,
+    "end": 2353.64,
+    "text": "về cách upload mã nguồn lên nhé Thì Chúc",
+    "textdich": ""
+  },
+  {
+    "start": 2351.089,
+    "end": 2353.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2351.099,
+    "end": 2353.64,
+    "text": "các bạn thành công Bye",
+    "textdich": ""
+  }
+]
