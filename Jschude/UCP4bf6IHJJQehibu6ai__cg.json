@@ -1,0 +1,3210 @@
+[
+  {
+    "id": "t7HDqt1jtW8",
+    "title": "How do queries work on Firestore Enterprise?"
+  },
+  {
+    "id": "UHYXjmWW0PQ",
+    "title": "Implement hybrid inference in Android using Firebase AI Logic"
+  },
+  {
+    "id": "OL5zbI1Ctyc",
+    "title": "March 2026: Firebase in AI Studio, Hybrid AI Inference for Android apps and more!"
+  },
+  {
+    "id": "5AWbCj_LxFI",
+    "title": "Getting started with Server Prompt Templates"
+  },
+  {
+    "id": "BlTp-VTglbE",
+    "title": "Cloud Shell in Firebase Console"
+  },
+  {
+    "id": "GOb9BfcsEkM",
+    "title": "Implementing chat with Firebase AI Logic on the web"
+  },
+  {
+    "id": "8V_I4jsXXyo",
+    "title": "Agent Skills for Firebase (using Gemini CLI)"
+  },
+  {
+    "id": "RiRt-pepAdA",
+    "title": "February 2026: A/B Testing on the web, Agent Skills, Cloud Shell in the Firebase console, and more"
+  },
+  {
+    "id": "zVzoOPcjTEE",
+    "title": "Get LIVE feedback from AI: Building a presentation coach"
+  },
+  {
+    "id": "pLOrQuReDeQ",
+    "title": "Generating structured output (JSON) using the Gemini API (iOS)"
+  },
+  {
+    "id": "8K9stpPhTYI",
+    "title": "Dynamically update your Firebase AI Logic app with Remote Config on iOS"
+  },
+  {
+    "id": "6ifbP5gT5YU",
+    "title": "Get Started with Firebase AI Logic on the web"
+  },
+  {
+    "id": "MR5I1rptZdM",
+    "title": "January 2026: Server prompt templates, pipeline queries, and many updates on Firebase SDKs!"
+  },
+  {
+    "id": "og-4Wek6hhE",
+    "title": "Gemini CLI Tips & Tricks: IDE Integration Magic"
+  },
+  {
+    "id": "H8Z_AFF7TzA",
+    "title": "Gemini CLI Tips & Tricks: Terminal Setup"
+  },
+  {
+    "id": "ZEzFi_JrANc",
+    "title": "Gemini CLI Tips & Tricks: The Context Bloat Solution"
+  },
+  {
+    "id": "d69KP1iFg5E",
+    "title": "AI that Actually DOES stuff! (Function calling tutorial)"
+  },
+  {
+    "id": "Cp3XPcOD4kY",
+    "title": "Cloud Firestore CRUD Tutorial: Build a Swift Recipe App"
+  },
+  {
+    "id": "mCuKOUmnLt4",
+    "title": "Top Features of 2025: AI, SQL & Real-time Updates | Firebase Release Notes"
+  },
+  {
+    "id": "kKI3WfufXfY",
+    "title": "November 2025: Gemini 3, Crashlytics MCP, Data Connect Admin SDKs"
+  },
+  {
+    "id": "yGekRAvAxPg",
+    "title": "Putting Firebase AI Logic to the taste test: The Friendly Meals challenge"
+  },
+  {
+    "id": "dW1HP15_YUM",
+    "title": "Firebase Extension for Gemini CLI"
+  },
+  {
+    "id": "AZ_JYSYUmg4",
+    "title": "Implementing chat with Firebase AI Logic on iOS"
+  },
+  {
+    "id": "-t0ZvgkWDk4",
+    "title": "October 2025: Firebase Phone Number Verification preview, AI monitoring, Flutter sample app, & more!"
+  },
+  {
+    "id": "yDot7SjPnjk",
+    "title": "Server Side Remote Config"
+  },
+  {
+    "id": "21IRwyf7108",
+    "title": "September 2025: Updates to Firebase AI Logic, Data Connect, App Check and more!"
+  },
+  {
+    "id": "1NM9Mm-a70o",
+    "title": "Route-based monitoring with App Hosting"
+  },
+  {
+    "id": "76361rbBvCM",
+    "title": "August 2025: Firestore Enterprise Edition, route-based monitoring in App Hosting, and much more!"
+  },
+  {
+    "id": "-O6hqEg484E",
+    "title": "Analyzing images and other media files with Firebase AI Logic"
+  },
+  {
+    "id": "UznJQ2l7PaA",
+    "title": "Image generation with Firebase AI Logic"
+  },
+  {
+    "id": "i7w_kfh6mvc",
+    "title": "Google Search Grounding with Firebase AI Logic"
+  },
+  {
+    "id": "LEG50u4nwRc",
+    "title": "Getting started with Firebase AI Logic on Flutter"
+  },
+  {
+    "id": "QqcV8HD2h5g",
+    "title": "July 2025: Firebase Studio Updates, Grounding with Google Search, Client and Admin SDK Upgrades"
+  },
+  {
+    "id": "ukyUxcXlwaI",
+    "title": "Getting started with Firebase AI Logic on iOS"
+  },
+  {
+    "id": "0UoReIOwC-Q",
+    "title": "Get Started with Firebase AI Logic on Android"
+  },
+  {
+    "id": "EpRSIFVtMng",
+    "title": "What is Firebase AI Logic?"
+  },
+  {
+    "id": "wBfqpPxUwqM",
+    "title": "On-device AI with Firebase"
+  },
+  {
+    "id": "0c8pKtWObDY",
+    "title": "June 2025: Updates to SDK and CLI, Firebase Crashlytics, and more"
+  },
+  {
+    "id": "kgf4yLoYNrE",
+    "title": "Model Context Protocol (MCP) Server for Firebase"
+  },
+  {
+    "id": "sqTsIj_t9HU",
+    "title": "May 2025: Firebase Studio, App Hosting, Firebase AI Logic and many updates on Data Connect!"
+  },
+  {
+    "id": "vVAui3_rvD8",
+    "title": "Introducing Firebase Studio"
+  },
+  {
+    "id": "R_gqv8PwM78",
+    "title": "What's new in Firebase"
+  },
+  {
+    "id": "rxKYK3DIzN0",
+    "title": "AI app development with Firebase, from prototype to production"
+  },
+  {
+    "id": "nZhkjSFB6UA",
+    "title": "Build AI agents grounded with your data using Firebase Data Connect"
+  },
+  {
+    "id": "x2zvki_VlRE",
+    "title": "Build full-stack AI apps in minutes with Firebase Studio"
+  },
+  {
+    "id": "XEhd9a9YhSk",
+    "title": "Deploy Angular and Next.js with Firebase App Hosting"
+  },
+  {
+    "id": "U0Euvr4DEcE",
+    "title": "Vibe Coding with Firebase Studio"
+  },
+  {
+    "id": "hox-Sv8ZHxE",
+    "title": "Compile SQLite from source to WASM in Firebase Studio"
+  },
+  {
+    "id": "nWaMQsXcn44",
+    "title": "April 2025: Firebase Studio, Genkit, Gemini live APIs, Interactive Solutions, and much more!"
+  },
+  {
+    "id": "PDr7dbbFQnI",
+    "title": "What are streaming callables?"
+  },
+  {
+    "id": "IwRibrwKwhw",
+    "title": "March 2025: Cloud Functions streaming, new Genkit features, and some App Hosting updates!"
+  },
+  {
+    "id": "zaADQ7oqV4Q",
+    "title": "Imagen image generation - Release Notes Deep Dive"
+  },
+  {
+    "id": "YUgXJkNqH9Q",
+    "title": "February 2025: Genkit is GA, Imagen 3 support in Vertex AI SDKs, and Apple SDK updates!"
+  },
+  {
+    "id": "8InZoAqOZGY",
+    "title": "Custom signals for Remote Config - Release Notes Deep Dive"
+  },
+  {
+    "id": "3p1P5grjXIQ",
+    "title": "Getting started with Genkit 1.0 for Node.js"
+  },
+  {
+    "id": "Ss1BmbJ_oKk",
+    "title": "Jan '25: Remote Config custom signals, Crashlytics AI assist for Unity & Firestore backup scheduling"
+  },
+  {
+    "id": "ELB0W7f_Ib4",
+    "title": "Implementing authentication with Credential Manager and Firebase Auth"
+  },
+  {
+    "id": "P-3GmvmIdRo",
+    "title": "Sign in with Google flows with Credential Manager and Firebase Auth"
+  },
+  {
+    "id": "eAyq9AWLRlY",
+    "title": "Authentication on Android with Credential Manager and Firebase Auth"
+  },
+  {
+    "id": "9zTgJgXTHPQ",
+    "title": "Genkit monitoring - Release Notes Deep Dive"
+  },
+  {
+    "id": "StxfyEFtcLc",
+    "title": "December 2024: New App Hosting Emulator, AI Monitoring preview, Flutter support for SPM, and more!"
+  },
+  {
+    "id": "X3TuovkMAC8",
+    "title": "Auto-generated queries - Release Notes Deep Dive"
+  },
+  {
+    "id": "BVHbWDhN5yk",
+    "title": "November 2024: Gemini in Data Connect, Genkit and iOS Live Activities!"
+  },
+  {
+    "id": "aI9c1RoFgCI",
+    "title": "The top 6 takeaways from Firebase Demo Day 2024"
+  },
+  {
+    "id": "vZ23UxcJ7Kk",
+    "title": "What's new in Firebase Genkit 0.9 (spoiler... agents!)"
+  },
+  {
+    "id": "vBa3MIbUrfs",
+    "title": "Migrating from Genkit 0.5 to 0.9"
+  },
+  {
+    "id": "1f8Z3AY9avU",
+    "title": "Ship personalized AI experiences and fix issues faster with Remote Config and Crashlytics"
+  },
+  {
+    "id": "sxSrHFuM3zM",
+    "title": "Test your apps smarter, not harder, with Firebase AI Testing Agent"
+  },
+  {
+    "id": "OdgYwiMg1VA",
+    "title": "How to monitor your Firebase Genkit AI feature in production"
+  },
+  {
+    "id": "8gsEWgi4K8M",
+    "title": "Deploy a Genkit flow with App Hosting"
+  },
+  {
+    "id": "IuZi09JfDo4",
+    "title": "Giving your AI apps superpowers with Tool Calling"
+  },
+  {
+    "id": "P7_MfPMnnxs",
+    "title": "Retrieval Augmented Generation made easy with Firebase Genkit"
+  },
+  {
+    "id": "xB1Nxn0BHvg",
+    "title": "Use Vertex AI in Firebase to securely call Gemini from an iOS app"
+  },
+  {
+    "id": "StfUM3D1Qnk",
+    "title": "Use Vertex AI in Firebase to securely call Gemini from an Android app"
+  },
+  {
+    "id": "dfEPQONqJuo",
+    "title": "Welcome to Firebase Demo Day 2024!"
+  },
+  {
+    "id": "smB-4UogJpQ",
+    "title": "Password policies - Release Notes Deep Dive"
+  },
+  {
+    "id": "uzf-cHtwvbw",
+    "title": "October 2024:  Data Connect, Vertex AI, Gemini in Firebase and more!"
+  },
+  {
+    "id": "-6xWWHkfIRw",
+    "title": "Hey Google… create a promotional video for #FirebaseDemoDay"
+  },
+  {
+    "id": "MLyWo3AT4ZU",
+    "title": "Save the date for Firebase Demo Day 2024"
+  },
+  {
+    "id": "yDFd5AZhsIk",
+    "title": "Multimodal generation with Firebase Genkit (version 0.5)"
+  },
+  {
+    "id": "3u7u4mNbYZI",
+    "title": "Firestore Vector Embeddings - Release Notes Deep Dive"
+  },
+  {
+    "id": "kfXQXLlbszI",
+    "title": "September 2024: Vector Embeddings for Firestore, Custom signals in Remote Config, and more!"
+  },
+  {
+    "id": "OjGyWju6KQI",
+    "title": "结合 Flutter 和 Gemini API, 开展多模态提示工程"
+  },
+  {
+    "id": "HZccOJfBn4U",
+    "title": "利用 Firebase 与 Google Cloud 打造更卓越的数据驱动型应用"
+  },
+  {
+    "id": "wW7QI7ZgAHQ",
+    "title": "Infinite subdomains with App Hosting"
+  },
+  {
+    "id": "TjxJnQQCS_A",
+    "title": "August 2024: App Hosting, Genkit, Firestore features GA, and many other updates from Firebase!"
+  },
+  {
+    "id": "p8ZlYAmbWHE",
+    "title": "Retrieval Augmented Generation (RAG) with Genkit (DeepDive #2) (Genkit version 0.5)"
+  },
+  {
+    "id": "LrhGTWqjfiU",
+    "title": "Genkit Go SDK - Release Notes Deep Dive"
+  },
+  {
+    "id": "o7r8nxrAd_c",
+    "title": "Building an app with Gemini in Firebase and Project IDX"
+  },
+  {
+    "id": "CGVBR8quZac",
+    "title": "Genkit's reflection API and how it powers Genkit's developer UI (DeepDive #1) (Genkit  version 0.5)"
+  },
+  {
+    "id": "TGHua_RtUjs",
+    "title": "Build an Angular app with Genkit and deploy to Firebase  (Genkit version 0.5)"
+  },
+  {
+    "id": "ONR38NZK5FE",
+    "title": "What are Genkit flows?  (Genkit version 0.5)"
+  },
+  {
+    "id": "M8rfDySBBvM",
+    "title": "Getting started with Genkit (version 0.5)"
+  },
+  {
+    "id": "1HfMI21e42c",
+    "title": "July 2024: AI monitoring, Genkit, Firestore backups GA, and many updates on Firebase SDKs!"
+  },
+  {
+    "id": "LhjTAkifr6g",
+    "title": "Troubleshoot your app faster with AI in Crashlytics"
+  },
+  {
+    "id": "C7ZkCfTRr14",
+    "title": "June 2024: Cloud Messaging, Vertex AI, and faster Flutter web apps"
+  },
+  {
+    "id": "cEr8XCnoSVY",
+    "title": "Make your app the best it can be with Firebase and generative AI"
+  },
+  {
+    "id": "sfWczhmnA3s",
+    "title": "Vertex AI SDKs for #Firebase"
+  },
+  {
+    "id": "vYk6Uh2WGto",
+    "title": "May 2024: Firebase has SQL, and 6 other top takeaways from Google I/O"
+  },
+  {
+    "id": "gyuS86Stw-w",
+    "title": "Advanced debugging with Firebase Crashlytics"
+  },
+  {
+    "id": "D5qxlu3A9D4",
+    "title": "Build gen AI features powered by your data with Firebase and PostgreSQL"
+  },
+  {
+    "id": "7OdVatEI85o",
+    "title": "Firebase has SQL: Introducing Data Connect"
+  },
+  {
+    "id": "qyhdKb8liEA",
+    "title": "Planet-scale reach for Next and Angular apps with Firebase App Hosting"
+  },
+  {
+    "id": "b5c8BbV8sIw",
+    "title": "Confidently launch gen AI features with Firebase Remote Config"
+  },
+  {
+    "id": "2MvV-YX1eKw",
+    "title": "What's new in Firebase for building gen AI features"
+  },
+  {
+    "id": "qMZ_q-iHqsU",
+    "title": "Multi-field range and inequality conditions on Firestore"
+  },
+  {
+    "id": "kD5NsBbG3kk",
+    "title": "April 2024: Firestore new from Cloud Next, Flutter on Windows, and Gemini in Firebase"
+  },
+  {
+    "id": "_KvbjXGemvU",
+    "title": "New Release Monitoring dashboard in #Firebase"
+  },
+  {
+    "id": "eTArV4Z3Caw",
+    "title": "March '24: faster Flutter web apps, more App Check,＆range conditions on multiple fields in Firestore"
+  },
+  {
+    "id": "rfBCPIJUcpI",
+    "title": "Getting started with Cloud Storage for iOS"
+  },
+  {
+    "id": "HIi-DuLKff8",
+    "title": "New #Firebase Extensions with Gemini"
+  },
+  {
+    "id": "N-CS73eHld0",
+    "title": "Vue.js and #Firebase crash course"
+  },
+  {
+    "id": "5haj49KicJw",
+    "title": "February 2024: Auto-testing in App Distro, Flutter speedups, Firestore GA＆Crashlytics improvements"
+  },
+  {
+    "id": "moZssMRVoWI",
+    "title": "Getting started with anonymous authentication and account linking on Android"
+  },
+  {
+    "id": "FY9_5H39sYQ",
+    "title": "Best practices when sending FCM messages at scale"
+  },
+  {
+    "id": "lesCn6Q-yss",
+    "title": "January 2024: Firestore sum and average operations, and best practices for Firebase Cloud Messaging"
+  },
+  {
+    "id": "AX_JInDfhc0",
+    "title": "Top 3 Google Cloud tips for Firebase developers"
+  },
+  {
+    "id": "ViEnpfM19nQ",
+    "title": "Point-in-time recovery in Firestore"
+  },
+  {
+    "id": "gcG0ajhMo0M",
+    "title": "Happy Holidays from the Firebase team! #FirebaseUnwrapped"
+  },
+  {
+    "id": "XC4bMSti1gI",
+    "title": "December 2023: Duet AI for #Firebase in early preview＆Firestore point-in-time recovery is GA"
+  },
+  {
+    "id": "2u6Zb36OQjM",
+    "title": "Getting started with Cloud Functions"
+  },
+  {
+    "id": "1Fg7cwkmj_c",
+    "title": "Getting started with Cloud Firestore on Apple platforms"
+  },
+  {
+    "id": "a0aVOlw5210",
+    "title": "Frequentist inference in Firebase A/B Testing"
+  },
+  {
+    "id": "gpCnDkCkZj0",
+    "title": "November 2023: Using Duet AI to simplify app development, develop Flutter＆Firebase apps on Windows"
+  },
+  {
+    "id": "zFHp6uj3aJ0",
+    "title": "The biggest news from Firebase Demo Day 2023"
+  },
+  {
+    "id": "U1PIrZBgv0U",
+    "title": "Deleting user accounts (including Sign in with Apple token revocation)"
+  },
+  {
+    "id": "91LWShFZn40",
+    "title": "Firebase supports Sum and Average in Cloud Firestore"
+  },
+  {
+    "id": "qkbKJyfORHw",
+    "title": "How to release safely and reduce risk with Remote Config and Crashlytics"
+  },
+  {
+    "id": "a-FLP4GFXvQ",
+    "title": "Smarter pre-release app testing: AI-powered automated testing in App Distribution"
+  },
+  {
+    "id": "mvEHYMsk_AE",
+    "title": "Using AI to generate poems from pictures with Python in Firebase"
+  },
+  {
+    "id": "_9rCf353j3U",
+    "title": "How to build an AI chatbot with Firebase and the PaLM API in under 10 minutes"
+  },
+  {
+    "id": "89l3DnhqySM",
+    "title": "How App Check helps protect your app from credential stuffing"
+  },
+  {
+    "id": "oyL-V94SZiM",
+    "title": "Build, test, and deploy your Firebase web apps faster in Project IDX"
+  },
+  {
+    "id": "IUaUxXLACkg",
+    "title": "How Duet AI in Firebase helps you build successful apps"
+  },
+  {
+    "id": "ba1IvQU1kgo",
+    "title": "How to build smarter & ship faster with the Firebase Flutter SDK & your Windows development workflow"
+  },
+  {
+    "id": "1KFzlz4ibAA",
+    "title": "Firebase & Terraform: The simple way to scale and automate your infrastructure"
+  },
+  {
+    "id": "nQYA1HzBzPk",
+    "title": "5 Firebase updates that improve your everyday development experience"
+  },
+  {
+    "id": "0PK53ndn3Lc",
+    "title": "Reacting to Firestore changes with Cloud Functions and Eventarc"
+  },
+  {
+    "id": "DEILLUIdUIE",
+    "title": "Firebase: 入門講解與範例"
+  },
+  {
+    "id": "6rr5jWj_ORI",
+    "title": "October 2023: Firestore SUM/AVG, App Check terms of service, Pixel 8 testing ＆blocking abusive files"
+  },
+  {
+    "id": "Lx6pf2Bq5Hw",
+    "title": "View and list multiple databases in the Google Cloud console"
+  },
+  {
+    "id": "eMa0hsHqfHU",
+    "title": "How do Firebase App Check tokens work?"
+  },
+  {
+    "id": "xBGoBQyJA1o",
+    "title": "September 2023: Flutter updates, Firestore SUM/AVG＆backups, and Dynamic Links in Google Takeout"
+  },
+  {
+    "id": "G6n4FxuhiJo",
+    "title": "Firebase Cloud Messaging supports notifications on Safari"
+  },
+  {
+    "id": "gbuSrFCmPBg",
+    "title": "What is a developer’s favorite language?"
+  },
+  {
+    "id": "p9pgI3Mg-So",
+    "title": "What is Firebase and how to use it"
+  },
+  {
+    "id": "OmE6ue-s84g",
+    "title": "August 2023: Firestore geoquery, push notifications on iOS web apps, and OR queries in C++"
+  },
+  {
+    "id": "FfSBJEHaBXg",
+    "title": "Testing your app on a Pixel Fold with Firebase Test Lab"
+  },
+  {
+    "id": "wm626abfMM8",
+    "title": "Getting started with Firebase Authentication on Android"
+  },
+  {
+    "id": "bTjLidwxsm0",
+    "title": "July 2023: Pigeon Flutter interop, multi-DB＆Point-in-time recovery for Firestore, Pixel Fold devices"
+  },
+  {
+    "id": "lQPukA6WjVw",
+    "title": "Build custom signup behavior with blocking serverless functions"
+  },
+  {
+    "id": "GUdSbhZmDtg",
+    "title": "June 2023: How Firestore snapshot listener scale, long-polling on JS & CLI and Apple SDK updates"
+  },
+  {
+    "id": "AejfDKJtsjU",
+    "title": "May 2023: Firebase updates from Google I/O, get started w/ PaLM AI,Python support＆Flutter on Windows"
+  },
+  {
+    "id": "-OK7VG7Cl8I",
+    "title": "Getting started with email/link auth on iOS"
+  },
+  {
+    "id": "rGqj6U7SawA",
+    "title": "Catch up on the highlights from Firebase @ Google I/O ‘23"
+  },
+  {
+    "id": "iYA0QYP9ocw",
+    "title": "How to enhance your app security with new features in Firebase App Check"
+  },
+  {
+    "id": "EIA58FKrA8Y",
+    "title": "Faster, cheaper serverless APIs for your Firebase app"
+  },
+  {
+    "id": "YUwJqZLLjQ0",
+    "title": "Building with Firebase webframeworks"
+  },
+  {
+    "id": "MhkDpZA_Ciw",
+    "title": "How to run dynamic web apps on Firebase"
+  },
+  {
+    "id": "rW9MkxD5318",
+    "title": "What’s new in Cloud Firestore at Google I/O 2023"
+  },
+  {
+    "id": "YIkmBCf8tfQ",
+    "title": "What's new in Firebase - American Sign Language"
+  },
+  {
+    "id": "32SKh-jGXI4",
+    "title": "Manage Firebase projects with Terraform"
+  },
+  {
+    "id": "PLOw63DvZdc",
+    "title": "Connect millions of developers to your product by building a Firebase Extension"
+  },
+  {
+    "id": "emIxn-f9bK0",
+    "title": "What's new in Firebase"
+  },
+  {
+    "id": "nYGg_8Ro5VE",
+    "title": "What's new in Firebase's Android SDK"
+  },
+  {
+    "id": "vWJ8wDzeEg0",
+    "title": "Ship faster with feature flags using Firebase Remote Config"
+  },
+  {
+    "id": "UmAFhPeCNF4",
+    "title": "What's new in Firebase Crashlytics"
+  },
+  {
+    "id": "vjfzXNGG66k",
+    "title": "Empezar con Firebase y la Web"
+  },
+  {
+    "id": "ILTo8IvFXJw",
+    "title": "Getting started with Firebase on the Web"
+  },
+  {
+    "id": "3o4vRTw5Ti4",
+    "title": "Apr 2023: Firestore OR and IN queries, Play Integrity, use TOTP for MFA, and Firebase at Google I/O!"
+  },
+  {
+    "id": "6jGNSFdHHXc",
+    "title": "Getting started with account linking and anonymous authentication"
+  },
+  {
+    "id": "pwPSS6OP8YM",
+    "title": "Mar 2023: Top takeaways from Google for Games Developer Summit, Firestore OR queries, and Terraform"
+  },
+  {
+    "id": "EGbZ3Kx9R0w",
+    "title": "Protect against email enumeration attacks #Shorts"
+  },
+  {
+    "id": "K1XU2y0YVtU",
+    "title": "Reduce cheating with Firebase App Check"
+  },
+  {
+    "id": "FkFvQ0SaT1I",
+    "title": "Add Firebase to your Flutter app: The fast way"
+  },
+  {
+    "id": "odMXGxKIcS4",
+    "title": "Feb 2023: Crashlytics in Flutter, Firestore Python COUNT()＆protect against email enumeration attacks"
+  },
+  {
+    "id": "IzyOdKm0bWE",
+    "title": "Getting started with Google Sign-In on Apple platforms"
+  },
+  {
+    "id": "Wjy7XKDAx1M",
+    "title": "Começando a usar Firebase no Android"
+  },
+  {
+    "id": "jbHfJpoOzkI",
+    "title": "Getting started with Firebase on Android"
+  },
+  {
+    "id": "9nkAGR5Qe2A",
+    "title": "Jan 2023: Firestore queries, Functions cold starts, Realtime Database auditing"
+  },
+  {
+    "id": "JiDdBIqhWKc",
+    "title": "Firestore COUNT(*): Everything you need to know"
+  },
+  {
+    "id": "FiDUqzWAfh8",
+    "title": "Billing in Firebase"
+  },
+  {
+    "id": "tTzpIfGbYe8",
+    "title": "Behind the scenes with Firebase!"
+  },
+  {
+    "id": "DOqrVsvzcAI",
+    "title": "Authentication and onboarding"
+  },
+  {
+    "id": "P51dI2y7QHA",
+    "title": "Engage users with Firebase Cloud Messaging"
+  },
+  {
+    "id": "mRaPNoOBfGA",
+    "title": "Dec 2022: Vue ＆Nuxt, Firestore index limits, and build your own Extensions"
+  },
+  {
+    "id": "jn18xDdRCHM",
+    "title": "What are Firebase Release Notes?"
+  },
+  {
+    "id": "xXZzobTPojs",
+    "title": "Show & Tell: Rowy"
+  },
+  {
+    "id": "9_qInRTrYs0",
+    "title": "We need to talk about email and password auth"
+  },
+  {
+    "id": "23T9SGLcDsM",
+    "title": "Feature flagging with Remote Config and Google Analytics"
+  },
+  {
+    "id": "SlLiCnQTDi8",
+    "title": "Show & Tell: La Haus"
+  },
+  {
+    "id": "9GZaEzBwds0",
+    "title": "Firebase Summit 2022 event highlights"
+  },
+  {
+    "id": "J0soR73Jbio",
+    "title": "Nov 2022: Next.js 13, Firestore query speed, and Flutter auto-update"
+  },
+  {
+    "id": "bTEU10c3gds",
+    "title": "Implement OCR with Firebase Cloud Functions and Google Cloud Vision"
+  },
+  {
+    "id": "pcnnbjAAIkI",
+    "title": "Getting started with Remote Config (Android)"
+  },
+  {
+    "id": "bwkEXBuoniw",
+    "title": "Transforming home buying in Latin America"
+  },
+  {
+    "id": "HyiNbqLOCQ8",
+    "title": "Getting started with Sign in with Apple using Firebase Authentication on Apple platforms"
+  },
+  {
+    "id": "ViKHm2OXpGA",
+    "title": "Firebase Stories highlights reel"
+  },
+  {
+    "id": "q-9lx7aSWcc",
+    "title": "Getting started with Firebase Auth for Apple platforms"
+  },
+  {
+    "id": "ss9S3M_emWY",
+    "title": "Oct 2022: Top 5 takeaways from Firebase Summit"
+  },
+  {
+    "id": "q2RZOiUD5E0",
+    "title": "Build an expense tracker web app with Firebase and React"
+  },
+  {
+    "id": "MJlQurMiLN0",
+    "title": "Remote Config personalization: Everything you need to know"
+  },
+  {
+    "id": "iNtBFip1LD8",
+    "title": "Building a SwiftUI app with Firebase"
+  },
+  {
+    "id": "pP044hR6zNQ",
+    "title": "Best practices for Firebase Messaging"
+  },
+  {
+    "id": "FrORBGrZpdM",
+    "title": "Advanced alerting for Firebase Release and Monitoring products"
+  },
+  {
+    "id": "pyTUvccfCpc",
+    "title": "Your quickstart to the Firebase Emulator Suite"
+  },
+  {
+    "id": "kRszxpeTnW0",
+    "title": "Your guide to server side authentication with Firebase"
+  },
+  {
+    "id": "iQOTjUko9WM",
+    "title": "Advanced offline caching techniques in Cloud Firestore"
+  },
+  {
+    "id": "61WC7urgvQ4",
+    "title": "How to monitor errors and performance in Cloud Functions with Open Telemetry"
+  },
+  {
+    "id": "m_YZoCjZtTI",
+    "title": "#AskFirebase Live | Firebase Summit 2022"
+  },
+  {
+    "id": "D4e_TTY2dfI",
+    "title": "What's new in Firebase 2022 | Keynote"
+  },
+  {
+    "id": "VZxTAnFb7dU",
+    "title": "Show & Tell: Classkick"
+  },
+  {
+    "id": "w_vixDqdSrs",
+    "title": "Sep 2022: App Check on more Apple devices, and Test Lab on ARM-based hosts"
+  },
+  {
+    "id": "TzLON3oVGE0",
+    "title": "Keeping your app secure with App Check"
+  },
+  {
+    "id": "nZj6C86mGck",
+    "title": "Eliminating barriers in learning"
+  },
+  {
+    "id": "xyvxvnIlgBo",
+    "title": "Environments and emulators"
+  },
+  {
+    "id": "oP9MHUWrCXU",
+    "title": "Aug 2022: Zombie nodes on RTDB, multi-factor auth on Flutter ＆Firebase Summit🍎"
+  },
+  {
+    "id": "4uiazEB8N3A",
+    "title": "Show & Tell: MOIA, FAVES"
+  },
+  {
+    "id": "F9Gs_pfT3hs",
+    "title": "Getting started with Firebase on Apple platforms"
+  },
+  {
+    "id": "jlfREntil-Q",
+    "title": "Analyzing Firebase data with BigQuery"
+  },
+  {
+    "id": "LtaKCVdjQ3Q",
+    "title": "Streamlining apparel purchasing in the fashion industry"
+  },
+  {
+    "id": "gD8iF0Jildk",
+    "title": "Jul 2022: Multi-factor authentication, auto-delete expired docs in Firestore"
+  },
+  {
+    "id": "W9t3QupnqPA",
+    "title": "BigQuery: Integrating and streaming from Firebase"
+  },
+  {
+    "id": "RE_OzodibvU",
+    "title": "Building an eco-friendly rideshare business"
+  },
+  {
+    "id": "JxJ0niQWieU",
+    "title": "Jun 2022: Crashlytics drag-and-drop, Robo script docs＆Apple silicon for Unity"
+  },
+  {
+    "id": "27BUpiAXt9M",
+    "title": "How Firebase projects and apps work"
+  },
+  {
+    "id": "HseGVOM85W4",
+    "title": "May 2022: Official Flutter support and other updates from Google I/O!"
+  },
+  {
+    "id": "8UY02Nf0l6A",
+    "title": "What’s new in Firebase (2022) RECAP"
+  },
+  {
+    "id": "nRQwJV1iMKs",
+    "title": "Create better user experiences with Remote Config for advanced app personalization"
+  },
+  {
+    "id": "cIFLFpKTy7c",
+    "title": "Monitoring your Flutter app's stability with Firebase Crashlytics"
+  },
+  {
+    "id": "tLN-A3kBn7Y",
+    "title": "Integrate Firebase into your team's development workflow"
+  },
+  {
+    "id": "77sMhsLB2qg",
+    "title": "Build production-ready apps with Extensions, Functions, and Google Cloud"
+  },
+  {
+    "id": "L8_7HCE83-k",
+    "title": "Auto alerts for Firebase users with Functions, Logging, and BigQuery"
+  },
+  {
+    "id": "lAnt5sl3jaM",
+    "title": "How to ship stable features with Firebase"
+  },
+  {
+    "id": "ENaOg5YefjQ",
+    "title": "Optimize app health with Firebase Performance Monitoring and Crashlytics"
+  },
+  {
+    "id": "i0VNBvCqpgI",
+    "title": "What's new in Firebase"
+  },
+  {
+    "id": "fgS3pyrGWvs",
+    "title": "Secure your Firebase app from the start"
+  },
+  {
+    "id": "LFz8qdF7xg4",
+    "title": "Introducing Firebase App Check"
+  },
+  {
+    "id": "wR3VB4OM8pw",
+    "title": "Apr 2022: Firestore performance, new Realtime Database viewer＆Google I/O"
+  },
+  {
+    "id": "XHvWx1F3S4A",
+    "title": "Make your app the best it can be with Firebase"
+  },
+  {
+    "id": "knk5Fjrpde0",
+    "title": "JavaScript crash course: Firestore and Auth | JavaScript & Firebase"
+  },
+  {
+    "id": "HzN3bX6Isd8",
+    "title": "These 5 Firebase tools will help you test and run your app with confidence"
+  },
+  {
+    "id": "P0x0LmiknJc",
+    "title": "Getting started with Firebase Hosting (and GitHub Actions!)"
+  },
+  {
+    "id": "LbZO2RX9NY0",
+    "title": "Mar 2022: Faster TTFB in Hosting, faster Android startup, and more Flutter!"
+  },
+  {
+    "id": "pP7quzFmWBY",
+    "title": "Getting started with the Firebase Realtime Database on the web"
+  },
+  {
+    "id": "j4hWembf3xY",
+    "title": "Everything new from Firebase at the Google for Games Developer Summit"
+  },
+  {
+    "id": "P8XH4b0rOQA",
+    "title": "Supercharge your mobile game stability with Crashlytics for Unity"
+  },
+  {
+    "id": "iNNIX129Ew0",
+    "title": "Feb 2022: More Flutter languages, Firestore performance visualization, & more!"
+  },
+  {
+    "id": "-IFRVMEhZDc",
+    "title": "Getting started with Firebase Storage on the web"
+  },
+  {
+    "id": "j5htIyxmmzA",
+    "title": "3 easy tips for calling async APIs | Firebase & SwiftUI"
+  },
+  {
+    "id": "3nilbcBGW0c",
+    "title": "Meet an Extension: Analyze Toxicity"
+  },
+  {
+    "id": "hNXPCcBHAZg",
+    "title": "Jan 2022: Flutter initialization, secure file storage & VPC for Firestore"
+  },
+  {
+    "id": "0DBRiMWy28Y",
+    "title": "Getting started with Firebase Remote Config on the web"
+  },
+  {
+    "id": "TglPc74M3DM",
+    "title": "Security Rules deep dive"
+  },
+  {
+    "id": "VjENUKwjDEE",
+    "title": "Dec 2021: Crashlytics Kotlin, Firestore App Check＆FCM delivery data!"
+  },
+  {
+    "id": "rbuSx1yEgV8",
+    "title": "Getting started with Firebase Authentication on the web"
+  },
+  {
+    "id": "vBUk293QSKY",
+    "title": "What is Firebase Authentication?"
+  },
+  {
+    "id": "7KaNHpOPYTs",
+    "title": "Nov 2021: Firebase Summit updates, Firestore text search, & more Flutter!"
+  },
+  {
+    "id": "MTclqADW9rs",
+    "title": "Personalization in Remote Config overview"
+  },
+  {
+    "id": "dVeH4aSzdE0",
+    "title": "#AskFirebase Live | Firebase Summit 2021"
+  },
+  {
+    "id": "-PpE1QhZjPE",
+    "title": "Introducing Personalization in Remote Config"
+  },
+  {
+    "id": "_ZMfTQZuP-Y",
+    "title": "What's new in Firebase 2021 | Recap"
+  },
+  {
+    "id": "DEV372Kof0g",
+    "title": "How to use App Check to protect your custom backend"
+  },
+  {
+    "id": "G1PzMgMAdg0",
+    "title": "Crashlytics for game developers"
+  },
+  {
+    "id": "p2jefhDvGn0",
+    "title": "Personalization and A/B Testing: How to create better experiences for users"
+  },
+  {
+    "id": "nhCbAezbiQ8",
+    "title": "Build your retail app with Firebase extensions"
+  },
+  {
+    "id": "irHj9k2kFkQ",
+    "title": "What's new in Firebase 2021 | Keynote"
+  },
+  {
+    "id": "-W-xHsbPFuI",
+    "title": "Oct 2021: Flutter Realtime Database on Web, FCM, and t-shirt give-away!"
+  },
+  {
+    "id": "VhV0j4XytoQ",
+    "title": "Meet an Extension: Send messages with MessageBird"
+  },
+  {
+    "id": "FaDPFMTd9MM",
+    "title": "Sep 2021: V9 JS SDK, Apple platforms, Audit Logs for Firestore and more!"
+  },
+  {
+    "id": "BjtxPj6jRM8",
+    "title": "Getting started with Cloud Firestore for the web"
+  },
+  {
+    "id": "ziFk22lSfdA",
+    "title": "Balancing your in-app purchase revenue with ad revenue"
+  },
+  {
+    "id": "RbEHaiJYueA",
+    "title": "Meet an Extension: Shorten URLs"
+  },
+  {
+    "id": "rQvOAnNvcNQ",
+    "title": "Getting started with Firebase for the web"
+  },
+  {
+    "id": "2CEdYN9NVnU",
+    "title": "Aug 2021: Cloud Functions in Asia, FCM delivery metrics on iOS, and more!"
+  },
+  {
+    "id": "ZNVAPpTpKpk",
+    "title": "Algolia, Firebase, and Next.js — Let's build a search app | Firebase Semi-Live"
+  },
+  {
+    "id": "aHaI0jZ5rwM",
+    "title": "Jul 2021: Cloud Functions clean up, App Check on iOS, and Firestore for games"
+  },
+  {
+    "id": "DPWlIhiV2Jw",
+    "title": "Getting started with analytics on Android #2: User properties and user-scoped custom dimensions"
+  },
+  {
+    "id": "sXBJZD0fBa4",
+    "title": "The Firebase Realtime Database and Flutter - Firecasts"
+  },
+  {
+    "id": "0VjRPyyLJWw",
+    "title": "To show ads or not to show ads"
+  },
+  {
+    "id": "0CRSMifCSj0",
+    "title": "Everything new from Firebase at the Google for Games Developer Summit"
+  },
+  {
+    "id": "DKdwHp2coXM",
+    "title": "Personalizing your app in real-time: Powered by Firebase and ML"
+  },
+  {
+    "id": "eb8Z3RqvDfU",
+    "title": "The complexity of NDK crash reporting"
+  },
+  {
+    "id": "B4RE4s9ofgk",
+    "title": "What’s new for Firebase LiveOps"
+  },
+  {
+    "id": "sA4tkIZ_C5E",
+    "title": "Meet an Extension: Distributed counter"
+  },
+  {
+    "id": "im54lXEujCc",
+    "title": "Jun 2021: iOS Codable API for Database, all about Auth tokens, and more!"
+  },
+  {
+    "id": "b5h1bVGhuRk",
+    "title": "Adding Firestore to your Unity game - Firecasts"
+  },
+  {
+    "id": "T85yuGlt7UM",
+    "title": "Meet an Extension: Export collections to BigQuery extension"
+  },
+  {
+    "id": "xfiLOzk01bo",
+    "title": "How often should you show ads in your app?"
+  },
+  {
+    "id": "9lYjl5dz6F0",
+    "title": "Using Firebase and AdMob together: The framework"
+  },
+  {
+    "id": "zF7y-Ne1Xbg",
+    "title": "Level up your apps with Firebase Extensions and ML | Demo"
+  },
+  {
+    "id": "H0j-HOmy6FU",
+    "title": "Level up your game’s stability with Crashlytics | Demo"
+  },
+  {
+    "id": "ONrGwKaYcfo",
+    "title": "What's new in Firebase (2021) RECAP"
+  },
+  {
+    "id": "SPnWmFhww1I",
+    "title": "May 2021: Google I/O, Realtime DB in Asia, faster custom domains, and more!"
+  },
+  {
+    "id": "-HDQRgzrCuM",
+    "title": "Firebase for Apple developers: What you should know | Session"
+  },
+  {
+    "id": "z4A7sb6EnNk",
+    "title": "Fix performance pitfalls and level up your app with Firebase | Session"
+  },
+  {
+    "id": "Fjj4fmr2t04",
+    "title": "Verifying app identity with App Check | Session"
+  },
+  {
+    "id": "ZJSYtsyOK_0",
+    "title": "Crashlytics your way: Your most important crashes with Custom Keys | Session"
+  },
+  {
+    "id": "HR-aXtOcW1Y",
+    "title": "Local development using the new Storage Emulator | Session"
+  },
+  {
+    "id": "r5eJQ3nPc6A",
+    "title": "Reducing bundle size: Previewing a new Firebase for the web | Session"
+  },
+  {
+    "id": "fKZqT-S6wuo",
+    "title": "What's new in Firebase | Keynote"
+  },
+  {
+    "id": "KyJyu6B_ZuA",
+    "title": "Google I/O day 2: Cure your Firebase FOMO"
+  },
+  {
+    "id": "wUSkeTaBonA",
+    "title": "Codelab: Get to know Firebase for Flutter"
+  },
+  {
+    "id": "i_u_6RknUro",
+    "title": "Meet an Extension: Limit child nodes"
+  },
+  {
+    "id": "4TKuKKSy5k4",
+    "title": "Apr 2021: SwiftUI APIs, multi-user Emulator, and Firebase at I/O preview!"
+  },
+  {
+    "id": "664ep0WOgo8",
+    "title": "Meet an Extension: Delete user data"
+  },
+  {
+    "id": "QKB2gtIR0q4",
+    "title": "Mar 2021: Flutter null-safe plugins, Remote Config, better ML, and more!"
+  },
+  {
+    "id": "fFFEJnHM-uw",
+    "title": "Firebase thanks you for 300K subscribers!"
+  },
+  {
+    "id": "h_KLJGkv6Fg",
+    "title": "Meet an Extension: Send invoices with Stripe"
+  },
+  {
+    "id": "7Ija31x09Ss",
+    "title": "Feb 2021: iOS, Games, Cloud Functions, and much more!"
+  },
+  {
+    "id": "KTVDOOPXb_4",
+    "title": "Meet an Extension: Translate text"
+  },
+  {
+    "id": "aaQoqGELrQ4",
+    "title": "Getting started with Google Analytics for Firebase with Kotlin and Android - Firecasts"
+  },
+  {
+    "id": "SG1JxGWxKhE",
+    "title": "Firebase Release Notes: January 2021"
+  },
+  {
+    "id": "SmJk3HC7K1M",
+    "title": "Meet an Extension: Resize images"
+  },
+  {
+    "id": "FckDNLOWbgE",
+    "title": "Fireplace with Firebase"
+  },
+  {
+    "id": "DWUb0whDKc4",
+    "title": "Thank you and happy holidays"
+  },
+  {
+    "id": "ruLB6IMHXx4",
+    "title": "Firebase Release Notes: December 2020"
+  },
+  {
+    "id": "Dk3VvRSrQIY",
+    "title": "Cap your Firebase spending #7: Turn off billing if we exceed our cap"
+  },
+  {
+    "id": "xRj0RRAxYX8",
+    "title": "Cap your Firebase spending #6: Talking to our billing service"
+  },
+  {
+    "id": "v3g7GWjVswY",
+    "title": "Cap your Firebase spending #5: Looking for unusual spending patterns"
+  },
+  {
+    "id": "QoLQj5Ir1hs",
+    "title": "Cap your Firebase Spending #4: Handle new billing cycles"
+  },
+  {
+    "id": "e3TLQhta0Kg",
+    "title": "Cap your Firebase spending #3: Storing our previous spending amount"
+  },
+  {
+    "id": "EXp0gq9kGxI",
+    "title": "Getting started with Firebase on Flutter - Firecasts"
+  },
+  {
+    "id": "hd9FQOlI2Ts",
+    "title": "Cap your Firebase spending #2: Sending a Slack message"
+  },
+  {
+    "id": "NWrZwXK92IM",
+    "title": "Cap your Firebase spending #1: Setting up a billing PubSub topic"
+  },
+  {
+    "id": "HJF4xi_got0",
+    "title": "Using audiences in Google Analytics, Firestore backups, Remote Config + CSS, and more! #AskFirebase"
+  },
+  {
+    "id": "rr5NKRUBbx4",
+    "title": "Firebase Release Notes with Frank van Puffelen"
+  },
+  {
+    "id": "3foXmuOv46A",
+    "title": "#AskFirebase Live"
+  },
+  {
+    "id": "rwrUezKCc34",
+    "title": "Zero to app: Livecoding a cross platform app with Firebase and Flutter"
+  },
+  {
+    "id": "GzJ9oiCnjJw",
+    "title": "Adding on-device recommendations to your app using TensorFlow and Firebase"
+  },
+  {
+    "id": "bP3FZGyxQx4",
+    "title": "Build a scalable web app with Firebase in 20 minutes"
+  },
+  {
+    "id": "P3jXxNBtueQ",
+    "title": "Shipping production web apps on Firebase Hosting"
+  },
+  {
+    "id": "ASugxDQPm3A",
+    "title": "Serverless security modeling in Firebase"
+  },
+  {
+    "id": "9CqnmcsUdiI",
+    "title": "Codelab: Get started with Firebase in C++"
+  },
+  {
+    "id": "VgQwlMtxbAw",
+    "title": "How to set up CI using the Firebase Emulator Suite"
+  },
+  {
+    "id": "EoLp0WoUkoA",
+    "title": "How to turn on billing and still sleep at night"
+  },
+  {
+    "id": "1fjyW2PHnJw",
+    "title": "Iterate your way to a delightful app experience using Firebase Remote Config and A/B Testing"
+  },
+  {
+    "id": "8JVmWtJLqNU",
+    "title": "Firebase Authentication: From fully managed to fully customizable"
+  },
+  {
+    "id": "-tPHRj64zTM",
+    "title": "Engage your users with Firebase Messaging"
+  },
+  {
+    "id": "5wZbHKr2mLc",
+    "title": "Optimize your app's revenue with Firebase"
+  },
+  {
+    "id": "9QFEGP1mr-Q",
+    "title": "How to monitor your latest release with Firebase Crashlytics and Performance Monitoring"
+  },
+  {
+    "id": "wSjEG9ARRw0",
+    "title": "What's new in Firebase 2020 (Opening Keynote)"
+  },
+  {
+    "id": "JhyeK29_i44",
+    "title": "Get ready for the Firebase Summit 2020!"
+  },
+  {
+    "id": "-xDWQZOfolQ",
+    "title": "Announcing Firebase Summit 2020"
+  },
+  {
+    "id": "imTjGvSjBEw",
+    "title": "Adding data to Firestore from a SwiftUI App"
+  },
+  {
+    "id": "8Mzb9zmnbJs",
+    "title": "Intermediate topics in Firebase Security Rules - Firecasts"
+  },
+  {
+    "id": "77XmRDtOL7c",
+    "title": "5 uses for Cloud Functions | Get to know Cloud Firestore #12"
+  },
+  {
+    "id": "JDxXiarsrHk",
+    "title": "Getting started with Google Analytics and Firebase in Unity"
+  },
+  {
+    "id": "zHomxNDEJqY",
+    "title": "Welcome to Firebase"
+  },
+  {
+    "id": "2F2XhgMt8Dg",
+    "title": "The Firebase developer's guide to Google Analytics"
+  },
+  {
+    "id": "C1cHicKu17k",
+    "title": "Codelab: Friendly eats in Flutter"
+  },
+  {
+    "id": "pkgvFNPdiEs",
+    "title": "The Local Firebase Emulator UI in 15 minutes"
+  },
+  {
+    "id": "VDulvfBpzZE",
+    "title": "Unit testing security rules with the Firebase Emulator Suite"
+  },
+  {
+    "id": "p5-BDRCAkMI",
+    "title": "Introducing Firebase Machine Learning"
+  },
+  {
+    "id": "1DeG51P7BBc",
+    "title": "How to test Firebase in Unity on MacOS Catalina - Firecasts"
+  },
+  {
+    "id": "TD3kWcb2TH0",
+    "title": "Multi-factor authentication update, Firestore data into Google Sheets, & more! #AskFirebase"
+  },
+  {
+    "id": "dRYnm_k3w1w",
+    "title": "Getting started with Firebase on Android (2020) - Firecasts"
+  },
+  {
+    "id": "l9XXU0bYOZc",
+    "title": "Getting started with Analytics: Audiences - Firecasts"
+  },
+  {
+    "id": "3-yQeAf3bLE",
+    "title": "Mapping Firestore documents using Swift Codable"
+  },
+  {
+    "id": "f6u3AnOKZd0",
+    "title": "SwiftUI: Fetching data from Firestore in real-time"
+  },
+  {
+    "id": "JAaCUmQ6LBo",
+    "title": "Getting started with Cloud Storage for Firebase - Firecasts"
+  },
+  {
+    "id": "yE3AiheI54g",
+    "title": "Firebase Extensions #AskFirebase"
+  },
+  {
+    "id": "5GzFDXvZxKM",
+    "title": "Quick tips for threading in Unity with Firebase - Firecasts"
+  },
+  {
+    "id": "6iTmteRd07Q",
+    "title": "Build a to-do list app w/ SwiftUI & Firebase - Pt 3: Sign in with Apple"
+  },
+  {
+    "id": "MmtitMhfimA",
+    "title": "Getting started with ML Kit for Firebase #AskFirebase"
+  },
+  {
+    "id": "HDde7TqKCpk",
+    "title": "Build a to-do list app w/ SwiftUI & Firebase - Pt 2: Firestore & Anonymous Auth"
+  },
+  {
+    "id": "4RUeW5rUcww",
+    "title": "Building a to-do list app with SwiftUI and Firebase - Pt 1"
+  },
+  {
+    "id": "mt_bnvYVJCc",
+    "title": "SQL-like joins in Cloud Firestore #9: It's clean-up time!"
+  },
+  {
+    "id": "fOImRZPBJJQ",
+    "title": "Firebase productivity tips (Part 2) #AskFirebase"
+  },
+  {
+    "id": "En_Y9rjtP2I",
+    "title": "SQL-like joins in Cloud Firestore #8: Adding and removing restaurants from our favorites list"
+  },
+  {
+    "id": "M2H1VRqSYF4",
+    "title": "Firebase for Games"
+  },
+  {
+    "id": "NB2VrCD8N3E",
+    "title": "Cloud Firestore for Game Developers (Google Games Dev Summit)"
+  },
+  {
+    "id": "y0x_5dmEq3M",
+    "title": "Firebase games SDK news (Google Games Dev Summit)"
+  },
+  {
+    "id": "zyJhIUdKZCI",
+    "title": "SQL-like joins in Cloud Firestore #7: Refactoring and adding some fixes"
+  },
+  {
+    "id": "-JN-bKCvRG0",
+    "title": "SQL-like joins in Cloud Firestore #6: Rendering the restaurant cards"
+  },
+  {
+    "id": "vHE-Mp-DvII",
+    "title": "SQL-like joins in Cloud Firestore #5: Fetching documents with a callable function"
+  },
+  {
+    "id": "2M24Z5OmOt4",
+    "title": "SQL-like joins in Cloud Firestore #4: Talking to Cloud Firestore from our Cloud Function"
+  },
+  {
+    "id": "t5EfITuFD9w",
+    "title": "Deploy Python on Firebase Hosting with Cloud Run - Firecasts"
+  },
+  {
+    "id": "htlIi0VcH8Y",
+    "title": "SQL-like joins in Cloud Firestore #3: Running a Cloud Function in the emulator"
+  },
+  {
+    "id": "rffbpMzLrZ0",
+    "title": "SQL-like joins in Cloud Firestore #2: Adding the users collection"
+  },
+  {
+    "id": "G04w_k3TPTs",
+    "title": "SQL-like joins in Cloud Firestore #1: Getting the sample app up and running"
+  },
+  {
+    "id": "PQRIVztNSMQ",
+    "title": "Why is my Firestore query slow? #AskFirebase"
+  },
+  {
+    "id": "E0xofSMYc6Y",
+    "title": "Firebase productivity tips #AskFirebase"
+  },
+  {
+    "id": "w1dD6JbqNWQ",
+    "title": "Firebase Hosting customers, SQL Database, & more! #AskFirebase"
+  },
+  {
+    "id": "rERRuBjxJ80",
+    "title": "How do Cloud Functions work? | Get to know Cloud Firestore #11"
+  },
+  {
+    "id": "H4ae9Jv5B3I",
+    "title": "Getting started with Dynamic Links on Android (Part 2 ) - Firecasts"
+  },
+  {
+    "id": "QLOVXPQ2Yf8",
+    "title": "A Firebase Holiday Spectacular 2019"
+  },
+  {
+    "id": "MbIH4QT3xF8",
+    "title": "Getting started with Realtime Database on Unity - Firecasts"
+  },
+  {
+    "id": "e8Fv20L_G7E",
+    "title": "Custom metrics, Multi-factor authentication, Firestore pricing #AskFirebase"
+  },
+  {
+    "id": "3zjbiNL5EbI",
+    "title": "Firebase Remote Config updates, getting started with Crashlytics & Unity #AskFirebase"
+  },
+  {
+    "id": "-8dNasZNe50",
+    "title": "Getting started with ML Kit Vision Edge on iOS - Firecasts"
+  },
+  {
+    "id": "fcCXsydl4jY",
+    "title": "User Experience, User Interface, Firebase performance monitoring, & more! #AskFirebase"
+  },
+  {
+    "id": "jbzQHb6_UC4",
+    "title": "#MeetFirebase with Raj Gundluru"
+  },
+  {
+    "id": "k5_4oLyHzDQ",
+    "title": "Cloud Functions for database, UI data updates #AskFirebase"
+  },
+  {
+    "id": "52yUcKLMKX0",
+    "title": "Getting started with Firebase Authentication in Unity - Firecasts"
+  },
+  {
+    "id": "2hcHQtuR6l0",
+    "title": "APIs for Firebase console, Dart in Cloud Run, & more! #AskFirebase"
+  },
+  {
+    "id": "8atwgDi-Ohg",
+    "title": "#AskFirebase -- Firebase Asks You at Firebase Summit 2019"
+  },
+  {
+    "id": "YKZ6rP4kwV8",
+    "title": "Firebase Summit '19 Highlights Reel"
+  },
+  {
+    "id": "u9m8kutg0zw",
+    "title": "What’s New in Firebase 2019 (Part 2)"
+  },
+  {
+    "id": "DkXtV-XzYOQ",
+    "title": "Accelerate app development with Firebase Extensions (Firebase Summit 2019)"
+  },
+  {
+    "id": "l7GEL0sEvqI",
+    "title": "How to integrate Firebase into an existing app (Firebase Summit 2019)"
+  },
+  {
+    "id": "rgKN_k431QA",
+    "title": "Roll out new features safely, confidently & reliably (Firebase Summit 2019)"
+  },
+  {
+    "id": "NIXshaHt-zQ",
+    "title": "How fast growing apps move quickly with Crashlytics (Firebase Summit 2019)"
+  },
+  {
+    "id": "XrltP8bOHT0",
+    "title": "Firebase offline: What works, what doesn't, and what you need to know (Firebase Summit 2019)"
+  },
+  {
+    "id": "GZO12IEHXI4",
+    "title": "Overcome launch anxieties and ship apps with ease (Firebase Summit 2019)"
+  },
+  {
+    "id": "DHbVyRLkX4c",
+    "title": "Faster web apps with Firebase (Firebase Summit 2019)"
+  },
+  {
+    "id": "wO70Pnv0yeo",
+    "title": "Opening Keynote (Firebase Summit 2019)"
+  },
+  {
+    "id": "vQxNDp_oA9Q",
+    "title": "How media companies are transforming their digital experiences (Firebase Summit 2019)"
+  },
+  {
+    "id": "tKHCxw4Au3o",
+    "title": "Building richer app experiences with Machine Learning (Firebase Summit 2019)"
+  },
+  {
+    "id": "q4Y4PgwlW-Q",
+    "title": "Firebase can help you bring your web app A-game (Firebase Summit 2019)"
+  },
+  {
+    "id": "9YOWO2zQkmY",
+    "title": "Introducing Firebase Extensions"
+  },
+  {
+    "id": "EiIoqMtDhx4",
+    "title": "Mighty Immersion improves patient care (Firebase Developer Story)"
+  },
+  {
+    "id": "SiPOaV-5j9o",
+    "title": "Introducing Firebase App Distribution"
+  },
+  {
+    "id": "A6du3DUTIPI",
+    "title": "Getting started with Firebase in Unity (2019) - Firecasts"
+  },
+  {
+    "id": "qbd_4LT0Y4s",
+    "title": "Data types and global objects in Firebase security rules - Firecasts"
+  },
+  {
+    "id": "jT7LzjDDVTA",
+    "title": "#AskFirebase Livestream Segment Promo"
+  },
+  {
+    "id": "9sOT5VOflvQ",
+    "title": "Granular permissions for reading and writing documents in Cloud Firestore - Firecasts"
+  },
+  {
+    "id": "OjIAsZtWZAs",
+    "title": "How to Watch the Firebase Livestream on 9/26"
+  },
+  {
+    "id": "_GXd3JLPmHs",
+    "title": "Meet Software Engineer for Firebase’s Upcoming Product #MeetFirebase"
+  },
+  {
+    "id": "oip34d9oiEU",
+    "title": "Matching documents in Cloud Firestore (Part 2) - Firecasts"
+  },
+  {
+    "id": "4n_c8MPfAfA",
+    "title": "Matching documents in Cloud Firestore (Part 1) - Firecasts"
+  },
+  {
+    "id": "r4HgdJKM5ko",
+    "title": "Getting Started with Cloud Storage for Firebase on Android - Firecasts"
+  },
+  {
+    "id": "3aoxOtMM2rc",
+    "title": "To Realtime or Not?  | Get to know Cloud Firestore #10"
+  },
+  {
+    "id": "zra2DCd0DnY",
+    "title": "Getting Started with Firebase Dynamic Links on Android - Firecasts"
+  },
+  {
+    "id": "QEuu9X9L-MU",
+    "title": "Introduction to Firebase Security Rules - Firecasts"
+  },
+  {
+    "id": "ip9wwVEQaUE",
+    "title": "Real-Time Database, Cloud Firestore, & more! #AskFirebase"
+  },
+  {
+    "id": "_s-LH1e_gDs",
+    "title": "Get ready for the Firebase Summit 2019!"
+  },
+  {
+    "id": "SwyWcpV4vpk",
+    "title": "Firebase A/B Testing #AskFirebase"
+  },
+  {
+    "id": "BBTiDMTlAT4",
+    "title": "What’s New in Firebase 2019"
+  },
+  {
+    "id": "lG0FzoiFHDk",
+    "title": "Firebase In-App Messaging, Admin SDK #AskFirebase"
+  },
+  {
+    "id": "oDvdAFP6OhQ",
+    "title": "How do I Enable Offline Support?  | Get to know Cloud Firestore #9"
+  },
+  {
+    "id": "0pBIz0wXMjQ",
+    "title": "Adding multiple users to Firebase Auth, using Phone Number Auth, & more! #AskFirebase"
+  },
+  {
+    "id": "9Gr8H26suPc",
+    "title": "Hybrid approach to Firestore Pricing, implement 1 query, & more! #AskFirebase"
+  },
+  {
+    "id": "esDyV-VxUW8",
+    "title": "A/B Testing #AskFirebase"
+  },
+  {
+    "id": "U0xu7BdNYAY",
+    "title": "#AskFirebase -- Firebase Asks You at Google I/O 2019"
+  },
+  {
+    "id": "Bg1Kb-mMnAM",
+    "title": "Engage and Keep Your Users in Your App with Firebase (Google I/O'19)"
+  },
+  {
+    "id": "BGCLPiR_0Lg",
+    "title": "Three New Ways to Secure Your App with Firebase Authentication (Google I/O'19)"
+  },
+  {
+    "id": "WfWkeAEcs-k",
+    "title": "Turn Your App Data into Answers with Firebase and BigQuery (Google I/O'19)"
+  },
+  {
+    "id": "NwY6jkohseg",
+    "title": "Architecting Mobile Web Apps (Google I/O'19)"
+  },
+  {
+    "id": "ouZkadjMn94",
+    "title": "Understand and Engage Your Top Users with Dynamic Audiences (Google I/O'19)"
+  },
+  {
+    "id": "Gjx3CspYYeg",
+    "title": "Add Serverless Functionality to Android Apps with Firebase (Google I/O'19)"
+  },
+  {
+    "id": "lW7DWV2jST0",
+    "title": "Cloud Firestore Data Modeling (Google I/O'19)"
+  },
+  {
+    "id": "QwHD36bhXZA",
+    "title": "ML Kit: Machine Learning for Mobile with Firebase (Google I/O'19)"
+  },
+  {
+    "id": "x8qTEMkZCPs",
+    "title": "What's New in Firebase (Google I/O'19)"
+  },
+  {
+    "id": "twrHtWQmE_U",
+    "title": "Develop Games with Firebase (Google I/O'19)"
+  },
+  {
+    "id": "gvbq12bGqHI",
+    "title": "Zero to App: Live Coding a Cross-Platform App on Firebase (Google I/O'19)"
+  },
+  {
+    "id": "LZUlPUsmd_w",
+    "title": "Hotstar uses Firebase + BigQuery to roll out features & analyze data (Firebase Developer Story)"
+  },
+  {
+    "id": "B3RDAl0q6KM",
+    "title": "Adding multiple users to Firebase Auth, using Phone Number Auth, & more! #AskFirebase"
+  },
+  {
+    "id": "_z26e2M9ilk",
+    "title": "Dialog customization, debugging, In-app messaging, & more! #AskFirebase"
+  },
+  {
+    "id": "dOVSr0OsAoU",
+    "title": "How do Transactions Work? | Get to know Cloud Firestore #8"
+  },
+  {
+    "id": "DletQHfNGCE",
+    "title": "Getting Started with Analytics on iOS #2: User Properties (Firecasts)"
+  },
+  {
+    "id": "v3eG9xpzNXM",
+    "title": "Minimizing cold start time (Firecasts)"
+  },
+  {
+    "id": "xu5A1seU6PU",
+    "title": "Understanding Cloud Functions: Configuration settings (Firecasts)"
+  },
+  {
+    "id": "Pwsy8XR7HNE",
+    "title": "Understanding Cloud Functions: Retries and idempotence (Firecasts)"
+  },
+  {
+    "id": "MzTS6mFDGjU",
+    "title": "Understanding Cloud Functions: Dealing with parallel execution (Firecasts)"
+  },
+  {
+    "id": "poqTHxtDXwU",
+    "title": "How Do I Paginate My Data? | Get to know Cloud Firestore #7"
+  },
+  {
+    "id": "kpkW78OSbiw",
+    "title": "Getting Started with Analytics on iOS #1: Events (Firecasts)"
+  },
+  {
+    "id": "CLjMGTV8vKo",
+    "title": "Splitting index.ts, & exporting multiple Cloud Functions #AskFirebase"
+  },
+  {
+    "id": "2mjfI0FYP7Y",
+    "title": "Managing Instance Resources with Cloud Functions for Firebase  (Firecasts)"
+  },
+  {
+    "id": "rCpKxpIMg6o",
+    "title": "Function Scaling and Isolation With Cloud Functions for Firebase (Firecasts)"
+  },
+  {
+    "id": "LqCi-TaUfJs",
+    "title": "Getting Started with Dynamic Links on iOS - Pt.3: Creating links programmatically (Firecasts)"
+  },
+  {
+    "id": "Elg2zDVIcLo",
+    "title": "Tracking your Firebase hosting bandwidth, & Firestore reference fields #AskFirebase"
+  },
+  {
+    "id": "D6V-pyE_ywA",
+    "title": "Firebase Test Lab: using Robo Tests (Firecasts)"
+  },
+  {
+    "id": "52dqwWOyKy0",
+    "title": "Debug app performance with Firebase Performance Monitoring #MeetFirebase"
+  },
+  {
+    "id": "_FRClhniG6Q",
+    "title": "Cloud Firestore collections, triggers, & more! #AskFirebase"
+  },
+  {
+    "id": "eW5MdE3ZcAw",
+    "title": "Security Rules! 🔑 | Get to know Cloud Firestore #6"
+  },
+  {
+    "id": "KKaZFkIvs_M",
+    "title": "Closing out issues, identifying users in crash reports, & more! #AskFirebase"
+  },
+  {
+    "id": "He0kYhPjOfU",
+    "title": "A Firebase Holiday Spectacular"
+  },
+  {
+    "id": "TSzhzR4wzSE",
+    "title": "GDPR, Privacy, and Firebase Security Rules #AskFirebase"
+  },
+  {
+    "id": "Yq32eUYg6Lc",
+    "title": "What’s the difference between a Web Worker and a Service Worker? #AskFirebase"
+  },
+  {
+    "id": "C3bjBOZ0wbs",
+    "title": "Meet Software Engineer of Cloud Functions for Firebase #MeetFirebase"
+  },
+  {
+    "id": "ba_td0U5bmE",
+    "title": "Exploring the streets of Prague for #FirebaseSummit"
+  },
+  {
+    "id": "Le-paogMtIU",
+    "title": "#AskFirebase -- Firebase Asks You at the Firebase Summit 2018"
+  },
+  {
+    "id": "qGAIimfrBB4",
+    "title": "Choosing between databases, clearing persistence cache, & FCM data! #AskFirebase"
+  },
+  {
+    "id": "3gX-eUyJS18",
+    "title": "6 tips to follow in a post-GDPR world"
+  },
+  {
+    "id": "o0aUuKztO4A",
+    "title": "Getting started with Firebase Test Lab on Android (Firecasts)"
+  },
+  {
+    "id": "Q-zeS8wXVMY",
+    "title": "Top 5 reasons to add ML Kit to your Android or iOS app"
+  },
+  {
+    "id": "lN0VXVXsj9k",
+    "title": "Join the Firebase community! (Highlights from #FirebaseSummit '18)"
+  },
+  {
+    "id": "Hlxby1Mmic8",
+    "title": "Integrating back-end systems with Firebase for better app management (Firebase Summit 2018)"
+  },
+  {
+    "id": "JeyxolsJ3aE",
+    "title": "Go serverless: manage payments in your apps (Firebase Summit 2018)"
+  },
+  {
+    "id": "nhgWEXkbn4A",
+    "title": "How to go serverless in a post-GDPR world (Firebase Summit 2018)"
+  },
+  {
+    "id": "VPLkd_aqKwU",
+    "title": "Smarter Segmentation with Audiences and Predictions (Firebase Summit 2018)"
+  },
+  {
+    "id": "lIzQJC21uus",
+    "title": "Opening Keynote (Firebase Summit 2018)"
+  },
+  {
+    "id": "RDOR1u8yzJw",
+    "title": "Supercharge your app with Firebase and BigQuery (Firebase Summit 2018)"
+  },
+  {
+    "id": "bTSWzddyL7E",
+    "title": "ML Kit: Machine learning for mobile developers (Firebase Summit 2018)"
+  },
+  {
+    "id": "pvLkkLjHdkw",
+    "title": "Five tips to secure your app (Firebase Summit 2018)"
+  },
+  {
+    "id": "IzlWigpAcjM",
+    "title": "How can Firebase improve the user experience of your app? (Firebase Summit 2018)"
+  },
+  {
+    "id": "c66gQzNNHuA",
+    "title": "Engage your users with targeted notifications (Firebase Summit 2018)"
+  },
+  {
+    "id": "DS3gz72atew",
+    "title": "Why web developers (should) love Firebase (Firebase Summit 2018)"
+  },
+  {
+    "id": "haMOUb3KVSo",
+    "title": "How to Structure Your Data | Get to know Cloud Firestore #5"
+  },
+  {
+    "id": "rnK5uPXOixI",
+    "title": "The Firebase YouTube channel: here to help you build better apps"
+  },
+  {
+    "id": "l27s84hTQVA",
+    "title": "App email verification, database security rules, & more! #AskFirebase"
+  },
+  {
+    "id": "iSC5ed6OowA",
+    "title": "Getting started with Dynamic Links on iOS - Pt.2 (Firecasts)"
+  },
+  {
+    "id": "hQ4fb6kcCkU",
+    "title": "Writing Security Rules #MeetFirebase"
+  },
+  {
+    "id": "KLBjAg6HvG0",
+    "title": "Getting started with Firebase Dynamic Links on iOS - Pt.1 (Firecasts)"
+  },
+  {
+    "id": "Rirg_3AvbI0",
+    "title": "Firebase Crashlytics for Tracking Real-Time Issues #AskFirebase"
+  },
+  {
+    "id": "3hj_r_N0qMs",
+    "title": "Controlling Data Access Using Firebase Auth Custom Claims (Firecasts)"
+  },
+  {
+    "id": "HaAsNhR2RCQ",
+    "title": "Cloud Firestore, Cloud Functions, & more! #AskFirebase"
+  },
+  {
+    "id": "WzbZMDyvC9Q",
+    "title": "Meet a UX Designer for Cloud Firestore #MeetFirebase"
+  },
+  {
+    "id": "o7d5Zeic63s",
+    "title": "Maps, Arrays and Subcollections, Oh My! | Get to know Cloud Firestore #4"
+  },
+  {
+    "id": "lGqKYpvLkhE",
+    "title": "How to import Firebase with JavaScript modules - Firecasts"
+  },
+  {
+    "id": "XdrdLv1y9xk",
+    "title": "Live coding a lazy loaded comment system with Firebase | Firebase Semi-live Ep.1"
+  },
+  {
+    "id": "Vn8X-KQsb6w",
+    "title": "Firebase Remote Config - migrating keys, refreshing the cache, & more! #AskFirebase"
+  },
+  {
+    "id": "U6ueIqGH0-Q",
+    "title": "Improve app quality with Firebase + Fabric"
+  },
+  {
+    "id": "YEUKdmSHK9k",
+    "title": "Better user engagement with Firebase (Firebase Developer Story)"
+  },
+  {
+    "id": "433h2igNXjo",
+    "title": "Engage app users with Firebase In-App Messaging (Pt.2) #MeetFirebase"
+  },
+  {
+    "id": "dBiM3BhK9xQ",
+    "title": "Engage app users with Firebase In-App Messaging (Pt.1) #MeetFirebase"
+  },
+  {
+    "id": "pnedl093foc",
+    "title": "How Sworkit scaled with Firebase (Firebase Developer Story)"
+  },
+  {
+    "id": "oFlHzF5U-HA",
+    "title": "How to Build a Secure App in Firebase (Firebase Pro Series)"
+  },
+  {
+    "id": "5MRKpvKV2pg",
+    "title": "Firebase In-App Messaging: Engage active app users with contextual messages"
+  },
+  {
+    "id": "G8C4x8bXt74",
+    "title": "Put Cloud Functions for Firebase to use! #AskFirebase"
+  },
+  {
+    "id": "9CObBsjk6Tc",
+    "title": "Debugging Realtime Database Performance (Firebase Pro Series)"
+  },
+  {
+    "id": "PmLFvrrApBs",
+    "title": "Announcing the Firebase Summit 2018 in Prague!"
+  },
+  {
+    "id": "cI0rQ0IeDNI",
+    "title": "Introducing the Firebase Pro Series!"
+  },
+  {
+    "id": "TPKA88_FmkA",
+    "title": "Realtime Database triggers (pt. 3) with Cloud Functions for Firebase - Firecasts"
+  },
+  {
+    "id": "gvRe-C7ZtDc",
+    "title": "Customize your app instantly with Firebase Remote Config #AskFirebase"
+  },
+  {
+    "id": "Bdm7QNwSHOg",
+    "title": "Realtime Database triggers (pt.2) with Cloud Functions for Firebase - Firecasts"
+  },
+  {
+    "id": "lbGEu0PNsfY",
+    "title": "Navigating Firebase Authentication (Pt.2) | #AskFirebase"
+  },
+  {
+    "id": "DglTSNEdl0U",
+    "title": "Realtime Database triggers (pt. 1) with Cloud Functions for Firebase - Firecasts"
+  },
+  {
+    "id": "NAQs6KvJyEw",
+    "title": "Dealing with mobile app privacy & security #MeetFirebase"
+  },
+  {
+    "id": "KBWbwNcTiAQ",
+    "title": "Firebase + Fabric #MeetFirebase"
+  },
+  {
+    "id": "6NegFl9p_sE",
+    "title": "Cloud Firestore Pricing | Get to know Cloud Firestore #3"
+  },
+  {
+    "id": "ffZdF4MmbmU",
+    "title": "Migrating from Google Cloud Messaging (GCM) to Firebase Cloud Messaging (FCM) #AskFirebase"
+  },
+  {
+    "id": "Jr7pDZ1RAUg",
+    "title": "Use async/await with TypeScript in Cloud Functions for Firebase - Firecasts"
+  },
+  {
+    "id": "UvKXttBKuRw",
+    "title": "What Cloud Functions for Firebase can do for you #AskFirebase"
+  },
+  {
+    "id": "TCYhr_UMZkI",
+    "title": "How does async/await work with TypeScript and ECMAScript 2017? - Firecasts"
+  },
+  {
+    "id": "fx43Yck94dU",
+    "title": "Firebase Crashlytics on Android - Firecasts"
+  },
+  {
+    "id": "Fdujge_kUyU",
+    "title": "Firebase Crashlytics on iOS - Firecasts"
+  },
+  {
+    "id": "Ofux_4c94FI",
+    "title": "How do queries work in Cloud Firestore? | Get to know Cloud Firestore #2"
+  },
+  {
+    "id": "xdVJHs34uKE",
+    "title": "UX designer from Firebase Performance Monitoring (Pt.2) #MeetFirebase"
+  },
+  {
+    "id": "6MmLMISPfJQ",
+    "title": "UX designer from Firebase Performance Monitoring (Pt.1) #MeetFirebase"
+  },
+  {
+    "id": "ltm9EWpV124",
+    "title": "Use Firebase Cloud Messaging to notify your apps users #AskFirebase"
+  },
+  {
+    "id": "elBqlNDJfPc",
+    "title": "#AskFirebase -- Firebase Asks You at Google I/O 2018"
+  },
+  {
+    "id": "8wQ_MorYCEk",
+    "title": "Add Firebase to your cross-platform React Native or Flutter app (Google I/O '18)"
+  },
+  {
+    "id": "7rH6ECWsq3c",
+    "title": "Top 5 Firebase announcements at Google I/O 2018"
+  },
+  {
+    "id": "yLbFKPuiJE0",
+    "title": "UX and APIs that developers and users love (Google I/O '18)"
+  },
+  {
+    "id": "UW4Ifflzn3s",
+    "title": "Pave the way to start using Firebase at work (Google I/O '18)"
+  },
+  {
+    "id": "HlmizBWJk6A",
+    "title": "Integrate Firebase into your existing backend infrastructure (Google I/O '18)"
+  },
+  {
+    "id": "v5b0AOdgb5o",
+    "title": "Upgrade to Firebase Cloud Messaging (Google I/O '18)"
+  },
+  {
+    "id": "11i823E9rg8",
+    "title": "Change the way you work with Analytics (Google I/O '18)"
+  },
+  {
+    "id": "Z-dqGRSsaBs",
+    "title": "ML Kit: Machine Learning SDK for mobile developers (Google I/O '18)"
+  },
+  {
+    "id": "p4yLzYwy_4g",
+    "title": "Total mobile development made fun with Flutter and Firebase (Google I/O '18)"
+  },
+  {
+    "id": "7_2CJs_VZk4",
+    "title": "Build blazing fast web content sites with Firebase and AMP (Google I/O '18)"
+  },
+  {
+    "id": "gpoqgQPwu_k",
+    "title": "Improve app performance and stability with Firebase (Google I/O '18)"
+  },
+  {
+    "id": "D5ZHIxP5nZk",
+    "title": "5 ways to make your app more successful with Firebase (Google I/O '18)"
+  },
+  {
+    "id": "9pwBgGgfHP8",
+    "title": "Build planetary scale apps with Firebase (Google I/O '18)"
+  },
+  {
+    "id": "e-8fiv-vteQ",
+    "title": "What's new in Firebase (Google I/O '18)"
+  },
+  {
+    "id": "OxMQORNh2E4",
+    "title": "Introducing Firebase A/B Testing"
+  },
+  {
+    "id": "RcZn5iD-z9s",
+    "title": "Build better apps, improve quality, and grow with Firebase (Firebase Developer Story)"
+  },
+  {
+    "id": "eIKR0RyyUWE",
+    "title": "Navigating Firebase Authentication - #AskFirebase"
+  },
+  {
+    "id": "d9GrysWH1Lc",
+    "title": "Learn JavaScript Promises (Pt 3) for sequential and parallel work in Cloud Functions - Firecasts"
+  },
+  {
+    "id": "Ab6_o94xup4",
+    "title": "Firebase Hosting & CLI Tech Lead (Pt.2) - #MeetFirebase"
+  },
+  {
+    "id": "akzfaXNPids",
+    "title": "Firebase Hosting & CLI Tech Lead (Pt.1) - #MeetFirebase"
+  },
+  {
+    "id": "652XeeKNHSk",
+    "title": "Learn JavaScript Promises (Pt. 2) with a Firestore Trigger in Cloud Functions - Firecasts"
+  },
+  {
+    "id": "68tIcpnj8c8",
+    "title": "Successful Apps that used Firebase to grow & scale - #AskFirebase"
+  },
+  {
+    "id": "7IkUgCLr5oA",
+    "title": "Learn JavaScript Promises (Pt.1) with HTTP Triggers in Cloud Functions - Firecasts"
+  },
+  {
+    "id": "DYfP-UIKxH0",
+    "title": "Getting Started with Cloud Functions for Firebase using TypeScript - Firecasts"
+  },
+  {
+    "id": "iHqqUoqvYx4",
+    "title": "Using Firebase to make a PWA (Progressive Web App) #AskFirebase"
+  },
+  {
+    "id": "v_hR4K4auoQ",
+    "title": "What is a NoSQL Database? How is Cloud Firestore structured? | Get to know Cloud Firestore #1"
+  },
+  {
+    "id": "xAAEFTJMBu0",
+    "title": "From contributing on Stack Overflow to joining the Firebase Team #MeetFirebase"
+  },
+  {
+    "id": "Kq5gjpzRGJA",
+    "title": "Does Cloud Firestore Support findByIdAndUpdate? #AskFirebase"
+  },
+  {
+    "id": "ZBiFhC6FJxM",
+    "title": "Server-Side Rendering with Firebase Live Stream"
+  },
+  {
+    "id": "wKkSaimrUJY",
+    "title": "How the Admin SDK Works with Java, Cloud Auth, & More! #AskFirebase"
+  },
+  {
+    "id": "yylnC3dr_no",
+    "title": "Getting Started with Cloud Firestore with Python - Firecasts"
+  },
+  {
+    "id": "6m6pC0OzO2s",
+    "title": "#MeetFirebase Chats with a Developer Programs Engineer at Google"
+  },
+  {
+    "id": "Mcsp59_2E7E",
+    "title": "Getting Started with Cloud Firestore with Java - Firecasts"
+  },
+  {
+    "id": "MT0uQ8XCCyo",
+    "title": "Using Firestore & Predictions to Craft the Best User Experience #AskFirebase"
+  },
+  {
+    "id": "Y5XX2lruhxs",
+    "title": "Measuring Vue SSR Performance with Nuxt.js (Server-side Rendering with JavaScript Frameworks)"
+  },
+  {
+    "id": "9rN29jENirI",
+    "title": "Getting Started with Cloud Firestore with Go - Firecasts"
+  },
+  {
+    "id": "IeexEiFprY8",
+    "title": "Migrate from Google Cloud Messaging to Firebase Cloud Messaging - Firecasts"
+  },
+  {
+    "id": "ZYUWsjUxxUQ",
+    "title": "Server-Side Render Vue Apps with Nuxt.js (Server-side Rendering with JavaScript Frameworks)"
+  },
+  {
+    "id": "Z87OZtIYC_0",
+    "title": "Getting Started with Cloud Firestore with Node.js - Firecasts"
+  },
+  {
+    "id": "KeIx-mArUck",
+    "title": "What's the Difference Between Cloud Firestore & Firebase Realtime Database? #AskFirebase"
+  },
+  {
+    "id": "3pUgWpabrK8",
+    "title": "#MeetFirebase with Amber Heinbockel from Firebase Crashlytics"
+  },
+  {
+    "id": "IdKEhWAV-kE",
+    "title": "Is it Possible to Retrieve Subcollections in Cloud Firestore? #AskFirebase"
+  },
+  {
+    "id": "tLNJtnLIyPI",
+    "title": "#AskFirebase with Jen and Puf"
+  },
+  {
+    "id": "FPIJwrr5x4g",
+    "title": "Minting Custom Tokens with the Admin SDK for Python - Firecasts"
+  },
+  {
+    "id": "_yxX7uSKQRU",
+    "title": "Happy Holidays from the Firebase YouTube Channel!"
+  },
+  {
+    "id": "YGxrAB1MNEY",
+    "title": "A/B Test Like a Pro #6: Advanced Topics in A/B Testing"
+  },
+  {
+    "id": "WtYzHTXHBp0",
+    "title": "Minting Custom Tokens with the Admin SDK for Node.js - Firecasts"
+  },
+  {
+    "id": "3t7ihxy-gws",
+    "title": "#MeetFirebase with John Burge from Firebase Predictions"
+  },
+  {
+    "id": "Fi2dv6NcHWA",
+    "title": "Minting Custom Tokens with the Admin SDK for Java - Firecasts"
+  },
+  {
+    "id": "DBrV1SMEWzU",
+    "title": "How to #AskFirebase with Puf - #AskFirebase"
+  },
+  {
+    "id": "5HscGDUnO0w",
+    "title": "A/B Test Like a Pro #5: How I Added Remote Config to my iOS App"
+  },
+  {
+    "id": "VuqEOjBMQWE",
+    "title": "Minting Custom Tokens with the Admin SDK for Go - Firecasts"
+  },
+  {
+    "id": "244DL0YXdhU",
+    "title": "Getting Started with Firebase Predictions - Firecasts"
+  },
+  {
+    "id": "R1Kj4bSnX7Q",
+    "title": "A/B Test Like a Pro #4: A/B Test Your Notifications, Too!"
+  },
+  {
+    "id": "UMz9dSPGzoo",
+    "title": "A/B Test Like a Pro #3: Understanding Experiment Results"
+  },
+  {
+    "id": "Q8J2RWozzx8",
+    "title": "A/B Test Like a Pro #2: Creating an Experiment"
+  },
+  {
+    "id": "ph-gNsKX2oA",
+    "title": "A/B Test Like a Pro #1: Preparing for A/B Testing"
+  },
+  {
+    "id": "0UcFlnH-kfU",
+    "title": "Firebase Dev Summit 2017 Highlights"
+  },
+  {
+    "id": "Cf4V7vjjxpE",
+    "title": "UI at Scale: Rebuilding the Data Viewer (Firebase Dev Summit 2017)"
+  },
+  {
+    "id": "pxNrkjBeHpw",
+    "title": "BigQuery for Analytics (Firebase Dev Summit 2017)"
+  },
+  {
+    "id": "tResEeK6P5I",
+    "title": "Write Production Quality Cloud Functions (Firebase Dev Summit 2017)"
+  },
+  {
+    "id": "WpddWfIxzOw",
+    "title": "Building Quality Apps with Crashlytics & Firebase Performance (Firebase Dev Summit 2017)"
+  },
+  {
+    "id": "BS2yy1KnzcI",
+    "title": "Build Better Games with Firebase (Firebase Dev Summit 2017)"
+  },
+  {
+    "id": "W3xIOQu0h1w",
+    "title": "Introducing Cloud Firestore (Firebase Dev Summit 2017)"
+  },
+  {
+    "id": "scfOk5SgrKU",
+    "title": "Automating Your App's Release Process Using Fastlane (Firebase Dev Summit 2017)"
+  },
+  {
+    "id": "ROdfwKFH6u8",
+    "title": "A/B Testing and More with Firebase (Firebase Dev Summit 2017)"
+  },
+  {
+    "id": "VTkM5BbnslU",
+    "title": "Zero to App: Live Coding an App with Firebase (Firebase Dev Summit 2017)"
+  },
+  {
+    "id": "PBnUyyRI-Hk",
+    "title": "Actionable Insights with Firebase Predictions (Firebase Dev Summit 2017)"
+  },
+  {
+    "id": "puUqJTJVz5A",
+    "title": "Extending Firebase to the Web (Firebase Dev Summit 2017)"
+  },
+  {
+    "id": "csf6nhN1MAY",
+    "title": "Understand and Grow Your App with Firebase (Firebase Dev Summit 2017)"
+  },
+  {
+    "id": "HSo8gx2d6aM",
+    "title": "Keynote (Firebase Dev Summit 2017)"
+  },
+  {
+    "id": "ORrvrVEHJz4",
+    "title": "Introducing Firebase Predictions"
+  },
+  {
+    "id": "k_mdNRZzd30",
+    "title": "Introducing Firebase Crashlytics"
+  },
+  {
+    "id": "uaeXbb5GzEs",
+    "title": "Doodle increases user engagement 42% (Firebase Developer Story)"
+  },
+  {
+    "id": "xXOaFxDYbZo",
+    "title": "Questions from Firebase Developers - #AskFirebase"
+  },
+  {
+    "id": "3dwpUiQGfB8",
+    "title": "Get ready for the Firebase Dev Summit!"
+  },
+  {
+    "id": "X2nHEBnJUy4",
+    "title": "Preact vs. React (Server-side Rendering with JavaScript Frameworks)"
+  },
+  {
+    "id": "qJyKZ6txShU",
+    "title": "Switching from React to Preact (Server-side Rendering with JavaScript Frameworks)"
+  },
+  {
+    "id": "GH3kJwQ7mxM",
+    "title": "How Fast is React SSR? (Server-side Rendering with JavaScript Frameworks)"
+  },
+  {
+    "id": "iGjd6uB-wkU",
+    "title": "This is the Firebase YouTube Channel"
+  },
+  {
+    "id": "82tZAPMHfT4",
+    "title": "Server-side Rendering React from Scratch! (Server-side Rendering with JavaScript Frameworks)"
+  },
+  {
+    "id": "kDZYIhNkQoM",
+    "title": "Getting Started With Cloud Firestore on Android - Firecasts"
+  },
+  {
+    "id": "rvxYRm6n_NM",
+    "title": "Getting Started With Cloud Firestore on iOS - Firecasts"
+  },
+  {
+    "id": "QcsAb2RR52c",
+    "title": "Introducing Cloud Firestore"
+  },
+  {
+    "id": "geckI2J6naM",
+    "title": "Measuring Angular Universal Page Load Performance (Server-side Rendering with JavaScript Frameworks)"
+  },
+  {
+    "id": "gxCu5TEmxXE",
+    "title": "Angular Universal and Firebase Hosting (Server-side Rendering with JavaScript Frameworks)"
+  },
+  {
+    "id": "D_Gu6XVeA0M",
+    "title": "#MeetFirebase with Kat Fang, tech lead for Cloud Storage for Firebase"
+  },
+  {
+    "id": "GQzn7XRdzxY",
+    "title": "What is Server-Side Rendering? (Server-side Rendering with JavaScript Frameworks)"
+  },
+  {
+    "id": "nbTn1czE2L8",
+    "title": "New Series! Server-side Rendering with JavaScript Frameworks"
+  },
+  {
+    "id": "U7a8-7de6iU",
+    "title": "Is there a Kotlin API for Cloud Functions? - #AskFirebase"
+  },
+  {
+    "id": "6c-Oeq-lq_4",
+    "title": "Launching AppShip3000 with Abe Haskins - #AskFirebase"
+  },
+  {
+    "id": "nxt93qyf7ec",
+    "title": "Phone Auth on Android with Firebase - Firecasts"
+  },
+  {
+    "id": "LO65DgXorkI",
+    "title": "#MeetFirebase with Uday Bidkar from Firebase Performance Monitoring"
+  },
+  {
+    "id": "CZ-Ahh6v0PY",
+    "title": "Phone Auth on iOS with Firebase - Firecasts"
+  },
+  {
+    "id": "c93iGKyvh3o",
+    "title": "How Firebase Cloud Functions support custom domains - #AskFirebase"
+  },
+  {
+    "id": "axr5xAawlXA",
+    "title": "Comparing Database and HTTP Triggers for Sanitizing Data - #AskFirebase"
+  },
+  {
+    "id": "yZ7bblb-6-I",
+    "title": "#MeetFirebase with James Daniels from Firebase Developer Relations"
+  },
+  {
+    "id": "Oiaj1WMUTLs",
+    "title": "#AskFirebase -- Firebase Asks You at Google I/O 2017"
+  },
+  {
+    "id": "-t9e88uieWE",
+    "title": "#MeetFirebase Special Edition from Google I/O 2017"
+  },
+  {
+    "id": "2JPn7Fvcwhs",
+    "title": "Learn About Phone Auth in Firebase! - Firecasts"
+  },
+  {
+    "id": "chUCCzXA48k",
+    "title": "What's the difference between event.data.ref and event.data.adminRef? - #AskFirebase"
+  },
+  {
+    "id": "7E0kilyBByI",
+    "title": "Tap goes from idea to launch in no time flat (Firebase Developer Story)"
+  },
+  {
+    "id": "SnWwkURpwxs",
+    "title": "Cloud Functions, Testability, and Open Source (Google I/O '17)"
+  },
+  {
+    "id": "guo-4IOqx2M",
+    "title": "Data Pipelines with Firebase and Google Cloud (Google I/O '17)"
+  },
+  {
+    "id": "_ErGooSuTPA",
+    "title": "Firebase Recipes to Bootstrap Your App (Google I/O '17)"
+  },
+  {
+    "id": "eWj6dxfN63g",
+    "title": "Architecting for Data Contention in a Realtime World with Firebase (Google I/O '17)"
+  },
+  {
+    "id": "w2TcYP8qiRI",
+    "title": "Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)"
+  },
+  {
+    "id": "RdqV_N0sCpM",
+    "title": "Supercharging Firebase Apps with Machine Learning and Cloud Functions (Google I/O '17)"
+  },
+  {
+    "id": "1Z6_uA4cAWU",
+    "title": "Rewarding for Engagement with Firebase (Google I/O '17)"
+  },
+  {
+    "id": "WF1Wfpw42OA",
+    "title": "AdMob and Firebase -- Better Together (Google I/O '17)"
+  },
+  {
+    "id": "R3v8EcYzf_M",
+    "title": "Building Fast Web Experiences with Firebase Hosting (Google I/O '17)"
+  },
+  {
+    "id": "HwFIxbCR4Hs",
+    "title": "Great App Performance with Firebase (Google I/O '17)"
+  },
+  {
+    "id": "lTRsICoXE34",
+    "title": "Hands-On Advice in Using Growth Technologies to Build and Retain Your User Base (Google I/O '17)"
+  },
+  {
+    "id": "9Fmsw5yzW5I",
+    "title": "How to Build Robust Mobile Applications for the Distributed Cloud (Google I/O '17)"
+  },
+  {
+    "id": "ACGKk-MWgWU",
+    "title": "Fabric + Firebase: Building Momentum at Google (Google I/O '17)"
+  },
+  {
+    "id": "BYwiwWQDhv0",
+    "title": "Using Pirate Metrics to Grow Your User Base (Google I/O '17)"
+  },
+  {
+    "id": "G-MBeEW92v4",
+    "title": "What's Possible with Cloud Functions for Firebase (Google I/O '17)"
+  },
+  {
+    "id": "01M_hZav9Gw",
+    "title": "Zero to App: Live coding a Firebase app in JavaScript, Kotlin, and Swift (Google I/O '17)"
+  },
+  {
+    "id": "6nOQ3Z5n2A8",
+    "title": "Using Firebase to Accelerate App Growth: Overview & Updates (Google I/O '17)"
+  },
+  {
+    "id": "hF98FZXOm8s",
+    "title": "Shipping Santa Tracker: Carefully Roll out a Feature to a Million Users (Google I/O '17)"
+  },
+  {
+    "id": "4ygl3UUDH3Q",
+    "title": "Google Analytics for Firebase: Overview and Updates (Google I/O '17)"
+  },
+  {
+    "id": "ZIe0Fn9OtnY",
+    "title": "Build Modern Apps with Firebase and Google Cloud Platform (Google I/O '17)"
+  },
+  {
+    "id": "-Jh-Ai7ssg8",
+    "title": "Building High Quality Apps and Games with Firebase (Google I/O '17)"
+  },
+  {
+    "id": "m7a26ymUu2U",
+    "title": "What's New in Firebase (Google I/O '17)"
+  },
+  {
+    "id": "IRk6n3M4d2E",
+    "title": "What's new in Firebase 2017"
+  },
+  {
+    "id": "_TODzz7nEsE",
+    "title": "Meet Fabric"
+  },
+  {
+    "id": "0EHSPFvH7vk",
+    "title": "Introducing Firebase Performance Monitoring"
+  },
+  {
+    "id": "8iZpH7O6zXo",
+    "title": "Introducing Google Analytics for Firebase"
+  },
+  {
+    "id": "yWJxxT6L1qA",
+    "title": "Copy Your Analytics Data to a Spreadsheet with this One WEIRD Trick! - Firecasts"
+  },
+  {
+    "id": "OZPjgPK2YAA",
+    "title": "Where do you see Firebase in 5 years? - #AskFirebase"
+  },
+  {
+    "id": "UZ9s_20Hk3U",
+    "title": "Verify your email users - Firecasts"
+  },
+  {
+    "id": "RSeje3NNyuU",
+    "title": "#MeetFirebase with James Tamplin, co-founder of Firebase"
+  },
+  {
+    "id": "o0goc4zxIBE",
+    "title": "Can I use Cloud Functions with Unity? - #AskFirebase"
+  },
+  {
+    "id": "j_TmBxFNaBo",
+    "title": "#MeetFirebase with Lauren Long from Cloud Functions for Firebase"
+  },
+  {
+    "id": "nV0htV6N6M4",
+    "title": "Remote Config behavior and Database Triggers with Todd Kerpelman and Doug Stevenson - #AskFirebase"
+  },
+  {
+    "id": "6teT7CFgC0Y",
+    "title": "#MeetFirebase with Laurence Moroney from Firebase Authentication"
+  },
+  {
+    "id": "vr0Gfvp5v1A",
+    "title": "Introducing Cloud Functions for Firebase"
+  },
+  {
+    "id": "7i8NmHkg65c",
+    "title": "#MeetFirebase with Alex Geboff, from the Firebase Tech Writing team"
+  },
+  {
+    "id": "3mDzJoDJIqc",
+    "title": "Getting Started with Firebase Remote Config on iOS: Swift Version - Firecasts"
+  },
+  {
+    "id": "Xm-_Pd1azw8",
+    "title": "Pirate Metrics: Go Viral With Firebase"
+  },
+  {
+    "id": "66lDSYtyils",
+    "title": "Top questions from Stack Overflow and Twitter with Frank van Puffelen, Part II - #AskFirebase"
+  },
+  {
+    "id": "sJw-ok4W_hE",
+    "title": "Firebase Auth UI, on Android - Firecasts"
+  },
+  {
+    "id": "zUET5LtCzMA",
+    "title": "Pirate Metrics: Making Money with Firebase"
+  },
+  {
+    "id": "XbNcQqoi_S8",
+    "title": "Getting Started with Remote Config on Android - Firecasts"
+  },
+  {
+    "id": "dhjywqZ2MXU",
+    "title": "Pirate Metrics: Retain More Users With Firebase"
+  },
+  {
+    "id": "oQ7UYBLPVSM",
+    "title": "#MeetFirebase with Pedro Nunes from Firebase Crash Reporting"
+  },
+  {
+    "id": "OsWZ3vcInq8",
+    "title": "Getting Started with Firebase Crash Reporting for Android - Firecasts"
+  },
+  {
+    "id": "8dYbIPNNqxY",
+    "title": "Pirate Metrics: Activate Your Users With Firebase"
+  },
+  {
+    "id": "9S5WKthmHEU",
+    "title": "Pirate Metrics: Better Acquisition With Firebase"
+  },
+  {
+    "id": "HjlQH3RsGcU",
+    "title": "Top questions from Stack Overflow and Twitter with Frank van Puffelen - #AskFirebase"
+  },
+  {
+    "id": "0g-MFSCQN2A",
+    "title": "Pirate Metrics: (AARRR) with Firebase"
+  },
+  {
+    "id": "la1-dRGe8Yo",
+    "title": "#MeetFirebase with Ali Berlin Johnson from the Firebase Design team"
+  },
+  {
+    "id": "6TWJ_rR7K6g",
+    "title": "Firebase Remote Config Loading Strategies - Firecasts"
+  },
+  {
+    "id": "A1SDBIViRtE",
+    "title": "Understanding Firebase Cloud Messaging on iOS - Firecasts"
+  },
+  {
+    "id": "rtoxRg-kbt0",
+    "title": "Securing your data structure with Security Rules - The Firebase Database For SQL Developers #8"
+  },
+  {
+    "id": "WMeJfNOBuQU",
+    "title": "#MeetFirebase with Nalin Mittal from Firebase Crash Reporting"
+  },
+  {
+    "id": "KPpK65BX80o",
+    "title": "Getting Started with Firebase Cloud Messaging on Android - Firecasts"
+  },
+  {
+    "id": "i1n9Kw3AORw",
+    "title": "Data consistency with Multi-path updates - The Firebase Database For SQL Developers #7"
+  },
+  {
+    "id": "WcW93aYlrLc",
+    "title": "Happy holidays from the Firebase team!"
+  },
+  {
+    "id": "vKqXSZLLnHA",
+    "title": "Denormalization is normal with the Firebase Database - The Firebase Database For SQL Developers #6"
+  },
+  {
+    "id": "AXn1Y2oZL-Q",
+    "title": "#MeetFirebase with Zayna Shahzad from Firebase App Indexing"
+  },
+  {
+    "id": "OhwILkYnUuE",
+    "title": "Getting started with Firebase App Indexing on Android - Firecasts"
+  },
+  {
+    "id": "Idu9EJPSxiY",
+    "title": "Joins in the Firebase Database - The Firebase Database For SQL Developers #5"
+  },
+  {
+    "id": "Ki_F6VCOtXU",
+    "title": "Getting started with Firebase Analytics, BigQuery - Firecasts"
+  },
+  {
+    "id": "sKFLI5FOOHs",
+    "title": "Common SQL Queries converted for the Firebase Database - The Firebase Database For SQL Developers #4"
+  },
+  {
+    "id": "FwU-as9mS1c",
+    "title": "#MeetFirebase with Matt Gaunt from Firebase Cloud Messaging"
+  },
+  {
+    "id": "UbCq0LXUxtE",
+    "title": "Getting started with Firebase Analytics on iOS: Audiences - Firecasts"
+  },
+  {
+    "id": "3WTQZV5-roY",
+    "title": "Firebase Database Querying 101 - The Firebase Database For SQL Developers #3"
+  },
+  {
+    "id": "UvC3cLrkhE4",
+    "title": "Highlights from #FirebaseDevSummit 2016 in Berlin, Germany"
+  },
+  {
+    "id": "9Pjn_LHz9Ys",
+    "title": "#MeetFirebase with Odomitchi Anikpo from Firebase Test Lab"
+  },
+  {
+    "id": "DvS_eW_1J6g",
+    "title": "All the talks, codelabs and conversations from #FirebaseDevSummit 2016"
+  },
+  {
+    "id": "ran_Ylug7AE",
+    "title": "Converting SQL structures to Firebase structures - The Firebase Database For SQL Developers #2"
+  },
+  {
+    "id": "WacqhiI-g_o",
+    "title": "SQL Databases and the Firebase Database - The Firebase Database For SQL Developers #1"
+  },
+  {
+    "id": "SfenWGeHarE",
+    "title": "Introducing the Firebase Database for SQL Developers series"
+  },
+  {
+    "id": "zssCC6rXyGk",
+    "title": "Firebase Keynote (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "BLUDiJVh8KY",
+    "title": "Summit Report: Carrie talks about partner outreach (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "nI30Uh6xQYU",
+    "title": "Summit Report: Alice talks about Partner Stories (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "bGRIEhIiVHI",
+    "title": "Summit Report: Justin and Ali on Crash Reporting (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "KClYcPjZL_k",
+    "title": "Firebase for Games (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "LGTiae03sb8",
+    "title": "Firebase iOS Deep Dive (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "yciyuNi9W48",
+    "title": "Growth Hacking with Firebase (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "6EOtAC7hsbs",
+    "title": "Summit Report: Growth Hacking with Laurence Moroney (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "Mu98f8eCNlU",
+    "title": "Develop Mobile Apps without Infrastructure (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "cuLjyFGAABE",
+    "title": "Develop Rock-Solid Apps with Firebase (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "mPPrGrTbt70",
+    "title": "Summit Report: #AskFirebase Lounge with Doug Stevenson (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "gd3ouIoAK9U",
+    "title": "Firebase Partner Lightning Talk: Alibaba (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "QqmAXlrpmGs",
+    "title": "Firebase Partner Lightning Talk: Glide (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "47N3MBY5uG4",
+    "title": "Firebase Partner Lightning Talk: The Economist (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "TxAOjwSc9sY",
+    "title": "Action-Packed Analytics (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "-5FLLDOi7_M",
+    "title": "Summit Report: Shanea talks about Firebase Training (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "kj3Doh7IMoA",
+    "title": "Summit Report: Registration and codelabs with Peter Lubbers (Firebase Dev Summit 2016)"
+  },
+  {
+    "id": "JEm9L0PJLn0",
+    "title": "Watch the 2016 #FirebaseDevSummit livestream and sessions talks on Youtube!"
+  },
+  {
+    "id": "Q5K3polPiKY",
+    "title": "Database client behavior on Android and open sourcing your app with Doug Stevenson - #AskFirebase"
+  },
+  {
+    "id": "7puuTDSf3pk",
+    "title": "Getting Started with Firebase Storage on Android - Firecasts"
+  },
+  {
+    "id": "KF_8XXLUUYk",
+    "title": "ReactNative, FCM, and Swift 3 with Todd Kerpelman - #AskFirebase"
+  },
+  {
+    "id": "hp0OMI61oL0",
+    "title": "Choosing Your Auth Route - Firecasts"
+  },
+  {
+    "id": "YOfrvmyIo1A",
+    "title": "Firebase Cloud Messaging and Notifications with Laurence Moroney - #AskFirebase"
+  },
+  {
+    "id": "6sIZvHOEw6Q",
+    "title": "Firebase Security Rules with Mike McDonald - #AskFirebase"
+  },
+  {
+    "id": "pEg8KuZ4lkc",
+    "title": "How to use Firebase on the server - #AskFirebase"
+  },
+  {
+    "id": "ib-T51UpgK8",
+    "title": "Firebase Dev Summit, FirebaseAuth, Angular 2 and lots of caffeine - #AskFirebase"
+  },
+  {
+    "id": "pVtIVfJJ35w",
+    "title": "Getting Started with Firebase Notifications on iOS - Firecasts"
+  },
+  {
+    "id": "-6BXBI4KkwY",
+    "title": "Dynamic Links, interactive push notifications, and realtime chat apps on iOS - #AskFirebase"
+  },
+  {
+    "id": "Bd4-6pnjjd8",
+    "title": "Getting Started with Firebase Storage on iOS - Firecasts"
+  },
+  {
+    "id": "bOVel7kGgEs",
+    "title": "Building a realtime location sharing experience at IS© (Firebase Developer Story)"
+  },
+  {
+    "id": "Hdnu0Fo_jsI",
+    "title": "AngularFire, AnDevCon, and Cache Management with Magnus Hyttsten - #AskFirebase"
+  },
+  {
+    "id": "QLVzozWDYAs",
+    "title": "Deploying to Firebase Hosting from GitHub - Firecasts"
+  },
+  {
+    "id": "xyOVMlWh33g",
+    "title": "Reimagining the listening experience at NPR One (Firebase Developer Story)"
+  },
+  {
+    "id": "MK5T3H7EoUA",
+    "title": "What makes Firebase Analytics unique? - #AskFirebase"
+  },
+  {
+    "id": "YTgJjKU9GdQ",
+    "title": "Getting Started with AdWords and Firebase - Firecasts"
+  },
+  {
+    "id": "HtwK5wzmb5E",
+    "title": "How do Firebase notifications differ from APNS or GCM? - #AskFirebase"
+  },
+  {
+    "id": "ffVb8pBW1DM",
+    "title": "Set custom data in notifications and enable nodes in DB for offline support - #AskFirebase"
+  },
+  {
+    "id": "sbXF95-Qneo",
+    "title": "Getting Started with Firebase and AdMob on Android - Firecasts"
+  },
+  {
+    "id": "03Lh4nK1Z4w",
+    "title": "Getting Started with Firebase and AdMob on iOS - Firecasts"
+  },
+  {
+    "id": "nMR_JPfL4qg",
+    "title": "How to upload to Firebase Storage using Angular 2 - #AskFirebase"
+  },
+  {
+    "id": "gpiDUAirCXQ",
+    "title": "Which Google Cloud services work with Firebase? - #AskFirebase"
+  },
+  {
+    "id": "uxVfGROHqn8",
+    "title": "Can I use Firebase with React Native? - #AskFirebase"
+  },
+  {
+    "id": "nw6Kf3AtCz4",
+    "title": "A Youtube show to answer all your Firebase questions!  - #AskFirebase"
+  },
+  {
+    "id": "meofoNuK3vo",
+    "title": "Getting Started with Firebase Hosting on the Web - Firecasts"
+  },
+  {
+    "id": "XV2uTiZ9SH0",
+    "title": "Getting Started with Test Lab for Android - Firecasts"
+  },
+  {
+    "id": "zdVc8aZZT-I",
+    "title": "Getting Started with Firebase Remote Config on iOS - Firecasts"
+  },
+  {
+    "id": "Z9wLg6F0UqE",
+    "title": "Find 'em, Keep 'em: How ads get you the best app users - Google I/O 2016"
+  },
+  {
+    "id": "ZlPRefDSrhk",
+    "title": "Create a great user experience with native ads - Google I/O 2016"
+  },
+  {
+    "id": "EwYD_xqB7Qs",
+    "title": "Angular 2 - Google I/O 2016"
+  },
+  {
+    "id": "5hYMDfDoHpI",
+    "title": "5 Neat Tricks You Can Do With The Firebase Platform - Google I/O 2016"
+  },
+  {
+    "id": "7YIebVIRRN8",
+    "title": "Codeless Middleware: from paradox to reality - Google I/O 2016"
+  },
+  {
+    "id": "WiFgxtvpE1w",
+    "title": "Firebase for Games - Google I/O 2016"
+  },
+  {
+    "id": "gdN4MMJEa8M",
+    "title": "Fireside Chat: Firebase in the Real World - Google I/O 2016"
+  },
+  {
+    "id": "8wF-mKMsynE",
+    "title": "Creating interactive multiplayer experiences with Firebase - Google I/O 2016"
+  },
+  {
+    "id": "tyPvJBVkhrI",
+    "title": "Improve User Acquisition Campaigns with Firebase Analytics - Google I/O 2016"
+  },
+  {
+    "id": "SobXoh4rb58",
+    "title": "Progressive Web Apps on Firebase - Google I/O 2016"
+  },
+  {
+    "id": "0ucjYG_JrEE",
+    "title": "Best practices for a great sign-in experience - Google I/O 2016"
+  },
+  {
+    "id": "SXlidHy-Tb8",
+    "title": "Getting Started with Firebase Auth on Android - Firecasts"
+  },
+  {
+    "id": "xAsvwy1-oxE",
+    "title": "Zero to App: Develop with Firebase - Google I/O 2016"
+  },
+  {
+    "id": "M6p9YOzB2GA",
+    "title": "Configuring the world: Rapid actioning based on analytic insights - Google I/O 2016"
+  },
+  {
+    "id": "BftyfmILbrM",
+    "title": "Recipes for App Development with Firebase - Google I/O 2016"
+  },
+  {
+    "id": "Mpuf6gMTeY0",
+    "title": "Earn more revenue from the AdMob platform - Google I/O 2016"
+  },
+  {
+    "id": "VpbNFIY1qJ0",
+    "title": "GCM is now FCM (Firebase Cloud Messaging) - Google I/O 2016"
+  },
+  {
+    "id": "DELEDwCy77w",
+    "title": "Firebase Fireside Chat - Google I/O 2016"
+  },
+  {
+    "id": "CwgWOHgHHJE",
+    "title": "Firebase App Indexing: Rules of Engagement - Google I/O 2016"
+  },
+  {
+    "id": "KpTSpVh9SfY",
+    "title": "Notifications: Everything you need in 45 minutes - Google I/O 2016"
+  },
+  {
+    "id": "L2LZKxdzY3g",
+    "title": "What iOS Developers Should Know About the Firebase Platform - Google I/O 2016"
+  },
+  {
+    "id": "lpFDFK44pX8",
+    "title": "Getting Started with the Firebase Realtime Database on Android - Firecasts"
+  },
+  {
+    "id": "7CWi_Olz0xw",
+    "title": "Cross-Platform coding without a net - Google I/O 2016"
+  },
+  {
+    "id": "AJqakuas_6g",
+    "title": "Firebase SDK for Android: A tech deep dive - Google I/O 2016"
+  },
+  {
+    "id": "4fyhgHQYG1U",
+    "title": "Increasing app quality with testing & monitoring - Google I/O 2016"
+  },
+  {
+    "id": "I-0y0BYPYvo",
+    "title": "Google Cloud Messaging performance factors - Google I/O 2016"
+  },
+  {
+    "id": "cYinms8LurA",
+    "title": "Deep Dive into the Realtime Database - Google I/O 2016"
+  },
+  {
+    "id": "v7T8ZAq7r1g",
+    "title": "Grow your app with Firebase using Notifications, App Indexing, Dynamic Links - Google I/O 2016"
+  },
+  {
+    "id": "PUBnlbjZFAI",
+    "title": "The key to Firebase security - Google I/O 2016"
+  },
+  {
+    "id": "joVi3thZOqc",
+    "title": "Getting Started with the Firebase Realtime Database on iOS - Firecasts"
+  },
+  {
+    "id": "yi23CLNeGaw",
+    "title": "Use Firebase Analytics to Build Extraordinary Apps - Google I/O 2016"
+  },
+  {
+    "id": "vAb-2d1vcg8",
+    "title": "Angular 2 and Progressive Web Apps - Google I/O 2016"
+  },
+  {
+    "id": "gHImBH75kpM",
+    "title": "Validating product ideas using Firebase - Google I/O 2016"
+  },
+  {
+    "id": "RWM9J6Mvu-4",
+    "title": "Migrate to Firebase - Google I/O 2016"
+  },
+  {
+    "id": "tb2GZ3Bh4p8",
+    "title": "Firebase Overview - Google I/O 2016"
+  },
+  {
+    "id": "rq-Axj79iNo",
+    "title": "Getting Started with Firebase Notifications on Android - Firecasts"
+  },
+  {
+    "id": "_tyjqozrEPY",
+    "title": "Introducing Cloud Storage for Firebase"
+  },
+  {
+    "id": "LvY1JMcrPF8",
+    "title": "Introducing Firebase Dynamic Links"
+  },
+  {
+    "id": "4_ZEEX1x17k",
+    "title": "Introducing Firebase Test Lab"
+  },
+  {
+    "id": "rTB7fTqMlS0",
+    "title": "Introducing Firebase Notifications"
+  },
+  {
+    "id": "jsRVHeQd5kU",
+    "title": "Introducing Firebase Hosting"
+  },
+  {
+    "id": "EPKmYheOmiw",
+    "title": "Introducing Firebase and AdMob by Google"
+  },
+  {
+    "id": "B7mlLVAkcfU",
+    "title": "Introducing Firebase Crash Reporting"
+  },
+  {
+    "id": "_CXXVFPO6f0",
+    "title": "Introducing Firebase Remote Config"
+  },
+  {
+    "id": "Cz9N9bUOwWA",
+    "title": "Introducing Firebase and Google AdWords"
+  },
+  {
+    "id": "8sGY55yxicA",
+    "title": "Introducing Firebase Authentication"
+  },
+  {
+    "id": "sioEY4tWmLI",
+    "title": "Introducing Firebase Cloud Messaging"
+  },
+  {
+    "id": "U5aeM5dvUpA",
+    "title": "Introducing Firebase Realtime Database"
+  },
+  {
+    "id": "O17OWyx08Cg",
+    "title": "Introducing Firebase"
+  }
+]
