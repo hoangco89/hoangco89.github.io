@@ -219,6 +219,8 @@ fetchJsonChude().then(data => {
         selectChude.appendChild(option);
     });
     restoreChude();
+    let channelurl = `https://www.youtube.com/channel/${selectChude.value}`;
+    churl.href = channelurl;
     taomenu_selectVideo(selectChude.value); // goi lan dau
 
 }); // end fetchJsonChude().then
@@ -272,6 +274,10 @@ async function taomenu_selectVideo(id_ofcddc){
 selectChude.addEventListener("change", () => {
     const chudeId = selectChude.value;
     localStorage.setItem("chude", chudeId);
+
+    let channelurl = `https://www.youtube.com/channel/${chudeId}`;
+    churl.href = channelurl;
+
 
     taomenu_selectVideo(chudeId);
 
