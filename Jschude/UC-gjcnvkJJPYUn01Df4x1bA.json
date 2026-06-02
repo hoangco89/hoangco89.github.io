@@ -1,5 +1,21 @@
 [
   {
+    "id": "ymaFQ2Xx-dY",
+    "title": "Bí Mật Của Tiếng Sôi Bụng: \"Người Quét Đường\" Thầm Lặng Của Ruột."
+  },
+  {
+    "id": "nnG9Tp-1kG4",
+    "title": "Tại Sao Các Bậc Thầy Tuổi Thọ Luôn Giữ Dạ Dày Trống Rỗng 30%?"
+  },
+  {
+    "id": "cSTLtUEv87M",
+    "title": "Building a \"Hunger Barrier\": Why Good Fats Are the Perfect Guardian for a 16-Hour Fast?"
+  },
+  {
+    "id": "jC478GCoBIU",
+    "title": "Boosting Metabolism: The Secret to \"Reviving\" Cells with Just One Glass of Water"
+  },
+  {
     "id": "_wRzgPuHD5Y",
     "title": "Tại Sao Bữa Sáng Đang Trở Thành \"Kẻ Thù\" Vắt Kiệt Tuyến Tụy Của Bạn?"
   },
@@ -157,7 +173,7 @@
   },
   {
     "id": "nppXhbo83rI",
-    "title": "Ăn Tết Khôn Ngoan: Cách Vui Chơi Hết Mình Mà Vẫn Giữ Dáng"
+    "title": "Celebrate Tet Wisely: How to Have Fun to the Fullest While Still Staying in Shape"
   },
   {
     "id": "TKUIAeUUrvc",
@@ -165,7 +181,7 @@
   },
   {
     "id": "aQE-2R46IV4",
-    "title": "Lòng Đỏ trứng: Là \"Tội đồ\" hay \"Thần dược\" bị Hiểu lầm?"
+    "title": "Egg Yolks: A Misunderstood \"Culprit\" or \"Miracle Cure\"?"
   },
   {
     "id": "8rXyW1A4F40",
@@ -197,7 +213,7 @@
   },
   {
     "id": "lWH6PGYwbGI",
-    "title": "Vegetable Oil vs. Pork Fat: The powerful resurgence of \"White Gold\""
+    "title": "Dầu Thực Vật Vs Mỡ Lợn: Sự trở mình mạnh mẽ của \"Vàng Trắng\""
   },
   {
     "id": "ZYbtnZYZZI0",
@@ -205,7 +221,7 @@
   },
   {
     "id": "h82VTcTSx1g",
-    "title": "Raw vegetables: A great source of enzymes or a breeding ground for parasites?"
+    "title": "Rau sống: Nguồn Enzyme Tuyệt vời hay Ổ chứa Ký Sinh trùng?"
   },
   {
     "id": "OFI3qIGm-UQ",
@@ -213,15 +229,15 @@
   },
   {
     "id": "fgP1oIFS-nI",
-    "title": "LPL (Lipoprotein Lipase): Fat-Strengthening Enzyme | Why Does It Work So Hard in the Abdomen and ..."
+    "title": "LPL (Lipoprotein Lipase): Enzyme Tích Mỡ | Tại Sao Nó Hoạt Động Mạnh Ở Bụng & Đùi?"
   },
   {
     "id": "Iz3axRGG69I",
-    "title": "📌LIPOLYSIS: The Process of Removing Fat from Cells - Why Can It Be Removed But Not Burned?"
+    "title": "📌LIPOLYSIS: Quy Trình Rút Mỡ Ra Khỏi Tế Bào - Tại Sao Rút Ra Được Nhưng Không Đốt Được?"
   },
   {
     "id": "_X4qbfyd-kE",
-    "title": "FAT CELLS: Not Just Storage Devices, They Are Endocrine Organs Controlling the Brain."
+    "title": "TẾ BÀO MỠ: Không Chỉ Là Kho Chứa, Nó Là Một Cơ Quan Nội Tiết Điều Khiển Não Bộ."
   },
   {
     "id": "zDKvIPp7WJo",
@@ -229,7 +245,7 @@
   },
   {
     "id": "ClwIGIHIBcI",
-    "title": "Tại Sao Người Béo Lâu Năm Khó Giảm Cân Hơn Người Mới Béo?"
+    "title": "Why is it harder for people who have been overweight for a long time to lose weight than those wh..."
   },
   {
     "id": "VbO9_gY17Mg",
@@ -253,7 +269,7 @@
   },
   {
     "id": "V5HmiaSr4fs",
-    "title": "Top 5 Sai Lầm Khi Uống Cà Phê Buổi Sáng Khiến Bạn Mệt Hơn."
+    "title": "Top 5 Mistakes When Drinking Coffee In The Morning That Make You More Tired."
   },
   {
     "id": "rqaqNP_7DzQ",
@@ -265,7 +281,7 @@
   },
   {
     "id": "ID509C6u2BQ",
-    "title": "📌7 Dấu Hiệu Cho Thấy PHỔI Của Bạn Đang Kêu Cứu (Đừng Để Mất Hơi Mới Chữa)."
+    "title": "📌7 Signs Your Lungs Are Crying for Help (Don't Wait Until You Lose Your Breath to Treat It)."
   },
   {
     "id": "EHdj2NjaldM",
@@ -273,11 +289,11 @@
   },
   {
     "id": "rIVEHhnENJ0",
-    "title": "🍳 Bảng Xếp Hạng 7 Cách Chế Biến Trứng: Cách Nào Bổ Dưỡng Nhất, Cách Nào \"Độc\" Nhất?"
+    "title": "🍳 Ranking of 7 Ways to Cook Eggs: Which Way is Most Nutritious, Which Way is Most \"Unique\"?"
   },
   {
     "id": "O1u6nHZxEp8",
-    "title": "☑️ Bóc Trần 6 Lời Đồn Về Nồi Chiên Không Dầu Khiến Bạn Sử Dụng Sai Cách."
+    "title": "☑️ Exposing 6 Rumors About Air Fryers That Make You Use Them Wrongly."
   },
   {
     "id": "94P5IQOng8c",
@@ -341,7 +357,7 @@
   },
   {
     "id": "FXKqR0QdQnc",
-    "title": "📗 Khoa Học Về Việc Đi Chân Trần: Sạc Năng Lượng Tự Nhiên, Xả Stress và Ngủ Ngon Hơn."
+    "title": "📗 The Science of Going Barefoot: Naturally Charge Your Energy, Relieve Stress, and Sleep Better."
   },
   {
     "id": "Mcn6qbP5Qc4",
@@ -421,7 +437,7 @@
   },
   {
     "id": "IBXGNCOemGI",
-    "title": "❤️ Intermittent Fasting: Natural \"Medicine\" For A Healthy Heart And Stable Blood Pressure"
+    "title": "❤️ Nhịn Ăn Gián đoạn: \"Liều Thuốc\" Tự nhiên Cho Trái Tim Khỏe mạnh và Huyết áp Ổn định"
   },
   {
     "id": "l3qXow-emdA",
@@ -445,7 +461,7 @@
   },
   {
     "id": "pDUhQ9PQ3z4",
-    "title": "⏱ Eat Right, Fast Right: Guide to Synchronizing IF with Biological Rhythms"
+    "title": "⏱ Ăn Đúng Nhịp, Nhịn Đúng Cách: Hướng dẫn Đồng bộ IF Với Nhịp Sinh học"
   },
   {
     "id": "uHK7J2Gplpw",
@@ -725,7 +741,7 @@
   },
   {
     "id": "2ZnHL8Rv8Oc",
-    "title": "🔵 Cách Ăn kiêng mà Không cần đếm Calo (Giảm cân cho người Lười)"
+    "title": "🔵 Dieting Methods Without Counting Calories (Weight Loss for Lazy People)"
   },
   {
     "id": "G6Lc5RYpp4I",
