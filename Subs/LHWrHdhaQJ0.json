@@ -1,0 +1,884 @@
+[
+  {
+    "start": 1.28,
+    "end": 4.6,
+    "text": "Three common morning habits may be",
+    "textdich": ""
+  },
+  {
+    "start": 2.95,
+    "end": 4.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2.96,
+    "end": 6.84,
+    "text": "putting unnecessary stress on your",
+    "textdich": ""
+  },
+  {
+    "start": 4.59,
+    "end": 6.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 4.6,
+    "end": 8.76,
+    "text": "stomach without you realizing it.",
+    "textdich": ""
+  },
+  {
+    "start": 6.83,
+    "end": 8.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 6.84,
+    "end": 11.48,
+    "text": "Millions of people do them every day,",
+    "textdich": ""
+  },
+  {
+    "start": 8.75,
+    "end": 11.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 8.76,
+    "end": 13.96,
+    "text": "but small changes can make",
+    "textdich": ""
+  },
+  {
+    "start": 11.47,
+    "end": 13.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 11.48,
+    "end": 16.32,
+    "text": "These habits often happen on autopilot",
+    "textdich": ""
+  },
+  {
+    "start": 13.95,
+    "end": 16.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 13.96,
+    "end": 17.685,
+    "text": "before the day even begins.",
+    "textdich": ""
+  },
+  {
+    "start": 16.31,
+    "end": 17.685,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 16.32,
+    "end": 17.8,
+    "text": "Let's explore each one",
+    "textdich": ""
+  },
+  {
+    "start": 17.675,
+    "end": 17.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 17.685,
+    "end": 20.0,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 17.79,
+    "end": 20.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 17.8,
+    "end": 22.28,
+    "text": " and the healthier alternative.",
+    "textdich": ""
+  },
+  {
+    "start": 19.99,
+    "end": 22.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 20.0,
+    "end": 24.32,
+    "text": " Habit number one, drinking coffee or tea",
+    "textdich": ""
+  },
+  {
+    "start": 22.27,
+    "end": 24.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 22.28,
+    "end": 25.84,
+    "text": "on an empty stomach. While many people",
+    "textdich": ""
+  },
+  {
+    "start": 24.31,
+    "end": 25.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 24.32,
+    "end": 27.04,
+    "text": "tolerate this well, others may",
+    "textdich": ""
+  },
+  {
+    "start": 25.83,
+    "end": 27.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 25.84,
+    "end": 28.76,
+    "text": "experience increased stomach ",
+    "textdich": ""
+  },
+  {
+    "start": 27.03,
+    "end": 28.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 27.04,
+    "end": 30.0,
+    "text": "discomfort, especially if they are prone",
+    "textdich": ""
+  },
+  {
+    "start": 28.75,
+    "end": 30.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 28.76,
+    "end": 31.52,
+    "text": "to acid reflux.",
+    "textdich": ""
+  },
+  {
+    "start": 29.99,
+    "end": 31.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 30.0,
+    "end": 33.84,
+    "text": " Overnight, your stomach continues",
+    "textdich": ""
+  },
+  {
+    "start": 31.51,
+    "end": 33.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 31.52,
+    "end": 35.32,
+    "text": "producing digestive secretions. In some",
+    "textdich": ""
+  },
+  {
+    "start": 33.83,
+    "end": 35.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 33.84,
+    "end": 37.08,
+    "text": "people, caffeine can stimulate",
+    "textdich": ""
+  },
+  {
+    "start": 35.31,
+    "end": 37.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 35.32,
+    "end": 38.76,
+    "text": "additional acid production, which may",
+    "textdich": ""
+  },
+  {
+    "start": 37.07,
+    "end": 38.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 37.08,
+    "end": 40.0,
+    "text": "worsen irritation if the stomach lining",
+    "textdich": ""
+  },
+  {
+    "start": 38.75,
+    "end": 40.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 38.76,
+    "end": 41.76,
+    "text": "is already sensitive.",
+    "textdich": ""
+  },
+  {
+    "start": 39.99,
+    "end": 41.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 40.0,
+    "end": 44.2,
+    "text": " This may contribute to symptoms such as",
+    "textdich": ""
+  },
+  {
+    "start": 41.75,
+    "end": 44.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 41.76,
+    "end": 46.32,
+    "text": "heartburn, indigestion, bloating, or a",
+    "textdich": ""
+  },
+  {
+    "start": 44.19,
+    "end": 46.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 44.2,
+    "end": 48.36,
+    "text": "burning sensation. Coffee can also",
+    "textdich": ""
+  },
+  {
+    "start": 46.31,
+    "end": 48.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 46.32,
+    "end": 50.12,
+    "text": "temporarily increase alertness by",
+    "textdich": ""
+  },
+  {
+    "start": 48.35,
+    "end": 50.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 48.36,
+    "end": 52.24,
+    "text": "stimulating the nervous system.",
+    "textdich": ""
+  },
+  {
+    "start": 50.11,
+    "end": 52.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 50.12,
+    "end": 54.6,
+    "text": " A simple strategy is to drink water",
+    "textdich": ""
+  },
+  {
+    "start": 52.23,
+    "end": 54.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 52.24,
+    "end": 57.36,
+    "text": "after waking, and",
+    "textdich": ""
+  },
+  {
+    "start": 54.59,
+    "end": 57.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 54.6,
+    "end": 61.52,
+    "text": "if coffee tends to upset your stomach,",
+    "textdich": ""
+  },
+  {
+    "start": 57.35,
+    "end": 61.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 57.36,
+    "end": 61.52,
+    "text": "consider eating a light breakfast first.",
+    "textdich": ""
+  },
+  {
+    "start": 61.67,
+    "end": 61.67,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 61.68,
+    "end": 65.28,
+    "text": "Habit number two,",
+    "textdich": ""
+  },
+  {
+    "start": 63.27,
+    "end": 65.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 63.28,
+    "end": 66.88,
+    "text": "spending long periods sitting on the",
+    "textdich": ""
+  },
+  {
+    "start": 65.27,
+    "end": 66.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 65.28,
+    "end": 69.4,
+    "text": "toilet while scrolling through your",
+    "textdich": ""
+  },
+  {
+    "start": 66.87,
+    "end": 69.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 66.88,
+    "end": 69.4,
+    "text": "phone.",
+    "textdich": ""
+  },
+  {
+    "start": 69.99,
+    "end": 69.99,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 70.0,
+    "end": 74.44,
+    "text": "Prolonged sitting on the toilet",
+    "textdich": ""
+  },
+  {
+    "start": 72.23,
+    "end": 74.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 72.24,
+    "end": 76.16,
+    "text": "may increase pressure on the veins",
+    "textdich": ""
+  },
+  {
+    "start": 74.43,
+    "end": 76.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 74.44,
+    "end": 78.12,
+    "text": "around the rectum.",
+    "textdich": ""
+  },
+  {
+    "start": 76.15,
+    "end": 78.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 76.16,
+    "end": 80.12,
+    "text": "Over time, this can contribute to",
+    "textdich": ""
+  },
+  {
+    "start": 78.11,
+    "end": 80.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 78.12,
+    "end": 82.64,
+    "text": "hemorrhoids in some people.",
+    "textdich": ""
+  },
+  {
+    "start": 80.11,
+    "end": 82.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 80.12,
+    "end": 85.805,
+    "text": " When you feel the natural urge, respond",
+    "textdich": ""
+  },
+  {
+    "start": 82.63,
+    "end": 85.805,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 82.64,
+    "end": 86.12,
+    "text": "promptly. Avoid lingering unnecessarily.",
+    "textdich": ""
+  },
+  {
+    "start": 85.795,
+    "end": 86.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 85.805,
+    "end": 88.04,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 86.11,
+    "end": 88.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 86.12,
+    "end": 91.04,
+    "text": " Keeping bathroom visits short may help",
+    "textdich": ""
+  },
+  {
+    "start": 88.03,
+    "end": 91.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 88.04,
+    "end": 91.04,
+    "text": "reduce strain.",
+    "textdich": ""
+  },
+  {
+    "start": 91.79,
+    "end": 91.79,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 91.8,
+    "end": 97.8,
+    "text": " Habit number three,",
+    "textdich": ""
+  },
+  {
+    "start": 93.75,
+    "end": 97.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 93.76,
+    "end": 97.8,
+    "text": "forgetting to drink water after waking.",
+    "textdich": ""
+  },
+  {
+    "start": 100.11,
+    "end": 100.11,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 100.12,
+    "end": 103.96,
+    "text": "After several hours of sleep without",
+    "textdich": ""
+  },
+  {
+    "start": 101.91,
+    "end": 103.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 101.92,
+    "end": 105.08,
+    "text": "fluids,  mild dehydration is",
+    "textdich": ""
+  },
+  {
+    "start": 103.95,
+    "end": 105.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 103.96,
+    "end": 106.766,
+    "text": "common.",
+    "textdich": ""
+  },
+  {
+    "start": 105.07,
+    "end": 106.766,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 105.08,
+    "end": 108.84,
+    "text": "Drinking water helps support normal",
+    "textdich": ""
+  },
+  {
+    "start": 106.756,
+    "end": 108.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 106.766,
+    "end": 110.88,
+    "text": " digestion and overall body",
+    "textdich": ""
+  },
+  {
+    "start": 108.83,
+    "end": 110.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 108.84,
+    "end": 112.76,
+    "text": "function.",
+    "textdich": ""
+  },
+  {
+    "start": 110.87,
+    "end": 112.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 110.88,
+    "end": 113.971,
+    "text": " Starting your morning with one or two",
+    "textdich": ""
+  },
+  {
+    "start": 112.75,
+    "end": 113.971,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 112.76,
+    "end": 114.24,
+    "text": "glasses of water",
+    "textdich": ""
+  },
+  {
+    "start": 113.961,
+    "end": 114.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 113.971,
+    "end": 116.16,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 114.23,
+    "end": 116.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 114.24,
+    "end": 120.0,
+    "text": " is a simple habit that supports",
+    "textdich": ""
+  },
+  {
+    "start": 116.15,
+    "end": 120.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 116.16,
+    "end": 122.08,
+    "text": "hydration before caffeine or breakfast.",
+    "textdich": ""
+  },
+  {
+    "start": 119.99,
+    "end": 122.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 120.0,
+    "end": 124.32,
+    "text": "Remember these three healthy habits.",
+    "textdich": ""
+  },
+  {
+    "start": 122.07,
+    "end": 124.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 122.08,
+    "end": 126.44,
+    "text": "Hydrate first, avoid lingering on the",
+    "textdich": ""
+  },
+  {
+    "start": 124.31,
+    "end": 126.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 124.32,
+    "end": 128.32,
+    "text": "toilet with your phone, and if coffee",
+    "textdich": ""
+  },
+  {
+    "start": 126.43,
+    "end": 128.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 126.44,
+    "end": 130.0,
+    "text": "bothers your stomach, eat something",
+    "textdich": ""
+  },
+  {
+    "start": 128.31,
+    "end": 130.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 128.32,
+    "end": 131.76,
+    "text": "before drinking it.",
+    "textdich": ""
+  },
+  {
+    "start": 129.99,
+    "end": 131.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 130.0,
+    "end": 133.8,
+    "text": "Small morning habits can support better",
+    "textdich": ""
+  },
+  {
+    "start": 131.75,
+    "end": 133.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 131.76,
+    "end": 135.72,
+    "text": "digestive health over time. If you",
+    "textdich": ""
+  },
+  {
+    "start": 133.79,
+    "end": 135.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 133.8,
+    "end": 138.16,
+    "text": "experience persistent stomach, seek",
+    "textdich": ""
+  },
+  {
+    "start": 135.71,
+    "end": 138.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 135.72,
+    "end": 140.04,
+    "text": "medical evaluation-ly. Follow for more",
+    "textdich": ""
+  },
+  {
+    "start": 138.15,
+    "end": 140.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 138.16,
+    "end": 141.959,
+    "text": "evidence-based health education.",
+    "textdich": ""
+  },
+  {
+    "start": 140.03,
+    "end": 141.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 140.04,
+    "end": 143.446,
+    "text": "Understanding your body is the first",
+    "textdich": ""
+  },
+  {
+    "start": 141.949,
+    "end": 143.446,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 141.959,
+    "end": 143.56,
+    "text": "step to true health.",
+    "textdich": ""
+  },
+  {
+    "start": 143.436,
+    "end": 143.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 143.446,
+    "end": 145.68,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 143.55,
+    "end": 145.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 143.56,
+    "end": 147.68,
+    "text": " Subscribe to Talk with Nurse Susan on",
+    "textdich": ""
+  },
+  {
+    "start": 145.67,
+    "end": 147.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 145.68,
+    "end": 151.959,
+    "text": "all social media platforms for",
+    "textdich": ""
+  },
+  {
+    "start": 147.67,
+    "end": 151.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 147.68,
+    "end": 151.959,
+    "text": "world-class trusted health education.",
+    "textdich": ""
+  }
+]
