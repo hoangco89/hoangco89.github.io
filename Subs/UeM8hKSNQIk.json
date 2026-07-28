@@ -1,0 +1,4988 @@
+[
+  {
+    "start": 0.32,
+    "end": 4.92,
+    "text": "Have you ever noticed that even when",
+    "textdich": ""
+  },
+  {
+    "start": 2.15,
+    "end": 4.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2.16,
+    "end": 7.04,
+    "text": "everything seems fine, your mind still",
+    "textdich": ""
+  },
+  {
+    "start": 4.91,
+    "end": 7.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 4.92,
+    "end": 8.96,
+    "text": "refuses to be quiet?",
+    "textdich": ""
+  },
+  {
+    "start": 7.03,
+    "end": 8.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 7.04,
+    "end": 9.825,
+    "text": "You wake up thinking about yesterday's",
+    "textdich": ""
+  },
+  {
+    "start": 8.95,
+    "end": 9.825,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 8.96,
+    "end": 10.04,
+    "text": "mistakes.",
+    "textdich": ""
+  },
+  {
+    "start": 9.815,
+    "end": 10.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 9.825,
+    "end": 11.8,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 10.03,
+    "end": 11.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 10.04,
+    "end": 14.12,
+    "text": " You spend the whole day worrying about",
+    "textdich": ""
+  },
+  {
+    "start": 11.79,
+    "end": 14.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 11.8,
+    "end": 16.52,
+    "text": "tomorrow. You compare yourself with",
+    "textdich": ""
+  },
+  {
+    "start": 14.11,
+    "end": 16.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 14.12,
+    "end": 18.76,
+    "text": "people who seem happier than you.",
+    "textdich": ""
+  },
+  {
+    "start": 16.51,
+    "end": 18.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 16.52,
+    "end": 21.84,
+    "text": "You keep searching for peace, but the",
+    "textdich": ""
+  },
+  {
+    "start": 18.75,
+    "end": 21.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 18.76,
+    "end": 23.4,
+    "text": "more you chase it, the farther it feels.",
+    "textdich": ""
+  },
+  {
+    "start": 21.83,
+    "end": 23.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 21.84,
+    "end": 24.72,
+    "text": "Some people believe that money will",
+    "textdich": ""
+  },
+  {
+    "start": 23.39,
+    "end": 24.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 23.4,
+    "end": 27.68,
+    "text": "bring peace.",
+    "textdich": ""
+  },
+  {
+    "start": 24.71,
+    "end": 27.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 24.72,
+    "end": 29.32,
+    "text": "Others think success, relationships, or",
+    "textdich": ""
+  },
+  {
+    "start": 27.67,
+    "end": 29.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 27.68,
+    "end": 30.48,
+    "text": "a better house will finally make them",
+    "textdich": ""
+  },
+  {
+    "start": 29.31,
+    "end": 30.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 29.32,
+    "end": 32.279,
+    "text": "calm.",
+    "textdich": ""
+  },
+  {
+    "start": 30.47,
+    "end": 32.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 30.48,
+    "end": 34.16,
+    "text": "But after getting those things, many",
+    "textdich": ""
+  },
+  {
+    "start": 32.269,
+    "end": 34.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 32.279,
+    "end": 36.0,
+    "text": "people still feel empty.",
+    "textdich": ""
+  },
+  {
+    "start": 34.15,
+    "end": 36.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 34.16,
+    "end": 37.64,
+    "text": "Maybe the biggest problem is not that",
+    "textdich": ""
+  },
+  {
+    "start": 35.99,
+    "end": 37.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 36.0,
+    "end": 39.4,
+    "text": "life is noisy.",
+    "textdich": ""
+  },
+  {
+    "start": 37.63,
+    "end": 39.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 37.64,
+    "end": 41.88,
+    "text": "Maybe the biggest problem is that our",
+    "textdich": ""
+  },
+  {
+    "start": 39.39,
+    "end": 41.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 39.4,
+    "end": 43.72,
+    "text": "minds never stop making noise.",
+    "textdich": ""
+  },
+  {
+    "start": 41.87,
+    "end": 43.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 41.88,
+    "end": 47.4,
+    "text": "If you also feel tired because of",
+    "textdich": ""
+  },
+  {
+    "start": 43.71,
+    "end": 47.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 43.72,
+    "end": 49.84,
+    "text": "overthinking, stress, regret, or the",
+    "textdich": ""
+  },
+  {
+    "start": 47.39,
+    "end": 49.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 47.4,
+    "end": 52.04,
+    "text": "pressure to always do more, then this",
+    "textdich": ""
+  },
+  {
+    "start": 49.83,
+    "end": 52.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 49.84,
+    "end": 55.08,
+    "text": "story is for you.",
+    "textdich": ""
+  },
+  {
+    "start": 52.03,
+    "end": 55.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 52.04,
+    "end": 56.76,
+    "text": " Hello everyone. My name is Wally, and",
+    "textdich": ""
+  },
+  {
+    "start": 55.07,
+    "end": 56.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 55.08,
+    "end": 59.2,
+    "text": "today I want to share the story of an",
+    "textdich": ""
+  },
+  {
+    "start": 56.75,
+    "end": 59.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 56.76,
+    "end": 61.68,
+    "text": "old man named Alexander.",
+    "textdich": ""
+  },
+  {
+    "start": 59.19,
+    "end": 61.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 59.2,
+    "end": 63.56,
+    "text": "It is a story set many years ago, but",
+    "textdich": ""
+  },
+  {
+    "start": 61.67,
+    "end": 63.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 61.68,
+    "end": 65.28,
+    "text": "its lesson is more valuable today than",
+    "textdich": ""
+  },
+  {
+    "start": 63.55,
+    "end": 65.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 63.56,
+    "end": 68.04,
+    "text": "ever before.",
+    "textdich": ""
+  },
+  {
+    "start": 65.27,
+    "end": 68.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 65.28,
+    "end": 69.92,
+    "text": "Listen until the end because one simple",
+    "textdich": ""
+  },
+  {
+    "start": 68.03,
+    "end": 69.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 68.04,
+    "end": 71.08,
+    "text": "decision changed Alexander's life",
+    "textdich": ""
+  },
+  {
+    "start": 69.91,
+    "end": 71.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 69.92,
+    "end": 74.0,
+    "text": "forever.",
+    "textdich": ""
+  },
+  {
+    "start": 71.07,
+    "end": 74.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 71.08,
+    "end": 75.64,
+    "text": "And maybe it can change yours, too.",
+    "textdich": ""
+  },
+  {
+    "start": 73.99,
+    "end": 75.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 74.0,
+    "end": 78.44,
+    "text": " Many years ago, there was a small",
+    "textdich": ""
+  },
+  {
+    "start": 75.63,
+    "end": 78.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 75.64,
+    "end": 80.84,
+    "text": "village surrounded by green hills, quiet",
+    "textdich": ""
+  },
+  {
+    "start": 78.43,
+    "end": 80.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 78.44,
+    "end": 82.56,
+    "text": "rivers, and old trees that had stood",
+    "textdich": ""
+  },
+  {
+    "start": 80.83,
+    "end": 82.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 80.84,
+    "end": 84.56,
+    "text": "there for generations.",
+    "textdich": ""
+  },
+  {
+    "start": 82.55,
+    "end": 84.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 82.56,
+    "end": 86.0,
+    "text": "In that village lived an old man named",
+    "textdich": ""
+  },
+  {
+    "start": 84.55,
+    "end": 86.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 84.56,
+    "end": 88.24,
+    "text": "Alexander.",
+    "textdich": ""
+  },
+  {
+    "start": 85.99,
+    "end": 88.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 86.0,
+    "end": 89.72,
+    "text": "People respected him, but very few",
+    "textdich": ""
+  },
+  {
+    "start": 88.23,
+    "end": 89.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 88.24,
+    "end": 92.32,
+    "text": "understood him.",
+    "textdich": ""
+  },
+  {
+    "start": 89.71,
+    "end": 92.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 89.72,
+    "end": 94.12,
+    "text": "Every morning before sunrise, Alexander",
+    "textdich": ""
+  },
+  {
+    "start": 92.31,
+    "end": 94.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 92.32,
+    "end": 96.4,
+    "text": "walked slowly toward a hill outside the",
+    "textdich": ""
+  },
+  {
+    "start": 94.11,
+    "end": 96.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 94.12,
+    "end": 98.84,
+    "text": "village, carrying nothing except a",
+    "textdich": ""
+  },
+  {
+    "start": 96.39,
+    "end": 98.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 96.4,
+    "end": 99.92,
+    "text": "wooden walking stick and a small cloth",
+    "textdich": ""
+  },
+  {
+    "start": 98.83,
+    "end": 99.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 98.84,
+    "end": 102.0,
+    "text": "bag.",
+    "textdich": ""
+  },
+  {
+    "start": 99.91,
+    "end": 102.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 99.92,
+    "end": 104.801,
+    "text": "He would sit under the same old oak tree",
+    "textdich": ""
+  },
+  {
+    "start": 101.99,
+    "end": 104.801,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 102.0,
+    "end": 105.04,
+    "text": "for hours. He did not pray loudly.",
+    "textdich": ""
+  },
+  {
+    "start": 104.791,
+    "end": 105.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 104.801,
+    "end": 107.56,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 105.03,
+    "end": 107.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 105.04,
+    "end": 108.76,
+    "text": " He did not read books. He did not speak",
+    "textdich": ""
+  },
+  {
+    "start": 107.55,
+    "end": 108.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 107.56,
+    "end": 111.36,
+    "text": "to anyone.",
+    "textdich": ""
+  },
+  {
+    "start": 108.75,
+    "end": 111.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 108.76,
+    "end": 113.48,
+    "text": "He simply sat there in silence.",
+    "textdich": ""
+  },
+  {
+    "start": 111.35,
+    "end": 113.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 111.36,
+    "end": 116.88,
+    "text": "The villagers laughed at him.",
+    "textdich": ""
+  },
+  {
+    "start": 113.47,
+    "end": 116.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 113.48,
+    "end": 118.92,
+    "text": "\"What a waste of time.\" some would say.",
+    "textdich": ""
+  },
+  {
+    "start": 116.87,
+    "end": 118.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 116.88,
+    "end": 120.12,
+    "text": "\"If he worked harder, he could earn",
+    "textdich": ""
+  },
+  {
+    "start": 118.91,
+    "end": 120.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 118.92,
+    "end": 122.56,
+    "text": "more.\"",
+    "textdich": ""
+  },
+  {
+    "start": 120.11,
+    "end": 122.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 120.12,
+    "end": 125.12,
+    "text": " \"He has become strange.\"",
+    "textdich": ""
+  },
+  {
+    "start": 122.55,
+    "end": 125.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 122.56,
+    "end": 126.479,
+    "text": " Alexander never answered. He simply",
+    "textdich": ""
+  },
+  {
+    "start": 125.11,
+    "end": 126.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 125.12,
+    "end": 128.32,
+    "text": "smiled.",
+    "textdich": ""
+  },
+  {
+    "start": 126.469,
+    "end": 128.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 126.479,
+    "end": 130.28,
+    "text": "One afternoon, a young traveler named",
+    "textdich": ""
+  },
+  {
+    "start": 128.31,
+    "end": 130.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 128.32,
+    "end": 131.959,
+    "text": "Ethan arrived in the village.",
+    "textdich": ""
+  },
+  {
+    "start": 130.27,
+    "end": 131.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 130.28,
+    "end": 133.64,
+    "text": "Unlike the others, Ethan noticed",
+    "textdich": ""
+  },
+  {
+    "start": 131.949,
+    "end": 133.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 131.959,
+    "end": 136.32,
+    "text": "something unusual.",
+    "textdich": ""
+  },
+  {
+    "start": 133.63,
+    "end": 136.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 133.64,
+    "end": 139.48,
+    "text": "Alexander's clothes were old. His house",
+    "textdich": ""
+  },
+  {
+    "start": 136.31,
+    "end": 139.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 136.32,
+    "end": 141.481,
+    "text": "was small. He owned almost nothing.",
+    "textdich": ""
+  },
+  {
+    "start": 139.47,
+    "end": 141.481,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 139.48,
+    "end": 141.52,
+    "text": "But whenever people insulted him,",
+    "textdich": ""
+  },
+  {
+    "start": 141.471,
+    "end": 141.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 141.481,
+    "end": 143.24,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 141.51,
+    "end": 143.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 141.52,
+    "end": 145.56,
+    "text": " he remained calm.",
+    "textdich": ""
+  },
+  {
+    "start": 143.23,
+    "end": 145.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 143.24,
+    "end": 147.08,
+    "text": "Whenever something went wrong, he never",
+    "textdich": ""
+  },
+  {
+    "start": 145.55,
+    "end": 147.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 145.56,
+    "end": 149.08,
+    "text": "seemed angry.",
+    "textdich": ""
+  },
+  {
+    "start": 147.07,
+    "end": 149.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 147.08,
+    "end": 151.44,
+    "text": "His face carried a quiet peace that",
+    "textdich": ""
+  },
+  {
+    "start": 149.07,
+    "end": 151.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 149.08,
+    "end": 153.959,
+    "text": "Ethan had never seen before.",
+    "textdich": ""
+  },
+  {
+    "start": 151.43,
+    "end": 153.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 151.44,
+    "end": 156.48,
+    "text": "Ethan had traveled through many cities.",
+    "textdich": ""
+  },
+  {
+    "start": 153.949,
+    "end": 156.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 153.959,
+    "end": 159.36,
+    "text": "He had met rich merchants, famous",
+    "textdich": ""
+  },
+  {
+    "start": 156.47,
+    "end": 159.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 156.48,
+    "end": 161.04,
+    "text": "soldiers, respected teachers, and",
+    "textdich": ""
+  },
+  {
+    "start": 159.35,
+    "end": 161.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 159.36,
+    "end": 163.32,
+    "text": "powerful leaders.",
+    "textdich": ""
+  },
+  {
+    "start": 161.03,
+    "end": 163.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 161.04,
+    "end": 165.76,
+    "text": "All of them had money. All of them had",
+    "textdich": ""
+  },
+  {
+    "start": 163.31,
+    "end": 165.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 163.32,
+    "end": 168.28,
+    "text": "influence. But none of them looked as",
+    "textdich": ""
+  },
+  {
+    "start": 165.75,
+    "end": 168.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 165.76,
+    "end": 169.92,
+    "text": "peaceful as this old man.",
+    "textdich": ""
+  },
+  {
+    "start": 168.27,
+    "end": 169.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 168.28,
+    "end": 171.56,
+    "text": "The next morning, Ethan decided to",
+    "textdich": ""
+  },
+  {
+    "start": 169.91,
+    "end": 171.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 169.92,
+    "end": 173.72,
+    "text": "follow Alexander.",
+    "textdich": ""
+  },
+  {
+    "start": 171.55,
+    "end": 173.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 171.56,
+    "end": 175.84,
+    "text": "He quietly walked behind him until",
+    "textdich": ""
+  },
+  {
+    "start": 173.71,
+    "end": 175.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 173.72,
+    "end": 178.88,
+    "text": "Alexander reached the oak tree.",
+    "textdich": ""
+  },
+  {
+    "start": 175.83,
+    "end": 178.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 175.84,
+    "end": 180.68,
+    "text": "Alexander smiled without turning around.",
+    "textdich": ""
+  },
+  {
+    "start": 178.87,
+    "end": 180.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 178.88,
+    "end": 182.32,
+    "text": " You have been following me since",
+    "textdich": ""
+  },
+  {
+    "start": 180.67,
+    "end": 182.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 180.68,
+    "end": 183.84,
+    "text": "sunrise.",
+    "textdich": ""
+  },
+  {
+    "start": 182.31,
+    "end": 183.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 182.32,
+    "end": 185.92,
+    "text": " He said gently.",
+    "textdich": ""
+  },
+  {
+    "start": 183.83,
+    "end": 185.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 183.84,
+    "end": 187.72,
+    "text": "Ethan felt embarrassed.",
+    "textdich": ""
+  },
+  {
+    "start": 185.91,
+    "end": 187.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 185.92,
+    "end": 190.56,
+    "text": " I'm sorry.",
+    "textdich": ""
+  },
+  {
+    "start": 187.71,
+    "end": 190.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 187.72,
+    "end": 191.917,
+    "text": "There is no need to apologize.",
+    "textdich": ""
+  },
+  {
+    "start": 190.55,
+    "end": 191.917,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 190.56,
+    "end": 192.32,
+    "text": " Alexander replied.",
+    "textdich": ""
+  },
+  {
+    "start": 191.907,
+    "end": 192.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 191.917,
+    "end": 195.239,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 192.31,
+    "end": 195.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 192.32,
+    "end": 197.88,
+    "text": " If someone follows peace, he is already",
+    "textdich": ""
+  },
+  {
+    "start": 195.229,
+    "end": 197.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 195.239,
+    "end": 199.76,
+    "text": "walking in the right direction.",
+    "textdich": ""
+  },
+  {
+    "start": 197.87,
+    "end": 199.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 197.88,
+    "end": 201.44,
+    "text": " Ethan sat beside him.",
+    "textdich": ""
+  },
+  {
+    "start": 199.75,
+    "end": 201.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 199.76,
+    "end": 205.0,
+    "text": "For several minutes, neither of them",
+    "textdich": ""
+  },
+  {
+    "start": 201.43,
+    "end": 205.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 201.44,
+    "end": 206.88,
+    "text": "spoke. The silence became uncomfortable.",
+    "textdich": ""
+  },
+  {
+    "start": 204.99,
+    "end": 206.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 205.0,
+    "end": 209.36,
+    "text": "Finally, Ethan asked,",
+    "textdich": ""
+  },
+  {
+    "start": 206.87,
+    "end": 209.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 206.88,
+    "end": 211.0,
+    "text": " \"Everyone says you own nothing, yet you",
+    "textdich": ""
+  },
+  {
+    "start": 209.35,
+    "end": 211.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 209.36,
+    "end": 213.88,
+    "text": "look happier than anyone I have ever",
+    "textdich": ""
+  },
+  {
+    "start": 210.99,
+    "end": 213.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 211.0,
+    "end": 216.0,
+    "text": "met. What is your secret?\"",
+    "textdich": ""
+  },
+  {
+    "start": 213.87,
+    "end": 216.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 213.88,
+    "end": 217.48,
+    "text": " Alexander picked up a small stone from",
+    "textdich": ""
+  },
+  {
+    "start": 215.99,
+    "end": 217.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 216.0,
+    "end": 219.08,
+    "text": "the ground.",
+    "textdich": ""
+  },
+  {
+    "start": 217.47,
+    "end": 219.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 217.48,
+    "end": 220.56,
+    "text": " What do you see?",
+    "textdich": ""
+  },
+  {
+    "start": 219.07,
+    "end": 220.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 219.08,
+    "end": 223.08,
+    "text": " A stone.",
+    "textdich": ""
+  },
+  {
+    "start": 220.55,
+    "end": 223.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 220.56,
+    "end": 224.959,
+    "text": " Alexander nodded. He placed the stone",
+    "textdich": ""
+  },
+  {
+    "start": 223.07,
+    "end": 224.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 223.08,
+    "end": 226.48,
+    "text": "into Ethan's hand.",
+    "textdich": ""
+  },
+  {
+    "start": 224.949,
+    "end": 226.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 224.959,
+    "end": 229.36,
+    "text": " Hold it.",
+    "textdich": ""
+  },
+  {
+    "start": 226.47,
+    "end": 229.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 226.48,
+    "end": 230.48,
+    "text": " Ethan held it. After 1 minute, Alexander",
+    "textdich": ""
+  },
+  {
+    "start": 229.35,
+    "end": 230.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 229.36,
+    "end": 231.959,
+    "text": "asked,",
+    "textdich": ""
+  },
+  {
+    "start": 230.47,
+    "end": 231.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 230.48,
+    "end": 233.24,
+    "text": " Is it heavy?",
+    "textdich": ""
+  },
+  {
+    "start": 231.949,
+    "end": 233.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 231.959,
+    "end": 235.52,
+    "text": " No.",
+    "textdich": ""
+  },
+  {
+    "start": 233.23,
+    "end": 235.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 233.24,
+    "end": 237.72,
+    "text": " How does it feel now?",
+    "textdich": ""
+  },
+  {
+    "start": 235.51,
+    "end": 237.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 235.52,
+    "end": 239.76,
+    "text": " My hand is getting tired.",
+    "textdich": ""
+  },
+  {
+    "start": 237.71,
+    "end": 239.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 237.72,
+    "end": 241.6,
+    "text": " Alexander smiled.",
+    "textdich": ""
+  },
+  {
+    "start": 239.75,
+    "end": 241.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 239.76,
+    "end": 243.96,
+    "text": " Keep holding it.",
+    "textdich": ""
+  },
+  {
+    "start": 241.59,
+    "end": 243.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 241.6,
+    "end": 246.84,
+    "text": " Another 15 minutes passed.",
+    "textdich": ""
+  },
+  {
+    "start": 243.95,
+    "end": 246.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 243.96,
+    "end": 248.48,
+    "text": "Now Ethan's arm started shaking.",
+    "textdich": ""
+  },
+  {
+    "start": 246.83,
+    "end": 248.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 246.84,
+    "end": 251.92,
+    "text": " It hurts.",
+    "textdich": ""
+  },
+  {
+    "start": 248.47,
+    "end": 251.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 248.48,
+    "end": 254.92,
+    "text": " He admitted. Alexander asked quietly,",
+    "textdich": ""
+  },
+  {
+    "start": 251.91,
+    "end": 254.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 251.92,
+    "end": 256.239,
+    "text": " Has the stone become heavier?",
+    "textdich": ""
+  },
+  {
+    "start": 254.91,
+    "end": 256.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 254.92,
+    "end": 258.64,
+    "text": " No.",
+    "textdich": ""
+  },
+  {
+    "start": 256.229,
+    "end": 258.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 256.239,
+    "end": 260.16,
+    "text": " Then why does it hurt?",
+    "textdich": ""
+  },
+  {
+    "start": 258.63,
+    "end": 260.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 258.64,
+    "end": 261.48,
+    "text": " Because I have been holding it for too",
+    "textdich": ""
+  },
+  {
+    "start": 260.15,
+    "end": 261.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 260.16,
+    "end": 263.08,
+    "text": "long.",
+    "textdich": ""
+  },
+  {
+    "start": 261.47,
+    "end": 263.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 261.48,
+    "end": 265.16,
+    "text": " Alexander looked toward the river",
+    "textdich": ""
+  },
+  {
+    "start": 263.07,
+    "end": 265.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 263.08,
+    "end": 268.56,
+    "text": "flowing beside the hill.",
+    "textdich": ""
+  },
+  {
+    "start": 265.15,
+    "end": 268.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 265.16,
+    "end": 270.16,
+    "text": " Our worries are exactly like this stone.",
+    "textdich": ""
+  },
+  {
+    "start": 268.55,
+    "end": 270.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 268.56,
+    "end": 271.48,
+    "text": "Holding them for a moment helps us",
+    "textdich": ""
+  },
+  {
+    "start": 270.15,
+    "end": 271.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 270.16,
+    "end": 274.8,
+    "text": "learn.",
+    "textdich": ""
+  },
+  {
+    "start": 271.47,
+    "end": 274.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 271.48,
+    "end": 277.919,
+    "text": "Holding them for days makes us tired.",
+    "textdich": ""
+  },
+  {
+    "start": 274.79,
+    "end": 277.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 274.8,
+    "end": 279.08,
+    "text": "Holding them for years slowly destroys",
+    "textdich": ""
+  },
+  {
+    "start": 277.909,
+    "end": 279.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 277.919,
+    "end": 281.8,
+    "text": "us.",
+    "textdich": ""
+  },
+  {
+    "start": 279.07,
+    "end": 281.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 279.08,
+    "end": 283.44,
+    "text": " Ethan remained silent. Alexander",
+    "textdich": ""
+  },
+  {
+    "start": 281.79,
+    "end": 283.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 281.8,
+    "end": 285.6,
+    "text": "continued.",
+    "textdich": ""
+  },
+  {
+    "start": 283.43,
+    "end": 285.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 283.44,
+    "end": 287.64,
+    "text": "Most people are not suffering because",
+    "textdich": ""
+  },
+  {
+    "start": 285.59,
+    "end": 287.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 285.6,
+    "end": 290.08,
+    "text": "life is difficult.",
+    "textdich": ""
+  },
+  {
+    "start": 287.63,
+    "end": 290.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 287.64,
+    "end": 292.4,
+    "text": "They are suffering because they refuse",
+    "textdich": ""
+  },
+  {
+    "start": 290.07,
+    "end": 292.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 290.08,
+    "end": 295.52,
+    "text": "to put the stone down.",
+    "textdich": ""
+  },
+  {
+    "start": 292.39,
+    "end": 295.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 292.4,
+    "end": 298.04,
+    "text": "Those words stayed inside Ethan's mind,",
+    "textdich": ""
+  },
+  {
+    "start": 295.51,
+    "end": 298.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 295.52,
+    "end": 301.04,
+    "text": "but he was not  fully convinced.",
+    "textdich": ""
+  },
+  {
+    "start": 298.03,
+    "end": 301.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 298.04,
+    "end": 304.52,
+    "text": "It sounds simple, Ethan said,",
+    "textdich": ""
+  },
+  {
+    "start": 301.03,
+    "end": 304.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 301.04,
+    "end": 306.28,
+    "text": "but people cannot just stop worrying.",
+    "textdich": ""
+  },
+  {
+    "start": 304.51,
+    "end": 306.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 304.52,
+    "end": 308.04,
+    "text": "Alexander smiled.",
+    "textdich": ""
+  },
+  {
+    "start": 306.27,
+    "end": 308.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 306.28,
+    "end": 310.919,
+    "text": "You are right.",
+    "textdich": ""
+  },
+  {
+    "start": 308.03,
+    "end": 310.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 308.04,
+    "end": 312.12,
+    "text": "If peace were easy, everyone would have",
+    "textdich": ""
+  },
+  {
+    "start": 310.909,
+    "end": 312.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 310.919,
+    "end": 314.24,
+    "text": "it.",
+    "textdich": ""
+  },
+  {
+    "start": 312.11,
+    "end": 314.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 312.12,
+    "end": 315.48,
+    "text": "He slowly stood up and asked Ethan to",
+    "textdich": ""
+  },
+  {
+    "start": 314.23,
+    "end": 315.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 314.24,
+    "end": 317.72,
+    "text": "follow him.",
+    "textdich": ""
+  },
+  {
+    "start": 315.47,
+    "end": 317.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 315.48,
+    "end": 319.76,
+    "text": "Instead of returning to the village,",
+    "textdich": ""
+  },
+  {
+    "start": 317.71,
+    "end": 319.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 317.72,
+    "end": 321.12,
+    "text": "Alexander walked deeper  into the",
+    "textdich": ""
+  },
+  {
+    "start": 319.75,
+    "end": 321.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 319.76,
+    "end": 323.16,
+    "text": "forest.",
+    "textdich": ""
+  },
+  {
+    "start": 321.11,
+    "end": 323.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 321.12,
+    "end": 324.96,
+    "text": "After almost an hour, they reached a",
+    "textdich": ""
+  },
+  {
+    "start": 323.15,
+    "end": 324.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 323.16,
+    "end": 327.36,
+    "text": "beautiful  lake.",
+    "textdich": ""
+  },
+  {
+    "start": 324.95,
+    "end": 327.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 324.96,
+    "end": 330.4,
+    "text": "The water was so clear that the clouds",
+    "textdich": ""
+  },
+  {
+    "start": 327.35,
+    "end": 330.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 327.36,
+    "end": 332.36,
+    "text": "reflected perfectly on its surface.",
+    "textdich": ""
+  },
+  {
+    "start": 330.39,
+    "end": 332.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 330.4,
+    "end": 333.88,
+    "text": "Alexander  filled a wooden cup",
+    "textdich": ""
+  },
+  {
+    "start": 332.35,
+    "end": 333.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 332.36,
+    "end": 336.44,
+    "text": "with water.",
+    "textdich": ""
+  },
+  {
+    "start": 333.87,
+    "end": 336.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 333.88,
+    "end": 339.12,
+    "text": "Then he picked up a handful of dry soil",
+    "textdich": ""
+  },
+  {
+    "start": 336.43,
+    "end": 339.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 336.44,
+    "end": 341.72,
+    "text": "and dropped it into the cup.",
+    "textdich": ""
+  },
+  {
+    "start": 339.11,
+    "end": 341.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 339.12,
+    "end": 344.68,
+    "text": "The water immediately became muddy.",
+    "textdich": ""
+  },
+  {
+    "start": 341.71,
+    "end": 344.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 341.72,
+    "end": 347.36,
+    "text": "Drink it, Alexander said.",
+    "textdich": ""
+  },
+  {
+    "start": 344.67,
+    "end": 347.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 344.68,
+    "end": 349.08,
+    "text": "Ethan looked at the dirty water.",
+    "textdich": ""
+  },
+  {
+    "start": 347.35,
+    "end": 349.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 347.36,
+    "end": 351.6,
+    "text": "I can't.",
+    "textdich": ""
+  },
+  {
+    "start": 349.07,
+    "end": 351.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 349.08,
+    "end": 354.48,
+    "text": "Alexander nodded. Then he threw another",
+    "textdich": ""
+  },
+  {
+    "start": 351.59,
+    "end": 354.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 351.6,
+    "end": 356.324,
+    "text": "handful of soil into the huge lake.",
+    "textdich": ""
+  },
+  {
+    "start": 354.47,
+    "end": 356.324,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 354.48,
+    "end": 357.28,
+    "text": "Within seconds, the soil disappeared.",
+    "textdich": ""
+  },
+  {
+    "start": 356.314,
+    "end": 357.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 356.324,
+    "end": 359.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 357.27,
+    "end": 359.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 357.28,
+    "end": 362.44,
+    "text": "The lake remained clear.",
+    "textdich": ""
+  },
+  {
+    "start": 359.43,
+    "end": 362.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 359.44,
+    "end": 364.8,
+    "text": "\"What changed?\" Alexander asked.",
+    "textdich": ""
+  },
+  {
+    "start": 362.43,
+    "end": 364.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 362.44,
+    "end": 366.04,
+    "text": "Ethan thought carefully. \"The amount of",
+    "textdich": ""
+  },
+  {
+    "start": 364.79,
+    "end": 366.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 364.8,
+    "end": 369.6,
+    "text": "water.\"",
+    "textdich": ""
+  },
+  {
+    "start": 366.03,
+    "end": 369.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 366.04,
+    "end": 372.32,
+    "text": "Alexander smiled again. \"Exactly.",
+    "textdich": ""
+  },
+  {
+    "start": 369.59,
+    "end": 372.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 369.6,
+    "end": 374.4,
+    "text": "The problem was never the soil.",
+    "textdich": ""
+  },
+  {
+    "start": 372.31,
+    "end": 374.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 372.32,
+    "end": 376.08,
+    "text": "The problem was the size of the",
+    "textdich": ""
+  },
+  {
+    "start": 374.39,
+    "end": 376.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 374.4,
+    "end": 378.96,
+    "text": "container.",
+    "textdich": ""
+  },
+  {
+    "start": 376.07,
+    "end": 378.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 376.08,
+    "end": 381.0,
+    "text": "When your mind becomes small, every",
+    "textdich": ""
+  },
+  {
+    "start": 378.95,
+    "end": 381.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 378.96,
+    "end": 382.28,
+    "text": "little problem makes your whole life",
+    "textdich": ""
+  },
+  {
+    "start": 380.99,
+    "end": 382.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 381.0,
+    "end": 384.28,
+    "text": "cloudy.",
+    "textdich": ""
+  },
+  {
+    "start": 382.27,
+    "end": 384.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 382.28,
+    "end": 386.68,
+    "text": "But when your heart becomes bigger",
+    "textdich": ""
+  },
+  {
+    "start": 384.27,
+    "end": 386.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 384.28,
+    "end": 389.24,
+    "text": "through  patience, kindness,",
+    "textdich": ""
+  },
+  {
+    "start": 386.67,
+    "end": 389.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 386.68,
+    "end": 393.16,
+    "text": "gratitude, and understanding,",
+    "textdich": ""
+  },
+  {
+    "start": 389.23,
+    "end": 393.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 389.24,
+    "end": 395.04,
+    "text": "the same problem loses its power.\"",
+    "textdich": ""
+  },
+  {
+    "start": 393.15,
+    "end": 395.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 393.16,
+    "end": 396.28,
+    "text": "Ethan looked across the peaceful ",
+    "textdich": ""
+  },
+  {
+    "start": 395.03,
+    "end": 396.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 395.04,
+    "end": 398.44,
+    "text": "lake.",
+    "textdich": ""
+  },
+  {
+    "start": 396.27,
+    "end": 398.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 396.28,
+    "end": 401.28,
+    "text": "For the first time in many years, he",
+    "textdich": ""
+  },
+  {
+    "start": 398.43,
+    "end": 401.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 398.44,
+    "end": 403.28,
+    "text": "stopped thinking about his failures.",
+    "textdich": ""
+  },
+  {
+    "start": 401.27,
+    "end": 403.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 401.28,
+    "end": 405.4,
+    "text": "He stopped thinking about the people who",
+    "textdich": ""
+  },
+  {
+    "start": 403.27,
+    "end": 405.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 403.28,
+    "end": 407.24,
+    "text": "had disappointed him.",
+    "textdich": ""
+  },
+  {
+    "start": 405.39,
+    "end": 407.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 405.4,
+    "end": 410.08,
+    "text": "He simply watched the gentle ",
+    "textdich": ""
+  },
+  {
+    "start": 407.23,
+    "end": 410.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 407.24,
+    "end": 412.28,
+    "text": "waves touching the shore.",
+    "textdich": ""
+  },
+  {
+    "start": 410.07,
+    "end": 412.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 410.08,
+    "end": 415.2,
+    "text": "Alexander sat quietly beside ",
+    "textdich": ""
+  },
+  {
+    "start": 412.27,
+    "end": 415.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 412.28,
+    "end": 417.8,
+    "text": "him. Neither of them spoke.",
+    "textdich": ""
+  },
+  {
+    "start": 415.19,
+    "end": 417.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 415.2,
+    "end": 420.12,
+    "text": "The wind moved through the trees.",
+    "textdich": ""
+  },
+  {
+    "start": 417.79,
+    "end": 420.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 417.8,
+    "end": 422.12,
+    "text": "Birds sang in the distance.",
+    "textdich": ""
+  },
+  {
+    "start": 420.11,
+    "end": 422.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 420.12,
+    "end": 425.0,
+    "text": "And for a few brief moments, ",
+    "textdich": ""
+  },
+  {
+    "start": 422.11,
+    "end": 425.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 422.12,
+    "end": 427.8,
+    "text": "Ethan experienced something he had been",
+    "textdich": ""
+  },
+  {
+    "start": 424.99,
+    "end": 427.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 425.0,
+    "end": 430.44,
+    "text": "searching for his entire life.",
+    "textdich": ""
+  },
+  {
+    "start": 427.79,
+    "end": 430.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 427.8,
+    "end": 432.32,
+    "text": "A mind that was finally",
+    "textdich": ""
+  },
+  {
+    "start": 430.43,
+    "end": 432.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 430.44,
+    "end": 434.96,
+    "text": "still.",
+    "textdich": ""
+  },
+  {
+    "start": 432.31,
+    "end": 434.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 432.32,
+    "end": 436.96,
+    "text": "But Alexander knew this peaceful moment",
+    "textdich": ""
+  },
+  {
+    "start": 434.95,
+    "end": 436.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 434.96,
+    "end": 438.96,
+    "text": "was only the beginning.",
+    "textdich": ""
+  },
+  {
+    "start": 436.95,
+    "end": 438.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 436.96,
+    "end": 440.28,
+    "text": "The greatest lesson was still waiting",
+    "textdich": ""
+  },
+  {
+    "start": 438.95,
+    "end": 440.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 438.96,
+    "end": 442.2,
+    "text": "for Ethan.",
+    "textdich": ""
+  },
+  {
+    "start": 440.27,
+    "end": 442.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 440.28,
+    "end": 444.08,
+    "text": "And it would come from an unexpected",
+    "textdich": ""
+  },
+  {
+    "start": 442.19,
+    "end": 444.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 442.2,
+    "end": 446.96,
+    "text": "visitor  who would arrive in the",
+    "textdich": ""
+  },
+  {
+    "start": 444.07,
+    "end": 446.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 444.08,
+    "end": 449.0,
+    "text": "village before the next sunrise.",
+    "textdich": ""
+  },
+  {
+    "start": 446.95,
+    "end": 449.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 446.96,
+    "end": 450.64,
+    "text": "The next morning, before the first light",
+    "textdich": ""
+  },
+  {
+    "start": 448.99,
+    "end": 450.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 449.0,
+    "end": 453.04,
+    "text": "reached the village,",
+    "textdich": ""
+  },
+  {
+    "start": 450.63,
+    "end": 453.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 450.64,
+    "end": 454.72,
+    "text": "a horse stopped outside Alexander's",
+    "textdich": ""
+  },
+  {
+    "start": 453.03,
+    "end": 454.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 453.04,
+    "end": 457.32,
+    "text": "small house.",
+    "textdich": ""
+  },
+  {
+    "start": 454.71,
+    "end": 457.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 454.72,
+    "end": 459.2,
+    "text": "A well-dressed  man stepped down.",
+    "textdich": ""
+  },
+  {
+    "start": 457.31,
+    "end": 459.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 457.32,
+    "end": 461.125,
+    "text": "His name was Victor.",
+    "textdich": ""
+  },
+  {
+    "start": 459.19,
+    "end": 461.125,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 459.2,
+    "end": 463.44,
+    "text": "He was one of the richest merchants",
+    "textdich": ""
+  },
+  {
+    "start": 461.115,
+    "end": 463.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 461.125,
+    "end": 466.96,
+    "text": " in the kingdom. His clothes were",
+    "textdich": ""
+  },
+  {
+    "start": 463.43,
+    "end": 466.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 463.44,
+    "end": 469.44,
+    "text": "expensive, his horse was strong, his",
+    "textdich": ""
+  },
+  {
+    "start": 466.95,
+    "end": 469.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 466.96,
+    "end": 472.08,
+    "text": "bags were full of gold.",
+    "textdich": ""
+  },
+  {
+    "start": 469.43,
+    "end": 472.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 469.44,
+    "end": 474.36,
+    "text": "Yet his face  looked tired. His",
+    "textdich": ""
+  },
+  {
+    "start": 472.07,
+    "end": 474.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 472.08,
+    "end": 476.84,
+    "text": "eyes were filled with fear.",
+    "textdich": ""
+  },
+  {
+    "start": 474.35,
+    "end": 476.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 474.36,
+    "end": 477.92,
+    "text": "\"I have traveled for many days looking",
+    "textdich": ""
+  },
+  {
+    "start": 476.83,
+    "end": 477.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 476.84,
+    "end": 479.28,
+    "text": "for you.\"",
+    "textdich": ""
+  },
+  {
+    "start": 477.91,
+    "end": 479.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 477.92,
+    "end": 481.6,
+    "text": "Victor said.",
+    "textdich": ""
+  },
+  {
+    "start": 479.27,
+    "end": 481.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 479.28,
+    "end": 483.16,
+    "text": "\"The people say you are the wisest man",
+    "textdich": ""
+  },
+  {
+    "start": 481.59,
+    "end": 483.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 481.6,
+    "end": 485.44,
+    "text": "alive.\"",
+    "textdich": ""
+  },
+  {
+    "start": 483.15,
+    "end": 485.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 483.16,
+    "end": 488.04,
+    "text": "Alexander smiled gently.",
+    "textdich": ""
+  },
+  {
+    "start": 485.43,
+    "end": 488.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 485.44,
+    "end": 489.8,
+    "text": "\"I am just an old man.\"",
+    "textdich": ""
+  },
+  {
+    "start": 488.03,
+    "end": 489.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 488.04,
+    "end": 492.16,
+    "text": "Victor shook his  head.",
+    "textdich": ""
+  },
+  {
+    "start": 489.79,
+    "end": 492.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 489.8,
+    "end": 494.72,
+    "text": "\"I have everything people dream about,",
+    "textdich": ""
+  },
+  {
+    "start": 492.15,
+    "end": 494.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 492.16,
+    "end": 497.76,
+    "text": "but I cannot sleep. I cannot enjoy my",
+    "textdich": ""
+  },
+  {
+    "start": 494.71,
+    "end": 497.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 494.72,
+    "end": 500.96,
+    "text": "food. I cannot trust anyone.",
+    "textdich": ""
+  },
+  {
+    "start": 497.75,
+    "end": 500.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 497.76,
+    "end": 503.08,
+    "text": "Every day I fear losing what I have.\"",
+    "textdich": ""
+  },
+  {
+    "start": 500.95,
+    "end": 503.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 500.96,
+    "end": 505.56,
+    "text": "Alexander looked at Ethan.",
+    "textdich": ""
+  },
+  {
+    "start": 503.07,
+    "end": 505.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 503.08,
+    "end": 507.52,
+    "text": "\"This is another lesson.\"",
+    "textdich": ""
+  },
+  {
+    "start": 505.55,
+    "end": 507.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 505.56,
+    "end": 508.88,
+    "text": "The three of them walked toward the old",
+    "textdich": ""
+  },
+  {
+    "start": 507.51,
+    "end": 508.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 507.52,
+    "end": 511.48,
+    "text": "oak tree.",
+    "textdich": ""
+  },
+  {
+    "start": 508.87,
+    "end": 511.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 508.88,
+    "end": 513.88,
+    "text": "Victor spoke  without stopping.",
+    "textdich": ""
+  },
+  {
+    "start": 511.47,
+    "end": 513.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 511.48,
+    "end": 516.76,
+    "text": "\"My business keeps growing.",
+    "textdich": ""
+  },
+  {
+    "start": 513.87,
+    "end": 516.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 513.88,
+    "end": 519.36,
+    "text": "My houses keep getting bigger.",
+    "textdich": ""
+  },
+  {
+    "start": 516.75,
+    "end": 519.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 516.76,
+    "end": 522.24,
+    "text": "My money keeps increasing,",
+    "textdich": ""
+  },
+  {
+    "start": 519.35,
+    "end": 522.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 519.36,
+    "end": 524.8,
+    "text": "but my peace keeps disappearing.",
+    "textdich": ""
+  },
+  {
+    "start": 522.23,
+    "end": 524.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 522.24,
+    "end": 527.08,
+    "text": "I protect my money all day.",
+    "textdich": ""
+  },
+  {
+    "start": 524.79,
+    "end": 527.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 524.8,
+    "end": 529.24,
+    "text": "I worry about my enemies.",
+    "textdich": ""
+  },
+  {
+    "start": 527.07,
+    "end": 529.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 527.08,
+    "end": 531.44,
+    "text": "I worry about thieves.",
+    "textdich": ""
+  },
+  {
+    "start": 529.23,
+    "end": 531.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 529.24,
+    "end": 533.28,
+    "text": "I worry about tomorrow.",
+    "textdich": ""
+  },
+  {
+    "start": 531.43,
+    "end": 533.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 531.44,
+    "end": 535.92,
+    "text": "I don't even remember the last time I",
+    "textdich": ""
+  },
+  {
+    "start": 533.27,
+    "end": 535.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 533.28,
+    "end": 538.4,
+    "text": "smiled from my heart.\"",
+    "textdich": ""
+  },
+  {
+    "start": 535.91,
+    "end": 538.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 535.92,
+    "end": 540.96,
+    "text": "Alexander quietly listened.",
+    "textdich": ""
+  },
+  {
+    "start": 538.39,
+    "end": 540.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 538.4,
+    "end": 544.04,
+    "text": "When Victor finally stopped speaking,",
+    "textdich": ""
+  },
+  {
+    "start": 540.95,
+    "end": 544.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 540.96,
+    "end": 545.96,
+    "text": "Alexander asked only one question.",
+    "textdich": ""
+  },
+  {
+    "start": 544.03,
+    "end": 545.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 544.04,
+    "end": 549.52,
+    "text": "\"When was the last time you watched a",
+    "textdich": ""
+  },
+  {
+    "start": 545.95,
+    "end": 549.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 545.96,
+    "end": 551.6,
+    "text": "sunrise without thinking about work?\"",
+    "textdich": ""
+  },
+  {
+    "start": 549.51,
+    "end": 551.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 549.52,
+    "end": 553.96,
+    "text": "Victor stayed silent.",
+    "textdich": ""
+  },
+  {
+    "start": 551.59,
+    "end": 553.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 551.6,
+    "end": 555.839,
+    "text": "\"When was the last time you ate because",
+    "textdich": ""
+  },
+  {
+    "start": 553.95,
+    "end": 555.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 553.96,
+    "end": 557.6,
+    "text": "you were hungry instead of because it",
+    "textdich": ""
+  },
+  {
+    "start": 555.829,
+    "end": 557.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 555.839,
+    "end": 560.08,
+    "text": "was time?\"",
+    "textdich": ""
+  },
+  {
+    "start": 557.59,
+    "end": 560.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 557.6,
+    "end": 562.32,
+    "text": "Again, Victor had no answer.",
+    "textdich": ""
+  },
+  {
+    "start": 560.07,
+    "end": 562.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 560.08,
+    "end": 564.56,
+    "text": "\"When was the last time you thanked life",
+    "textdich": ""
+  },
+  {
+    "start": 562.31,
+    "end": 564.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 562.32,
+    "end": 567.0,
+    "text": "for what you already had?\"",
+    "textdich": ""
+  },
+  {
+    "start": 564.55,
+    "end": 567.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 564.56,
+    "end": 568.96,
+    "text": "Victor slowly looked down.",
+    "textdich": ""
+  },
+  {
+    "start": 566.99,
+    "end": 568.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 567.0,
+    "end": 571.04,
+    "text": "\"I don't remember.\"",
+    "textdich": ""
+  },
+  {
+    "start": 568.95,
+    "end": 571.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 568.96,
+    "end": 572.72,
+    "text": "Alexander picked up a dry leaf that had",
+    "textdich": ""
+  },
+  {
+    "start": 571.03,
+    "end": 572.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 571.04,
+    "end": 574.72,
+    "text": "fallen from the tree.",
+    "textdich": ""
+  },
+  {
+    "start": 572.71,
+    "end": 574.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 572.72,
+    "end": 577.76,
+    "text": "He held it in front of them.",
+    "textdich": ""
+  },
+  {
+    "start": 574.71,
+    "end": 577.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 574.72,
+    "end": 580.52,
+    "text": "\"Do you You why this leaf is beautiful?",
+    "textdich": ""
+  },
+  {
+    "start": 577.75,
+    "end": 580.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 577.76,
+    "end": 583.16,
+    "text": "Neither Ethan nor Victor answered.",
+    "textdich": ""
+  },
+  {
+    "start": 580.51,
+    "end": 583.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 580.52,
+    "end": 585.92,
+    "text": "It does not fight the wind.",
+    "textdich": ""
+  },
+  {
+    "start": 583.15,
+    "end": 585.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 583.16,
+    "end": 588.32,
+    "text": "When the time comes, it lets go.",
+    "textdich": ""
+  },
+  {
+    "start": 585.91,
+    "end": 588.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 585.92,
+    "end": 590.96,
+    "text": "Alexander released the leaf.",
+    "textdich": ""
+  },
+  {
+    "start": 588.31,
+    "end": 590.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 588.32,
+    "end": 592.84,
+    "text": "The wind carried it across the field.",
+    "textdich": ""
+  },
+  {
+    "start": 590.95,
+    "end": 592.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 590.96,
+    "end": 595.8,
+    "text": "It did not complain.",
+    "textdich": ""
+  },
+  {
+    "start": 592.83,
+    "end": 595.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 592.84,
+    "end": 598.16,
+    "text": "It did not resist. It simply moved with",
+    "textdich": ""
+  },
+  {
+    "start": 595.79,
+    "end": 598.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 595.8,
+    "end": 599.52,
+    "text": "the wind until it rested gently on the",
+    "textdich": ""
+  },
+  {
+    "start": 598.15,
+    "end": 599.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 598.16,
+    "end": 602.16,
+    "text": "ground.",
+    "textdich": ""
+  },
+  {
+    "start": 599.51,
+    "end": 602.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 599.52,
+    "end": 604.28,
+    "text": "Alexander looked at both men.",
+    "textdich": ""
+  },
+  {
+    "start": 602.15,
+    "end": 604.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 602.16,
+    "end": 606.28,
+    "text": "People lose peace because they want to",
+    "textdich": ""
+  },
+  {
+    "start": 604.27,
+    "end": 606.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 604.28,
+    "end": 608.64,
+    "text": "control everything.",
+    "textdich": ""
+  },
+  {
+    "start": 606.27,
+    "end": 608.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 606.28,
+    "end": 609.68,
+    "text": "They want every person to understand",
+    "textdich": ""
+  },
+  {
+    "start": 608.63,
+    "end": 609.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 608.64,
+    "end": 612.96,
+    "text": "them.",
+    "textdich": ""
+  },
+  {
+    "start": 609.67,
+    "end": 612.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 609.68,
+    "end": 615.64,
+    "text": "They want every plan to succeed.",
+    "textdich": ""
+  },
+  {
+    "start": 612.95,
+    "end": 615.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 612.96,
+    "end": 617.12,
+    "text": "They want life to happen exactly as they",
+    "textdich": ""
+  },
+  {
+    "start": 615.63,
+    "end": 617.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 615.64,
+    "end": 620.12,
+    "text": "imagine.",
+    "textdich": ""
+  },
+  {
+    "start": 617.11,
+    "end": 620.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 617.12,
+    "end": 622.4,
+    "text": "But life has never worked that way.",
+    "textdich": ""
+  },
+  {
+    "start": 620.11,
+    "end": 622.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 620.12,
+    "end": 625.88,
+    "text": "The moment you stop trying to control",
+    "textdich": ""
+  },
+  {
+    "start": 622.39,
+    "end": 625.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 622.4,
+    "end": 628.68,
+    "text": "everything, your heart becomes lighter.",
+    "textdich": ""
+  },
+  {
+    "start": 625.87,
+    "end": 628.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 625.88,
+    "end": 630.0,
+    "text": "Victor asked softly, \"So, should I stop",
+    "textdich": ""
+  },
+  {
+    "start": 628.67,
+    "end": 630.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 628.68,
+    "end": 631.427,
+    "text": "working?\"",
+    "textdich": ""
+  },
+  {
+    "start": 629.99,
+    "end": 631.427,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 630.0,
+    "end": 631.68,
+    "text": "Alexander smiled.",
+    "textdich": ""
+  },
+  {
+    "start": 631.417,
+    "end": 631.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 631.427,
+    "end": 633.08,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 631.67,
+    "end": 633.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 631.68,
+    "end": 635.08,
+    "text": " \"No.",
+    "textdich": ""
+  },
+  {
+    "start": 633.07,
+    "end": 635.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 633.08,
+    "end": 636.84,
+    "text": "Work with your hands.",
+    "textdich": ""
+  },
+  {
+    "start": 635.07,
+    "end": 636.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 635.08,
+    "end": 637.96,
+    "text": "Do not carry your work inside your",
+    "textdich": ""
+  },
+  {
+    "start": 636.83,
+    "end": 637.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 636.84,
+    "end": 639.4,
+    "text": "heart.",
+    "textdich": ""
+  },
+  {
+    "start": 637.95,
+    "end": 639.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 637.96,
+    "end": 641.96,
+    "text": "Earn money.",
+    "textdich": ""
+  },
+  {
+    "start": 639.39,
+    "end": 641.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 639.4,
+    "end": 643.72,
+    "text": "Do not let money own your mind.",
+    "textdich": ""
+  },
+  {
+    "start": 641.95,
+    "end": 643.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 641.96,
+    "end": 646.36,
+    "text": "Love people.",
+    "textdich": ""
+  },
+  {
+    "start": 643.71,
+    "end": 646.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 643.72,
+    "end": 648.2,
+    "text": "Do not expect them to be perfect.",
+    "textdich": ""
+  },
+  {
+    "start": 646.35,
+    "end": 648.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 646.36,
+    "end": 650.04,
+    "text": "Make plans,",
+    "textdich": ""
+  },
+  {
+    "start": 648.19,
+    "end": 650.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 648.2,
+    "end": 652.0,
+    "text": "but remember that life may write a",
+    "textdich": ""
+  },
+  {
+    "start": 650.03,
+    "end": 652.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 650.04,
+    "end": 654.76,
+    "text": "different  ending.\"",
+    "textdich": ""
+  },
+  {
+    "start": 651.99,
+    "end": 654.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 652.0,
+    "end": 656.972,
+    "text": "Ethan felt every word deeply.",
+    "textdich": ""
+  },
+  {
+    "start": 654.75,
+    "end": 656.972,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 654.76,
+    "end": 658.92,
+    "text": "For the first time, he understood",
+    "textdich": ""
+  },
+  {
+    "start": 656.962,
+    "end": 658.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 656.972,
+    "end": 661.52,
+    "text": " that peace was not something",
+    "textdich": ""
+  },
+  {
+    "start": 658.91,
+    "end": 661.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 658.92,
+    "end": 663.04,
+    "text": "people found. It was something they",
+    "textdich": ""
+  },
+  {
+    "start": 661.51,
+    "end": 663.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 661.52,
+    "end": 665.48,
+    "text": "protected.",
+    "textdich": ""
+  },
+  {
+    "start": 663.03,
+    "end": 665.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 663.04,
+    "end": 668.24,
+    "text": "Days passed.",
+    "textdich": ""
+  },
+  {
+    "start": 665.47,
+    "end": 668.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 665.48,
+    "end": 671.32,
+    "text": " Ethan stayed with Alexander, helping him",
+    "textdich": ""
+  },
+  {
+    "start": 668.23,
+    "end": 671.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 668.24,
+    "end": 674.88,
+    "text": "in small daily tasks. They repaired",
+    "textdich": ""
+  },
+  {
+    "start": 671.31,
+    "end": 674.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 671.32,
+    "end": 677.8,
+    "text": "broken fences. They planted trees.",
+    "textdich": ""
+  },
+  {
+    "start": 674.87,
+    "end": 677.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 674.88,
+    "end": 680.52,
+    "text": "They shared food with hungry families.",
+    "textdich": ""
+  },
+  {
+    "start": 677.79,
+    "end": 680.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 677.8,
+    "end": 682.68,
+    "text": "Alexander never rushed. Even while",
+    "textdich": ""
+  },
+  {
+    "start": 680.51,
+    "end": 682.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 680.52,
+    "end": 685.4,
+    "text": "working, he looked peaceful.",
+    "textdich": ""
+  },
+  {
+    "start": 682.67,
+    "end": 685.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 682.68,
+    "end": 686.6,
+    "text": "One evening, Ethan finally asked,",
+    "textdich": ""
+  },
+  {
+    "start": 685.39,
+    "end": 686.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 685.4,
+    "end": 688.24,
+    "text": "\"Master,",
+    "textdich": ""
+  },
+  {
+    "start": 686.59,
+    "end": 688.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 686.6,
+    "end": 689.96,
+    "text": "what is the greatest secret of your",
+    "textdich": ""
+  },
+  {
+    "start": 688.23,
+    "end": 689.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 688.24,
+    "end": 693.2,
+    "text": "life?\"",
+    "textdich": ""
+  },
+  {
+    "start": 689.95,
+    "end": 693.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 689.96,
+    "end": 695.24,
+    "text": "Alexander looked toward the setting sun.",
+    "textdich": ""
+  },
+  {
+    "start": 693.19,
+    "end": 695.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 693.2,
+    "end": 697.28,
+    "text": "When I was young, I wanted to change the",
+    "textdich": ""
+  },
+  {
+    "start": 695.23,
+    "end": 697.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 695.24,
+    "end": 699.76,
+    "text": "whole world.",
+    "textdich": ""
+  },
+  {
+    "start": 697.27,
+    "end": 699.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 697.28,
+    "end": 702.4,
+    "text": "When I became older, I wanted to change",
+    "textdich": ""
+  },
+  {
+    "start": 699.75,
+    "end": 702.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 699.76,
+    "end": 704.96,
+    "text": "the people around me.",
+    "textdich": ""
+  },
+  {
+    "start": 702.39,
+    "end": 704.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 702.4,
+    "end": 707.8,
+    "text": "When I became old, I realized the only",
+    "textdich": ""
+  },
+  {
+    "start": 704.95,
+    "end": 707.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 704.96,
+    "end": 709.64,
+    "text": "person I truly needed to change",
+    "textdich": ""
+  },
+  {
+    "start": 707.79,
+    "end": 709.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 707.8,
+    "end": 712.6,
+    "text": "was myself.",
+    "textdich": ""
+  },
+  {
+    "start": 709.63,
+    "end": 712.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 709.64,
+    "end": 714.8,
+    "text": "Ethan felt tears in his eyes.",
+    "textdich": ""
+  },
+  {
+    "start": 712.59,
+    "end": 714.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 712.6,
+    "end": 716.72,
+    "text": "Alexander continued,",
+    "textdich": ""
+  },
+  {
+    "start": 714.79,
+    "end": 716.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 714.8,
+    "end": 719.2,
+    "text": "\"I wasted many years fighting things I",
+    "textdich": ""
+  },
+  {
+    "start": 716.71,
+    "end": 719.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 716.72,
+    "end": 721.12,
+    "text": "could never control.",
+    "textdich": ""
+  },
+  {
+    "start": 719.19,
+    "end": 721.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 719.2,
+    "end": 723.68,
+    "text": "But the day I accepted life instead of",
+    "textdich": ""
+  },
+  {
+    "start": 721.11,
+    "end": 723.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 721.12,
+    "end": 725.44,
+    "text": "fighting it, peace quietly entered my",
+    "textdich": ""
+  },
+  {
+    "start": 723.67,
+    "end": 725.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 723.68,
+    "end": 728.24,
+    "text": "heart.\"",
+    "textdich": ""
+  },
+  {
+    "start": 725.43,
+    "end": 728.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 725.44,
+    "end": 729.72,
+    "text": "Several months later, Alexander became",
+    "textdich": ""
+  },
+  {
+    "start": 728.23,
+    "end": 729.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 728.24,
+    "end": 731.96,
+    "text": "very weak.",
+    "textdich": ""
+  },
+  {
+    "start": 729.71,
+    "end": 731.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 729.72,
+    "end": 733.12,
+    "text": "The villagers gathered around his small",
+    "textdich": ""
+  },
+  {
+    "start": 731.95,
+    "end": 733.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 731.96,
+    "end": 735.08,
+    "text": "house.",
+    "textdich": ""
+  },
+  {
+    "start": 733.11,
+    "end": 735.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 733.12,
+    "end": 736.68,
+    "text": "Even those who had laughed at him came",
+    "textdich": ""
+  },
+  {
+    "start": 735.07,
+    "end": 736.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 735.08,
+    "end": 739.24,
+    "text": "to see him.",
+    "textdich": ""
+  },
+  {
+    "start": 736.67,
+    "end": 739.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 736.68,
+    "end": 742.8,
+    "text": "Victor returned from the city.",
+    "textdich": ""
+  },
+  {
+    "start": 739.23,
+    "end": 742.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 739.24,
+    "end": 745.398,
+    "text": "Ethan sat beside Alexander's bed.",
+    "textdich": ""
+  },
+  {
+    "start": 742.79,
+    "end": 745.398,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 742.8,
+    "end": 745.76,
+    "text": "Alexander smiled one last time.",
+    "textdich": ""
+  },
+  {
+    "start": 745.388,
+    "end": 745.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 745.398,
+    "end": 748.04,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 745.75,
+    "end": 748.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 745.76,
+    "end": 750.638,
+    "text": " He pointed toward the window.",
+    "textdich": ""
+  },
+  {
+    "start": 748.03,
+    "end": 750.638,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 748.04,
+    "end": 752.2,
+    "text": "Outside, children were laughing, birds",
+    "textdich": ""
+  },
+  {
+    "start": 750.628,
+    "end": 752.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 750.638,
+    "end": 755.0,
+    "text": " were singing,",
+    "textdich": ""
+  },
+  {
+    "start": 752.19,
+    "end": 755.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 752.2,
+    "end": 756.839,
+    "text": "the trees were moving with the wind.",
+    "textdich": ""
+  },
+  {
+    "start": 754.99,
+    "end": 756.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 755.0,
+    "end": 758.48,
+    "text": "\"Life has always been peaceful,\" ",
+    "textdich": ""
+  },
+  {
+    "start": 756.829,
+    "end": 758.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 756.839,
+    "end": 761.08,
+    "text": "he whispered.",
+    "textdich": ""
+  },
+  {
+    "start": 758.47,
+    "end": 761.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 758.48,
+    "end": 763.36,
+    "text": "\"We were simply too busy to notice.\"",
+    "textdich": ""
+  },
+  {
+    "start": 761.07,
+    "end": 763.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 761.08,
+    "end": 766.4,
+    "text": "Those were his final words.",
+    "textdich": ""
+  },
+  {
+    "start": 763.35,
+    "end": 766.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 763.36,
+    "end": 768.4,
+    "text": "Alexander closed his eyes peacefully.",
+    "textdich": ""
+  },
+  {
+    "start": 766.39,
+    "end": 768.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 766.4,
+    "end": 770.24,
+    "text": "The room was silent.",
+    "textdich": ""
+  },
+  {
+    "start": 768.39,
+    "end": 770.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 768.4,
+    "end": 772.12,
+    "text": "No one cried loudly.",
+    "textdich": ""
+  },
+  {
+    "start": 770.23,
+    "end": 772.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 770.24,
+    "end": 774.76,
+    "text": "Instead, everyone felt something they",
+    "textdich": ""
+  },
+  {
+    "start": 772.11,
+    "end": 774.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 772.12,
+    "end": 776.24,
+    "text": "had never experienced before.",
+    "textdich": ""
+  },
+  {
+    "start": 774.75,
+    "end": 776.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 774.76,
+    "end": 779.24,
+    "text": "Gratitude.",
+    "textdich": ""
+  },
+  {
+    "start": 776.23,
+    "end": 779.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 776.24,
+    "end": 781.36,
+    "text": "Years passed. Ethan became an old man",
+    "textdich": ""
+  },
+  {
+    "start": 779.23,
+    "end": 781.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 779.24,
+    "end": 783.388,
+    "text": "himself.",
+    "textdich": ""
+  },
+  {
+    "start": 781.35,
+    "end": 783.388,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 781.36,
+    "end": 784.72,
+    "text": "Every morning he walked to the same oak",
+    "textdich": ""
+  },
+  {
+    "start": 783.378,
+    "end": 784.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 783.388,
+    "end": 786.6,
+    "text": " tree.",
+    "textdich": ""
+  },
+  {
+    "start": 784.71,
+    "end": 786.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 784.72,
+    "end": 788.76,
+    "text": "Whenever someone asked him where he had",
+    "textdich": ""
+  },
+  {
+    "start": 786.59,
+    "end": 788.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 786.6,
+    "end": 791.839,
+    "text": "learned to live peacefully,",
+    "textdich": ""
+  },
+  {
+    "start": 788.75,
+    "end": 791.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 788.76,
+    "end": 794.08,
+    "text": "he would simply smile and say,",
+    "textdich": ""
+  },
+  {
+    "start": 791.829,
+    "end": 794.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 791.839,
+    "end": 796.44,
+    "text": "\"From a man who owned almost nothing,",
+    "textdich": ""
+  },
+  {
+    "start": 794.07,
+    "end": 796.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 794.08,
+    "end": 798.32,
+    "text": "yet possessed everything that truly",
+    "textdich": ""
+  },
+  {
+    "start": 796.43,
+    "end": 798.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 796.44,
+    "end": 800.52,
+    "text": "mattered.\"",
+    "textdich": ""
+  },
+  {
+    "start": 798.31,
+    "end": 800.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 798.32,
+    "end": 801.68,
+    "text": "That old oak tree still stood on the",
+    "textdich": ""
+  },
+  {
+    "start": 800.51,
+    "end": 801.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 800.52,
+    "end": 804.32,
+    "text": "hill.",
+    "textdich": ""
+  },
+  {
+    "start": 801.67,
+    "end": 804.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 801.68,
+    "end": 806.28,
+    "text": "Many people visited it hoping to find",
+    "textdich": ""
+  },
+  {
+    "start": 804.31,
+    "end": 806.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 804.32,
+    "end": 808.32,
+    "text": "peace.",
+    "textdich": ""
+  },
+  {
+    "start": 806.27,
+    "end": 808.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 806.28,
+    "end": 810.56,
+    "text": "But they slowly realized something",
+    "textdich": ""
+  },
+  {
+    "start": 808.31,
+    "end": 810.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 808.32,
+    "end": 813.32,
+    "text": "important.",
+    "textdich": ""
+  },
+  {
+    "start": 810.55,
+    "end": 813.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 810.56,
+    "end": 815.72,
+    "text": "Peace was never hidden inside the tree.",
+    "textdich": ""
+  },
+  {
+    "start": 813.31,
+    "end": 815.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 813.32,
+    "end": 818.32,
+    "text": "It was hidden inside the way they chose",
+    "textdich": ""
+  },
+  {
+    "start": 815.71,
+    "end": 818.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 815.72,
+    "end": 821.08,
+    "text": "to live.",
+    "textdich": ""
+  },
+  {
+    "start": 818.31,
+    "end": 821.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 818.32,
+    "end": 823.8,
+    "text": " My friend, this story changed the way I",
+    "textdich": ""
+  },
+  {
+    "start": 821.07,
+    "end": 823.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 821.08,
+    "end": 826.92,
+    "text": "think. I learned that peace of mind does",
+    "textdich": ""
+  },
+  {
+    "start": 823.79,
+    "end": 826.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 823.8,
+    "end": 828.96,
+    "text": "not come after you solve every problem.",
+    "textdich": ""
+  },
+  {
+    "start": 826.91,
+    "end": 828.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 826.92,
+    "end": 832.44,
+    "text": "It comes when you stop giving every",
+    "textdich": ""
+  },
+  {
+    "start": 828.95,
+    "end": 832.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 828.96,
+    "end": 835.0,
+    "text": "problem permission to control your life.",
+    "textdich": ""
+  },
+  {
+    "start": 832.43,
+    "end": 835.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 832.44,
+    "end": 837.28,
+    "text": "We cannot control what people say.",
+    "textdich": ""
+  },
+  {
+    "start": 834.99,
+    "end": 837.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 835.0,
+    "end": 839.16,
+    "text": "We cannot control the past.",
+    "textdich": ""
+  },
+  {
+    "start": 837.27,
+    "end": 839.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 837.28,
+    "end": 840.48,
+    "text": "We cannot control every future",
+    "textdich": ""
+  },
+  {
+    "start": 839.15,
+    "end": 840.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 839.16,
+    "end": 843.16,
+    "text": "situation.",
+    "textdich": ""
+  },
+  {
+    "start": 840.47,
+    "end": 843.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 840.48,
+    "end": 845.12,
+    "text": "But we can control our response.",
+    "textdich": ""
+  },
+  {
+    "start": 843.15,
+    "end": 845.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 843.16,
+    "end": 847.32,
+    "text": "We can choose gratitude instead of",
+    "textdich": ""
+  },
+  {
+    "start": 845.11,
+    "end": 847.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 845.12,
+    "end": 849.96,
+    "text": "constant comparison.",
+    "textdich": ""
+  },
+  {
+    "start": 847.31,
+    "end": 849.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 847.32,
+    "end": 851.96,
+    "text": "We can choose forgiveness instead of",
+    "textdich": ""
+  },
+  {
+    "start": 849.95,
+    "end": 851.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 849.96,
+    "end": 853.92,
+    "text": "carrying old pain.",
+    "textdich": ""
+  },
+  {
+    "start": 851.95,
+    "end": 853.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 851.96,
+    "end": 855.84,
+    "text": "We can choose to enjoy today's small",
+    "textdich": ""
+  },
+  {
+    "start": 853.91,
+    "end": 855.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 853.92,
+    "end": 857.64,
+    "text": "moments instead of waiting for the",
+    "textdich": ""
+  },
+  {
+    "start": 855.83,
+    "end": 857.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 855.84,
+    "end": 860.32,
+    "text": "perfect life.",
+    "textdich": ""
+  },
+  {
+    "start": 857.63,
+    "end": 860.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 857.64,
+    "end": 863.0,
+    "text": "Remember this, a calm mind makes better",
+    "textdich": ""
+  },
+  {
+    "start": 860.31,
+    "end": 863.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 860.32,
+    "end": 865.68,
+    "text": "decisions than a worried mind.",
+    "textdich": ""
+  },
+  {
+    "start": 862.99,
+    "end": 865.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 863.0,
+    "end": 867.08,
+    "text": "A grateful heart enjoys more than a rich",
+    "textdich": ""
+  },
+  {
+    "start": 865.67,
+    "end": 867.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 865.68,
+    "end": 869.72,
+    "text": "heart.",
+    "textdich": ""
+  },
+  {
+    "start": 867.07,
+    "end": 869.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 867.08,
+    "end": 872.88,
+    "text": "And a peaceful person is often stronger",
+    "textdich": ""
+  },
+  {
+    "start": 869.71,
+    "end": 872.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 869.72,
+    "end": 876.04,
+    "text": "than the loudest person in the room.",
+    "textdich": ""
+  },
+  {
+    "start": 872.87,
+    "end": 876.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 872.88,
+    "end": 878.04,
+    "text": "If this story touched your heart, let me",
+    "textdich": ""
+  },
+  {
+    "start": 876.03,
+    "end": 878.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 876.04,
+    "end": 879.76,
+    "text": "know in the comments what brought you",
+    "textdich": ""
+  },
+  {
+    "start": 878.03,
+    "end": 879.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 878.04,
+    "end": 882.48,
+    "text": "peace today.",
+    "textdich": ""
+  },
+  {
+    "start": 879.75,
+    "end": 882.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 879.76,
+    "end": 884.04,
+    "text": "Don't forget to watch my previous story.",
+    "textdich": ""
+  },
+  {
+    "start": 882.47,
+    "end": 884.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 882.48,
+    "end": 885.8,
+    "text": "No way back.",
+    "textdich": ""
+  },
+  {
+    "start": 884.03,
+    "end": 885.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 884.04,
+    "end": 887.88,
+    "text": "It is about making a decision so",
+    "textdich": ""
+  },
+  {
+    "start": 885.79,
+    "end": 887.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 885.8,
+    "end": 889.32,
+    "text": "powerful that quitting is no longer an",
+    "textdich": ""
+  },
+  {
+    "start": 887.87,
+    "end": 889.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 887.88,
+    "end": 891.36,
+    "text": "option.",
+    "textdich": ""
+  },
+  {
+    "start": 889.31,
+    "end": 891.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 889.32,
+    "end": 894.16,
+    "text": "If you want to build discipline,",
+    "textdich": ""
+  },
+  {
+    "start": 891.35,
+    "end": 894.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 891.36,
+    "end": 896.2,
+    "text": "courage, and unstoppable commitment, I",
+    "textdich": ""
+  },
+  {
+    "start": 894.15,
+    "end": 896.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 894.16,
+    "end": 897.52,
+    "text": "truly believe you will enjoy that story",
+    "textdich": ""
+  },
+  {
+    "start": 896.19,
+    "end": 897.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 896.2,
+    "end": 899.325,
+    "text": "as well.",
+    "textdich": ""
+  },
+  {
+    "start": 897.51,
+    "end": 899.325,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 897.52,
+    "end": 899.52,
+    "text": "Thank you so much for watching.",
+    "textdich": ""
+  },
+  {
+    "start": 899.315,
+    "end": 899.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 899.325,
+    "end": 901.839,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 899.51,
+    "end": 901.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 899.52,
+    "end": 903.839,
+    "text": " Take care of your mind. Take care of",
+    "textdich": ""
+  },
+  {
+    "start": 901.829,
+    "end": 903.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 901.839,
+    "end": 906.56,
+    "text": "your heart. And I will see you in the",
+    "textdich": ""
+  },
+  {
+    "start": 903.829,
+    "end": 906.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 903.839,
+    "end": 906.56,
+    "text": "next story.",
+    "textdich": ""
+  }
+]
