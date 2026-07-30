@@ -1,0 +1,5156 @@
+[
+  {
+    "start": 1.0,
+    "end": 6.92,
+    "text": "Imagine two men standing in the rain.",
+    "textdich": ""
+  },
+  {
+    "start": 4.71,
+    "end": 6.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 4.72,
+    "end": 8.16,
+    "text": "The first man is holding a massive",
+    "textdich": ""
+  },
+  {
+    "start": 6.91,
+    "end": 8.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 6.92,
+    "end": 10.16,
+    "text": "bucket,",
+    "textdich": ""
+  },
+  {
+    "start": 8.15,
+    "end": 10.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 8.16,
+    "end": 11.48,
+    "text": "but the bucket has a hundred holes in",
+    "textdich": ""
+  },
+  {
+    "start": 10.15,
+    "end": 11.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 10.16,
+    "end": 14.52,
+    "text": "the bottom.",
+    "textdich": ""
+  },
+  {
+    "start": 11.47,
+    "end": 14.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 11.48,
+    "end": 15.64,
+    "text": "The rain pours in. He is making a lot of",
+    "textdich": ""
+  },
+  {
+    "start": 14.51,
+    "end": 15.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 14.52,
+    "end": 18.96,
+    "text": "money,",
+    "textdich": ""
+  },
+  {
+    "start": 15.63,
+    "end": 18.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 15.64,
+    "end": 21.24,
+    "text": "but it pours out just as fast.",
+    "textdich": ""
+  },
+  {
+    "start": 18.95,
+    "end": 21.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 18.96,
+    "end": 22.44,
+    "text": "At the end of the storm, his bucket is",
+    "textdich": ""
+  },
+  {
+    "start": 21.23,
+    "end": 22.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 21.24,
+    "end": 26.88,
+    "text": "empty.",
+    "textdich": ""
+  },
+  {
+    "start": 22.43,
+    "end": 26.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 22.44,
+    "end": 30.6,
+    "text": "He is exhausted, stressed, and broke.",
+    "textdich": ""
+  },
+  {
+    "start": 26.87,
+    "end": 30.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 26.88,
+    "end": 33.4,
+    "text": "The second man is holding a small cup,",
+    "textdich": ""
+  },
+  {
+    "start": 30.59,
+    "end": 33.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 30.6,
+    "end": 35.08,
+    "text": "but his cup is solid steel.",
+    "textdich": ""
+  },
+  {
+    "start": 33.39,
+    "end": 35.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 33.4,
+    "end": 37.92,
+    "text": "No holes.",
+    "textdich": ""
+  },
+  {
+    "start": 35.07,
+    "end": 37.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 35.08,
+    "end": 40.24,
+    "text": "The rain is just a drizzle for him.",
+    "textdich": ""
+  },
+  {
+    "start": 37.91,
+    "end": 40.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 37.92,
+    "end": 43.0,
+    "text": "He has a low salary,",
+    "textdich": ""
+  },
+  {
+    "start": 40.23,
+    "end": 43.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 40.24,
+    "end": 45.68,
+    "text": "but he catches every drop.",
+    "textdich": ""
+  },
+  {
+    "start": 42.99,
+    "end": 45.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 43.0,
+    "end": 47.32,
+    "text": "And once the cup is full, he pours it",
+    "textdich": ""
+  },
+  {
+    "start": 45.67,
+    "end": 47.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 45.68,
+    "end": 49.84,
+    "text": "into a barrel.",
+    "textdich": ""
+  },
+  {
+    "start": 47.31,
+    "end": 49.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 47.32,
+    "end": 52.12,
+    "text": "Then, another barrel.",
+    "textdich": ""
+  },
+  {
+    "start": 49.83,
+    "end": 52.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 49.84,
+    "end": 55.76,
+    "text": "At the end of the storm, the man with",
+    "textdich": ""
+  },
+  {
+    "start": 52.11,
+    "end": 55.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 52.12,
+    "end": 59.76,
+    "text": "the huge bucket is begging for water.",
+    "textdich": ""
+  },
+  {
+    "start": 55.75,
+    "end": 59.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 55.76,
+    "end": 62.24,
+    "text": "The man with the small cup is wealthy.",
+    "textdich": ""
+  },
+  {
+    "start": 59.75,
+    "end": 62.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 59.76,
+    "end": 64.08,
+    "text": "This is the financial reality of ",
+    "textdich": ""
+  },
+  {
+    "start": 62.23,
+    "end": 64.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 62.24,
+    "end": 67.24,
+    "text": "the modern world.",
+    "textdich": ""
+  },
+  {
+    "start": 64.07,
+    "end": 67.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 64.08,
+    "end": 69.96,
+    "text": "We are obsessed with income.",
+    "textdich": ""
+  },
+  {
+    "start": 67.23,
+    "end": 69.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 67.24,
+    "end": 72.2,
+    "text": "We think the solution to our problems is",
+    "textdich": ""
+  },
+  {
+    "start": 69.95,
+    "end": 72.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 69.96,
+    "end": 74.52,
+    "text": "make more money.",
+    "textdich": ""
+  },
+  {
+    "start": 72.19,
+    "end": 74.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 72.2,
+    "end": 77.48,
+    "text": "But making more money when you have bad",
+    "textdich": ""
+  },
+  {
+    "start": 74.51,
+    "end": 77.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 74.52,
+    "end": 79.28,
+    "text": "habits is like pouring water into a",
+    "textdich": ""
+  },
+  {
+    "start": 77.47,
+    "end": 79.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 77.48,
+    "end": 81.12,
+    "text": "leaking bucket.",
+    "textdich": ""
+  },
+  {
+    "start": 79.27,
+    "end": 81.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 79.28,
+    "end": 84.72,
+    "text": "You don't get richer.",
+    "textdich": ""
+  },
+  {
+    "start": 81.11,
+    "end": 84.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 81.12,
+    "end": 86.76,
+    "text": "You just speed up the flow of waste.",
+    "textdich": ""
+  },
+  {
+    "start": 84.71,
+    "end": 86.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 84.72,
+    "end": 90.68,
+    "text": "The Japanese have understood this for",
+    "textdich": ""
+  },
+  {
+    "start": 86.75,
+    "end": 90.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 86.76,
+    "end": 94.0,
+    "text": "over a century. In 1904, Japan's first",
+    "textdich": ""
+  },
+  {
+    "start": 90.67,
+    "end": 94.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 90.68,
+    "end": 96.8,
+    "text": "female journalist, Hani Motoko, invented",
+    "textdich": ""
+  },
+  {
+    "start": 93.99,
+    "end": 96.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 94.0,
+    "end": 101.08,
+    "text": "a system called Kakeibo.",
+    "textdich": ""
+  },
+  {
+    "start": 96.79,
+    "end": 101.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 96.8,
+    "end": 103.88,
+    "text": "Translation, household financial ledger.",
+    "textdich": ""
+  },
+  {
+    "start": 101.07,
+    "end": 103.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 101.08,
+    "end": 104.96,
+    "text": "It is not an app. It is not an Excel",
+    "textdich": ""
+  },
+  {
+    "start": 103.87,
+    "end": 104.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 103.88,
+    "end": 108.28,
+    "text": "sheet.",
+    "textdich": ""
+  },
+  {
+    "start": 104.95,
+    "end": 108.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 104.96,
+    "end": 110.96,
+    "text": "It is a physical book and a pen.",
+    "textdich": ""
+  },
+  {
+    "start": 108.27,
+    "end": 110.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 108.28,
+    "end": 114.52,
+    "text": "It is a mindful philosophy that forces",
+    "textdich": ""
+  },
+  {
+    "start": 110.95,
+    "end": 114.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 110.96,
+    "end": 117.08,
+    "text": "you to stare your spending in the face.",
+    "textdich": ""
+  },
+  {
+    "start": 114.51,
+    "end": 117.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 114.52,
+    "end": 119.36,
+    "text": "It is the reason why Japanese housewives",
+    "textdich": ""
+  },
+  {
+    "start": 117.07,
+    "end": 119.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 117.08,
+    "end": 123.6,
+    "text": "are often the secret CFOs of the",
+    "textdich": ""
+  },
+  {
+    "start": 119.35,
+    "end": 123.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 119.36,
+    "end": 126.0,
+    "text": "household, managing to save up to 35% of",
+    "textdich": ""
+  },
+  {
+    "start": 123.59,
+    "end": 126.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 123.6,
+    "end": 127.88,
+    "text": "a modest income.",
+    "textdich": ""
+  },
+  {
+    "start": 125.99,
+    "end": 127.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 126.0,
+    "end": 130.759,
+    "text": "Today,  we are going to teach you",
+    "textdich": ""
+  },
+  {
+    "start": 127.87,
+    "end": 130.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 127.88,
+    "end": 132.56,
+    "text": "the art of Kakeibo.",
+    "textdich": ""
+  },
+  {
+    "start": 130.749,
+    "end": 132.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 130.759,
+    "end": 135.12,
+    "text": "We are going to show you how to patch",
+    "textdich": ""
+  },
+  {
+    "start": 132.55,
+    "end": 135.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 132.56,
+    "end": 136.959,
+    "text": "the holes in your  bucket.",
+    "textdich": ""
+  },
+  {
+    "start": 135.11,
+    "end": 136.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 135.12,
+    "end": 138.12,
+    "text": "We are going to show you how to get",
+    "textdich": ""
+  },
+  {
+    "start": 136.949,
+    "end": 138.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 136.959,
+    "end": 141.28,
+    "text": "rich,",
+    "textdich": ""
+  },
+  {
+    "start": 138.11,
+    "end": 141.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 138.12,
+    "end": 143.446,
+    "text": "not by earning a CEO's salary,",
+    "textdich": ""
+  },
+  {
+    "start": 141.27,
+    "end": 143.446,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 141.28,
+    "end": 145.466,
+    "text": "but by developing a monk's discipline.",
+    "textdich": ""
+  },
+  {
+    "start": 143.436,
+    "end": 145.466,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 143.446,
+    "end": 145.466,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 145.47,
+    "end": 145.47,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 145.48,
+    "end": 152.12,
+    "text": "The trap of invisible money.",
+    "textdich": ""
+  },
+  {
+    "start": 149.03,
+    "end": 152.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 149.04,
+    "end": 153.76,
+    "text": "Why are we so bad with money?",
+    "textdich": ""
+  },
+  {
+    "start": 152.11,
+    "end": 153.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 152.12,
+    "end": 155.64,
+    "text": "Because money  has become",
+    "textdich": ""
+  },
+  {
+    "start": 153.75,
+    "end": 155.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 153.76,
+    "end": 159.0,
+    "text": "invisible.",
+    "textdich": ""
+  },
+  {
+    "start": 155.63,
+    "end": 159.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 155.64,
+    "end": 160.36,
+    "text": "You tap your card. You click buy now on",
+    "textdich": ""
+  },
+  {
+    "start": 158.99,
+    "end": 160.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 159.0,
+    "end": 162.6,
+    "text": "Amazon.",
+    "textdich": ""
+  },
+  {
+    "start": 160.35,
+    "end": 162.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 160.36,
+    "end": 165.56,
+    "text": "You use Apple Pay.",
+    "textdich": ""
+  },
+  {
+    "start": 162.59,
+    "end": 165.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 162.6,
+    "end": 168.72,
+    "text": "You never see the money leave your hand.",
+    "textdich": ""
+  },
+  {
+    "start": 165.55,
+    "end": 168.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 165.56,
+    "end": 172.44,
+    "text": "You never feel the loss.",
+    "textdich": ""
+  },
+  {
+    "start": 168.71,
+    "end": 172.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 168.72,
+    "end": 174.6,
+    "text": "This  is frictionless spending.",
+    "textdich": ""
+  },
+  {
+    "start": 172.43,
+    "end": 174.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 172.44,
+    "end": 177.08,
+    "text": "Corporations have spent billions of",
+    "textdich": ""
+  },
+  {
+    "start": 174.59,
+    "end": 177.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 174.6,
+    "end": 178.44,
+    "text": "dollars to remove the friction from",
+    "textdich": ""
+  },
+  {
+    "start": 177.07,
+    "end": 178.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 177.08,
+    "end": 181.88,
+    "text": "buying.",
+    "textdich": ""
+  },
+  {
+    "start": 178.43,
+    "end": 181.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 178.44,
+    "end": 184.04,
+    "text": "They want you to spend without thinking.",
+    "textdich": ""
+  },
+  {
+    "start": 181.87,
+    "end": 184.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 181.88,
+    "end": 186.8,
+    "text": "When you pay with cash, your brain",
+    "textdich": ""
+  },
+  {
+    "start": 184.03,
+    "end": 186.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 184.04,
+    "end": 189.2,
+    "text": "registers pain.",
+    "textdich": ""
+  },
+  {
+    "start": 186.79,
+    "end": 189.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 186.8,
+    "end": 192.6,
+    "text": "This is a known psychological phenomenon",
+    "textdich": ""
+  },
+  {
+    "start": 189.19,
+    "end": 192.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 189.2,
+    "end": 196.6,
+    "text": "called the pain  of paying.",
+    "textdich": ""
+  },
+  {
+    "start": 192.59,
+    "end": 196.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 192.6,
+    "end": 198.44,
+    "text": "When you tap a card, the pain is numbed.",
+    "textdich": ""
+  },
+  {
+    "start": 196.59,
+    "end": 198.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 196.6,
+    "end": 201.44,
+    "text": "You don't feel it until the end of the",
+    "textdich": ""
+  },
+  {
+    "start": 198.43,
+    "end": 201.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 198.44,
+    "end": 204.48,
+    "text": "month when you see the statement.",
+    "textdich": ""
+  },
+  {
+    "start": 201.43,
+    "end": 204.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 201.44,
+    "end": 207.239,
+    "text": "But by then, it is too late.",
+    "textdich": ""
+  },
+  {
+    "start": 204.47,
+    "end": 207.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 204.48,
+    "end": 210.4,
+    "text": "The damage is done.",
+    "textdich": ""
+  },
+  {
+    "start": 207.229,
+    "end": 210.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 207.239,
+    "end": 212.04,
+    "text": "Kakeibo is the act of reintroducing",
+    "textdich": ""
+  },
+  {
+    "start": 210.39,
+    "end": 212.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 210.4,
+    "end": 214.64,
+    "text": "friction.",
+    "textdich": ""
+  },
+  {
+    "start": 212.03,
+    "end": 214.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 212.04,
+    "end": 217.4,
+    "text": "It forces you to write down every single",
+    "textdich": ""
+  },
+  {
+    "start": 214.63,
+    "end": 217.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 214.64,
+    "end": 220.04,
+    "text": "expense by hand.",
+    "textdich": ""
+  },
+  {
+    "start": 217.39,
+    "end": 220.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 217.4,
+    "end": 222.12,
+    "text": "When you have to physically write latte,",
+    "textdich": ""
+  },
+  {
+    "start": 220.03,
+    "end": 222.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 220.04,
+    "end": 223.92,
+    "text": "$6.50",
+    "textdich": ""
+  },
+  {
+    "start": 222.11,
+    "end": 223.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 222.12,
+    "end": 226.16,
+    "text": "on a piece of paper,",
+    "textdich": ""
+  },
+  {
+    "start": 223.91,
+    "end": 226.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 223.92,
+    "end": 227.72,
+    "text": "your brain processes the transaction",
+    "textdich": ""
+  },
+  {
+    "start": 226.15,
+    "end": 227.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 226.16,
+    "end": 229.84,
+    "text": "differently.",
+    "textdich": ""
+  },
+  {
+    "start": 227.71,
+    "end": 229.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 227.72,
+    "end": 232.28,
+    "text": "You stop and think.",
+    "textdich": ""
+  },
+  {
+    "start": 229.83,
+    "end": 232.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 229.84,
+    "end": 234.04,
+    "text": "Is Is latte really worth the effort of",
+    "textdich": ""
+  },
+  {
+    "start": 232.27,
+    "end": 234.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 232.28,
+    "end": 236.6,
+    "text": "writing it down?",
+    "textdich": ""
+  },
+  {
+    "start": 234.03,
+    "end": 236.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 234.04,
+    "end": 239.64,
+    "text": "Is it worth the ink?",
+    "textdich": ""
+  },
+  {
+    "start": 236.59,
+    "end": 239.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 236.6,
+    "end": 241.12,
+    "text": "Suddenly, the invisible money becomes",
+    "textdich": ""
+  },
+  {
+    "start": 239.63,
+    "end": 241.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 239.64,
+    "end": 243.0,
+    "text": "visible.",
+    "textdich": ""
+  },
+  {
+    "start": 241.11,
+    "end": 243.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 241.12,
+    "end": 245.64,
+    "text": "You realize that you aren't just",
+    "textdich": ""
+  },
+  {
+    "start": 242.99,
+    "end": 245.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 243.0,
+    "end": 249.4,
+    "text": "spending numbers on a screen.",
+    "textdich": ""
+  },
+  {
+    "start": 245.63,
+    "end": 249.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 245.64,
+    "end": 252.2,
+    "text": "You are spending your life energy.",
+    "textdich": ""
+  },
+  {
+    "start": 249.39,
+    "end": 252.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 249.4,
+    "end": 256.519,
+    "text": "Kakeibo turns finance from a mindless",
+    "textdich": ""
+  },
+  {
+    "start": 252.19,
+    "end": 256.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 252.2,
+    "end": 260.28,
+    "text": "habit into a mindful practice.",
+    "textdich": ""
+  },
+  {
+    "start": 256.509,
+    "end": 260.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 256.519,
+    "end": 262.6,
+    "text": "The four pillars of Kakeibo.",
+    "textdich": ""
+  },
+  {
+    "start": 260.27,
+    "end": 262.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 260.28,
+    "end": 265.0,
+    "text": "Kakeibo is simple.",
+    "textdich": ""
+  },
+  {
+    "start": 262.59,
+    "end": 265.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 262.6,
+    "end": 267.96,
+    "text": "That is its power.",
+    "textdich": ""
+  },
+  {
+    "start": 264.99,
+    "end": 267.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 265.0,
+    "end": 269.72,
+    "text": "It relies on asking four fundamental",
+    "textdich": ""
+  },
+  {
+    "start": 267.95,
+    "end": 269.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 267.96,
+    "end": 271.08,
+    "text": "questions at the beginning of every",
+    "textdich": ""
+  },
+  {
+    "start": 269.71,
+    "end": 271.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 269.72,
+    "end": 273.76,
+    "text": "month.",
+    "textdich": ""
+  },
+  {
+    "start": 271.07,
+    "end": 273.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 271.08,
+    "end": 275.16,
+    "text": "You sit down, open your notebook, and",
+    "textdich": ""
+  },
+  {
+    "start": 273.75,
+    "end": 275.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 273.76,
+    "end": 278.16,
+    "text": "write.",
+    "textdich": ""
+  },
+  {
+    "start": 275.15,
+    "end": 278.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 275.16,
+    "end": 279.919,
+    "text": "How much money do I have available?",
+    "textdich": ""
+  },
+  {
+    "start": 278.15,
+    "end": 279.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 278.16,
+    "end": 282.52,
+    "text": "Income.",
+    "textdich": ""
+  },
+  {
+    "start": 279.909,
+    "end": 282.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 279.919,
+    "end": 284.32,
+    "text": "How much would I like to save?",
+    "textdich": ""
+  },
+  {
+    "start": 282.51,
+    "end": 284.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 282.52,
+    "end": 287.04,
+    "text": "Goal.",
+    "textdich": ""
+  },
+  {
+    "start": 284.31,
+    "end": 287.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 284.32,
+    "end": 289.36,
+    "text": "How much must I spend?",
+    "textdich": ""
+  },
+  {
+    "start": 287.03,
+    "end": 289.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 287.04,
+    "end": 291.36,
+    "text": "Fixed expenses.",
+    "textdich": ""
+  },
+  {
+    "start": 289.35,
+    "end": 291.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 289.36,
+    "end": 293.36,
+    "text": "How can I improve?",
+    "textdich": ""
+  },
+  {
+    "start": 291.35,
+    "end": 293.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 291.36,
+    "end": 296.063,
+    "text": "The promise.",
+    "textdich": ""
+  },
+  {
+    "start": 293.35,
+    "end": 296.063,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 293.36,
+    "end": 298.12,
+    "text": "Most people do this backward. They spend",
+    "textdich": ""
+  },
+  {
+    "start": 296.053,
+    "end": 298.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 296.063,
+    "end": 301.84,
+    "text": " first and then save whatever is",
+    "textdich": ""
+  },
+  {
+    "start": 298.11,
+    "end": 301.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 298.12,
+    "end": 304.578,
+    "text": "left over, which is usually zero.",
+    "textdich": ""
+  },
+  {
+    "start": 301.83,
+    "end": 304.578,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 301.84,
+    "end": 305.12,
+    "text": "The Kakeibo method flips the equation.",
+    "textdich": ""
+  },
+  {
+    "start": 304.568,
+    "end": 305.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 304.578,
+    "end": 307.198,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 305.11,
+    "end": 307.198,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 305.12,
+    "end": 307.2,
+    "text": " Income minus savings",
+    "textdich": ""
+  },
+  {
+    "start": 307.188,
+    "end": 307.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 307.19,
+    "end": 309.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 307.198,
+    "end": 309.76,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 307.2,
+    "end": 313.44,
+    "text": " equals spending money.",
+    "textdich": ""
+  },
+  {
+    "start": 309.75,
+    "end": 313.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 309.76,
+    "end": 316.48,
+    "text": "You pay yourself first.",
+    "textdich": ""
+  },
+  {
+    "start": 313.43,
+    "end": 316.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 313.44,
+    "end": 318.36,
+    "text": "If you make $3,000 and you want to save",
+    "textdich": ""
+  },
+  {
+    "start": 316.47,
+    "end": 318.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 316.48,
+    "end": 321.96,
+    "text": "$500,",
+    "textdich": ""
+  },
+  {
+    "start": 318.35,
+    "end": 321.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 318.36,
+    "end": 326.6,
+    "text": "you remove the $500 immediately. ",
+    "textdich": ""
+  },
+  {
+    "start": 321.95,
+    "end": 326.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 321.96,
+    "end": 330.36,
+    "text": "Now, you have to survive on $2,500.",
+    "textdich": ""
+  },
+  {
+    "start": 326.59,
+    "end": 330.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 326.6,
+    "end": 333.08,
+    "text": "This creates artificial scarcity.",
+    "textdich": ""
+  },
+  {
+    "start": 330.35,
+    "end": 333.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 330.36,
+    "end": 335.48,
+    "text": "When you have less money available,",
+    "textdich": ""
+  },
+  {
+    "start": 333.07,
+    "end": 335.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 333.08,
+    "end": 337.68,
+    "text": "you become more creative.",
+    "textdich": ""
+  },
+  {
+    "start": 335.47,
+    "end": 337.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 335.48,
+    "end": 341.44,
+    "text": "You stop  wasting.",
+    "textdich": ""
+  },
+  {
+    "start": 337.67,
+    "end": 341.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 337.68,
+    "end": 343.76,
+    "text": "You prioritize the must-haves over the",
+    "textdich": ""
+  },
+  {
+    "start": 341.43,
+    "end": 343.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 341.44,
+    "end": 346.16,
+    "text": "nice-to-haves.",
+    "textdich": ""
+  },
+  {
+    "start": 343.75,
+    "end": 346.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 343.76,
+    "end": 347.96,
+    "text": "The Kakeibo practitioner does not look",
+    "textdich": ""
+  },
+  {
+    "start": 346.15,
+    "end": 347.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 346.16,
+    "end": 349.88,
+    "text": "at their bank balance to see if they can",
+    "textdich": ""
+  },
+  {
+    "start": 347.95,
+    "end": 349.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 347.96,
+    "end": 352.48,
+    "text": "afford something.",
+    "textdich": ""
+  },
+  {
+    "start": 349.87,
+    "end": 352.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 349.88,
+    "end": 355.28,
+    "text": "They look at their budget. ",
+    "textdich": ""
+  },
+  {
+    "start": 352.47,
+    "end": 355.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 352.48,
+    "end": 357.76,
+    "text": "The bank balance is a lie because it",
+    "textdich": ""
+  },
+  {
+    "start": 355.27,
+    "end": 357.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 355.28,
+    "end": 359.6,
+    "text": "includes rent money, bill money, and",
+    "textdich": ""
+  },
+  {
+    "start": 357.75,
+    "end": 359.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 357.76,
+    "end": 360.92,
+    "text": "savings.",
+    "textdich": ""
+  },
+  {
+    "start": 359.59,
+    "end": 360.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 359.6,
+    "end": 363.76,
+    "text": "The budget",
+    "textdich": ""
+  },
+  {
+    "start": 360.91,
+    "end": 363.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 360.92,
+    "end": 363.76,
+    "text": "is the truth.",
+    "textdich": ""
+  },
+  {
+    "start": 364.55,
+    "end": 364.55,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 364.56,
+    "end": 370.96,
+    "text": "The four buckets of spending.",
+    "textdich": ""
+  },
+  {
+    "start": 367.91,
+    "end": 370.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 367.92,
+    "end": 372.84,
+    "text": "In Kakeibo, you categorize every single",
+    "textdich": ""
+  },
+  {
+    "start": 370.95,
+    "end": 372.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 370.96,
+    "end": 374.6,
+    "text": "expense into one  of four",
+    "textdich": ""
+  },
+  {
+    "start": 372.83,
+    "end": 374.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 372.84,
+    "end": 376.24,
+    "text": "buckets.",
+    "textdich": ""
+  },
+  {
+    "start": 374.59,
+    "end": 376.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 374.6,
+    "end": 377.72,
+    "text": "This is not about complicated",
+    "textdich": ""
+  },
+  {
+    "start": 376.23,
+    "end": 377.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 376.24,
+    "end": 380.0,
+    "text": "spreadsheets.",
+    "textdich": ""
+  },
+  {
+    "start": 377.71,
+    "end": 380.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 377.72,
+    "end": 382.24,
+    "text": "It is about understanding the nature of",
+    "textdich": ""
+  },
+  {
+    "start": 379.99,
+    "end": 382.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 380.0,
+    "end": 383.36,
+    "text": "the expense.",
+    "textdich": ""
+  },
+  {
+    "start": 382.23,
+    "end": 383.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 382.24,
+    "end": 384.72,
+    "text": "One,",
+    "textdich": ""
+  },
+  {
+    "start": 383.35,
+    "end": 384.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 383.36,
+    "end": 386.24,
+    "text": "survival, ",
+    "textdich": ""
+  },
+  {
+    "start": 384.71,
+    "end": 386.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 384.72,
+    "end": 390.04,
+    "text": "needs,",
+    "textdich": ""
+  },
+  {
+    "start": 386.23,
+    "end": 390.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 386.24,
+    "end": 391.72,
+    "text": "rent, food, utilities, transport,",
+    "textdich": ""
+  },
+  {
+    "start": 390.03,
+    "end": 391.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 390.04,
+    "end": 394.28,
+    "text": "medicine.",
+    "textdich": ""
+  },
+  {
+    "start": 391.71,
+    "end": 394.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 391.72,
+    "end": 396.8,
+    "text": "These are non-negotiable.",
+    "textdich": ""
+  },
+  {
+    "start": 394.27,
+    "end": 396.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 394.28,
+    "end": 400.0,
+    "text": "You cannot cut these to zero,",
+    "textdich": ""
+  },
+  {
+    "start": 396.79,
+    "end": 400.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 396.8,
+    "end": 401.12,
+    "text": "but you can optimize them.",
+    "textdich": ""
+  },
+  {
+    "start": 399.99,
+    "end": 401.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 400.0,
+    "end": 402.32,
+    "text": "Two,",
+    "textdich": ""
+  },
+  {
+    "start": 401.11,
+    "end": 402.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 401.12,
+    "end": 403.8,
+    "text": "optional,",
+    "textdich": ""
+  },
+  {
+    "start": 402.31,
+    "end": 403.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 402.32,
+    "end": 406.56,
+    "text": "wants,",
+    "textdich": ""
+  },
+  {
+    "start": 403.79,
+    "end": 406.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 403.8,
+    "end": 408.52,
+    "text": "dining out, shopping,  drinks,",
+    "textdich": ""
+  },
+  {
+    "start": 406.55,
+    "end": 408.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 406.56,
+    "end": 411.4,
+    "text": "subscriptions.",
+    "textdich": ""
+  },
+  {
+    "start": 408.51,
+    "end": 411.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 408.52,
+    "end": 415.56,
+    "text": "This is the leak.",
+    "textdich": ""
+  },
+  {
+    "start": 411.39,
+    "end": 415.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 411.4,
+    "end": 416.8,
+    "text": "This is where the battle is won or lost.",
+    "textdich": ""
+  },
+  {
+    "start": 415.55,
+    "end": 416.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 415.56,
+    "end": 419.88,
+    "text": "Three,",
+    "textdich": ""
+  },
+  {
+    "start": 416.79,
+    "end": 419.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 416.8,
+    "end": 424.16,
+    "text": "culture, mental enrichment,",
+    "textdich": ""
+  },
+  {
+    "start": 419.87,
+    "end": 424.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 419.88,
+    "end": 426.64,
+    "text": "books, museums, courses, movies.",
+    "textdich": ""
+  },
+  {
+    "start": 424.15,
+    "end": 426.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 424.16,
+    "end": 429.04,
+    "text": "Kakeibo encourages this.",
+    "textdich": ""
+  },
+  {
+    "start": 426.63,
+    "end": 429.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 426.64,
+    "end": 432.04,
+    "text": "Spending money to grow your mind is an",
+    "textdich": ""
+  },
+  {
+    "start": 429.03,
+    "end": 432.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 429.04,
+    "end": 436.12,
+    "text": "investment, not a waste.",
+    "textdich": ""
+  },
+  {
+    "start": 432.03,
+    "end": 436.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 432.04,
+    "end": 437.24,
+    "text": "However, it must be tracked.",
+    "textdich": ""
+  },
+  {
+    "start": 436.11,
+    "end": 437.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 436.12,
+    "end": 439.88,
+    "text": "Four,",
+    "textdich": ""
+  },
+  {
+    "start": 437.23,
+    "end": 439.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 437.24,
+    "end": 443.8,
+    "text": "extra, unexpected, ",
+    "textdich": ""
+  },
+  {
+    "start": 439.87,
+    "end": 443.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 439.88,
+    "end": 447.4,
+    "text": "repairs, gifts, broken electronics,",
+    "textdich": ""
+  },
+  {
+    "start": 443.79,
+    "end": 447.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 443.8,
+    "end": 449.64,
+    "text": "the things you didn't plan for.",
+    "textdich": ""
+  },
+  {
+    "start": 447.39,
+    "end": 449.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 447.4,
+    "end": 451.04,
+    "text": "Every evening, you sit down for 3",
+    "textdich": ""
+  },
+  {
+    "start": 449.63,
+    "end": 451.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 449.64,
+    "end": 452.84,
+    "text": "minutes.",
+    "textdich": ""
+  },
+  {
+    "start": 451.03,
+    "end": 452.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 451.04,
+    "end": 455.48,
+    "text": "You take your receipts.",
+    "textdich": ""
+  },
+  {
+    "start": 452.83,
+    "end": 455.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 452.84,
+    "end": 458.16,
+    "text": "You write  them into the buckets.",
+    "textdich": ""
+  },
+  {
+    "start": 455.47,
+    "end": 458.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 455.48,
+    "end": 459.6,
+    "text": "This daily ritual is the core of the",
+    "textdich": ""
+  },
+  {
+    "start": 458.15,
+    "end": 459.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 458.16,
+    "end": 462.0,
+    "text": "system.",
+    "textdich": ""
+  },
+  {
+    "start": 459.59,
+    "end": 462.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 459.6,
+    "end": 464.56,
+    "text": "It forces you to confront your choices",
+    "textdich": ""
+  },
+  {
+    "start": 461.99,
+    "end": 464.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 462.0,
+    "end": 468.2,
+    "text": "while the memory is fresh.",
+    "textdich": ""
+  },
+  {
+    "start": 464.55,
+    "end": 468.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 464.56,
+    "end": 470.88,
+    "text": "If you spent $50 on drinks last night,",
+    "textdich": ""
+  },
+  {
+    "start": 468.19,
+    "end": 470.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 468.2,
+    "end": 473.12,
+    "text": "you have to write it down this morning.",
+    "textdich": ""
+  },
+  {
+    "start": 470.87,
+    "end": 473.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 470.88,
+    "end": 475.32,
+    "text": "You feel the sting.",
+    "textdich": ""
+  },
+  {
+    "start": 473.11,
+    "end": 475.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 473.12,
+    "end": 477.44,
+    "text": "That sting prevents you from doing it",
+    "textdich": ""
+  },
+  {
+    "start": 475.31,
+    "end": 477.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 475.32,
+    "end": 479.44,
+    "text": "again tonight.",
+    "textdich": ""
+  },
+  {
+    "start": 477.43,
+    "end": 479.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 477.44,
+    "end": 482.2,
+    "text": "Most people wait until the end of the",
+    "textdich": ""
+  },
+  {
+    "start": 479.43,
+    "end": 482.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 479.44,
+    "end": 485.0,
+    "text": "month to look at their finances.",
+    "textdich": ""
+  },
+  {
+    "start": 482.19,
+    "end": 485.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 482.2,
+    "end": 488.08,
+    "text": "That  is an autopsy.",
+    "textdich": ""
+  },
+  {
+    "start": 484.99,
+    "end": 488.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 485.0,
+    "end": 491.04,
+    "text": "The patient is already dead.",
+    "textdich": ""
+  },
+  {
+    "start": 488.07,
+    "end": 491.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 488.08,
+    "end": 494.52,
+    "text": "Kakeibo is a daily  checkup.",
+    "textdich": ""
+  },
+  {
+    "start": 491.03,
+    "end": 494.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 491.04,
+    "end": 498.88,
+    "text": "It keeps the patient alive.",
+    "textdich": ""
+  },
+  {
+    "start": 494.51,
+    "end": 498.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 494.52,
+    "end": 502.919,
+    "text": "The envelope method, cash stuffing.",
+    "textdich": ""
+  },
+  {
+    "start": 498.87,
+    "end": 502.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 498.88,
+    "end": 504.12,
+    "text": "For the optional bucket, food, fun,",
+    "textdich": ""
+  },
+  {
+    "start": 502.909,
+    "end": 504.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 502.919,
+    "end": 507.04,
+    "text": "shopping,",
+    "textdich": ""
+  },
+  {
+    "start": 504.11,
+    "end": 507.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 504.12,
+    "end": 509.24,
+    "text": "the Japanese use cash.",
+    "textdich": ""
+  },
+  {
+    "start": 507.03,
+    "end": 509.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 507.04,
+    "end": 513.44,
+    "text": "At the start of the month, they withdraw",
+    "textdich": ""
+  },
+  {
+    "start": 509.23,
+    "end": 513.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 509.24,
+    "end": 515.96,
+    "text": "the exact amount budgeted for fun.",
+    "textdich": ""
+  },
+  {
+    "start": 513.43,
+    "end": 515.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 513.44,
+    "end": 518.2,
+    "text": "They put it in an envelope.",
+    "textdich": ""
+  },
+  {
+    "start": 515.95,
+    "end": 518.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 515.96,
+    "end": 520.479,
+    "text": "When they go out for drinks, they take",
+    "textdich": ""
+  },
+  {
+    "start": 518.19,
+    "end": 520.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 518.2,
+    "end": 522.68,
+    "text": "cash from the envelope.",
+    "textdich": ""
+  },
+  {
+    "start": 520.469,
+    "end": 522.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 520.479,
+    "end": 525.36,
+    "text": "When the envelope is empty,",
+    "textdich": ""
+  },
+  {
+    "start": 522.67,
+    "end": 525.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 522.68,
+    "end": 528.12,
+    "text": "the fun is over.",
+    "textdich": ""
+  },
+  {
+    "start": 525.35,
+    "end": 528.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 525.36,
+    "end": 530.4,
+    "text": "There is no overdraft.",
+    "textdich": ""
+  },
+  {
+    "start": 528.11,
+    "end": 530.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 528.12,
+    "end": 531.839,
+    "text": "There is no putting it on the credit",
+    "textdich": ""
+  },
+  {
+    "start": 530.39,
+    "end": 531.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 530.4,
+    "end": 534.96,
+    "text": "card.",
+    "textdich": ""
+  },
+  {
+    "start": 531.829,
+    "end": 534.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 531.839,
+    "end": 538.64,
+    "text": "The physical limit is absolute.",
+    "textdich": ""
+  },
+  {
+    "start": 534.95,
+    "end": 538.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 534.96,
+    "end": 541.76,
+    "text": "This teaches self-regulation.",
+    "textdich": ""
+  },
+  {
+    "start": 538.63,
+    "end": 541.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 538.64,
+    "end": 543.001,
+    "text": "If you blow your entire fun budget in",
+    "textdich": ""
+  },
+  {
+    "start": 541.75,
+    "end": 543.001,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 541.76,
+    "end": 543.36,
+    "text": "the first week,",
+    "textdich": ""
+  },
+  {
+    "start": 542.991,
+    "end": 543.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 543.001,
+    "end": 545.92,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 543.35,
+    "end": 545.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 543.36,
+    "end": 547.36,
+    "text": " you spend the next 3 weeks sitting at",
+    "textdich": ""
+  },
+  {
+    "start": 545.91,
+    "end": 547.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 545.92,
+    "end": 550.4,
+    "text": "home.",
+    "textdich": ""
+  },
+  {
+    "start": 547.35,
+    "end": 550.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 547.36,
+    "end": 551.64,
+    "text": "You learn a painful lesson.",
+    "textdich": ""
+  },
+  {
+    "start": 550.39,
+    "end": 551.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 550.4,
+    "end": 553.88,
+    "text": "Next month, ",
+    "textdich": ""
+  },
+  {
+    "start": 551.63,
+    "end": 553.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 551.64,
+    "end": 556.16,
+    "text": "you pace yourself.",
+    "textdich": ""
+  },
+  {
+    "start": 553.87,
+    "end": 556.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 553.88,
+    "end": 558.0,
+    "text": "This is how you master impulse ",
+    "textdich": ""
+  },
+  {
+    "start": 556.15,
+    "end": 558.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 556.16,
+    "end": 560.6,
+    "text": "control.",
+    "textdich": ""
+  },
+  {
+    "start": 557.99,
+    "end": 560.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 558.0,
+    "end": 563.88,
+    "text": "You cannot cheat physics.",
+    "textdich": ""
+  },
+  {
+    "start": 560.59,
+    "end": 563.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 560.6,
+    "end": 565.2,
+    "text": "An empty envelope cannot buy a beer.",
+    "textdich": ""
+  },
+  {
+    "start": 563.87,
+    "end": 565.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 563.88,
+    "end": 567.56,
+    "text": "In a digital world, ",
+    "textdich": ""
+  },
+  {
+    "start": 565.19,
+    "end": 567.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 565.2,
+    "end": 570.28,
+    "text": "you can use a separate debit card like",
+    "textdich": ""
+  },
+  {
+    "start": 567.55,
+    "end": 570.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 567.56,
+    "end": 572.04,
+    "text": "Revolut or Monzo that you load with a",
+    "textdich": ""
+  },
+  {
+    "start": 570.27,
+    "end": 572.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 570.28,
+    "end": 574.4,
+    "text": "fixed amount.",
+    "textdich": ""
+  },
+  {
+    "start": 572.03,
+    "end": 574.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 572.04,
+    "end": 576.64,
+    "text": "But physical cash is still superior for",
+    "textdich": ""
+  },
+  {
+    "start": 574.39,
+    "end": 576.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 574.4,
+    "end": 579.04,
+    "text": "retraining the brain.",
+    "textdich": ""
+  },
+  {
+    "start": 576.63,
+    "end": 579.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 576.64,
+    "end": 581.04,
+    "text": "Seeing the stack of bills get thinner",
+    "textdich": ""
+  },
+  {
+    "start": 579.03,
+    "end": 581.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 579.04,
+    "end": 583.28,
+    "text": "gives you a visceral sense of time",
+    "textdich": ""
+  },
+  {
+    "start": 581.03,
+    "end": 583.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 581.04,
+    "end": 587.16,
+    "text": "running out.",
+    "textdich": ""
+  },
+  {
+    "start": 583.27,
+    "end": 587.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 583.28,
+    "end": 589.08,
+    "text": "The want versus need delay.",
+    "textdich": ""
+  },
+  {
+    "start": 587.15,
+    "end": 589.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 587.16,
+    "end": 590.76,
+    "text": "We live in the era of instant",
+    "textdich": ""
+  },
+  {
+    "start": 589.07,
+    "end": 590.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 589.08,
+    "end": 593.12,
+    "text": "gratification.",
+    "textdich": ""
+  },
+  {
+    "start": 590.75,
+    "end": 593.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 590.76,
+    "end": 594.32,
+    "text": "You  see it, you want it, you",
+    "textdich": ""
+  },
+  {
+    "start": 593.11,
+    "end": 594.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 593.12,
+    "end": 596.4,
+    "text": "click it.",
+    "textdich": ""
+  },
+  {
+    "start": 594.31,
+    "end": 596.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 594.32,
+    "end": 599.48,
+    "text": "It arrives tomorrow.",
+    "textdich": ""
+  },
+  {
+    "start": 596.39,
+    "end": 599.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 596.4,
+    "end": 603.2,
+    "text": "This  destroys wealth.",
+    "textdich": ""
+  },
+  {
+    "start": 599.47,
+    "end": 603.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 599.48,
+    "end": 605.0,
+    "text": "Kakeibo introduces a cooling-off period.",
+    "textdich": ""
+  },
+  {
+    "start": 603.19,
+    "end": 605.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 603.2,
+    "end": 606.536,
+    "text": "When you see something you want that is",
+    "textdich": ""
+  },
+  {
+    "start": 604.99,
+    "end": 606.536,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 605.0,
+    "end": 606.72,
+    "text": "not a survival need,",
+    "textdich": ""
+  },
+  {
+    "start": 606.526,
+    "end": 606.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 606.536,
+    "end": 608.64,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 606.71,
+    "end": 608.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 606.72,
+    "end": 611.0,
+    "text": " you do not buy it.",
+    "textdich": ""
+  },
+  {
+    "start": 608.63,
+    "end": 611.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 608.64,
+    "end": 612.64,
+    "text": "You write it down in a wish list section",
+    "textdich": ""
+  },
+  {
+    "start": 610.99,
+    "end": 612.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 611.0,
+    "end": 615.12,
+    "text": "of your  notebook.",
+    "textdich": ""
+  },
+  {
+    "start": 612.63,
+    "end": 615.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 612.64,
+    "end": 618.04,
+    "text": "You wait 30 days.",
+    "textdich": ""
+  },
+  {
+    "start": 615.11,
+    "end": 618.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 615.12,
+    "end": 619.44,
+    "text": "After 30 days, look at the list. Ask",
+    "textdich": ""
+  },
+  {
+    "start": 618.03,
+    "end": 619.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 618.04,
+    "end": 622.04,
+    "text": "yourself,",
+    "textdich": ""
+  },
+  {
+    "start": 619.43,
+    "end": 622.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 619.44,
+    "end": 625.04,
+    "text": "\"Do I still want this? Or was I just",
+    "textdich": ""
+  },
+  {
+    "start": 622.03,
+    "end": 625.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 622.04,
+    "end": 629.2,
+    "text": "bored, sad, hungry?\"",
+    "textdich": ""
+  },
+  {
+    "start": 625.03,
+    "end": 629.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 625.04,
+    "end": 631.4,
+    "text": "90% of the time, the urge will be gone.",
+    "textdich": ""
+  },
+  {
+    "start": 629.19,
+    "end": 631.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 629.2,
+    "end": 634.2,
+    "text": "You will look at the item and think,",
+    "textdich": ""
+  },
+  {
+    "start": 631.39,
+    "end": 634.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 631.4,
+    "end": 635.92,
+    "text": "\"Why did I think I needed that?\"",
+    "textdich": ""
+  },
+  {
+    "start": 634.19,
+    "end": 635.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 634.2,
+    "end": 637.36,
+    "text": "You just saved the money by doing",
+    "textdich": ""
+  },
+  {
+    "start": 635.91,
+    "end": 637.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 635.92,
+    "end": 639.48,
+    "text": "nothing.",
+    "textdich": ""
+  },
+  {
+    "start": 637.35,
+    "end": 639.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 637.36,
+    "end": 642.56,
+    "text": "If you still want it after 30 days with",
+    "textdich": ""
+  },
+  {
+    "start": 639.47,
+    "end": 642.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 639.48,
+    "end": 644.76,
+    "text": "the same intensity, then buy  it.",
+    "textdich": ""
+  },
+  {
+    "start": 642.55,
+    "end": 644.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 642.56,
+    "end": 646.64,
+    "text": "That is a purchase made with intention,",
+    "textdich": ""
+  },
+  {
+    "start": 644.75,
+    "end": 646.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 644.76,
+    "end": 650.68,
+    "text": "not impulse.",
+    "textdich": ""
+  },
+  {
+    "start": 646.63,
+    "end": 650.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 646.64,
+    "end": 652.8,
+    "text": "This kills the dopamine shopping loop.",
+    "textdich": ""
+  },
+  {
+    "start": 650.67,
+    "end": 652.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 650.68,
+    "end": 654.44,
+    "text": "Shopping is often a way to self-medicate",
+    "textdich": ""
+  },
+  {
+    "start": 652.79,
+    "end": 654.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 652.8,
+    "end": 656.48,
+    "text": "anxiety.",
+    "textdich": ""
+  },
+  {
+    "start": 654.43,
+    "end": 656.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 654.44,
+    "end": 658.2,
+    "text": "By delaying the purchase, you force",
+    "textdich": ""
+  },
+  {
+    "start": 656.47,
+    "end": 658.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 656.48,
+    "end": 660.28,
+    "text": "yourself to deal with the anxiety",
+    "textdich": ""
+  },
+  {
+    "start": 658.19,
+    "end": 660.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 658.2,
+    "end": 663.16,
+    "text": "directly,  rather than covering",
+    "textdich": ""
+  },
+  {
+    "start": 660.27,
+    "end": 663.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 660.28,
+    "end": 664.68,
+    "text": "it up with a new gadget.",
+    "textdich": ""
+  },
+  {
+    "start": 663.15,
+    "end": 664.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 663.16,
+    "end": 667.32,
+    "text": "Monozukuri,",
+    "textdich": ""
+  },
+  {
+    "start": 664.67,
+    "end": 667.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 664.68,
+    "end": 670.16,
+    "text": "respect for things.",
+    "textdich": ""
+  },
+  {
+    "start": 667.31,
+    "end": 670.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 667.32,
+    "end": 673.32,
+    "text": "Why do we buy so much stuff?",
+    "textdich": ""
+  },
+  {
+    "start": 670.15,
+    "end": 673.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 670.16,
+    "end": 675.967,
+    "text": "Because we treat things as disposable.",
+    "textdich": ""
+  },
+  {
+    "start": 673.31,
+    "end": 675.967,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 673.32,
+    "end": 676.04,
+    "text": "The Japanese concept of monozukuri",
+    "textdich": ""
+  },
+  {
+    "start": 675.957,
+    "end": 676.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 675.967,
+    "end": 678.64,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 676.03,
+    "end": 678.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 676.04,
+    "end": 680.44,
+    "text": " implies a deep respect for materials and",
+    "textdich": ""
+  },
+  {
+    "start": 678.63,
+    "end": 680.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 678.64,
+    "end": 682.517,
+    "text": "craftsmanship.",
+    "textdich": ""
+  },
+  {
+    "start": 680.43,
+    "end": 682.517,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 680.44,
+    "end": 682.76,
+    "text": "It is related to mottainai,",
+    "textdich": ""
+  },
+  {
+    "start": 682.507,
+    "end": 682.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 682.517,
+    "end": 685.32,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 682.75,
+    "end": 685.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 682.76,
+    "end": 687.68,
+    "text": " the regret over waste.",
+    "textdich": ""
+  },
+  {
+    "start": 685.31,
+    "end": 687.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 685.32,
+    "end": 690.24,
+    "text": "When you practice Kakeibo, you learn to",
+    "textdich": ""
+  },
+  {
+    "start": 687.67,
+    "end": 690.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 687.68,
+    "end": 692.44,
+    "text": "love what you already have.",
+    "textdich": ""
+  },
+  {
+    "start": 690.23,
+    "end": 692.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 690.24,
+    "end": 694.4,
+    "text": "Before you buy a new pair of shoes, you",
+    "textdich": ""
+  },
+  {
+    "start": 692.43,
+    "end": 694.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 692.44,
+    "end": 696.64,
+    "text": "polish your old ones.",
+    "textdich": ""
+  },
+  {
+    "start": 694.39,
+    "end": 696.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 694.4,
+    "end": 700.0,
+    "text": "Before you buy a new phone, you clean",
+    "textdich": ""
+  },
+  {
+    "start": 696.63,
+    "end": 700.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 696.64,
+    "end": 702.24,
+    "text": "the old one and delete the junk files.",
+    "textdich": ""
+  },
+  {
+    "start": 699.99,
+    "end": 702.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 700.0,
+    "end": 704.2,
+    "text": "By caring for your possessions, you",
+    "textdich": ""
+  },
+  {
+    "start": 702.23,
+    "end": 704.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 702.24,
+    "end": 708.04,
+    "text": "extend their life.",
+    "textdich": ""
+  },
+  {
+    "start": 704.19,
+    "end": 708.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 704.2,
+    "end": 710.48,
+    "text": "And you reduce your desire for newness.",
+    "textdich": ""
+  },
+  {
+    "start": 708.03,
+    "end": 710.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 708.04,
+    "end": 713.2,
+    "text": "The consumer economy relies on you being",
+    "textdich": ""
+  },
+  {
+    "start": 710.47,
+    "end": 713.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 710.48,
+    "end": 716.0,
+    "text": "dissatisfied with what you have.",
+    "textdich": ""
+  },
+  {
+    "start": 713.19,
+    "end": 716.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 713.2,
+    "end": 717.88,
+    "text": "Kakeibo teaches you to find satisfaction",
+    "textdich": ""
+  },
+  {
+    "start": 715.99,
+    "end": 717.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 716.0,
+    "end": 720.44,
+    "text": "in maintenance. ",
+    "textdich": ""
+  },
+  {
+    "start": 717.87,
+    "end": 720.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 717.88,
+    "end": 722.48,
+    "text": "Repairing a shirt is an act of rebellion",
+    "textdich": ""
+  },
+  {
+    "start": 720.43,
+    "end": 722.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 720.44,
+    "end": 724.44,
+    "text": "against consumerism.",
+    "textdich": ""
+  },
+  {
+    "start": 722.47,
+    "end": 724.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 722.48,
+    "end": 727.04,
+    "text": "It saves you  money, but more",
+    "textdich": ""
+  },
+  {
+    "start": 724.43,
+    "end": 727.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 724.44,
+    "end": 730.2,
+    "text": "importantly, it makes you the master of",
+    "textdich": ""
+  },
+  {
+    "start": 727.03,
+    "end": 730.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 727.04,
+    "end": 732.44,
+    "text": "your material world rather than a slave",
+    "textdich": ""
+  },
+  {
+    "start": 730.19,
+    "end": 732.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 730.2,
+    "end": 734.44,
+    "text": "to the mall.",
+    "textdich": ""
+  },
+  {
+    "start": 732.43,
+    "end": 734.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 732.44,
+    "end": 736.44,
+    "text": "The monthly review,",
+    "textdich": ""
+  },
+  {
+    "start": 734.43,
+    "end": 736.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 734.44,
+    "end": 738.52,
+    "text": "hansei.",
+    "textdich": ""
+  },
+  {
+    "start": 736.43,
+    "end": 738.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 736.44,
+    "end": 740.12,
+    "text": "At the end of the month, you do not just",
+    "textdich": ""
+  },
+  {
+    "start": 738.51,
+    "end": 740.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 738.52,
+    "end": 743.6,
+    "text": "close  the book.",
+    "textdich": ""
+  },
+  {
+    "start": 740.11,
+    "end": 743.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 740.12,
+    "end": 745.398,
+    "text": "You practice hansei, reflection.",
+    "textdich": ""
+  },
+  {
+    "start": 743.59,
+    "end": 745.398,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 743.6,
+    "end": 745.76,
+    "text": "You look at your numbers.",
+    "textdich": ""
+  },
+  {
+    "start": 745.388,
+    "end": 745.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 745.398,
+    "end": 748.52,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 745.75,
+    "end": 748.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 745.76,
+    "end": 749.8,
+    "text": " You compare your actual spending to your",
+    "textdich": ""
+  },
+  {
+    "start": 748.51,
+    "end": 749.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 748.52,
+    "end": 752.28,
+    "text": "budget.",
+    "textdich": ""
+  },
+  {
+    "start": 749.79,
+    "end": 752.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 749.8,
+    "end": 754.2,
+    "text": "You ask the hard questions.",
+    "textdich": ""
+  },
+  {
+    "start": 752.27,
+    "end": 754.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 752.28,
+    "end": 758.4,
+    "text": "Where did I fail?",
+    "textdich": ""
+  },
+  {
+    "start": 754.19,
+    "end": 758.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 754.2,
+    "end": 759.56,
+    "text": "Why did I spend $200 on Uber Eats? Was I",
+    "textdich": ""
+  },
+  {
+    "start": 758.39,
+    "end": 759.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 758.4,
+    "end": 761.2,
+    "text": "lazy?",
+    "textdich": ""
+  },
+  {
+    "start": 759.55,
+    "end": 761.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 759.56,
+    "end": 764.36,
+    "text": "Was I depressed?",
+    "textdich": ""
+  },
+  {
+    "start": 761.19,
+    "end": 764.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 761.2,
+    "end": 766.92,
+    "text": "How can I fix this next month? ",
+    "textdich": ""
+  },
+  {
+    "start": 764.35,
+    "end": 766.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 764.36,
+    "end": 769.44,
+    "text": "This is not about beating yourself up.",
+    "textdich": ""
+  },
+  {
+    "start": 766.91,
+    "end": 769.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 766.92,
+    "end": 772.36,
+    "text": "It is about data collection.",
+    "textdich": ""
+  },
+  {
+    "start": 769.43,
+    "end": 772.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 769.44,
+    "end": 773.839,
+    "text": "You are a scientist studying your own",
+    "textdich": ""
+  },
+  {
+    "start": 772.35,
+    "end": 773.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 772.36,
+    "end": 776.08,
+    "text": "behavior.",
+    "textdich": ""
+  },
+  {
+    "start": 773.829,
+    "end": 776.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 773.839,
+    "end": 778.803,
+    "text": "Maybe you realize that you spend money",
+    "textdich": ""
+  },
+  {
+    "start": 776.07,
+    "end": 778.803,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 776.08,
+    "end": 779.04,
+    "text": "when you are stressed at work. Okay,",
+    "textdich": ""
+  },
+  {
+    "start": 778.793,
+    "end": 779.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 778.803,
+    "end": 780.8,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 779.03,
+    "end": 780.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 779.04,
+    "end": 783.0,
+    "text": " now you have a trigger.",
+    "textdich": ""
+  },
+  {
+    "start": 780.79,
+    "end": 783.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 780.8,
+    "end": 784.699,
+    "text": "Next month, when you are stressed, you",
+    "textdich": ""
+  },
+  {
+    "start": 782.99,
+    "end": 784.699,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 783.0,
+    "end": 784.88,
+    "text": "need a free alternative,",
+    "textdich": ""
+  },
+  {
+    "start": 784.689,
+    "end": 784.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 784.699,
+    "end": 788.04,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 784.87,
+    "end": 788.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 784.88,
+    "end": 790.08,
+    "text": " like a walk or a bath, instead of a $50",
+    "textdich": ""
+  },
+  {
+    "start": 788.03,
+    "end": 790.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 788.04,
+    "end": 792.36,
+    "text": "takeout order.",
+    "textdich": ""
+  },
+  {
+    "start": 790.07,
+    "end": 792.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 790.08,
+    "end": 795.839,
+    "text": "Kakeibo creates a feedback loop of",
+    "textdich": ""
+  },
+  {
+    "start": 792.35,
+    "end": 795.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 792.36,
+    "end": 798.454,
+    "text": "continuous improvement, kaizen.",
+    "textdich": ""
+  },
+  {
+    "start": 795.829,
+    "end": 798.454,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 795.839,
+    "end": 800.88,
+    "text": "You get smarter every month. You get",
+    "textdich": ""
+  },
+  {
+    "start": 798.444,
+    "end": 800.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 798.454,
+    "end": 803.32,
+    "text": " tighter every month.",
+    "textdich": ""
+  },
+  {
+    "start": 800.87,
+    "end": 803.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 800.88,
+    "end": 808.04,
+    "text": "Eventually, you reach a state where you",
+    "textdich": ""
+  },
+  {
+    "start": 803.31,
+    "end": 808.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 803.32,
+    "end": 811.52,
+    "text": "are saving 30%,  40%, or 50% of",
+    "textdich": ""
+  },
+  {
+    "start": 808.03,
+    "end": 811.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 808.04,
+    "end": 815.6,
+    "text": "your income without feeling deprived,",
+    "textdich": ""
+  },
+  {
+    "start": 811.51,
+    "end": 815.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 811.52,
+    "end": 820.04,
+    "text": "you just stopped the bleeding.",
+    "textdich": ""
+  },
+  {
+    "start": 815.59,
+    "end": 820.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 815.6,
+    "end": 822.24,
+    "text": "Wealth is a ratio, not a number.",
+    "textdich": ""
+  },
+  {
+    "start": 820.03,
+    "end": 822.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 820.04,
+    "end": 823.48,
+    "text": "Here is the secret that rich people",
+    "textdich": ""
+  },
+  {
+    "start": 822.23,
+    "end": 823.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 822.24,
+    "end": 827.12,
+    "text": "know.",
+    "textdich": ""
+  },
+  {
+    "start": 823.47,
+    "end": 827.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 823.48,
+    "end": 828.92,
+    "text": "Wealth is not about income. It is about",
+    "textdich": ""
+  },
+  {
+    "start": 827.11,
+    "end": 828.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 827.12,
+    "end": 831.48,
+    "text": "the gap.",
+    "textdich": ""
+  },
+  {
+    "start": 828.91,
+    "end": 831.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 828.92,
+    "end": 833.16,
+    "text": "The gap between what you make and what",
+    "textdich": ""
+  },
+  {
+    "start": 831.47,
+    "end": 833.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 831.48,
+    "end": 836.92,
+    "text": "you spend.",
+    "textdich": ""
+  },
+  {
+    "start": 833.15,
+    "end": 836.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 833.16,
+    "end": 838.84,
+    "text": "Man A makes $200,000  and spends",
+    "textdich": ""
+  },
+  {
+    "start": 836.91,
+    "end": 838.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 836.92,
+    "end": 843.8,
+    "text": "$200,000.",
+    "textdich": ""
+  },
+  {
+    "start": 838.83,
+    "end": 843.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 838.84,
+    "end": 846.76,
+    "text": "He has $0 wealth. He is on a treadmill.",
+    "textdich": ""
+  },
+  {
+    "start": 843.79,
+    "end": 846.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 843.8,
+    "end": 849.0,
+    "text": "If he loses his job, he is destitute in",
+    "textdich": ""
+  },
+  {
+    "start": 846.75,
+    "end": 849.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 846.76,
+    "end": 851.8,
+    "text": "30 days.",
+    "textdich": ""
+  },
+  {
+    "start": 848.99,
+    "end": 851.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 849.0,
+    "end": 854.129,
+    "text": "Man B makes $50,000",
+    "textdich": ""
+  },
+  {
+    "start": 851.79,
+    "end": 854.129,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 851.8,
+    "end": 854.36,
+    "text": "and spends $30,000.",
+    "textdich": ""
+  },
+  {
+    "start": 854.119,
+    "end": 854.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 854.129,
+    "end": 857.36,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 854.35,
+    "end": 857.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 854.36,
+    "end": 860.04,
+    "text": " He saves $20,000 a year.",
+    "textdich": ""
+  },
+  {
+    "start": 857.35,
+    "end": 860.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 857.36,
+    "end": 863.56,
+    "text": "He has freedom.",
+    "textdich": ""
+  },
+  {
+    "start": 860.03,
+    "end": 863.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 860.04,
+    "end": 868.0,
+    "text": "Man B is richer than man A",
+    "textdich": ""
+  },
+  {
+    "start": 863.55,
+    "end": 868.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 863.56,
+    "end": 872.04,
+    "text": "because man B owns his time.",
+    "textdich": ""
+  },
+  {
+    "start": 867.99,
+    "end": 872.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 868.0,
+    "end": 874.8,
+    "text": "Kakeibo focuses on widening the gap.",
+    "textdich": ""
+  },
+  {
+    "start": 872.03,
+    "end": 874.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 872.04,
+    "end": 877.08,
+    "text": "You cannot always control your income.",
+    "textdich": ""
+  },
+  {
+    "start": 874.79,
+    "end": 877.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 874.8,
+    "end": 881.16,
+    "text": "Raises are hard to get.",
+    "textdich": ""
+  },
+  {
+    "start": 877.07,
+    "end": 881.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 877.08,
+    "end": 882.95,
+    "text": "But you can control your spending today.",
+    "textdich": ""
+  },
+  {
+    "start": 881.15,
+    "end": 882.95,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 881.16,
+    "end": 883.16,
+    "text": "By widening the gap,",
+    "textdich": ""
+  },
+  {
+    "start": 882.94,
+    "end": 883.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 882.95,
+    "end": 886.16,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 883.15,
+    "end": 886.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 883.16,
+    "end": 889.04,
+    "text": " you buy your freedom.",
+    "textdich": ""
+  },
+  {
+    "start": 886.15,
+    "end": 889.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 886.16,
+    "end": 891.2,
+    "text": "Every dollar you save is an employee",
+    "textdich": ""
+  },
+  {
+    "start": 889.03,
+    "end": 891.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 889.04,
+    "end": 893.56,
+    "text": "that works for you.",
+    "textdich": ""
+  },
+  {
+    "start": 891.19,
+    "end": 893.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 891.2,
+    "end": 897.08,
+    "text": "When you save $1,000,",
+    "textdich": ""
+  },
+  {
+    "start": 893.55,
+    "end": 897.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 893.56,
+    "end": 900.76,
+    "text": "you are not losing spending power. You",
+    "textdich": ""
+  },
+  {
+    "start": 897.07,
+    "end": 900.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 897.08,
+    "end": 904.48,
+    "text": "are hiring a thousand tiny workers who",
+    "textdich": ""
+  },
+  {
+    "start": 900.75,
+    "end": 904.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 900.76,
+    "end": 907.48,
+    "text": "will invest and grow and buy you a day",
+    "textdich": ""
+  },
+  {
+    "start": 904.47,
+    "end": 907.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 904.48,
+    "end": 910.48,
+    "text": "where you don't have to work.",
+    "textdich": ""
+  },
+  {
+    "start": 907.47,
+    "end": 910.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 907.48,
+    "end": 913.8,
+    "text": "The Kakeibo practitioner views savings",
+    "textdich": ""
+  },
+  {
+    "start": 910.47,
+    "end": 913.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 910.48,
+    "end": 918.16,
+    "text": "not as money I can't touch,",
+    "textdich": ""
+  },
+  {
+    "start": 913.79,
+    "end": 918.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 913.8,
+    "end": 920.92,
+    "text": "but as freedom I have bought.",
+    "textdich": ""
+  },
+  {
+    "start": 918.15,
+    "end": 920.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 918.16,
+    "end": 923.56,
+    "text": "The ledger of life.",
+    "textdich": ""
+  },
+  {
+    "start": 920.91,
+    "end": 923.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 920.92,
+    "end": 925.8,
+    "text": "Your life is a ledger.",
+    "textdich": ""
+  },
+  {
+    "start": 923.55,
+    "end": 925.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 923.56,
+    "end": 927.4,
+    "text": "You have limited time and limited",
+    "textdich": ""
+  },
+  {
+    "start": 925.79,
+    "end": 927.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 925.8,
+    "end": 929.68,
+    "text": "resources.",
+    "textdich": ""
+  },
+  {
+    "start": 927.39,
+    "end": 929.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 927.4,
+    "end": 931.48,
+    "text": "How are you spending them?",
+    "textdich": ""
+  },
+  {
+    "start": 929.67,
+    "end": 931.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 929.68,
+    "end": 933.4,
+    "text": "Are you spending them on things that",
+    "textdich": ""
+  },
+  {
+    "start": 931.47,
+    "end": 933.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 931.48,
+    "end": 936.88,
+    "text": "rust and rot?",
+    "textdich": ""
+  },
+  {
+    "start": 933.39,
+    "end": 936.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 933.4,
+    "end": 938.4,
+    "text": "Or are you spending them on experiences,",
+    "textdich": ""
+  },
+  {
+    "start": 936.87,
+    "end": 938.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 936.88,
+    "end": 941.28,
+    "text": "on freedom,",
+    "textdich": ""
+  },
+  {
+    "start": 938.39,
+    "end": 941.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 938.4,
+    "end": 944.32,
+    "text": "and on peace of mind?",
+    "textdich": ""
+  },
+  {
+    "start": 941.27,
+    "end": 944.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 941.28,
+    "end": 946.8,
+    "text": "Kakeibo is more than a budgeting tool.",
+    "textdich": ""
+  },
+  {
+    "start": 944.31,
+    "end": 946.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 944.32,
+    "end": 948.45,
+    "text": "It is a mirror.",
+    "textdich": ""
+  },
+  {
+    "start": 946.79,
+    "end": 948.45,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 946.8,
+    "end": 948.64,
+    "text": "When you look at your spending,",
+    "textdich": ""
+  },
+  {
+    "start": 948.44,
+    "end": 948.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 948.45,
+    "end": 951.48,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 948.63,
+    "end": 951.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 948.64,
+    "end": 954.72,
+    "text": " you see your values.",
+    "textdich": ""
+  },
+  {
+    "start": 951.47,
+    "end": 954.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 951.48,
+    "end": 960.84,
+    "text": "If you say \"Family is important,\" but",
+    "textdich": ""
+  },
+  {
+    "start": 954.71,
+    "end": 960.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 954.72,
+    "end": 964.72,
+    "text": "you spend $0 on family and $500 on golf,",
+    "textdich": ""
+  },
+  {
+    "start": 960.83,
+    "end": 964.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 960.84,
+    "end": 968.04,
+    "text": "the ledger proves you are a liar.",
+    "textdich": ""
+  },
+  {
+    "start": 964.71,
+    "end": 968.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 964.72,
+    "end": 971.52,
+    "text": "Align your spending with your soul.",
+    "textdich": ""
+  },
+  {
+    "start": 968.03,
+    "end": 971.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 968.04,
+    "end": 972.686,
+    "text": "Stop the leaks. Patch the bucket.",
+    "textdich": ""
+  },
+  {
+    "start": 971.51,
+    "end": 972.686,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 971.52,
+    "end": 973.84,
+    "text": "Pick up the pen.",
+    "textdich": ""
+  },
+  {
+    "start": 972.676,
+    "end": 973.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 972.686,
+    "end": 976.48,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 973.83,
+    "end": 976.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 973.84,
+    "end": 978.16,
+    "text": " The path to riches does not start with a",
+    "textdich": ""
+  },
+  {
+    "start": 976.47,
+    "end": 978.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 976.48,
+    "end": 981.52,
+    "text": "lottery ticket.",
+    "textdich": ""
+  },
+  {
+    "start": 978.15,
+    "end": 981.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 978.16,
+    "end": 984.0,
+    "text": "It starts with a notebook.",
+    "textdich": ""
+  },
+  {
+    "start": 981.51,
+    "end": 984.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 981.52,
+    "end": 986.839,
+    "text": "Here is your mission.",
+    "textdich": ""
+  },
+  {
+    "start": 983.99,
+    "end": 986.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 984.0,
+    "end": 988.48,
+    "text": "We are going to do a 7-day Kakeibo",
+    "textdich": ""
+  },
+  {
+    "start": 986.829,
+    "end": 988.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 986.839,
+    "end": 990.52,
+    "text": "challenge.",
+    "textdich": ""
+  },
+  {
+    "start": 988.47,
+    "end": 990.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 988.48,
+    "end": 993.2,
+    "text": "For the next 7 days,  you will",
+    "textdich": ""
+  },
+  {
+    "start": 990.51,
+    "end": 993.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 990.52,
+    "end": 995.32,
+    "text": "not just check your app.",
+    "textdich": ""
+  },
+  {
+    "start": 993.19,
+    "end": 995.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 993.2,
+    "end": 998.8,
+    "text": "You will physically write down ",
+    "textdich": ""
+  },
+  {
+    "start": 995.31,
+    "end": 998.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 995.32,
+    "end": 1001.6,
+    "text": "every single cent you spend.",
+    "textdich": ""
+  },
+  {
+    "start": 998.79,
+    "end": 1001.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 998.8,
+    "end": 1004.12,
+    "text": "Use a notebook, a napkin, the back of",
+    "textdich": ""
+  },
+  {
+    "start": 1001.59,
+    "end": 1004.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1001.6,
+    "end": 1006.68,
+    "text": "your hand. I don't care.",
+    "textdich": ""
+  },
+  {
+    "start": 1004.11,
+    "end": 1006.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1004.12,
+    "end": 1010.2,
+    "text": "Write it  down.",
+    "textdich": ""
+  },
+  {
+    "start": 1006.67,
+    "end": 1010.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1006.68,
+    "end": 1013.36,
+    "text": "Coffee, $4.50.",
+    "textdich": ""
+  },
+  {
+    "start": 1010.19,
+    "end": 1013.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1010.2,
+    "end": 1015.56,
+    "text": "Gas, $40.",
+    "textdich": ""
+  },
+  {
+    "start": 1013.35,
+    "end": 1015.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1013.36,
+    "end": 1017.08,
+    "text": "At the end of the 7 days, look ",
+    "textdich": ""
+  },
+  {
+    "start": 1015.55,
+    "end": 1017.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1015.56,
+    "end": 1020.72,
+    "text": "at the list.",
+    "textdich": ""
+  },
+  {
+    "start": 1017.07,
+    "end": 1020.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1017.08,
+    "end": 1023.12,
+    "text": "Circle the wants in red.",
+    "textdich": ""
+  },
+  {
+    "start": 1020.71,
+    "end": 1023.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1020.72,
+    "end": 1026.0,
+    "text": "Calculate the total.",
+    "textdich": ""
+  },
+  {
+    "start": 1023.11,
+    "end": 1026.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1023.12,
+    "end": 1029.0,
+    "text": "You will be shocked at how much money",
+    "textdich": ""
+  },
+  {
+    "start": 1025.99,
+    "end": 1029.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1026.0,
+    "end": 1031.4,
+    "text": "you are setting on fire.",
+    "textdich": ""
+  },
+  {
+    "start": 1028.99,
+    "end": 1031.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1029.0,
+    "end": 1032.8,
+    "text": "Awareness is the first step  to",
+    "textdich": ""
+  },
+  {
+    "start": 1031.39,
+    "end": 1032.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1031.4,
+    "end": 1034.36,
+    "text": "change.",
+    "textdich": ""
+  },
+  {
+    "start": 1032.79,
+    "end": 1034.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1032.8,
+    "end": 1036.959,
+    "text": "So, tell me,",
+    "textdich": ""
+  },
+  {
+    "start": 1034.35,
+    "end": 1036.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1034.36,
+    "end": 1038.56,
+    "text": "what is your guilty  pleasure",
+    "textdich": ""
+  },
+  {
+    "start": 1036.949,
+    "end": 1038.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1036.959,
+    "end": 1041.079,
+    "text": "expense.",
+    "textdich": ""
+  },
+  {
+    "start": 1038.55,
+    "end": 1041.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1038.56,
+    "end": 1043.24,
+    "text": "The one small thing that drains your",
+    "textdich": ""
+  },
+  {
+    "start": 1041.069,
+    "end": 1043.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1041.079,
+    "end": 1046.52,
+    "text": "wallet every month.",
+    "textdich": ""
+  },
+  {
+    "start": 1043.23,
+    "end": 1046.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1043.24,
+    "end": 1048.011,
+    "text": "For example, daily Starbucks, in-app",
+    "textdich": ""
+  },
+  {
+    "start": 1046.51,
+    "end": 1048.011,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1046.52,
+    "end": 1048.24,
+    "text": "game purchases,",
+    "textdich": ""
+  },
+  {
+    "start": 1048.001,
+    "end": 1048.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1048.011,
+    "end": 1050.96,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 1048.23,
+    "end": 1050.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1048.24,
+    "end": 1053.36,
+    "text": " Uber instead of walking.",
+    "textdich": ""
+  },
+  {
+    "start": 1050.95,
+    "end": 1053.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1050.96,
+    "end": 1054.562,
+    "text": "Confess it in the comments.",
+    "textdich": ""
+  },
+  {
+    "start": 1053.35,
+    "end": 1054.562,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1053.36,
+    "end": 1054.6,
+    "text": "And then,",
+    "textdich": ""
+  },
+  {
+    "start": 1054.552,
+    "end": 1054.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1054.562,
+    "end": 1058.12,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 1054.59,
+    "end": 1058.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1054.6,
+    "end": 1060.56,
+    "text": " write the vow of Kakeibo.",
+    "textdich": ""
+  },
+  {
+    "start": 1058.11,
+    "end": 1060.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1058.12,
+    "end": 1065.08,
+    "text": "I master my money.",
+    "textdich": ""
+  },
+  {
+    "start": 1060.55,
+    "end": 1065.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1060.56,
+    "end": 1065.08,
+    "text": "It does  not master me.",
+    "textdich": ""
+  }
+]
