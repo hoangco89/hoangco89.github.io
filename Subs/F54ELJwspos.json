@@ -1,0 +1,5660 @@
+[
+  {
+    "start": 0.08,
+    "end": 3.84,
+    "text": "hey guys welcome back to my channel i am",
+    "textdich": ""
+  },
+  {
+    "start": 2.149,
+    "end": 3.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2.159,
+    "end": 6.56,
+    "text": "offroad and today's video will be on",
+    "textdich": ""
+  },
+  {
+    "start": 3.83,
+    "end": 6.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 3.84,
+    "end": 8.32,
+    "text": "streamlit agreed usage if you have been",
+    "textdich": ""
+  },
+  {
+    "start": 6.55,
+    "end": 8.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 6.56,
+    "end": 10.719,
+    "text": "in my channel probably you know i'm a",
+    "textdich": ""
+  },
+  {
+    "start": 8.31,
+    "end": 10.719,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 8.32,
+    "end": 12.559,
+    "text": "huge fan of streamlid and i've made",
+    "textdich": ""
+  },
+  {
+    "start": 10.709,
+    "end": 12.559,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 10.719,
+    "end": 15.04,
+    "text": "couple of videos on extremely deep",
+    "textdich": ""
+  },
+  {
+    "start": 12.549,
+    "end": 15.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 12.559,
+    "end": 16.8,
+    "text": "stupid tricks please watch it and one of",
+    "textdich": ""
+  },
+  {
+    "start": 15.03,
+    "end": 16.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 15.04,
+    "end": 19.119,
+    "text": "the most common",
+    "textdich": ""
+  },
+  {
+    "start": 16.79,
+    "end": 19.119,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 16.8,
+    "end": 21.52,
+    "text": "views or the common reviews i find in my",
+    "textdich": ""
+  },
+  {
+    "start": 19.109,
+    "end": 21.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 19.119,
+    "end": 23.92,
+    "text": "channel it's about interactive streaming",
+    "textdich": ""
+  },
+  {
+    "start": 21.51,
+    "end": 23.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 21.52,
+    "end": 26.0,
+    "text": "tables or streaming data frames and",
+    "textdich": ""
+  },
+  {
+    "start": 23.91,
+    "end": 26.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 23.92,
+    "end": 28.64,
+    "text": "because of that today i thought of",
+    "textdich": ""
+  },
+  {
+    "start": 25.99,
+    "end": 28.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 26.0,
+    "end": 31.76,
+    "text": "making a very simple video extremely",
+    "textdich": ""
+  },
+  {
+    "start": 28.63,
+    "end": 31.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 28.64,
+    "end": 33.92,
+    "text": "interactive table so we will use hd grid",
+    "textdich": ""
+  },
+  {
+    "start": 31.75,
+    "end": 33.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 31.76,
+    "end": 35.68,
+    "text": "it's one of the best javascript crypt in",
+    "textdich": ""
+  },
+  {
+    "start": 33.91,
+    "end": 35.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 33.92,
+    "end": 38.8,
+    "text": "the world where you can have different",
+    "textdich": ""
+  },
+  {
+    "start": 35.67,
+    "end": 38.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 35.68,
+    "end": 41.2,
+    "text": "multiple checkbox option you can import",
+    "textdich": ""
+  },
+  {
+    "start": 38.79,
+    "end": 41.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 38.8,
+    "end": 44.16,
+    "text": "an image within your rows or within your",
+    "textdich": ""
+  },
+  {
+    "start": 41.19,
+    "end": 44.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 41.2,
+    "end": 46.0,
+    "text": "data frames and also you can interact",
+    "textdich": ""
+  },
+  {
+    "start": 44.15,
+    "end": 46.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 44.16,
+    "end": 47.6,
+    "text": "with your table so basically if you",
+    "textdich": ""
+  },
+  {
+    "start": 45.99,
+    "end": 47.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 46.0,
+    "end": 50.16,
+    "text": "select you can obtain the output",
+    "textdich": ""
+  },
+  {
+    "start": 47.59,
+    "end": 50.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 47.6,
+    "end": 52.0,
+    "text": "actually so we'll try to implement this",
+    "textdich": ""
+  },
+  {
+    "start": 50.15,
+    "end": 52.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 50.16,
+    "end": 54.239,
+    "text": "javascript grid",
+    "textdich": ""
+  },
+  {
+    "start": 51.99,
+    "end": 54.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 52.0,
+    "end": 55.199,
+    "text": "within our streaming tab and how we can",
+    "textdich": ""
+  },
+  {
+    "start": 54.229,
+    "end": 55.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 54.239,
+    "end": 58.0,
+    "text": "do that",
+    "textdich": ""
+  },
+  {
+    "start": 55.189,
+    "end": 58.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 55.199,
+    "end": 60.559,
+    "text": "thanks to this amazing component of the",
+    "textdich": ""
+  },
+  {
+    "start": 57.99,
+    "end": 60.559,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 58.0,
+    "end": 62.8,
+    "text": "creators in streamlit uh pablo and he",
+    "textdich": ""
+  },
+  {
+    "start": 60.549,
+    "end": 62.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 60.559,
+    "end": 64.879,
+    "text": "built a stream with edgy grid component",
+    "textdich": ""
+  },
+  {
+    "start": 62.79,
+    "end": 64.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 62.8,
+    "end": 66.799,
+    "text": "so we just need to install it and then",
+    "textdich": ""
+  },
+  {
+    "start": 64.869,
+    "end": 66.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 64.879,
+    "end": 70.08,
+    "text": "we'll write few lines of code and we'll",
+    "textdich": ""
+  },
+  {
+    "start": 66.789,
+    "end": 70.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 66.799,
+    "end": 73.799,
+    "text": "build a very demo stream it app and",
+    "textdich": ""
+  },
+  {
+    "start": 70.07,
+    "end": 73.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 70.08,
+    "end": 73.799,
+    "text": "let's see how it works",
+    "textdich": ""
+  },
+  {
+    "start": 77.749,
+    "end": 77.749,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 77.759,
+    "end": 80.72,
+    "text": "so",
+    "textdich": ""
+  },
+  {
+    "start": 78.71,
+    "end": 80.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 78.72,
+    "end": 82.159,
+    "text": "so let me first show you the uh the",
+    "textdich": ""
+  },
+  {
+    "start": 80.71,
+    "end": 82.159,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 80.72,
+    "end": 85.84,
+    "text": "modules which you need so we need to",
+    "textdich": ""
+  },
+  {
+    "start": 82.149,
+    "end": 85.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 82.159,
+    "end": 86.88,
+    "text": "import streamlit so we impose tribute as",
+    "textdich": ""
+  },
+  {
+    "start": 85.83,
+    "end": 86.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 85.84,
+    "end": 87.759,
+    "text": "and",
+    "textdich": ""
+  },
+  {
+    "start": 86.87,
+    "end": 87.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 86.88,
+    "end": 90.24,
+    "text": "we",
+    "textdich": ""
+  },
+  {
+    "start": 87.749,
+    "end": 90.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 87.759,
+    "end": 92.88,
+    "text": "also need to import pandas because we",
+    "textdich": ""
+  },
+  {
+    "start": 90.23,
+    "end": 92.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 90.24,
+    "end": 95.119,
+    "text": "will be using pandas to make uh the load",
+    "textdich": ""
+  },
+  {
+    "start": 92.87,
+    "end": 95.119,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 92.88,
+    "end": 97.68,
+    "text": "the data frame or just create a pandas",
+    "textdich": ""
+  },
+  {
+    "start": 95.109,
+    "end": 97.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 95.119,
+    "end": 99.68,
+    "text": "data frame so for that we will import",
+    "textdich": ""
+  },
+  {
+    "start": 97.67,
+    "end": 99.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 97.68,
+    "end": 101.119,
+    "text": "pandas as pd",
+    "textdich": ""
+  },
+  {
+    "start": 99.67,
+    "end": 101.119,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 99.68,
+    "end": 102.72,
+    "text": "this is the two",
+    "textdich": ""
+  },
+  {
+    "start": 101.109,
+    "end": 102.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 101.119,
+    "end": 105.28,
+    "text": "modules which you need in the beginning",
+    "textdich": ""
+  },
+  {
+    "start": 102.71,
+    "end": 105.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 102.72,
+    "end": 108.079,
+    "text": "and i will show you the data set how it",
+    "textdich": ""
+  },
+  {
+    "start": 105.27,
+    "end": 108.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 105.28,
+    "end": 110.88,
+    "text": "looks like so this data set was mainly",
+    "textdich": ""
+  },
+  {
+    "start": 108.069,
+    "end": 110.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 108.079,
+    "end": 112.399,
+    "text": "uh downloaded from kegel data set so i",
+    "textdich": ""
+  },
+  {
+    "start": 110.87,
+    "end": 112.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 110.88,
+    "end": 114.479,
+    "text": "don't have the link yet but i will",
+    "textdich": ""
+  },
+  {
+    "start": 112.389,
+    "end": 114.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 112.399,
+    "end": 115.84,
+    "text": "actually put this in the in my github",
+    "textdich": ""
+  },
+  {
+    "start": 114.469,
+    "end": 115.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 114.479,
+    "end": 118.079,
+    "text": "account so you can actually find the",
+    "textdich": ""
+  },
+  {
+    "start": 115.83,
+    "end": 118.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 115.84,
+    "end": 120.479,
+    "text": "data sets from there we are covered vary",
+    "textdich": ""
+  },
+  {
+    "start": 118.069,
+    "end": 120.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 118.079,
+    "end": 123.52,
+    "text": "in data sets uh it's almost i think 50",
+    "textdich": ""
+  },
+  {
+    "start": 120.469,
+    "end": 123.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 120.479,
+    "end": 126.0,
+    "text": "000 of rows i'm not sure about it but",
+    "textdich": ""
+  },
+  {
+    "start": 123.51,
+    "end": 126.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 123.52,
+    "end": 127.28,
+    "text": "yeah we will load enter",
+    "textdich": ""
+  },
+  {
+    "start": 125.99,
+    "end": 127.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 126.0,
+    "end": 129.52,
+    "text": "data set",
+    "textdich": ""
+  },
+  {
+    "start": 127.27,
+    "end": 129.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 127.28,
+    "end": 131.76,
+    "text": "so let me write a function which will",
+    "textdich": ""
+  },
+  {
+    "start": 129.51,
+    "end": 131.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 129.52,
+    "end": 134.16,
+    "text": "help us to load the data set so we will",
+    "textdich": ""
+  },
+  {
+    "start": 131.75,
+    "end": 134.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 131.76,
+    "end": 134.16,
+    "text": "write as",
+    "textdich": ""
+  },
+  {
+    "start": 137.03,
+    "end": 137.03,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 137.04,
+    "end": 140.56,
+    "text": "that's all we need to just load the data",
+    "textdich": ""
+  },
+  {
+    "start": 139.43,
+    "end": 140.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 139.44,
+    "end": 144.16,
+    "text": "for time b",
+    "textdich": ""
+  },
+  {
+    "start": 140.55,
+    "end": 144.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 140.56,
+    "end": 147.68,
+    "text": "and then we will start with a very easy",
+    "textdich": ""
+  },
+  {
+    "start": 144.15,
+    "end": 147.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 144.16,
+    "end": 150.0,
+    "text": "streamlined syntax so it's streamlined",
+    "textdich": ""
+  },
+  {
+    "start": 147.67,
+    "end": 150.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 147.68,
+    "end": 150.0,
+    "text": "dot",
+    "textdich": ""
+  },
+  {
+    "start": 150.47,
+    "end": 150.47,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 150.48,
+    "end": 155.68,
+    "text": "write or we can just load it astrid or",
+    "textdich": ""
+  },
+  {
+    "start": 153.11,
+    "end": 155.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 153.12,
+    "end": 158.56,
+    "text": "data frame",
+    "textdich": ""
+  },
+  {
+    "start": 155.67,
+    "end": 158.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 155.68,
+    "end": 161.92,
+    "text": "and we will load a data frame so let me",
+    "textdich": ""
+  },
+  {
+    "start": 158.55,
+    "end": 161.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 158.56,
+    "end": 164.48,
+    "text": "first call this function data upload",
+    "textdich": ""
+  },
+  {
+    "start": 161.91,
+    "end": 164.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 161.92,
+    "end": 166.48,
+    "text": "and uh let's do another thing so we will",
+    "textdich": ""
+  },
+  {
+    "start": 164.47,
+    "end": 166.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 164.48,
+    "end": 167.84,
+    "text": "use the extremely.catch",
+    "textdich": ""
+  },
+  {
+    "start": 166.47,
+    "end": 167.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 166.48,
+    "end": 172.879,
+    "text": "function and",
+    "textdich": ""
+  },
+  {
+    "start": 167.83,
+    "end": 172.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 167.84,
+    "end": 175.519,
+    "text": "in this way we don't reload the",
+    "textdich": ""
+  },
+  {
+    "start": 172.869,
+    "end": 175.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 172.879,
+    "end": 178.64,
+    "text": "this data upload function each and every",
+    "textdich": ""
+  },
+  {
+    "start": 175.509,
+    "end": 178.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 175.519,
+    "end": 179.519,
+    "text": "time so basically once we",
+    "textdich": ""
+  },
+  {
+    "start": 178.63,
+    "end": 179.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 178.64,
+    "end": 181.599,
+    "text": "have",
+    "textdich": ""
+  },
+  {
+    "start": 179.509,
+    "end": 181.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 179.519,
+    "end": 183.84,
+    "text": "uploaded the data it's there in the",
+    "textdich": ""
+  },
+  {
+    "start": 181.589,
+    "end": 183.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 181.599,
+    "end": 185.04,
+    "text": "memory so let's see how it looks like",
+    "textdich": ""
+  },
+  {
+    "start": 183.83,
+    "end": 185.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 183.84,
+    "end": 187.2,
+    "text": "and in order to",
+    "textdich": ""
+  },
+  {
+    "start": 185.03,
+    "end": 187.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 185.04,
+    "end": 189.12,
+    "text": "see this we need to fire our terminal",
+    "textdich": ""
+  },
+  {
+    "start": 187.19,
+    "end": 189.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 187.2,
+    "end": 191.12,
+    "text": "with streamlight so",
+    "textdich": ""
+  },
+  {
+    "start": 189.11,
+    "end": 191.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 189.12,
+    "end": 194.0,
+    "text": "let me first show you my streamlet",
+    "textdich": ""
+  },
+  {
+    "start": 191.11,
+    "end": 194.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 191.12,
+    "end": 194.0,
+    "text": "version uh",
+    "textdich": ""
+  },
+  {
+    "start": 194.07,
+    "end": 194.07,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 194.08,
+    "end": 199.76,
+    "text": "streamlet version right now which i'm",
+    "textdich": ""
+  },
+  {
+    "start": 196.229,
+    "end": 199.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 196.239,
+    "end": 201.44,
+    "text": "using is probably 1.5 if i'm not wrong",
+    "textdich": ""
+  },
+  {
+    "start": 199.75,
+    "end": 201.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 199.76,
+    "end": 203.519,
+    "text": "but let's check it",
+    "textdich": ""
+  },
+  {
+    "start": 201.43,
+    "end": 203.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 201.44,
+    "end": 206.48,
+    "text": "yesterday 1.4 so probably i need to",
+    "textdich": ""
+  },
+  {
+    "start": 203.509,
+    "end": 206.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 203.519,
+    "end": 208.72,
+    "text": "upgrade it further uh anyways let me run",
+    "textdich": ""
+  },
+  {
+    "start": 206.47,
+    "end": 208.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 206.48,
+    "end": 208.72,
+    "text": "the",
+    "textdich": ""
+  },
+  {
+    "start": 209.509,
+    "end": 209.509,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 209.519,
+    "end": 214.959,
+    "text": "streamlit run and let's run test dot py",
+    "textdich": ""
+  },
+  {
+    "start": 212.789,
+    "end": 214.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 212.799,
+    "end": 216.0,
+    "text": "since our",
+    "textdich": ""
+  },
+  {
+    "start": 214.949,
+    "end": 216.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 214.959,
+    "end": 217.92,
+    "text": "this",
+    "textdich": ""
+  },
+  {
+    "start": 215.99,
+    "end": 217.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 216.0,
+    "end": 220.4,
+    "text": "python script file name states that when",
+    "textdich": ""
+  },
+  {
+    "start": 217.91,
+    "end": 220.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 217.92,
+    "end": 222.959,
+    "text": "we fire our terminal so it will open in",
+    "textdich": ""
+  },
+  {
+    "start": 220.39,
+    "end": 222.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 220.4,
+    "end": 226.84,
+    "text": "our localhost so we still didn't assign",
+    "textdich": ""
+  },
+  {
+    "start": 222.949,
+    "end": 226.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 222.959,
+    "end": 226.84,
+    "text": "our data so basically",
+    "textdich": ""
+  },
+  {
+    "start": 227.27,
+    "end": 227.27,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 227.28,
+    "end": 231.68,
+    "text": "we say data is our df so this is our",
+    "textdich": ""
+  },
+  {
+    "start": 229.509,
+    "end": 231.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 229.519,
+    "end": 234.159,
+    "text": "data and now we save it and we go to the",
+    "textdich": ""
+  },
+  {
+    "start": 231.67,
+    "end": 234.159,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 231.68,
+    "end": 236.319,
+    "text": "localhost and we rerun it",
+    "textdich": ""
+  },
+  {
+    "start": 234.149,
+    "end": 236.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 234.159,
+    "end": 238.72,
+    "text": "probably now we see all our data sets",
+    "textdich": ""
+  },
+  {
+    "start": 236.309,
+    "end": 238.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 236.319,
+    "end": 241.12,
+    "text": "out here okay uh let me just also show",
+    "textdich": ""
+  },
+  {
+    "start": 238.71,
+    "end": 241.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 238.72,
+    "end": 242.56,
+    "text": "the info as the length of the data frame",
+    "textdich": ""
+  },
+  {
+    "start": 241.11,
+    "end": 242.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 241.12,
+    "end": 244.879,
+    "text": "so let me",
+    "textdich": ""
+  },
+  {
+    "start": 242.55,
+    "end": 244.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 242.56,
+    "end": 246.239,
+    "text": "dump that output also so it's basically",
+    "textdich": ""
+  },
+  {
+    "start": 244.869,
+    "end": 246.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 244.879,
+    "end": 248.64,
+    "text": "a length of",
+    "textdich": ""
+  },
+  {
+    "start": 246.229,
+    "end": 248.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 246.239,
+    "end": 251.439,
+    "text": "the data frame that's it so it's almost",
+    "textdich": ""
+  },
+  {
+    "start": 248.63,
+    "end": 251.439,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 248.64,
+    "end": 253.76,
+    "text": "10 000 of the rows which we see out here",
+    "textdich": ""
+  },
+  {
+    "start": 251.429,
+    "end": 253.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 251.439,
+    "end": 255.439,
+    "text": "that's perfect so this is how a",
+    "textdich": ""
+  },
+  {
+    "start": 253.75,
+    "end": 255.439,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 253.76,
+    "end": 256.88,
+    "text": "streamlit uh you know what default",
+    "textdich": ""
+  },
+  {
+    "start": 255.429,
+    "end": 256.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 255.439,
+    "end": 258.88,
+    "text": "streaming data frame looks like so here",
+    "textdich": ""
+  },
+  {
+    "start": 256.87,
+    "end": 258.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 256.88,
+    "end": 260.239,
+    "text": "we cannot interact with our data sets we",
+    "textdich": ""
+  },
+  {
+    "start": 258.87,
+    "end": 260.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 258.88,
+    "end": 262.56,
+    "text": "can't interact with each and every rows",
+    "textdich": ""
+  },
+  {
+    "start": 260.229,
+    "end": 262.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 260.239,
+    "end": 265.919,
+    "text": "out here we see all the",
+    "textdich": ""
+  },
+  {
+    "start": 262.55,
+    "end": 265.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 262.56,
+    "end": 268.32,
+    "text": "columns which we saw in our raw data",
+    "textdich": ""
+  },
+  {
+    "start": 265.909,
+    "end": 268.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 265.919,
+    "end": 270.72,
+    "text": "we see each and every columns but you",
+    "textdich": ""
+  },
+  {
+    "start": 268.31,
+    "end": 270.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 268.32,
+    "end": 273.68,
+    "text": "don't have a pagination format neither",
+    "textdich": ""
+  },
+  {
+    "start": 270.71,
+    "end": 273.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 270.72,
+    "end": 276.72,
+    "text": "we can it did this rose so this is where",
+    "textdich": ""
+  },
+  {
+    "start": 273.67,
+    "end": 276.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 273.68,
+    "end": 279.199,
+    "text": "the power of streamlit uh ag grid comes",
+    "textdich": ""
+  },
+  {
+    "start": 276.71,
+    "end": 279.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 276.72,
+    "end": 280.88,
+    "text": "and probably if you see that edgy grid",
+    "textdich": ""
+  },
+  {
+    "start": 279.189,
+    "end": 280.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 279.199,
+    "end": 282.8,
+    "text": "javascript you know that's that website",
+    "textdich": ""
+  },
+  {
+    "start": 280.87,
+    "end": 282.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 280.88,
+    "end": 285.6,
+    "text": "which i showed you beforehand",
+    "textdich": ""
+  },
+  {
+    "start": 282.79,
+    "end": 285.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 282.8,
+    "end": 287.919,
+    "text": "uh there you can find how interactive",
+    "textdich": ""
+  },
+  {
+    "start": 285.59,
+    "end": 287.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 285.6,
+    "end": 290.32,
+    "text": "the hd grid is basically you can also",
+    "textdich": ""
+  },
+  {
+    "start": 287.909,
+    "end": 290.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 287.919,
+    "end": 292.24,
+    "text": "add check box in in the aging grid so",
+    "textdich": ""
+  },
+  {
+    "start": 290.31,
+    "end": 292.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 290.32,
+    "end": 295.04,
+    "text": "these are the features which we can now",
+    "textdich": ""
+  },
+  {
+    "start": 292.23,
+    "end": 295.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 292.24,
+    "end": 297.759,
+    "text": "add to our streamlet uh data frame so",
+    "textdich": ""
+  },
+  {
+    "start": 295.03,
+    "end": 297.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 295.04,
+    "end": 299.84,
+    "text": "let's try to implement those so how we",
+    "textdich": ""
+  },
+  {
+    "start": 297.749,
+    "end": 299.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 297.759,
+    "end": 302.32,
+    "text": "can do that we need to import the module",
+    "textdich": ""
+  },
+  {
+    "start": 299.83,
+    "end": 302.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 299.84,
+    "end": 304.639,
+    "text": "which i showed you before let's import",
+    "textdich": ""
+  },
+  {
+    "start": 302.31,
+    "end": 304.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 302.32,
+    "end": 307.36,
+    "text": "and then we try to make a stream with ag",
+    "textdich": ""
+  },
+  {
+    "start": 304.629,
+    "end": 307.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 304.639,
+    "end": 309.199,
+    "text": "grid table out here so now let's import",
+    "textdich": ""
+  },
+  {
+    "start": 307.35,
+    "end": 309.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 307.36,
+    "end": 312.8,
+    "text": "from",
+    "textdich": ""
+  },
+  {
+    "start": 309.189,
+    "end": 312.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 309.199,
+    "end": 314.72,
+    "text": "let me just yes from uh st",
+    "textdich": ""
+  },
+  {
+    "start": 312.79,
+    "end": 314.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 312.8,
+    "end": 316.88,
+    "text": "ag grid uh",
+    "textdich": ""
+  },
+  {
+    "start": 314.71,
+    "end": 316.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 314.72,
+    "end": 318.4,
+    "text": "import educate so i'll just show you how",
+    "textdich": ""
+  },
+  {
+    "start": 316.87,
+    "end": 318.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 316.88,
+    "end": 320.88,
+    "text": "edgy grid tables look like and then we",
+    "textdich": ""
+  },
+  {
+    "start": 318.39,
+    "end": 320.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 318.4,
+    "end": 321.68,
+    "text": "will further modify our hq table",
+    "textdich": ""
+  },
+  {
+    "start": 320.87,
+    "end": 321.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 320.88,
+    "end": 324.16,
+    "text": "so",
+    "textdich": ""
+  },
+  {
+    "start": 321.67,
+    "end": 324.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 321.68,
+    "end": 325.199,
+    "text": "now let me",
+    "textdich": ""
+  },
+  {
+    "start": 324.15,
+    "end": 325.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 324.16,
+    "end": 327.759,
+    "text": "uh",
+    "textdich": ""
+  },
+  {
+    "start": 325.189,
+    "end": 327.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 325.199,
+    "end": 330.0,
+    "text": "put this exact data frame into edgy grid",
+    "textdich": ""
+  },
+  {
+    "start": 327.749,
+    "end": 330.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 327.759,
+    "end": 332.24,
+    "text": "so for that all we need to do is we've",
+    "textdich": ""
+  },
+  {
+    "start": 329.99,
+    "end": 332.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 330.0,
+    "end": 334.96,
+    "text": "already imported is the edgy grid module",
+    "textdich": ""
+  },
+  {
+    "start": 332.23,
+    "end": 334.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 332.24,
+    "end": 337.12,
+    "text": "and we need to put a g grid and we just",
+    "textdich": ""
+  },
+  {
+    "start": 334.95,
+    "end": 337.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 334.96,
+    "end": 339.84,
+    "text": "assign the data frame there and now if",
+    "textdich": ""
+  },
+  {
+    "start": 337.11,
+    "end": 339.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 337.12,
+    "end": 342.4,
+    "text": "we go back to our uh",
+    "textdich": ""
+  },
+  {
+    "start": 339.83,
+    "end": 342.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 339.84,
+    "end": 343.919,
+    "text": "our local host we see this is so now if",
+    "textdich": ""
+  },
+  {
+    "start": 342.39,
+    "end": 343.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 342.4,
+    "end": 346.0,
+    "text": "you look at the hd grid table so this",
+    "textdich": ""
+  },
+  {
+    "start": 343.909,
+    "end": 346.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 343.919,
+    "end": 347.759,
+    "text": "was the typical stream the data frame so",
+    "textdich": ""
+  },
+  {
+    "start": 345.99,
+    "end": 347.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 346.0,
+    "end": 350.84,
+    "text": "i'll just write it here",
+    "textdich": ""
+  },
+  {
+    "start": 347.749,
+    "end": 350.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 347.759,
+    "end": 355.12,
+    "text": "st dot let's say info or",
+    "textdich": ""
+  },
+  {
+    "start": 350.83,
+    "end": 355.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 350.84,
+    "end": 355.12,
+    "text": "success and here we put uh",
+    "textdich": ""
+  },
+  {
+    "start": 355.83,
+    "end": 355.83,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 355.84,
+    "end": 359.68,
+    "text": "why don't i just put a header this is",
+    "textdich": ""
+  },
+  {
+    "start": 357.51,
+    "end": 359.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 357.52,
+    "end": 361.36,
+    "text": "something similar header is better",
+    "textdich": ""
+  },
+  {
+    "start": 359.67,
+    "end": 361.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 359.68,
+    "end": 363.52,
+    "text": "uh this is",
+    "textdich": ""
+  },
+  {
+    "start": 361.35,
+    "end": 363.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 361.36,
+    "end": 364.96,
+    "text": "a g grid",
+    "textdich": ""
+  },
+  {
+    "start": 363.51,
+    "end": 364.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 363.52,
+    "end": 367.759,
+    "text": "i don't know if i'm about edgy grid",
+    "textdich": ""
+  },
+  {
+    "start": 364.95,
+    "end": 367.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 364.96,
+    "end": 370.16,
+    "text": "table and i don't know if we can just",
+    "textdich": ""
+  },
+  {
+    "start": 367.749,
+    "end": 370.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 367.759,
+    "end": 373.039,
+    "text": "put this below or it's okay this way and",
+    "textdich": ""
+  },
+  {
+    "start": 370.15,
+    "end": 373.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 370.16,
+    "end": 373.039,
+    "text": "this was the",
+    "textdich": ""
+  },
+  {
+    "start": 373.909,
+    "end": 373.909,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 373.919,
+    "end": 379.6,
+    "text": "the data frame this is",
+    "textdich": ""
+  },
+  {
+    "start": 376.71,
+    "end": 379.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 376.72,
+    "end": 379.6,
+    "text": "string lit",
+    "textdich": ""
+  },
+  {
+    "start": 379.83,
+    "end": 379.83,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 379.84,
+    "end": 383.36,
+    "text": "default data frame",
+    "textdich": ""
+  },
+  {
+    "start": 383.43,
+    "end": 383.43,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 383.44,
+    "end": 387.12,
+    "text": "so now if we see this is the stimulated",
+    "textdich": ""
+  },
+  {
+    "start": 385.27,
+    "end": 387.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 385.28,
+    "end": 388.88,
+    "text": "default data frame",
+    "textdich": ""
+  },
+  {
+    "start": 387.11,
+    "end": 388.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 387.12,
+    "end": 390.72,
+    "text": "and here below we'll see the age grid",
+    "textdich": ""
+  },
+  {
+    "start": 388.87,
+    "end": 390.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 388.88,
+    "end": 392.8,
+    "text": "table so if you see the energy table it",
+    "textdich": ""
+  },
+  {
+    "start": 390.71,
+    "end": 392.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 390.72,
+    "end": 394.56,
+    "text": "has a different uh",
+    "textdich": ""
+  },
+  {
+    "start": 392.79,
+    "end": 394.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 392.8,
+    "end": 396.4,
+    "text": "user interface and we can actually",
+    "textdich": ""
+  },
+  {
+    "start": 394.55,
+    "end": 396.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 394.56,
+    "end": 398.24,
+    "text": "change all this stuff and probably we",
+    "textdich": ""
+  },
+  {
+    "start": 396.39,
+    "end": 398.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 396.4,
+    "end": 400.319,
+    "text": "can do a lot of stuffs out yeah we can",
+    "textdich": ""
+  },
+  {
+    "start": 398.23,
+    "end": 400.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 398.24,
+    "end": 402.0,
+    "text": "actually contain maybe let's say",
+    "textdich": ""
+  },
+  {
+    "start": 400.309,
+    "end": 402.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 400.319,
+    "end": 403.28,
+    "text": "what variant we have apart from angular",
+    "textdich": ""
+  },
+  {
+    "start": 401.99,
+    "end": 403.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 402.0,
+    "end": 405.68,
+    "text": "i don't know",
+    "textdich": ""
+  },
+  {
+    "start": 403.27,
+    "end": 405.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 403.28,
+    "end": 406.639,
+    "text": "or maybe just we just go out here",
+    "textdich": ""
+  },
+  {
+    "start": 405.67,
+    "end": 406.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 405.68,
+    "end": 409.759,
+    "text": "we just",
+    "textdich": ""
+  },
+  {
+    "start": 406.629,
+    "end": 409.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 406.639,
+    "end": 411.759,
+    "text": "say only the delta and if i just search",
+    "textdich": ""
+  },
+  {
+    "start": 409.749,
+    "end": 411.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 409.759,
+    "end": 414.0,
+    "text": "for it you see we just only see the",
+    "textdich": ""
+  },
+  {
+    "start": 411.749,
+    "end": 414.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 411.759,
+    "end": 415.84,
+    "text": "delta now so this is interactive in this",
+    "textdich": ""
+  },
+  {
+    "start": 413.99,
+    "end": 415.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 414.0,
+    "end": 418.639,
+    "text": "way and i think for number of sequence i",
+    "textdich": ""
+  },
+  {
+    "start": 415.83,
+    "end": 418.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 415.84,
+    "end": 420.479,
+    "text": "see 2 0 variations let me search if",
+    "textdich": ""
+  },
+  {
+    "start": 418.629,
+    "end": 420.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 418.639,
+    "end": 423.44,
+    "text": "there is something",
+    "textdich": ""
+  },
+  {
+    "start": 420.469,
+    "end": 423.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 420.479,
+    "end": 425.199,
+    "text": "1 or something yeah maybe one and then",
+    "textdich": ""
+  },
+  {
+    "start": 423.43,
+    "end": 425.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 423.44,
+    "end": 427.599,
+    "text": "all the one comes out here so this is",
+    "textdich": ""
+  },
+  {
+    "start": 425.189,
+    "end": 427.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 425.199,
+    "end": 429.36,
+    "text": "already an interactive table but now we",
+    "textdich": ""
+  },
+  {
+    "start": 427.589,
+    "end": 429.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 427.599,
+    "end": 430.88,
+    "text": "will implement more features in this",
+    "textdich": ""
+  },
+  {
+    "start": 429.35,
+    "end": 430.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 429.36,
+    "end": 433.199,
+    "text": "edgy grid table for example we can",
+    "textdich": ""
+  },
+  {
+    "start": 430.87,
+    "end": 433.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 430.88,
+    "end": 435.759,
+    "text": "change its color and all these things",
+    "textdich": ""
+  },
+  {
+    "start": 433.189,
+    "end": 435.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 433.199,
+    "end": 438.4,
+    "text": "default edgy grid theme can change that",
+    "textdich": ""
+  },
+  {
+    "start": 435.749,
+    "end": 438.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 435.759,
+    "end": 441.759,
+    "text": "also but i would like to implement right",
+    "textdich": ""
+  },
+  {
+    "start": 438.39,
+    "end": 441.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 438.4,
+    "end": 444.24,
+    "text": "now if we can edit this particular rows",
+    "textdich": ""
+  },
+  {
+    "start": 441.749,
+    "end": 444.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 441.759,
+    "end": 445.52,
+    "text": "and we can also try to try also to",
+    "textdich": ""
+  },
+  {
+    "start": 444.23,
+    "end": 445.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 444.24,
+    "end": 447.919,
+    "text": "delete the",
+    "textdich": ""
+  },
+  {
+    "start": 445.51,
+    "end": 447.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 445.52,
+    "end": 449.68,
+    "text": "rows so these are the few things which",
+    "textdich": ""
+  },
+  {
+    "start": 447.909,
+    "end": 449.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 447.919,
+    "end": 452.24,
+    "text": "we will tweak in today's tutorial and",
+    "textdich": ""
+  },
+  {
+    "start": 449.67,
+    "end": 452.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 449.68,
+    "end": 454.08,
+    "text": "let's see how we do so let's add few",
+    "textdich": ""
+  },
+  {
+    "start": 452.23,
+    "end": 454.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 452.24,
+    "end": 456.8,
+    "text": "more features to our streaming table so",
+    "textdich": ""
+  },
+  {
+    "start": 454.07,
+    "end": 456.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 454.08,
+    "end": 459.039,
+    "text": "what we do is we import",
+    "textdich": ""
+  },
+  {
+    "start": 456.79,
+    "end": 459.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 456.8,
+    "end": 462.0,
+    "text": "another module from streamlet 80 grid so",
+    "textdich": ""
+  },
+  {
+    "start": 459.029,
+    "end": 462.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 459.039,
+    "end": 463.36,
+    "text": "we write streamlit edg create",
+    "textdich": ""
+  },
+  {
+    "start": 461.99,
+    "end": 463.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 462.0,
+    "end": 466.16,
+    "text": "import",
+    "textdich": ""
+  },
+  {
+    "start": 463.35,
+    "end": 466.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 463.36,
+    "end": 468.96,
+    "text": "grid options but yeah this one or maybe",
+    "textdich": ""
+  },
+  {
+    "start": 466.15,
+    "end": 468.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 466.16,
+    "end": 471.039,
+    "text": "what we can do is grid option builder",
+    "textdich": ""
+  },
+  {
+    "start": 468.95,
+    "end": 471.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 468.96,
+    "end": 472.4,
+    "text": "import uh yeah",
+    "textdich": ""
+  },
+  {
+    "start": 471.029,
+    "end": 472.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 471.039,
+    "end": 475.12,
+    "text": "that's perfect",
+    "textdich": ""
+  },
+  {
+    "start": 472.39,
+    "end": 475.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 472.4,
+    "end": 478.56,
+    "text": "and now all we need to do is we will",
+    "textdich": ""
+  },
+  {
+    "start": 475.11,
+    "end": 478.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 475.12,
+    "end": 480.08,
+    "text": "update our edgy grid good option builder",
+    "textdich": ""
+  },
+  {
+    "start": 478.55,
+    "end": 480.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 478.56,
+    "end": 482.24,
+    "text": "so what we do is",
+    "textdich": ""
+  },
+  {
+    "start": 480.07,
+    "end": 482.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 480.08,
+    "end": 483.199,
+    "text": "we say",
+    "textdich": ""
+  },
+  {
+    "start": 482.23,
+    "end": 483.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 482.24,
+    "end": 485.28,
+    "text": "gb",
+    "textdich": ""
+  },
+  {
+    "start": 483.189,
+    "end": 485.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 483.199,
+    "end": 486.4,
+    "text": "let's say assign a variable grid option",
+    "textdich": ""
+  },
+  {
+    "start": 485.27,
+    "end": 486.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 485.28,
+    "end": 487.84,
+    "text": "builder",
+    "textdich": ""
+  },
+  {
+    "start": 486.39,
+    "end": 487.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 486.4,
+    "end": 488.72,
+    "text": "and we",
+    "textdich": ""
+  },
+  {
+    "start": 487.83,
+    "end": 488.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 487.84,
+    "end": 490.0,
+    "text": "save",
+    "textdich": ""
+  },
+  {
+    "start": 488.71,
+    "end": 490.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 488.72,
+    "end": 492.879,
+    "text": "from",
+    "textdich": ""
+  },
+  {
+    "start": 489.99,
+    "end": 492.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 490.0,
+    "end": 494.8,
+    "text": "from data frame it just came up",
+    "textdich": ""
+  },
+  {
+    "start": 492.869,
+    "end": 494.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 492.879,
+    "end": 497.199,
+    "text": "here from data frame",
+    "textdich": ""
+  },
+  {
+    "start": 494.79,
+    "end": 497.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 494.8,
+    "end": 498.96,
+    "text": "and we",
+    "textdich": ""
+  },
+  {
+    "start": 497.189,
+    "end": 498.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 497.199,
+    "end": 500.24,
+    "text": "put our data frame",
+    "textdich": ""
+  },
+  {
+    "start": 498.95,
+    "end": 500.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 498.96,
+    "end": 501.12,
+    "text": "that's it",
+    "textdich": ""
+  },
+  {
+    "start": 500.23,
+    "end": 501.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 500.24,
+    "end": 503.28,
+    "text": "and",
+    "textdich": ""
+  },
+  {
+    "start": 501.11,
+    "end": 503.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 501.12,
+    "end": 507.4,
+    "text": "after that we can actually further add",
+    "textdich": ""
+  },
+  {
+    "start": 503.27,
+    "end": 507.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 503.28,
+    "end": 507.4,
+    "text": "more stuff to this",
+    "textdich": ""
+  },
+  {
+    "start": 510.309,
+    "end": 510.309,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 510.319,
+    "end": 515.039,
+    "text": "so our main idea is to make our columns",
+    "textdich": ""
+  },
+  {
+    "start": 513.67,
+    "end": 515.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 513.68,
+    "end": 517.599,
+    "text": "editable",
+    "textdich": ""
+  },
+  {
+    "start": 515.029,
+    "end": 517.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 515.039,
+    "end": 518.32,
+    "text": "uh we can actually add group also you",
+    "textdich": ""
+  },
+  {
+    "start": 517.589,
+    "end": 518.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 517.599,
+    "end": 519.039,
+    "text": "know",
+    "textdich": ""
+  },
+  {
+    "start": 518.31,
+    "end": 519.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 518.32,
+    "end": 520.56,
+    "text": "but",
+    "textdich": ""
+  },
+  {
+    "start": 519.029,
+    "end": 520.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 519.039,
+    "end": 522.399,
+    "text": "today i won't implement anything so you",
+    "textdich": ""
+  },
+  {
+    "start": 520.55,
+    "end": 522.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 520.56,
+    "end": 525.44,
+    "text": "can add groups to it",
+    "textdich": ""
+  },
+  {
+    "start": 522.389,
+    "end": 525.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 522.399,
+    "end": 527.04,
+    "text": "so we can just add groups or yeah that's",
+    "textdich": ""
+  },
+  {
+    "start": 525.43,
+    "end": 527.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 525.44,
+    "end": 529.519,
+    "text": "enough",
+    "textdich": ""
+  },
+  {
+    "start": 527.03,
+    "end": 529.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 527.04,
+    "end": 530.8,
+    "text": "and if we have all this thing",
+    "textdich": ""
+  },
+  {
+    "start": 529.509,
+    "end": 530.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 529.519,
+    "end": 531.839,
+    "text": "uh",
+    "textdich": ""
+  },
+  {
+    "start": 530.79,
+    "end": 531.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 530.8,
+    "end": 536.32,
+    "text": "we can",
+    "textdich": ""
+  },
+  {
+    "start": 531.829,
+    "end": 536.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 531.839,
+    "end": 536.32,
+    "text": "also start adding maybe a checkbox",
+    "textdich": ""
+  },
+  {
+    "start": 543.829,
+    "end": 543.829,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 543.839,
+    "end": 549.2,
+    "text": "radio and here",
+    "textdich": ""
+  },
+  {
+    "start": 546.15,
+    "end": 549.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 546.16,
+    "end": 551.12,
+    "text": "we give two options so",
+    "textdich": ""
+  },
+  {
+    "start": 549.19,
+    "end": 551.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 549.2,
+    "end": 552.959,
+    "text": "here we give a level first so it's a",
+    "textdich": ""
+  },
+  {
+    "start": 551.11,
+    "end": 552.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 551.12,
+    "end": 557.76,
+    "text": "typical streamlit",
+    "textdich": ""
+  },
+  {
+    "start": 552.949,
+    "end": 557.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 552.959,
+    "end": 557.76,
+    "text": "uh syntax so we give a selection",
+    "textdich": ""
+  },
+  {
+    "start": 557.99,
+    "end": 557.99,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 558.0,
+    "end": 561.839,
+    "text": "type",
+    "textdich": ""
+  },
+  {
+    "start": 559.509,
+    "end": 561.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 559.519,
+    "end": 564.88,
+    "text": "this is our label for the widget and",
+    "textdich": ""
+  },
+  {
+    "start": 561.829,
+    "end": 564.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 561.839,
+    "end": 568.56,
+    "text": "then we given options",
+    "textdich": ""
+  },
+  {
+    "start": 564.87,
+    "end": 568.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 564.88,
+    "end": 569.92,
+    "text": "so we give it like this so it can be",
+    "textdich": ""
+  },
+  {
+    "start": 568.55,
+    "end": 569.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 568.56,
+    "end": 572.08,
+    "text": "single",
+    "textdich": ""
+  },
+  {
+    "start": 569.91,
+    "end": 572.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 569.92,
+    "end": 573.12,
+    "text": "or we can actually select multiple ones",
+    "textdich": ""
+  },
+  {
+    "start": 572.07,
+    "end": 573.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 572.08,
+    "end": 575.2,
+    "text": "so",
+    "textdich": ""
+  },
+  {
+    "start": 573.11,
+    "end": 575.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 573.12,
+    "end": 577.519,
+    "text": "let's put it like this",
+    "textdich": ""
+  },
+  {
+    "start": 575.19,
+    "end": 577.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 575.2,
+    "end": 578.8,
+    "text": "and now the selection mode we give it",
+    "textdich": ""
+  },
+  {
+    "start": 577.509,
+    "end": 578.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 577.519,
+    "end": 581.6,
+    "text": "this way so",
+    "textdich": ""
+  },
+  {
+    "start": 578.79,
+    "end": 581.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 578.8,
+    "end": 583.44,
+    "text": "whatever the user selects from here",
+    "textdich": ""
+  },
+  {
+    "start": 581.59,
+    "end": 583.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 581.6,
+    "end": 584.72,
+    "text": "it gets updated so in that way you know",
+    "textdich": ""
+  },
+  {
+    "start": 583.43,
+    "end": 584.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 583.44,
+    "end": 586.959,
+    "text": "it's much more interactive we don't need",
+    "textdich": ""
+  },
+  {
+    "start": 584.71,
+    "end": 586.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 584.72,
+    "end": 589.76,
+    "text": "to be dependent on our hard",
+    "textdich": ""
+  },
+  {
+    "start": 586.949,
+    "end": 589.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 586.959,
+    "end": 591.279,
+    "text": "code we just take the user's choice and",
+    "textdich": ""
+  },
+  {
+    "start": 589.75,
+    "end": 591.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 589.76,
+    "end": 593.44,
+    "text": "we put it there",
+    "textdich": ""
+  },
+  {
+    "start": 591.269,
+    "end": 593.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 591.279,
+    "end": 595.68,
+    "text": "so now let's save it and let's see how",
+    "textdich": ""
+  },
+  {
+    "start": 593.43,
+    "end": 595.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 593.44,
+    "end": 597.68,
+    "text": "it looks like right now",
+    "textdich": ""
+  },
+  {
+    "start": 595.67,
+    "end": 597.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 595.68,
+    "end": 599.2,
+    "text": "so we go here",
+    "textdich": ""
+  },
+  {
+    "start": 597.67,
+    "end": 599.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 597.68,
+    "end": 600.8,
+    "text": "oh yes",
+    "textdich": ""
+  },
+  {
+    "start": 599.19,
+    "end": 600.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 599.2,
+    "end": 602.32,
+    "text": "we can actually come in this part where",
+    "textdich": ""
+  },
+  {
+    "start": 600.79,
+    "end": 602.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 600.8,
+    "end": 606.079,
+    "text": "we see the data from",
+    "textdich": ""
+  },
+  {
+    "start": 602.31,
+    "end": 606.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 602.32,
+    "end": 608.56,
+    "text": "until this so we just load our data and",
+    "textdich": ""
+  },
+  {
+    "start": 606.069,
+    "end": 608.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 606.079,
+    "end": 610.8,
+    "text": "we put it here",
+    "textdich": ""
+  },
+  {
+    "start": 608.55,
+    "end": 610.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 608.56,
+    "end": 611.92,
+    "text": "i don't know if it's working or not",
+    "textdich": ""
+  },
+  {
+    "start": 610.79,
+    "end": 611.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 610.8,
+    "end": 614.079,
+    "text": "but",
+    "textdich": ""
+  },
+  {
+    "start": 611.91,
+    "end": 614.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 611.92,
+    "end": 615.44,
+    "text": "okay i think we need to add few more",
+    "textdich": ""
+  },
+  {
+    "start": 614.069,
+    "end": 615.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 614.079,
+    "end": 616.399,
+    "text": "stuff here",
+    "textdich": ""
+  },
+  {
+    "start": 615.43,
+    "end": 616.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 615.44,
+    "end": 620.399,
+    "text": "so",
+    "textdich": ""
+  },
+  {
+    "start": 616.389,
+    "end": 620.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 616.399,
+    "end": 620.399,
+    "text": "let's say we do it in this way",
+    "textdich": ""
+  },
+  {
+    "start": 624.23,
+    "end": 624.23,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 624.24,
+    "end": 627.279,
+    "text": "it's a gd and then we get the build yeah",
+    "textdich": ""
+  },
+  {
+    "start": 626.389,
+    "end": 627.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 626.399,
+    "end": 630.32,
+    "text": "right",
+    "textdich": ""
+  },
+  {
+    "start": 627.269,
+    "end": 630.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 627.279,
+    "end": 631.92,
+    "text": "gd built and here and then we give this",
+    "textdich": ""
+  },
+  {
+    "start": 630.31,
+    "end": 631.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 630.32,
+    "end": 635.519,
+    "text": "grid option we create an object here and",
+    "textdich": ""
+  },
+  {
+    "start": 631.91,
+    "end": 635.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 631.92,
+    "end": 637.44,
+    "text": "then we just pass it here option",
+    "textdich": ""
+  },
+  {
+    "start": 635.509,
+    "end": 637.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 635.519,
+    "end": 638.72,
+    "text": "and now if i save it and i see in my",
+    "textdich": ""
+  },
+  {
+    "start": 637.43,
+    "end": 638.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 637.44,
+    "end": 641.519,
+    "text": "localhost",
+    "textdich": ""
+  },
+  {
+    "start": 638.71,
+    "end": 641.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 638.72,
+    "end": 644.0,
+    "text": "okay perfect so our",
+    "textdich": ""
+  },
+  {
+    "start": 641.509,
+    "end": 644.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 641.519,
+    "end": 646.64,
+    "text": "streamlet grid now has a check box okay",
+    "textdich": ""
+  },
+  {
+    "start": 643.99,
+    "end": 646.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 644.0,
+    "end": 648.399,
+    "text": "we can select each of this thing if we",
+    "textdich": ""
+  },
+  {
+    "start": 646.63,
+    "end": 648.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 646.64,
+    "end": 651.36,
+    "text": "want multiple we just go to selection",
+    "textdich": ""
+  },
+  {
+    "start": 648.389,
+    "end": 651.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 648.399,
+    "end": 653.68,
+    "text": "type multiple and we",
+    "textdich": ""
+  },
+  {
+    "start": 651.35,
+    "end": 653.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 651.36,
+    "end": 655.44,
+    "text": "can go now we can select multiple ones",
+    "textdich": ""
+  },
+  {
+    "start": 653.67,
+    "end": 655.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 653.68,
+    "end": 657.519,
+    "text": "but we also need to actually get the",
+    "textdich": ""
+  },
+  {
+    "start": 655.43,
+    "end": 657.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 655.44,
+    "end": 659.68,
+    "text": "output of it right then it looks proper",
+    "textdich": ""
+  },
+  {
+    "start": 657.509,
+    "end": 659.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 657.519,
+    "end": 662.8,
+    "text": "anyways we'll come to that later but now",
+    "textdich": ""
+  },
+  {
+    "start": 659.67,
+    "end": 662.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 659.68,
+    "end": 664.959,
+    "text": "we have something more so let's say",
+    "textdich": ""
+  },
+  {
+    "start": 662.79,
+    "end": 664.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 662.8,
+    "end": 668.079,
+    "text": "alpha plus we put something like that",
+    "textdich": ""
+  },
+  {
+    "start": 664.949,
+    "end": 668.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 664.959,
+    "end": 670.399,
+    "text": "sorry alpha please so it actually we can",
+    "textdich": ""
+  },
+  {
+    "start": 668.069,
+    "end": 670.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 668.079,
+    "end": 673.36,
+    "text": "now edit our",
+    "textdich": ""
+  },
+  {
+    "start": 670.389,
+    "end": 673.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 670.399,
+    "end": 676.079,
+    "text": "rows so let me try to implement whatever",
+    "textdich": ""
+  },
+  {
+    "start": 673.35,
+    "end": 676.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 673.36,
+    "end": 678.64,
+    "text": "we select or whatever data we",
+    "textdich": ""
+  },
+  {
+    "start": 676.069,
+    "end": 678.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 676.079,
+    "end": 681.519,
+    "text": "select using the check box we see it as",
+    "textdich": ""
+  },
+  {
+    "start": 678.63,
+    "end": 681.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 678.64,
+    "end": 685.04,
+    "text": "output how we can do that",
+    "textdich": ""
+  },
+  {
+    "start": 681.509,
+    "end": 685.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 681.519,
+    "end": 687.92,
+    "text": "uh let me do like this great",
+    "textdich": ""
+  },
+  {
+    "start": 685.03,
+    "end": 687.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 685.04,
+    "end": 689.92,
+    "text": "table and we assign a variable here",
+    "textdich": ""
+  },
+  {
+    "start": 687.91,
+    "end": 689.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 687.92,
+    "end": 692.48,
+    "text": "probably this is one way there can be",
+    "textdich": ""
+  },
+  {
+    "start": 689.91,
+    "end": 692.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 689.92,
+    "end": 695.6,
+    "text": "multiple way we can do this and",
+    "textdich": ""
+  },
+  {
+    "start": 692.47,
+    "end": 695.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 692.48,
+    "end": 698.399,
+    "text": "what we do is we select this",
+    "textdich": ""
+  },
+  {
+    "start": 695.59,
+    "end": 698.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 695.6,
+    "end": 699.36,
+    "text": "cellular row and we do",
+    "textdich": ""
+  },
+  {
+    "start": 698.389,
+    "end": 699.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 698.399,
+    "end": 700.8,
+    "text": "create",
+    "textdich": ""
+  },
+  {
+    "start": 699.35,
+    "end": 700.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 699.36,
+    "end": 703.839,
+    "text": "table",
+    "textdich": ""
+  },
+  {
+    "start": 700.79,
+    "end": 703.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 700.8,
+    "end": 703.839,
+    "text": "from here",
+    "textdich": ""
+  },
+  {
+    "start": 704.23,
+    "end": 704.23,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 704.24,
+    "end": 711.36,
+    "text": "we take the selected rows",
+    "textdich": ""
+  },
+  {
+    "start": 707.99,
+    "end": 711.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 708.0,
+    "end": 713.6,
+    "text": "and then we st dot right",
+    "textdich": ""
+  },
+  {
+    "start": 711.35,
+    "end": 713.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 711.36,
+    "end": 717.839,
+    "text": "we do the cell row",
+    "textdich": ""
+  },
+  {
+    "start": 713.59,
+    "end": 717.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 713.6,
+    "end": 717.839,
+    "text": "yeah let's see if this works or not",
+    "textdich": ""
+  },
+  {
+    "start": 722.55,
+    "end": 722.55,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 722.56,
+    "end": 727.36,
+    "text": "yes look so whatever we select let me",
+    "textdich": ""
+  },
+  {
+    "start": 725.11,
+    "end": 727.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 725.12,
+    "end": 728.72,
+    "text": "just you know remove this thing similar",
+    "textdich": ""
+  },
+  {
+    "start": 727.35,
+    "end": 728.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 727.36,
+    "end": 731.839,
+    "text": "selection",
+    "textdich": ""
+  },
+  {
+    "start": 728.71,
+    "end": 731.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 728.72,
+    "end": 735.44,
+    "text": "go to a single selection type and",
+    "textdich": ""
+  },
+  {
+    "start": 731.829,
+    "end": 735.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 731.839,
+    "end": 737.04,
+    "text": "now we select uh let's select this one",
+    "textdich": ""
+  },
+  {
+    "start": 735.43,
+    "end": 737.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 735.44,
+    "end": 738.56,
+    "text": "first",
+    "textdich": ""
+  },
+  {
+    "start": 737.03,
+    "end": 738.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 737.04,
+    "end": 739.56,
+    "text": "and here",
+    "textdich": ""
+  },
+  {
+    "start": 738.55,
+    "end": 739.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 738.56,
+    "end": 742.24,
+    "text": "we are",
+    "textdich": ""
+  },
+  {
+    "start": 739.55,
+    "end": 742.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 739.56,
+    "end": 743.519,
+    "text": "expecting something",
+    "textdich": ""
+  },
+  {
+    "start": 742.23,
+    "end": 743.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 742.24,
+    "end": 745.04,
+    "text": "but we don't see",
+    "textdich": ""
+  },
+  {
+    "start": 743.509,
+    "end": 745.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 743.519,
+    "end": 746.8,
+    "text": "i think we need to add one more thing",
+    "textdich": ""
+  },
+  {
+    "start": 745.03,
+    "end": 746.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 745.04,
+    "end": 748.88,
+    "text": "out here so we need to actually have",
+    "textdich": ""
+  },
+  {
+    "start": 746.79,
+    "end": 748.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 746.8,
+    "end": 751.04,
+    "text": "update mode like whenever the selection",
+    "textdich": ""
+  },
+  {
+    "start": 748.87,
+    "end": 751.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 748.88,
+    "end": 752.88,
+    "text": "change for that we need an update maria",
+    "textdich": ""
+  },
+  {
+    "start": 751.03,
+    "end": 752.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 751.04,
+    "end": 755.36,
+    "text": "that's one critical thing",
+    "textdich": ""
+  },
+  {
+    "start": 752.87,
+    "end": 755.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 752.88,
+    "end": 756.8,
+    "text": "so for that all you need to do is",
+    "textdich": ""
+  },
+  {
+    "start": 755.35,
+    "end": 756.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 755.36,
+    "end": 758.8,
+    "text": "say grid",
+    "textdich": ""
+  },
+  {
+    "start": 756.79,
+    "end": 758.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 756.8,
+    "end": 760.639,
+    "text": "update mode",
+    "textdich": ""
+  },
+  {
+    "start": 758.79,
+    "end": 760.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 758.8,
+    "end": 763.76,
+    "text": "so you see this something which was",
+    "textdich": ""
+  },
+  {
+    "start": 760.629,
+    "end": 763.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 760.639,
+    "end": 766.0,
+    "text": "missing in our case and let me add few",
+    "textdich": ""
+  },
+  {
+    "start": 763.75,
+    "end": 766.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 763.76,
+    "end": 769.12,
+    "text": "more options in this case so",
+    "textdich": ""
+  },
+  {
+    "start": 765.99,
+    "end": 769.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 766.0,
+    "end": 773.04,
+    "text": "what we need to do is",
+    "textdich": ""
+  },
+  {
+    "start": 769.11,
+    "end": 773.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 769.12,
+    "end": 774.639,
+    "text": "we say update mode and here we write",
+    "textdich": ""
+  },
+  {
+    "start": 773.03,
+    "end": 774.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 773.04,
+    "end": 778.399,
+    "text": "grid update mode the module which we",
+    "textdich": ""
+  },
+  {
+    "start": 774.629,
+    "end": 778.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 774.639,
+    "end": 779.76,
+    "text": "just imported and then we say selection",
+    "textdich": ""
+  },
+  {
+    "start": 778.389,
+    "end": 779.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 778.399,
+    "end": 781.839,
+    "text": "change",
+    "textdich": ""
+  },
+  {
+    "start": 779.75,
+    "end": 781.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 779.76,
+    "end": 784.839,
+    "text": "is it",
+    "textdich": ""
+  },
+  {
+    "start": 781.829,
+    "end": 784.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 781.839,
+    "end": 784.839,
+    "text": "selection",
+    "textdich": ""
+  },
+  {
+    "start": 787.67,
+    "end": 787.67,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 787.68,
+    "end": 792.079,
+    "text": "something like this probably to what",
+    "textdich": ""
+  },
+  {
+    "start": 789.75,
+    "end": 792.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 789.76,
+    "end": 792.079,
+    "text": "let's see",
+    "textdich": ""
+  },
+  {
+    "start": 793.11,
+    "end": 793.11,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 793.12,
+    "end": 798.16,
+    "text": "and maybe we can do more stuff so what",
+    "textdich": ""
+  },
+  {
+    "start": 795.75,
+    "end": 798.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 795.76,
+    "end": 799.6,
+    "text": "if we",
+    "textdich": ""
+  },
+  {
+    "start": 798.15,
+    "end": 799.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 798.16,
+    "end": 801.36,
+    "text": "what if we",
+    "textdich": ""
+  },
+  {
+    "start": 799.59,
+    "end": 801.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 799.6,
+    "end": 803.92,
+    "text": "add uh",
+    "textdich": ""
+  },
+  {
+    "start": 801.35,
+    "end": 803.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 801.36,
+    "end": 805.04,
+    "text": "maybe we we give",
+    "textdich": ""
+  },
+  {
+    "start": 803.91,
+    "end": 805.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 803.92,
+    "end": 806.399,
+    "text": "our",
+    "textdich": ""
+  },
+  {
+    "start": 805.03,
+    "end": 806.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 805.04,
+    "end": 808.8,
+    "text": "height",
+    "textdich": ""
+  },
+  {
+    "start": 806.389,
+    "end": 808.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 806.399,
+    "end": 810.399,
+    "text": "so this can be fixed actually let's see",
+    "textdich": ""
+  },
+  {
+    "start": 808.79,
+    "end": 810.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 808.8,
+    "end": 813.2,
+    "text": "500",
+    "textdich": ""
+  },
+  {
+    "start": 810.389,
+    "end": 813.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 810.399,
+    "end": 814.399,
+    "text": "we can actually add",
+    "textdich": ""
+  },
+  {
+    "start": 813.19,
+    "end": 814.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 813.2,
+    "end": 817.12,
+    "text": "let me",
+    "textdich": ""
+  },
+  {
+    "start": 814.389,
+    "end": 817.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 814.399,
+    "end": 819.6,
+    "text": "put this thing already true so you know",
+    "textdich": ""
+  },
+  {
+    "start": 817.11,
+    "end": 819.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 817.12,
+    "end": 821.839,
+    "text": "we will use few js code will inject js",
+    "textdich": ""
+  },
+  {
+    "start": 819.59,
+    "end": 821.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 819.6,
+    "end": 822.88,
+    "text": "code so let me do this or not maybe not",
+    "textdich": ""
+  },
+  {
+    "start": 821.829,
+    "end": 822.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 821.839,
+    "end": 824.639,
+    "text": "here but",
+    "textdich": ""
+  },
+  {
+    "start": 822.87,
+    "end": 824.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 822.88,
+    "end": 826.88,
+    "text": "future will do that",
+    "textdich": ""
+  },
+  {
+    "start": 824.629,
+    "end": 826.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 824.639,
+    "end": 828.48,
+    "text": "that's something oh and i was speaking",
+    "textdich": ""
+  },
+  {
+    "start": 826.87,
+    "end": 828.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 826.88,
+    "end": 831.12,
+    "text": "about the theme so",
+    "textdich": ""
+  },
+  {
+    "start": 828.47,
+    "end": 831.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 828.48,
+    "end": 832.24,
+    "text": "okay we use this theme now default is",
+    "textdich": ""
+  },
+  {
+    "start": 831.11,
+    "end": 832.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 831.12,
+    "end": 835.279,
+    "text": "streamlined",
+    "textdich": ""
+  },
+  {
+    "start": 832.23,
+    "end": 835.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 832.24,
+    "end": 838.32,
+    "text": "but we use something called fresh",
+    "textdich": ""
+  },
+  {
+    "start": 835.269,
+    "end": 838.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 835.279,
+    "end": 839.68,
+    "text": "yeah that's just a theme which i saw",
+    "textdich": ""
+  },
+  {
+    "start": 838.31,
+    "end": 839.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 838.32,
+    "end": 841.519,
+    "text": "it's available",
+    "textdich": ""
+  },
+  {
+    "start": 839.67,
+    "end": 841.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 839.68,
+    "end": 843.92,
+    "text": "nothing fresh or dark or something like",
+    "textdich": ""
+  },
+  {
+    "start": 841.509,
+    "end": 843.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 841.519,
+    "end": 846.16,
+    "text": "that so let's see if it works or not",
+    "textdich": ""
+  },
+  {
+    "start": 843.91,
+    "end": 846.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 843.92,
+    "end": 848.639,
+    "text": "let me see if we missed something or not",
+    "textdich": ""
+  },
+  {
+    "start": 846.15,
+    "end": 848.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 846.16,
+    "end": 850.639,
+    "text": "uh we can fit the columns also let's see",
+    "textdich": ""
+  },
+  {
+    "start": 848.629,
+    "end": 850.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 848.639,
+    "end": 853.04,
+    "text": "how it looks like",
+    "textdich": ""
+  },
+  {
+    "start": 850.629,
+    "end": 853.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 850.639,
+    "end": 855.44,
+    "text": "so the columns are not fit right now oh",
+    "textdich": ""
+  },
+  {
+    "start": 853.03,
+    "end": 855.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 853.04,
+    "end": 858.079,
+    "text": "there is no same color fresh with like",
+    "textdich": ""
+  },
+  {
+    "start": 855.43,
+    "end": 858.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 855.44,
+    "end": 859.76,
+    "text": "fresh with small yeah",
+    "textdich": ""
+  },
+  {
+    "start": 858.069,
+    "end": 859.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 858.079,
+    "end": 862.0,
+    "text": "but",
+    "textdich": ""
+  },
+  {
+    "start": 859.75,
+    "end": 862.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 859.76,
+    "end": 862.0,
+    "text": "uh",
+    "textdich": ""
+  },
+  {
+    "start": 862.629,
+    "end": 862.629,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 862.639,
+    "end": 866.079,
+    "text": "oh yes look it looks very different now",
+    "textdich": ""
+  },
+  {
+    "start": 864.55,
+    "end": 866.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 864.56,
+    "end": 870.519,
+    "text": "i think that",
+    "textdich": ""
+  },
+  {
+    "start": 866.069,
+    "end": 870.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 866.079,
+    "end": 870.519,
+    "text": "we are it's very different now",
+    "textdich": ""
+  },
+  {
+    "start": 871.03,
+    "end": 871.03,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 871.04,
+    "end": 874.8,
+    "text": "and we can actually select like this oh",
+    "textdich": ""
+  },
+  {
+    "start": 872.71,
+    "end": 874.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 872.72,
+    "end": 877.36,
+    "text": "yeah you see the color change and now",
+    "textdich": ""
+  },
+  {
+    "start": 874.79,
+    "end": 877.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 874.8,
+    "end": 879.44,
+    "text": "when we do the selection since we do the",
+    "textdich": ""
+  },
+  {
+    "start": 877.35,
+    "end": 879.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 877.36,
+    "end": 882.56,
+    "text": "we do the grid update selection mode now",
+    "textdich": ""
+  },
+  {
+    "start": 879.43,
+    "end": 882.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 879.44,
+    "end": 885.76,
+    "text": "we already see the output out here",
+    "textdich": ""
+  },
+  {
+    "start": 882.55,
+    "end": 885.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 882.56,
+    "end": 887.519,
+    "text": "let's do the multiple type okay",
+    "textdich": ""
+  },
+  {
+    "start": 885.75,
+    "end": 887.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 885.76,
+    "end": 889.36,
+    "text": "it's pretty crazy you know to use this",
+    "textdich": ""
+  },
+  {
+    "start": 887.509,
+    "end": 889.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 887.519,
+    "end": 891.44,
+    "text": "edgy grid within stream that i never",
+    "textdich": ""
+  },
+  {
+    "start": 889.35,
+    "end": 891.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 889.36,
+    "end": 894.16,
+    "text": "thought of it is also possible",
+    "textdich": ""
+  },
+  {
+    "start": 891.43,
+    "end": 894.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 891.44,
+    "end": 896.32,
+    "text": "and it's really amazing you know how",
+    "textdich": ""
+  },
+  {
+    "start": 894.15,
+    "end": 896.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 894.16,
+    "end": 898.24,
+    "text": "interactive the agree table is and",
+    "textdich": ""
+  },
+  {
+    "start": 896.31,
+    "end": 898.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 896.32,
+    "end": 899.68,
+    "text": "within stimulate it makes it an added",
+    "textdich": ""
+  },
+  {
+    "start": 898.23,
+    "end": 899.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 898.24,
+    "end": 902.88,
+    "text": "bonus for us",
+    "textdich": ""
+  },
+  {
+    "start": 899.67,
+    "end": 902.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 899.68,
+    "end": 905.199,
+    "text": "so whatever we select we will can see",
+    "textdich": ""
+  },
+  {
+    "start": 902.87,
+    "end": 905.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 902.88,
+    "end": 908.24,
+    "text": "the update around",
+    "textdich": ""
+  },
+  {
+    "start": 905.189,
+    "end": 908.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 905.199,
+    "end": 910.959,
+    "text": "update we can see the update in our",
+    "textdich": ""
+  },
+  {
+    "start": 908.23,
+    "end": 910.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 908.24,
+    "end": 912.959,
+    "text": "output so i can",
+    "textdich": ""
+  },
+  {
+    "start": 910.949,
+    "end": 912.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 910.959,
+    "end": 914.32,
+    "text": "actually write something like you know",
+    "textdich": ""
+  },
+  {
+    "start": 912.949,
+    "end": 914.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 912.959,
+    "end": 916.32,
+    "text": "st",
+    "textdich": ""
+  },
+  {
+    "start": 914.31,
+    "end": 916.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 914.32,
+    "end": 919.6,
+    "text": "maybe sub header",
+    "textdich": ""
+  },
+  {
+    "start": 916.31,
+    "end": 919.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 916.32,
+    "end": 921.6,
+    "text": "and we just say output",
+    "textdich": ""
+  },
+  {
+    "start": 919.59,
+    "end": 921.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 919.6,
+    "end": 923.36,
+    "text": "you see all the",
+    "textdich": ""
+  },
+  {
+    "start": 921.59,
+    "end": 923.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 921.6,
+    "end": 925.76,
+    "text": "output beneath it",
+    "textdich": ""
+  },
+  {
+    "start": 923.35,
+    "end": 925.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 923.36,
+    "end": 927.839,
+    "text": "so that's all in the part where we",
+    "textdich": ""
+  },
+  {
+    "start": 925.75,
+    "end": 927.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 925.76,
+    "end": 929.759,
+    "text": "mainly do the display thing we will also",
+    "textdich": ""
+  },
+  {
+    "start": 927.829,
+    "end": 929.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 927.839,
+    "end": 931.759,
+    "text": "add more feature to it basically we can",
+    "textdich": ""
+  },
+  {
+    "start": 929.749,
+    "end": 931.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 929.759,
+    "end": 933.759,
+    "text": "just start deleting or maybe",
+    "textdich": ""
+  },
+  {
+    "start": 931.749,
+    "end": 933.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 931.759,
+    "end": 935.6,
+    "text": "highlighting our stream with a degree",
+    "textdich": ""
+  },
+  {
+    "start": 933.749,
+    "end": 935.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 933.759,
+    "end": 937.839,
+    "text": "table so these are the few things we",
+    "textdich": ""
+  },
+  {
+    "start": 935.59,
+    "end": 937.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 935.6,
+    "end": 939.36,
+    "text": "will try to implement in our assembly",
+    "textdich": ""
+  },
+  {
+    "start": 937.829,
+    "end": 939.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 937.839,
+    "end": 942.0,
+    "text": "table further",
+    "textdich": ""
+  },
+  {
+    "start": 939.35,
+    "end": 942.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 939.36,
+    "end": 944.399,
+    "text": "so for that i will actually change to",
+    "textdich": ""
+  },
+  {
+    "start": 941.99,
+    "end": 944.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 942.0,
+    "end": 946.32,
+    "text": "few radio buttons so you know our app",
+    "textdich": ""
+  },
+  {
+    "start": 944.389,
+    "end": 946.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 944.399,
+    "end": 948.56,
+    "text": "will have",
+    "textdich": ""
+  },
+  {
+    "start": 946.31,
+    "end": 948.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 946.32,
+    "end": 950.32,
+    "text": "options such as what the user wants to",
+    "textdich": ""
+  },
+  {
+    "start": 948.55,
+    "end": 950.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 948.56,
+    "end": 953.44,
+    "text": "do because you want just once you get a",
+    "textdich": ""
+  },
+  {
+    "start": 950.31,
+    "end": 953.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 950.32,
+    "end": 957.519,
+    "text": "display of it so how we do that we",
+    "textdich": ""
+  },
+  {
+    "start": 953.43,
+    "end": 957.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 953.44,
+    "end": 959.839,
+    "text": "use again something called streamlit",
+    "textdich": ""
+  },
+  {
+    "start": 957.509,
+    "end": 959.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 957.519,
+    "end": 961.6,
+    "text": "radio buttons but before that yeah we",
+    "textdich": ""
+  },
+  {
+    "start": 959.829,
+    "end": 961.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 959.839,
+    "end": 964.24,
+    "text": "just add a sidebar",
+    "textdich": ""
+  },
+  {
+    "start": 961.59,
+    "end": 964.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 961.6,
+    "end": 966.399,
+    "text": "and then we here we add radio",
+    "textdich": ""
+  },
+  {
+    "start": 964.23,
+    "end": 966.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 964.24,
+    "end": 968.639,
+    "text": "and here we say",
+    "textdich": ""
+  },
+  {
+    "start": 966.389,
+    "end": 968.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 966.399,
+    "end": 971.92,
+    "text": "you know type or maybe the",
+    "textdich": ""
+  },
+  {
+    "start": 968.629,
+    "end": 971.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 968.639,
+    "end": 971.92,
+    "text": "label can be like this",
+    "textdich": ""
+  },
+  {
+    "start": 973.749,
+    "end": 973.749,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 973.759,
+    "end": 977.12,
+    "text": "functions you know what kind of",
+    "textdich": ""
+  },
+  {
+    "start": 975.269,
+    "end": 977.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 975.279,
+    "end": 978.56,
+    "text": "functions maybe i'm",
+    "textdich": ""
+  },
+  {
+    "start": 977.11,
+    "end": 978.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 977.12,
+    "end": 980.16,
+    "text": "i don't know exactly what we can just",
+    "textdich": ""
+  },
+  {
+    "start": 978.55,
+    "end": 980.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 978.56,
+    "end": 982.16,
+    "text": "write it this way what i want to",
+    "textdich": ""
+  },
+  {
+    "start": 980.15,
+    "end": 982.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 980.16,
+    "end": 985.36,
+    "text": "implement is something like this once",
+    "textdich": ""
+  },
+  {
+    "start": 982.15,
+    "end": 985.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 982.16,
+    "end": 988.0,
+    "text": "the user wants to display something",
+    "textdich": ""
+  },
+  {
+    "start": 985.35,
+    "end": 988.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 985.36,
+    "end": 989.6,
+    "text": "the person selects the display option",
+    "textdich": ""
+  },
+  {
+    "start": 987.99,
+    "end": 989.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 988.0,
+    "end": 991.839,
+    "text": "and if the user wants something to",
+    "textdich": ""
+  },
+  {
+    "start": 989.59,
+    "end": 991.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 989.6,
+    "end": 992.959,
+    "text": "highlight",
+    "textdich": ""
+  },
+  {
+    "start": 991.829,
+    "end": 992.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 991.839,
+    "end": 994.639,
+    "text": "that's the",
+    "textdich": ""
+  },
+  {
+    "start": 992.949,
+    "end": 994.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 992.959,
+    "end": 998.639,
+    "text": "user goes for the highlight option so i",
+    "textdich": ""
+  },
+  {
+    "start": 994.629,
+    "end": 998.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 994.639,
+    "end": 998.639,
+    "text": "think this comes under options so",
+    "textdich": ""
+  },
+  {
+    "start": 998.79,
+    "end": 998.79,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 998.8,
+    "end": 1004.88,
+    "text": "yeah something like this",
+    "textdich": ""
+  },
+  {
+    "start": 1000.79,
+    "end": 1004.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1000.8,
+    "end": 1006.88,
+    "text": "so we can actually put this code",
+    "textdich": ""
+  },
+  {
+    "start": 1004.87,
+    "end": 1006.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1004.88,
+    "end": 1009.519,
+    "text": "maybe this part of the code under the",
+    "textdich": ""
+  },
+  {
+    "start": 1006.87,
+    "end": 1009.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1006.88,
+    "end": 1012.639,
+    "text": "option display so let's add that feature",
+    "textdich": ""
+  },
+  {
+    "start": 1009.509,
+    "end": 1012.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1009.519,
+    "end": 1013.759,
+    "text": "now itself so if uh we need to assign",
+    "textdich": ""
+  },
+  {
+    "start": 1012.629,
+    "end": 1013.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1012.639,
+    "end": 1014.56,
+    "text": "that",
+    "textdich": ""
+  },
+  {
+    "start": 1013.749,
+    "end": 1014.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1013.759,
+    "end": 1017.68,
+    "text": "so",
+    "textdich": ""
+  },
+  {
+    "start": 1014.55,
+    "end": 1017.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1014.56,
+    "end": 1019.68,
+    "text": "maybe like something like",
+    "textdich": ""
+  },
+  {
+    "start": 1017.67,
+    "end": 1019.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1017.68,
+    "end": 1021.759,
+    "text": "and whatever the variable comes so it's",
+    "textdich": ""
+  },
+  {
+    "start": 1019.67,
+    "end": 1021.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1019.68,
+    "end": 1022.639,
+    "text": "like if",
+    "textdich": ""
+  },
+  {
+    "start": 1021.749,
+    "end": 1022.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1021.759,
+    "end": 1023.44,
+    "text": "punk",
+    "textdich": ""
+  },
+  {
+    "start": 1022.629,
+    "end": 1023.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1022.639,
+    "end": 1024.64,
+    "text": "is",
+    "textdich": ""
+  },
+  {
+    "start": 1023.43,
+    "end": 1024.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1023.44,
+    "end": 1027.439,
+    "text": "maybe",
+    "textdich": ""
+  },
+  {
+    "start": 1024.63,
+    "end": 1027.439,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1024.64,
+    "end": 1027.439,
+    "text": "a display",
+    "textdich": ""
+  },
+  {
+    "start": 1028.549,
+    "end": 1028.549,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1028.559,
+    "end": 1034.0,
+    "text": "user get this option out here see",
+    "textdich": ""
+  },
+  {
+    "start": 1031.51,
+    "end": 1034.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1031.52,
+    "end": 1036.079,
+    "text": "that's this was my id actually so",
+    "textdich": ""
+  },
+  {
+    "start": 1033.99,
+    "end": 1036.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1034.0,
+    "end": 1038.0,
+    "text": "now if we look out here so user has",
+    "textdich": ""
+  },
+  {
+    "start": 1036.069,
+    "end": 1038.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1036.079,
+    "end": 1039.6,
+    "text": "option of displaying",
+    "textdich": ""
+  },
+  {
+    "start": 1037.99,
+    "end": 1039.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1038.0,
+    "end": 1041.199,
+    "text": "and then under display this option come",
+    "textdich": ""
+  },
+  {
+    "start": 1039.59,
+    "end": 1041.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1039.6,
+    "end": 1043.679,
+    "text": "but if i go to highlight since we didn't",
+    "textdich": ""
+  },
+  {
+    "start": 1041.189,
+    "end": 1043.679,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1041.199,
+    "end": 1046.16,
+    "text": "implement any feature yet we don't see",
+    "textdich": ""
+  },
+  {
+    "start": 1043.669,
+    "end": 1046.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1043.679,
+    "end": 1048.16,
+    "text": "that uh highlight option yet but we will",
+    "textdich": ""
+  },
+  {
+    "start": 1046.15,
+    "end": 1048.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1046.16,
+    "end": 1049.76,
+    "text": "try to add few more codes well yeah so",
+    "textdich": ""
+  },
+  {
+    "start": 1048.15,
+    "end": 1049.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1048.16,
+    "end": 1051.76,
+    "text": "this was the first part of the video",
+    "textdich": ""
+  },
+  {
+    "start": 1049.75,
+    "end": 1051.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1049.76,
+    "end": 1053.919,
+    "text": "where we tried to implement educate",
+    "textdich": ""
+  },
+  {
+    "start": 1051.75,
+    "end": 1053.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1051.76,
+    "end": 1055.52,
+    "text": "table within our streamlit app in the",
+    "textdich": ""
+  },
+  {
+    "start": 1053.909,
+    "end": 1055.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1053.919,
+    "end": 1058.24,
+    "text": "coming section which will be much more",
+    "textdich": ""
+  },
+  {
+    "start": 1055.51,
+    "end": 1058.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1055.52,
+    "end": 1060.4,
+    "text": "fun because we will try to implement the",
+    "textdich": ""
+  },
+  {
+    "start": 1058.23,
+    "end": 1060.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1058.24,
+    "end": 1062.48,
+    "text": "highlight uh feature in our stream with",
+    "textdich": ""
+  },
+  {
+    "start": 1060.39,
+    "end": 1062.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1060.4,
+    "end": 1064.48,
+    "text": "edge grid table and also we'll try to",
+    "textdich": ""
+  },
+  {
+    "start": 1062.47,
+    "end": 1064.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1062.48,
+    "end": 1065.6,
+    "text": "delete row wise in our stream with edgy",
+    "textdich": ""
+  },
+  {
+    "start": 1064.47,
+    "end": 1065.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1064.48,
+    "end": 1067.36,
+    "text": "grid table",
+    "textdich": ""
+  },
+  {
+    "start": 1065.59,
+    "end": 1067.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1065.6,
+    "end": 1069.28,
+    "text": "meanwhile if you guys have any other",
+    "textdich": ""
+  },
+  {
+    "start": 1067.35,
+    "end": 1069.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1067.36,
+    "end": 1071.44,
+    "text": "suggestion or any other feature which",
+    "textdich": ""
+  },
+  {
+    "start": 1069.27,
+    "end": 1071.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1069.28,
+    "end": 1073.28,
+    "text": "you guys want in the educated table",
+    "textdich": ""
+  },
+  {
+    "start": 1071.43,
+    "end": 1073.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1071.44,
+    "end": 1075.6,
+    "text": "please don't forget to mention them in",
+    "textdich": ""
+  },
+  {
+    "start": 1073.27,
+    "end": 1075.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1073.28,
+    "end": 1077.44,
+    "text": "the comment section below i would also",
+    "textdich": ""
+  },
+  {
+    "start": 1075.59,
+    "end": 1077.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1075.6,
+    "end": 1078.72,
+    "text": "love to cover this part in the coming",
+    "textdich": ""
+  },
+  {
+    "start": 1077.43,
+    "end": 1078.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1077.44,
+    "end": 1080.799,
+    "text": "video",
+    "textdich": ""
+  },
+  {
+    "start": 1078.71,
+    "end": 1080.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1078.72,
+    "end": 1083.12,
+    "text": "and please do like my video share my",
+    "textdich": ""
+  },
+  {
+    "start": 1080.789,
+    "end": 1083.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1080.799,
+    "end": 1085.2,
+    "text": "video and also subscribe to my channel",
+    "textdich": ""
+  },
+  {
+    "start": 1083.11,
+    "end": 1085.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1083.12,
+    "end": 1088.72,
+    "text": "and have fun while coding see you in the",
+    "textdich": ""
+  },
+  {
+    "start": 1085.19,
+    "end": 1088.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 1085.2,
+    "end": 1088.72,
+    "text": "next video thank you",
+    "textdich": ""
+  }
+]
