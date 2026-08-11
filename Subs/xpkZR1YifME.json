@@ -1,0 +1,2960 @@
+[
+  {
+    "start": 2.399,
+    "end": 8.0,
+    "text": "Nếu tôi hỏi bạn toán học là gì, bạn sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 5.749,
+    "end": 8.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 5.759,
+    "end": 9.96,
+    "text": "trả lời thế nào? Rất có thể câu trả lời",
+    "textdich": ""
+  },
+  {
+    "start": 7.99,
+    "end": 9.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 8.0,
+    "end": 12.799,
+    "text": "của bạn sẽ xoay quanh những phép tính,",
+    "textdich": ""
+  },
+  {
+    "start": 9.95,
+    "end": 12.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 9.96,
+    "end": 15.0,
+    "text": "giải phương trình, đạo hàm, tích phân,",
+    "textdich": ""
+  },
+  {
+    "start": 12.789,
+    "end": 15.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 12.799,
+    "end": 18.0,
+    "text": "những con số, những công thức, những bài",
+    "textdich": ""
+  },
+  {
+    "start": 14.99,
+    "end": 18.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 15.0,
+    "end": 19.64,
+    "text": "kiểm tra 15 phút đầy áp lực. Nhưng nếu",
+    "textdich": ""
+  },
+  {
+    "start": 17.99,
+    "end": 19.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 18.0,
+    "end": 21.68,
+    "text": "tôi nói với bạn rằng  từng có",
+    "textdich": ""
+  },
+  {
+    "start": 19.63,
+    "end": 21.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 19.64,
+    "end": 23.48,
+    "text": "một giai đoạn trong lịch sử, người ta đã",
+    "textdich": ""
+  },
+  {
+    "start": 21.67,
+    "end": 23.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 21.68,
+    "end": 25.48,
+    "text": "thật sự cố gắng dạy học sinh một thứ",
+    "textdich": ""
+  },
+  {
+    "start": 23.47,
+    "end": 25.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 23.48,
+    "end": 27.88,
+    "text": "hoàn toàn khác, không phải cách tính",
+    "textdich": ""
+  },
+  {
+    "start": 25.47,
+    "end": 27.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 25.48,
+    "end": 29.56,
+    "text": "toán mà là bản chất của tư duy toán học",
+    "textdich": ""
+  },
+  {
+    "start": 27.87,
+    "end": 29.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 27.88,
+    "end": 32.48,
+    "text": "thì sao?",
+    "textdich": ""
+  },
+  {
+    "start": 29.55,
+    "end": 32.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 29.56,
+    "end": 33.879,
+    "text": "Và rồi chính phụ huynh, chính giáo viên,",
+    "textdich": ""
+  },
+  {
+    "start": 32.47,
+    "end": 33.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 32.48,
+    "end": 37.04,
+    "text": "chính cả  một quốc gia đã đứng",
+    "textdich": ""
+  },
+  {
+    "start": 33.869,
+    "end": 37.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 33.879,
+    "end": 39.28,
+    "text": "lên phản đối nó đến mức nó bị dẹp bỏ",
+    "textdich": ""
+  },
+  {
+    "start": 37.03,
+    "end": 39.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 37.04,
+    "end": 40.2,
+    "text": "hoàn toàn. Đây không phải là một giả",
+    "textdich": ""
+  },
+  {
+    "start": 39.27,
+    "end": 40.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 39.28,
+    "end": 43.079,
+    "text": "thuyết, ",
+    "textdich": ""
+  },
+  {
+    "start": 40.19,
+    "end": 43.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 40.2,
+    "end": 45.16,
+    "text": "đây là chuyện đã thật sự xảy ra.",
+    "textdich": ""
+  },
+  {
+    "start": 43.069,
+    "end": 45.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 43.079,
+    "end": 47.96,
+    "text": "Vậy điều gì đã khiến một nỗ lực dạy toán",
+    "textdich": ""
+  },
+  {
+    "start": 45.15,
+    "end": 47.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 45.16,
+    "end": 50.399,
+    "text": "học thật lại thất bại đến vậy? Và quan",
+    "textdich": ""
+  },
+  {
+    "start": 47.95,
+    "end": 50.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 47.96,
+    "end": 52.239,
+    "text": "trọng hơn, liệu hậu quả của thất bại đó",
+    "textdich": ""
+  },
+  {
+    "start": 50.389,
+    "end": 52.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 50.399,
+    "end": 54.64,
+    "text": "có đang âm thầm định hình cách bạn học",
+    "textdich": ""
+  },
+  {
+    "start": 52.229,
+    "end": 54.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 52.239,
+    "end": 56.239,
+    "text": "toán suốt 12 năm phổ thông ngay lúc này",
+    "textdich": ""
+  },
+  {
+    "start": 54.63,
+    "end": 56.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 54.64,
+    "end": 58.12,
+    "text": "hay không?",
+    "textdich": ""
+  },
+  {
+    "start": 56.229,
+    "end": 58.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 56.239,
+    "end": 61.719,
+    "text": "Để trả lời,  chúng ta cần quay",
+    "textdich": ""
+  },
+  {
+    "start": 58.11,
+    "end": 61.719,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 58.12,
+    "end": 63.92,
+    "text": "ngược về một đêm tháng 10 năm 1957",
+    "textdich": ""
+  },
+  {
+    "start": 61.709,
+    "end": 63.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 61.719,
+    "end": 69.2,
+    "text": "khi cả nước Mỹ ngước nhìn lên bầu trời",
+    "textdich": ""
+  },
+  {
+    "start": 63.91,
+    "end": 69.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 63.92,
+    "end": 69.2,
+    "text": "và nhận ra họ đang tụt lại phía sau.",
+    "textdich": ""
+  },
+  {
+    "start": 73.07,
+    "end": 73.07,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 73.08,
+    "end": 77.29,
+    "text": "Ngày 4 tháng 10 năm 1957,",
+    "textdich": ""
+  },
+  {
+    "start": 75.789,
+    "end": 77.29,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 75.799,
+    "end": 78.0,
+    "text": "Liên Xô phóng thành công Spartnick,",
+    "textdich": ""
+  },
+  {
+    "start": 77.28,
+    "end": 78.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 77.29,
+    "end": 79.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 77.99,
+    "end": 79.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 78.0,
+    "end": 81.6,
+    "text": "vệ tinh nhân tạo đầu tiên của loài người",
+    "textdich": ""
+  },
+  {
+    "start": 79.83,
+    "end": 81.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 79.84,
+    "end": 83.4,
+    "text": "bay quanh Trái Đất.",
+    "textdich": ""
+  },
+  {
+    "start": 81.59,
+    "end": 83.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 81.6,
+    "end": 86.28,
+    "text": "Với nước Mỹ, đây không chỉ là một cột",
+    "textdich": ""
+  },
+  {
+    "start": 83.39,
+    "end": 86.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 83.4,
+    "end": 88.36,
+    "text": "mốc khoa học, đó là một cú sốc. Trong",
+    "textdich": ""
+  },
+  {
+    "start": 86.27,
+    "end": 88.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 86.28,
+    "end": 91.36,
+    "text": "suốt chiến tranh lạnh, người Mỹ luôn tin",
+    "textdich": ""
+  },
+  {
+    "start": 88.35,
+    "end": 91.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 88.36,
+    "end": 93.24,
+    "text": "rằng mình dẫn đầu về công nghệ. Sputnck",
+    "textdich": ""
+  },
+  {
+    "start": 91.35,
+    "end": 93.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 91.36,
+    "end": 96.286,
+    "text": "chứng minh điều ngược lại và ngay lập",
+    "textdich": ""
+  },
+  {
+    "start": 93.23,
+    "end": 96.286,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 93.24,
+    "end": 98.68,
+    "text": "tức câu hỏi được đặt ra tại sao Liên Xô",
+    "textdich": ""
+  },
+  {
+    "start": 96.276,
+    "end": 98.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 96.286,
+    "end": 101.399,
+    "text": " lại vượt mặt được nước Mỹ? Câu",
+    "textdich": ""
+  },
+  {
+    "start": 98.67,
+    "end": 101.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 98.68,
+    "end": 104.719,
+    "text": "trả lời mà giới lãnh đạo Mỹ đưa ra, vấn",
+    "textdich": ""
+  },
+  {
+    "start": 101.389,
+    "end": 104.719,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 101.399,
+    "end": 106.68,
+    "text": "đề nằm ở giáo dục, cụ thể hơn, nằm ở",
+    "textdich": ""
+  },
+  {
+    "start": 104.709,
+    "end": 106.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 104.719,
+    "end": 108.719,
+    "text": "cách nước Mỹ đang dạy toán và khoa học",
+    "textdich": ""
+  },
+  {
+    "start": 106.67,
+    "end": 108.719,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 106.68,
+    "end": 110.56,
+    "text": "cho  học sinh. Cách dạy toán",
+    "textdich": ""
+  },
+  {
+    "start": 108.709,
+    "end": 110.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 108.719,
+    "end": 112.799,
+    "text": "truyền thống lúc đó tập trung gần như",
+    "textdich": ""
+  },
+  {
+    "start": 110.55,
+    "end": 112.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 110.56,
+    "end": 115.56,
+    "text": "hoàn toàn vào tính toán và ghi nhớ công",
+    "textdich": ""
+  },
+  {
+    "start": 112.789,
+    "end": 115.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 112.799,
+    "end": 117.88,
+    "text": "thức. Học sinh học cách ra đáp số đúng",
+    "textdich": ""
+  },
+  {
+    "start": 115.55,
+    "end": 117.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 115.56,
+    "end": 120.92,
+    "text": "nhưng hiếm khi được dạy vì sao công thức",
+    "textdich": ""
+  },
+  {
+    "start": 117.87,
+    "end": 120.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 117.88,
+    "end": 124.2,
+    "text": "đó đúng hay bản chất logic đằng sau nó",
+    "textdich": ""
+  },
+  {
+    "start": 120.91,
+    "end": 124.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 120.92,
+    "end": 126.416,
+    "text": "là gì. Với giới khoa học, đây chính là",
+    "textdich": ""
+  },
+  {
+    "start": 124.19,
+    "end": 126.416,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 124.2,
+    "end": 128.319,
+    "text": "lỗ hổng vì những nhà toán học, nhà vật",
+    "textdich": ""
+  },
+  {
+    "start": 126.406,
+    "end": 128.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 126.416,
+    "end": 130.879,
+    "text": " lý thực thụ không làm việc",
+    "textdich": ""
+  },
+  {
+    "start": 128.309,
+    "end": 130.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 128.319,
+    "end": 132.959,
+    "text": "bằng cách áp công thức có sẵn. Họ tư duy",
+    "textdich": ""
+  },
+  {
+    "start": 130.869,
+    "end": 132.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 130.879,
+    "end": 135.36,
+    "text": "bằng cấu trúc, bằng chứng minh, bằng",
+    "textdich": ""
+  },
+  {
+    "start": 132.949,
+    "end": 135.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 132.959,
+    "end": 137.551,
+    "text": "logic trừu tưởng.",
+    "textdich": ""
+  },
+  {
+    "start": 135.35,
+    "end": 137.551,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 135.36,
+    "end": 140.239,
+    "text": "Chưa đầy một năm sau, ngày 2 tháng",
+    "textdich": ""
+  },
+  {
+    "start": 137.541,
+    "end": 140.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 137.551,
+    "end": 142.48,
+    "text": " năm 1958, Tổng thống",
+    "textdich": ""
+  },
+  {
+    "start": 140.229,
+    "end": 142.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 140.239,
+    "end": 144.756,
+    "text": "Eisenhauer ký ban hành đạo luật giáo dục",
+    "textdich": ""
+  },
+  {
+    "start": 142.47,
+    "end": 144.756,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 142.48,
+    "end": 146.68,
+    "text": "quốc phòng National Defense Education",
+    "textdich": ""
+  },
+  {
+    "start": 144.746,
+    "end": 146.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 144.756,
+    "end": 148.92,
+    "text": " Act.",
+    "textdich": ""
+  },
+  {
+    "start": 146.67,
+    "end": 148.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 146.68,
+    "end": 150.8,
+    "text": "Đạo luật này rót hơn 1 tỷ đô la vào việc",
+    "textdich": ""
+  },
+  {
+    "start": 148.91,
+    "end": 150.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 148.92,
+    "end": 153.28,
+    "text": "cải tổ giáo dục toán  học, khoa",
+    "textdich": ""
+  },
+  {
+    "start": 150.79,
+    "end": 153.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 150.8,
+    "end": 155.891,
+    "text": "học và ngoại ngữ trên toàn nước Mỹ. Một",
+    "textdich": ""
+  },
+  {
+    "start": 153.27,
+    "end": 155.891,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 153.28,
+    "end": 157.08,
+    "text": "con số khổng lồ vào thời điểm đó và là",
+    "textdich": ""
+  },
+  {
+    "start": 155.881,
+    "end": 157.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 155.891,
+    "end": 159.879,
+    "text": " lần đầu tiên chính phủ Liên",
+    "textdich": ""
+  },
+  {
+    "start": 157.07,
+    "end": 159.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 157.08,
+    "end": 162.84,
+    "text": "bang Mỹ can thiệp sâu đến vậy vào chương",
+    "textdich": ""
+  },
+  {
+    "start": 159.869,
+    "end": 162.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 159.879,
+    "end": 164.599,
+    "text": "trình giảng dạy tại trường học.",
+    "textdich": ""
+  },
+  {
+    "start": 162.83,
+    "end": 164.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 162.84,
+    "end": 167.12,
+    "text": "Dòng tiền  này đổ vào hàng loạt",
+    "textdich": ""
+  },
+  {
+    "start": 164.589,
+    "end": 167.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 164.599,
+    "end": 168.879,
+    "text": "tổ chức cải cách giáo dục toán học. Sớm",
+    "textdich": ""
+  },
+  {
+    "start": 167.11,
+    "end": 168.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 167.12,
+    "end": 170.64,
+    "text": "nhất là Ủy ban toán học trường học của",
+    "textdich": ""
+  },
+  {
+    "start": 168.869,
+    "end": 170.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 168.879,
+    "end": 172.76,
+    "text": "Đại  học Illinois do nhà toán",
+    "textdich": ""
+  },
+  {
+    "start": 170.63,
+    "end": 172.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 170.64,
+    "end": 175.76,
+    "text": "học Max Biberman khởi xướng từ đầu thập",
+    "textdich": ""
+  },
+  {
+    "start": 172.75,
+    "end": 175.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 172.76,
+    "end": 177.92,
+    "text": "niên 1950.  Nhưng tổ chức có",
+    "textdich": ""
+  },
+  {
+    "start": 175.75,
+    "end": 177.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 175.76,
+    "end": 179.92,
+    "text": "ảnh hưởng lớn nhất ra đời ngay sau cú",
+    "textdich": ""
+  },
+  {
+    "start": 177.91,
+    "end": 179.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 177.92,
+    "end": 182.4,
+    "text": "sốc Spartnick là  School",
+    "textdich": ""
+  },
+  {
+    "start": 179.91,
+    "end": 182.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 179.92,
+    "end": 184.68,
+    "text": "Mathematics Study Group do nhà toán học",
+    "textdich": ""
+  },
+  {
+    "start": 182.39,
+    "end": 184.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 182.4,
+    "end": 185.367,
+    "text": "Edward Bagel dẫn dắt. Mục tiêu của họ",
+    "textdich": ""
+  },
+  {
+    "start": 184.67,
+    "end": 185.367,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 184.68,
+    "end": 185.48,
+    "text": "không hề nhỏ.",
+    "textdich": ""
+  },
+  {
+    "start": 185.357,
+    "end": 185.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 185.367,
+    "end": 187.599,
+    "text": " ",
+    "textdich": ""
+  },
+  {
+    "start": 185.47,
+    "end": 187.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 185.48,
+    "end": 189.68,
+    "text": " viết lại toàn bộ cách nước Mỹ dạy toán",
+    "textdich": ""
+  },
+  {
+    "start": 187.589,
+    "end": 189.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 187.599,
+    "end": 191.159,
+    "text": "từ tiểu học đến trung học theo một triết",
+    "textdich": ""
+  },
+  {
+    "start": 189.67,
+    "end": 191.159,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 189.68,
+    "end": 193.159,
+    "text": "lý hoàn toàn mới. ",
+    "textdich": ""
+  },
+  {
+    "start": 191.149,
+    "end": 193.159,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 191.159,
+    "end": 197.879,
+    "text": "Một phong trào sau này được biết đến với",
+    "textdich": ""
+  },
+  {
+    "start": 193.149,
+    "end": 197.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 193.159,
+    "end": 197.879,
+    "text": "cái tên New Math.",
+    "textdich": ""
+  },
+  {
+    "start": 202.27,
+    "end": 202.27,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 202.28,
+    "end": 206.84,
+    "text": "Vậy New Math thực chất dạy học sinh",
+    "textdich": ""
+  },
+  {
+    "start": 204.07,
+    "end": 206.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 204.08,
+    "end": 209.12,
+    "text": "những gì?  Thay vì bắt đầu bằng",
+    "textdich": ""
+  },
+  {
+    "start": 206.83,
+    "end": 209.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 206.84,
+    "end": 210.72,
+    "text": "bảng cửu trương và các phép tính cơ bản,",
+    "textdich": ""
+  },
+  {
+    "start": 209.11,
+    "end": 210.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 209.12,
+    "end": 212.64,
+    "text": "học sinh tiểu học được giới thiệu với",
+    "textdich": ""
+  },
+  {
+    "start": 210.71,
+    "end": 212.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 210.72,
+    "end": 215.64,
+    "text": "những khái niệm mà trước đó chỉ xuất",
+    "textdich": ""
+  },
+  {
+    "start": 212.63,
+    "end": 215.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 212.64,
+    "end": 218.879,
+    "text": "hiện ở bậc đại học. Lý thuyết tập hợp.",
+    "textdich": ""
+  },
+  {
+    "start": 215.63,
+    "end": 218.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 215.64,
+    "end": 221.08,
+    "text": "Các hệ đếm với cơ số khác 10. Ví dụ đếm",
+    "textdich": ""
+  },
+  {
+    "start": 218.869,
+    "end": 221.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 218.879,
+    "end": 223.4,
+    "text": "theo cơ số 2 hoặc cơ  số 8 thay",
+    "textdich": ""
+  },
+  {
+    "start": 221.07,
+    "end": 223.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 221.08,
+    "end": 226.48,
+    "text": "vì cơ số 10 quen thuộc và logic hình",
+    "textdich": ""
+  },
+  {
+    "start": 223.39,
+    "end": 226.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 223.4,
+    "end": 228.76,
+    "text": "thức. Nghe có vẻ xa lạ nhưng logic đằng",
+    "textdich": ""
+  },
+  {
+    "start": 226.47,
+    "end": 228.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 226.48,
+    "end": 231.2,
+    "text": "sau nó khá rõ ràng. Những người thiết kế",
+    "textdich": ""
+  },
+  {
+    "start": 228.75,
+    "end": 231.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 228.76,
+    "end": 233.76,
+    "text": "chương trình tin rằng nếu học sinh hiểu",
+    "textdich": ""
+  },
+  {
+    "start": 231.19,
+    "end": 233.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 231.2,
+    "end": 236.2,
+    "text": "được cấu trúc nền tảng của toán học, tức",
+    "textdich": ""
+  },
+  {
+    "start": 233.75,
+    "end": 236.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 233.76,
+    "end": 238.4,
+    "text": "là hiểu vì sao các quy tắc số học hoạt",
+    "textdich": ""
+  },
+  {
+    "start": 236.19,
+    "end": 238.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 236.2,
+    "end": 240.84,
+    "text": "động, thì các em sẽ không cần học thuộc",
+    "textdich": ""
+  },
+  {
+    "start": 238.39,
+    "end": 240.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 238.4,
+    "end": 244.159,
+    "text": "lòng hàng loạt công thức nữa. Các em sẽ",
+    "textdich": ""
+  },
+  {
+    "start": 240.83,
+    "end": 244.159,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 240.84,
+    "end": 245.879,
+    "text": "tự suy luận ra được. Nói cách khác, mục",
+    "textdich": ""
+  },
+  {
+    "start": 244.149,
+    "end": 245.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 244.159,
+    "end": 248.56,
+    "text": "tiêu không phải là dạy học sinh tính",
+    "textdich": ""
+  },
+  {
+    "start": 245.869,
+    "end": 248.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 245.879,
+    "end": 250.599,
+    "text": "nhanh,  tính đúng. Mục tiêu là",
+    "textdich": ""
+  },
+  {
+    "start": 248.55,
+    "end": 250.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 248.56,
+    "end": 253.239,
+    "text": "dạy các em tư duy như một nhà toán học",
+    "textdich": ""
+  },
+  {
+    "start": 250.589,
+    "end": 253.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 250.599,
+    "end": 256.107,
+    "text": "thực thụ, đặt câu hỏi về bản chất của",
+    "textdich": ""
+  },
+  {
+    "start": 253.229,
+    "end": 256.107,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 253.239,
+    "end": 257.56,
+    "text": "con số thay vì chỉ thao tác với chúng.",
+    "textdich": ""
+  },
+  {
+    "start": 256.097,
+    "end": 257.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 256.107,
+    "end": 260.12,
+    "text": " Đây chính là điểm khác biệt",
+    "textdich": ""
+  },
+  {
+    "start": 257.55,
+    "end": 260.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 257.56,
+    "end": 262.16,
+    "text": "cốt lõi so với cách chúng ta học toán ở",
+    "textdich": ""
+  },
+  {
+    "start": 260.11,
+    "end": 262.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 260.12,
+    "end": 264.52,
+    "text": "trường phổ thông ngày nay.",
+    "textdich": ""
+  },
+  {
+    "start": 262.15,
+    "end": 264.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 262.16,
+    "end": 266.587,
+    "text": "Một bên hỏi tại sao điều này đúng, một",
+    "textdich": ""
+  },
+  {
+    "start": 264.51,
+    "end": 266.587,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 264.52,
+    "end": 267.8,
+    "text": "bên hỏi làm sao ra được đáp số này.",
+    "textdich": ""
+  },
+  {
+    "start": 266.577,
+    "end": 267.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 266.587,
+    "end": 269.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 267.79,
+    "end": 269.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 267.8,
+    "end": 271.639,
+    "text": "Trên lý thuyết, đây là một tầm nhìn đầy",
+    "textdich": ""
+  },
+  {
+    "start": 269.51,
+    "end": 271.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 269.52,
+    "end": 274.32,
+    "text": "tham vọng. Nhưng khi đưa vào hàng chục",
+    "textdich": ""
+  },
+  {
+    "start": 271.629,
+    "end": 274.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 271.639,
+    "end": 278.479,
+    "text": "nghìn lớp học thực tế trên khắp nước Mỹ,",
+    "textdich": ""
+  },
+  {
+    "start": 274.31,
+    "end": 278.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 274.32,
+    "end": 278.479,
+    "text": "mọi thứ bắt đầu đi trạch hướng.",
+    "textdich": ""
+  },
+  {
+    "start": 279.99,
+    "end": 279.99,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 280.0,
+    "end": 283.84,
+    "text": "Vấn đề  đầu tiên và cũng là",
+    "textdich": ""
+  },
+  {
+    "start": 281.71,
+    "end": 283.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 281.72,
+    "end": 286.919,
+    "text": "nghiêm trọng nhất, nằm ở chính những",
+    "textdich": ""
+  },
+  {
+    "start": 283.83,
+    "end": 286.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 283.84,
+    "end": 288.96,
+    "text": "người đứng lớp. Để dạy New Math, giáo",
+    "textdich": ""
+  },
+  {
+    "start": 286.909,
+    "end": 288.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 286.919,
+    "end": 291.52,
+    "text": "viên không chỉ cần biết công thức, họ",
+    "textdich": ""
+  },
+  {
+    "start": 288.95,
+    "end": 291.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 288.96,
+    "end": 293.44,
+    "text": "cần thực sự hiểu bản chất logic đằng sau",
+    "textdich": ""
+  },
+  {
+    "start": 291.51,
+    "end": 293.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 291.52,
+    "end": 295.479,
+    "text": "lý thuyết tập hợp, đằng sau các hệ đếm",
+    "textdich": ""
+  },
+  {
+    "start": 293.43,
+    "end": 295.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 293.44,
+    "end": 297.32,
+    "text": "khác cơ số 10. ",
+    "textdich": ""
+  },
+  {
+    "start": 295.469,
+    "end": 297.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 295.479,
+    "end": 298.88,
+    "text": "Nhưng phần lớn giáo viên tiểu học lúc đó",
+    "textdich": ""
+  },
+  {
+    "start": 297.31,
+    "end": 298.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 297.32,
+    "end": 300.8,
+    "text": "chưa từng được đào tạo bài bản về những",
+    "textdich": ""
+  },
+  {
+    "start": 298.87,
+    "end": 300.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 298.88,
+    "end": 303.4,
+    "text": "khái niệm này.  Bản thân họ",
+    "textdich": ""
+  },
+  {
+    "start": 300.79,
+    "end": 303.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 300.8,
+    "end": 306.0,
+    "text": "cũng học toán theo lối cũ. Kết quả là",
+    "textdich": ""
+  },
+  {
+    "start": 303.39,
+    "end": 306.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 303.4,
+    "end": 307.919,
+    "text": "gì? Nhiều giáo viên đứng trước lớp cố",
+    "textdich": ""
+  },
+  {
+    "start": 305.99,
+    "end": 307.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 306.0,
+    "end": 310.32,
+    "text": "gắng giảng một thứ mà chính mình cũng",
+    "textdich": ""
+  },
+  {
+    "start": 307.909,
+    "end": 310.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 307.919,
+    "end": 312.36,
+    "text": "không nắm vững. Và khi giáo viên không",
+    "textdich": ""
+  },
+  {
+    "start": 310.31,
+    "end": 312.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 310.32,
+    "end": 314.68,
+    "text": "hiểu thì bài giảng biến thành việc đọc",
+    "textdich": ""
+  },
+  {
+    "start": 312.35,
+    "end": 314.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 312.36,
+    "end": 317.039,
+    "text": "thuộc lòng thuật ngữ mới, tập hợp, cấu",
+    "textdich": ""
+  },
+  {
+    "start": 314.67,
+    "end": 317.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 314.68,
+    "end": 319.56,
+    "text": "trúc, cơ số mà không có sự thấu hiểu",
+    "textdich": ""
+  },
+  {
+    "start": 317.029,
+    "end": 319.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 317.039,
+    "end": 322.039,
+    "text": "thật sự đằng  sau.",
+    "textdich": ""
+  },
+  {
+    "start": 319.55,
+    "end": 322.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 319.56,
+    "end": 325.24,
+    "text": "Hậu quả tiếp theo, học sinh mang bài tập",
+    "textdich": ""
+  },
+  {
+    "start": 322.029,
+    "end": 325.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 322.039,
+    "end": 327.0,
+    "text": "về nhà và phụ huynh, những người từng đi",
+    "textdich": ""
+  },
+  {
+    "start": 325.23,
+    "end": 327.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 325.24,
+    "end": 329.919,
+    "text": "học theo lối truyền thống hoàn toàn",
+    "textdich": ""
+  },
+  {
+    "start": 326.99,
+    "end": 329.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 327.0,
+    "end": 331.433,
+    "text": "không thể hiểu nổi con mình đang làm gì.",
+    "textdich": ""
+  },
+  {
+    "start": 329.909,
+    "end": 331.433,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 329.919,
+    "end": 332.08,
+    "text": "Nhà toán học Kim Nhạc sĩ trào phúng",
+    "textdich": ""
+  },
+  {
+    "start": 331.423,
+    "end": 332.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 331.433,
+    "end": 336.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 332.07,
+    "end": 336.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 332.08,
+    "end": 337.96,
+    "text": "Tom Lar vào năm 1965 thậm chí đã sáng",
+    "textdich": ""
+  },
+  {
+    "start": 336.35,
+    "end": 337.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 336.36,
+    "end": 341.4,
+    "text": "tác một bài hát châm  biếm mang",
+    "textdich": ""
+  },
+  {
+    "start": 337.95,
+    "end": 341.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 337.96,
+    "end": 344.759,
+    "text": "tên New Math chế giễu chính cái ngôn ngữ",
+    "textdich": ""
+  },
+  {
+    "start": 341.39,
+    "end": 344.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 341.4,
+    "end": 346.16,
+    "text": "tối nghĩa mà chương trình này tạo ra.",
+    "textdich": ""
+  },
+  {
+    "start": 344.749,
+    "end": 346.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 344.759,
+    "end": 348.039,
+    "text": "Bài hát trở  thành hiện tượng",
+    "textdich": ""
+  },
+  {
+    "start": 346.15,
+    "end": 348.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 346.16,
+    "end": 351.479,
+    "text": "vì nó nói trúng nỗi bức xúc của hàng",
+    "textdich": ""
+  },
+  {
+    "start": 348.029,
+    "end": 351.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 348.039,
+    "end": 354.16,
+    "text": "triệu phụ huynh Mỹ lúc bấy giờ.",
+    "textdich": ""
+  },
+  {
+    "start": 351.469,
+    "end": 354.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 351.479,
+    "end": 356.479,
+    "text": "Làn sóng phản đối lan rộng nhưng đòn",
+    "textdich": ""
+  },
+  {
+    "start": 354.15,
+    "end": 356.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 354.16,
+    "end": 358.68,
+    "text": "dáng chí mạng thực sự đến từ dữ liệu.",
+    "textdich": ""
+  },
+  {
+    "start": 356.469,
+    "end": 358.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 356.479,
+    "end": 361.28,
+    "text": "Một khảo sát toán học quốc tế đầu tiên",
+    "textdich": ""
+  },
+  {
+    "start": 358.67,
+    "end": 361.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 358.68,
+    "end": 365.28,
+    "text": "với sự tham gia của 12 quốc gia công bố",
+    "textdich": ""
+  },
+  {
+    "start": 361.27,
+    "end": 365.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 361.28,
+    "end": 367.52,
+    "text": "kết quả năm 1967  cho thấy học",
+    "textdich": ""
+  },
+  {
+    "start": 365.27,
+    "end": 367.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 365.28,
+    "end": 369.639,
+    "text": "sinh Mỹ vẫn tụt hậu so với học sinh ở",
+    "textdich": ""
+  },
+  {
+    "start": 367.51,
+    "end": 369.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 367.52,
+    "end": 372.52,
+    "text": "nhiều nước phương Tây khác về kỹ năng",
+    "textdich": ""
+  },
+  {
+    "start": 369.629,
+    "end": 372.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 369.639,
+    "end": 374.96,
+    "text": "toán học cơ bản. Đây chính là nghịch lý",
+    "textdich": ""
+  },
+  {
+    "start": 372.51,
+    "end": 374.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 372.52,
+    "end": 377.039,
+    "text": "cay đắng nhất của New Math. Chương trình",
+    "textdich": ""
+  },
+  {
+    "start": 374.95,
+    "end": 377.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 374.96,
+    "end": 380.0,
+    "text": "được sinh ra để giúp nước Mỹ không thua",
+    "textdich": ""
+  },
+  {
+    "start": 377.029,
+    "end": 380.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 377.039,
+    "end": 382.56,
+    "text": "kém ai về khoa học. Nhưng chín những con",
+    "textdich": ""
+  },
+  {
+    "start": 379.99,
+    "end": 382.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 380.0,
+    "end": 385.96,
+    "text": "số thống kê lại cho thấy học sinh Mỹ",
+    "textdich": ""
+  },
+  {
+    "start": 382.55,
+    "end": 385.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 382.56,
+    "end": 389.36,
+    "text": "đang yếu đi, không phải mạnh lên.",
+    "textdich": ""
+  },
+  {
+    "start": 385.95,
+    "end": 389.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 385.96,
+    "end": 391.72,
+    "text": "Giữa thập niên 1970, làn sóng chỉ trích",
+    "textdich": ""
+  },
+  {
+    "start": 389.35,
+    "end": 391.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 389.36,
+    "end": 394.639,
+    "text": "lên đến đỉnh điểm. Một cuốn sách mang",
+    "textdich": ""
+  },
+  {
+    "start": 391.71,
+    "end": 394.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 391.72,
+    "end": 397.12,
+    "text": "tên Why Johnny Can't Add? Tại sao Johnny",
+    "textdich": ""
+  },
+  {
+    "start": 394.629,
+    "end": 397.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 394.639,
+    "end": 398.8,
+    "text": "không biết cộng ra đời đóng vai trò như",
+    "textdich": ""
+  },
+  {
+    "start": 397.11,
+    "end": 398.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 397.12,
+    "end": 402.12,
+    "text": "bản cáo trạng cuối cùng dành cho New",
+    "textdich": ""
+  },
+  {
+    "start": 398.79,
+    "end": 402.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 398.8,
+    "end": 403.8,
+    "text": "Math. Chương trình bị dẹp bỏ. Nước Mỹ",
+    "textdich": ""
+  },
+  {
+    "start": 402.11,
+    "end": 403.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 402.12,
+    "end": 406.639,
+    "text": "quay về với một triết lý hoàn toàn ngược",
+    "textdich": ""
+  },
+  {
+    "start": 403.79,
+    "end": 406.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 403.8,
+    "end": 409.28,
+    "text": "lại. Back to basics. Quay về những điều",
+    "textdich": ""
+  },
+  {
+    "start": 406.629,
+    "end": 409.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 406.639,
+    "end": 412.52,
+    "text": "cơ bản. Trọng tâm một lần nữa chuyển về",
+    "textdich": ""
+  },
+  {
+    "start": 409.27,
+    "end": 412.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 409.28,
+    "end": 413.84,
+    "text": "tính toán, công thức và ghi nhớ. Nhưng",
+    "textdich": ""
+  },
+  {
+    "start": 412.51,
+    "end": 413.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 412.52,
+    "end": 416.16,
+    "text": "có  một điều quan trọng cần làm",
+    "textdich": ""
+  },
+  {
+    "start": 413.83,
+    "end": 416.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 413.84,
+    "end": 417.56,
+    "text": "rõ. Đây không phải là câu chuyện người",
+    "textdich": ""
+  },
+  {
+    "start": 416.15,
+    "end": 417.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 416.16,
+    "end": 420.0,
+    "text": "ta thử rồi nhận ra không  cần",
+    "textdich": ""
+  },
+  {
+    "start": 417.55,
+    "end": 420.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 417.56,
+    "end": 421.824,
+    "text": "thiết. Đây là câu chuyện một hệ thống",
+    "textdich": ""
+  },
+  {
+    "start": 419.99,
+    "end": 421.824,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 420.0,
+    "end": 423.319,
+    "text": "giáo dục đại chúng với hàng chục triệu",
+    "textdich": ""
+  },
+  {
+    "start": 421.814,
+    "end": 423.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 421.824,
+    "end": 425.319,
+    "text": " học sinh, hàng trăm nghìn giáo",
+    "textdich": ""
+  },
+  {
+    "start": 423.309,
+    "end": 425.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 423.319,
+    "end": 427.52,
+    "text": "viên cần được đào tạo và chấm điểm đồng",
+    "textdich": ""
+  },
+  {
+    "start": 425.309,
+    "end": 427.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 425.319,
+    "end": 429.68,
+    "text": "loạt. Đã từ chối một cách tiếp cận toán",
+    "textdich": ""
+  },
+  {
+    "start": 427.51,
+    "end": 429.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 427.52,
+    "end": 434.72,
+    "text": "học sâu  sắc hơn, đơn giản vì",
+    "textdich": ""
+  },
+  {
+    "start": 429.67,
+    "end": 434.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 429.68,
+    "end": 434.72,
+    "text": "nó quá khó để triển khai ở quy mô lớn.",
+    "textdich": ""
+  },
+  {
+    "start": 437.534,
+    "end": 437.534,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 437.544,
+    "end": 439.564,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 440.469,
+    "end": 440.469,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 440.479,
+    "end": 444.4,
+    "text": "Sau khi Newth sụp đổ, một câu hỏi lớn",
+    "textdich": ""
+  },
+  {
+    "start": 442.909,
+    "end": 444.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 442.919,
+    "end": 446.8,
+    "text": "hơn được đặt  ra.",
+    "textdich": ""
+  },
+  {
+    "start": 444.39,
+    "end": 446.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 444.4,
+    "end": 449.479,
+    "text": "Nếu cả hai Thái Cực, Toán thuần túy tính",
+    "textdich": ""
+  },
+  {
+    "start": 446.79,
+    "end": 449.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 446.8,
+    "end": 451.319,
+    "text": "toán và toán thuần túy tư duy cấu trúc",
+    "textdich": ""
+  },
+  {
+    "start": 449.469,
+    "end": 451.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 449.479,
+    "end": 454.28,
+    "text": "đều có vấn  đề thì đâu là hướng",
+    "textdich": ""
+  },
+  {
+    "start": 451.309,
+    "end": 454.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 451.319,
+    "end": 457.36,
+    "text": "đi đúng? Thực tế nước Mỹ không tìm ra",
+    "textdich": ""
+  },
+  {
+    "start": 454.27,
+    "end": 457.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 454.28,
+    "end": 459.599,
+    "text": "câu trả lời hoàn hảo. Back to basics chỉ",
+    "textdich": ""
+  },
+  {
+    "start": 457.35,
+    "end": 459.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 457.36,
+    "end": 462.08,
+    "text": "đơn giản là một sự quay đầu ưu tiên thứ",
+    "textdich": ""
+  },
+  {
+    "start": 459.589,
+    "end": 462.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 459.599,
+    "end": 463.745,
+    "text": "dễ dạy, dễ chấm điểm, dễ chuẩn hóa trên",
+    "textdich": ""
+  },
+  {
+    "start": 462.07,
+    "end": 463.745,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 462.08,
+    "end": 466.039,
+    "text": "diện rộng hơn là thứ mang lại chiều",
+    "textdich": ""
+  },
+  {
+    "start": 463.735,
+    "end": 466.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 463.745,
+    "end": 468.33,
+    "text": " sâu tư duy thật sự. Và mô hình",
+    "textdich": ""
+  },
+  {
+    "start": 466.029,
+    "end": 468.33,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 466.039,
+    "end": 470.4,
+    "text": "đó, toán học như một tập hợp kỹ năng",
+    "textdich": ""
+  },
+  {
+    "start": 468.32,
+    "end": 470.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 468.33,
+    "end": 472.84,
+    "text": " tính toán có thể kiểm tra bằng",
+    "textdich": ""
+  },
+  {
+    "start": 470.39,
+    "end": 472.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 470.4,
+    "end": 475.879,
+    "text": "bài thi chuẩn hóa, dần trở thành khuôn",
+    "textdich": ""
+  },
+  {
+    "start": 472.83,
+    "end": 475.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 472.84,
+    "end": 477.68,
+    "text": "mẫu mặc định. không chỉ ở Mỹ mà lan rộng",
+    "textdich": ""
+  },
+  {
+    "start": 475.869,
+    "end": 477.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 475.879,
+    "end": 479.319,
+    "text": "ra ảnh hưởng đến cách nhiều hệ thống",
+    "textdich": ""
+  },
+  {
+    "start": 477.67,
+    "end": 479.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 477.68,
+    "end": 482.68,
+    "text": "giáo dục trên  thế giới thiết",
+    "textdich": ""
+  },
+  {
+    "start": 479.309,
+    "end": 482.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 479.319,
+    "end": 484.8,
+    "text": "kế chương trình toán học của mình.",
+    "textdich": ""
+  },
+  {
+    "start": 482.67,
+    "end": 484.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 482.68,
+    "end": 486.759,
+    "text": "Điều đáng chú ý là đây không ",
+    "textdich": ""
+  },
+  {
+    "start": 484.79,
+    "end": 486.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 484.8,
+    "end": 489.08,
+    "text": "phải lần đầu tiên một hệ thống giáo dục",
+    "textdich": ""
+  },
+  {
+    "start": 486.749,
+    "end": 489.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 486.759,
+    "end": 492.24,
+    "text": "đại chúng phải đánh đổi chiều sâu để lấy",
+    "textdich": ""
+  },
+  {
+    "start": 489.07,
+    "end": 492.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 489.08,
+    "end": 494.319,
+    "text": "khả năng vận hành ở quy mô lớn. Logic",
+    "textdich": ""
+  },
+  {
+    "start": 492.23,
+    "end": 494.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 492.24,
+    "end": 496.479,
+    "text": "tương tự cũng từng xuất hiện khi các môn",
+    "textdich": ""
+  },
+  {
+    "start": 494.309,
+    "end": 496.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 494.319,
+    "end": 499.199,
+    "text": "học ở bậc trung học bị phân chia tách",
+    "textdich": ""
+  },
+  {
+    "start": 496.469,
+    "end": 499.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 496.479,
+    "end": 501.08,
+    "text": "biệt  vào cuối thế kỷ 19. Việc",
+    "textdich": ""
+  },
+  {
+    "start": 499.189,
+    "end": 501.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 499.199,
+    "end": 503.0,
+    "text": "chuẩn hóa để dạy được cho hàng triệu học",
+    "textdich": ""
+  },
+  {
+    "start": 501.07,
+    "end": 503.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 501.08,
+    "end": 506.24,
+    "text": "sinh luôn đi  kèm cái giá phải",
+    "textdich": ""
+  },
+  {
+    "start": 502.99,
+    "end": 506.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 503.0,
+    "end": 508.319,
+    "text": "trả. Cần nói rõ đây là một điểm tương",
+    "textdich": ""
+  },
+  {
+    "start": 506.23,
+    "end": 508.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 506.24,
+    "end": 510.56,
+    "text": "đồng về mô tip  lịch sử chứ",
+    "textdich": ""
+  },
+  {
+    "start": 508.309,
+    "end": 510.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 508.319,
+    "end": 513.039,
+    "text": "không phải một mối quan hệ nhân quả trực",
+    "textdich": ""
+  },
+  {
+    "start": 510.55,
+    "end": 513.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 510.56,
+    "end": 515.039,
+    "text": "tiếp giữa hai sự kiện.  New",
+    "textdich": ""
+  },
+  {
+    "start": 513.029,
+    "end": 515.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 513.039,
+    "end": 517.68,
+    "text": "thất bại không đồng nghĩa với việc toán",
+    "textdich": ""
+  },
+  {
+    "start": 515.029,
+    "end": 517.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 515.039,
+    "end": 520.32,
+    "text": "phổ thông ngày nay hoàn toàn là hậu quả",
+    "textdich": ""
+  },
+  {
+    "start": 517.67,
+    "end": 520.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 517.68,
+    "end": 523.08,
+    "text": "của riêng biến cố đó. Nhưng  nó",
+    "textdich": ""
+  },
+  {
+    "start": 520.31,
+    "end": 523.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 520.32,
+    "end": 524.88,
+    "text": "là một tiền lệ rõ ràng cho thấy mỗi khi",
+    "textdich": ""
+  },
+  {
+    "start": 523.07,
+    "end": 524.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 523.08,
+    "end": 527.32,
+    "text": "giáo dục phải chọn giữa dạy đúng bản",
+    "textdich": ""
+  },
+  {
+    "start": 524.87,
+    "end": 527.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 524.88,
+    "end": 529.246,
+    "text": "chất và dạy được cho số đông. Phần thắng",
+    "textdich": ""
+  },
+  {
+    "start": 527.31,
+    "end": 529.246,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 527.32,
+    "end": 531.266,
+    "text": "gần như luôn thuộc về vế thứ hai.",
+    "textdich": ""
+  },
+  {
+    "start": 529.236,
+    "end": 531.266,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 529.246,
+    "end": 531.266,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 531.509,
+    "end": 531.509,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 531.519,
+    "end": 536.2,
+    "text": "Quay lại câu hỏi ở đầu video. Toán học",
+    "textdich": ""
+  },
+  {
+    "start": 533.389,
+    "end": 536.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 533.399,
+    "end": 537.6,
+    "text": "là gì? Sau tất cả những gì vừa xem, có",
+    "textdich": ""
+  },
+  {
+    "start": 536.19,
+    "end": 537.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 536.2,
+    "end": 540.6,
+    "text": "lẽ câu hỏi đáng suy  nghĩ hơn",
+    "textdich": ""
+  },
+  {
+    "start": 537.59,
+    "end": 540.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 537.6,
+    "end": 542.399,
+    "text": "không phải là toán học là gì mà là 12",
+    "textdich": ""
+  },
+  {
+    "start": 540.59,
+    "end": 542.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 540.6,
+    "end": 544.68,
+    "text": "năm phổ thông vừa qua,  bạn đã",
+    "textdich": ""
+  },
+  {
+    "start": 542.389,
+    "end": 544.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 542.399,
+    "end": 546.76,
+    "text": "thực sự học toán học hay chỉ đang học",
+    "textdich": ""
+  },
+  {
+    "start": 544.67,
+    "end": 546.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 544.68,
+    "end": 549.76,
+    "text": "một tập hợp kỹ năng tính toán được chuẩn",
+    "textdich": ""
+  },
+  {
+    "start": 546.75,
+    "end": 549.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 546.76,
+    "end": 551.6,
+    "text": "hóa để dễ chấm điểm hàng loạt?",
+    "textdich": ""
+  },
+  {
+    "start": 549.75,
+    "end": 551.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 549.76,
+    "end": 553.0,
+    "text": "Đây không phải là câu hỏi để chê trách",
+    "textdich": ""
+  },
+  {
+    "start": 551.59,
+    "end": 553.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 551.6,
+    "end": 556.079,
+    "text": "hệ thống giáo dục mà bạn từng ",
+    "textdich": ""
+  },
+  {
+    "start": 552.99,
+    "end": 556.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 553.0,
+    "end": 558.721,
+    "text": "trải qua. Nó là kết quả của một sự thỏa",
+    "textdich": ""
+  },
+  {
+    "start": 556.069,
+    "end": 558.721,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 556.079,
+    "end": 560.279,
+    "text": "hiệp lịch sử, một sự đánh đổi mà nước Mỹ",
+    "textdich": ""
+  },
+  {
+    "start": 558.711,
+    "end": 560.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 558.721,
+    "end": 563.44,
+    "text": " và sau đó là nhiều nơi khác",
+    "textdich": ""
+  },
+  {
+    "start": 560.269,
+    "end": 563.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 560.279,
+    "end": 565.279,
+    "text": "trên thế giới đã lựa chọn từ hơn nửa thế",
+    "textdich": ""
+  },
+  {
+    "start": 563.43,
+    "end": 565.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 563.44,
+    "end": 566.581,
+    "text": "kỷ trước.",
+    "textdich": ""
+  },
+  {
+    "start": 565.269,
+    "end": 566.581,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 565.279,
+    "end": 568.839,
+    "text": "Nhưng biết được nguồn gốc của sự",
+    "textdich": ""
+  },
+  {
+    "start": 566.571,
+    "end": 568.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 566.581,
+    "end": 570.8,
+    "text": " đánh đổi đó có lẽ cũng đủ để",
+    "textdich": ""
+  },
+  {
+    "start": 568.829,
+    "end": 570.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 568.839,
+    "end": 574.24,
+    "text": "bạn nhìn lại trải nghiệm học toán của",
+    "textdich": ""
+  },
+  {
+    "start": 570.79,
+    "end": 574.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 570.8,
+    "end": 575.64,
+    "text": "chính mình bằng một góc nhìn khác.",
+    "textdich": ""
+  },
+  {
+    "start": 574.23,
+    "end": 575.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 574.24,
+    "end": 577.92,
+    "text": "Nếu  bạn từng nghĩ mình không",
+    "textdich": ""
+  },
+  {
+    "start": 575.63,
+    "end": 577.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 575.64,
+    "end": 580.76,
+    "text": "có gen toán học, có lẽ điều bạn từng",
+    "textdich": ""
+  },
+  {
+    "start": 577.91,
+    "end": 580.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 577.92,
+    "end": 582.88,
+    "text": "ghét không phải là toán học mà là một",
+    "textdich": ""
+  },
+  {
+    "start": 580.75,
+    "end": 582.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 580.76,
+    "end": 585.88,
+    "text": "phiên bản rút gọn của nó.  Vậy",
+    "textdich": ""
+  },
+  {
+    "start": 582.87,
+    "end": 585.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 582.88,
+    "end": 587.56,
+    "text": "còn bạn? 12 năm học toán ở trường, bạn",
+    "textdich": ""
+  },
+  {
+    "start": 585.87,
+    "end": 587.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 585.88,
+    "end": 590.8,
+    "text": "nghĩ mình đã học được bao nhiêu phần",
+    "textdich": ""
+  },
+  {
+    "start": 587.55,
+    "end": 590.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 587.56,
+    "end": 593.279,
+    "text": "trăm của toán học thật sự?",
+    "textdich": ""
+  },
+  {
+    "start": 590.79,
+    "end": 593.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 590.8,
+    "end": 593.279,
+    "text": "Đ",
+    "textdich": ""
+  }
+]
