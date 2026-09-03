@@ -1,0 +1,392 @@
+[
+  {
+    "start": 1.08,
+    "end": 5.6,
+    "text": "Ma'am, how much is a meal?",
+    "textdich": ""
+  },
+  {
+    "start": 3.67,
+    "end": 5.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 3.68,
+    "end": 7.44,
+    "text": " $18.",
+    "textdich": ""
+  },
+  {
+    "start": 5.59,
+    "end": 7.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 5.6,
+    "end": 9.4,
+    "text": " I only have eight.",
+    "textdich": ""
+  },
+  {
+    "start": 7.43,
+    "end": 9.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 7.44,
+    "end": 12.08,
+    "text": " I'm sorry, that's not enough.",
+    "textdich": ""
+  },
+  {
+    "start": 9.39,
+    "end": 12.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 9.4,
+    "end": 12.88,
+    "text": " It's okay. It was for my grandpa.",
+    "textdich": ""
+  },
+  {
+    "start": 12.07,
+    "end": 12.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 12.08,
+    "end": 14.28,
+    "text": " Your grandpa?",
+    "textdich": ""
+  },
+  {
+    "start": 12.87,
+    "end": 14.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 12.88,
+    "end": 17.8,
+    "text": " He's been sitting over there since",
+    "textdich": ""
+  },
+  {
+    "start": 14.27,
+    "end": 17.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 14.28,
+    "end": 20.32,
+    "text": "yesterday without anything to eat.",
+    "textdich": ""
+  },
+  {
+    "start": 17.79,
+    "end": 20.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 17.8,
+    "end": 21.68,
+    "text": " Wait a moment.",
+    "textdich": ""
+  },
+  {
+    "start": 20.31,
+    "end": 21.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 20.32,
+    "end": 23.16,
+    "text": "Take this meal.",
+    "textdich": ""
+  },
+  {
+    "start": 21.67,
+    "end": 23.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 21.68,
+    "end": 24.44,
+    "text": " Thank you so much.",
+    "textdich": ""
+  },
+  {
+    "start": 23.15,
+    "end": 24.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 23.16,
+    "end": 26.32,
+    "text": " Take a juice, too.",
+    "textdich": ""
+  },
+  {
+    "start": 24.43,
+    "end": 26.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 24.44,
+    "end": 27.88,
+    "text": " You don't have to. This is already",
+    "textdich": ""
+  },
+  {
+    "start": 26.31,
+    "end": 27.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 26.32,
+    "end": 30.56,
+    "text": "enough.",
+    "textdich": ""
+  },
+  {
+    "start": 27.87,
+    "end": 30.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 27.88,
+    "end": 33.2,
+    "text": " What's your name?",
+    "textdich": ""
+  },
+  {
+    "start": 30.55,
+    "end": 33.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 30.56,
+    "end": 35.04,
+    "text": " Lucas.",
+    "textdich": ""
+  },
+  {
+    "start": 33.19,
+    "end": 35.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 33.2,
+    "end": 37.64,
+    "text": " Where are your parents?",
+    "textdich": ""
+  },
+  {
+    "start": 35.03,
+    "end": 37.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 35.04,
+    "end": 39.28,
+    "text": " I live on the streets with my grandpa.",
+    "textdich": ""
+  },
+  {
+    "start": 37.63,
+    "end": 39.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 37.64,
+    "end": 41.12,
+    "text": "Ever since my parents died, he's been",
+    "textdich": ""
+  },
+  {
+    "start": 39.27,
+    "end": 41.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 39.28,
+    "end": 43.12,
+    "text": "taking care of me.",
+    "textdich": ""
+  },
+  {
+    "start": 41.11,
+    "end": 43.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 41.12,
+    "end": 44.96,
+    "text": " Today, I'm going to take care of both of",
+    "textdich": ""
+  },
+  {
+    "start": 43.11,
+    "end": 44.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 43.12,
+    "end": 47.4,
+    "text": "you.",
+    "textdich": ""
+  },
+  {
+    "start": 44.95,
+    "end": 47.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 44.96,
+    "end": 48.56,
+    "text": " What do you mean?",
+    "textdich": ""
+  },
+  {
+    "start": 47.39,
+    "end": 48.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 47.4,
+    "end": 50.72,
+    "text": " I have a room in the back of the",
+    "textdich": ""
+  },
+  {
+    "start": 48.55,
+    "end": 50.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 48.56,
+    "end": 53.96,
+    "text": "restaurant. You can stay there until you",
+    "textdich": ""
+  },
+  {
+    "start": 50.71,
+    "end": 53.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 50.72,
+    "end": 57.64,
+    "text": "can get back on your feet.",
+    "textdich": ""
+  },
+  {
+    "start": 53.95,
+    "end": 57.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 53.96,
+    "end": 57.64,
+    "text": " You would really do that for us?",
+    "textdich": ""
+  },
+  {
+    "start": 57.67,
+    "end": 57.67,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 57.68,
+    "end": 63.24,
+    "text": " Someone once saved my life.",
+    "textdich": ""
+  },
+  {
+    "start": 60.91,
+    "end": 63.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 60.92,
+    "end": 64.559,
+    "text": "Today, I'm just passing on the kindness",
+    "textdich": ""
+  },
+  {
+    "start": 63.23,
+    "end": 64.559,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 63.24,
+    "end": 66.4,
+    "text": "I received.",
+    "textdich": ""
+  },
+  {
+    "start": 64.549,
+    "end": 66.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 64.559,
+    "end": 69.0,
+    "text": " Never ignore someone going through a",
+    "textdich": ""
+  },
+  {
+    "start": 66.39,
+    "end": 69.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 66.4,
+    "end": 73.28,
+    "text": "difficult time. One small act of",
+    "textdich": ""
+  },
+  {
+    "start": 68.99,
+    "end": 73.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 69.0,
+    "end": 73.28,
+    "text": "kindness can change a life forever.",
+    "textdich": ""
+  }
+]
