@@ -1,0 +1,296 @@
+[
+  {
+    "start": 1.56,
+    "end": 3.72,
+    "text": "Excuse me, I think you're sitting in my",
+    "textdich": ""
+  },
+  {
+    "start": 3.03,
+    "end": 3.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 3.04,
+    "end": 4.48,
+    "text": "seat.",
+    "textdich": ""
+  },
+  {
+    "start": 3.71,
+    "end": 4.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 3.72,
+    "end": 7.48,
+    "text": " Oh, really?",
+    "textdich": ""
+  },
+  {
+    "start": 4.47,
+    "end": 7.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 4.48,
+    "end": 10.4,
+    "text": " Yes, this is seat 18A.",
+    "textdich": ""
+  },
+  {
+    "start": 7.47,
+    "end": 10.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 7.48,
+    "end": 12.48,
+    "text": " Let me check my ticket.",
+    "textdich": ""
+  },
+  {
+    "start": 10.39,
+    "end": 12.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 10.4,
+    "end": 14.12,
+    "text": "My ticket says 18A, too.",
+    "textdich": ""
+  },
+  {
+    "start": 12.47,
+    "end": 14.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 12.48,
+    "end": 16.0,
+    "text": " Really? Let me see.",
+    "textdich": ""
+  },
+  {
+    "start": 14.11,
+    "end": 16.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 14.12,
+    "end": 18.16,
+    "text": " Here, look.",
+    "textdich": ""
+  },
+  {
+    "start": 15.99,
+    "end": 18.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 16.0,
+    "end": 20.28,
+    "text": " That's strange.",
+    "textdich": ""
+  },
+  {
+    "start": 18.15,
+    "end": 20.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 18.16,
+    "end": 22.16,
+    "text": "We both have 18A.",
+    "textdich": ""
+  },
+  {
+    "start": 20.27,
+    "end": 22.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 20.28,
+    "end": 24.36,
+    "text": " How is that possible?",
+    "textdich": ""
+  },
+  {
+    "start": 22.15,
+    "end": 24.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 22.16,
+    "end": 26.56,
+    "text": " Maybe there's been a mistake.",
+    "textdich": ""
+  },
+  {
+    "start": 24.35,
+    "end": 26.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 24.36,
+    "end": 29.52,
+    "text": " We should ask the flight attendant.",
+    "textdich": ""
+  },
+  {
+    "start": 26.55,
+    "end": 29.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 26.56,
+    "end": 31.72,
+    "text": "Excuse me, could you help us?",
+    "textdich": ""
+  },
+  {
+    "start": 29.51,
+    "end": 31.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 29.52,
+    "end": 33.84,
+    "text": " Of course. What seems to be the problem?",
+    "textdich": ""
+  },
+  {
+    "start": 31.71,
+    "end": 33.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 31.72,
+    "end": 37.16,
+    "text": " We both have seat 18A.",
+    "textdich": ""
+  },
+  {
+    "start": 33.83,
+    "end": 37.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 33.84,
+    "end": 37.16,
+    "text": " Let me check your tickets.",
+    "textdich": ""
+  },
+  {
+    "start": 38.03,
+    "end": 38.03,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 38.04,
+    "end": 41.8,
+    "text": "I see the problem.",
+    "textdich": ""
+  },
+  {
+    "start": 39.83,
+    "end": 41.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 39.84,
+    "end": 44.84,
+    "text": " What happened?",
+    "textdich": ""
+  },
+  {
+    "start": 41.79,
+    "end": 44.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 41.8,
+    "end": 46.56,
+    "text": " Your seat is actually 18B.",
+    "textdich": ""
+  },
+  {
+    "start": 44.83,
+    "end": 46.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 44.84,
+    "end": 48.52,
+    "text": " Oh, I see.",
+    "textdich": ""
+  },
+  {
+    "start": 46.55,
+    "end": 48.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 46.56,
+    "end": 50.0,
+    "text": "I'm really sorry  about that.",
+    "textdich": ""
+  },
+  {
+    "start": 48.51,
+    "end": 50.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 48.52,
+    "end": 52.0,
+    "text": " That's okay.",
+    "textdich": ""
+  },
+  {
+    "start": 49.99,
+    "end": 52.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 50.0,
+    "end": 55.88,
+    "text": " I didn't notice the seat number.",
+    "textdich": ""
+  },
+  {
+    "start": 51.99,
+    "end": 55.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 52.0,
+    "end": 55.88,
+    "text": " No problem. It happens.",
+    "textdich": ""
+  }
+]
