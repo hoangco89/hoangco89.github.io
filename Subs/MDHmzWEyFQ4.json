@@ -1,0 +1,1658 @@
+[
+  {
+    "start": 0.166,
+    "end": 4.8,
+    "text": "Chào các cô bác đang theo dõi kênh Càng Già Càng Khỏe, tôi là bác sĩ Tuấn Khang.",
+    "textdich": ""
+  },
+  {
+    "start": 5.2,
+    "end": 10.7,
+    "text": "Có một sự thật rất phũ phàng thế này mà có lẽ nhiều cô bác đang âm thầm cảm nhận được mỗi ngày.",
+    "textdich": ""
+  },
+  {
+    "start": 11.266,
+    "end": 15.4,
+    "text": "Sau tuổi 60, dù cô bác không ốm đau gì, không mắc bệnh nan y,",
+    "textdich": ""
+  },
+  {
+    "start": 15.7,
+    "end": 18.866,
+    "text": "cơ bắp trên cơ thể chúng ta vẫn đang âm thầm teo đi.",
+    "textdich": ""
+  },
+  {
+    "start": 19.366,
+    "end": 22.933,
+    "text": "Cô bác có thấy dạo này bắp tay mình lỏng lẻo hơn trước không?",
+    "textdich": ""
+  },
+  {
+    "start": 23.533,
+    "end": 28.966,
+    "text": "Đôi chân bước lên cầu thang bắt đầu run rẩy, đi chợ xách túi đồ một lát là mỏi nhừ,",
+    "textdich": ""
+  },
+  {
+    "start": 29.366,
+    "end": 33.966,
+    "text": "hay đơn giản là khi ngồi xổm đứng lên phải vịn tay vào ghế mới đứng vững được.",
+    "textdich": ""
+  },
+  {
+    "start": 34.333,
+    "end": 39.7,
+    "text": "Nhiều người tặc lưỡi cho qua, nghĩ rằng ôi già rồi thì xương cốt nó rệu rã,",
+    "textdich": ""
+  },
+  {
+    "start": 40.1,
+    "end": 43.6,
+    "text": "chân tay nó yếu đi là chuyện đương nhiên. Nhưng thưa cô bác,",
+    "textdich": ""
+  },
+  {
+    "start": 43.766,
+    "end": 49.7,
+    "text": "đó không đơn thuần chỉ là dấu hiệu tuổi già, y học gọi đó là chứng teo cơ sụt cân ở người lớn tuổi.",
+    "textdich": ""
+  },
+  {
+    "start": 50.333,
+    "end": 55.6,
+    "text": "Nó cực kỳ nguy hiểm bởi nó chính là nguyên nhân hàng đầu dẫn đến té ngã, gãy xương,",
+    "textdich": ""
+  },
+  {
+    "start": 55.733,
+    "end": 61.2,
+    "text": "và thậm chí là phải nằm liệt giường. Nhưng tin vui là quá trình này hoàn toàn có thể đảo ngược được.",
+    "textdich": ""
+  },
+  {
+    "start": 61.566,
+    "end": 66.166,
+    "text": "Không cần sâm nhung nấm yến đắt tiền, không cần những loại thuốc nhập ngoại khó tìm.",
+    "textdich": ""
+  },
+  {
+    "start": 66.7,
+    "end": 70.666,
+    "text": "Chỉ với một loại thực phẩm cực kỳ rẻ tiền, có sẵn trong bếp nhà nào cũng có,",
+    "textdich": ""
+  },
+  {
+    "start": 71.2,
+    "end": 75.166,
+    "text": "cô bác có thể giúp cơ bắp phục hồi lại độ săn chắc một cách đáng kinh ngạc.",
+    "textdich": ""
+  },
+  {
+    "start": 75.666,
+    "end": 81.466,
+    "text": "Cô bác có đoán được đó là món gì không? Hãy nán lại vài phút, pha một tách trà ấm,",
+    "textdich": ""
+  },
+  {
+    "start": 81.933,
+    "end": 85.9,
+    "text": "ngồi xuống đây và nghe tôi chia sẻ. Tôi sẽ bật mí ngay sau đây,",
+    "textdich": ""
+  },
+  {
+    "start": 86.333,
+    "end": 91.466,
+    "text": "và chắc chắn cô bác sẽ vô cùng bất ngờ. Trước khi nói về thực phẩm tuyệt vời đó,",
+    "textdich": ""
+  },
+  {
+    "start": 92.066,
+    "end": 96.7,
+    "text": "chúng ta cần phải hiểu rõ tại sao chân tay chúng ta lại yếu đi nhanh đến vậy.",
+    "textdich": ""
+  },
+  {
+    "start": 97.5,
+    "end": 100.9,
+    "text": "Nhiều người nghĩ rằng già rồi thì yếu là đương nhiên,",
+    "textdich": ""
+  },
+  {
+    "start": 101.4,
+    "end": 107.333,
+    "text": "giống như cái máy chạy lâu ngày thì phải hỏng. Nhưng khoa học gọi hiện tượng này là Sarcopenia,",
+    "textdich": ""
+  },
+  {
+    "start": 107.8,
+    "end": 113.066,
+    "text": "chứng suy giảm khối lượng cơ do tuổi tác. Thực chất quá trình mất cơ bắp này",
+    "textdich": ""
+  },
+  {
+    "start": 113.266,
+    "end": 119.3,
+    "text": "không phải đợi đến năm 60 tuổi mới bắt đầu. Bắt đầu từ năm 30 tuổi, mỗi thập kỷ trôi qua,",
+    "textdich": ""
+  },
+  {
+    "start": 119.733,
+    "end": 124.366,
+    "text": "chúng ta đã mất đi khoảng 3 đến 5% khối lượng cơ bắp. Nhưng sau 60 tuổi,",
+    "textdich": ""
+  },
+  {
+    "start": 124.766,
+    "end": 128.966,
+    "text": "tốc độ teo cơ này tăng nhanh gấp đôi gấp ba lần. Nguyên nhân tại sao?",
+    "textdich": ""
+  },
+  {
+    "start": 129.466,
+    "end": 133.6,
+    "text": "Đó là do khi tuổi càng cao, hệ tiêu hóa của người lớn tuổi càng kém đi.",
+    "textdich": ""
+  },
+  {
+    "start": 134.333,
+    "end": 137.366,
+    "text": "Khả năng hấp thu và tổng hợp protein,",
+    "textdich": ""
+  },
+  {
+    "start": 137.8,
+    "end": 141.366,
+    "text": "tức là chất đạm để nuôi cơ bắp bị suy giảm nghiêm trọng.",
+    "textdich": ""
+  },
+  {
+    "start": 141.933,
+    "end": 146.966,
+    "text": "Cơ thể chúng ta giống như một cỗ máy, và cơ bắp chính là những chiếc bánh răng.",
+    "textdich": ""
+  },
+  {
+    "start": 147.5,
+    "end": 152.666,
+    "text": "Dù cô bác có ăn vào bao nhiêu thức ăn đi chăng nữa, nhưng hệ tiêu hóa không chế biến",
+    "textdich": ""
+  },
+  {
+    "start": 152.966,
+    "end": 158.866,
+    "text": "được thành vật liệu để đắp vào cơ bắp thì cơ bắp vẫn sẽ teo tóp lại. Hơn thế nữa,",
+    "textdich": ""
+  },
+  {
+    "start": 159.266,
+    "end": 162.6,
+    "text": "cơ bắp giống như những cây cột trụ vững chãi của một ngôi nhà,",
+    "textdich": ""
+  },
+  {
+    "start": 163.066,
+    "end": 167.566,
+    "text": "khi trụ mục thì nhà sập. Khi cơ bắp teo đi, toàn bộ sức nặng của cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 167.866,
+    "end": 172.766,
+    "text": "sẽ dồn thẳng xuống các khớp xương, đặc biệt là khớp gối, khớp háng và cột sống.",
+    "textdich": ""
+  },
+  {
+    "start": 173.266,
+    "end": 177.733,
+    "text": "Đó là lý do vì sao cơ bắp càng yếu, cô bác càng thấy đau lưng mỏi gối,",
+    "textdich": ""
+  },
+  {
+    "start": 178.066,
+    "end": 181.533,
+    "text": "thoái hóa khớp tiến triển nhanh hơn. Vậy tại sao tình trạng này",
+    "textdich": ""
+  },
+  {
+    "start": 182.0,
+    "end": 186.466,
+    "text": "lại xảy ra nhanh đến mức chúng ta không kịp nhận ra? Câu trả lời phần lớn",
+    "textdich": ""
+  },
+  {
+    "start": 186.733,
+    "end": 191.8,
+    "text": "nằm ở những thói quen ăn uống hàng ngày mà rất nhiều người Việt Nam chúng ta đang mắc phải.",
+    "textdich": ""
+  },
+  {
+    "start": 192.2,
+    "end": 196.533,
+    "text": "Để cô bác dễ hình dung, tôi muốn kể cho cô bác nghe câu chuyện của chú Ba.",
+    "textdich": ""
+  },
+  {
+    "start": 197.0,
+    "end": 201.166,
+    "text": "Chú Ba năm nay 65 tuổi, là một bệnh nhân rất thân thiết của tôi.",
+    "textdich": ""
+  },
+  {
+    "start": 201.8,
+    "end": 206.733,
+    "text": "Ngày xưa chú Ba khỏe lắm, sáng nào cũng đi bộ thể dục 5km quanh hồ",
+    "textdich": ""
+  },
+  {
+    "start": 207.133,
+    "end": 210.1,
+    "text": "mà không biết mệt là gì. Nhưng khoảng nửa năm trước,",
+    "textdich": ""
+  },
+  {
+    "start": 210.4,
+    "end": 213.566,
+    "text": "chú đến phòng khám tìm tôi trong tình trạng bước đi lảo đảo,",
+    "textdich": ""
+  },
+  {
+    "start": 214.0,
+    "end": 217.766,
+    "text": "chân tay teo tóp, sắc mặt nhợt nhạt. Cầm tay chú lên xem,",
+    "textdich": ""
+  },
+  {
+    "start": 218.2,
+    "end": 222.966,
+    "text": "tôi thấy phần bắp thịt ở cánh tay nhão nhoét, chỉ còn da bọc xương. Tôi hỏi chú,",
+    "textdich": ""
+  },
+  {
+    "start": 223.366,
+    "end": 228.766,
+    "text": "dạo này chú ăn uống thế nào mà sụt cân, teo cơ nhanh thế này? Chú tâm sự thật tình:",
+    "textdich": ""
+  },
+  {
+    "start": 229.266,
+    "end": 234.4,
+    "text": "Bác sĩ ơi, tôi xem trên mạng người ta nói người già ăn nhiều thịt cá là sinh bệnh.",
+    "textdich": ""
+  },
+  {
+    "start": 234.8,
+    "end": 238.333,
+    "text": "Nào là sợ mỡ máu cao, sợ bệnh gút, sợ đột quỵ,",
+    "textdich": ""
+  },
+  {
+    "start": 238.8,
+    "end": 242.733,
+    "text": "nên 2 năm nay tôi bỏ hẳn thịt cá. Bữa cơm hàng ngày của tôi",
+    "textdich": ""
+  },
+  {
+    "start": 243.1,
+    "end": 248.933,
+    "text": "chỉ có bát cơm trắng, đĩa rau củ luộc, cùng lắm là thêm vài miếng đậu phụ cho thanh đạm.",
+    "textdich": ""
+  },
+  {
+    "start": 249.4,
+    "end": 253.333,
+    "text": "Tôi nghĩ ăn thế là sạch bụng, nhẹ người, sống lâu.",
+    "textdich": ""
+  },
+  {
+    "start": 253.9,
+    "end": 256.766,
+    "text": "Thế mà chẳng hiểu sao người tôi cứ yếu lả đi.",
+    "textdich": ""
+  },
+  {
+    "start": 257.1,
+    "end": 263.133,
+    "text": "Hôm trước bước hụt bậc thềm suýt ngã gãy xương chậu. Cô bác ạ, nghe chú Ba nói mà tôi thấy thương,",
+    "textdich": ""
+  },
+  {
+    "start": 263.5,
+    "end": 266.6,
+    "text": "nhưng cũng giật mình, vì đây là một sai lầm chí mạng.",
+    "textdich": ""
+  },
+  {
+    "start": 267.2,
+    "end": 270.6,
+    "text": "Rất nhiều cô bác đang theo đuổi lối sống thanh đạm quá mức như vậy.",
+    "textdich": ""
+  },
+  {
+    "start": 271.166,
+    "end": 276.166,
+    "text": "Khi chúng ta kiêng khem thịt cá, cơ thể sẽ rơi vào trạng thái thiếu hụt protein trầm trọng.",
+    "textdich": ""
+  },
+  {
+    "start": 276.733,
+    "end": 279.766,
+    "text": "Cơ thể con người rất thông minh nhưng cũng rất tàn nhẫn.",
+    "textdich": ""
+  },
+  {
+    "start": 280.333,
+    "end": 284.166,
+    "text": "Khi não bộ nhận thấy không có đủ đạm từ thức ăn nạp vào",
+    "textdich": ""
+  },
+  {
+    "start": 284.5,
+    "end": 287.3,
+    "text": "để duy trì hoạt động của tim, gan, phổi,",
+    "textdich": ""
+  },
+  {
+    "start": 287.8,
+    "end": 291.133,
+    "text": "nó sẽ lập tức ra lệnh ăn chính cơ bắp của chúng ta.",
+    "textdich": ""
+  },
+  {
+    "start": 291.6,
+    "end": 296.2,
+    "text": "Nó sẽ rút đạm từ bắp tay, bắp chân để nuôi các cơ quan sinh tồn.",
+    "textdich": ""
+  },
+  {
+    "start": 296.733,
+    "end": 299.166,
+    "text": "Đó là lý do chú Ba càng ăn thanh đạm,",
+    "textdich": ""
+  },
+  {
+    "start": 299.533,
+    "end": 303.3,
+    "text": "cơ thể chú càng teo tóp, chân tay yếu ớt không còn sức lực.",
+    "textdich": ""
+  },
+  {
+    "start": 303.7,
+    "end": 307.466,
+    "text": "Nhìn chú Ba tôi chợt nhận ra, rất nhiều cô bác ngoài kia",
+    "textdich": ""
+  },
+  {
+    "start": 307.9,
+    "end": 311.7,
+    "text": "cũng đang mắc phải sai lầm y hệt: càng kiêng khem để ngừa bệnh",
+    "textdich": ""
+  },
+  {
+    "start": 312.1,
+    "end": 316.5,
+    "text": "lại càng rước thêm bệnh teo cơ suy nhược vào người. Vậy đâu là lối thoát?",
+    "textdich": ""
+  },
+  {
+    "start": 316.966,
+    "end": 322.2,
+    "text": "Chẳng lẽ bây giờ bắt dạ dày người già vốn đã yếu phải tiêu hóa những miếng thịt bò dai",
+    "textdich": ""
+  },
+  {
+    "start": 322.466,
+    "end": 326.4,
+    "text": "nhách hay những tảng thịt lợn đầy mỡ? Tất nhiên là không rồi.",
+    "textdich": ""
+  },
+  {
+    "start": 326.866,
+    "end": 331.266,
+    "text": "Hôm đó tôi đã viết cho chú Ba một đơn thuốc, nhưng không phải là thuốc tây",
+    "textdich": ""
+  },
+  {
+    "start": 331.666,
+    "end": 336.4,
+    "text": "mà là một lời khuyên về thực đơn dinh dưỡng. Tôi khuyên chú thêm ngay vào bữa ăn",
+    "textdich": ""
+  },
+  {
+    "start": 336.666,
+    "end": 340.333,
+    "text": "mỗi ngày một món ăn quen thuộc. Và hôm nay tôi xin chia sẻ",
+    "textdich": ""
+  },
+  {
+    "start": 340.933,
+    "end": 344.666,
+    "text": "đơn thuốc đó với tất cả các cô bác đang xem video này.",
+    "textdich": ""
+  },
+  {
+    "start": 345.166,
+    "end": 349.866,
+    "text": "Đó chính là quả trứng gà. Đúng vậy, cô bác không nghe nhầm đâu.",
+    "textdich": ""
+  },
+  {
+    "start": 350.133,
+    "end": 354.866,
+    "text": "Quả trứng gà bé nhỏ bán đầy ngoài chợ với giá chưa tới 5.000đ một quả,",
+    "textdich": ""
+  },
+  {
+    "start": 355.266,
+    "end": 360.266,
+    "text": "lại chính là tiêu chuẩn vàng để đánh giá chất lượng đạm trong y học. Tại sao lại như vậy?",
+    "textdich": ""
+  },
+  {
+    "start": 360.766,
+    "end": 366.8,
+    "text": "Khác với các loại thực vật như đậu nành hay rau xanh, đạm trong quả trứng là nguồn đạm hoàn chỉnh nhất.",
+    "textdich": ""
+  },
+  {
+    "start": 367.333,
+    "end": 371.766,
+    "text": "Quan trọng hơn, trứng gà chứa một hàm lượng rất cao một loại axit amin",
+    "textdich": ""
+  },
+  {
+    "start": 372.333,
+    "end": 378.366,
+    "text": "vô cùng đặc biệt tên là Leucine. Cô bác cứ tưởng tượng thế này cho dễ hiểu nhé:",
+    "textdich": ""
+  },
+  {
+    "start": 378.8,
+    "end": 383.8,
+    "text": "Cơ thể chúng ta giống như một công trường xây dựng và các sợi cơ bắp chính là bức tường.",
+    "textdich": ""
+  },
+  {
+    "start": 384.5,
+    "end": 387.966,
+    "text": "Lâu ngày bức tường bị nứt nẻ, gạch vữa rụng lả tả,",
+    "textdich": ""
+  },
+  {
+    "start": 388.5,
+    "end": 390.566,
+    "text": "đó chính là sự teo cơ do tuổi già.",
+    "textdich": ""
+  },
+  {
+    "start": 391.733,
+    "end": 396.733,
+    "text": "Lúc này, Leucine đóng vai trò giống như một người cai thầu. Khi cô bác ăn trứng,",
+    "textdich": ""
+  },
+  {
+    "start": 397.366,
+    "end": 402.9,
+    "text": "Leucine đi vào cơ thể và ngay lập tức bật công tắc, kích hoạt quá trình vận chuyển vật liệu",
+    "textdich": ""
+  },
+  {
+    "start": 403.3,
+    "end": 406.733,
+    "text": "để xây dựng lại các sợi cơ đã bị đứt gãy, teo nhão.",
+    "textdich": ""
+  },
+  {
+    "start": 407.3,
+    "end": 411.066,
+    "text": "Không có Leucine, dù cô bác có ăn bao nhiêu đậu phụ đi chăng nữa,",
+    "textdich": ""
+  },
+  {
+    "start": 411.4,
+    "end": 416.733,
+    "text": "cơ bắp cũng không thể phục hồi được. Và trứng gà chính là một trong những thực phẩm",
+    "textdich": ""
+  },
+  {
+    "start": 416.9,
+    "end": 419.366,
+    "text": "giàu Leucine bậc nhất mà tự nhiên ban tặng.",
+    "textdich": ""
+  },
+  {
+    "start": 420.0,
+    "end": 423.666,
+    "text": "Nhưng chắc chắn đến đây sẽ có cô bác hỏi: Bác sĩ ơi,",
+    "textdich": ""
+  },
+  {
+    "start": 423.966,
+    "end": 427.9,
+    "text": "thịt bò thịt lợn cũng nhiều đạm, cũng tốt cho cơ bắp cơ mà,",
+    "textdich": ""
+  },
+  {
+    "start": 428.133,
+    "end": 431.5,
+    "text": "sao không ăn thịt mà lại cứ phải là trứng? Câu hỏi này rất hay.",
+    "textdich": ""
+  },
+  {
+    "start": 432.166,
+    "end": 435.9,
+    "text": "Thịt bò, thịt lợn đúng là rất tốt, rất giàu protein.",
+    "textdich": ""
+  },
+  {
+    "start": 436.566,
+    "end": 440.766,
+    "text": "Nhưng chúng ta đang nói đến sức khỏe của người trên 50, 60 tuổi.",
+    "textdich": ""
+  },
+  {
+    "start": 441.333,
+    "end": 447.133,
+    "text": "Ở độ tuổi này dịch vị axit dạ dày tiết ra ít hơn, các men tiêu hóa cũng cạn kiệt dần.",
+    "textdich": ""
+  },
+  {
+    "start": 447.6,
+    "end": 453.566,
+    "text": "Khi cô bác ăn một miếng thịt bò hay thịt lợn, dạ dày phải làm việc quần quật suốt 4 đến 5 tiếng đồng hồ",
+    "textdich": ""
+  },
+  {
+    "start": 453.766,
+    "end": 458.6,
+    "text": "mới tiêu hóa xong. Nhiều khi ăn xong thấy ấm ách, đầy bụng, ợ hơi,",
+    "textdich": ""
+  },
+  {
+    "start": 459.0,
+    "end": 462.366,
+    "text": "tối ngủ không ngon giấc. Trái lại, quả trứng gà",
+    "textdich": ""
+  },
+  {
+    "start": 462.6,
+    "end": 465.4,
+    "text": "lại cực kỳ thân thiện với hệ tiêu hóa của người lớn tuổi.",
+    "textdich": ""
+  },
+  {
+    "start": 466.0,
+    "end": 468.8,
+    "text": "Các nhà khoa học đã đo lường và đưa ra kết luận:",
+    "textdich": ""
+  },
+  {
+    "start": 469.3,
+    "end": 473.1,
+    "text": "Chỉ số hấp thu protein của trứng lên tới gần 100%.",
+    "textdich": ""
+  },
+  {
+    "start": 473.933,
+    "end": 477.9,
+    "text": "Nghĩa là cô bác ăn vào bao nhiêu, cơ thể gần như cắt nhỏ",
+    "textdich": ""
+  },
+  {
+    "start": 478.366,
+    "end": 484.333,
+    "text": "và lấy được toàn bộ bấy nhiêu dưỡng chất để bù đắp ngay lập tức cho phần cơ bắp đang hao hụt. Dạ dày",
+    "textdich": ""
+  },
+  {
+    "start": 484.733,
+    "end": 487.766,
+    "text": "không phải làm việc quá sức, không hề gây đầy bụng khó tiêu,",
+    "textdich": ""
+  },
+  {
+    "start": 488.133,
+    "end": 491.566,
+    "text": "mà chân tay vẫn nhận đủ vật liệu để trở nên săn chắc.",
+    "textdich": ""
+  },
+  {
+    "start": 492.066,
+    "end": 497.933,
+    "text": "Nó giống như một gói dưỡng chất đã được chế biến sẵn, chỉ việc bóc ra là cơ thể dùng được ngay.",
+    "textdich": ""
+  },
+  {
+    "start": 498.5,
+    "end": 501.566,
+    "text": "Nghe đến đây chắc hẳn nhiều cô bác đang cau mày thắc mắc,",
+    "textdich": ""
+  },
+  {
+    "start": 501.9,
+    "end": 504.7,
+    "text": "thậm chí là phản đối: Bác sĩ Khang nói lạ thật,",
+    "textdich": ""
+  },
+  {
+    "start": 505.133,
+    "end": 509.766,
+    "text": "bao nhiêu năm nay người ta bảo ăn trứng cao huyết áp, tăng mỡ máu, đột quỵ,",
+    "textdich": ""
+  },
+  {
+    "start": 510.1,
+    "end": 514.933,
+    "text": "giờ bác sĩ lại xui chúng tôi ăn trứng. Tôi hoàn toàn hiểu nỗi lo lắng này của cô bác.",
+    "textdich": ""
+  },
+  {
+    "start": 515.5,
+    "end": 520.1,
+    "text": "Đây là một trong những hiểu lầm lớn nhất và đáng tiếc nhất trong lịch sử y học dinh dưỡng.",
+    "textdich": ""
+  },
+  {
+    "start": 520.6,
+    "end": 525.366,
+    "text": "Suốt nhiều thập kỷ qua, quả trứng bị hàm oan là thủ phạm gây mỡ máu cao,",
+    "textdich": ""
+  },
+  {
+    "start": 525.6,
+    "end": 529.7,
+    "text": "xơ vữa động mạch chỉ vì trong lòng đỏ trứng có chứa cholesterol.",
+    "textdich": ""
+  },
+  {
+    "start": 530.166,
+    "end": 535.366,
+    "text": "Rất nhiều cô bác sợ quá, có luộc quả trứng lên cũng cố khoét bỏ cái lòng đỏ vứt đi,",
+    "textdich": ""
+  },
+  {
+    "start": 535.766,
+    "end": 540.9,
+    "text": "chỉ ăn lòng trắng cho an toàn. Nhưng thưa cô bác, khoa học đã tiến bộ và thay đổi.",
+    "textdich": ""
+  },
+  {
+    "start": 541.4,
+    "end": 546.566,
+    "text": "Các nghiên cứu y khoa quy mô lớn nhất thế giới hiện nay đã chính thức minh oan cho quả trứng.",
+    "textdich": ""
+  },
+  {
+    "start": 547.166,
+    "end": 551.8,
+    "text": "Sự thật là gì? Sự thật là phần lớn cholesterol trong máu của chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 552.133,
+    "end": 557.733,
+    "text": "do gan tự tổng hợp, chứ không phải hoàn toàn do lượng cholesterol từ thức ăn nạp vào.",
+    "textdich": ""
+  },
+  {
+    "start": 558.2,
+    "end": 563.9,
+    "text": "Khi cô bác ăn thực phẩm có chứa cholesterol như lòng đỏ trứng, gan sẽ thông minh nhận biết",
+    "textdich": ""
+  },
+  {
+    "start": 564.366,
+    "end": 568.533,
+    "text": "và tự động giảm sản xuất cholesterol lại để cân bằng.",
+    "textdich": ""
+  },
+  {
+    "start": 568.8,
+    "end": 573.733,
+    "text": "Kẻ thù thực sự gây ra mỡ máu cao, làm tắc nghẽn mạch máu của cô bác không phải là quả trứng,",
+    "textdich": ""
+  },
+  {
+    "start": 574.366,
+    "end": 578.166,
+    "text": "mà đó là những thứ cô bác vẫn ăn hàng ngày nhưng lại ít đề phòng.",
+    "textdich": ""
+  },
+  {
+    "start": 578.6,
+    "end": 584.133,
+    "text": "Đó là đường, ngọt, bánh kẹo, nước ngọt, và đặc biệt là chất béo chuyển hóa trong các món chiên xào",
+    "textdich": ""
+  },
+  {
+    "start": 584.266,
+    "end": 588.6,
+    "text": "ngập dầu mỡ động vật. Thậm chí việc cô bác vứt bỏ lòng đỏ trứng",
+    "textdich": ""
+  },
+  {
+    "start": 589.0,
+    "end": 592.366,
+    "text": "là một sự lãng phí vô cùng to lớn. Lòng đỏ trứng",
+    "textdich": ""
+  },
+  {
+    "start": 592.666,
+    "end": 596.366,
+    "text": "không chỉ chứa đạm mà nó còn là một kho báu chứa dồi dào",
+    "textdich": ""
+  },
+  {
+    "start": 596.7,
+    "end": 602.3,
+    "text": "vitamin D và Choline. Vitamin D giúp xương chắc khỏe, chống loãng xương,",
+    "textdich": ""
+  },
+  {
+    "start": 602.6,
+    "end": 607.666,
+    "text": "căn bệnh cực kỳ phổ biến ở người già. Còn Choline là dưỡng chất vàng",
+    "textdich": ""
+  },
+  {
+    "start": 608.266,
+    "end": 614.066,
+    "text": "giúp bảo vệ tế bào não, ngăn ngừa chứng sa sút trí tuệ, suy giảm trí nhớ Alzheimer.",
+    "textdich": ""
+  },
+  {
+    "start": 614.5,
+    "end": 620.966,
+    "text": "Như vậy ăn cả quả trứng là cô bác đang một mũi tên trúng ba đích: vừa phục hồi cơ bắp,",
+    "textdich": ""
+  },
+  {
+    "start": 621.333,
+    "end": 626.533,
+    "text": "vừa chắc xương, lại vừa minh mẫn đầu óc. Giải tỏa được nỗi lo về mỡ máu rồi,",
+    "textdich": ""
+  },
+  {
+    "start": 627.066,
+    "end": 629.766,
+    "text": "chúng ta mới có thể yên tâm dùng trứng để phục hồi cơ.",
+    "textdich": ""
+  },
+  {
+    "start": 630.366,
+    "end": 634.666,
+    "text": "Nhưng ăn thế nào để vừa khỏe cơ vừa an toàn cho hệ tim mạch?",
+    "textdich": ""
+  },
+  {
+    "start": 635.133,
+    "end": 638.533,
+    "text": "Không thể vì thấy tốt mà một ngày ăn cả 10 quả được.",
+    "textdich": ""
+  },
+  {
+    "start": 638.866,
+    "end": 643.6,
+    "text": "Để chống teo cơ, duy trì sức mạnh, người lớn tuổi cần bổ sung đạm đều đặn.",
+    "textdich": ""
+  },
+  {
+    "start": 644.166,
+    "end": 648.2,
+    "text": "Theo các hướng dẫn dinh dưỡng hiện nay, nếu cô bác là người khỏe mạnh bình thường,",
+    "textdich": ""
+  },
+  {
+    "start": 648.866,
+    "end": 652.066,
+    "text": "không có bệnh lý đặc biệt về mỡ máu hay tim mạch",
+    "textdich": ""
+  },
+  {
+    "start": 652.3,
+    "end": 656.366,
+    "text": "đang trong giai đoạn bùng phát cấp tính, thì việc ăn một quả trứng mỗi ngày",
+    "textdich": ""
+  },
+  {
+    "start": 656.666,
+    "end": 660.333,
+    "text": "hoặc trung bình 5 đến 7 quả một tuần là hoàn toàn an toàn",
+    "textdich": ""
+  },
+  {
+    "start": 661.0,
+    "end": 664.533,
+    "text": "và mang lại lợi ích tuyệt vời. Cô bác có thể linh hoạt nhé,",
+    "textdich": ""
+  },
+  {
+    "start": 665.0,
+    "end": 668.666,
+    "text": "ví dụ hôm nay nhà có tiệc, cô bác đã ăn nhiều thịt cá rồi,",
+    "textdich": ""
+  },
+  {
+    "start": 669.0,
+    "end": 671.366,
+    "text": "thì ngày mai mình có thể không cần ăn trứng nữa.",
+    "textdich": ""
+  },
+  {
+    "start": 671.966,
+    "end": 676.466,
+    "text": "Nhưng những ngày mệt mỏi, chán ăn thịt, cô bác cứ tự tin luộc một quả trứng",
+    "textdich": ""
+  },
+  {
+    "start": 676.733,
+    "end": 678.933,
+    "text": "để đảm bảo cơ bắp không bị bỏ đói.",
+    "textdich": ""
+  },
+  {
+    "start": 679.666,
+    "end": 682.8,
+    "text": "Quan trọng nhất không phải là ăn thật nhiều trong một bữa,",
+    "textdich": ""
+  },
+  {
+    "start": 683.466,
+    "end": 688.366,
+    "text": "mà là sự đều đặn để cơ bắp luôn được cung cấp nguồn dưỡng chất ổn định mỗi ngày.",
+    "textdich": ""
+  },
+  {
+    "start": 688.933,
+    "end": 694.366,
+    "text": "Tuy nhiên, biết ăn bao nhiêu quả thôi là chưa đủ, cách cô bác chế biến quả trứng đó",
+    "textdich": ""
+  },
+  {
+    "start": 694.566,
+    "end": 698.6,
+    "text": "mới quyết định đến 80% hiệu quả. Và tôi nhận thấy",
+    "textdich": ""
+  },
+  {
+    "start": 699.066,
+    "end": 702.5,
+    "text": "có những thói quen ăn trứng của người Việt mình cực kỳ độc hại",
+    "textdich": ""
+  },
+  {
+    "start": 702.866,
+    "end": 704.666,
+    "text": "mà cô bác tuyệt đối nên tránh xa.",
+    "textdich": ""
+  },
+  {
+    "start": 705.4,
+    "end": 708.533,
+    "text": "Sai lầm thứ nhất mà rất nhiều người thế hệ trước hay làm,",
+    "textdich": ""
+  },
+  {
+    "start": 709.066,
+    "end": 712.7,
+    "text": "đó là ăn trứng chần sơ hoặc đục lỗ hút trứng sống,",
+    "textdich": ""
+  },
+  {
+    "start": 713.1,
+    "end": 716.766,
+    "text": "vì nghĩ rằng ăn thế nó mới bổ, mới giữ nguyên được chất.",
+    "textdich": ""
+  },
+  {
+    "start": 717.3,
+    "end": 719.4,
+    "text": "Xin cô bác dừng ngay thói quen này lại.",
+    "textdich": ""
+  },
+  {
+    "start": 720.0,
+    "end": 725.4,
+    "text": "Ở độ tuổi 50, 60 trở lên, hệ miễn dịch của chúng ta đã suy yếu đi nhiều.",
+    "textdich": ""
+  },
+  {
+    "start": 725.966,
+    "end": 731.733,
+    "text": "Quả trứng sống có nguy cơ rất cao nhiễm một loại vi khuẩn tên là Salmonella.",
+    "textdich": ""
+  },
+  {
+    "start": 732.4,
+    "end": 736.4,
+    "text": "Ăn vào rất dễ bị đau bụng, tiêu chảy cấp, ngộ độc thực phẩm,",
+    "textdich": ""
+  },
+  {
+    "start": 737.0,
+    "end": 739.9,
+    "text": "có khi phải đi cấp cứu truyền nước. Hơn nữa,",
+    "textdich": ""
+  },
+  {
+    "start": 740.166,
+    "end": 745.933,
+    "text": "trong lòng trắng trứng sống có chứa một chất cản trở cơ thể hấp thu Biotin (Vitamin B7).",
+    "textdich": ""
+  },
+  {
+    "start": 746.5,
+    "end": 749.966,
+    "text": "Nếu ăn trứng sống lâu ngày, cô bác sẽ thấy tóc mình rụng nhiều hơn,",
+    "textdich": ""
+  },
+  {
+    "start": 750.4,
+    "end": 753.166,
+    "text": "móng tay giòn dễ gãy và da dẻ kém sắc.",
+    "textdich": ""
+  },
+  {
+    "start": 753.766,
+    "end": 757.466,
+    "text": "Sai lầm thứ 2 ngược lại với ăn sống là luộc trứng quá kỹ.",
+    "textdich": ""
+  },
+  {
+    "start": 758.166,
+    "end": 763.8,
+    "text": "Nhiều cô bác kỹ tính sợ vi khuẩn, nên cho trứng vào nồi luộc sôi sùng sục 20 - 30 phút,",
+    "textdich": ""
+  },
+  {
+    "start": 764.3,
+    "end": 767.366,
+    "text": "luộc đến khi quả trứng nứt toát ra. Khi bóc vỏ,",
+    "textdich": ""
+  },
+  {
+    "start": 767.9,
+    "end": 772.333,
+    "text": "cô bác sẽ thấy lớp viền ngoài của lòng đỏ chuyển sang màu xanh đen xám xịt.",
+    "textdich": ""
+  },
+  {
+    "start": 772.966,
+    "end": 776.466,
+    "text": "Đó chính là phản ứng hóa học tạo ra chất sắt sulfide.",
+    "textdich": ""
+  },
+  {
+    "start": 776.866,
+    "end": 781.5,
+    "text": "Quả trứng lúc này bị biến đổi cấu trúc, các axit amin quý giá bị phá hủy, rất khó tiêu hóa.",
+    "textdich": ""
+  },
+  {
+    "start": 781.966,
+    "end": 787.133,
+    "text": "Ăn quả trứng này vào không thấy khỏe cơ đâu, chỉ thấy bụng ấm ách,",
+    "textdich": ""
+  },
+  {
+    "start": 787.533,
+    "end": 790.5,
+    "text": "ợ hơi và sinh ra khí dầm dề trong bụng cả buổi.",
+    "textdich": ""
+  },
+  {
+    "start": 791.1,
+    "end": 796.166,
+    "text": "Vậy đã biết tránh những sai lầm tai hại này rồi, thì đâu là cách chế biến trứng chuẩn khoa học,",
+    "textdich": ""
+  },
+  {
+    "start": 796.533,
+    "end": 799.733,
+    "text": "giữ lại được nhiều vật liệu xây cơ nhất cho người cao tuổi?",
+    "textdich": ""
+  },
+  {
+    "start": 800.333,
+    "end": 805.366,
+    "text": "Cách tốt nhất giữ lại được trọn vẹn chất đạm, dễ tiêu hóa nhất và an toàn nhất",
+    "textdich": ""
+  },
+  {
+    "start": 805.866,
+    "end": 807.566,
+    "text": "chính là trứng luộc chín tới.",
+    "textdich": ""
+  },
+  {
+    "start": 808.133,
+    "end": 812.866,
+    "text": "Cách làm rất đơn giản, cô bác đun một nồi nước, khi nước sôi sủi tăm",
+    "textdich": ""
+  },
+  {
+    "start": 813.133,
+    "end": 817.966,
+    "text": "thì nhẹ nhàng thả trứng vào, luộc trong khoảng thời gian vàng là 7 - 9 phút.",
+    "textdich": ""
+  },
+  {
+    "start": 818.666,
+    "end": 822.2,
+    "text": "Sau đó vớt ra ngâm ngay vào bát nước lạnh cho dễ bóc vỏ.",
+    "textdich": ""
+  },
+  {
+    "start": 823.0,
+    "end": 825.8,
+    "text": "Với thời gian này, lòng trắng vừa đông lại mềm mại,",
+    "textdich": ""
+  },
+  {
+    "start": 826.333,
+    "end": 830.066,
+    "text": "lòng đỏ chín dẻo không bị khô xác, không bị đổi màu xanh đen.",
+    "textdich": ""
+  },
+  {
+    "start": 830.4,
+    "end": 832.766,
+    "text": "Trứng luộc kiểu này cực kỳ dễ hấp thu,",
+    "textdich": ""
+  },
+  {
+    "start": 833.366,
+    "end": 836.3,
+    "text": "bảo toàn gần như nguyên vẹn lượng protein và vitamin.",
+    "textdich": ""
+  },
+  {
+    "start": 836.866,
+    "end": 842.866,
+    "text": "Ngoài trứng luộc, món trứng chưng hay còn gọi là trứng hấp thủy cũng là một lựa chọn tuyệt vời cho người già.",
+    "textdich": ""
+  },
+  {
+    "start": 843.4,
+    "end": 847.9,
+    "text": "Cô bác đánh tan quả trứng với chút nước ấm, thêm xíu hành lá và nước mắm,",
+    "textdich": ""
+  },
+  {
+    "start": 848.533,
+    "end": 850.5,
+    "text": "sau đó cho vào nồi hấp cách thủy.",
+    "textdich": ""
+  },
+  {
+    "start": 851.066,
+    "end": 854.7,
+    "text": "Món này mềm như đậu hũ non, vừa dễ nhai dễ nuốt,",
+    "textdich": ""
+  },
+  {
+    "start": 855.0,
+    "end": 857.7,
+    "text": "lại không sử dụng dầu mỡ. Một lưu ý nhỏ",
+    "textdich": ""
+  },
+  {
+    "start": 857.966,
+    "end": 862.266,
+    "text": "là cô bác hãy hạn chế món trứng ốp la, trứng rán ngập trong dầu mỡ nhé.",
+    "textdich": ""
+  },
+  {
+    "start": 862.7,
+    "end": 868.8,
+    "text": "Quả trứng thì tốt, nhưng lượng dầu mỡ chiên đi chiên lại ở nhiệt độ cao cháy khét bám vào trứng",
+    "textdich": ""
+  },
+  {
+    "start": 869.2,
+    "end": 872.133,
+    "text": "mới là thứ âm thầm tàn phá thành mạch máu của chúng ta.",
+    "textdich": ""
+  },
+  {
+    "start": 872.733,
+    "end": 875.766,
+    "text": "Nhưng cô bác ơi, đến đây tôi phải chia sẻ thật lòng một điều.",
+    "textdich": ""
+  },
+  {
+    "start": 876.366,
+    "end": 880.966,
+    "text": "Nếu cô bác chỉ ngồi một chỗ trên ghế sô pha xem tivi cả ngày rồi ăn trứng,",
+    "textdich": ""
+  },
+  {
+    "start": 881.366,
+    "end": 884.566,
+    "text": "thì cơ bắp có tự động to ra và săn chắc lại không?",
+    "textdich": ""
+  },
+  {
+    "start": 885.133,
+    "end": 888.366,
+    "text": "Chắc chắn là không rồi. Quả trứng không phải là thuốc tiên.",
+    "textdich": ""
+  },
+  {
+    "start": 889.133,
+    "end": 892.566,
+    "text": "Để protein trong trứng thực sự biến thành cơ bắp,",
+    "textdich": ""
+  },
+  {
+    "start": 892.966,
+    "end": 895.133,
+    "text": "chúng ta bắt buộc cần một chất xúc tác.",
+    "textdich": ""
+  },
+  {
+    "start": 895.566,
+    "end": 898.566,
+    "text": "Trứng là gạch nung, protein là xi măng,",
+    "textdich": ""
+  },
+  {
+    "start": 899.066,
+    "end": 904.266,
+    "text": "nhưng để xây thành bức tường cơ bắp vững chãi, cô bác cần phải có những người thợ xây.",
+    "textdich": ""
+  },
+  {
+    "start": 904.866,
+    "end": 909.666,
+    "text": "Thợ xây ở đây chính là sự vận động. Nếu cô bác ăn đạm vào mà không vận động,",
+    "textdich": ""
+  },
+  {
+    "start": 910.066,
+    "end": 914.266,
+    "text": "cơ thể sẽ đào thải đạm ra ngoài, hoặc chuyển hóa thành mỡ thừa tích ở bụng.",
+    "textdich": ""
+  },
+  {
+    "start": 914.7,
+    "end": 919.733,
+    "text": "Cô bác không cần phải ra phòng gym, không cần nâng tạ nặng nhọc đến mức đau lưng rớt mồ hôi hột.",
+    "textdich": ""
+  },
+  {
+    "start": 920.133,
+    "end": 925.766,
+    "text": "Chỉ cần những vận động kháng lực nhẹ nhàng ngay tại nhà. Ví dụ khi ngồi xem tivi,",
+    "textdich": ""
+  },
+  {
+    "start": 926.133,
+    "end": 932.0,
+    "text": "cô bác lấy 2 chai nước suối 500ml đổ đầy nước vào rồi tập nâng lên hạ xuống 2 tay.",
+    "textdich": ""
+  },
+  {
+    "start": 932.533,
+    "end": 937.533,
+    "text": "Hoặc bài tập rất tốt cho đôi chân là cô bác đứng vịn tay vào lưng một chiếc ghế chắc chắn,",
+    "textdich": ""
+  },
+  {
+    "start": 938.0,
+    "end": 940.366,
+    "text": "từ từ tập ngồi xổm xuống rồi đứng lên,",
+    "textdich": ""
+  },
+  {
+    "start": 940.933,
+    "end": 945.933,
+    "text": "giống như động tác squat nhẹ nhàng, làm chậm rãi mỗi ngày 10 đến 15 lần.",
+    "textdich": ""
+  },
+  {
+    "start": 946.5,
+    "end": 952.8,
+    "text": "Khi cô bác thực hiện các động tác có chút kháng lực như vậy, các sợi cơ bắp sẽ bị kéo giãn ra và tổn thương nhẹ.",
+    "textdich": ""
+  },
+  {
+    "start": 953.366,
+    "end": 957.3,
+    "text": "Ngay lập tức, cơ bắp sẽ phát ra tín hiệu SOS gửi lên não bộ:",
+    "textdich": ""
+  },
+  {
+    "start": 957.666,
+    "end": 960.7,
+    "text": "Cấp báo cấp báo! Cơ bắp đang phải làm việc nặng,",
+    "textdich": ""
+  },
+  {
+    "start": 961.266,
+    "end": 965.533,
+    "text": "chúng tôi cần thêm protein để sửa chữa và làm cho cơ to hơn, khỏe hơn.",
+    "textdich": ""
+  },
+  {
+    "start": 966.133,
+    "end": 970.866,
+    "text": "Chính lúc này, lượng Leucine và đạm từ quả trứng cô bác ăn vào ban sáng",
+    "textdich": ""
+  },
+  {
+    "start": 971.366,
+    "end": 977.7,
+    "text": "sẽ được não bộ điều động đi thẳng đến bắp tay, bắp chân, bù đắp và bồi đắp cho các sợi cơ.",
+    "textdich": ""
+  },
+  {
+    "start": 978.566,
+    "end": 983.3,
+    "text": "Sự kết hợp giữa dinh dưỡng trứng và vận động tập luyện kháng lực",
+    "textdich": ""
+  },
+  {
+    "start": 983.7,
+    "end": 987.566,
+    "text": "chính là công thức vàng không thể thay thế để duy trì sức mạnh tuổi già.",
+    "textdich": ""
+  },
+  {
+    "start": 988.133,
+    "end": 991.533,
+    "text": "Chỉ cần kết hợp vận động nhẹ nhàng và ăn trứng đúng cách,",
+    "textdich": ""
+  },
+  {
+    "start": 992.066,
+    "end": 996.766,
+    "text": "tôi tin chắc cô bác sẽ thấy sự thay đổi rõ rệt ở cơ thể mình chỉ sau vài tuần.",
+    "textdich": ""
+  },
+  {
+    "start": 997.5,
+    "end": 1002.366,
+    "text": "Tuy nhiên, như tôi luôn nhắc nhở trong mọi video, sức khỏe là chuyện cá nhân,",
+    "textdich": ""
+  },
+  {
+    "start": 1002.766,
+    "end": 1006.733,
+    "text": "không có phương pháp nào là tuyệt đối đúng cho 100% tất cả mọi người.",
+    "textdich": ""
+  },
+  {
+    "start": 1007.333,
+    "end": 1009.866,
+    "text": "Có một số trường hợp cô bác cần đặc biệt thận trọng",
+    "textdich": ""
+  },
+  {
+    "start": 1010.2,
+    "end": 1013.466,
+    "text": "và phải hỏi ý kiến bác sĩ trực tiếp của mình. Thứ nhất,",
+    "textdich": ""
+  },
+  {
+    "start": 1013.9,
+    "end": 1016.966,
+    "text": "nếu cô bác đang mắc bệnh suy thận mãn tính ở giai đoạn nặng,",
+    "textdich": ""
+  },
+  {
+    "start": 1017.5,
+    "end": 1020.5,
+    "text": "đang được bác sĩ chỉ định chế độ ăn kiêng chất đạm nghiêm ngặt.",
+    "textdich": ""
+  },
+  {
+    "start": 1020.9,
+    "end": 1024.066,
+    "text": "Lúc này thận đã yếu, việc lọc đạm gặp khó khăn.",
+    "textdich": ""
+  },
+  {
+    "start": 1024.7,
+    "end": 1028.166,
+    "text": "Cô bác không thể tự ý ăn trứng hay các loại thịt thoải mái được,",
+    "textdich": ""
+  },
+  {
+    "start": 1028.533,
+    "end": 1033.733,
+    "text": "mà lượng protein nạp vào mỗi ngày bắt buộc phải do bác sĩ chuyên khoa thận tính toán chi tiết.",
+    "textdich": ""
+  },
+  {
+    "start": 1034.2,
+    "end": 1037.9,
+    "text": "Thứ 2, nếu cô bác đang trong một đợt bùng phát mỡ máu rất cao,",
+    "textdich": ""
+  },
+  {
+    "start": 1038.266,
+    "end": 1042.0,
+    "text": "chỉ số mỡ máu rối loạn nghiêm trọng và chưa kiểm soát được bằng thuốc.",
+    "textdich": ""
+  },
+  {
+    "start": 1042.8,
+    "end": 1047.4,
+    "text": "Trong trường hợp cấp tính này, cô bác vẫn có thể ăn trứng để lấy đạm xây cơ,",
+    "textdich": ""
+  },
+  {
+    "start": 1047.766,
+    "end": 1052.1,
+    "text": "nhưng hãy ưu tiên ăn phần lòng trắng và tạm thời giảm bớt lòng đỏ lại.",
+    "textdich": ""
+  },
+  {
+    "start": 1052.466,
+    "end": 1055.566,
+    "text": "Khi chỉ số máu ổn định, mình lại ăn uống như bình thường.",
+    "textdich": ""
+  },
+  {
+    "start": 1056.133,
+    "end": 1059.5,
+    "text": "Sức khỏe mỗi người là một câu chuyện riêng, một thể trạng riêng.",
+    "textdich": ""
+  },
+  {
+    "start": 1059.966,
+    "end": 1065.766,
+    "text": "Nếu cô bác không chắc chắn về tình trạng bệnh nền của mình, đừng ngần ngại hỏi bác sĩ đang điều trị cho cô bác nhé.",
+    "textdich": ""
+  },
+  {
+    "start": 1066.3,
+    "end": 1068.766,
+    "text": "Bây giờ chúng ta hãy cùng nhìn lại kết quả.",
+    "textdich": ""
+  },
+  {
+    "start": 1069.4,
+    "end": 1071.8,
+    "text": "Quay lại câu chuyện của chú Ba ở đầu video,",
+    "textdich": ""
+  },
+  {
+    "start": 1072.366,
+    "end": 1076.8,
+    "text": "sau cái ngày rời khỏi phòng khám của tôi, chú Ba đã thay đổi hoàn toàn suy nghĩ.",
+    "textdich": ""
+  },
+  {
+    "start": 1077.566,
+    "end": 1081.366,
+    "text": "Thay vì mâm cơm chỉ có rau luộc và đậu phụ nhạt nhẽo,",
+    "textdich": ""
+  },
+  {
+    "start": 1081.8,
+    "end": 1084.366,
+    "text": "sáng nào cô nhà cũng luộc cho chú một quả trứng,",
+    "textdich": ""
+  },
+  {
+    "start": 1084.8,
+    "end": 1088.133,
+    "text": "canh đúng 8 phút vớt ra lòng đào dẻo quánh rất ngon.",
+    "textdich": ""
+  },
+  {
+    "start": 1088.5,
+    "end": 1092.333,
+    "text": "Kết hợp với việc chú không chỉ đi bộ thuần túy nữa, mà mỗi chiều",
+    "textdich": ""
+  },
+  {
+    "start": 1092.333,
+    "end": 1095.766,
+    "text": "chú mua thêm cặp tạ tay một ký về tập nâng hạ nhẹ nhàng.",
+    "textdich": ""
+  },
+  {
+    "start": 1096.3,
+    "end": 1099.133,
+    "text": "Đúng 3 tháng sau, chú quay lại phòng khám tìm tôi.",
+    "textdich": ""
+  },
+  {
+    "start": 1099.733,
+    "end": 1103.166,
+    "text": "Vừa bước qua cửa, tôi đã thấy nụ cười tươi rói của chú.",
+    "textdich": ""
+  },
+  {
+    "start": 1103.8,
+    "end": 1109.0,
+    "text": "Dáng đi của chú đã vững chãi hơn hẳn, không còn lảo đảo hay run rẩy như trước.",
+    "textdich": ""
+  },
+  {
+    "start": 1109.5,
+    "end": 1114.933,
+    "text": "Chú xắn tay áo lên khoe: \"Bác sĩ xem này, phần thịt bắp tay nó cứng cáp hẳn lên,",
+    "textdich": ""
+  },
+  {
+    "start": 1115.166,
+    "end": 1121.333,
+    "text": "tôi bế cháu nội 15 cân một mạch lên tầng 2 mà không thấy mỏi gối hụt hơi nữa\". Nghe chú kể,",
+    "textdich": ""
+  },
+  {
+    "start": 1121.7,
+    "end": 1124.9,
+    "text": "tôi thực sự hạnh phúc lây. Cô bác thấy không, hội chứng",
+    "textdich": ""
+  },
+  {
+    "start": 1125.0,
+    "end": 1128.066,
+    "text": "suy giảm khối lượng cơ sau tuổi 60 nghe thì rất đáng sợ,",
+    "textdich": ""
+  },
+  {
+    "start": 1128.533,
+    "end": 1132.0,
+    "text": "nó cướp đi sự nhanh nhẹn, làm tăng nguy cơ ngã gãy xương.",
+    "textdich": ""
+  },
+  {
+    "start": 1132.333,
+    "end": 1136.166,
+    "text": "Nhưng giải pháp để ngăn chặn nó lại nằm ngay trong góc bếp của mỗi gia đình.",
+    "textdich": ""
+  },
+  {
+    "start": 1136.8,
+    "end": 1139.333,
+    "text": "Chúng ta chỉ cần nhớ 3 điều cốt lõi:",
+    "textdich": ""
+  },
+  {
+    "start": 1139.7,
+    "end": 1142.5,
+    "text": "Đừng kiêng khem thịt cá mù quáng đến mức suy nhược;",
+    "textdich": ""
+  },
+  {
+    "start": 1142.966,
+    "end": 1147.333,
+    "text": "hãy bổ sung đủ chất đạm dễ tiêu từ một quả trứng luộc đúng cách mỗi ngày",
+    "textdich": ""
+  },
+  {
+    "start": 1147.533,
+    "end": 1149.066,
+    "text": "hoặc 5 đến 7 quả mỗi tuần;",
+    "textdich": ""
+  },
+  {
+    "start": 1149.766,
+    "end": 1154.766,
+    "text": "và cuối cùng, đừng quên cho cơ thể được vận động để chất đạm biến thành cơ bắp.",
+    "textdich": ""
+  },
+  {
+    "start": 1155.466,
+    "end": 1158.133,
+    "text": "Chỉ một thay đổi nhỏ và rẻ tiền như vậy thôi,",
+    "textdich": ""
+  },
+  {
+    "start": 1158.6,
+    "end": 1162.866,
+    "text": "cô bác đã tự nắm trong tay chiếc chìa khóa bảo vệ sự độc lập tự chủ",
+    "textdich": ""
+  },
+  {
+    "start": 1163.333,
+    "end": 1167.366,
+    "text": "trong cuộc sống của chính mình lúc tuổi già, không phải phiền lụy đến con cháu",
+    "textdich": ""
+  },
+  {
+    "start": 1167.6,
+    "end": 1169.466,
+    "text": "vì những cơn đau nhức yếu ớt.",
+    "textdich": ""
+  },
+  {
+    "start": 1170.133,
+    "end": 1173.866,
+    "text": "Sức khỏe là tài sản quý giá nhất và việc chăm sóc nó",
+    "textdich": ""
+  },
+  {
+    "start": 1174.333,
+    "end": 1175.666,
+    "text": "đôi khi không hề phức tạp,",
+    "textdich": ""
+  },
+  {
+    "start": 1176.1,
+    "end": 1178.866,
+    "text": "nếu chúng ta hiểu đúng khoa học và áp dụng đúng cách.",
+    "textdich": ""
+  },
+  {
+    "start": 1179.366,
+    "end": 1183.9,
+    "text": "Vậy là video hôm nay đã cung cấp cho cô bác một cái nhìn hoàn toàn mới",
+    "textdich": ""
+  },
+  {
+    "start": 1184.3,
+    "end": 1187.766,
+    "text": "về cách bảo vệ cơ bắp và sự thật về quả trứng gà.",
+    "textdich": ""
+  },
+  {
+    "start": 1188.366,
+    "end": 1192.8,
+    "text": "Trước khi kết thúc, tôi có một câu hỏi nhỏ muốn giao lưu cùng mọi người ở nhà:",
+    "textdich": ""
+  },
+  {
+    "start": 1193.1,
+    "end": 1196.4,
+    "text": "Cô bác thường hay chế biến món trứng như thế nào trong bữa cơm gia đình?",
+    "textdich": ""
+  },
+  {
+    "start": 1196.933,
+    "end": 1199.2,
+    "text": "Cô bác thích luộc, chưng hay chiên rán?",
+    "textdich": ""
+  },
+  {
+    "start": 1199.7,
+    "end": 1204.966,
+    "text": "Hãy để lại bình luận bên dưới video để chia sẻ cùng bác sĩ Tuấn Khang và các khán giả khác nhé.",
+    "textdich": ""
+  },
+  {
+    "start": 1205.4,
+    "end": 1208.7,
+    "text": "Tôi rất mong chờ được đọc những chia sẻ chân tình từ cô bác.",
+    "textdich": ""
+  },
+  {
+    "start": 1209.266,
+    "end": 1212.733,
+    "text": "Nếu cô bác thấy video này mang lại thông tin hữu ích và dễ hiểu,",
+    "textdich": ""
+  },
+  {
+    "start": 1213.066,
+    "end": 1216.7,
+    "text": "xin đừng quên nhấn nút Thích (Like) để ủng hộ tinh thần cho tôi.",
+    "textdich": ""
+  },
+  {
+    "start": 1217.166,
+    "end": 1220.2,
+    "text": "Đặc biệt, hãy chia sẻ video này lên Zalo, Facebook",
+    "textdich": ""
+  },
+  {
+    "start": 1220.5,
+    "end": 1223.266,
+    "text": "cho những người bạn già, những người thân yêu của mình cùng xem.",
+    "textdich": ""
+  },
+  {
+    "start": 1223.8,
+    "end": 1228.533,
+    "text": "Biết đâu một thay đổi nhỏ của họ hôm nay sẽ cứu vãn được cả đôi chân khỏe mạnh ngày mai.",
+    "textdich": ""
+  },
+  {
+    "start": 1229.1,
+    "end": 1231.9,
+    "text": "Và nếu đây là lần đầu tiên cô bác đến với kênh,",
+    "textdich": ""
+  },
+  {
+    "start": 1232.3,
+    "end": 1237.133,
+    "text": "hãy nhấn nút đăng ký kênh Càng Già Càng Khỏe và bật quả chuông thông báo,",
+    "textdich": ""
+  },
+  {
+    "start": 1237.666,
+    "end": 1243.466,
+    "text": "để chúng ta còn tiếp tục gặp lại nhau trong những video chăm sóc sức khỏe tuyệt vời và thiết thực tiếp theo.",
+    "textdich": ""
+  },
+  {
+    "start": 1244.133,
+    "end": 1247.0,
+    "text": "Xin cảm ơn cô bác đã dành thời gian quý báu để lắng nghe.",
+    "textdich": ""
+  },
+  {
+    "start": 1247.333,
+    "end": 1250.9,
+    "text": "Bác sĩ Tuấn Khang kính chúc cô bác cùng gia đình luôn dồi dào sức khỏe,",
+    "textdich": ""
+  },
+  {
+    "start": 1251.166,
+    "end": 1254.0,
+    "text": "tinh thần lạc quan và một cuộc sống bình an, hạnh phúc.",
+    "textdich": ""
+  },
+  {
+    "start": 1254.6,
+    "end": 1255.7,
+    "text": "Xin chào và hẹn gặp lại!",
+    "textdich": ""
+  }
+]
