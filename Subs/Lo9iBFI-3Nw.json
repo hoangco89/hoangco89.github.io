@@ -1,0 +1,5828 @@
+[
+  {
+    "start": 5.066,
+    "end": 5.9,
+    "text": "cô bác biết không",
+    "textdich": ""
+  },
+  {
+    "start": 6.133,
+    "end": 7.133,
+    "text": "trong cơ thể của chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 7.366,
+    "end": 10.333,
+    "text": "có một cơ Quan Âm thầm làm việc suốt 24 giờ mỗi ngày",
+    "textdich": ""
+  },
+  {
+    "start": 10.766,
+    "end": 11.566,
+    "text": "không nghỉ một phút",
+    "textdich": ""
+  },
+  {
+    "start": 11.766,
+    "end": 12.8,
+    "text": "không đòi hỏi điều gì",
+    "textdich": ""
+  },
+  {
+    "start": 13.066,
+    "end": 14.933,
+    "text": "nhưng chỉ cần nó suy yếu một chút thôi",
+    "textdich": ""
+  },
+  {
+    "start": 14.933,
+    "end": 16.8,
+    "text": "là cả sức khỏe toàn thân lập tức bị ảnh hưởng",
+    "textdich": ""
+  },
+  {
+    "start": 17.466,
+    "end": 18.6,
+    "text": "đó chính là 2 quả thận",
+    "textdich": ""
+  },
+  {
+    "start": 19.333,
+    "end": 21.333,
+    "text": "4 thận giống như máy lọc trung tâm của cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 21.966,
+    "end": 24.933,
+    "text": "mỗi ngày 2 quả thận phải lọc hơn 150l máu",
+    "textdich": ""
+  },
+  {
+    "start": 25.266,
+    "end": 26.066,
+    "text": "loại bỏ độc tố",
+    "textdich": ""
+  },
+  {
+    "start": 26.333,
+    "end": 27.666,
+    "text": "giữ lại những dưỡng chất cần thiết",
+    "textdich": ""
+  },
+  {
+    "start": 27.933,
+    "end": 29.466,
+    "text": "điều chỉnh lượng nước điện giải",
+    "textdich": ""
+  },
+  {
+    "start": 29.666,
+    "end": 31.066,
+    "text": "huyết áp và cả hoóc môn",
+    "textdich": ""
+  },
+  {
+    "start": 31.533,
+    "end": 32.6,
+    "text": "nhờ thận hoạt động tốt",
+    "textdich": ""
+  },
+  {
+    "start": 32.666,
+    "end": 34.533,
+    "text": "mà cơ thể cô bác mới cảm thấy nhẹ nhàng",
+    "textdich": ""
+  },
+  {
+    "start": 34.9,
+    "end": 36.866,
+    "text": "tỉnh táo ngủ ngon và ít bệnh tật",
+    "textdich": ""
+  },
+  {
+    "start": 37.8,
+    "end": 39.733,
+    "text": "nhưng bước qua tuổi 55 đến 60",
+    "textdich": ""
+  },
+  {
+    "start": 39.966,
+    "end": 41.466,
+    "text": "thận bắt đầu chịu áp lực nhiều hơn",
+    "textdich": ""
+  },
+  {
+    "start": 42.0,
+    "end": 44.7,
+    "text": "độc tố trong máu tích tụ dần qua thức ăn thuốc men",
+    "textdich": ""
+  },
+  {
+    "start": 44.933,
+    "end": 46.666,
+    "text": "tuổi tác thói quen uống ít nước",
+    "textdich": ""
+  },
+  {
+    "start": 47.0,
+    "end": 49.7,
+    "text": "ngủ không đủ giấc tất cả khiến thận dễ bị quá tải",
+    "textdich": ""
+  },
+  {
+    "start": 50.266,
+    "end": 53.1,
+    "text": "BA và cơ thể cô bác sẽ gửi tín hiệu cảnh báo rất sớm",
+    "textdich": ""
+  },
+  {
+    "start": 53.566,
+    "end": 54.7,
+    "text": "chỉ là nhiều người không để ý",
+    "textdich": ""
+  },
+  {
+    "start": 55.466,
+    "end": 57.7,
+    "text": "mệt mỏi âm ỉ dù không làm gì nặng",
+    "textdich": ""
+  },
+  {
+    "start": 58.6,
+    "end": 61.466,
+    "text": "cơ thể nặng nề đi lại hơi chậm hay thở dài",
+    "textdich": ""
+  },
+  {
+    "start": 62.366,
+    "end": 63.966,
+    "text": "chân tối ngủ dễ bị phù nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 64.166,
+    "end": 65.766,
+    "text": "mang giày dép thấy chật hơn bình thường",
+    "textdich": ""
+  },
+  {
+    "start": 66.7,
+    "end": 68.4,
+    "text": "một khó ngủ ngủ chập chờn",
+    "textdich": ""
+  },
+  {
+    "start": 68.7,
+    "end": 71.6,
+    "text": "đặc biệt là tiểu đêm ngày mùng một tháng 3x2",
+    "textdich": ""
+  },
+  {
+    "start": 71.6,
+    "end": 73.2,
+    "text": "buổi sáng ngủ dậy thấy miệng khô",
+    "textdich": ""
+  },
+  {
+    "start": 73.366,
+    "end": 75.133,
+    "text": "người uể oải như chưa được nghỉ ngơi",
+    "textdich": ""
+  },
+  {
+    "start": 76.166,
+    "end": 78.066,
+    "text": "tất cả những dấu hiệu này thường khiến cô bác",
+    "textdich": ""
+  },
+  {
+    "start": 78.133,
+    "end": 78.933,
+    "text": "nghĩ do tuổi tác",
+    "textdich": ""
+  },
+  {
+    "start": 79.266,
+    "end": 81.133,
+    "text": "nhưng thật Ra đó là tiếng kêu cứu của thận",
+    "textdich": ""
+  },
+  {
+    "start": 81.666,
+    "end": 82.733,
+    "text": "nếu thận làm việc hiệu quả",
+    "textdich": ""
+  },
+  {
+    "start": 83.133,
+    "end": 84.866,
+    "text": "cơ thể nhẹ bẫng giấc ngủ sâu",
+    "textdich": ""
+  },
+  {
+    "start": 85.133,
+    "end": 88.066,
+    "text": "Tim mạch ổn định và cô bác sẽ ít mệt mỏi hơn rất nhiều",
+    "textdich": ""
+  },
+  {
+    "start": 88.8,
+    "end": 90.533,
+    "text": "4 trong y học dân gian Việt Nam",
+    "textdich": ""
+  },
+  {
+    "start": 90.8,
+    "end": 91.866,
+    "text": "có một công thức rất hay",
+    "textdich": ""
+  },
+  {
+    "start": 92.133,
+    "end": 94.133,
+    "text": "cực kỳ dễ kiếm và an toàn Cho người Cao tuổi",
+    "textdich": ""
+  },
+  {
+    "start": 94.5,
+    "end": 96.933,
+    "text": "kết hợp năm loại lá quen thuộc với một chút gừng tươi",
+    "textdich": ""
+  },
+  {
+    "start": 97.8,
+    "end": 99.366,
+    "text": "cô bác không cần mua thuốc đắt tiền",
+    "textdich": ""
+  },
+  {
+    "start": 99.766,
+    "end": 101.0,
+    "text": "không phải sắc nấu cầu kỳ",
+    "textdich": ""
+  },
+  {
+    "start": 101.566,
+    "end": 102.533,
+    "text": "chỉ cần những loại lá",
+    "textdich": ""
+  },
+  {
+    "start": 102.6,
+    "end": 103.933,
+    "text": "có ngay trong vườn hoặc ngoài chợ",
+    "textdich": ""
+  },
+  {
+    "start": 104.333,
+    "end": 106.566,
+    "text": "thơm dễ uống lại đặc biệt tốt Cho thận",
+    "textdich": ""
+  },
+  {
+    "start": 106.866,
+    "end": 108.2,
+    "text": "tiêu hóa và tuần hoàn máu",
+    "textdich": ""
+  },
+  {
+    "start": 109.066,
+    "end": 111.0,
+    "text": "nhưng để bài thuốc phát huy hiệu quả tối đa",
+    "textdich": ""
+  },
+  {
+    "start": 111.4,
+    "end": 113.466,
+    "text": "không thể thiếu một thứ đóng vai trò dẫn đường",
+    "textdich": ""
+  },
+  {
+    "start": 113.666,
+    "end": 114.466,
+    "text": "đó là gừng tươi",
+    "textdich": ""
+  },
+  {
+    "start": 115.266,
+    "end": 117.7,
+    "text": "trong đông y gừng được xem là vị thuốc dẫn",
+    "textdich": ""
+  },
+  {
+    "start": 117.966,
+    "end": 120.2,
+    "text": "nghĩa là nó giúp mở đường làm ấm kinh mạch",
+    "textdich": ""
+  },
+  {
+    "start": 120.5,
+    "end": 121.566,
+    "text": "thúc đẩy máu lưu thông",
+    "textdich": ""
+  },
+  {
+    "start": 121.866,
+    "end": 123.6,
+    "text": "từ đó giúp các hoạt chất trong năm loại lá",
+    "textdich": ""
+  },
+  {
+    "start": 123.7,
+    "end": 124.733,
+    "text": "thấm sâu hơn vào thận",
+    "textdich": ""
+  },
+  {
+    "start": 125.0,
+    "end": 126.5,
+    "text": "hỗ trợ đào thải độc tố nhanh hơn",
+    "textdich": ""
+  },
+  {
+    "start": 127.2,
+    "end": 129.266,
+    "text": "4 gừng có 4 tác dụng cực kỳ quan trọng",
+    "textdich": ""
+  },
+  {
+    "start": 129.333,
+    "end": 130.2,
+    "text": "đối với người Cao tuổi",
+    "textdich": ""
+  },
+  {
+    "start": 130.533,
+    "end": 131.566,
+    "text": "một kháng viêm",
+    "textdich": ""
+  },
+  {
+    "start": 131.866,
+    "end": 134.4,
+    "text": "giảm tình trạng viêm âm thầm trong cơ thể 2",
+    "textdich": ""
+  },
+  {
+    "start": 134.566,
+    "end": 135.566,
+    "text": "sau tuổi 60",
+    "textdich": ""
+  },
+  {
+    "start": 135.766,
+    "end": 138.266,
+    "text": "viêm nhẹ kéo dài là lý do khiến cô bác mệt mỏi",
+    "textdich": ""
+  },
+  {
+    "start": 138.533,
+    "end": 140.9,
+    "text": "đau nhức nặng người và thận làm việc kém hiệu quả",
+    "textdich": ""
+  },
+  {
+    "start": 141.533,
+    "end": 143.066,
+    "text": "gừng giúp giảm hẳn tình trạng này",
+    "textdich": ""
+  },
+  {
+    "start": 143.4,
+    "end": 146.8,
+    "text": "BA làm ấm cơ thể đặc biệt tốt vào buổi tối 4",
+    "textdich": ""
+  },
+  {
+    "start": 147.133,
+    "end": 147.966,
+    "text": "một cơ thể lạnh",
+    "textdich": ""
+  },
+  {
+    "start": 148.133,
+    "end": 150.7,
+    "text": "bàn Tay bàn chân lạnh là nguyên nhân dẫn đến tiểu đêm",
+    "textdich": ""
+  },
+  {
+    "start": 150.9,
+    "end": 154.366,
+    "text": "khó ngủ gừng làm ấm cơ thể hỗ trợ ngủ sâu tự nhiên",
+    "textdich": ""
+  },
+  {
+    "start": 155.166,
+    "end": 156.533,
+    "text": "4 tăng tuần hoàn máu",
+    "textdich": ""
+  },
+  {
+    "start": 157.366,
+    "end": 159.766,
+    "text": "máu lưu thông tốt thì thận mới đủ nguyên liệu để lọc",
+    "textdich": ""
+  },
+  {
+    "start": 160.2,
+    "end": 162.866,
+    "text": "gừng giúp đưa máu lên thận đều đặn hơn 6",
+    "textdich": ""
+  },
+  {
+    "start": 163.066,
+    "end": 166.133,
+    "text": "hỗ trợ tiêu hóa giảm đầy bụng khó tiêu 6",
+    "textdich": ""
+  },
+  {
+    "start": 166.3,
+    "end": 168.333,
+    "text": "độc tố tích tụ trong ruột sẽ quay lại máu",
+    "textdich": ""
+  },
+  {
+    "start": 168.6,
+    "end": 169.9,
+    "text": "khiến thận làm việc nặng hơn",
+    "textdich": ""
+  },
+  {
+    "start": 170.333,
+    "end": 171.666,
+    "text": "gừng giúp thanh lọc từ gốc",
+    "textdich": ""
+  },
+  {
+    "start": 172.566,
+    "end": 174.666,
+    "text": "chính vì vậy trong bài thuốc dân gian này",
+    "textdich": ""
+  },
+  {
+    "start": 174.866,
+    "end": 176.533,
+    "text": "gừng giống như chiếc chìa khóa mở cửa",
+    "textdich": ""
+  },
+  {
+    "start": 176.8,
+    "end": 178.9,
+    "text": "giúp năm loại lá phát huy tác dụng gấp nhiều lần",
+    "textdich": ""
+  },
+  {
+    "start": 179.866,
+    "end": 181.8,
+    "text": "BA BA lợi ích lớn mà bài thuốc sẽ mang lại",
+    "textdich": ""
+  },
+  {
+    "start": 182.466,
+    "end": 183.566,
+    "text": "trong phần thân bài tới",
+    "textdich": ""
+  },
+  {
+    "start": 183.9,
+    "end": 185.666,
+    "text": "con sẽ phân tích rõ ràng từng loại lá",
+    "textdich": ""
+  },
+  {
+    "start": 185.766,
+    "end": 187.4,
+    "text": "và vì SAO chúng giúp cơ thể cải thiện",
+    "textdich": ""
+  },
+  {
+    "start": 188.166,
+    "end": 191.766,
+    "text": "hỗ trợ thận giảm tải giúp thận lọc máu tốt hơn 4",
+    "textdich": ""
+  },
+  {
+    "start": 191.933,
+    "end": 193.5,
+    "text": "các nhóm hoạt chất trong năm loại lá",
+    "textdich": ""
+  },
+  {
+    "start": 193.566,
+    "end": 194.6,
+    "text": "có khả năng giảm độc tố",
+    "textdich": ""
+  },
+  {
+    "start": 194.933,
+    "end": 196.7,
+    "text": "thúc đẩy bài tiết nước tiểu đúng nhịp",
+    "textdich": ""
+  },
+  {
+    "start": 196.933,
+    "end": 198.066,
+    "text": "giảm áp lực Cho cầu thận",
+    "textdich": ""
+  },
+  {
+    "start": 198.566,
+    "end": 199.733,
+    "text": "năm thanh lọc cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 199.933,
+    "end": 203.0,
+    "text": "giảm phù nhẹ người 6 khi thận được hỗ trợ",
+    "textdich": ""
+  },
+  {
+    "start": 203.466,
+    "end": 204.533,
+    "text": "cơ thể sẽ bớt giữ nước",
+    "textdich": ""
+  },
+  {
+    "start": 204.733,
+    "end": 207.166,
+    "text": "bớt nặng nề bụng nhẹ chân Tay đỡ mỏi",
+    "textdich": ""
+  },
+  {
+    "start": 207.5,
+    "end": 210.333,
+    "text": "7 cải thiện giấc ngủ giảm tiểu đêm 8",
+    "textdich": ""
+  },
+  {
+    "start": 210.766,
+    "end": 212.0,
+    "text": "nhiều cô bác uống đúng cách",
+    "textdich": ""
+  },
+  {
+    "start": 212.066,
+    "end": 213.6,
+    "text": "chỉ sau 7 đến 10 ngày đã thấy",
+    "textdich": ""
+  },
+  {
+    "start": 213.866,
+    "end": 214.9,
+    "text": "ngủ liền mạch hơn",
+    "textdich": ""
+  },
+  {
+    "start": 215.066,
+    "end": 215.866,
+    "text": "giấc ngủ sâu hơn",
+    "textdich": ""
+  },
+  {
+    "start": 216.133,
+    "end": 217.066,
+    "text": "sáng dậy bớt mệt",
+    "textdich": ""
+  },
+  {
+    "start": 217.966,
+    "end": 220.866,
+    "text": "ngay sau phần này con sẽ đi vào năm loại lá quen thuộc",
+    "textdich": ""
+  },
+  {
+    "start": 221.1,
+    "end": 222.566,
+    "text": "không xa lạ không tốn kém",
+    "textdich": ""
+  },
+  {
+    "start": 222.933,
+    "end": 223.933,
+    "text": "nhưng lại chứa nhiều hoạt chất",
+    "textdich": ""
+  },
+  {
+    "start": 223.966,
+    "end": 225.3,
+    "text": "hỗ trợ thận cực kỳ mạnh mẽ",
+    "textdich": ""
+  },
+  {
+    "start": 225.366,
+    "end": 226.6,
+    "text": "mà cô bác ít khi để ý",
+    "textdich": ""
+  },
+  {
+    "start": 227.533,
+    "end": 229.2,
+    "text": "mỗi loại lá sẽ có một cơ chế riêng",
+    "textdich": ""
+  },
+  {
+    "start": 229.5,
+    "end": 230.7,
+    "text": "loại giúp lợi tiểu tự nhiên",
+    "textdich": ""
+  },
+  {
+    "start": 231.1,
+    "end": 231.9,
+    "text": "loại chống viêm",
+    "textdich": ""
+  },
+  {
+    "start": 231.966,
+    "end": 233.8,
+    "text": "loại thanh nhiệt loại điều hòa đường huyết",
+    "textdich": ""
+  },
+  {
+    "start": 234.133,
+    "end": 235.1,
+    "text": "loại làm sạch đường tiểu",
+    "textdich": ""
+  },
+  {
+    "start": 235.466,
+    "end": 237.966,
+    "text": "tất cả phối hợp với nhau như một đội 5 bác sĩ thảo mộc",
+    "textdich": ""
+  },
+  {
+    "start": 238.966,
+    "end": 240.466,
+    "text": "lá số một lá mã đề",
+    "textdich": ""
+  },
+  {
+    "start": 240.6,
+    "end": 243.1,
+    "text": "vị thuốc lợi tiểu mạnh giúp thận thở nhẹ trở lại",
+    "textdich": ""
+  },
+  {
+    "start": 243.933,
+    "end": 246.3,
+    "text": "cô bác có lẽ đã nghe nhiều người lớn tuổi truyền nhau",
+    "textdich": ""
+  },
+  {
+    "start": 246.5,
+    "end": 248.7,
+    "text": "tiểu khó tiểu buốt thì uống nước mã đề",
+    "textdich": ""
+  },
+  {
+    "start": 249.166,
+    "end": 249.733,
+    "text": "nhưng thực Ra",
+    "textdich": ""
+  },
+  {
+    "start": 249.733,
+    "end": 251.966,
+    "text": "tác dụng của lá mã đề còn sâu rộng hơn rất nhiều",
+    "textdich": ""
+  },
+  {
+    "start": 252.666,
+    "end": 253.966,
+    "text": "đặc biệt đối với người thận yếu",
+    "textdich": ""
+  },
+  {
+    "start": 254.166,
+    "end": 256.166,
+    "text": "nó đóng vai trò như một máy bơm tự nhiên",
+    "textdich": ""
+  },
+  {
+    "start": 256.6,
+    "end": 258.7,
+    "text": "giúp dòng nước tiểu lưu thông đều nhẹ nhàng",
+    "textdich": ""
+  },
+  {
+    "start": 259.0,
+    "end": 260.866,
+    "text": "cuốn Theo độc tố để thận bớt gánh nặng",
+    "textdich": ""
+  },
+  {
+    "start": 261.7,
+    "end": 263.566,
+    "text": "vì SAO lá mã đề lại tốt Cho thận",
+    "textdich": ""
+  },
+  {
+    "start": 264.366,
+    "end": 266.5,
+    "text": "trong lá mã đề có một hoạt chất cực kỳ quan trọng",
+    "textdich": ""
+  },
+  {
+    "start": 266.533,
+    "end": 267.6,
+    "text": "tên là occubin",
+    "textdich": ""
+  },
+  {
+    "start": 268.133,
+    "end": 269.733,
+    "text": "đây là hoạt chất đã được nghiên cứu trong y",
+    "textdich": ""
+  },
+  {
+    "start": 269.8,
+    "end": 271.066,
+    "text": "học hiện đại có tác dụng",
+    "textdich": ""
+  },
+  {
+    "start": 271.7,
+    "end": 273.5,
+    "text": "tăng bài tiết nước tiểu một cách tự nhiên",
+    "textdich": ""
+  },
+  {
+    "start": 273.933,
+    "end": 275.733,
+    "text": "không gây mất chất điện giải như thuốc tây",
+    "textdich": ""
+  },
+  {
+    "start": 276.333,
+    "end": 279.0,
+    "text": "4 làm sạch đường tiểu ngăn cặn bẩn tích tụ",
+    "textdich": ""
+  },
+  {
+    "start": 279.933,
+    "end": 281.5,
+    "text": "giảm axit uric trong máu",
+    "textdich": ""
+  },
+  {
+    "start": 281.766,
+    "end": 284.4,
+    "text": "từ đó giảm nguy cơ sỏi thận và viêm khớp do gout",
+    "textdich": ""
+  },
+  {
+    "start": 285.166,
+    "end": 287.9,
+    "text": "kháng viêm giúp làm dịu tình trạng viêm nhẹ ở cầu",
+    "textdich": ""
+  },
+  {
+    "start": 287.933,
+    "end": 288.733,
+    "text": "thận và ống thận",
+    "textdich": ""
+  },
+  {
+    "start": 289.566,
+    "end": 291.1,
+    "text": "nhờ 4 cơ chế cùng lúc này",
+    "textdich": ""
+  },
+  {
+    "start": 291.2,
+    "end": 293.0,
+    "text": "lá mã đề không chỉ lợi tiểu đơn thuần",
+    "textdich": ""
+  },
+  {
+    "start": 293.1,
+    "end": 294.4,
+    "text": "mà còn bảo vệ cấu trúc thận",
+    "textdich": ""
+  },
+  {
+    "start": 294.666,
+    "end": 296.766,
+    "text": "hỗ trợ quá trình lọc máu diễn Ra trơn TRU hơn",
+    "textdich": ""
+  },
+  {
+    "start": 297.7,
+    "end": 299.266,
+    "text": "lá mã đề giúp giảm sưng phù",
+    "textdich": ""
+  },
+  {
+    "start": 299.5,
+    "end": 301.2,
+    "text": "điều mà người trên 60 tuổi rất cần",
+    "textdich": ""
+  },
+  {
+    "start": 302.166,
+    "end": 305.5,
+    "text": "cô bác có bao giờ thấy mắt hơi sưng vào buổi sáng",
+    "textdich": ""
+  },
+  {
+    "start": 306.1,
+    "end": 307.766,
+    "text": "cổ chân hơi phù vào cuối ngày",
+    "textdich": ""
+  },
+  {
+    "start": 308.366,
+    "end": 309.733,
+    "text": "mang dép thấy chật hơn",
+    "textdich": ""
+  },
+  {
+    "start": 310.3,
+    "end": 312.566,
+    "text": "Tay bấm vào da thấy lõm và lâu đầy lại",
+    "textdich": ""
+  },
+  {
+    "start": 313.0,
+    "end": 315.066,
+    "text": "BA đó là dấu hiệu cơ thể đang giữ nước",
+    "textdich": ""
+  },
+  {
+    "start": 315.366,
+    "end": 316.333,
+    "text": "và khi cơ thể giữ nước",
+    "textdich": ""
+  },
+  {
+    "start": 316.366,
+    "end": 318.066,
+    "text": "thì thận đang phải làm việc rất vất vả",
+    "textdich": ""
+  },
+  {
+    "start": 318.066,
+    "end": 318.866,
+    "text": "BA",
+    "textdich": ""
+  },
+  {
+    "start": 319.066,
+    "end": 322.3,
+    "text": "lá mã đề giúp tống phần nước dư thừa qua nước tiểu",
+    "textdich": ""
+  },
+  {
+    "start": 322.733,
+    "end": 324.533,
+    "text": "giảm phù làm nhẹ cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 325.366,
+    "end": 327.266,
+    "text": "giảm áp lực lên Tim và hệ mạch máu",
+    "textdich": ""
+  },
+  {
+    "start": 328.133,
+    "end": 329.9,
+    "text": "nhiều cô bác sau khi uống nước mã đề",
+    "textdich": ""
+  },
+  {
+    "start": 330.0,
+    "end": 331.766,
+    "text": "năm đến 7 ngày thường nói với con rằng",
+    "textdich": ""
+  },
+  {
+    "start": 332.4,
+    "end": 335.6,
+    "text": "bác sĩ ơi người tôi thấy nhẹ hẳn chân hết nặng nề",
+    "textdich": ""
+  },
+  {
+    "start": 335.933,
+    "end": 336.9,
+    "text": "đi lại thoải mái hơn",
+    "textdich": ""
+  },
+  {
+    "start": 337.533,
+    "end": 339.266,
+    "text": "BA đó chính là tác dụng lợi tiểu",
+    "textdich": ""
+  },
+  {
+    "start": 339.5,
+    "end": 341.766,
+    "text": "giảm phù rất mạnh nhưng an toàn của lá mã đề",
+    "textdich": ""
+  },
+  {
+    "start": 342.7,
+    "end": 345.066,
+    "text": "hỗ trợ đào thải axit uric và chất độc hại",
+    "textdich": ""
+  },
+  {
+    "start": 345.666,
+    "end": 346.466,
+    "text": "ở tuổi Cao",
+    "textdich": ""
+  },
+  {
+    "start": 346.566,
+    "end": 348.766,
+    "text": "quá trình đào thải độc tố của cơ thể bị chậm lại",
+    "textdich": ""
+  },
+  {
+    "start": 349.2,
+    "end": 352.333,
+    "text": "axit uric Ure và nhiều chất thải khác dễ bị ứ đọng",
+    "textdich": ""
+  },
+  {
+    "start": 352.866,
+    "end": 354.366,
+    "text": "đây là lý do người lớn tuổi thường gặp",
+    "textdich": ""
+  },
+  {
+    "start": 354.9,
+    "end": 356.9,
+    "text": "4 đau khớp nhất là ngón chân cái",
+    "textdich": ""
+  },
+  {
+    "start": 357.566,
+    "end": 360.9,
+    "text": "tiểu đêm nhiều nước tiểu vàng sậm có mùi nặng",
+    "textdich": ""
+  },
+  {
+    "start": 361.5,
+    "end": 362.966,
+    "text": "người mệt mỏi không rõ nguyên nhân",
+    "textdich": ""
+  },
+  {
+    "start": 363.733,
+    "end": 367.3,
+    "text": "một lá mã đề giúp tăng cường đào thải axit uric nhờ đó",
+    "textdich": ""
+  },
+  {
+    "start": 367.933,
+    "end": 368.9,
+    "text": "giảm đau nhức khớp",
+    "textdich": ""
+  },
+  {
+    "start": 369.533,
+    "end": 372.533,
+    "text": "giảm nguy cơ gout giảm viêm ở hệ tiết niệu",
+    "textdich": ""
+  },
+  {
+    "start": 373.266,
+    "end": 374.2,
+    "text": "làm sạch đường tiểu",
+    "textdich": ""
+  },
+  {
+    "start": 375.2,
+    "end": 375.9,
+    "text": "vì vậy",
+    "textdich": ""
+  },
+  {
+    "start": 375.9,
+    "end": 378.266,
+    "text": "trong bất kỳ bài thuốc dân gian nào hỗ trợ thận hoặc",
+    "textdich": ""
+  },
+  {
+    "start": 378.333,
+    "end": 380.6,
+    "text": "đường tiểu lá mã đề luôn có mặt rất nổi bật",
+    "textdich": ""
+  },
+  {
+    "start": 381.366,
+    "end": 384.1,
+    "text": "4 tại SAO người Cao tuổi đặc biệt cần đến lá mã đề",
+    "textdich": ""
+  },
+  {
+    "start": 385.0,
+    "end": 388.1,
+    "text": "bước qua tuổi 60 cơ thể cô bác thường gặp BA vấn đề",
+    "textdich": ""
+  },
+  {
+    "start": 388.8,
+    "end": 390.366,
+    "text": "uống nước ít vì sợ tiểu đêm",
+    "textdich": ""
+  },
+  {
+    "start": 391.2,
+    "end": 393.966,
+    "text": "điều này làm nước tiểu đặc thận hoạt động mệt mỏi hơn",
+    "textdich": ""
+  },
+  {
+    "start": 394.933,
+    "end": 396.566,
+    "text": "chế độ ăn nhiều chất đạm động vật",
+    "textdich": ""
+  },
+  {
+    "start": 397.2,
+    "end": 399.133,
+    "text": "một khiến axit uric tăng Cao",
+    "textdich": ""
+  },
+  {
+    "start": 399.5,
+    "end": 401.5,
+    "text": "2 khả năng lọc máu giảm Theo tuổi",
+    "textdich": ""
+  },
+  {
+    "start": 402.066,
+    "end": 403.933,
+    "text": "BA thận không còn sung sức như trước",
+    "textdich": ""
+  },
+  {
+    "start": 404.333,
+    "end": 407.4,
+    "text": "4 lá mã đề giúp giải quyết cả BA vấn đề này cùng lúc",
+    "textdich": ""
+  },
+  {
+    "start": 408.133,
+    "end": 410.466,
+    "text": "tăng đào thải nước tiểu nhưng Theo nhịp tự nhiên",
+    "textdich": ""
+  },
+  {
+    "start": 410.866,
+    "end": 412.566,
+    "text": "không gây tiểu đêm nếu uống đúng thời điểm",
+    "textdich": ""
+  },
+  {
+    "start": 412.966,
+    "end": 414.866,
+    "text": "năm 4 giúp giảm axit uric",
+    "textdich": ""
+  },
+  {
+    "start": 415.166,
+    "end": 416.933,
+    "text": "rất lợi Cho người hay đau khớp hoặc gút",
+    "textdich": ""
+  },
+  {
+    "start": 417.8,
+    "end": 418.566,
+    "text": "giảm gánh nặng",
+    "textdich": ""
+  },
+  {
+    "start": 418.566,
+    "end": 419.366,
+    "text": "lọc máu Cho thận",
+    "textdich": ""
+  },
+  {
+    "start": 419.4,
+    "end": 420.9,
+    "text": "bằng cách tăng thải độc qua đường niệu",
+    "textdich": ""
+  },
+  {
+    "start": 421.6,
+    "end": 423.266,
+    "text": "một lá mã đề kết hợp với gừng",
+    "textdich": ""
+  },
+  {
+    "start": 423.533,
+    "end": 424.766,
+    "text": "hiệu quả tăng mạnh gấp đôi",
+    "textdich": ""
+  },
+  {
+    "start": 425.6,
+    "end": 428.333,
+    "text": "trong bài thuốc chúng ta không dùng lá mã đề một mình",
+    "textdich": ""
+  },
+  {
+    "start": 428.9,
+    "end": 430.3,
+    "text": "sự kết hợp với gừng tươi giúp",
+    "textdich": ""
+  },
+  {
+    "start": 430.966,
+    "end": 433.2,
+    "text": "làm ấm cơ thể thúc đẩy thận hoạt động tốt hơn",
+    "textdich": ""
+  },
+  {
+    "start": 433.866,
+    "end": 435.166,
+    "text": "tăng lưu thông máu đến thận",
+    "textdich": ""
+  },
+  {
+    "start": 435.9,
+    "end": 437.7,
+    "text": "giảm tình trạng tiểu đêm do lạnh bụng",
+    "textdich": ""
+  },
+  {
+    "start": 438.266,
+    "end": 440.566,
+    "text": "tăng độ thẩm thấu của các hoạt chất trong lá mã đề",
+    "textdich": ""
+  },
+  {
+    "start": 441.266,
+    "end": 442.066,
+    "text": "nói cách khác",
+    "textdich": ""
+  },
+  {
+    "start": 442.1,
+    "end": 443.1,
+    "text": "gừng giúp mở đường",
+    "textdich": ""
+  },
+  {
+    "start": 443.333,
+    "end": 445.166,
+    "text": "còn lá mã đề thực hiện nhiệm vụ làm sạch",
+    "textdich": ""
+  },
+  {
+    "start": 445.8,
+    "end": 446.9,
+    "text": "4 AI nên dùng",
+    "textdich": ""
+  },
+  {
+    "start": 447.733,
+    "end": 450.066,
+    "text": "cô bác nào thuộc nhóm sau đây đặc biệt phù hợp",
+    "textdich": ""
+  },
+  {
+    "start": 450.8,
+    "end": 452.5,
+    "text": "thận yếu mệt mỏi kéo dài",
+    "textdich": ""
+  },
+  {
+    "start": 453.066,
+    "end": 457.0,
+    "text": "4 tiểu đêm 1/3 lần nước tiểu sẫm màu có mùi",
+    "textdich": ""
+  },
+  {
+    "start": 457.733,
+    "end": 460.4,
+    "text": "axit uric Cao hay đau nhức khớp",
+    "textdich": ""
+  },
+  {
+    "start": 460.9,
+    "end": 462.866,
+    "text": "người bị phù chân mặt Tay",
+    "textdich": ""
+  },
+  {
+    "start": 463.5,
+    "end": 464.7,
+    "text": "người ăn nhiều đạm động vật",
+    "textdich": ""
+  },
+  {
+    "start": 465.266,
+    "end": 467.366,
+    "text": "một người đang cần thanh lọc cơ thể sau ốm dậy",
+    "textdich": ""
+  },
+  {
+    "start": 467.533,
+    "end": 468.8,
+    "text": "hoặc sau thời gian dùng thuốc tây",
+    "textdich": ""
+  },
+  {
+    "start": 469.533,
+    "end": 470.366,
+    "text": "cô bác thân mến",
+    "textdich": ""
+  },
+  {
+    "start": 470.533,
+    "end": 471.966,
+    "text": "lá mã đề nhìn thì đơn giản",
+    "textdich": ""
+  },
+  {
+    "start": 472.2,
+    "end": 473.266,
+    "text": "mọc đầy ven đường",
+    "textdich": ""
+  },
+  {
+    "start": 473.5,
+    "end": 475.0,
+    "text": "nhưng lại là một vị thuốc vô cùng quý",
+    "textdich": ""
+  },
+  {
+    "start": 475.133,
+    "end": 476.933,
+    "text": "trong hành trình giải tỏa gánh nặng Cho thận",
+    "textdich": ""
+  },
+  {
+    "start": 477.4,
+    "end": 479.933,
+    "text": "đây mới chỉ là lá đầu tiên trong bài thuốc năm loại lá",
+    "textdich": ""
+  },
+  {
+    "start": 480.466,
+    "end": 481.4,
+    "text": "ở các phần tiếp Theo",
+    "textdich": ""
+  },
+  {
+    "start": 481.666,
+    "end": 483.666,
+    "text": "con sẽ tiếp tục phân tích thêm từng loại lá khác",
+    "textdich": ""
+  },
+  {
+    "start": 484.0,
+    "end": 486.0,
+    "text": "để cô bác hiểu rõ hơn và có thể tự tin",
+    "textdich": ""
+  },
+  {
+    "start": 486.1,
+    "end": 487.133,
+    "text": "áp dụng một cách an toàn",
+    "textdich": ""
+  },
+  {
+    "start": 487.9,
+    "end": 491.066,
+    "text": "một lá số 2 lá tía tô giải độc từ bên ngoài",
+    "textdich": ""
+  },
+  {
+    "start": 491.366,
+    "end": 492.733,
+    "text": "làm nhẹ cơ thể từ bên trong",
+    "textdich": ""
+  },
+  {
+    "start": 493.666,
+    "end": 494.466,
+    "text": "trong dân gian",
+    "textdich": ""
+  },
+  {
+    "start": 494.766,
+    "end": 496.933,
+    "text": "người ta hay dùng tía tô mỗi khi bị cảm lạnh",
+    "textdich": ""
+  },
+  {
+    "start": 497.166,
+    "end": 500.3,
+    "text": "ho nhẹ đầy bụng hoặc khi cơ thể uống nước nặng nề",
+    "textdich": ""
+  },
+  {
+    "start": 500.566,
+    "end": 502.666,
+    "text": "khó chịu đó không phải là ngẫu nhiên",
+    "textdich": ""
+  },
+  {
+    "start": 502.866,
+    "end": 505.2,
+    "text": "mà là vì tía tô có cơ chế thanh lọc rất đặc biệt",
+    "textdich": ""
+  },
+  {
+    "start": 505.6,
+    "end": 507.7,
+    "text": "nó giúp cơ thể đào thải độc tố qua đường mồ hôi",
+    "textdich": ""
+  },
+  {
+    "start": 508.0,
+    "end": 509.866,
+    "text": "thay vì dồn toàn bộ áp lực xuống thận",
+    "textdich": ""
+  },
+  {
+    "start": 510.4,
+    "end": 512.933,
+    "text": "Ba Vì SAO lá tía tô lại giúp thanh lọc cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 513.8,
+    "end": 515.066,
+    "text": "để cô bác dễ hình dung",
+    "textdich": ""
+  },
+  {
+    "start": 515.466,
+    "end": 517.6,
+    "text": "cơ thể chúng ta có 4 con đường thải độc chính",
+    "textdich": ""
+  },
+  {
+    "start": 518.266,
+    "end": 519.966,
+    "text": "đường tiểu do thận đảm nhiệm",
+    "textdich": ""
+  },
+  {
+    "start": 520.733,
+    "end": 522.766,
+    "text": "đường phân do gan và ruột đảm nhiệm",
+    "textdich": ""
+  },
+  {
+    "start": 523.4,
+    "end": 525.2,
+    "text": "BA tuyến mồ hôi nằm ở da",
+    "textdich": ""
+  },
+  {
+    "start": 526.133,
+    "end": 527.6,
+    "text": "hơi thở thông qua phổi",
+    "textdich": ""
+  },
+  {
+    "start": 528.366,
+    "end": 530.733,
+    "text": "khi tuổi Cao thận và gan thường yếu hơn",
+    "textdich": ""
+  },
+  {
+    "start": 530.966,
+    "end": 533.0,
+    "text": "việc thải độc qua đường tiểu và đường phân giảm",
+    "textdich": ""
+  },
+  {
+    "start": 533.1,
+    "end": 535.266,
+    "text": "hiệu quả nếu không mở thêm cửa phụ",
+    "textdich": ""
+  },
+  {
+    "start": 535.5,
+    "end": 538.266,
+    "text": "độc tố sẽ tích lại khiến cơ thể nặng nề",
+    "textdich": ""
+  },
+  {
+    "start": 538.766,
+    "end": 540.566,
+    "text": "uể oải ăn uống khó tiêu",
+    "textdich": ""
+  },
+  {
+    "start": 541.1,
+    "end": 542.8,
+    "text": "mất ngủ dễ bị cảm lạnh",
+    "textdich": ""
+  },
+  {
+    "start": 543.333,
+    "end": 544.466,
+    "text": "một đau nhức xương khớp",
+    "textdich": ""
+  },
+  {
+    "start": 544.8,
+    "end": 547.5,
+    "text": "2 lá tía tô giúp mở một cửa thải độc khác",
+    "textdich": ""
+  },
+  {
+    "start": 547.866,
+    "end": 548.733,
+    "text": "đó là tuyến mồ hôi",
+    "textdich": ""
+  },
+  {
+    "start": 549.133,
+    "end": 550.733,
+    "text": "BA nhờ khả năng tán Hàn",
+    "textdich": ""
+  },
+  {
+    "start": 551.0,
+    "end": 552.766,
+    "text": "phát tán độc tố thông khí huyết",
+    "textdich": ""
+  },
+  {
+    "start": 553.133,
+    "end": 555.866,
+    "text": "lá tía tô giúp cơ thể tiết mồ hôi tự nhiên từ đó",
+    "textdich": ""
+  },
+  {
+    "start": 556.7,
+    "end": 560.7,
+    "text": "giải cảm làm ấm cơ thể 4 BA đưa độc tố Ra ngoài qua da",
+    "textdich": ""
+  },
+  {
+    "start": 561.6,
+    "end": 562.866,
+    "text": "giảm gánh nặng lên thận",
+    "textdich": ""
+  },
+  {
+    "start": 563.7,
+    "end": 565.666,
+    "text": "cơ thể nhẹ bẫng thở dễ hơn",
+    "textdich": ""
+  },
+  {
+    "start": 566.166,
+    "end": 568.0,
+    "text": "tía tô giảm đầy bụng dễ tiêu",
+    "textdich": ""
+  },
+  {
+    "start": 568.9,
+    "end": 569.766,
+    "text": "nói một cách đơn giản",
+    "textdich": ""
+  },
+  {
+    "start": 570.1,
+    "end": 571.366,
+    "text": "tía tô giúp thận đỡ việc",
+    "textdich": ""
+  },
+  {
+    "start": 571.566,
+    "end": 573.533,
+    "text": "vì nó chuyển bớt gánh thải độc qua da",
+    "textdich": ""
+  },
+  {
+    "start": 574.4,
+    "end": 576.866,
+    "text": "cơ chế nổi bật của lá tía tô trong thanh lọc cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 577.866,
+    "end": 579.933,
+    "text": "trong lá tía tô có nhiều hoạt chất đặc biệt như",
+    "textdich": ""
+  },
+  {
+    "start": 580.6,
+    "end": 582.733,
+    "text": "berrylandehit giúp giãn mạch nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 583.0,
+    "end": 584.166,
+    "text": "hỗ trợ lưu thông khí huyết",
+    "textdich": ""
+  },
+  {
+    "start": 584.8,
+    "end": 588.4,
+    "text": "một luteolin và apigenin kháng viêm chống dị ứng",
+    "textdich": ""
+  },
+  {
+    "start": 588.766,
+    "end": 591.9,
+    "text": "2 tinh dầu perilla làm ấm và làm thông thoáng da",
+    "textdich": ""
+  },
+  {
+    "start": 592.333,
+    "end": 595.666,
+    "text": "BA 4 Omega BA dạng ALA giúp chống viêm toàn thân",
+    "textdich": ""
+  },
+  {
+    "start": 596.5,
+    "end": 597.733,
+    "text": "những hoạt chất này kết hợp",
+    "textdich": ""
+  },
+  {
+    "start": 597.766,
+    "end": 599.066,
+    "text": "tạo Ra 4 tác dụng quan trọng",
+    "textdich": ""
+  },
+  {
+    "start": 599.933,
+    "end": 602.1,
+    "text": "giải cảm giải lạnh làm ấm cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 602.8,
+    "end": 604.566,
+    "text": "4 người lớn tuổi rất hay bị lạnh bụng",
+    "textdich": ""
+  },
+  {
+    "start": 604.933,
+    "end": 606.866,
+    "text": "lạnh Tay chân dễ nhiễm cảm phong hàn",
+    "textdich": ""
+  },
+  {
+    "start": 607.4,
+    "end": 610.466,
+    "text": "tía tô giúp làm ấm từ bên trong thúc đẩy tuần hoàn máu",
+    "textdich": ""
+  },
+  {
+    "start": 610.733,
+    "end": 613.066,
+    "text": "nhờ đó hỗ trợ giấc ngủ và giảm tiểu đêm do lạnh",
+    "textdich": ""
+  },
+  {
+    "start": 613.9,
+    "end": 615.166,
+    "text": "hỗ trợ đổ mồ hôi tự nhiên",
+    "textdich": ""
+  },
+  {
+    "start": 616.2,
+    "end": 617.733,
+    "text": "một mồ hôi chính là một kênh thải độc",
+    "textdich": ""
+  },
+  {
+    "start": 618.133,
+    "end": 621.0,
+    "text": "mỗi giọt mồ hôi đem Theo muối nước và một phần độc tố",
+    "textdich": ""
+  },
+  {
+    "start": 621.466,
+    "end": 623.8,
+    "text": "khi mồ hôi Ra nhẹ nhàng cơ thể sẽ cảm thấy",
+    "textdich": ""
+  },
+  {
+    "start": 624.733,
+    "end": 627.066,
+    "text": "dễ chịu hơn đỡ nặng đầu",
+    "textdich": ""
+  },
+  {
+    "start": 627.9,
+    "end": 628.7,
+    "text": "ngủ ngon hơn",
+    "textdich": ""
+  },
+  {
+    "start": 629.6,
+    "end": 631.266,
+    "text": "giảm phù nhẹ ở mặt và Tay",
+    "textdich": ""
+  },
+  {
+    "start": 632.1,
+    "end": 633.4,
+    "text": "giảm viêm và chống dị ứng",
+    "textdich": ""
+  },
+  {
+    "start": 634.1,
+    "end": 636.1,
+    "text": "4 nhiều cô bác bị nổi Mẫn ngứa",
+    "textdich": ""
+  },
+  {
+    "start": 636.4,
+    "end": 637.2,
+    "text": "dị ứng thời tiết",
+    "textdich": ""
+  },
+  {
+    "start": 637.4,
+    "end": 639.733,
+    "text": "tía tô giúp giảm hẳn nhờ tính kháng viêm tự nhiên",
+    "textdich": ""
+  },
+  {
+    "start": 640.866,
+    "end": 642.366,
+    "text": "giảm căng thẳng và giúp dễ thở",
+    "textdich": ""
+  },
+  {
+    "start": 643.333,
+    "end": 644.766,
+    "text": "mùi thơm đặc trưng của tinh dầu tía",
+    "textdich": ""
+  },
+  {
+    "start": 644.933,
+    "end": 646.4,
+    "text": "tô có tác dụng làm dịu thần kinh",
+    "textdich": ""
+  },
+  {
+    "start": 646.733,
+    "end": 648.6,
+    "text": "giảm stress một yếu tố gây mất ngủ",
+    "textdich": ""
+  },
+  {
+    "start": 648.7,
+    "end": 650.166,
+    "text": "và khiến thận làm việc mệt mỏi hơn",
+    "textdich": ""
+  },
+  {
+    "start": 650.933,
+    "end": 653.533,
+    "text": "4 vì SAO người Cao tuổi rất cần đến lá tía tô",
+    "textdich": ""
+  },
+  {
+    "start": 654.4,
+    "end": 657.5,
+    "text": "ở tuổi 60 trở lên cơ thể cô bác có BA vấn đề lớn",
+    "textdich": ""
+  },
+  {
+    "start": 658.3,
+    "end": 660.5,
+    "text": "lỗ chân lông đóng lại do tuần hoàn máu yếu",
+    "textdich": ""
+  },
+  {
+    "start": 661.333,
+    "end": 663.866,
+    "text": "máu lưu thông kém khiến da lạnh khó Ra mồ hôi",
+    "textdich": ""
+  },
+  {
+    "start": 664.133,
+    "end": 664.933,
+    "text": "độc tố tích tụ",
+    "textdich": ""
+  },
+  {
+    "start": 665.666,
+    "end": 667.3,
+    "text": "4 thận yếu không thải độc hiệu quả",
+    "textdich": ""
+  },
+  {
+    "start": 667.866,
+    "end": 670.733,
+    "text": "năm thận yếu lọc chậm cơ thể nặng nề mệt mỏi ngủ kém",
+    "textdich": ""
+  },
+  {
+    "start": 671.3,
+    "end": 673.366,
+    "text": "6 dễ bị cảm lạnh nhiễm Hàn",
+    "textdich": ""
+  },
+  {
+    "start": 674.3,
+    "end": 676.566,
+    "text": "mỗi lần cảm lạnh cơ thể lại càng yếu hơn",
+    "textdich": ""
+  },
+  {
+    "start": 676.8,
+    "end": 679.933,
+    "text": "7 4 tía tô giải quyết cả BA vấn đề cùng lúc bằng cách",
+    "textdich": ""
+  },
+  {
+    "start": 680.6,
+    "end": 681.466,
+    "text": "làm ấm cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 682.4,
+    "end": 683.366,
+    "text": "mở tuyến mồ hôi",
+    "textdich": ""
+  },
+  {
+    "start": 684.266,
+    "end": 685.466,
+    "text": "tăng lưu thông khí huyết",
+    "textdich": ""
+  },
+  {
+    "start": 686.333,
+    "end": 687.733,
+    "text": "giảm gánh thải độc Cho thận",
+    "textdich": ""
+  },
+  {
+    "start": 688.6,
+    "end": 690.266,
+    "text": "hỗ trợ tiêu hóa và giảm đầy hơi",
+    "textdich": ""
+  },
+  {
+    "start": 691.2,
+    "end": 692.5,
+    "text": "đó là lý do con luôn nói",
+    "textdich": ""
+  },
+  {
+    "start": 692.7,
+    "end": 695.366,
+    "text": "tía tô là lá tốt Cho cả người khỏe lẫn người thận yếu",
+    "textdich": ""
+  },
+  {
+    "start": 696.266,
+    "end": 698.8,
+    "text": "tía tô trong bài thuốc vai trò quan trọng như thế nào",
+    "textdich": ""
+  },
+  {
+    "start": 699.866,
+    "end": 701.7,
+    "text": "bài thuốc mà con đang hướng dẫn Cho cô bác",
+    "textdich": ""
+  },
+  {
+    "start": 701.766,
+    "end": 702.7,
+    "text": "là sự phối hợp giữa",
+    "textdich": ""
+  },
+  {
+    "start": 703.3,
+    "end": 705.533,
+    "text": "năm loại lá thanh lọc mát lợi tiểu",
+    "textdich": ""
+  },
+  {
+    "start": 705.8,
+    "end": 708.1,
+    "text": "lợi tiểu tía tô và gừng tươi đóng vai trò dẫn",
+    "textdich": ""
+  },
+  {
+    "start": 709.0,
+    "end": 709.666,
+    "text": "trong đó",
+    "textdich": ""
+  },
+  {
+    "start": 709.666,
+    "end": 712.133,
+    "text": "tía tô là loại lá giúp đào thải độc qua mồ hôi",
+    "textdich": ""
+  },
+  {
+    "start": 712.533,
+    "end": 714.266,
+    "text": "tạo Ra một đường thải độc bổ trợ Cho",
+    "textdich": ""
+  },
+  {
+    "start": 714.933,
+    "end": 716.366,
+    "text": "lá mã đề lợi tiểu",
+    "textdich": ""
+  },
+  {
+    "start": 717.266,
+    "end": 718.5,
+    "text": "lá dứa thanh nhiệt",
+    "textdich": ""
+  },
+  {
+    "start": 719.466,
+    "end": 722.733,
+    "text": "lá ổi lá diếp cá kháng viêm làm sạch đường tiểu",
+    "textdich": ""
+  },
+  {
+    "start": 723.866,
+    "end": 726.533,
+    "text": "sự kết hợp này giúp giảm phù nhanh",
+    "textdich": ""
+  },
+  {
+    "start": 727.2,
+    "end": 729.7,
+    "text": "người nhẹ nhõm bụng dễ chịu",
+    "textdich": ""
+  },
+  {
+    "start": 730.5,
+    "end": 731.333,
+    "text": "ngủ sâu hơn",
+    "textdich": ""
+  },
+  {
+    "start": 732.166,
+    "end": 733.2,
+    "text": "tiểu đêm ít lại",
+    "textdich": ""
+  },
+  {
+    "start": 733.9,
+    "end": 736.266,
+    "text": "có thể ví tía tô như cửa thoát hơi Cho cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 736.766,
+    "end": 739.333,
+    "text": "khi cửa này mở đúng cách thận sẽ bớt quá tải",
+    "textdich": ""
+  },
+  {
+    "start": 740.166,
+    "end": 741.9,
+    "text": "AI đặc biệt nên dùng lá tía tô",
+    "textdich": ""
+  },
+  {
+    "start": 742.8,
+    "end": 744.533,
+    "text": "những cô bác sau đây cực kỳ phù hợp",
+    "textdich": ""
+  },
+  {
+    "start": 745.266,
+    "end": 746.9,
+    "text": "người hay lạnh Tay lạnh chân",
+    "textdich": ""
+  },
+  {
+    "start": 747.733,
+    "end": 749.966,
+    "text": "người tiểu đêm nhiều do lạnh bụng một",
+    "textdich": ""
+  },
+  {
+    "start": 750.166,
+    "end": 753.066,
+    "text": "người mệt mỏi nặng đầu dễ cảm 2",
+    "textdich": ""
+  },
+  {
+    "start": 753.2,
+    "end": 755.7,
+    "text": "người lên mồ hôi ít cơ thể như bị ám khí",
+    "textdich": ""
+  },
+  {
+    "start": 756.133,
+    "end": 758.8,
+    "text": "BA người đang thanh lọc thận và gan 4",
+    "textdich": ""
+  },
+  {
+    "start": 758.933,
+    "end": 760.533,
+    "text": "người hay đầy bụng khó tiêu",
+    "textdich": ""
+  },
+  {
+    "start": 760.866,
+    "end": 762.4,
+    "text": "năm một người ăn uống kém",
+    "textdich": ""
+  },
+  {
+    "start": 762.7,
+    "end": 764.166,
+    "text": "ngủ chập chờn 2",
+    "textdich": ""
+  },
+  {
+    "start": 764.333,
+    "end": 767.1,
+    "text": "tía tô kết hợp với gừng tăng ấm tăng thải độc",
+    "textdich": ""
+  },
+  {
+    "start": 767.366,
+    "end": 768.166,
+    "text": "tăng tuần hoàn",
+    "textdich": ""
+  },
+  {
+    "start": 768.5,
+    "end": 770.3,
+    "text": "BA khi uống Chung với gừng tươi",
+    "textdich": ""
+  },
+  {
+    "start": 771.066,
+    "end": 772.7,
+    "text": "tía tô mở cửa thải độc qua da",
+    "textdich": ""
+  },
+  {
+    "start": 773.366,
+    "end": 775.966,
+    "text": "một gừng đốt nóng tăng lưu thông 2",
+    "textdich": ""
+  },
+  {
+    "start": 776.266,
+    "end": 778.666,
+    "text": "thận thở nhẹ giảm gánh nặng BA",
+    "textdich": ""
+  },
+  {
+    "start": 778.866,
+    "end": 781.866,
+    "text": "giấc ngủ sâu hơn vì cơ thể ấm từ bên trong 4",
+    "textdich": ""
+  },
+  {
+    "start": 782.066,
+    "end": 783.266,
+    "text": "ít đi tiểu đêm hơn",
+    "textdich": ""
+  },
+  {
+    "start": 784.066,
+    "end": 785.266,
+    "text": "đây là bộ đôi rất mạnh",
+    "textdich": ""
+  },
+  {
+    "start": 785.466,
+    "end": 787.733,
+    "text": "đặc biệt phù hợp với cơ địa người lớn tuổi ở miền Bắc",
+    "textdich": ""
+  },
+  {
+    "start": 787.8,
+    "end": 788.6,
+    "text": "hoặc miền Trung",
+    "textdich": ""
+  },
+  {
+    "start": 788.733,
+    "end": 790.733,
+    "text": "nơi thời tiết hay lạnh dễ làm thận yếu",
+    "textdich": ""
+  },
+  {
+    "start": 791.1,
+    "end": 793.1,
+    "text": "năm 4 cô bác thân mến lá tía",
+    "textdich": ""
+  },
+  {
+    "start": 793.2,
+    "end": 794.0,
+    "text": "tô tuy đơn giản",
+    "textdich": ""
+  },
+  {
+    "start": 794.0,
+    "end": 795.666,
+    "text": "nhưng lại mang giá trị sức khỏe rất lớn",
+    "textdich": ""
+  },
+  {
+    "start": 796.3,
+    "end": 797.3,
+    "text": "khi biết dùng đúng cách",
+    "textdich": ""
+  },
+  {
+    "start": 797.666,
+    "end": 798.866,
+    "text": "nó không chỉ giúp giải cảm",
+    "textdich": ""
+  },
+  {
+    "start": 798.9,
+    "end": 800.3,
+    "text": "mà còn giúp thanh lọc toàn thân",
+    "textdich": ""
+  },
+  {
+    "start": 800.533,
+    "end": 802.966,
+    "text": "làm cơ thể nhẹ bẫng và hỗ trợ thận hoạt động tốt hơn",
+    "textdich": ""
+  },
+  {
+    "start": 803.933,
+    "end": 805.3,
+    "text": "lá số BA lá dứa",
+    "textdich": ""
+  },
+  {
+    "start": 805.566,
+    "end": 806.866,
+    "text": "hương thơm an thần tự nhiên",
+    "textdich": ""
+  },
+  {
+    "start": 807.166,
+    "end": 808.533,
+    "text": "đưa cơ thể vào giấc ngủ sâu",
+    "textdich": ""
+  },
+  {
+    "start": 809.533,
+    "end": 812.2,
+    "text": "cô bác từng nghe câu người già quý nhất là giấc ngủ",
+    "textdich": ""
+  },
+  {
+    "start": 813.133,
+    "end": 816.1,
+    "text": "đúng như vậy khi bước qua tuổi 55 đến 60",
+    "textdich": ""
+  },
+  {
+    "start": 816.333,
+    "end": 817.966,
+    "text": "Chu kỳ sinh học của não thay đổi",
+    "textdich": ""
+  },
+  {
+    "start": 818.333,
+    "end": 821.166,
+    "text": "hoocmon ngủ giảm dần cộng thêm bệnh lý như tiểu đêm",
+    "textdich": ""
+  },
+  {
+    "start": 821.4,
+    "end": 822.466,
+    "text": "đau nhức lo lắng",
+    "textdich": ""
+  },
+  {
+    "start": 822.733,
+    "end": 823.533,
+    "text": "rối loạn tiêu hóa",
+    "textdich": ""
+  },
+  {
+    "start": 823.866,
+    "end": 824.666,
+    "text": "khiến giấc ngủ trở nên",
+    "textdich": ""
+  },
+  {
+    "start": 824.733,
+    "end": 826.366,
+    "text": "mỏng manh và rất dễ bị đánh thức",
+    "textdich": ""
+  },
+  {
+    "start": 827.333,
+    "end": 828.133,
+    "text": "chính vì vậy",
+    "textdich": ""
+  },
+  {
+    "start": 828.133,
+    "end": 830.3,
+    "text": "trong bài thuốc hỗ trợ thận và cơ thể nhẹ nhõm",
+    "textdich": ""
+  },
+  {
+    "start": 830.566,
+    "end": 832.4,
+    "text": "con chọn lá dứa làm thành phần thứ BA",
+    "textdich": ""
+  },
+  {
+    "start": 832.666,
+    "end": 835.066,
+    "text": "với nhiệm vụ chính giúp cô bác thư giãn thần kinh",
+    "textdich": ""
+  },
+  {
+    "start": 835.3,
+    "end": 836.133,
+    "text": "ổn định nhịp Tim",
+    "textdich": ""
+  },
+  {
+    "start": 836.466,
+    "end": 838.533,
+    "text": "và đưa cơ thể vào trạng thái ngủ sâu tự nhiên",
+    "textdich": ""
+  },
+  {
+    "start": 839.533,
+    "end": 841.933,
+    "text": "vì SAO hương thơm lá dứa lại giúp ngủ ngon hơn",
+    "textdich": ""
+  },
+  {
+    "start": 842.933,
+    "end": 845.2,
+    "text": "điều đặc biệt của lá dứa nằm ở phần tinh dầu thơm",
+    "textdich": ""
+  },
+  {
+    "start": 845.266,
+    "end": 848.566,
+    "text": "tự nhiên chứa các hoạt chất như saponin",
+    "textdich": ""
+  },
+  {
+    "start": 849.266,
+    "end": 852.7,
+    "text": "flavonoidan thần 4 chất chống oxy hóa mạnh",
+    "textdich": ""
+  },
+  {
+    "start": 853.5,
+    "end": 854.3,
+    "text": "những hoạt chất này",
+    "textdich": ""
+  },
+  {
+    "start": 854.333,
+    "end": 855.733,
+    "text": "tác động trực tiếp đến hệ thần kinh",
+    "textdich": ""
+  },
+  {
+    "start": 855.8,
+    "end": 856.8,
+    "text": "giao cảm giúp",
+    "textdich": ""
+  },
+  {
+    "start": 857.5,
+    "end": 858.3,
+    "text": "giảm căng thẳng",
+    "textdich": ""
+  },
+  {
+    "start": 859.166,
+    "end": 860.0,
+    "text": "giảm nhịp Tim",
+    "textdich": ""
+  },
+  {
+    "start": 860.9,
+    "end": 862.366,
+    "text": "làm dịu hệ thần kinh trung ương",
+    "textdich": ""
+  },
+  {
+    "start": 863.0,
+    "end": 864.6,
+    "text": "một tạo cảm giác thư giãn sâu",
+    "textdich": ""
+  },
+  {
+    "start": 865.2,
+    "end": 868.1,
+    "text": "2 hỗ trợ não tiết melatonin hormone ngủ",
+    "textdich": ""
+  },
+  {
+    "start": 868.966,
+    "end": 871.9,
+    "text": "nhờ đó khi uống nước lá dứa cô bác sẽ cảm nhận",
+    "textdich": ""
+  },
+  {
+    "start": 872.6,
+    "end": 874.133,
+    "text": "đầu óc nhẹ lại 2",
+    "textdich": ""
+  },
+  {
+    "start": 874.366,
+    "end": 876.2,
+    "text": "2 vai bớt căng BA",
+    "textdich": ""
+  },
+  {
+    "start": 876.366,
+    "end": 878.4,
+    "text": "cơ thể ấm dần mà không nóng 4",
+    "textdich": ""
+  },
+  {
+    "start": 878.533,
+    "end": 880.2,
+    "text": "một tâm trí dịu xuống dễ chịu",
+    "textdich": ""
+  },
+  {
+    "start": 880.666,
+    "end": 882.533,
+    "text": "2 cơ thể dễ chìm vào giấc ngủ",
+    "textdich": ""
+  },
+  {
+    "start": 882.966,
+    "end": 886.0,
+    "text": "BA cơ chế giúp người lớn tuổi ngủ sâu hơn 4",
+    "textdich": ""
+  },
+  {
+    "start": 886.1,
+    "end": 888.166,
+    "text": "4 người Cao tuổi thường gặp năm vấn đề lớn",
+    "textdich": ""
+  },
+  {
+    "start": 888.266,
+    "end": 889.066,
+    "text": "khiến giấc ngủ kém",
+    "textdich": ""
+  },
+  {
+    "start": 889.366,
+    "end": 893.566,
+    "text": "một thận yếu tiểu đêm 2 căng thẳng thần kinh BA",
+    "textdich": ""
+  },
+  {
+    "start": 893.866,
+    "end": 896.133,
+    "text": "não hoạt động quá mức trước khi ngủ 4",
+    "textdich": ""
+  },
+  {
+    "start": 896.333,
+    "end": 898.466,
+    "text": "Tim đập nhanh hồi hộp nhẹ năm",
+    "textdich": ""
+  },
+  {
+    "start": 898.766,
+    "end": 900.466,
+    "text": "cơ thể lạnh hoặc đau nhức âm ỉ",
+    "textdich": ""
+  },
+  {
+    "start": 900.866,
+    "end": 903.766,
+    "text": "6 4 lá dứa giúp cải thiện cả năm vấn đề này cùng lúc",
+    "textdich": ""
+  },
+  {
+    "start": 904.5,
+    "end": 906.1,
+    "text": "an thần làm dịu não bộ",
+    "textdich": ""
+  },
+  {
+    "start": 906.9,
+    "end": 908.966,
+    "text": "hương lá dứa ảnh hưởng trực tiếp đến vùng não",
+    "textdich": ""
+  },
+  {
+    "start": 909.1,
+    "end": 910.333,
+    "text": "điều khiển cảm xúc và giấc ngủ",
+    "textdich": ""
+  },
+  {
+    "start": 910.8,
+    "end": 911.6,
+    "text": "giúp ngủ sâu hơn",
+    "textdich": ""
+  },
+  {
+    "start": 912.6,
+    "end": 913.9,
+    "text": "giảm tiểu đêm gián tiếp",
+    "textdich": ""
+  },
+  {
+    "start": 914.666,
+    "end": 915.666,
+    "text": "khi cơ thể thư giãn",
+    "textdich": ""
+  },
+  {
+    "start": 915.933,
+    "end": 916.8,
+    "text": "thận không căng thẳng",
+    "textdich": ""
+  },
+  {
+    "start": 917.1,
+    "end": 918.166,
+    "text": "dòng tiểu ổn định hơn",
+    "textdich": ""
+  },
+  {
+    "start": 918.2,
+    "end": 920.4,
+    "text": "giảm tình trạng thức giấc giữa đêm 4",
+    "textdich": ""
+  },
+  {
+    "start": 920.6,
+    "end": 921.533,
+    "text": "ổn định nhịp Tim",
+    "textdich": ""
+  },
+  {
+    "start": 921.933,
+    "end": 924.466,
+    "text": "năm người lớn tuổi hay có tình trạng hồi hộp đêm",
+    "textdich": ""
+  },
+  {
+    "start": 924.6,
+    "end": 926.866,
+    "text": "lá dứa giúp làm dịu Tim mạch 6",
+    "textdich": ""
+  },
+  {
+    "start": 927.0,
+    "end": 928.1,
+    "text": "làm ấm nhẹ cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 929.0,
+    "end": 931.066,
+    "text": "không phải nóng mà là cảm giác dễ chịu",
+    "textdich": ""
+  },
+  {
+    "start": 931.5,
+    "end": 933.366,
+    "text": "giúp máu lưu thông tốt hơn ngủ sâu hơn",
+    "textdich": ""
+  },
+  {
+    "start": 934.4,
+    "end": 935.9,
+    "text": "giảm căng cơ và đau đầu nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 936.766,
+    "end": 939.266,
+    "text": "một số hoạt chất trong lá dứa có tác dụng giảm đau nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 939.566,
+    "end": 941.2,
+    "text": "rất phù hợp Cho người hay mỏi vai gáy",
+    "textdich": ""
+  },
+  {
+    "start": 942.166,
+    "end": 944.6,
+    "text": "vì SAO lá dứa rất quan trọng trong bài thuốc năm lá",
+    "textdich": ""
+  },
+  {
+    "start": 945.466,
+    "end": 949.1,
+    "text": "các loại lá như lá mã đề lợi tiểu giảm sưng phù",
+    "textdich": ""
+  },
+  {
+    "start": 950.0,
+    "end": 952.333,
+    "text": "lá tía tô thanh nhiệt giải độc qua mồ hôi",
+    "textdich": ""
+  },
+  {
+    "start": 953.266,
+    "end": 954.866,
+    "text": "lá diếp cá làm sạch đường tiểu",
+    "textdich": ""
+  },
+  {
+    "start": 955.533,
+    "end": 957.3,
+    "text": "4 lá ổi kháng viêm tiêu hóa",
+    "textdich": ""
+  },
+  {
+    "start": 958.166,
+    "end": 960.666,
+    "text": "đều giúp làm nhẹ cơ thể giảm tải Cho thận",
+    "textdich": ""
+  },
+  {
+    "start": 961.466,
+    "end": 962.733,
+    "text": "nhưng để cô bác ngủ sâu",
+    "textdich": ""
+  },
+  {
+    "start": 962.9,
+    "end": 963.7,
+    "text": "ngủ liền mạch",
+    "textdich": ""
+  },
+  {
+    "start": 963.8,
+    "end": 966.366,
+    "text": "ngủ không giật mình thì cần một loại lá có tác dụng",
+    "textdich": ""
+  },
+  {
+    "start": 967.1,
+    "end": 968.1,
+    "text": "làm dịu thần kinh",
+    "textdich": ""
+  },
+  {
+    "start": 969.0,
+    "end": 969.8,
+    "text": "giảm lo âu",
+    "textdich": ""
+  },
+  {
+    "start": 970.666,
+    "end": 971.533,
+    "text": "làm tĩnh tâm",
+    "textdich": ""
+  },
+  {
+    "start": 972.4,
+    "end": 973.766,
+    "text": "giảm căng cơ và hồi hộp",
+    "textdich": ""
+  },
+  {
+    "start": 974.4,
+    "end": 975.333,
+    "text": "lá dứa và lá dứa",
+    "textdich": ""
+  },
+  {
+    "start": 975.466,
+    "end": 977.8,
+    "text": "chính là loại lá đáp ứng trọn vẹn tất cả những điều đó",
+    "textdich": ""
+  },
+  {
+    "start": 978.8,
+    "end": 979.6,
+    "text": "trong bài thuốc",
+    "textdich": ""
+  },
+  {
+    "start": 979.733,
+    "end": 982.333,
+    "text": "lá dứa đóng vai trò ổn định tinh thần và hệ thần kinh",
+    "textdich": ""
+  },
+  {
+    "start": 982.666,
+    "end": 984.333,
+    "text": "giúp cơ thể chuyển sang chế độ phục hồi",
+    "textdich": ""
+  },
+  {
+    "start": 985.0,
+    "end": 986.4,
+    "text": "BA khi cô bác ngủ sâu",
+    "textdich": ""
+  },
+  {
+    "start": 987.1,
+    "end": 988.333,
+    "text": "thận lọc máu tốt hơn",
+    "textdich": ""
+  },
+  {
+    "start": 989.2,
+    "end": 990.0,
+    "text": "Tim được nghỉ",
+    "textdich": ""
+  },
+  {
+    "start": 990.8,
+    "end": 991.666,
+    "text": "não được phục hồi",
+    "textdich": ""
+  },
+  {
+    "start": 992.533,
+    "end": 995.933,
+    "text": "huyết áp ổn định hơn đường huyết cũng điều hòa hơn",
+    "textdich": ""
+  },
+  {
+    "start": 996.766,
+    "end": 997.566,
+    "text": "nói cách khác",
+    "textdich": ""
+  },
+  {
+    "start": 997.666,
+    "end": 998.933,
+    "text": "lá dứa là chiếc chìa khóa",
+    "textdich": ""
+  },
+  {
+    "start": 999.0,
+    "end": 1001.1,
+    "text": "giúp cơ thể bật sang chế độ chữa lành tự nhiên",
+    "textdich": ""
+  },
+  {
+    "start": 1001.933,
+    "end": 1003.066,
+    "text": "AI nên dùng lá dứa",
+    "textdich": ""
+  },
+  {
+    "start": 1003.966,
+    "end": 1004.766,
+    "text": "con khuyến nghị",
+    "textdich": ""
+  },
+  {
+    "start": 1004.8,
+    "end": 1006.7,
+    "text": "đặc biệt Cho những cô bác gặp các vấn đề sau",
+    "textdich": ""
+  },
+  {
+    "start": 1007.366,
+    "end": 1009.0,
+    "text": "khó ngủ ngủ chập chờn",
+    "textdich": ""
+  },
+  {
+    "start": 1009.8,
+    "end": 1011.7,
+    "text": "nằm xuống mà đầu óc vẫn nghĩ lung tung",
+    "textdich": ""
+  },
+  {
+    "start": 1012.366,
+    "end": 1013.7,
+    "text": "4 dễ tỉnh giữa đêm",
+    "textdich": ""
+  },
+  {
+    "start": 1014.466,
+    "end": 1018.566,
+    "text": "tiểu đêm 1/3 lần hay lo lắng hồi hộp nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 1019.4,
+    "end": 1020.566,
+    "text": "đau đầu do căng thẳng",
+    "textdich": ""
+  },
+  {
+    "start": 1021.4,
+    "end": 1023.9,
+    "text": "người Cao tuổi sống một mình hay suy nghĩ nhiều",
+    "textdich": ""
+  },
+  {
+    "start": 1024.9,
+    "end": 1026.466,
+    "text": "cơ thể mệt mỏi không rõ lý do",
+    "textdich": ""
+  },
+  {
+    "start": 1027.533,
+    "end": 1028.966,
+    "text": "những trường hợp này dùng lá dứa",
+    "textdich": ""
+  },
+  {
+    "start": 1029.1,
+    "end": 1030.0,
+    "text": "rất phù hợp và an toàn",
+    "textdich": ""
+  },
+  {
+    "start": 1031.066,
+    "end": 1034.2,
+    "text": "lá dứa kết hợp gừng bộ đôi ổn định thần kinh tuần hoàn",
+    "textdich": ""
+  },
+  {
+    "start": 1035.1,
+    "end": 1037.6,
+    "text": "trong bài thuốc năm lá có gừng tươi làm vị thuốc dẫn",
+    "textdich": ""
+  },
+  {
+    "start": 1037.966,
+    "end": 1039.3,
+    "text": "khi uống lá dứa cùng gừng",
+    "textdich": ""
+  },
+  {
+    "start": 1039.966,
+    "end": 1042.2,
+    "text": "gừng làm ấm bụng ngăn lạnh thận giảm tiểu đêm",
+    "textdich": ""
+  },
+  {
+    "start": 1043.1,
+    "end": 1044.3,
+    "text": "gừng tăng tuần hoàn máu",
+    "textdich": ""
+  },
+  {
+    "start": 1044.333,
+    "end": 1046.4,
+    "text": "đưa hoạt chất của lá dứa lên não hiệu quả hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1047.3,
+    "end": 1050.066,
+    "text": "lá dứa an thần gừng giữ ấm ngủ sâu và liền mạch",
+    "textdich": ""
+  },
+  {
+    "start": 1050.9,
+    "end": 1052.9,
+    "text": "2 loại này cùng giảm căng thẳng toàn thân",
+    "textdich": ""
+  },
+  {
+    "start": 1053.866,
+    "end": 1054.6,
+    "text": "đây là lý do",
+    "textdich": ""
+  },
+  {
+    "start": 1054.6,
+    "end": 1056.933,
+    "text": "tại SAO nhiều cô bác sau khi áp dụng bài thuốc nói",
+    "textdich": ""
+  },
+  {
+    "start": 1057.7,
+    "end": 1059.466,
+    "text": "tối uống xong người thấy dễ chịu",
+    "textdich": ""
+  },
+  {
+    "start": 1059.766,
+    "end": 1061.7,
+    "text": "ấm ấm nằm xuống là muốn ngủ liền",
+    "textdich": ""
+  },
+  {
+    "start": 1062.333,
+    "end": 1063.366,
+    "text": "4 tác dụng phụ",
+    "textdich": ""
+  },
+  {
+    "start": 1064.2,
+    "end": 1066.733,
+    "text": "lá dứa rất lành tính hiếm khi gây tác dụng phụ",
+    "textdich": ""
+  },
+  {
+    "start": 1067.366,
+    "end": 1069.366,
+    "text": "tuy nhiên không uống quá đặc",
+    "textdich": ""
+  },
+  {
+    "start": 1070.2,
+    "end": 1071.733,
+    "text": "không uống thay nước lọc cả ngày",
+    "textdich": ""
+  },
+  {
+    "start": 1072.4,
+    "end": 1074.666,
+    "text": "BA không dùng quá nhiều Cho người huyết áp thấp",
+    "textdich": ""
+  },
+  {
+    "start": 1075.5,
+    "end": 1077.766,
+    "text": "nên uống từ chiều tối trước ngủ 2 đến 3 giờ",
+    "textdich": ""
+  },
+  {
+    "start": 1078.7,
+    "end": 1080.966,
+    "text": "cô bác thân mến lá dứa nhìn thì đơn giản",
+    "textdich": ""
+  },
+  {
+    "start": 1081.4,
+    "end": 1083.8,
+    "text": "nhưng với người lớn tuổi đặc biệt là người hay mất ngủ",
+    "textdich": ""
+  },
+  {
+    "start": 1084.1,
+    "end": 1085.533,
+    "text": "tiểu đêm lo âu nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 1085.733,
+    "end": 1087.766,
+    "text": "nó chính là liều thuốc tự nhiên rất đáng trân trọng",
+    "textdich": ""
+  },
+  {
+    "start": 1088.266,
+    "end": 1090.266,
+    "text": "chỉ cần cô bác kiên trì 70 ngày thôi",
+    "textdich": ""
+  },
+  {
+    "start": 1090.566,
+    "end": 1091.9,
+    "text": "giấc ngủ sẽ cải thiện rõ rệt",
+    "textdich": ""
+  },
+  {
+    "start": 1092.466,
+    "end": 1096.1,
+    "text": "6 lá số 4 lá sen làm nhẹ cơ thể thanh nhiệt",
+    "textdich": ""
+  },
+  {
+    "start": 1096.366,
+    "end": 1098.866,
+    "text": "giảm mỡ máu giúp cơ thể dễ chịu từ bên trong",
+    "textdich": ""
+  },
+  {
+    "start": 1099.866,
+    "end": 1101.866,
+    "text": "lá sen vốn là biểu tượng của sự thanh khiết",
+    "textdich": ""
+  },
+  {
+    "start": 1102.133,
+    "end": 1103.0,
+    "text": "nhưng trong y học",
+    "textdich": ""
+  },
+  {
+    "start": 1103.2,
+    "end": 1105.366,
+    "text": "nó còn mang ý nghĩa quét sạch độc từ trong máu",
+    "textdich": ""
+  },
+  {
+    "start": 1105.6,
+    "end": 1107.0,
+    "text": "làm mát gan và làm nhẹ cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 1107.866,
+    "end": 1109.966,
+    "text": "BA khi bước qua tuổi 55 đến 60",
+    "textdich": ""
+  },
+  {
+    "start": 1110.466,
+    "end": 1111.8,
+    "text": "chuyển hóa trong cơ thể chậm dần",
+    "textdich": ""
+  },
+  {
+    "start": 1112.333,
+    "end": 1113.166,
+    "text": "cô bác dễ gặp",
+    "textdich": ""
+  },
+  {
+    "start": 1113.766,
+    "end": 1119.066,
+    "text": "mỡ máu Cao BA GA nóng dễ mệt 4 bụng đầy ăn lâu tiêu",
+    "textdich": ""
+  },
+  {
+    "start": 1119.6,
+    "end": 1122.0,
+    "text": "năm người nặng nề khó vận động 6",
+    "textdich": ""
+  },
+  {
+    "start": 1122.466,
+    "end": 1124.166,
+    "text": "mệt mỏi kéo dài không rõ lý do",
+    "textdich": ""
+  },
+  {
+    "start": 1125.2,
+    "end": 1128.9,
+    "text": "mất ngủ do nóng trong sáng dậy thấy người bức bối",
+    "textdich": ""
+  },
+  {
+    "start": 1129.766,
+    "end": 1131.866,
+    "text": "lá sen chính là một trong những dược liệu hỗ trợ",
+    "textdich": ""
+  },
+  {
+    "start": 1131.933,
+    "end": 1133.466,
+    "text": "cải thiện những vấn đề này rất hiệu quả",
+    "textdich": ""
+  },
+  {
+    "start": 1134.6,
+    "end": 1137.7,
+    "text": "lá sen hỗ trợ giảm mỡ máu nhẹ cơ thể ngay từ bên trong",
+    "textdich": ""
+  },
+  {
+    "start": 1138.6,
+    "end": 1140.466,
+    "text": "trong lá sen chứa rất nhiều hoạt chất quý",
+    "textdich": ""
+  },
+  {
+    "start": 1140.733,
+    "end": 1141.8,
+    "text": "như nuciferin",
+    "textdich": ""
+  },
+  {
+    "start": 1142.3,
+    "end": 1145.566,
+    "text": "flavonoid alkaloid tự nhiên tannin",
+    "textdich": ""
+  },
+  {
+    "start": 1146.133,
+    "end": 1150.266,
+    "text": "những hoạt chất này có khả năng hạ cholesterol xấu LDL",
+    "textdich": ""
+  },
+  {
+    "start": 1150.866,
+    "end": 1152.7,
+    "text": "4 ngăn ngừa tích tụ mỡ trong gan",
+    "textdich": ""
+  },
+  {
+    "start": 1153.6,
+    "end": 1154.733,
+    "text": "tăng chuyển hóa chất béo",
+    "textdich": ""
+  },
+  {
+    "start": 1155.7,
+    "end": 1156.533,
+    "text": "ổn định đường huyết",
+    "textdich": ""
+  },
+  {
+    "start": 1157.466,
+    "end": 1160.266,
+    "text": "đặc biệt luciferin trong lá sen đã được nghiên cứu",
+    "textdich": ""
+  },
+  {
+    "start": 1160.366,
+    "end": 1162.366,
+    "text": "giúp giảm hấp thu chất béo từ ruột vào máu",
+    "textdich": ""
+  },
+  {
+    "start": 1162.866,
+    "end": 1165.133,
+    "text": "nhờ vậy cơ thể nhẹ nhõm hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1166.066,
+    "end": 1167.8,
+    "text": "giảm cảm giác nặng nề sau bữa ăn",
+    "textdich": ""
+  },
+  {
+    "start": 1168.533,
+    "end": 1170.5,
+    "text": "BA giảm căng gan và áp lực lên thận",
+    "textdich": ""
+  },
+  {
+    "start": 1171.3,
+    "end": 1173.266,
+    "text": "con gặp rất nhiều cô bác mỡ máu Cao",
+    "textdich": ""
+  },
+  {
+    "start": 1173.7,
+    "end": 1176.066,
+    "text": "sau 2 đến BA tuần uống nước lá sen nhạt đều đặn",
+    "textdich": ""
+  },
+  {
+    "start": 1176.333,
+    "end": 1177.766,
+    "text": "cơ thể nhẹ nhàng bớt mệt",
+    "textdich": ""
+  },
+  {
+    "start": 1178.0,
+    "end": 1179.733,
+    "text": "bớt nóng đi lại nhanh nhẹn hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1180.7,
+    "end": 1183.666,
+    "text": "lá sen giúp thanh nhiệt làm mát gan giảm nóng trong",
+    "textdich": ""
+  },
+  {
+    "start": 1184.6,
+    "end": 1187.133,
+    "text": "một trong những lý do khiến cô bác hay mệt mỏi",
+    "textdich": ""
+  },
+  {
+    "start": 1187.7,
+    "end": 1188.933,
+    "text": "khó ngủ mất nước",
+    "textdich": ""
+  },
+  {
+    "start": 1189.466,
+    "end": 1190.9,
+    "text": "khát nhiều nóng đầu",
+    "textdich": ""
+  },
+  {
+    "start": 1191.3,
+    "end": 1194.466,
+    "text": "nặng người là vì gan nóng nhiệt tích tụ trong cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 1195.266,
+    "end": 1196.7,
+    "text": "một gan khỏe thì thận mới khỏe",
+    "textdich": ""
+  },
+  {
+    "start": 1197.266,
+    "end": 1199.466,
+    "text": "gan yếu thì thận phải gánh phần độc chưa được xử lý",
+    "textdich": ""
+  },
+  {
+    "start": 1199.533,
+    "end": 1200.333,
+    "text": "khiến thận quá tải",
+    "textdich": ""
+  },
+  {
+    "start": 1200.366,
+    "end": 1201.933,
+    "text": "gây tiểu đêm mệt và mất ngủ",
+    "textdich": ""
+  },
+  {
+    "start": 1202.366,
+    "end": 1205.566,
+    "text": "2 lá sen có tác dụng thanh nhiệt mạnh",
+    "textdich": ""
+  },
+  {
+    "start": 1206.466,
+    "end": 1207.266,
+    "text": "giải độc gan",
+    "textdich": ""
+  },
+  {
+    "start": 1208.1,
+    "end": 1208.966,
+    "text": "làm mát cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 1209.933,
+    "end": 1211.166,
+    "text": "giúp đầu óc tỉnh táo",
+    "textdich": ""
+  },
+  {
+    "start": 1212.133,
+    "end": 1213.333,
+    "text": "giảm cảm giác bốc hỏa",
+    "textdich": ""
+  },
+  {
+    "start": 1214.133,
+    "end": 1215.266,
+    "text": "đặc biệt là vào buổi tối",
+    "textdich": ""
+  },
+  {
+    "start": 1215.733,
+    "end": 1217.866,
+    "text": "nếu cơ thể quá nóng cô bác rất khó ngủ",
+    "textdich": ""
+  },
+  {
+    "start": 1218.333,
+    "end": 1219.7,
+    "text": "lá sen giúp hạ nhẹ nhiệt",
+    "textdich": ""
+  },
+  {
+    "start": 1219.933,
+    "end": 1221.466,
+    "text": "tạo cảm giác thư giãn từ bên trong",
+    "textdich": ""
+  },
+  {
+    "start": 1222.2,
+    "end": 1225.466,
+    "text": "4 hỗ trợ an thần giúp cơ thể dễ chịu ngủ sâu hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1226.466,
+    "end": 1227.7,
+    "text": "ít AI biết rằng lá sen",
+    "textdich": ""
+  },
+  {
+    "start": 1227.933,
+    "end": 1229.133,
+    "text": "còn có tác dụng an thần nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 1229.166,
+    "end": 1231.766,
+    "text": "nhờ hoạt chất nuciferin và nhóm alkaloid",
+    "textdich": ""
+  },
+  {
+    "start": 1232.166,
+    "end": 1234.9,
+    "text": "những chất này giúp giảm căng thẳng thần kinh",
+    "textdich": ""
+  },
+  {
+    "start": 1235.8,
+    "end": 1237.466,
+    "text": "làm chậm hoạt động của hệ giao cảm",
+    "textdich": ""
+  },
+  {
+    "start": 1238.4,
+    "end": 1239.2,
+    "text": "giảm hồi hộp",
+    "textdich": ""
+  },
+  {
+    "start": 1239.4,
+    "end": 1242.566,
+    "text": "chống ngực BA tạo cảm giác bình tĩnh nhẹ nhàng",
+    "textdich": ""
+  },
+  {
+    "start": 1243.533,
+    "end": 1246.166,
+    "text": "với người Cao tuổi đây là tác dụng vàng vì",
+    "textdich": ""
+  },
+  {
+    "start": 1246.9,
+    "end": 1247.7,
+    "text": "ngủ không sâu",
+    "textdich": ""
+  },
+  {
+    "start": 1248.666,
+    "end": 1251.766,
+    "text": "cơ thể căng thẳng 4 thận yếu tiểu đêm",
+    "textdich": ""
+  },
+  {
+    "start": 1252.666,
+    "end": 1255.966,
+    "text": "tâm trí lo nghĩ nhiều khiến giấc ngủ bị đứt đoạn",
+    "textdich": ""
+  },
+  {
+    "start": 1256.766,
+    "end": 1259.166,
+    "text": "lá sen giúp đưa cơ thể vào trạng thái dịu xuống",
+    "textdich": ""
+  },
+  {
+    "start": 1259.366,
+    "end": 1260.6,
+    "text": "lắng xuống thả lỏng",
+    "textdich": ""
+  },
+  {
+    "start": 1260.9,
+    "end": 1263.7,
+    "text": "từ đó dễ đi vào giấc ngủ ngủ yên và ngủ sâu hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1264.366,
+    "end": 1266.933,
+    "text": "4 vì SAO lá sen đặc biệt phù hợp Cho người lớn tuổi",
+    "textdich": ""
+  },
+  {
+    "start": 1267.9,
+    "end": 1270.266,
+    "text": "cô bác bước vào tuổi 60 thường gặp năm vấn đề",
+    "textdich": ""
+  },
+  {
+    "start": 1271.0,
+    "end": 1273.466,
+    "text": "mỡ máu Cao dễ nặng người chóng mệt",
+    "textdich": ""
+  },
+  {
+    "start": 1274.333,
+    "end": 1278.533,
+    "text": "lá sen giúp kiểm soát lại gan yếu nóng trong khó ngủ",
+    "textdich": ""
+  },
+  {
+    "start": 1279.666,
+    "end": 1281.333,
+    "text": "lá sen giúp thanh nhiệt giải độc",
+    "textdich": ""
+  },
+  {
+    "start": 1282.2,
+    "end": 1283.7,
+    "text": "đường tiêu hóa chậm đầy bụng",
+    "textdich": ""
+  },
+  {
+    "start": 1284.3,
+    "end": 1286.9,
+    "text": "một lá sen chứa tanin giúp tiêu hóa tốt hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1287.266,
+    "end": 1289.333,
+    "text": "2 cơ thể căng khó thư giãn",
+    "textdich": ""
+  },
+  {
+    "start": 1289.766,
+    "end": 1292.6,
+    "text": "BA lá sen an thần nhẹ giúp thư giãn thoải mái",
+    "textdich": ""
+  },
+  {
+    "start": 1293.166,
+    "end": 1295.733,
+    "text": "4 tích tụ độc tố làm thận quá tải",
+    "textdich": ""
+  },
+  {
+    "start": 1296.5,
+    "end": 1299.066,
+    "text": "khi gan và mỡ máu giảm gánh nặng thận được nghỉ ngơi",
+    "textdich": ""
+  },
+  {
+    "start": 1299.1,
+    "end": 1299.966,
+    "text": "tiểu đêm giảm dần",
+    "textdich": ""
+  },
+  {
+    "start": 1300.966,
+    "end": 1301.966,
+    "text": "vì vậy lá sen",
+    "textdich": ""
+  },
+  {
+    "start": 1302.166,
+    "end": 1303.2,
+    "text": "không chỉ làm nhẹ cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 1303.266,
+    "end": 1305.066,
+    "text": "mà còn làm nhẹ Cho cả thận và gan",
+    "textdich": ""
+  },
+  {
+    "start": 1306.0,
+    "end": 1307.2,
+    "text": "lá sen kết hợp với gừng",
+    "textdich": ""
+  },
+  {
+    "start": 1307.5,
+    "end": 1309.533,
+    "text": "cân bằng ấm và mát trong toàn bộ bài thuốc",
+    "textdich": ""
+  },
+  {
+    "start": 1310.4,
+    "end": 1311.533,
+    "text": "trong bài thuốc năm lá",
+    "textdich": ""
+  },
+  {
+    "start": 1311.8,
+    "end": 1313.366,
+    "text": "có sự xuất hiện của gừng tươi để",
+    "textdich": ""
+  },
+  {
+    "start": 1314.0,
+    "end": 1314.866,
+    "text": "làm ấm cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 1315.866,
+    "end": 1316.933,
+    "text": "tăng tuần hoàn máu",
+    "textdich": ""
+  },
+  {
+    "start": 1317.8,
+    "end": 1319.066,
+    "text": "giảm tiểu đêm do lạnh",
+    "textdich": ""
+  },
+  {
+    "start": 1319.766,
+    "end": 1321.533,
+    "text": "tăng hấp thu các hoạt chất của lá khác",
+    "textdich": ""
+  },
+  {
+    "start": 1322.3,
+    "end": 1323.733,
+    "text": "khi uống lá sen cùng gừng",
+    "textdich": ""
+  },
+  {
+    "start": 1324.5,
+    "end": 1326.3,
+    "text": "lá sen mát thanh giải độc",
+    "textdich": ""
+  },
+  {
+    "start": 1326.9,
+    "end": 1329.366,
+    "text": "4 gừng ấm lưu thông kích hoạt thận",
+    "textdich": ""
+  },
+  {
+    "start": 1330.166,
+    "end": 1332.2,
+    "text": "2 loại này bổ sung Cho nhau làm",
+    "textdich": ""
+  },
+  {
+    "start": 1332.933,
+    "end": 1334.133,
+    "text": "cơ thể nhẹ mà không lạnh",
+    "textdich": ""
+  },
+  {
+    "start": 1335.066,
+    "end": 1336.3,
+    "text": "gan mát mà không bị Hàn",
+    "textdich": ""
+  },
+  {
+    "start": 1337.266,
+    "end": 1341.0,
+    "text": "thận hoạt động đúng nhịp giấc ngủ sâu không giật mình",
+    "textdich": ""
+  },
+  {
+    "start": 1341.9,
+    "end": 1343.333,
+    "text": "đây là sự kết hợp rất cân bằng",
+    "textdich": ""
+  },
+  {
+    "start": 1343.766,
+    "end": 1344.1,
+    "text": "đặc biệt",
+    "textdich": ""
+  },
+  {
+    "start": 1344.1,
+    "end": 1346.8,
+    "text": "tốt Cho người lớn tuổi vốn hay âm Hàn nhiệt sen lẫn",
+    "textdich": ""
+  },
+  {
+    "start": 1347.7,
+    "end": 1349.066,
+    "text": "những AI nên dùng lá sen",
+    "textdich": ""
+  },
+  {
+    "start": 1349.966,
+    "end": 1352.566,
+    "text": "con khuyên cô bác dùng lá sen nếu thuộc những nhóm sau",
+    "textdich": ""
+  },
+  {
+    "start": 1353.3,
+    "end": 1354.1,
+    "text": "mỡ máu Cao",
+    "textdich": ""
+  },
+  {
+    "start": 1354.966,
+    "end": 1355.766,
+    "text": "gan nhiễm mỡ",
+    "textdich": ""
+  },
+  {
+    "start": 1356.6,
+    "end": 1358.2,
+    "text": "hay nóng trong bốc hỏa",
+    "textdich": ""
+  },
+  {
+    "start": 1359.0,
+    "end": 1363.1,
+    "text": "ngủ chập chờn dễ thức giấc cơ thể nặng nề khó chịu",
+    "textdich": ""
+  },
+  {
+    "start": 1364.0,
+    "end": 1364.8,
+    "text": "tiểu đêm nhiều",
+    "textdich": ""
+  },
+  {
+    "start": 1365.733,
+    "end": 1367.4,
+    "text": "thận yếu gan yếu phối hợp",
+    "textdich": ""
+  },
+  {
+    "start": 1367.966,
+    "end": 1370.3,
+    "text": "một người hay ăn đồ chiên rán nhiều đạm",
+    "textdich": ""
+  },
+  {
+    "start": 1370.733,
+    "end": 1372.866,
+    "text": "2 bụng dễ đầy tiêu hóa kém",
+    "textdich": ""
+  },
+  {
+    "start": 1373.266,
+    "end": 1376.6,
+    "text": "BA lá sen an toàn rất phù hợp Cho người trên 60 tuổi",
+    "textdich": ""
+  },
+  {
+    "start": 1377.0,
+    "end": 1378.533,
+    "text": "4 4 cô bác thân mến",
+    "textdich": ""
+  },
+  {
+    "start": 1378.733,
+    "end": 1380.766,
+    "text": "lá sen không chỉ giúp làm mát và thanh lọc",
+    "textdich": ""
+  },
+  {
+    "start": 1381.2,
+    "end": 1383.166,
+    "text": "mà còn tạo Ra cảm giác nhẹ bẫng toàn thân",
+    "textdich": ""
+  },
+  {
+    "start": 1383.366,
+    "end": 1384.6,
+    "text": "điều mà người lớn tuổi rất cần",
+    "textdich": ""
+  },
+  {
+    "start": 1385.1,
+    "end": 1385.9,
+    "text": "khi cơ thể nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 1386.166,
+    "end": 1389.0,
+    "text": "gan thận bớt áp lực giấc ngủ sẽ sâu và êm hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1390.0,
+    "end": 1390.8,
+    "text": "lá số năm",
+    "textdich": ""
+  },
+  {
+    "start": 1390.933,
+    "end": 1393.766,
+    "text": "lá ổi hoặc lá vối người gác cổng Cho đường ruột",
+    "textdich": ""
+  },
+  {
+    "start": 1394.0,
+    "end": 1395.866,
+    "text": "giảm gánh nặng độc tố Cho gan và thận",
+    "textdich": ""
+  },
+  {
+    "start": 1396.733,
+    "end": 1397.6,
+    "text": "cô bác thân mến",
+    "textdich": ""
+  },
+  {
+    "start": 1397.966,
+    "end": 1398.766,
+    "text": "trong cơ thể chúng ta",
+    "textdich": ""
+  },
+  {
+    "start": 1399.0,
+    "end": 1400.866,
+    "text": "ruột được ví như cửa ngõ của độc tố",
+    "textdich": ""
+  },
+  {
+    "start": 1401.333,
+    "end": 1402.6,
+    "text": "hơn 70% gánh nặng",
+    "textdich": ""
+  },
+  {
+    "start": 1402.7,
+    "end": 1403.8,
+    "text": "giải độc của gan và thận",
+    "textdich": ""
+  },
+  {
+    "start": 1403.866,
+    "end": 1405.266,
+    "text": "đến từ những chất thải và VI khuẩn",
+    "textdich": ""
+  },
+  {
+    "start": 1405.333,
+    "end": 1406.133,
+    "text": "tồn tại trong ruột",
+    "textdich": ""
+  },
+  {
+    "start": 1407.066,
+    "end": 1410.733,
+    "text": "nếu ruột không khỏe cô bác sẽ gặp đầy bụng khó tiêu",
+    "textdich": ""
+  },
+  {
+    "start": 1411.2,
+    "end": 1414.0,
+    "text": "chướng hơi đi ngoài phân sống táo bón",
+    "textdich": ""
+  },
+  {
+    "start": 1414.466,
+    "end": 1415.466,
+    "text": "nước tiểu sậm màu",
+    "textdich": ""
+  },
+  {
+    "start": 1416.333,
+    "end": 1417.266,
+    "text": "mệt mỏi kéo dài",
+    "textdich": ""
+  },
+  {
+    "start": 1418.3,
+    "end": 1422.466,
+    "text": "GA nóng thận quá tải ngủ không sâu dễ giật mình",
+    "textdich": ""
+  },
+  {
+    "start": 1423.333,
+    "end": 1424.933,
+    "text": "đó là lý do con luôn nói rằng",
+    "textdich": ""
+  },
+  {
+    "start": 1425.5,
+    "end": 1427.166,
+    "text": "muốn thận khỏe thì ruột phải sạch",
+    "textdich": ""
+  },
+  {
+    "start": 1427.866,
+    "end": 1430.133,
+    "text": "và lá ổi hoặc lá vối chính là người gác cổng",
+    "textdich": ""
+  },
+  {
+    "start": 1430.333,
+    "end": 1431.933,
+    "text": "giúp làm sạch và ổn định hệ tiêu hóa",
+    "textdich": ""
+  },
+  {
+    "start": 1432.8,
+    "end": 1435.166,
+    "text": "vì SAO lá ổi và lá vối lại tốt Cho tiêu hóa",
+    "textdich": ""
+  },
+  {
+    "start": 1436.2,
+    "end": 1439.566,
+    "text": "cả 2 loại lá này đều giàu Tân ins tự nhiên",
+    "textdich": ""
+  },
+  {
+    "start": 1440.166,
+    "end": 1441.933,
+    "text": "một flavonoid chống viêm",
+    "textdich": ""
+  },
+  {
+    "start": 1442.366,
+    "end": 1445.8,
+    "text": "2 hoạt chất kháng khuẩn mạnh BA chất chống oxy hóa",
+    "textdich": ""
+  },
+  {
+    "start": 1446.333,
+    "end": 1449.1,
+    "text": "4 nhờ thế lá ổi và lá vối có tác dụng",
+    "textdich": ""
+  },
+  {
+    "start": 1449.733,
+    "end": 1451.6,
+    "text": "tiêu diệt VI khuẩn có hại trong đường ruột",
+    "textdich": ""
+  },
+  {
+    "start": 1452.0,
+    "end": 1453.733,
+    "text": "năm ổn định lại hệ VI sinh",
+    "textdich": ""
+  },
+  {
+    "start": 1454.2,
+    "end": 1455.533,
+    "text": "6 giảm tiêu chảy",
+    "textdich": ""
+  },
+  {
+    "start": 1455.8,
+    "end": 1459.5,
+    "text": "đầy hơi lên men 7 4 giảm hình thành độc tố trong ruột",
+    "textdich": ""
+  },
+  {
+    "start": 1460.366,
+    "end": 1462.8,
+    "text": "làm se niêm mạc ruột giúp tiêu hóa tốt hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1463.7,
+    "end": 1464.966,
+    "text": "khi đường ruột được làm sạch",
+    "textdich": ""
+  },
+  {
+    "start": 1465.366,
+    "end": 1466.9,
+    "text": "độc tố không quay ngược lại vào máu",
+    "textdich": ""
+  },
+  {
+    "start": 1466.966,
+    "end": 1468.733,
+    "text": "gan và thận đỡ phải làm việc quá mức",
+    "textdich": ""
+  },
+  {
+    "start": 1469.566,
+    "end": 1471.8,
+    "text": "cơ chế giảm gánh nặng độc tố Cho gan và thận",
+    "textdich": ""
+  },
+  {
+    "start": 1472.4,
+    "end": 1474.2,
+    "text": "một người lớn tuổi dễ gặp tình trạng",
+    "textdich": ""
+  },
+  {
+    "start": 1474.933,
+    "end": 1475.733,
+    "text": "hấp thu kém",
+    "textdich": ""
+  },
+  {
+    "start": 1476.666,
+    "end": 1479.566,
+    "text": "dạ dày yếu viêm ruột nhẹ kéo dài",
+    "textdich": ""
+  },
+  {
+    "start": 1480.466,
+    "end": 1483.066,
+    "text": "khó tiêu sau ăn thải độc kém",
+    "textdich": ""
+  },
+  {
+    "start": 1483.933,
+    "end": 1485.666,
+    "text": "chất thải lưu lại quá lâu trong ruột",
+    "textdich": ""
+  },
+  {
+    "start": 1486.366,
+    "end": 1488.2,
+    "text": "4 khi ruột chỉ hoạt động 50%",
+    "textdich": ""
+  },
+  {
+    "start": 1488.466,
+    "end": 1490.6,
+    "text": "gan và thận phải hoạt động 150%",
+    "textdich": ""
+  },
+  {
+    "start": 1491.666,
+    "end": 1494.8,
+    "text": "điều này khiến cô bác dễ bị nước tiểu sậm màu",
+    "textdich": ""
+  },
+  {
+    "start": 1495.7,
+    "end": 1499.4,
+    "text": "mệt mỏi suốt ngày tiểu đêm mất ngủ do cơ thể tích độc",
+    "textdich": ""
+  },
+  {
+    "start": 1500.3,
+    "end": 1503.7,
+    "text": "lá ổi và lá vối giúp giảm lượng độc nạp vào máu",
+    "textdich": ""
+  },
+  {
+    "start": 1504.4,
+    "end": 1506.7,
+    "text": "4 giảm viêm ở ruột độc tố ít sinh Ra",
+    "textdich": ""
+  },
+  {
+    "start": 1507.533,
+    "end": 1509.1,
+    "text": "tăng hiệu quả hấp thụ chất dinh dưỡng",
+    "textdich": ""
+  },
+  {
+    "start": 1510.1,
+    "end": 1511.666,
+    "text": "ngăn lên men và khí tích tụ",
+    "textdich": ""
+  },
+  {
+    "start": 1512.566,
+    "end": 1514.166,
+    "text": "giảm áp lực tuyến độc lên gan",
+    "textdich": ""
+  },
+  {
+    "start": 1514.733,
+    "end": 1516.4,
+    "text": "4 giảm gánh lọc độc Cho thận",
+    "textdich": ""
+  },
+  {
+    "start": 1517.1,
+    "end": 1518.766,
+    "text": "khi gánh nặng ở ruột được giải quyết",
+    "textdich": ""
+  },
+  {
+    "start": 1519.133,
+    "end": 1519.966,
+    "text": "cô bác sẽ cảm thấy",
+    "textdich": ""
+  },
+  {
+    "start": 1520.766,
+    "end": 1522.366,
+    "text": "người nhẹ hẳn đầu óc tỉnh",
+    "textdich": ""
+  },
+  {
+    "start": 1522.7,
+    "end": 1524.866,
+    "text": "thận khỏe gan mát giấc ngủ sâu hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1525.5,
+    "end": 1528.133,
+    "text": "4 lá ổi thuốc tiêu hóa tự nhiên của người Việt",
+    "textdich": ""
+  },
+  {
+    "start": 1529.066,
+    "end": 1532.4,
+    "text": "lá ổi được dân gian dùng từ lâu để giảm tiêu chảy",
+    "textdich": ""
+  },
+  {
+    "start": 1533.4,
+    "end": 1538.166,
+    "text": "giảm đầy bụng giảm viêm ruột làm se niêm mạc tiêu hóa",
+    "textdich": ""
+  },
+  {
+    "start": 1539.066,
+    "end": 1539.9,
+    "text": "chống oxy hóa",
+    "textdich": ""
+  },
+  {
+    "start": 1540.8,
+    "end": 1541.733,
+    "text": "ổn định đường huyết",
+    "textdich": ""
+  },
+  {
+    "start": 1542.7,
+    "end": 1545.466,
+    "text": "ngoài Ra lá ổi chứa polyphenol có khả năng",
+    "textdich": ""
+  },
+  {
+    "start": 1546.133,
+    "end": 1547.666,
+    "text": "ức chế VI khuẩn gây tiêu chảy",
+    "textdich": ""
+  },
+  {
+    "start": 1548.566,
+    "end": 1550.966,
+    "text": "giảm đường trong máu giảm cholesterol",
+    "textdich": ""
+  },
+  {
+    "start": 1551.5,
+    "end": 1554.566,
+    "text": "nhờ vậy người lớn tuổi dùng lá ổi thấy bụng nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 1554.966,
+    "end": 1555.933,
+    "text": "ăn uống dễ tiêu",
+    "textdich": ""
+  },
+  {
+    "start": 1556.9,
+    "end": 1557.7,
+    "text": "giảm đầy hơi",
+    "textdich": ""
+  },
+  {
+    "start": 1558.533,
+    "end": 1560.9,
+    "text": "ngủ ngon hơn vì ruột không bị lộn xộn ban đêm",
+    "textdich": ""
+  },
+  {
+    "start": 1561.566,
+    "end": 1564.1,
+    "text": "một lá vối thần dược giải độc Cho người Cao tuổi",
+    "textdich": ""
+  },
+  {
+    "start": 1565.066,
+    "end": 1567.866,
+    "text": "nếu cô bác chọn lá vối lợi ích còn rộng hơn nữa",
+    "textdich": ""
+  },
+  {
+    "start": 1568.5,
+    "end": 1570.466,
+    "text": "kháng khuẩn mạnh tốt Cho viêm đường ruột",
+    "textdich": ""
+  },
+  {
+    "start": 1571.466,
+    "end": 1574.2,
+    "text": "giảm mỡ máu thanh nhiệt giải độc",
+    "textdich": ""
+  },
+  {
+    "start": 1575.166,
+    "end": 1578.0,
+    "text": "ổn định đường huyết hỗ trợ gan và mật",
+    "textdich": ""
+  },
+  {
+    "start": 1578.966,
+    "end": 1579.8,
+    "text": "làm mát cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 1580.566,
+    "end": 1582.966,
+    "text": "một người xưa thường uống nước lá vối sau ăn để",
+    "textdich": ""
+  },
+  {
+    "start": 1583.7,
+    "end": 1584.5,
+    "text": "giảm dầu mỡ",
+    "textdich": ""
+  },
+  {
+    "start": 1585.4,
+    "end": 1587.9,
+    "text": "giảm đầy bụng kích thích tiêu hóa",
+    "textdich": ""
+  },
+  {
+    "start": 1588.9,
+    "end": 1589.933,
+    "text": "rửa sạch đường ruột",
+    "textdich": ""
+  },
+  {
+    "start": 1590.866,
+    "end": 1594.666,
+    "text": "với người lớn tuổi lá vối là bảo bối giúp gan khỏe hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1595.5,
+    "end": 1596.6,
+    "text": "thận nhẹ gánh hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1597.366,
+    "end": 1599.266,
+    "text": "cơ thể dễ chịu ít nóng trong",
+    "textdich": ""
+  },
+  {
+    "start": 1599.9,
+    "end": 1604.166,
+    "text": "4 ngủ sâu ít thức giấc AI nên dùng lá ổi hoặc lá vối",
+    "textdich": ""
+  },
+  {
+    "start": 1605.066,
+    "end": 1608.4,
+    "text": "cô bác dùng rất hợp khi gặp đầy bụng chướng hơi",
+    "textdich": ""
+  },
+  {
+    "start": 1609.266,
+    "end": 1610.066,
+    "text": "tiêu hóa kém",
+    "textdich": ""
+  },
+  {
+    "start": 1610.9,
+    "end": 1611.7,
+    "text": "tiểu đêm nhiều",
+    "textdich": ""
+  },
+  {
+    "start": 1612.6,
+    "end": 1613.933,
+    "text": "gan yếu nóng trong",
+    "textdich": ""
+  },
+  {
+    "start": 1614.666,
+    "end": 1616.2,
+    "text": "một thận yếu mệt mỏi",
+    "textdich": ""
+  },
+  {
+    "start": 1616.733,
+    "end": 1619.766,
+    "text": "2 mỡ máu Cao BA đường huyết hơi Cao",
+    "textdich": ""
+  },
+  {
+    "start": 1620.6,
+    "end": 1621.466,
+    "text": "đi phân sống",
+    "textdich": ""
+  },
+  {
+    "start": 1622.3,
+    "end": 1623.366,
+    "text": "phân không thành khuôn",
+    "textdich": ""
+  },
+  {
+    "start": 1624.166,
+    "end": 1625.933,
+    "text": "hơi thở có mùi do tiêu hóa kém",
+    "textdich": ""
+  },
+  {
+    "start": 1626.6,
+    "end": 1628.733,
+    "text": "4 khi ruột khỏe giấc ngủ tự nhiên sâu hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1628.933,
+    "end": 1630.066,
+    "text": "thận hoạt động đúng nhịp",
+    "textdich": ""
+  },
+  {
+    "start": 1630.1,
+    "end": 1631.7,
+    "text": "và cô bác cảm thấy trẻ Ra vài tuổi",
+    "textdich": ""
+  },
+  {
+    "start": 1632.8,
+    "end": 1635.4,
+    "text": "kết hợp với gừng để tăng sức mạnh tiêu hóa thải độc",
+    "textdich": ""
+  },
+  {
+    "start": 1636.4,
+    "end": 1638.6,
+    "text": "gừng như con đã phân tích ở phần mở đầu",
+    "textdich": ""
+  },
+  {
+    "start": 1638.8,
+    "end": 1640.1,
+    "text": "là vị thuốc dẫn giúp",
+    "textdich": ""
+  },
+  {
+    "start": 1640.566,
+    "end": 1642.2,
+    "text": "ấm bụng giúp kích thích tiêu hóa",
+    "textdich": ""
+  },
+  {
+    "start": 1643.2,
+    "end": 1644.0,
+    "text": "giảm đầy hơi",
+    "textdich": ""
+  },
+  {
+    "start": 1644.933,
+    "end": 1646.666,
+    "text": "tăng lưu thông máu đến thận và gan",
+    "textdich": ""
+  },
+  {
+    "start": 1647.5,
+    "end": 1649.5,
+    "text": "tăng hấp thu hoạt chất của lá ổi lá vối",
+    "textdich": ""
+  },
+  {
+    "start": 1650.3,
+    "end": 1653.5,
+    "text": "khi cô bác uống lá ổi hoặc lá vối cùng gừng bụng nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 1653.966,
+    "end": 1654.766,
+    "text": "ăn ngon hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1655.533,
+    "end": 1656.5,
+    "text": "tiêu hóa trơn TRU",
+    "textdich": ""
+  },
+  {
+    "start": 1657.4,
+    "end": 1658.2,
+    "text": "thận thấy nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 1659.066,
+    "end": 1659.866,
+    "text": "gan thấy mát",
+    "textdich": ""
+  },
+  {
+    "start": 1660.666,
+    "end": 1664.566,
+    "text": "cơ thể dễ chịu suốt cả ngày BA đêm ngủ ngon ít tiểu",
+    "textdich": ""
+  },
+  {
+    "start": 1665.466,
+    "end": 1666.366,
+    "text": "đây là lý do lá ổi",
+    "textdich": ""
+  },
+  {
+    "start": 1666.566,
+    "end": 1668.066,
+    "text": "lá vối được chọn làm mảnh ghép",
+    "textdich": ""
+  },
+  {
+    "start": 1668.133,
+    "end": 1668.933,
+    "text": "cuối cùng trong bài thuốc",
+    "textdich": ""
+  },
+  {
+    "start": 1669.0,
+    "end": 1671.166,
+    "text": "năm lá 4 cô bác thân mến",
+    "textdich": ""
+  },
+  {
+    "start": 1671.4,
+    "end": 1673.666,
+    "text": "lá ổi hoặc lá vối không chỉ giúp tiêu hóa khỏe",
+    "textdich": ""
+  },
+  {
+    "start": 1673.733,
+    "end": 1675.166,
+    "text": "mà còn giúp giảm độc từ gốc",
+    "textdich": ""
+  },
+  {
+    "start": 1675.366,
+    "end": 1676.166,
+    "text": "chính là đường ruột",
+    "textdich": ""
+  },
+  {
+    "start": 1676.7,
+    "end": 1679.766,
+    "text": "khi đường ruột sạch gan nhẹ thận khỏe giấc ngủ sâu",
+    "textdich": ""
+  },
+  {
+    "start": 1680.366,
+    "end": 1681.066,
+    "text": "con hi vọng",
+    "textdich": ""
+  },
+  {
+    "start": 1681.066,
+    "end": 1682.9,
+    "text": "cô bác sẽ hiểu và trân trọng giá trị của loại",
+    "textdich": ""
+  },
+  {
+    "start": 1682.933,
+    "end": 1684.333,
+    "text": "lá tưởng như rất bình thường này",
+    "textdich": ""
+  },
+  {
+    "start": 1685.333,
+    "end": 1686.2,
+    "text": "cô bác thân mến",
+    "textdich": ""
+  },
+  {
+    "start": 1686.866,
+    "end": 1689.1,
+    "text": "sau khi con đã chia sẻ Chi tiết năm loại lá và",
+    "textdich": ""
+  },
+  {
+    "start": 1689.166,
+    "end": 1691.066,
+    "text": "vai trò của từng loại trong việc hỗ trợ thận",
+    "textdich": ""
+  },
+  {
+    "start": 1691.3,
+    "end": 1693.866,
+    "text": "thanh lọc giúp cơ thể nhẹ nhàng ngủ sâu hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1694.3,
+    "end": 1696.6,
+    "text": "bây giờ con Xin hướng dẫn cô bác cách pha chế đúng",
+    "textdich": ""
+  },
+  {
+    "start": 1696.666,
+    "end": 1698.533,
+    "text": "chuẩn liều lượng phù hợp Cho người lớn tuổi",
+    "textdich": ""
+  },
+  {
+    "start": 1698.933,
+    "end": 1700.966,
+    "text": "và giải thích rõ cơ chế phối hợp của bài thuốc",
+    "textdich": ""
+  },
+  {
+    "start": 1701.066,
+    "end": 1702.133,
+    "text": "để cô bác yên tâm sử dụng",
+    "textdich": ""
+  },
+  {
+    "start": 1703.133,
+    "end": 1705.266,
+    "text": "con sẽ trình bày thật tỉ mỉ rõ ràng",
+    "textdich": ""
+  },
+  {
+    "start": 1705.6,
+    "end": 1707.8,
+    "text": "dễ áp dụng Cho cô bác từ 60 tuổi trở lên",
+    "textdich": ""
+  },
+  {
+    "start": 1708.1,
+    "end": 1709.866,
+    "text": "những người luôn cần những phương pháp an toàn",
+    "textdich": ""
+  },
+  {
+    "start": 1710.166,
+    "end": 1711.666,
+    "text": "tự nhiên và dễ thực hiện",
+    "textdich": ""
+  },
+  {
+    "start": 1712.566,
+    "end": 1714.566,
+    "text": "hướng dẫn Chi tiết cách pha chế và sử dụng",
+    "textdich": ""
+  },
+  {
+    "start": 1715.333,
+    "end": 1716.133,
+    "text": "chuẩn bị nguyên liệu",
+    "textdich": ""
+  },
+  {
+    "start": 1717.0,
+    "end": 1719.4,
+    "text": "đây là bước quan trọng để đảm bảo cô bác vừa an toàn",
+    "textdich": ""
+  },
+  {
+    "start": 1719.733,
+    "end": 1722.333,
+    "text": "vừa thu được đủ hoạt chất từ năm loại lá và gừng tươi",
+    "textdich": ""
+  },
+  {
+    "start": 1722.933,
+    "end": 1724.766,
+    "text": "BA liều lượng gợi ý Cho một lần dùng",
+    "textdich": ""
+  },
+  {
+    "start": 1725.733,
+    "end": 1728.066,
+    "text": "đối với một ấm khoảng một đến 1,5l nước",
+    "textdich": ""
+  },
+  {
+    "start": 1728.333,
+    "end": 1729.133,
+    "text": "cô bác chuẩn bị",
+    "textdich": ""
+  },
+  {
+    "start": 1729.466,
+    "end": 1732.1,
+    "text": "một lá mã đề 10 đến 15 giờ tươi",
+    "textdich": ""
+  },
+  {
+    "start": 1732.7,
+    "end": 1734.8,
+    "text": "2 lá tía tô 10 đến 15 giờ",
+    "textdich": ""
+  },
+  {
+    "start": 1735.266,
+    "end": 1738.2,
+    "text": "BA lá dứa lá nếp một đến 2 lá lớn",
+    "textdich": ""
+  },
+  {
+    "start": 1739.0,
+    "end": 1739.8,
+    "text": "một lá sen",
+    "textdich": ""
+  },
+  {
+    "start": 1740.0,
+    "end": 1743.1,
+    "text": "một phần lá sen khô bằng 1/2 bàn Tay hoặc 10g tươi",
+    "textdich": ""
+  },
+  {
+    "start": 1743.333,
+    "end": 1747.866,
+    "text": "xé nhỏ 2 lá ổi hoặc lá vối 10 đến 15 giờ BA",
+    "textdich": ""
+  },
+  {
+    "start": 1747.966,
+    "end": 1751.2,
+    "text": "gừng tươi năm đến 10 lát mỏng tùy cơ địa nóng hay lạnh",
+    "textdich": ""
+  },
+  {
+    "start": 1751.5,
+    "end": 1753.133,
+    "text": "4 nếu cô bác người lạnh",
+    "textdich": ""
+  },
+  {
+    "start": 1753.133,
+    "end": 1755.666,
+    "text": "Tay chân dễ cảm lạnh dùng 8 đến 10 lát",
+    "textdich": ""
+  },
+  {
+    "start": 1756.466,
+    "end": 1758.766,
+    "text": "nếu người hay nóng trong dùng 4 đến năm lát thôi",
+    "textdich": ""
+  },
+  {
+    "start": 1759.766,
+    "end": 1761.366,
+    "text": "cách chọn lá sạch an toàn",
+    "textdich": ""
+  },
+  {
+    "start": 1762.066,
+    "end": 1763.866,
+    "text": "chọn lá còn tươi không bị vàng",
+    "textdich": ""
+  },
+  {
+    "start": 1764.2,
+    "end": 1768.2,
+    "text": "sâu dập hạn chế lấy lá sát mặt đất vì dễ bám bẩn",
+    "textdich": ""
+  },
+  {
+    "start": 1768.5,
+    "end": 1770.9,
+    "text": "tồn dư thuốc bảo vệ thực vật 4",
+    "textdich": ""
+  },
+  {
+    "start": 1770.9,
+    "end": 1772.333,
+    "text": "tốt nhất chọn lá từ vườn nhà",
+    "textdich": ""
+  },
+  {
+    "start": 1772.366,
+    "end": 1773.733,
+    "text": "hoặc mua ở nơi bán rau sạch",
+    "textdich": ""
+  },
+  {
+    "start": 1774.566,
+    "end": 1775.366,
+    "text": "nếu dùng lá sen",
+    "textdich": ""
+  },
+  {
+    "start": 1775.766,
+    "end": 1776.966,
+    "text": "nên ưu tiên lá sen khô",
+    "textdich": ""
+  },
+  {
+    "start": 1777.066,
+    "end": 1778.766,
+    "text": "vì dễ bảo quản và hoạt chất ổn định",
+    "textdich": ""
+  },
+  {
+    "start": 1779.566,
+    "end": 1781.133,
+    "text": "cô bác nhớ chất lượng nguyên liệu",
+    "textdich": ""
+  },
+  {
+    "start": 1781.2,
+    "end": 1783.1,
+    "text": "quyết định 50% hiệu quả của bài thuốc",
+    "textdich": ""
+  },
+  {
+    "start": 1783.7,
+    "end": 1784.8,
+    "text": "4 các bước thực hiện",
+    "textdich": ""
+  },
+  {
+    "start": 1785.7,
+    "end": 1787.8,
+    "text": "cô bác cứ làm Theo BA bước đơn giản sau",
+    "textdich": ""
+  },
+  {
+    "start": 1788.6,
+    "end": 1790.866,
+    "text": "bước một rửa sạch sơ chế đúng cách",
+    "textdich": ""
+  },
+  {
+    "start": 1791.733,
+    "end": 1794.333,
+    "text": "rửa từng loại lá dưới vòi nước chảy để loại bụi bẩn",
+    "textdich": ""
+  },
+  {
+    "start": 1795.133,
+    "end": 1796.166,
+    "text": "ngâm lá trong nước muối",
+    "textdich": ""
+  },
+  {
+    "start": 1796.266,
+    "end": 1797.766,
+    "text": "loãng năm đến 10 phút Cho yên tâm",
+    "textdich": ""
+  },
+  {
+    "start": 1798.733,
+    "end": 1800.666,
+    "text": "vò nhẹ các loại lá trừ lá dứa",
+    "textdich": ""
+  },
+  {
+    "start": 1800.966,
+    "end": 1802.666,
+    "text": "chỉ nên xé dọc để giữ mùi thơm",
+    "textdich": ""
+  },
+  {
+    "start": 1803.333,
+    "end": 1804.9,
+    "text": "bước một gừng gọt vỏ mỏng",
+    "textdich": ""
+  },
+  {
+    "start": 1805.1,
+    "end": 1807.666,
+    "text": "đập dập rồi thái lát giúp hoạt chất dễ tan trong nước",
+    "textdich": ""
+  },
+  {
+    "start": 1808.466,
+    "end": 1810.4,
+    "text": "cô bác thường bỏ qua bước vò nhẹ lá",
+    "textdich": ""
+  },
+  {
+    "start": 1810.7,
+    "end": 1811.966,
+    "text": "nhưng đây là bí quyết giúp hoạt chất",
+    "textdich": ""
+  },
+  {
+    "start": 1812.1,
+    "end": 1812.9,
+    "text": "chiết Ra nhiều hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1813.866,
+    "end": 1816.666,
+    "text": "bước 2 nấu đun đúng thời gian để lấy hoạt chất",
+    "textdich": ""
+  },
+  {
+    "start": 1817.333,
+    "end": 1819.066,
+    "text": "một Cho tất cả nguyên liệu vào nồi",
+    "textdich": ""
+  },
+  {
+    "start": 1819.966,
+    "end": 1821.9,
+    "text": "thêm khoảng một đến 1,5l nước",
+    "textdich": ""
+  },
+  {
+    "start": 1822.666,
+    "end": 1824.733,
+    "text": "đun lửa lớn Cho đến khi nước bắt đầu sôi",
+    "textdich": ""
+  },
+  {
+    "start": 1825.6,
+    "end": 1826.4,
+    "text": "khi nước sôi",
+    "textdich": ""
+  },
+  {
+    "start": 1826.6,
+    "end": 1829.466,
+    "text": "hạ xuống lửa nhỏ đun Liu riu 10 đến 15 phút",
+    "textdich": ""
+  },
+  {
+    "start": 1830.4,
+    "end": 1831.7,
+    "text": "lý do phải đun nhỏ lửa",
+    "textdich": ""
+  },
+  {
+    "start": 1832.333,
+    "end": 1834.733,
+    "text": "HOA chất trong lá sen tía tô mã đề",
+    "textdich": ""
+  },
+  {
+    "start": 1835.1,
+    "end": 1837.533,
+    "text": "tan tốt nhất ở nhiệt độ thấp và ổn định 4",
+    "textdich": ""
+  },
+  {
+    "start": 1837.7,
+    "end": 1840.6,
+    "text": "đun lửa lớn quá lâu dễ làm bay mất tinh dầu của lá dứa",
+    "textdich": ""
+  },
+  {
+    "start": 1840.7,
+    "end": 1841.5,
+    "text": "và tía tô",
+    "textdich": ""
+  },
+  {
+    "start": 1842.133,
+    "end": 1843.266,
+    "text": "sau 10 đến 15 phút",
+    "textdich": ""
+  },
+  {
+    "start": 1843.666,
+    "end": 1845.566,
+    "text": "nước chuyển sang màu xanh nhạt hoặc vàng nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 1845.8,
+    "end": 1846.666,
+    "text": "thơm mùi lá dứa",
+    "textdich": ""
+  },
+  {
+    "start": 1846.933,
+    "end": 1847.733,
+    "text": "lúc này là đạt",
+    "textdich": ""
+  },
+  {
+    "start": 1848.733,
+    "end": 1850.7,
+    "text": "bước BA cách uống thời điểm uống",
+    "textdich": ""
+  },
+  {
+    "start": 1851.666,
+    "end": 1855.1,
+    "text": "cô bác có thể uống nóng hoặc ấm không nên uống lạnh",
+    "textdich": ""
+  },
+  {
+    "start": 1855.733,
+    "end": 1858.3,
+    "text": "một có thể chia thành 2 đến BA lần uống trong ngày 2",
+    "textdich": ""
+  },
+  {
+    "start": 1859.166,
+    "end": 1862.166,
+    "text": "có thể uống thay nước lọc nhưng không vượt quá 1,5l",
+    "textdich": ""
+  },
+  {
+    "start": 1862.2,
+    "end": 1865.3,
+    "text": "ngày để đạt hiệu quả Cao nhất con khuyên",
+    "textdich": ""
+  },
+  {
+    "start": 1865.966,
+    "end": 1866.966,
+    "text": "thời điểm uống tốt nhất",
+    "textdich": ""
+  },
+  {
+    "start": 1867.9,
+    "end": 1869.2,
+    "text": "buổi sáng sau ăn 30 phút",
+    "textdich": ""
+  },
+  {
+    "start": 1869.266,
+    "end": 1870.9,
+    "text": "giúp thận và gan khởi động nhẹ nhàng",
+    "textdich": ""
+  },
+  {
+    "start": 1871.9,
+    "end": 1874.4,
+    "text": "buổi chiều 1410 7 giờ thải độc tốt nhất",
+    "textdich": ""
+  },
+  {
+    "start": 1874.766,
+    "end": 1875.666,
+    "text": "không ảnh hưởng giấc ngủ",
+    "textdich": ""
+  },
+  {
+    "start": 1876.566,
+    "end": 1878.1,
+    "text": "không nên uống sau 19 giờ",
+    "textdich": ""
+  },
+  {
+    "start": 1878.766,
+    "end": 1880.733,
+    "text": "4 vì lá mã đề có tính lợi tiểu",
+    "textdich": ""
+  },
+  {
+    "start": 1880.966,
+    "end": 1883.566,
+    "text": "uống muộn sẽ làm cô bác tiểu đêm ảnh hưởng giấc ngủ",
+    "textdich": ""
+  },
+  {
+    "start": 1884.566,
+    "end": 1885.4,
+    "text": "lưu ý khi dùng",
+    "textdich": ""
+  },
+  {
+    "start": 1886.366,
+    "end": 1887.866,
+    "text": "uống loãng không uống đặc",
+    "textdich": ""
+  },
+  {
+    "start": 1888.7,
+    "end": 1890.7,
+    "text": "người lớn tuổi không phù hợp uống nước quá đặc",
+    "textdich": ""
+  },
+  {
+    "start": 1890.966,
+    "end": 1892.8,
+    "text": "dễ gây hạ huyết áp hoặc khó chịu bụng",
+    "textdich": ""
+  },
+  {
+    "start": 1893.666,
+    "end": 1896.2,
+    "text": "không dùng liên tục quá đặc 7 ngày 4",
+    "textdich": ""
+  },
+  {
+    "start": 1896.333,
+    "end": 1898.2,
+    "text": "sau 7 ngày có thể nghỉ một đến 2 ngày",
+    "textdich": ""
+  },
+  {
+    "start": 1898.333,
+    "end": 1899.7,
+    "text": "để cơ thể điều chỉnh rồi tiếp tục",
+    "textdich": ""
+  },
+  {
+    "start": 1900.6,
+    "end": 1903.166,
+    "text": "người huyết áp thấp người đang mất nước nên thận trọng",
+    "textdich": ""
+  },
+  {
+    "start": 1903.933,
+    "end": 1904.866,
+    "text": "người bệnh thận mạn",
+    "textdich": ""
+  },
+  {
+    "start": 1904.933,
+    "end": 1906.533,
+    "text": "giai đoạn nặng nên hỏi ý kiến bác sĩ",
+    "textdich": ""
+  },
+  {
+    "start": 1907.466,
+    "end": 1908.966,
+    "text": "không thêm đường mật ong",
+    "textdich": ""
+  },
+  {
+    "start": 1909.8,
+    "end": 1912.3,
+    "text": "vì đường làm mất bớt tác dụng thanh lọc gan thận",
+    "textdich": ""
+  },
+  {
+    "start": 1912.933,
+    "end": 1915.4,
+    "text": "một phụ nữ mang Thai không dùng lá sen và tía tô",
+    "textdich": ""
+  },
+  {
+    "start": 1915.5,
+    "end": 1916.3,
+    "text": "liều Cao",
+    "textdich": ""
+  },
+  {
+    "start": 1916.8,
+    "end": 1918.1,
+    "text": "cơ chế tác động tổng hợp",
+    "textdich": ""
+  },
+  {
+    "start": 1918.3,
+    "end": 1920.1,
+    "text": "vì SAO năm lá gừng lại mạnh như vậy",
+    "textdich": ""
+  },
+  {
+    "start": 1920.733,
+    "end": 1923.7,
+    "text": "4 cô bác thân mến từng loại lá có một nhiệm vụ riêng",
+    "textdich": ""
+  },
+  {
+    "start": 1924.166,
+    "end": 1926.666,
+    "text": "khi kết hợp lại chúng tạo thành hiệu ứng hiệp đồng",
+    "textdich": ""
+  },
+  {
+    "start": 1926.9,
+    "end": 1928.066,
+    "text": "giúp thận khỏe",
+    "textdich": ""
+  },
+  {
+    "start": 1928.533,
+    "end": 1930.166,
+    "text": "gan nhẹ giúp cơ thể thanh lọc",
+    "textdich": ""
+  },
+  {
+    "start": 1930.966,
+    "end": 1933.8,
+    "text": "giấc ngủ sâu người tỉnh táo nhẹ nhàng",
+    "textdich": ""
+  },
+  {
+    "start": 1934.6,
+    "end": 1936.766,
+    "text": "dưới đây là cơ chế Chi tiết để cô bác hiểu rõ",
+    "textdich": ""
+  },
+  {
+    "start": 1937.533,
+    "end": 1941.466,
+    "text": "hỗ trợ thận thải độc tốt hơn 4 lá mã đề lợi tiểu mạnh",
+    "textdich": ""
+  },
+  {
+    "start": 1942.266,
+    "end": 1945.166,
+    "text": "giúp thận đào thải độc tố qua nước tiểu giảm sưng phù",
+    "textdich": ""
+  },
+  {
+    "start": 1945.5,
+    "end": 1946.6,
+    "text": "giảm áp lực Cho cầu thận",
+    "textdich": ""
+  },
+  {
+    "start": 1947.533,
+    "end": 1949.166,
+    "text": "gừng kháng viêm tăng tuần hoàn",
+    "textdich": ""
+  },
+  {
+    "start": 1950.2,
+    "end": 1952.333,
+    "text": "giảm viêm nhẹ trong thận tăng máu lên thận",
+    "textdich": ""
+  },
+  {
+    "start": 1952.566,
+    "end": 1953.466,
+    "text": "giúp thận lọc hiệu quả",
+    "textdich": ""
+  },
+  {
+    "start": 1954.533,
+    "end": 1956.566,
+    "text": "2 2 thành phần này kết hợp giúp thận thở nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 1956.8,
+    "end": 1958.6,
+    "text": "giảm tiểu đêm và giúp cơ thể bớt mệt",
+    "textdich": ""
+  },
+  {
+    "start": 1959.533,
+    "end": 1962.0,
+    "text": "làm cơ thể nhẹ thanh lọc đào thải độc tố",
+    "textdich": ""
+  },
+  {
+    "start": 1962.966,
+    "end": 1964.933,
+    "text": "lá tía tô thanh lọc qua tuyến mồ hôi",
+    "textdich": ""
+  },
+  {
+    "start": 1965.866,
+    "end": 1968.7,
+    "text": "mở cửa thải độc thứ 2 giảm gánh Cho gan và thận",
+    "textdich": ""
+  },
+  {
+    "start": 1969.3,
+    "end": 1972.266,
+    "text": "một lá sen làm mát gan hạ mỡ máu thanh nhiệt",
+    "textdich": ""
+  },
+  {
+    "start": 1973.266,
+    "end": 1974.666,
+    "text": "gan mát cơ thể ít nóng nảy",
+    "textdich": ""
+  },
+  {
+    "start": 1974.766,
+    "end": 1976.366,
+    "text": "ngủ sâu hơn thận làm việc hiệu quả hơn",
+    "textdich": ""
+  },
+  {
+    "start": 1977.166,
+    "end": 1979.566,
+    "text": "4 lá mã đề cân bằng nước không giữ nước",
+    "textdich": ""
+  },
+  {
+    "start": 1980.5,
+    "end": 1982.333,
+    "text": "giảm phù chân mặt Tay",
+    "textdich": ""
+  },
+  {
+    "start": 1983.166,
+    "end": 1985.9,
+    "text": "khi BA cơ chế này cùng hoạt động cô bác sẽ cảm thấy",
+    "textdich": ""
+  },
+  {
+    "start": 1986.7,
+    "end": 1988.2,
+    "text": "người nhẹ như vừa đi spa",
+    "textdich": ""
+  },
+  {
+    "start": 1988.766,
+    "end": 1989.733,
+    "text": "đầu óc Minh Mẫn",
+    "textdich": ""
+  },
+  {
+    "start": 1990.3,
+    "end": 1992.566,
+    "text": "bụng dễ chịu ngủ ngon và sâu",
+    "textdich": ""
+  },
+  {
+    "start": 1993.3,
+    "end": 1995.366,
+    "text": "ngủ ngon tâm an giảm lo âu",
+    "textdich": ""
+  },
+  {
+    "start": 1996.333,
+    "end": 1998.933,
+    "text": "lá dứa an thần dịu não giảm hồi hộp",
+    "textdich": ""
+  },
+  {
+    "start": 1999.8,
+    "end": 2001.8,
+    "text": "giúp não tiết melatonin tự nhiên",
+    "textdich": ""
+  },
+  {
+    "start": 2002.7,
+    "end": 2004.7,
+    "text": "lá sen an thần nhẹ giảm căng thẳng",
+    "textdich": ""
+  },
+  {
+    "start": 2005.666,
+    "end": 2008.133,
+    "text": "kết hợp với lá dứa làm giấc ngủ sâu và liền mạch",
+    "textdich": ""
+  },
+  {
+    "start": 2008.933,
+    "end": 2009.8,
+    "text": "BA khi thân thể ấm",
+    "textdich": ""
+  },
+  {
+    "start": 2010.1,
+    "end": 2011.166,
+    "text": "gan mát thận nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 2011.4,
+    "end": 2014.0,
+    "text": "cộng thêm tác dụng an thần tự nhiên của lá dứa lá sen",
+    "textdich": ""
+  },
+  {
+    "start": 2014.3,
+    "end": 2015.966,
+    "text": "cô bác sẽ ngủ nhanh hơn",
+    "textdich": ""
+  },
+  {
+    "start": 2016.4,
+    "end": 2018.266,
+    "text": "sâu hơn ít thức giấc hơn",
+    "textdich": ""
+  },
+  {
+    "start": 2018.733,
+    "end": 2019.7,
+    "text": "ít tiểu đêm hơn",
+    "textdich": ""
+  },
+  {
+    "start": 2020.3,
+    "end": 2021.166,
+    "text": "cô bác thân mến",
+    "textdich": ""
+  },
+  {
+    "start": 2021.4,
+    "end": 2022.466,
+    "text": "năm loại lá và gừng",
+    "textdich": ""
+  },
+  {
+    "start": 2022.533,
+    "end": 2024.6,
+    "text": "này đều là những món quà mà thiên nhiên ban tặng",
+    "textdich": ""
+  },
+  {
+    "start": 2025.0,
+    "end": 2027.933,
+    "text": "nếu dùng đúng cách vừa đủ đều đặn cô bác sẽ thấy",
+    "textdich": ""
+  },
+  {
+    "start": 2028.5,
+    "end": 2029.6,
+    "text": "4 cơ thể nhẹ nhõm",
+    "textdich": ""
+  },
+  {
+    "start": 2030.133,
+    "end": 2033.533,
+    "text": "thận đỡ mệt gan mát ruột sạch ngủ sâu",
+    "textdich": ""
+  },
+  {
+    "start": 2034.0,
+    "end": 2035.466,
+    "text": "sáng dậy đầu óc tỉnh táo",
+    "textdich": ""
+  },
+  {
+    "start": 2036.133,
+    "end": 2037.766,
+    "text": "bài thuốc này phù hợp Cho người lớn tuổi",
+    "textdich": ""
+  },
+  {
+    "start": 2038.166,
+    "end": 2041.333,
+    "text": "an toàn dễ làm Chi phí thấp nhưng hiệu quả rất rõ rệt",
+    "textdich": ""
+  },
+  {
+    "start": 2042.266,
+    "end": 2043.133,
+    "text": "cô bác thân mến",
+    "textdich": ""
+  },
+  {
+    "start": 2043.8,
+    "end": 2045.966,
+    "text": "sau khi con đã chia sẻ trọn vẹn từng loại lá",
+    "textdich": ""
+  },
+  {
+    "start": 2046.3,
+    "end": 2047.866,
+    "text": "cách pha chế thời điểm uống",
+    "textdich": ""
+  },
+  {
+    "start": 2047.9,
+    "end": 2048.733,
+    "text": "và cơ chế tác động",
+    "textdich": ""
+  },
+  {
+    "start": 2048.8,
+    "end": 2051.066,
+    "text": "hiệp đồng của bài thuốc năm lá kết hợp gừng tươi",
+    "textdich": ""
+  },
+  {
+    "start": 2051.4,
+    "end": 2052.133,
+    "text": "bây giờ con Xin",
+    "textdich": ""
+  },
+  {
+    "start": 2052.133,
+    "end": 2054.0,
+    "text": "khép lại bằng một phần kết luận thật rõ ràng",
+    "textdich": ""
+  },
+  {
+    "start": 2054.4,
+    "end": 2055.733,
+    "text": "để cô bác có cái nhìn đầy đủ",
+    "textdich": ""
+  },
+  {
+    "start": 2056.066,
+    "end": 2057.466,
+    "text": "tự tin và an tâm khi áp dụng",
+    "textdich": ""
+  },
+  {
+    "start": 2058.4,
+    "end": 2060.133,
+    "text": "con sẽ viết bằng giọng của một bác sĩ",
+    "textdich": ""
+  },
+  {
+    "start": 2060.6,
+    "end": 2062.133,
+    "text": "nhẹ nhàng khoa học thực tế",
+    "textdich": ""
+  },
+  {
+    "start": 2062.466,
+    "end": 2064.933,
+    "text": "xương con và cô bác như đã đồng hành với nhau từ đầu",
+    "textdich": ""
+  },
+  {
+    "start": 2065.666,
+    "end": 2066.8,
+    "text": "4 cô bác thân mến",
+    "textdich": ""
+  },
+  {
+    "start": 2067.5,
+    "end": 2068.3,
+    "text": "sức khỏe thận",
+    "textdich": ""
+  },
+  {
+    "start": 2068.4,
+    "end": 2070.8,
+    "text": "gan ruột và giấc ngủ là 4 trụ cột quyết định",
+    "textdich": ""
+  },
+  {
+    "start": 2070.9,
+    "end": 2072.0,
+    "text": "chất lượng sống của người Cao tuổi",
+    "textdich": ""
+  },
+  {
+    "start": 2072.666,
+    "end": 2073.766,
+    "text": "khi một trụ yếu đi",
+    "textdich": ""
+  },
+  {
+    "start": 2073.966,
+    "end": 2076.2,
+    "text": "những trụ còn lại sẽ phải gánh đỡ và dễ sinh Ra",
+    "textdich": ""
+  },
+  {
+    "start": 2076.266,
+    "end": 2079.366,
+    "text": "mệt mỏi phù tiểu đêm nóng trong mất ngủ",
+    "textdich": ""
+  },
+  {
+    "start": 2079.7,
+    "end": 2081.533,
+    "text": "ăn uống kém tinh thần SA sút",
+    "textdich": ""
+  },
+  {
+    "start": 2082.466,
+    "end": 2084.9,
+    "text": "bài thuốc năm lá kết hợp gừng tươi mà con đã hướng dẫn",
+    "textdich": ""
+  },
+  {
+    "start": 2084.966,
+    "end": 2085.8,
+    "text": "trong suốt bài viết",
+    "textdich": ""
+  },
+  {
+    "start": 2085.933,
+    "end": 2088.3,
+    "text": "chính là cách kích hoạt đồng thời cả 4 trụ cột đó",
+    "textdich": ""
+  },
+  {
+    "start": 2088.6,
+    "end": 2090.0,
+    "text": "giúp cơ thể cô bác tự điều chỉnh",
+    "textdich": ""
+  },
+  {
+    "start": 2090.333,
+    "end": 2092.666,
+    "text": "tự đào thải tự phục hồi Theo cách tự nhiên nhất",
+    "textdich": ""
+  },
+  {
+    "start": 2093.666,
+    "end": 2096.3,
+    "text": "và dưới đây con Xin tổng kết lại toàn bộ lợi ích",
+    "textdich": ""
+  },
+  {
+    "start": 2096.4,
+    "end": 2098.7,
+    "text": "cũng như những lưu ý quan trọng mà cô bác cần ghi nhớ",
+    "textdich": ""
+  },
+  {
+    "start": 2099.6,
+    "end": 2102.1,
+    "text": "tóm tắt lợi ích khẳng định lại hiệu quả của bài thuốc",
+    "textdich": ""
+  },
+  {
+    "start": 2103.066,
+    "end": 2105.1,
+    "text": "sau khi dùng đều đặn 714 ngày",
+    "textdich": ""
+  },
+  {
+    "start": 2105.533,
+    "end": 2107.733,
+    "text": "hầu hết cô bác sẽ cảm nhận những thay đổi rất rõ",
+    "textdich": ""
+  },
+  {
+    "start": 2108.533,
+    "end": 2110.8,
+    "text": "thận khỏe bài tiết tốt giảm tiểu đêm",
+    "textdich": ""
+  },
+  {
+    "start": 2111.7,
+    "end": 2113.533,
+    "text": "nhờ tác dụng lợi tiểu của lá mã đề",
+    "textdich": ""
+  },
+  {
+    "start": 2113.9,
+    "end": 2114.866,
+    "text": "giảm viêm nhẹ của gừng",
+    "textdich": ""
+  },
+  {
+    "start": 2115.2,
+    "end": 2117.066,
+    "text": "cùng tác dụng làm sạch đường tiểu của lá ổi",
+    "textdich": ""
+  },
+  {
+    "start": 2117.2,
+    "end": 2118.4,
+    "text": "lá với thận được thở nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 2118.6,
+    "end": 2120.5,
+    "text": "giảm áp lực dòng nước tiểu ổn định",
+    "textdich": ""
+  },
+  {
+    "start": 2121.066,
+    "end": 2125.733,
+    "text": "một cơ thể nhẹ đầu óc thoải mái bớt mệt mỏi 2 lá tía tô",
+    "textdich": ""
+  },
+  {
+    "start": 2125.933,
+    "end": 2127.866,
+    "text": "lá sen mã đề cùng nhau thanh lọc",
+    "textdich": ""
+  },
+  {
+    "start": 2128.166,
+    "end": 2129.5,
+    "text": "thải độc qua cả đường mồ hôi",
+    "textdich": ""
+  },
+  {
+    "start": 2129.733,
+    "end": 2131.133,
+    "text": "nước tiểu gan ruột",
+    "textdich": ""
+  },
+  {
+    "start": 2132.066,
+    "end": 2132.966,
+    "text": "khi độc tố giảm",
+    "textdich": ""
+  },
+  {
+    "start": 2133.3,
+    "end": 2135.5,
+    "text": "cơ thể tự nhiên nhẹ bẫng đi lại nhanh nhẹn",
+    "textdich": ""
+  },
+  {
+    "start": 2135.733,
+    "end": 2136.8,
+    "text": "tinh thần tỉnh táo hơn",
+    "textdich": ""
+  },
+  {
+    "start": 2137.166,
+    "end": 2139.866,
+    "text": "BA BA gan mát tiêu hóa tốt bụng dễ chịu",
+    "textdich": ""
+  },
+  {
+    "start": 2140.8,
+    "end": 2143.6,
+    "text": "lá sen và lá ổi lá với giảm nóng trong thanh nhiệt",
+    "textdich": ""
+  },
+  {
+    "start": 2143.866,
+    "end": 2145.966,
+    "text": "ổn định đường ruột rất lợi Cho người hay đầy bụng",
+    "textdich": ""
+  },
+  {
+    "start": 2146.2,
+    "end": 2147.4,
+    "text": "chướng hơi khó tiêu",
+    "textdich": ""
+  },
+  {
+    "start": 2148.133,
+    "end": 2150.966,
+    "text": "4 giấc ngủ sâu ít thức giấc tỉnh táo khi dậy",
+    "textdich": ""
+  },
+  {
+    "start": 2151.866,
+    "end": 2154.066,
+    "text": "nhờ tác dụng an thần của lá dứa và lá sen",
+    "textdich": ""
+  },
+  {
+    "start": 2154.4,
+    "end": 2155.666,
+    "text": "cộng thêm cơ thể thanh lọc tốt",
+    "textdich": ""
+  },
+  {
+    "start": 2155.9,
+    "end": 2156.733,
+    "text": "thận không quá tải",
+    "textdich": ""
+  },
+  {
+    "start": 2156.766,
+    "end": 2157.133,
+    "text": "ban đêm",
+    "textdich": ""
+  },
+  {
+    "start": 2157.133,
+    "end": 2159.366,
+    "text": "cô bác dễ chìm vào giấc ngủ và ngủ sâu đến sáng",
+    "textdich": ""
+  },
+  {
+    "start": 2160.2,
+    "end": 2163.0,
+    "text": "BA tăng sinh lực giảm phù người thấy khỏe hơn",
+    "textdich": ""
+  },
+  {
+    "start": 2163.866,
+    "end": 2165.8,
+    "text": "đối với người hay sưng chân sưng mắt",
+    "textdich": ""
+  },
+  {
+    "start": 2166.0,
+    "end": 2167.133,
+    "text": "nặng mặt nặng người",
+    "textdich": ""
+  },
+  {
+    "start": 2167.466,
+    "end": 2169.7,
+    "text": "bài thuốc này hỗ trợ rất tốt vì vừa lợi tiểu",
+    "textdich": ""
+  },
+  {
+    "start": 2169.933,
+    "end": 2171.733,
+    "text": "vừa ổn định nước điện giải nhẹ nhàng",
+    "textdich": ""
+  },
+  {
+    "start": 2172.333,
+    "end": 2174.9,
+    "text": "tóm lại đây là một bài thuốc hỗ trợ toàn diện",
+    "textdich": ""
+  },
+  {
+    "start": 2175.1,
+    "end": 2176.4,
+    "text": "nhắm vào nguyên nhân gốc rễ",
+    "textdich": ""
+  },
+  {
+    "start": 2176.666,
+    "end": 2177.8,
+    "text": "chứ không chỉ chữa triệu chứng",
+    "textdich": ""
+  },
+  {
+    "start": 2178.5,
+    "end": 2181.0,
+    "text": "4 nó giúp cơ thể tự phục hồi tự điều chỉnh",
+    "textdich": ""
+  },
+  {
+    "start": 2181.3,
+    "end": 2183.4,
+    "text": "tự lọc và tự chữa lành Theo cơ chế tự nhiên",
+    "textdich": ""
+  },
+  {
+    "start": 2184.466,
+    "end": 2185.866,
+    "text": "lời khuyên và cảnh báo quan trọng",
+    "textdich": ""
+  },
+  {
+    "start": 2186.1,
+    "end": 2188.566,
+    "text": "điều cô bác nhất định phải ghi nhớ 4",
+    "textdich": ""
+  },
+  {
+    "start": 2188.8,
+    "end": 2190.766,
+    "text": "duy trì thói quen đều đặn năm",
+    "textdich": ""
+  },
+  {
+    "start": 2190.933,
+    "end": 2192.966,
+    "text": "cơ thể người lớn tuổi không thay đổi trong một sớm",
+    "textdich": ""
+  },
+  {
+    "start": 2193.066,
+    "end": 2194.2,
+    "text": "một chiều 6",
+    "textdich": ""
+  },
+  {
+    "start": 2194.4,
+    "end": 2195.733,
+    "text": "hiệu quả đến từ sự kiên trì",
+    "textdich": ""
+  },
+  {
+    "start": 2196.066,
+    "end": 2197.866,
+    "text": "uống đều mỗi ngày liều lượng vừa phải",
+    "textdich": ""
+  },
+  {
+    "start": 2198.266,
+    "end": 2199.066,
+    "text": "uống đúng thời điểm",
+    "textdich": ""
+  },
+  {
+    "start": 2199.2,
+    "end": 2202.366,
+    "text": "7 4 đây là bài thuốc hỗ trợ không phải thuốc điều trị",
+    "textdich": ""
+  },
+  {
+    "start": 2203.3,
+    "end": 2204.3,
+    "text": "con Xin nhấn mạnh",
+    "textdich": ""
+  },
+  {
+    "start": 2204.8,
+    "end": 2205.9,
+    "text": "bài thuốc năm lá gừng",
+    "textdich": ""
+  },
+  {
+    "start": 2205.966,
+    "end": 2208.533,
+    "text": "không thay thế thuốc điều trị bệnh thận gan huyết áp",
+    "textdich": ""
+  },
+  {
+    "start": 2208.866,
+    "end": 2209.666,
+    "text": "tiểu đường",
+    "textdich": ""
+  },
+  {
+    "start": 2210.0,
+    "end": 2212.2,
+    "text": "những cô bác đang điều trị Theo phác đồ của bác sĩ",
+    "textdich": ""
+  },
+  {
+    "start": 2212.333,
+    "end": 2213.366,
+    "text": "vẫn phải duy trì đầy đủ",
+    "textdich": ""
+  },
+  {
+    "start": 2214.4,
+    "end": 2216.133,
+    "text": "bài thuốc này chỉ giúp giảm triệu chứng",
+    "textdich": ""
+  },
+  {
+    "start": 2216.4,
+    "end": 2218.6,
+    "text": "tăng sức tăng giải độc hỗ trợ phục hồi",
+    "textdich": ""
+  },
+  {
+    "start": 2219.533,
+    "end": 2221.0,
+    "text": "một số đối tượng cần cẩn trọng",
+    "textdich": ""
+  },
+  {
+    "start": 2221.933,
+    "end": 2222.8,
+    "text": "phụ nữ mang Thai",
+    "textdich": ""
+  },
+  {
+    "start": 2223.7,
+    "end": 2226.066,
+    "text": "không nên dùng lá sen và lá tía tô liều Cao",
+    "textdich": ""
+  },
+  {
+    "start": 2226.6,
+    "end": 2227.4,
+    "text": "nếu muốn dùng",
+    "textdich": ""
+  },
+  {
+    "start": 2227.5,
+    "end": 2229.466,
+    "text": "phải hỏi trực tiếp bác sĩ Theo dõi Thai kỳ",
+    "textdich": ""
+  },
+  {
+    "start": 2230.1,
+    "end": 2231.366,
+    "text": "một người huyết áp thấp",
+    "textdich": ""
+  },
+  {
+    "start": 2232.166,
+    "end": 2234.5,
+    "text": "gừng và lá sen có thể làm huyết áp giảm nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 2235.3,
+    "end": 2237.2,
+    "text": "chỉ dùng liều nhỏ và Theo dõi cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 2238.166,
+    "end": 2239.366,
+    "text": "người đang dùng thuốc tây",
+    "textdich": ""
+  },
+  {
+    "start": 2240.166,
+    "end": 2241.2,
+    "text": "nhất là thuốc huyết áp",
+    "textdich": ""
+  },
+  {
+    "start": 2241.533,
+    "end": 2243.133,
+    "text": "thuốc chống đông thuốc tiểu đường",
+    "textdich": ""
+  },
+  {
+    "start": 2243.8,
+    "end": 2245.9,
+    "text": "BA nên uống cách thuốc tây ít nhất 1 giờ",
+    "textdich": ""
+  },
+  {
+    "start": 2246.766,
+    "end": 2247.933,
+    "text": "người bị suy thận nặng",
+    "textdich": ""
+  },
+  {
+    "start": 2248.733,
+    "end": 2250.866,
+    "text": "cần hỏi trực tiếp bác sĩ chuyên khoa trước khi dùng",
+    "textdich": ""
+  },
+  {
+    "start": 2250.933,
+    "end": 2252.966,
+    "text": "vì khả năng lọc nước và điện giải bị hạn chế",
+    "textdich": ""
+  },
+  {
+    "start": 2253.9,
+    "end": 2256.366,
+    "text": "người đang mất nước tiêu chảy 4",
+    "textdich": ""
+  },
+  {
+    "start": 2256.366,
+    "end": 2257.166,
+    "text": "không dùng mã đề",
+    "textdich": ""
+  },
+  {
+    "start": 2257.266,
+    "end": 2259.566,
+    "text": "liều Cao vì lợi tiểu có thể làm tình trạng nặng hơn",
+    "textdich": ""
+  },
+  {
+    "start": 2260.5,
+    "end": 2262.4,
+    "text": "không uống quá đặc không uống quá nhiều",
+    "textdich": ""
+  },
+  {
+    "start": 2263.466,
+    "end": 2266.166,
+    "text": "nước quá đặc hoặc uống hơn 1,5l ngày có thể gây",
+    "textdich": ""
+  },
+  {
+    "start": 2266.8,
+    "end": 2267.733,
+    "text": "mất điện giải nhẹ",
+    "textdich": ""
+  },
+  {
+    "start": 2268.133,
+    "end": 2269.766,
+    "text": "tiểu nhiều hạ huyết áp",
+    "textdich": ""
+  },
+  {
+    "start": 2270.666,
+    "end": 2273.333,
+    "text": "cô bác hãy dùng vừa đủ đúng liều đúng thời điểm",
+    "textdich": ""
+  },
+  {
+    "start": 2274.3,
+    "end": 2275.133,
+    "text": "cô bác thân mến",
+    "textdich": ""
+  },
+  {
+    "start": 2275.8,
+    "end": 2278.366,
+    "text": "bài thuốc năm lá này rất dễ kiếm rẻ tiền",
+    "textdich": ""
+  },
+  {
+    "start": 2278.666,
+    "end": 2281.566,
+    "text": "dễ nấu dễ uống và cực kỳ an toàn nếu dùng đúng cách",
+    "textdich": ""
+  },
+  {
+    "start": 2282.5,
+    "end": 2283.866,
+    "text": "nhiều cô bác sau khi áp dụng",
+    "textdich": ""
+  },
+  {
+    "start": 2283.933,
+    "end": 2285.3,
+    "text": "năm đến 7 ngày đã phản hồi",
+    "textdich": ""
+  },
+  {
+    "start": 2286.066,
+    "end": 2286.966,
+    "text": "ngủ ngon hơn hẳn",
+    "textdich": ""
+  },
+  {
+    "start": 2287.8,
+    "end": 2289.866,
+    "text": "đêm không còn thức giấc 2 đến BA lần nữa",
+    "textdich": ""
+  },
+  {
+    "start": 2290.7,
+    "end": 2293.733,
+    "text": "người nhẹ bẫng tiểu trong bớt mùi",
+    "textdich": ""
+  },
+  {
+    "start": 2294.7,
+    "end": 2296.4,
+    "text": "sáng dậy khỏe ít nhức đầu",
+    "textdich": ""
+  },
+  {
+    "start": 2297.2,
+    "end": 2298.333,
+    "text": "con mong cô bác hãy",
+    "textdich": ""
+  },
+  {
+    "start": 2298.9,
+    "end": 2300.666,
+    "text": "áp dụng ngay công thức này trong 7 ngày",
+    "textdich": ""
+  },
+  {
+    "start": 2301.466,
+    "end": 2303.5,
+    "text": "4 để cảm nhận sự thay đổi của cơ thể mình",
+    "textdich": ""
+  },
+  {
+    "start": 2304.533,
+    "end": 2305.8,
+    "text": "chia sẻ kết quả Cho con",
+    "textdich": ""
+  },
+  {
+    "start": 2306.7,
+    "end": 2307.8,
+    "text": "cô bác cảm thấy SAO",
+    "textdich": ""
+  },
+  {
+    "start": 2308.066,
+    "end": 2311.1,
+    "text": "ngủ Ra SAO người nhẹ đến đâu tiểu đêm giảm thế nào",
+    "textdich": ""
+  },
+  {
+    "start": 2311.466,
+    "end": 2313.1,
+    "text": "con rất mong được lắng nghe để điều chỉnh",
+    "textdich": ""
+  },
+  {
+    "start": 2313.466,
+    "end": 2314.533,
+    "text": "tư vấn thêm Cho phù hợp",
+    "textdich": ""
+  },
+  {
+    "start": 2315.266,
+    "end": 2318.666,
+    "text": "4 LAN tỏa Cho người thân năm AI có Cha mẹ lớn tuổi",
+    "textdich": ""
+  },
+  {
+    "start": 2319.1,
+    "end": 2319.9,
+    "text": "AI đang mệt mỏi",
+    "textdich": ""
+  },
+  {
+    "start": 2320.1,
+    "end": 2320.9,
+    "text": "AI tiểu đêm",
+    "textdich": ""
+  },
+  {
+    "start": 2321.066,
+    "end": 2324.1,
+    "text": "AI mất ngủ đều có thể hưởng lợi từ bài thuốc này 6",
+    "textdich": ""
+  },
+  {
+    "start": 2324.5,
+    "end": 2326.066,
+    "text": "cô bác ơi ở tuổi này",
+    "textdich": ""
+  },
+  {
+    "start": 2326.3,
+    "end": 2328.8,
+    "text": "điều quý nhất không phải là sống lâu mà là sống khỏe",
+    "textdich": ""
+  },
+  {
+    "start": 2329.1,
+    "end": 2332.066,
+    "text": "sống nhẹ sống vui ngủ ngon tinh thần sảng khoái",
+    "textdich": ""
+  },
+  {
+    "start": 2332.933,
+    "end": 2335.0,
+    "text": "bài thuốc năm lá gừng không phải là phép màu",
+    "textdich": ""
+  },
+  {
+    "start": 2335.4,
+    "end": 2338.066,
+    "text": "nhưng nó là một liệu pháp tự nhiên an toàn lành tính",
+    "textdich": ""
+  },
+  {
+    "start": 2338.366,
+    "end": 2340.3,
+    "text": "dựa vào cơ chế tự chữa lành của cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 2341.2,
+    "end": 2343.6,
+    "text": "con mong rằng bài thuốc này sẽ giúp cô bác có những",
+    "textdich": ""
+  },
+  {
+    "start": 2343.6,
+    "end": 2344.6,
+    "text": "ngày sống thật nhẹ nhàng",
+    "textdich": ""
+  },
+  {
+    "start": 2344.966,
+    "end": 2346.566,
+    "text": "thật dễ chịu và thật trọn vẹn",
+    "textdich": ""
+  }
+]
