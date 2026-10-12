@@ -1,0 +1,3356 @@
+[
+  {
+    "start": 0.199,
+    "end": 4.56,
+    "text": "Có một bài tập mà giới khoa học thể thao",
+    "textdich": ""
+  },
+  {
+    "start": 2.23,
+    "end": 4.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 2.24,
+    "end": 6.759,
+    "text": "gọi là vua của các bài tập sức mạnh.",
+    "textdich": ""
+  },
+  {
+    "start": 4.55,
+    "end": 6.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 4.56,
+    "end": 8.679,
+    "text": "Không phải vì nó nghe ngầu mà vì các con",
+    "textdich": ""
+  },
+  {
+    "start": 6.749,
+    "end": 8.679,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 6.759,
+    "end": 11.44,
+    "text": "số đo được trong phòng thí nghiệm buộc",
+    "textdich": ""
+  },
+  {
+    "start": 8.669,
+    "end": 11.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 8.679,
+    "end": 13.88,
+    "text": "người ta phải gọi như vậy. Đó là squat",
+    "textdich": ""
+  },
+  {
+    "start": 11.43,
+    "end": 13.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 11.44,
+    "end": 16.08,
+    "text": "hay còn gọi là ngồi xổm có kiểm soát.",
+    "textdich": ""
+  },
+  {
+    "start": 13.87,
+    "end": 16.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 13.88,
+    "end": 19.039,
+    "text": "Hôm nay mình sẽ đi qua từng tác động của",
+    "textdich": ""
+  },
+  {
+    "start": 16.07,
+    "end": 19.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 16.08,
+    "end": 21.519,
+    "text": "bài tập này lên cơ thể. Từng con số đều",
+    "textdich": ""
+  },
+  {
+    "start": 19.029,
+    "end": 21.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 19.039,
+    "end": 23.92,
+    "text": "có nguồn gốc rõ ràng, không thêm bớt,",
+    "textdich": ""
+  },
+  {
+    "start": 21.509,
+    "end": 23.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 21.519,
+    "end": 26.199,
+    "text": "không thổi phồng. Trước tiên cần hiểu",
+    "textdich": ""
+  },
+  {
+    "start": 23.91,
+    "end": 26.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 23.92,
+    "end": 28.64,
+    "text": "tại sao Squad lại đặc biệt đến vậy.",
+    "textdich": ""
+  },
+  {
+    "start": 26.189,
+    "end": 28.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 26.199,
+    "end": 30.84,
+    "text": "Squad là một động tác phức hợp, tức là",
+    "textdich": ""
+  },
+  {
+    "start": 28.63,
+    "end": 30.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 28.64,
+    "end": 33.32,
+    "text": "một động tác duy nhất nhưng kéo theo sự",
+    "textdich": ""
+  },
+  {
+    "start": 30.83,
+    "end": 33.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 30.84,
+    "end": 36.04,
+    "text": "tham gia đồng thời của nhiều nhóm cơ lớn",
+    "textdich": ""
+  },
+  {
+    "start": 33.31,
+    "end": 36.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 33.32,
+    "end": 38.399,
+    "text": "nếu liệt kê đầy đủ. Cơ tứ đầu đùi ở mặt",
+    "textdich": ""
+  },
+  {
+    "start": 36.03,
+    "end": 38.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 36.04,
+    "end": 41.2,
+    "text": "trước, cơ gân kheo và cơ bán gân ở mặt",
+    "textdich": ""
+  },
+  {
+    "start": 38.389,
+    "end": 41.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 38.399,
+    "end": 44.039,
+    "text": "sau đùi. Ba lớp cơ mông gồm cơ mông lớn,",
+    "textdich": ""
+  },
+  {
+    "start": 41.19,
+    "end": 44.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 41.2,
+    "end": 46.64,
+    "text": "cơ mông nhỡ và cơ mông bé, cơ khép háng,",
+    "textdich": ""
+  },
+  {
+    "start": 44.029,
+    "end": 46.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 44.039,
+    "end": 49.12,
+    "text": "cơ gấp hông, cơ bắp chân. Toàn bộ nhóm",
+    "textdich": ""
+  },
+  {
+    "start": 46.63,
+    "end": 49.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 46.64,
+    "end": 51.6,
+    "text": "cơ lõi bao gồm cơ thẳng bụng, cơ chéo",
+    "textdich": ""
+  },
+  {
+    "start": 49.11,
+    "end": 51.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 49.12,
+    "end": 54.96,
+    "text": "bụng ngoài, cơ chéo bụng trong, cơ ngang",
+    "textdich": ""
+  },
+  {
+    "start": 51.59,
+    "end": 54.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 51.6,
+    "end": 56.76,
+    "text": "bụng và cơ dựng cột sống. Ngay cả phần",
+    "textdich": ""
+  },
+  {
+    "start": 54.95,
+    "end": 56.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 54.96,
+    "end": 59.039,
+    "text": "thân trên cũng phải làm việc để giữ",
+    "textdich": ""
+  },
+  {
+    "start": 56.75,
+    "end": 59.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 56.76,
+    "end": 61.519,
+    "text": "thăng bằng và ổn định cột sống trong mỗi",
+    "textdich": ""
+  },
+  {
+    "start": 59.029,
+    "end": 61.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 59.039,
+    "end": 63.719,
+    "text": "nhịp lên xuống. Đây chính là điểm mà",
+    "textdich": ""
+  },
+  {
+    "start": 61.509,
+    "end": 63.719,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 61.519,
+    "end": 66.6,
+    "text": "Squad vượt xa hầu hết. Các bài tập đơn",
+    "textdich": ""
+  },
+  {
+    "start": 63.709,
+    "end": 66.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 63.719,
+    "end": 68.64,
+    "text": "khớp như cuốn tay hay duỗi đùi máy vốn",
+    "textdich": ""
+  },
+  {
+    "start": 66.59,
+    "end": 68.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 66.6,
+    "end": 71.56,
+    "text": "chỉ tập trung vào một nhóm cơ tại một",
+    "textdich": ""
+  },
+  {
+    "start": 68.63,
+    "end": 71.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 68.64,
+    "end": 74.36,
+    "text": "thời điểm. Tác động tiên và dễ thấy nhất",
+    "textdich": ""
+  },
+  {
+    "start": 71.55,
+    "end": 74.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 71.56,
+    "end": 76.64,
+    "text": "là sự thay đổi về cơ bắp. Với người chưa",
+    "textdich": ""
+  },
+  {
+    "start": 74.35,
+    "end": 76.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 74.36,
+    "end": 79.24,
+    "text": "từng vận động thể lực, sự thay đổi có",
+    "textdich": ""
+  },
+  {
+    "start": 76.63,
+    "end": 79.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 76.64,
+    "end": 82.2,
+    "text": "thể nhận ra chỉ sau bốn đến sáu tuần tập",
+    "textdich": ""
+  },
+  {
+    "start": 79.23,
+    "end": 82.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 79.24,
+    "end": 85.36,
+    "text": "đều, đặc biệt ở phần đùi, mông và bụng",
+    "textdich": ""
+  },
+  {
+    "start": 82.19,
+    "end": 85.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 82.2,
+    "end": 87.28,
+    "text": "dưới. Lý do là áp lực cơ học mà Squat",
+    "textdich": ""
+  },
+  {
+    "start": 85.35,
+    "end": 87.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 85.36,
+    "end": 89.88,
+    "text": "tạo ra đủ lớn để kích thích quá trình",
+    "textdich": ""
+  },
+  {
+    "start": 87.27,
+    "end": 89.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 87.28,
+    "end": 92.119,
+    "text": "tổng hợp protein trong cơ. Hay nói đơn",
+    "textdich": ""
+  },
+  {
+    "start": 89.87,
+    "end": 92.119,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 89.88,
+    "end": 94.84,
+    "text": "giản hơn là kích thích cơ phá vỡ và tái",
+    "textdich": ""
+  },
+  {
+    "start": 92.109,
+    "end": 94.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 92.119,
+    "end": 97.2,
+    "text": "tạo mạnh hơn. Chạy bộ hay đạp xe có tác",
+    "textdich": ""
+  },
+  {
+    "start": 94.83,
+    "end": 97.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 94.84,
+    "end": 99.72,
+    "text": "dụng tốt cho tim phổi nhưng không tạo ra",
+    "textdich": ""
+  },
+  {
+    "start": 97.19,
+    "end": 99.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 97.2,
+    "end": 101.52,
+    "text": "loại kích thích này ở mức đủ mạnh nên",
+    "textdich": ""
+  },
+  {
+    "start": 99.71,
+    "end": 101.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 99.72,
+    "end": 104.2,
+    "text": "hầu như không thúc đẩy tăng trưởng cơ",
+    "textdich": ""
+  },
+  {
+    "start": 101.51,
+    "end": 104.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 101.52,
+    "end": 106.36,
+    "text": "đáng kể. Đây là lý do những người chạy",
+    "textdich": ""
+  },
+  {
+    "start": 104.19,
+    "end": 106.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 104.2,
+    "end": 108.759,
+    "text": "marathon thường rất bền nhưng không có",
+    "textdich": ""
+  },
+  {
+    "start": 106.35,
+    "end": 108.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 106.36,
+    "end": 111.28,
+    "text": "cơ bắp nổi. Còn người tập squat đúng",
+    "textdich": ""
+  },
+  {
+    "start": 108.749,
+    "end": 111.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 108.759,
+    "end": 113.88,
+    "text": "cách thì khác hẳn về hình dạng cơ thể dù",
+    "textdich": ""
+  },
+  {
+    "start": 111.27,
+    "end": 113.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 111.28,
+    "end": 116.159,
+    "text": "tổng thời gian tập ngắn hơn nhiều. Điều",
+    "textdich": ""
+  },
+  {
+    "start": 113.87,
+    "end": 116.159,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 113.88,
+    "end": 117.799,
+    "text": "thứ hai là khả năng đốt calo. Theo dữ",
+    "textdich": ""
+  },
+  {
+    "start": 116.149,
+    "end": 117.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 116.159,
+    "end": 120.759,
+    "text": "liệu đo lường thực tế từ trường Y",
+    "textdich": ""
+  },
+  {
+    "start": 117.789,
+    "end": 120.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 117.799,
+    "end": 123.039,
+    "text": "Harvard, một người nặng khoảng 70 kg tập",
+    "textdich": ""
+  },
+  {
+    "start": 120.749,
+    "end": 123.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 120.759,
+    "end": 125.88,
+    "text": "tạ cường độ cao trong 30 phút, đốt",
+    "textdich": ""
+  },
+  {
+    "start": 123.029,
+    "end": 125.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 123.039,
+    "end": 128.8,
+    "text": "khoảng 223 calo. Còn nếu tính riêng",
+    "textdich": ""
+  },
+  {
+    "start": 125.87,
+    "end": 128.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 125.88,
+    "end": 131.44,
+    "text": "squad với cường độ cao tương đương 80%",
+    "textdich": ""
+  },
+  {
+    "start": 128.79,
+    "end": 131.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 128.8,
+    "end": 133.68,
+    "text": "mức tạ tối đa. Các nghiên cứu đo nhịp",
+    "textdich": ""
+  },
+  {
+    "start": 131.43,
+    "end": 133.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 131.44,
+    "end": 135.56,
+    "text": "tim trực tiếp trong buổi tập cho thấy",
+    "textdich": ""
+  },
+  {
+    "start": 133.67,
+    "end": 135.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 133.68,
+    "end": 138.84,
+    "text": "mức tiêu hao năng lượng rơi vào khoảng",
+    "textdich": ""
+  },
+  {
+    "start": 135.55,
+    "end": 138.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 135.56,
+    "end": 141.44,
+    "text": "10 đến 12 calo mỗi phút. Đây là con số",
+    "textdich": ""
+  },
+  {
+    "start": 138.83,
+    "end": 141.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 138.84,
+    "end": 143.12,
+    "text": "đáng kể, tương đương chạy bộ nhịp vừa.",
+    "textdich": ""
+  },
+  {
+    "start": 141.43,
+    "end": 143.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 141.44,
+    "end": 145.72,
+    "text": "Tuy nhiên, chúng ta cần hiểu rõ điểm",
+    "textdich": ""
+  },
+  {
+    "start": 143.11,
+    "end": 145.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 143.12,
+    "end": 148.0,
+    "text": "này. Squad không phải bài đốt calo,",
+    "textdich": ""
+  },
+  {
+    "start": 145.71,
+    "end": 148.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 145.72,
+    "end": 150.44,
+    "text": "nhanh nhất trong mọi bài tập. Chạy bộ",
+    "textdich": ""
+  },
+  {
+    "start": 147.99,
+    "end": 150.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 148.0,
+    "end": 152.599,
+    "text": "tốc độ cao hay đạp xe cường độ lớn vẫn",
+    "textdich": ""
+  },
+  {
+    "start": 150.43,
+    "end": 152.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 150.44,
+    "end": 155.28,
+    "text": "có thể đốt nhiều hơn theo calo trên mỗi",
+    "textdich": ""
+  },
+  {
+    "start": 152.589,
+    "end": 155.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 152.599,
+    "end": 157.68,
+    "text": "phút. Điểm mạnh của squad nằm ở chỗ",
+    "textdich": ""
+  },
+  {
+    "start": 155.27,
+    "end": 157.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 155.28,
+    "end": 160.44,
+    "text": "khác. Điểm mạnh đó chính là tác động",
+    "textdich": ""
+  },
+  {
+    "start": 157.67,
+    "end": 160.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 157.68,
+    "end": 162.4,
+    "text": "kép. Vừa đốt calo trong buổi tập, vừa",
+    "textdich": ""
+  },
+  {
+    "start": 160.43,
+    "end": 162.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 160.44,
+    "end": 164.76,
+    "text": "tăng lượng calo cơ thể đốt khi nghỉ",
+    "textdich": ""
+  },
+  {
+    "start": 162.39,
+    "end": 164.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 162.4,
+    "end": 167.72,
+    "text": "ngơi. Đây là lợi thế mà chạy bộ đơn",
+    "textdich": ""
+  },
+  {
+    "start": 164.75,
+    "end": 167.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 164.76,
+    "end": 170.319,
+    "text": "thuần không có được. Mỗi kg cơ bắp tiêu",
+    "textdich": ""
+  },
+  {
+    "start": 167.71,
+    "end": 170.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 167.72,
+    "end": 172.959,
+    "text": "thụ khoảng 13 calo mỗi ngày, ngay cả khi",
+    "textdich": ""
+  },
+  {
+    "start": 170.309,
+    "end": 172.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 170.319,
+    "end": 175.959,
+    "text": "bạn không vận động. Trong khi 1 kg mỡ",
+    "textdich": ""
+  },
+  {
+    "start": 172.949,
+    "end": 175.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 172.959,
+    "end": 178.44,
+    "text": "chỉ tiêu thụ khoảng 4 đến 5 calo. Khi",
+    "textdich": ""
+  },
+  {
+    "start": 175.949,
+    "end": 178.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 175.959,
+    "end": 180.519,
+    "text": "squat giúp bạn tăng được thêm cơ, toàn",
+    "textdich": ""
+  },
+  {
+    "start": 178.43,
+    "end": 180.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 178.44,
+    "end": 182.84,
+    "text": "bộ quá trình chuyển hóa của cơ thể được",
+    "textdich": ""
+  },
+  {
+    "start": 180.509,
+    "end": 182.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 180.519,
+    "end": 185.36,
+    "text": "đẩy lên một mức cao hơn mỗi ngày không",
+    "textdich": ""
+  },
+  {
+    "start": 182.83,
+    "end": 185.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 182.84,
+    "end": 187.64,
+    "text": "chỉ trong giờ tập. Đây là lý do những",
+    "textdich": ""
+  },
+  {
+    "start": 185.35,
+    "end": 187.64,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 185.36,
+    "end": 190.0,
+    "text": "người tập squad đều và đúng cách thường",
+    "textdich": ""
+  },
+  {
+    "start": 187.63,
+    "end": 190.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 187.64,
+    "end": 192.879,
+    "text": "trở nên gọn hơn theo thời gian dù không",
+    "textdich": ""
+  },
+  {
+    "start": 189.99,
+    "end": 192.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 190.0,
+    "end": 195.0,
+    "text": "nhịn ăn kiêng khem. Ngoài ra còn có một",
+    "textdich": ""
+  },
+  {
+    "start": 192.869,
+    "end": 195.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 192.879,
+    "end": 197.879,
+    "text": "hiện tượng gọi là tiêu thụ oxy dư sau",
+    "textdich": ""
+  },
+  {
+    "start": 194.99,
+    "end": 197.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 195.0,
+    "end": 201.159,
+    "text": "tập. Sau một buổi squad nặng, cơ thể cần",
+    "textdich": ""
+  },
+  {
+    "start": 197.869,
+    "end": 201.159,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 197.879,
+    "end": 203.2,
+    "text": "thêm oxy để phục hồi, sửa chữa mô cơ,",
+    "textdich": ""
+  },
+  {
+    "start": 201.149,
+    "end": 203.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 201.159,
+    "end": 205.239,
+    "text": "tái lập nhiệt độ và các chất dẫn truyền",
+    "textdich": ""
+  },
+  {
+    "start": 203.19,
+    "end": 205.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 203.2,
+    "end": 207.2,
+    "text": "thần kinh. Quá  trình này khiến",
+    "textdich": ""
+  },
+  {
+    "start": 205.229,
+    "end": 207.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 205.239,
+    "end": 209.08,
+    "text": "cơ thể tiếp tục tiêu hao năng lượng",
+    "textdich": ""
+  },
+  {
+    "start": 207.19,
+    "end": 209.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 207.2,
+    "end": 211.799,
+    "text": "nhiều hơn bình thường trong nhiều giờ",
+    "textdich": ""
+  },
+  {
+    "start": 209.07,
+    "end": 211.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 209.08,
+    "end": 214.0,
+    "text": "sau khi bạn đã dừng tập. Các nghiên cứu",
+    "textdich": ""
+  },
+  {
+    "start": 211.789,
+    "end": 214.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 211.799,
+    "end": 215.84,
+    "text": "trên tạp chí khoa học thể thao đã đo",
+    "textdich": ""
+  },
+  {
+    "start": 213.99,
+    "end": 215.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 214.0,
+    "end": 219.4,
+    "text": "được mức tiêu hao này còn cao hơn đường",
+    "textdich": ""
+  },
+  {
+    "start": 215.83,
+    "end": 219.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 215.84,
+    "end": 221.56,
+    "text": "nền ở thời điểm 14 và thậm chí là 38 giờ",
+    "textdich": ""
+  },
+  {
+    "start": 219.39,
+    "end": 221.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 219.4,
+    "end": 224.239,
+    "text": "sau buổi tập cường độ cao. Tuy nhiên,",
+    "textdich": ""
+  },
+  {
+    "start": 221.55,
+    "end": 224.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 221.56,
+    "end": 226.959,
+    "text": "cần hiểu đúng lượng calo thêm vào từ",
+    "textdich": ""
+  },
+  {
+    "start": 224.229,
+    "end": 226.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 224.239,
+    "end": 229.519,
+    "text": "hiệu ứng này chỉ bằng khoảng 6 đến 15%",
+    "textdich": ""
+  },
+  {
+    "start": 226.949,
+    "end": 229.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 226.959,
+    "end": 232.04,
+    "text": "tổng calo đã đốt trong buổi tập. Không",
+    "textdich": ""
+  },
+  {
+    "start": 229.509,
+    "end": 232.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 229.519,
+    "end": 234.4,
+    "text": "phải con số khổng lồ nhưng cộng dồn qua",
+    "textdich": ""
+  },
+  {
+    "start": 232.03,
+    "end": 234.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 232.04,
+    "end": 237.079,
+    "text": "nhiều buổi tập và nhiều tuần thì có ý",
+    "textdich": ""
+  },
+  {
+    "start": 234.39,
+    "end": 237.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 234.4,
+    "end": 239.92,
+    "text": "nghĩa thực sự. Bây giờ chúng ta cùng đến",
+    "textdich": ""
+  },
+  {
+    "start": 237.069,
+    "end": 239.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 237.079,
+    "end": 243.28,
+    "text": "phần mà nhiều người không ngờ tới, đó là",
+    "textdich": ""
+  },
+  {
+    "start": 239.91,
+    "end": 243.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 239.92,
+    "end": 245.599,
+    "text": "tác động của Squad lên nội tiết tố. Năm",
+    "textdich": ""
+  },
+  {
+    "start": 243.27,
+    "end": 245.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 243.28,
+    "end": 248.84,
+    "text": "2014, nhóm nghiên cứu từ Đại học Bắc",
+    "textdich": ""
+  },
+  {
+    "start": 245.589,
+    "end": 248.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 245.599,
+    "end": 251.239,
+    "text": "Texas, Mỹ đã công bố nghiên cứu so sánh",
+    "textdich": ""
+  },
+  {
+    "start": 248.83,
+    "end": 251.239,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 248.84,
+    "end": 253.799,
+    "text": "phản ứng hormôn của hai nhóm nam giới,",
+    "textdich": ""
+  },
+  {
+    "start": 251.229,
+    "end": 253.799,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 251.239,
+    "end": 256.759,
+    "text": "thực hiện squad và máy đẩy chân với cùng",
+    "textdich": ""
+  },
+  {
+    "start": 253.789,
+    "end": 256.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 253.799,
+    "end": 260.16,
+    "text": "mức cường độ tương đối, 80% mức tạ tối",
+    "textdich": ""
+  },
+  {
+    "start": 256.749,
+    "end": 260.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 256.759,
+    "end": 263.04,
+    "text": "đa, sáu hiệp, 10 lần mỗi hiệp. Họ lấy",
+    "textdich": ""
+  },
+  {
+    "start": 260.15,
+    "end": 263.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 260.16,
+    "end": 266.12,
+    "text": "mẫu máu ngay sau khi tập 15 phút và 30",
+    "textdich": ""
+  },
+  {
+    "start": 263.03,
+    "end": 266.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 263.04,
+    "end": 269.52,
+    "text": "phút sau tập. Kết quả testosterone ngay",
+    "textdich": ""
+  },
+  {
+    "start": 266.11,
+    "end": 269.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 266.12,
+    "end": 272.039,
+    "text": "sau squash cao hơn 16,7% so với nhóm",
+    "textdich": ""
+  },
+  {
+    "start": 269.51,
+    "end": 272.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 269.52,
+    "end": 274.44,
+    "text": "dùng máy đẩy chân. Còn hormôn tăng",
+    "textdich": ""
+  },
+  {
+    "start": 272.029,
+    "end": 274.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 272.039,
+    "end": 276.84,
+    "text": "trưởng thì cách biệt lớn hơn nhiều, cao",
+    "textdich": ""
+  },
+  {
+    "start": 274.43,
+    "end": 276.84,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 274.44,
+    "end": 278.72,
+    "text": "hơn đến 239%",
+    "textdich": ""
+  },
+  {
+    "start": 276.83,
+    "end": 278.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 276.84,
+    "end": 281.44,
+    "text": "ngay sau buổi tập so với nhóm đẩy chân",
+    "textdich": ""
+  },
+  {
+    "start": 278.71,
+    "end": 281.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 278.72,
+    "end": 284.759,
+    "text": "máy. Nghiên cứu này được đăng trên",
+    "textdich": ""
+  },
+  {
+    "start": 281.43,
+    "end": 284.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 281.44,
+    "end": 286.8,
+    "text": "Journal of Strength ACing Research, một",
+    "textdich": ""
+  },
+  {
+    "start": 284.749,
+    "end": 286.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 284.759,
+    "end": 290.6,
+    "text": "trong những tạp chí khoa học uy tín nhất",
+    "textdich": ""
+  },
+  {
+    "start": 286.79,
+    "end": 290.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 286.8,
+    "end": 293.32,
+    "text": "trong lĩnh vực thể thao. Con số 16,7%",
+    "textdich": ""
+  },
+  {
+    "start": 290.59,
+    "end": 293.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 290.6,
+    "end": 295.88,
+    "text": "là số thật, có trong bảng dữ liệu gốc,",
+    "textdich": ""
+  },
+  {
+    "start": 293.31,
+    "end": 295.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 293.32,
+    "end": 297.96,
+    "text": "không phải ước chừng. Điều cần hiểu rõ",
+    "textdich": ""
+  },
+  {
+    "start": 295.87,
+    "end": 297.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 295.88,
+    "end": 300.32,
+    "text": "là phản ứng hormôn này mang tính ngắn",
+    "textdich": ""
+  },
+  {
+    "start": 297.95,
+    "end": 300.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 297.96,
+    "end": 303.44,
+    "text": "hạn, đo trong vòng vài chục phút sau",
+    "textdich": ""
+  },
+  {
+    "start": 300.31,
+    "end": 303.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 300.32,
+    "end": 305.88,
+    "text": "tập. Nhưng đây không phải điều vô nghĩa.",
+    "textdich": ""
+  },
+  {
+    "start": 303.43,
+    "end": 305.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 303.44,
+    "end": 307.96,
+    "text": "Testosterone và hormôn tăng trưởng trong",
+    "textdich": ""
+  },
+  {
+    "start": 305.87,
+    "end": 307.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 305.88,
+    "end": 309.8,
+    "text": "giai đoạn này kích hoạt trực tiếp các",
+    "textdich": ""
+  },
+  {
+    "start": 307.95,
+    "end": 309.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 307.96,
+    "end": 312.4,
+    "text": "gen chịu trách nhiệm tổng hợp protein",
+    "textdich": ""
+  },
+  {
+    "start": 309.79,
+    "end": 312.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 309.8,
+    "end": 314.28,
+    "text": "trong cơ. Tức là những giờ sau buổi",
+    "textdich": ""
+  },
+  {
+    "start": 312.39,
+    "end": 314.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 312.4,
+    "end": 316.72,
+    "text": "squat chính là lúc cơ thể đang trong",
+    "textdich": ""
+  },
+  {
+    "start": 314.27,
+    "end": 316.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 314.28,
+    "end": 319.199,
+    "text": "trạng thái phục hồi và xây dựng cơ bắp",
+    "textdich": ""
+  },
+  {
+    "start": 316.71,
+    "end": 319.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 316.72,
+    "end": 321.4,
+    "text": "tích cực nhất. Đây là lý do tại sao",
+    "textdich": ""
+  },
+  {
+    "start": 319.189,
+    "end": 321.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 319.199,
+    "end": 323.479,
+    "text": "Squad được xem là bài tập nền tảng trong",
+    "textdich": ""
+  },
+  {
+    "start": 321.39,
+    "end": 323.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 321.4,
+    "end": 325.72,
+    "text": "hầu hết. Các chương trình tập sức mạnh",
+    "textdich": ""
+  },
+  {
+    "start": 323.469,
+    "end": 325.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 323.479,
+    "end": 328.479,
+    "text": "nghiêm túc. không phân biệt độ tuổi hay",
+    "textdich": ""
+  },
+  {
+    "start": 325.71,
+    "end": 328.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 325.72,
+    "end": 330.52,
+    "text": "giới tính. Tiếp theo là tác động lên hệ",
+    "textdich": ""
+  },
+  {
+    "start": 328.469,
+    "end": 330.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 328.479,
+    "end": 333.16,
+    "text": "xương, điều đặc biệt quan trọng với",
+    "textdich": ""
+  },
+  {
+    "start": 330.51,
+    "end": 333.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 330.52,
+    "end": 335.8,
+    "text": "người trên 35 tuổi. Khối lượng xương đạt",
+    "textdich": ""
+  },
+  {
+    "start": 333.15,
+    "end": 335.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 333.16,
+    "end": 339.0,
+    "text": "đỉnh vào khoảng 20 đến 30 tuổi và bắt",
+    "textdich": ""
+  },
+  {
+    "start": 335.79,
+    "end": 339.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 335.8,
+    "end": 340.68,
+    "text": "đầu suy giảm dần sau đó. Sau tuổi 35,",
+    "textdich": ""
+  },
+  {
+    "start": 338.99,
+    "end": 340.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 339.0,
+    "end": 343.4,
+    "text": "quá trình mất xương tự nhiên này tăng",
+    "textdich": ""
+  },
+  {
+    "start": 340.67,
+    "end": 343.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 340.68,
+    "end": 346.12,
+    "text": "tốc nếu không có biện pháp can thiệp.",
+    "textdich": ""
+  },
+  {
+    "start": 343.39,
+    "end": 346.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 343.4,
+    "end": 347.96,
+    "text": "Squat là bài tập chịu tải trọng, tức là",
+    "textdich": ""
+  },
+  {
+    "start": 346.11,
+    "end": 347.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 346.12,
+    "end": 350.4,
+    "text": "xương phải chịu áp lực trong suốt quá",
+    "textdich": ""
+  },
+  {
+    "start": 347.95,
+    "end": 350.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 347.96,
+    "end": 352.44,
+    "text": "trình thực hiện động tác. Áp lực cơ học",
+    "textdich": ""
+  },
+  {
+    "start": 350.39,
+    "end": 352.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 350.4,
+    "end": 354.96,
+    "text": "này kích thích các tế bào tạo xương hoạt",
+    "textdich": ""
+  },
+  {
+    "start": 352.43,
+    "end": 354.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 352.44,
+    "end": 357.639,
+    "text": "động, làm chậm và phần nào đảo ngược quá",
+    "textdich": ""
+  },
+  {
+    "start": 354.95,
+    "end": 357.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 354.96,
+    "end": 359.919,
+    "text": "trình mất mật độ xương. Các tổ chức y tế",
+    "textdich": ""
+  },
+  {
+    "start": 357.629,
+    "end": 359.919,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 357.639,
+    "end": 362.319,
+    "text": "như quỹ loãng xương quốc gia Mỹ và tổ",
+    "textdich": ""
+  },
+  {
+    "start": 359.909,
+    "end": 362.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 359.919,
+    "end": 364.24,
+    "text": "chức y tế thế giới đều đưa các bài tập",
+    "textdich": ""
+  },
+  {
+    "start": 362.309,
+    "end": 364.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 362.319,
+    "end": 366.12,
+    "text": "chịu tải trọng như squad vào danh sách",
+    "textdich": ""
+  },
+  {
+    "start": 364.23,
+    "end": 366.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 364.24,
+    "end": 369.8,
+    "text": "khuyến nghị hàng đầu để phòng ngừa loãng",
+    "textdich": ""
+  },
+  {
+    "start": 366.11,
+    "end": 369.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 366.12,
+    "end": 371.72,
+    "text": "xương, đặc biệt cho phụ nữ sau tuổi 40.",
+    "textdich": ""
+  },
+  {
+    "start": 369.79,
+    "end": 371.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 369.8,
+    "end": 374.68,
+    "text": "Một điểm thường bị hiểu lầm là tác động",
+    "textdich": ""
+  },
+  {
+    "start": 371.71,
+    "end": 374.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 371.72,
+    "end": 377.199,
+    "text": "của squat lên cột sống và tư thế. Nhiều",
+    "textdich": ""
+  },
+  {
+    "start": 374.67,
+    "end": 377.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 374.68,
+    "end": 379.4,
+    "text": "người nghe đến squat là lo đau lưng.",
+    "textdich": ""
+  },
+  {
+    "start": 377.189,
+    "end": 379.4,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 377.199,
+    "end": 381.52,
+    "text": "Thực ra khi thực hiện đúng kỹ thuật,",
+    "textdich": ""
+  },
+  {
+    "start": 379.39,
+    "end": 381.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 379.4,
+    "end": 384.599,
+    "text": "Squad lại là bài tập củng cố cột sống",
+    "textdich": ""
+  },
+  {
+    "start": 381.51,
+    "end": 384.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 381.52,
+    "end": 388.039,
+    "text": "rất hiệu quả. Một nghiên cứu năm 2018",
+    "textdich": ""
+  },
+  {
+    "start": 384.589,
+    "end": 388.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 384.599,
+    "end": 389.88,
+    "text": "của Vanenta Tila và Cer Ben đo hoạt động",
+    "textdich": ""
+  },
+  {
+    "start": 388.029,
+    "end": 389.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 388.039,
+    "end": 392.56,
+    "text": "điện cơ của nhóm cơ dựng cột sống trong",
+    "textdich": ""
+  },
+  {
+    "start": 389.87,
+    "end": 392.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 389.88,
+    "end": 394.8,
+    "text": "squad tạ đòn so với bài plank và nhận",
+    "textdich": ""
+  },
+  {
+    "start": 392.55,
+    "end": 394.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 392.56,
+    "end": 398.52,
+    "text": "thấy squad kích hoạt nhóm cơ này mạnh",
+    "textdich": ""
+  },
+  {
+    "start": 394.79,
+    "end": 398.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 394.8,
+    "end": 400.639,
+    "text": "hơn đáng kể. Cần nói rõ thêm Plank vẫn",
+    "textdich": ""
+  },
+  {
+    "start": 398.51,
+    "end": 400.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 398.52,
+    "end": 403.12,
+    "text": "cô lập cơ bụng thẳng và cơ ngang bụng",
+    "textdich": ""
+  },
+  {
+    "start": 400.629,
+    "end": 403.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 400.639,
+    "end": 405.599,
+    "text": "tốt hơn. Đây là hai bài tập bổ trợ cho",
+    "textdich": ""
+  },
+  {
+    "start": 403.11,
+    "end": 405.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 403.12,
+    "end": 408.0,
+    "text": "nhau, không phải thay thế nhau. Nhưng",
+    "textdich": ""
+  },
+  {
+    "start": 405.589,
+    "end": 408.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 405.599,
+    "end": 410.599,
+    "text": "khẳng định rằng squad là bài tập lõi rất",
+    "textdich": ""
+  },
+  {
+    "start": 407.99,
+    "end": 410.599,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 408.0,
+    "end": 413.199,
+    "text": "tốt thì hoàn toàn chính xác chứ không",
+    "textdich": ""
+  },
+  {
+    "start": 410.589,
+    "end": 413.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 410.599,
+    "end": 415.929,
+    "text": "chỉ là bài cho chân và mông. Tác động",
+    "textdich": ""
+  },
+  {
+    "start": 413.189,
+    "end": 415.929,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 413.199,
+    "end": 417.879,
+    "text": "lên tim mạch và hô hấp cũng rõ ràng. Khi",
+    "textdich": ""
+  },
+  {
+    "start": 415.919,
+    "end": 417.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 415.929,
+    "end": 420.24,
+    "text": " squat, tim phải bơm máu nhanh",
+    "textdich": ""
+  },
+  {
+    "start": 417.869,
+    "end": 420.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 417.879,
+    "end": 422.52,
+    "text": "hơn để cung cấp oxy cho các nhóm cơ lớn",
+    "textdich": ""
+  },
+  {
+    "start": 420.23,
+    "end": 422.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 420.24,
+    "end": 424.199,
+    "text": "đang làm việc. Đồng thời, phổi phải xử",
+    "textdich": ""
+  },
+  {
+    "start": 422.51,
+    "end": 424.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 422.52,
+    "end": 426.759,
+    "text": "lý lượng không khí lớn hơn trong từng",
+    "textdich": ""
+  },
+  {
+    "start": 424.189,
+    "end": 426.759,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 424.199,
+    "end": 429.639,
+    "text": "nhịp. Đây là hình thức luyện tập kết hợp",
+    "textdich": ""
+  },
+  {
+    "start": 426.749,
+    "end": 429.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 426.759,
+    "end": 431.879,
+    "text": "sức mạnh và hô hấp. Tuy nhiên, nếu mục",
+    "textdich": ""
+  },
+  {
+    "start": 429.629,
+    "end": 431.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 429.639,
+    "end": 435.039,
+    "text": "tiêu chính là cải thiện sức bền tim phổi",
+    "textdich": ""
+  },
+  {
+    "start": 431.869,
+    "end": 435.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 431.879,
+    "end": 437.479,
+    "text": "và tăng năng lực oxy tối đa, cardio vẫn",
+    "textdich": ""
+  },
+  {
+    "start": 435.029,
+    "end": 437.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 435.039,
+    "end": 439.72,
+    "text": "là phương pháp chuyên biệt hơn. Squad và",
+    "textdich": ""
+  },
+  {
+    "start": 437.469,
+    "end": 439.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 437.479,
+    "end": 442.12,
+    "text": "Cardio không phải đối lập mà là bổ trợ",
+    "textdich": ""
+  },
+  {
+    "start": 439.71,
+    "end": 442.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 439.72,
+    "end": 444.199,
+    "text": "cho nhau. Kết hợp hai phương pháp cho",
+    "textdich": ""
+  },
+  {
+    "start": 442.11,
+    "end": 444.199,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 442.12,
+    "end": 446.96,
+    "text": "kết quả toàn diện hơn bất kỳ phương pháp",
+    "textdich": ""
+  },
+  {
+    "start": 444.189,
+    "end": 446.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 444.199,
+    "end": 449.16,
+    "text": "đơn độc nào. Về cải thiện khả năng vận",
+    "textdich": ""
+  },
+  {
+    "start": 446.95,
+    "end": 449.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 446.96,
+    "end": 452.12,
+    "text": "động, người ngồi nhiều thường bị co cứng",
+    "textdich": ""
+  },
+  {
+    "start": 449.15,
+    "end": 452.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 449.16,
+    "end": 454.36,
+    "text": "cơ hông và mắt cá kém linh hoạt. Squat",
+    "textdich": ""
+  },
+  {
+    "start": 452.11,
+    "end": 454.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 452.12,
+    "end": 456.56,
+    "text": "đúng kỹ thuật yêu cầu không phải gập sâu",
+    "textdich": ""
+  },
+  {
+    "start": 454.35,
+    "end": 456.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 454.36,
+    "end": 458.96,
+    "text": "và mắt cá chân, phải giữ gót chân không",
+    "textdich": ""
+  },
+  {
+    "start": 456.55,
+    "end": 458.96,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 456.56,
+    "end": 461.319,
+    "text": "bị nhấc lên. Tập đều đặn giúp hai vùng",
+    "textdich": ""
+  },
+  {
+    "start": 458.95,
+    "end": 461.319,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 458.96,
+    "end": 463.56,
+    "text": "này mềm dẻo hơn theo thời gian. Nhiều",
+    "textdich": ""
+  },
+  {
+    "start": 461.309,
+    "end": 463.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 461.319,
+    "end": 465.56,
+    "text": "chuyên gia vật lý trị liệu sử dụng squat",
+    "textdich": ""
+  },
+  {
+    "start": 463.55,
+    "end": 465.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 463.56,
+    "end": 467.8,
+    "text": "thân dưới nhẹ như một phần trong liệu",
+    "textdich": ""
+  },
+  {
+    "start": 465.55,
+    "end": 467.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 465.56,
+    "end": 470.28,
+    "text": "trình phục hồi đau gối và đau hông mạn",
+    "textdich": ""
+  },
+  {
+    "start": 467.79,
+    "end": 470.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 467.8,
+    "end": 472.44,
+    "text": "tính với điều kiện không có tổn thương",
+    "textdich": ""
+  },
+  {
+    "start": 470.27,
+    "end": 472.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 470.28,
+    "end": 475.639,
+    "text": "cấu trúc nặng và người tập nắm đúng kỹ",
+    "textdich": ""
+  },
+  {
+    "start": 472.43,
+    "end": 475.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 472.44,
+    "end": 477.8,
+    "text": "thuật. Nói về kỹ thuật vì squat đúng và",
+    "textdich": ""
+  },
+  {
+    "start": 475.629,
+    "end": 477.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 475.639,
+    "end": 480.68,
+    "text": "squat sai tạo ra kết quả hoàn toàn khác",
+    "textdich": ""
+  },
+  {
+    "start": 477.79,
+    "end": 480.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 477.8,
+    "end": 483.28,
+    "text": "nhau. Squat kinh  điển đứng",
+    "textdich": ""
+  },
+  {
+    "start": 480.67,
+    "end": 483.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 480.68,
+    "end": 486.08,
+    "text": "thẳng, hai chân rộng bằng vai, mũi chân",
+    "textdich": ""
+  },
+  {
+    "start": 483.27,
+    "end": 486.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 483.28,
+    "end": 489.0,
+    "text": "xoay ra ngoài khoảng 15 đến 30 độ. Hít",
+    "textdich": ""
+  },
+  {
+    "start": 486.07,
+    "end": 489.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 486.08,
+    "end": 491.12,
+    "text": "vào, đẩy hông ra sau và xuống, gối gập",
+    "textdich": ""
+  },
+  {
+    "start": 488.99,
+    "end": 491.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 489.0,
+    "end": 493.52,
+    "text": "theo, lưng giữ thẳng với độ cong tự",
+    "textdich": ""
+  },
+  {
+    "start": 491.11,
+    "end": 493.52,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 491.12,
+    "end": 495.68,
+    "text": "nhiên ở thắt lưng. Hạ xuống đến khi đùi",
+    "textdich": ""
+  },
+  {
+    "start": 493.51,
+    "end": 495.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 493.52,
+    "end": 498.879,
+    "text": "xong song sàn hoặc thấp hơn nếu khớp",
+    "textdich": ""
+  },
+  {
+    "start": 495.67,
+    "end": 498.879,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 495.68,
+    "end": 501.28,
+    "text": "hông cho phép. Gót chân luôn chạm sàn.",
+    "textdich": ""
+  },
+  {
+    "start": 498.869,
+    "end": 501.28,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 498.879,
+    "end": 503.039,
+    "text": "Điểm cần chú ý đặc biệt là đầu gối không",
+    "textdich": ""
+  },
+  {
+    "start": 501.27,
+    "end": 503.039,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 501.28,
+    "end": 505.08,
+    "text": "được đổ vào trong khi ngồi xuống hay",
+    "textdich": ""
+  },
+  {
+    "start": 503.029,
+    "end": 505.08,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 503.039,
+    "end": 507.68,
+    "text": "đứng lên.  Lỗi này trong y học",
+    "textdich": ""
+  },
+  {
+    "start": 505.07,
+    "end": 507.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 505.08,
+    "end": 509.56,
+    "text": "thể thao gọi là Nivagus là nguyên nhân",
+    "textdich": ""
+  },
+  {
+    "start": 507.67,
+    "end": 509.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 507.68,
+    "end": 512.44,
+    "text": "phổ biến nhất gây tổn thương dây chằng",
+    "textdich": ""
+  },
+  {
+    "start": 509.55,
+    "end": 512.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 509.56,
+    "end": 515.399,
+    "text": "đầu gối khi tập squat. Thở ra khi đứng",
+    "textdich": ""
+  },
+  {
+    "start": 512.43,
+    "end": 515.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 512.44,
+    "end": 517.519,
+    "text": "dậy, hít vào khi đi xuống. Nguyên tắc",
+    "textdich": ""
+  },
+  {
+    "start": 515.389,
+    "end": 517.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 515.399,
+    "end": 520.399,
+    "text": "này áp dụng cho hầu hết mọi bài tập sức",
+    "textdich": ""
+  },
+  {
+    "start": 517.509,
+    "end": 520.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 517.519,
+    "end": 523.479,
+    "text": "mạnh, gắng sức khi thở ra, thả lỏng khi",
+    "textdich": ""
+  },
+  {
+    "start": 520.389,
+    "end": 523.479,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 520.399,
+    "end": 525.88,
+    "text": "hít vào. Ngoài squat kinh điển còn có",
+    "textdich": ""
+  },
+  {
+    "start": 523.469,
+    "end": 525.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 523.479,
+    "end": 528.16,
+    "text": "squat chân rộng, trong đó hai chân đứng",
+    "textdich": ""
+  },
+  {
+    "start": 525.87,
+    "end": 528.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 525.88,
+    "end": 530.92,
+    "text": "rộng hơn vai, mũi chân xoay theo đường",
+    "textdich": ""
+  },
+  {
+    "start": 528.15,
+    "end": 530.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 528.16,
+    "end": 533.72,
+    "text": "khoảng 45 độ. Kiểu này tập trung hơn vào",
+    "textdich": ""
+  },
+  {
+    "start": 530.91,
+    "end": 533.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 530.92,
+    "end": 536.519,
+    "text": "cơ mông và cơ khép háng ở mặt trong đùi.",
+    "textdich": ""
+  },
+  {
+    "start": 533.71,
+    "end": 536.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 533.72,
+    "end": 539.04,
+    "text": "Squat nhảy thêm yếu tố bùng nổ. Từ tư",
+    "textdich": ""
+  },
+  {
+    "start": 536.509,
+    "end": 539.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 536.519,
+    "end": 540.88,
+    "text": "thế squat thấp, bật mạnh lên khỏi sàn và",
+    "textdich": ""
+  },
+  {
+    "start": 539.03,
+    "end": 540.88,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 539.04,
+    "end": 543.12,
+    "text": "tiếp đất nhẹ rồi xuống ngay lập tức",
+    "textdich": ""
+  },
+  {
+    "start": 540.87,
+    "end": 543.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 540.88,
+    "end": 544.76,
+    "text": "không nghỉ. Đây là biến thể được dùng",
+    "textdich": ""
+  },
+  {
+    "start": 543.11,
+    "end": 544.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 543.12,
+    "end": 547.44,
+    "text": "nhiều trong huấn luyện thể lực cho vận",
+    "textdich": ""
+  },
+  {
+    "start": 544.75,
+    "end": 547.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 544.76,
+    "end": 549.56,
+    "text": "động viên bóng đá. Điền kinh cự ly ngắn",
+    "textdich": ""
+  },
+  {
+    "start": 547.43,
+    "end": 549.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 547.44,
+    "end": 552.04,
+    "text": "và các môn thể thao đòi hỏi tốc độ khởi",
+    "textdich": ""
+  },
+  {
+    "start": 549.55,
+    "end": 552.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 549.56,
+    "end": 554.399,
+    "text": "động nhanh. Về tiêu hao năng lượng,",
+    "textdich": ""
+  },
+  {
+    "start": 552.03,
+    "end": 554.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 552.04,
+    "end": 556.519,
+    "text": "Squad nhảy đốt nhiều calo hơn Squad Tĩnh",
+    "textdich": ""
+  },
+  {
+    "start": 554.389,
+    "end": 556.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 554.399,
+    "end": 559.0,
+    "text": "do đòi hỏi cơ thể huy động cả sợi cơ co",
+    "textdich": ""
+  },
+  {
+    "start": 556.509,
+    "end": 559.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 556.519,
+    "end": 561.32,
+    "text": "rút nhanh. Nhóm sợi cơ chịu trách nhiệm",
+    "textdich": ""
+  },
+  {
+    "start": 558.99,
+    "end": 561.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 559.0,
+    "end": 563.92,
+    "text": "cho những cử động bùng nổ. Với người mới",
+    "textdich": ""
+  },
+  {
+    "start": 561.31,
+    "end": 563.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 561.32,
+    "end": 566.12,
+    "text": "bắt đầu, Squat tự trọng lượng cơ thể",
+    "textdich": ""
+  },
+  {
+    "start": 563.91,
+    "end": 566.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 563.92,
+    "end": 568.36,
+    "text": "hoặc cầm tạ nhẹ trước ngực là lựa chọn",
+    "textdich": ""
+  },
+  {
+    "start": 566.11,
+    "end": 568.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 566.12,
+    "end": 570.6,
+    "text": "an toàn và đủ hiệu quả.",
+    "textdich": ""
+  },
+  {
+    "start": 568.35,
+    "end": 570.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 568.36,
+    "end": 572.36,
+    "text": "Squad tạ đòn trên vai là biến thể nặng",
+    "textdich": ""
+  },
+  {
+    "start": 570.59,
+    "end": 572.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 570.6,
+    "end": 575.04,
+    "text": "nhất và đòi hỏi kỹ thuật nghiêm ngặt",
+    "textdich": ""
+  },
+  {
+    "start": 572.35,
+    "end": 575.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 572.36,
+    "end": 577.68,
+    "text": "nhất. Với tạ đòn trên lưng, không chỉ",
+    "textdich": ""
+  },
+  {
+    "start": 575.03,
+    "end": 577.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 575.04,
+    "end": 579.48,
+    "text": "lực ép lên cột sống tăng lên mà yêu cầu",
+    "textdich": ""
+  },
+  {
+    "start": 577.67,
+    "end": 579.48,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 577.68,
+    "end": 582.519,
+    "text": "về kiểm soát kỹ thuật cũng cao hơn",
+    "textdich": ""
+  },
+  {
+    "start": 579.47,
+    "end": 582.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 579.48,
+    "end": 584.56,
+    "text": "nhiều. Đây là lý do squad tạ đòn nhất",
+    "textdich": ""
+  },
+  {
+    "start": 582.509,
+    "end": 584.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 582.519,
+    "end": 586.079,
+    "text": "thiết phải học dưới sự hướng dẫn trực",
+    "textdich": ""
+  },
+  {
+    "start": 584.55,
+    "end": 586.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 584.56,
+    "end": 588.68,
+    "text": "tiếp của người có chuyên môn trong giai",
+    "textdich": ""
+  },
+  {
+    "start": 586.069,
+    "end": 588.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 586.079,
+    "end": 591.279,
+    "text": "đoạn đầu. Một lỗi nhỏ về kỹ thuật khi",
+    "textdich": ""
+  },
+  {
+    "start": 588.67,
+    "end": 591.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 588.68,
+    "end": 594.12,
+    "text": "không tạ có thể chỉ gây mỏi cơ nhưng với",
+    "textdich": ""
+  },
+  {
+    "start": 591.269,
+    "end": 594.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 591.279,
+    "end": 596.56,
+    "text": "tạ nặng trên vai cùng lỗi đó có thể dẫn",
+    "textdich": ""
+  },
+  {
+    "start": 594.11,
+    "end": 596.56,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 594.12,
+    "end": 598.92,
+    "text": "đến chấn thương cột sống nghiêm trọng.",
+    "textdich": ""
+  },
+  {
+    "start": 596.55,
+    "end": 598.92,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 596.56,
+    "end": 600.839,
+    "text": "Tóm lại, không có nhiều bài tập nào mà",
+    "textdich": ""
+  },
+  {
+    "start": 598.91,
+    "end": 600.839,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 598.92,
+    "end": 603.399,
+    "text": "một động tác duy nhất có thể tác động",
+    "textdich": ""
+  },
+  {
+    "start": 600.829,
+    "end": 603.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 600.839,
+    "end": 605.76,
+    "text": "đồng thời đến cơ bắp, hệ xương, nội tiết",
+    "textdich": ""
+  },
+  {
+    "start": 603.389,
+    "end": 605.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 603.399,
+    "end": 608.04,
+    "text": "tố, khả năng vận động và quá trình",
+    "textdich": ""
+  },
+  {
+    "start": 605.75,
+    "end": 608.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 605.76,
+    "end": 611.44,
+    "text": "chuyển hóa như squat. Các con số khoa",
+    "textdich": ""
+  },
+  {
+    "start": 608.03,
+    "end": 611.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 608.04,
+    "end": 613.6,
+    "text": "học đứng sau điều này. 16,7%",
+    "textdich": ""
+  },
+  {
+    "start": 611.43,
+    "end": 613.6,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 611.44,
+    "end": 616.279,
+    "text": "testosterone cao hơn so với bài máy",
+    "textdich": ""
+  },
+  {
+    "start": 613.59,
+    "end": 616.279,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 613.6,
+    "end": 619.959,
+    "text": "tương đương, hormôn tăng trưởng cao hơn",
+    "textdich": ""
+  },
+  {
+    "start": 616.269,
+    "end": 619.959,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 616.279,
+    "end": 623.2,
+    "text": "239% ngay sau tập. Khoảng 10 đến 12 calo",
+    "textdich": ""
+  },
+  {
+    "start": 619.949,
+    "end": 623.2,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 619.959,
+    "end": 625.519,
+    "text": "tiêu hao mỗi phút ở cường độ cao. 223",
+    "textdich": ""
+  },
+  {
+    "start": 623.19,
+    "end": 625.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 623.2,
+    "end": 627.44,
+    "text": "calo trong 30 phút tập nặng và mức",
+    "textdich": ""
+  },
+  {
+    "start": 625.509,
+    "end": 627.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 625.519,
+    "end": 630.32,
+    "text": "chuyển hóa nền được nâng lên mỗi ngày",
+    "textdich": ""
+  },
+  {
+    "start": 627.43,
+    "end": 630.32,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 627.44,
+    "end": 632.44,
+    "text": "nhờ tăng cơ. Không phải bài tập thần kỳ,",
+    "textdich": ""
+  },
+  {
+    "start": 630.31,
+    "end": 632.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 630.32,
+    "end": 634.12,
+    "text": "không phải con đường tắt, nhưng là một",
+    "textdich": ""
+  },
+  {
+    "start": 632.43,
+    "end": 634.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 632.44,
+    "end": 636.36,
+    "text": "trong những bài tập có tỉ lệ lợi ích",
+    "textdich": ""
+  },
+  {
+    "start": 634.11,
+    "end": 636.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 634.12,
+    "end": 639.0,
+    "text": "trên thời gian tập cao nhất mà khoa học",
+    "textdich": ""
+  },
+  {
+    "start": 636.35,
+    "end": 639.0,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 636.36,
+    "end": 641.68,
+    "text": "hiện nay ghi nhận được. Và nếu bạn mới",
+    "textdich": ""
+  },
+  {
+    "start": 638.99,
+    "end": 641.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 639.0,
+    "end": 644.68,
+    "text": "bắt đầu, đừng cố squat 100 cái ngay từ",
+    "textdich": ""
+  },
+  {
+    "start": 641.67,
+    "end": 644.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 641.68,
+    "end": 647.639,
+    "text": "ngày đầu. Hãy bắt đầu với 10 đến 15 cái",
+    "textdich": ""
+  },
+  {
+    "start": 644.67,
+    "end": 647.639,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 644.68,
+    "end": 650.04,
+    "text": "mỗi hiệp, ba hiệp mỗi buổi, nghỉ 1 đến 2",
+    "textdich": ""
+  },
+  {
+    "start": 647.629,
+    "end": 650.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 647.639,
+    "end": 653.16,
+    "text": "phút giữa các hiệp, tập khoảng ba đến",
+    "textdich": ""
+  },
+  {
+    "start": 650.03,
+    "end": 653.16,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 650.04,
+    "end": 656.68,
+    "text": "bốn buổi mỗi tuần. Khi cơ thể quen dần,",
+    "textdich": ""
+  },
+  {
+    "start": 653.15,
+    "end": 656.68,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 653.16,
+    "end": 659.399,
+    "text": "bạn có thể tăng lên 50 rồi 70 và cuối",
+    "textdich": ""
+  },
+  {
+    "start": 656.67,
+    "end": 659.399,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 656.68,
+    "end": 661.76,
+    "text": "cùng là 100 cái mỗi ngày hoặc cách ngày",
+    "textdich": ""
+  },
+  {
+    "start": 659.389,
+    "end": 661.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 659.399,
+    "end": 664.04,
+    "text": "tùy khả năng hồi phục. Nếu bạn luôn cảm",
+    "textdich": ""
+  },
+  {
+    "start": 661.75,
+    "end": 664.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 661.76,
+    "end": 667.12,
+    "text": "thấy mỏi kéo dài, đó là dấu hiệu cần",
+    "textdich": ""
+  },
+  {
+    "start": 664.03,
+    "end": 667.12,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 664.04,
+    "end": 669.76,
+    "text": "giảm lại. Nếu mục tiêu là tăng cơ, thay",
+    "textdich": ""
+  },
+  {
+    "start": 667.11,
+    "end": 669.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 667.12,
+    "end": 672.44,
+    "text": "vì tập nhiều lần, hãy tập ít hơn nhưng",
+    "textdich": ""
+  },
+  {
+    "start": 669.75,
+    "end": 672.44,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 669.76,
+    "end": 675.24,
+    "text": "thêm tạ giữ số lần trong khoảng 6 đến 12",
+    "textdich": ""
+  },
+  {
+    "start": 672.43,
+    "end": 675.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 672.44,
+    "end": 677.36,
+    "text": "mỗi hiệp. Quan trọng  nhất, đau",
+    "textdich": ""
+  },
+  {
+    "start": 675.23,
+    "end": 677.36,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 675.24,
+    "end": 679.519,
+    "text": "nhức cơ sau khi tập là bình thường.",
+    "textdich": ""
+  },
+  {
+    "start": 677.35,
+    "end": 679.519,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 677.36,
+    "end": 682.04,
+    "text": "Nhưng nếu bạn thấy đau nhói ở khớp gối",
+    "textdich": ""
+  },
+  {
+    "start": 679.509,
+    "end": 682.04,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 679.519,
+    "end": 684.72,
+    "text": "hoặc lưng dưới, hãy dừng lại và kiểm tra",
+    "textdich": ""
+  },
+  {
+    "start": 682.03,
+    "end": 684.72,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 682.04,
+    "end": 687.079,
+    "text": "kỹ thuật, không cố tập tiếp. Nếu nội",
+    "textdich": ""
+  },
+  {
+    "start": 684.71,
+    "end": 687.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 684.72,
+    "end": 689.24,
+    "text": "dung hôm nay giúp ích cho bạn, đừng quên",
+    "textdich": ""
+  },
+  {
+    "start": 687.069,
+    "end": 689.24,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 687.079,
+    "end": 692.079,
+    "text": "nhấn đăng ký và chia sẻ đến những người",
+    "textdich": ""
+  },
+  {
+    "start": 689.23,
+    "end": 692.079,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 689.24,
+    "end": 694.76,
+    "text": "cũng yêu thích Squad như chúng ta. Cảm",
+    "textdich": ""
+  },
+  {
+    "start": 692.069,
+    "end": 694.76,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 692.079,
+    "end": 697.8,
+    "text": "ơn bạn đã xem hết video hôm nay. Xin",
+    "textdich": ""
+  },
+  {
+    "start": 694.75,
+    "end": 697.8,
+    "text": "",
+    "textdich": ""
+  },
+  {
+    "start": 694.76,
+    "end": 697.8,
+    "text": "chào và hẹn gặp lại.",
+    "textdich": ""
+  }
+]
