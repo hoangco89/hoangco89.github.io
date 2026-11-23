@@ -243,7 +243,7 @@ async function taomenu_selectVideo(id_ofcddc){
             data.forEach((item, index) => {
                 const option = document.createElement("option");
                 option.value = item['id'];
-                option.textContent = index + ". " + item['title'];
+                option.textContent = (1+index) + ". " + item['title'];
                 selectVideo.appendChild(option);
             });
             restoreVideo(selectChude.value);
